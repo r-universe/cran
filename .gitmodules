@@ -308,9 +308,6 @@
 [submodule "AROC"]
 	path = AROC
 	url = https://github.com/cran/AROC
-[submodule "ARPALData"]
-	path = ARPALData
-	url = https://github.com/cran/ARPALData
 [submodule "ARPobservation"]
 	path = ARPobservation
 	url = https://github.com/cran/ARPobservation
@@ -12593,15 +12590,9 @@
 [submodule "RKEAjars"]
 	path = RKEAjars
 	url = https://github.com/cran/RKEAjars
-[submodule "RKEEL"]
-	path = RKEEL
-	url = https://github.com/cran/RKEEL
 [submodule "RKEELdata"]
 	path = RKEELdata
 	url = https://github.com/cran/RKEELdata
-[submodule "RKEELjars"]
-	path = RKEELjars
-	url = https://github.com/cran/RKEELjars
 [submodule "RKHSMetaMod"]
 	path = RKHSMetaMod
 	url = https://github.com/cran/RKHSMetaMod
@@ -13127,9 +13118,6 @@
 [submodule "RSmartlyIO"]
 	path = RSmartlyIO
 	url = https://github.com/cran/RSmartlyIO
-[submodule "RSocrata"]
-	path = RSocrata
-	url = https://github.com/cran/RSocrata
 [submodule "RSpectra"]
 	path = RSpectra
 	url = https://github.com/cran/RSpectra
@@ -46556,9 +46544,6 @@
 [submodule "prozor"]
 	path = prozor
 	url = https://github.com/cran/prozor
-[submodule "prqlr"]
-	path = prqlr
-	url = https://github.com/cran/prqlr
 [submodule "prrd"]
 	path = prrd
 	url = https://github.com/cran/prrd
@@ -60068,9 +60053,6 @@
 [submodule "yll"]
 	path = yll
 	url = https://github.com/cran/yll
-[submodule "ymd"]
-	path = ymd
-	url = https://github.com/cran/ymd
 [submodule "ymlthis"]
 	path = ymlthis
 	url = https://github.com/cran/ymlthis
