@@ -13721,6 +13721,9 @@
 [submodule "ReIns"]
 	path = ReIns
 	url = https://github.com/cran/ReIns
+[submodule "ReMFPCA"]
+	path = ReMFPCA
+	url = https://github.com/cran/ReMFPCA
 [submodule "ReacTran"]
 	path = ReacTran
 	url = https://github.com/cran/ReacTran
