@@ -314,9 +314,6 @@
 [submodule "ART"]
 	path = ART
 	url = https://github.com/cran/ART
-[submodule "ARTP2"]
-	path = ARTP2
-	url = https://github.com/cran/ARTP2
 [submodule "ARTofR"]
 	path = ARTofR
 	url = https://github.com/cran/ARTofR
@@ -33266,9 +33263,6 @@
 [submodule "hds"]
 	path = hds
 	url = https://github.com/cran/hds
-[submodule "hdtg"]
-	path = hdtg
-	url = https://github.com/cran/hdtg
 [submodule "headliner"]
 	path = headliner
 	url = https://github.com/cran/headliner
