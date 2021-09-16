@@ -7226,6 +7226,9 @@
 [submodule "IncomPair"]
 	path = IncomPair
 	url = https://github.com/cran/IncomPair
+[submodule "IndGenErrors"]
+	path = IndGenErrors
+	url = https://github.com/cran/IndGenErrors
 [submodule "IndTestPP"]
 	path = IndTestPP
 	url = https://github.com/cran/IndTestPP
@@ -7868,6 +7871,9 @@
 [submodule "LNIRT"]
 	path = LNIRT
 	url = https://github.com/cran/LNIRT
+[submodule "LNPar"]
+	path = LNPar
+	url = https://github.com/cran/LNPar
 [submodule "LOCUS"]
 	path = LOCUS
 	url = https://github.com/cran/LOCUS
@@ -13700,6 +13706,9 @@
 [submodule "Rduinoiot"]
 	path = Rduinoiot
 	url = https://github.com/cran/Rduinoiot
+[submodule "ReAD"]
+	path = ReAD
+	url = https://github.com/cran/ReAD
 [submodule "ReDaMoR"]
 	path = ReDaMoR
 	url = https://github.com/cran/ReDaMoR
@@ -14807,9 +14816,6 @@
 [submodule "SNSequate"]
 	path = SNSequate
 	url = https://github.com/cran/SNSequate
-[submodule "SNscan"]
-	path = SNscan
-	url = https://github.com/cran/SNscan
 [submodule "SOAR"]
 	path = SOAR
 	url = https://github.com/cran/SOAR
@@ -23774,6 +23780,9 @@
 [submodule "corrDNA"]
 	path = corrDNA
 	url = https://github.com/cran/corrDNA
+[submodule "corrViz"]
+	path = corrViz
+	url = https://github.com/cran/corrViz
 [submodule "corrarray"]
 	path = corrarray
 	url = https://github.com/cran/corrarray
@@ -24815,6 +24824,9 @@
 [submodule "daiquiri"]
 	path = daiquiri
 	url = https://github.com/cran/daiquiri
+[submodule "daltoolbox"]
+	path = daltoolbox
+	url = https://github.com/cran/daltoolbox
 [submodule "dam"]
 	path = dam
 	url = https://github.com/cran/dam
@@ -26465,6 +26477,9 @@
 [submodule "dprint"]
 	path = dprint
 	url = https://github.com/cran/dprint
+[submodule "dprop"]
+	path = dprop
+	url = https://github.com/cran/dprop
 [submodule "dpseg"]
 	path = dpseg
 	url = https://github.com/cran/dpseg
@@ -40046,6 +40061,9 @@
 [submodule "modelObj"]
 	path = modelObj
 	url = https://github.com/cran/modelObj
+[submodule "modelSSE"]
+	path = modelSSE
+	url = https://github.com/cran/modelSSE
 [submodule "modelStudio"]
 	path = modelStudio
 	url = https://github.com/cran/modelStudio
@@ -41504,9 +41522,6 @@
 [submodule "nets"]
 	path = nets
 	url = https://github.com/cran/nets
-[submodule "netseg"]
-	path = netseg
-	url = https://github.com/cran/netseg
 [submodule "netstat"]
 	path = netstat
 	url = https://github.com/cran/netstat
@@ -48665,6 +48680,9 @@
 [submodule "restatapi"]
 	path = restatapi
 	url = https://github.com/cran/restatapi
+[submodule "restatis"]
+	path = restatis
+	url = https://github.com/cran/restatis
 [submodule "restaurant"]
 	path = restaurant
 	url = https://github.com/cran/restaurant
@@ -49064,6 +49082,9 @@
 [submodule "ripserr"]
 	path = ripserr
 	url = https://github.com/cran/ripserr
+[submodule "rirods"]
+	path = rirods
+	url = https://github.com/cran/rirods
 [submodule "rise"]
 	path = rise
 	url = https://github.com/cran/rise
