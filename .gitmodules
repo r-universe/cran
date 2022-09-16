@@ -14543,6 +14543,9 @@
 [submodule "SEAHORS"]
 	path = SEAHORS
 	url = https://github.com/cran/SEAHORS
+[submodule "SEARS"]
+	path = SEARS
+	url = https://github.com/cran/SEARS
 [submodule "SECFISH"]
 	path = SECFISH
 	url = https://github.com/cran/SECFISH
@@ -25082,6 +25085,9 @@
 [submodule "dbWebForms"]
 	path = dbWebForms
 	url = https://github.com/cran/dbWebForms
+[submodule "dbacf"]
+	path = dbacf
+	url = https://github.com/cran/dbacf
 [submodule "dbarts"]
 	path = dbarts
 	url = https://github.com/cran/dbarts
@@ -39392,6 +39398,9 @@
 [submodule "minimaxdesign"]
 	path = minimaxdesign
 	url = https://github.com/cran/minimaxdesign
+[submodule "minioclient"]
+	path = minioclient
+	url = https://github.com/cran/minioclient
 [submodule "minpack.lm"]
 	path = minpack.lm
 	url = https://github.com/cran/minpack.lm
