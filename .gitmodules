@@ -34385,9 +34385,6 @@
 [submodule "idm"]
 	path = idm
 	url = https://github.com/cran/idm
-[submodule "idmTPreg"]
-	path = idmTPreg
-	url = https://github.com/cran/idmTPreg
 [submodule "idmact"]
 	path = idmact
 	url = https://github.com/cran/idmact
@@ -40877,9 +40874,6 @@
 [submodule "multxpert"]
 	path = multxpert
 	url = https://github.com/cran/multxpert
-[submodule "mumm"]
-	path = mumm
-	url = https://github.com/cran/mumm
 [submodule "munfold"]
 	path = munfold
 	url = https://github.com/cran/munfold
