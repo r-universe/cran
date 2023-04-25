@@ -29411,6 +29411,9 @@
 [submodule "fixedTimeEvents"]
 	path = fixedTimeEvents
 	url = https://github.com/cran/fixedTimeEvents
+[submodule "fixedincome"]
+	path = fixedincome
+	url = https://github.com/cran/fixedincome
 [submodule "fixedpointproperty"]
 	path = fixedpointproperty
 	url = https://github.com/cran/fixedpointproperty
