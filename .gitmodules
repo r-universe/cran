@@ -41378,6 +41378,9 @@
 [submodule "neo4r"]
 	path = neo4r
 	url = https://github.com/cran/neo4r
+[submodule "neojags"]
+	path = neojags
+	url = https://github.com/cran/neojags
 [submodule "neonOS"]
 	path = neonOS
 	url = https://github.com/cran/neonOS
@@ -50015,6 +50018,9 @@
 [submodule "rsm"]
 	path = rsm
 	url = https://github.com/cran/rsm
+[submodule "rsmatch"]
+	path = rsmatch
+	url = https://github.com/cran/rsmatch
 [submodule "rsmatrix"]
 	path = rsmatrix
 	url = https://github.com/cran/rsmatrix
@@ -54047,6 +54053,9 @@
 [submodule "sregsurvey"]
 	path = sregsurvey
 	url = https://github.com/cran/sregsurvey
+[submodule "srlars"]
+	path = srlars
+	url = https://github.com/cran/srlars
 [submodule "srm"]
 	path = srm
 	url = https://github.com/cran/srm
