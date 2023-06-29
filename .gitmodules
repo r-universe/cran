@@ -13802,6 +13802,9 @@
 [submodule "RepaymentPlan"]
 	path = RepaymentPlan
 	url = https://github.com/cran/RepaymentPlan
+[submodule "RepeatedHighDim"]
+	path = RepeatedHighDim
+	url = https://github.com/cran/RepeatedHighDim
 [submodule "RepertoiR"]
 	path = RepertoiR
 	url = https://github.com/cran/RepertoiR
