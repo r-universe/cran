@@ -39683,6 +39683,9 @@
 [submodule "mizer"]
 	path = mizer
 	url = https://github.com/cran/mizer
+[submodule "mkde"]
+	path = mkde
+	url = https://github.com/cran/mkde
 [submodule "mkin"]
 	path = mkin
 	url = https://github.com/cran/mkin
