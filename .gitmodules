@@ -30446,6 +30446,9 @@
 [submodule "gains"]
 	path = gains
 	url = https://github.com/cran/gains
+[submodule "galah"]
+	path = galah
+	url = https://github.com/cran/galah
 [submodule "galigor"]
 	path = galigor
 	url = https://github.com/cran/galigor
