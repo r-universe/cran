@@ -16226,9 +16226,6 @@
 [submodule "TCIApathfinder"]
 	path = TCIApathfinder
 	url = https://github.com/cran/TCIApathfinder
-[submodule "TCIU"]
-	path = TCIU
-	url = https://github.com/cran/TCIU
 [submodule "TDA"]
 	path = TDA
 	url = https://github.com/cran/TDA
