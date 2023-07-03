@@ -4526,6 +4526,9 @@
 [submodule "EleChemr"]
 	path = EleChemr
 	url = https://github.com/cran/EleChemr
+[submodule "Elja"]
+	path = Elja
+	url = https://github.com/cran/Elja
 [submodule "ElliptCopulas"]
 	path = ElliptCopulas
 	url = https://github.com/cran/ElliptCopulas
@@ -15206,6 +15209,9 @@
 [submodule "ScriptMapR"]
 	path = ScriptMapR
 	url = https://github.com/cran/ScriptMapR
+[submodule "SeBR"]
+	path = SeBR
+	url = https://github.com/cran/SeBR
 [submodule "SearchTrees"]
 	path = SearchTrees
 	url = https://github.com/cran/SearchTrees
@@ -23537,6 +23543,9 @@
 [submodule "conquestr"]
 	path = conquestr
 	url = https://github.com/cran/conquestr
+[submodule "conrad"]
+	path = conrad
+	url = https://github.com/cran/conrad
 [submodule "conserveR"]
 	path = conserveR
 	url = https://github.com/cran/conserveR
@@ -42614,6 +42623,9 @@
 [submodule "omics"]
 	path = omics
 	url = https://github.com/cran/omics
+[submodule "omicsTools"]
+	path = omicsTools
+	url = https://github.com/cran/omicsTools
 [submodule "omicwas"]
 	path = omicwas
 	url = https://github.com/cran/omicwas
