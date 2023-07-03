@@ -29477,9 +29477,6 @@
 [submodule "flashlight"]
 	path = flashlight
 	url = https://github.com/cran/flashlight
-[submodule "flashlighttext"]
-	path = flashlighttext
-	url = https://github.com/cran/flashlighttext
 [submodule "flashr"]
 	path = flashr
 	url = https://github.com/cran/flashr
