@@ -1538,9 +1538,6 @@
 [submodule "BiSEp"]
 	path = BiSEp
 	url = https://github.com/cran/BiSEp
-[submodule "BiTrinA"]
-	path = BiTrinA
-	url = https://github.com/cran/BiTrinA
 [submodule "BiasCorrector"]
 	path = BiasCorrector
 	url = https://github.com/cran/BiasCorrector
@@ -4955,9 +4952,6 @@
 [submodule "FGLMtrunc"]
 	path = FGLMtrunc
 	url = https://github.com/cran/FGLMtrunc
-[submodule "FGSG"]
-	path = FGSG
-	url = https://github.com/cran/FGSG
 [submodule "FGalgorithm"]
 	path = FGalgorithm
 	url = https://github.com/cran/FGalgorithm
@@ -11930,9 +11924,6 @@
 [submodule "Quartet"]
 	path = Quartet
 	url = https://github.com/cran/Quartet
-[submodule "QuasiSeq"]
-	path = QuasiSeq
-	url = https://github.com/cran/QuasiSeq
 [submodule "QuickJSR"]
 	path = QuickJSR
 	url = https://github.com/cran/QuickJSR
@@ -13190,9 +13181,6 @@
 [submodule "RaMS"]
 	path = RaMS
 	url = https://github.com/cran/RaMS
-[submodule "RaProR"]
-	path = RaProR
-	url = https://github.com/cran/RaProR
 [submodule "RaSEn"]
 	path = RaSEn
 	url = https://github.com/cran/RaSEn
@@ -21176,9 +21164,6 @@
 [submodule "brokenstick"]
 	path = brokenstick
 	url = https://github.com/cran/brokenstick
-[submodule "brolgar"]
-	path = brolgar
-	url = https://github.com/cran/brolgar
 [submodule "broman"]
 	path = broman
 	url = https://github.com/cran/broman
@@ -25019,9 +25004,6 @@
 [submodule "datastepr"]
 	path = datastepr
 	url = https://github.com/cran/datastepr
-[submodule "datastructures"]
-	path = datastructures
-	url = https://github.com/cran/datastructures
 [submodule "dataverifyr"]
 	path = dataverifyr
 	url = https://github.com/cran/dataverifyr
@@ -25517,9 +25499,6 @@
 [submodule "depthTools"]
 	path = depthTools
 	url = https://github.com/cran/depthTools
-[submodule "dequer"]
-	path = dequer
-	url = https://github.com/cran/dequer
 [submodule "derivmkts"]
 	path = derivmkts
 	url = https://github.com/cran/derivmkts
@@ -27680,9 +27659,6 @@
 [submodule "enrichwith"]
 	path = enrichwith
 	url = https://github.com/cran/enrichwith
-[submodule "ensModelVis"]
-	path = ensModelVis
-	url = https://github.com/cran/ensModelVis
 [submodule "ensemblQueryR"]
 	path = ensemblQueryR
 	url = https://github.com/cran/ensemblQueryR
@@ -32588,9 +32564,6 @@
 [submodule "gratis"]
 	path = gratis
 	url = https://github.com/cran/gratis
-[submodule "grattan"]
-	path = grattan
-	url = https://github.com/cran/grattan
 [submodule "grattanInflators"]
 	path = grattanInflators
 	url = https://github.com/cran/grattanInflators
@@ -49082,9 +49055,6 @@
 [submodule "rioja"]
 	path = rioja
 	url = https://github.com/cran/rioja
-[submodule "riot"]
-	path = riot
-	url = https://github.com/cran/riot
 [submodule "ripserr"]
 	path = ripserr
 	url = https://github.com/cran/ripserr
@@ -49985,9 +49955,6 @@
 [submodule "rscc"]
 	path = rscc
 	url = https://github.com/cran/rscc
-[submodule "rscimark"]
-	path = rscimark
-	url = https://github.com/cran/rscimark
 [submodule "rsconnect"]
 	path = rsconnect
 	url = https://github.com/cran/rsconnect
@@ -50693,9 +50660,6 @@
 [submodule "samc"]
 	path = samc
 	url = https://github.com/cran/samc
-[submodule "samon"]
-	path = samon
-	url = https://github.com/cran/samon
 [submodule "sampleSelection"]
 	path = sampleSelection
 	url = https://github.com/cran/sampleSelection
@@ -58136,9 +58100,6 @@
 [submodule "vdiffr"]
 	path = vdiffr
 	url = https://github.com/cran/vdiffr
-[submodule "vdra"]
-	path = vdra
-	url = https://github.com/cran/vdra
 [submodule "vec2dtransf"]
 	path = vec2dtransf
 	url = https://github.com/cran/vec2dtransf
