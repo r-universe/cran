@@ -35579,6 +35579,9 @@
 [submodule "jlmerclusterperm"]
 	path = jlmerclusterperm
 	url = https://github.com/cran/jlmerclusterperm
+[submodule "jlsm"]
+	path = jlsm
+	url = https://github.com/cran/jlsm
 [submodule "jmBIG"]
 	path = jmBIG
 	url = https://github.com/cran/jmBIG
@@ -37721,6 +37724,9 @@
 [submodule "lvec"]
 	path = lvec
 	url = https://github.com/cran/lvec
+[submodule "lvm4net"]
+	path = lvm4net
+	url = https://github.com/cran/lvm4net
 [submodule "lvmcomp"]
 	path = lvmcomp
 	url = https://github.com/cran/lvmcomp
