@@ -32852,6 +32852,9 @@
 [submodule "gsrs"]
 	path = gsrs
 	url = https://github.com/cran/gsrs
+[submodule "gsrsb"]
+	path = gsrsb
+	url = https://github.com/cran/gsrsb
 [submodule "gss"]
 	path = gss
 	url = https://github.com/cran/gss
@@ -57083,6 +57086,9 @@
 [submodule "triebeard"]
 	path = triebeard
 	url = https://github.com/cran/triebeard
+[submodule "triggerstrategy"]
+	path = triggerstrategy
+	url = https://github.com/cran/triggerstrategy
 [submodule "trigpoints"]
 	path = trigpoints
 	url = https://github.com/cran/trigpoints
