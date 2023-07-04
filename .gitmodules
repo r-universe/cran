@@ -11150,6 +11150,9 @@
 [submodule "PWIR"]
 	path = PWIR
 	url = https://github.com/cran/PWIR
+[submodule "PaRe"]
+	path = PaRe
+	url = https://github.com/cran/PaRe
 [submodule "PabonLasso"]
 	path = PabonLasso
 	url = https://github.com/cran/PabonLasso
@@ -17324,6 +17327,9 @@
 [submodule "WGScan"]
 	path = WGScan
 	url = https://github.com/cran/WGScan
+[submodule "WH"]
+	path = WH
+	url = https://github.com/cran/WH
 [submodule "WINS"]
 	path = WINS
 	url = https://github.com/cran/WINS
@@ -29462,6 +29468,9 @@
 [submodule "flashlight"]
 	path = flashlight
 	url = https://github.com/cran/flashlight
+[submodule "flashlighttext"]
+	path = flashlighttext
+	url = https://github.com/cran/flashlighttext
 [submodule "flashr"]
 	path = flashr
 	url = https://github.com/cran/flashr
@@ -30539,6 +30548,9 @@
 [submodule "ganGenerativeData"]
 	path = ganGenerativeData
 	url = https://github.com/cran/ganGenerativeData
+[submodule "ganalytics"]
+	path = ganalytics
+	url = https://github.com/cran/ganalytics
 [submodule "gap"]
 	path = gap
 	url = https://github.com/cran/gap
@@ -35567,9 +35579,6 @@
 [submodule "jlmerclusterperm"]
 	path = jlmerclusterperm
 	url = https://github.com/cran/jlmerclusterperm
-[submodule "jlsm"]
-	path = jlsm
-	url = https://github.com/cran/jlsm
 [submodule "jmBIG"]
 	path = jmBIG
 	url = https://github.com/cran/jmBIG
@@ -37712,9 +37721,6 @@
 [submodule "lvec"]
 	path = lvec
 	url = https://github.com/cran/lvec
-[submodule "lvm4net"]
-	path = lvm4net
-	url = https://github.com/cran/lvm4net
 [submodule "lvmcomp"]
 	path = lvmcomp
 	url = https://github.com/cran/lvmcomp
@@ -37853,6 +37859,9 @@
 [submodule "madr"]
 	path = madr
 	url = https://github.com/cran/madr
+[submodule "madrat"]
+	path = madrat
+	url = https://github.com/cran/madrat
 [submodule "mads"]
 	path = mads
 	url = https://github.com/cran/mads
@@ -42998,6 +43007,9 @@
 [submodule "ordPens"]
 	path = ordPens
 	url = https://github.com/cran/ordPens
+[submodule "ordbetareg"]
+	path = ordbetareg
+	url = https://github.com/cran/ordbetareg
 [submodule "ordcrm"]
 	path = ordcrm
 	url = https://github.com/cran/ordcrm
@@ -45539,6 +45551,9 @@
 [submodule "ppmHR"]
 	path = ppmHR
 	url = https://github.com/cran/ppmHR
+[submodule "ppmSuite"]
+	path = ppmSuite
+	url = https://github.com/cran/ppmSuite
 [submodule "ppmf"]
 	path = ppmf
 	url = https://github.com/cran/ppmf
