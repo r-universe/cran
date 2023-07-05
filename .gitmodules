@@ -42746,9 +42746,6 @@
 [submodule "ooplah"]
 	path = ooplah
 	url = https://github.com/cran/ooplah
-[submodule "oops"]
-	path = oops
-	url = https://github.com/cran/oops
 [submodule "oosse"]
 	path = oosse
 	url = https://github.com/cran/oosse
