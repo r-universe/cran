@@ -11144,6 +11144,9 @@
 [submodule "PWEALL"]
 	path = PWEALL
 	url = https://github.com/cran/PWEALL
+[submodule "PWEXP"]
+	path = PWEXP
+	url = https://github.com/cran/PWEXP
 [submodule "PWFSLSmoke"]
 	path = PWFSLSmoke
 	url = https://github.com/cran/PWFSLSmoke
@@ -17225,6 +17228,9 @@
 [submodule "VecStatGraphs2D"]
 	path = VecStatGraphs2D
 	url = https://github.com/cran/VecStatGraphs2D
+[submodule "VectorCodeR"]
+	path = VectorCodeR
+	url = https://github.com/cran/VectorCodeR
 [submodule "VedicDateTime"]
 	path = VedicDateTime
 	url = https://github.com/cran/VedicDateTime
@@ -19856,6 +19862,9 @@
 [submodule "bayesplot"]
 	path = bayesplot
 	url = https://github.com/cran/bayesplot
+[submodule "bayespm"]
+	path = bayespm
+	url = https://github.com/cran/bayespm
 [submodule "bayesreg"]
 	path = bayesreg
 	url = https://github.com/cran/bayesreg
@@ -27758,6 +27767,9 @@
 [submodule "epcc"]
 	path = epcc
 	url = https://github.com/cran/epcc
+[submodule "epe4md"]
+	path = epe4md
+	url = https://github.com/cran/epe4md
 [submodule "eph"]
 	path = eph
 	url = https://github.com/cran/eph
@@ -28007,6 +28019,9 @@
 [submodule "eselect"]
 	path = eselect
 	url = https://github.com/cran/eselect
+[submodule "esem"]
+	path = esem
+	url = https://github.com/cran/esem
 [submodule "esemifar"]
 	path = esemifar
 	url = https://github.com/cran/esemifar
@@ -30608,6 +30623,9 @@
 [submodule "gatepoints"]
 	path = gatepoints
 	url = https://github.com/cran/gatepoints
+[submodule "gatoRs"]
+	path = gatoRs
+	url = https://github.com/cran/gatoRs
 [submodule "gauseR"]
 	path = gauseR
 	url = https://github.com/cran/gauseR
@@ -34076,6 +34094,9 @@
 [submodule "hystReet"]
 	path = hystReet
 	url = https://github.com/cran/hystReet
+[submodule "hystar"]
+	path = hystar
+	url = https://github.com/cran/hystar
 [submodule "hysteresis"]
 	path = hysteresis
 	url = https://github.com/cran/hysteresis
@@ -35159,6 +35180,9 @@
 [submodule "ips"]
 	path = ips
 	url = https://github.com/cran/ips
+[submodule "ipsRdbs"]
+	path = ipsRdbs
+	url = https://github.com/cran/ipsRdbs
 [submodule "ipsecr"]
 	path = ipsecr
 	url = https://github.com/cran/ipsecr
@@ -35267,6 +35291,9 @@
 [submodule "ismev"]
 	path = ismev
 	url = https://github.com/cran/ismev
+[submodule "ismtchile"]
+	path = ismtchile
+	url = https://github.com/cran/ismtchile
 [submodule "isni"]
 	path = isni
 	url = https://github.com/cran/isni
@@ -42374,6 +42401,9 @@
 [submodule "o2plsda"]
 	path = o2plsda
 	url = https://github.com/cran/o2plsda
+[submodule "oHMMed"]
+	path = oHMMed
+	url = https://github.com/cran/oHMMed
 [submodule "oRus"]
 	path = oRus
 	url = https://github.com/cran/oRus
@@ -43955,6 +43985,9 @@
 [submodule "pcds"]
 	path = pcds
 	url = https://github.com/cran/pcds
+[submodule "pcds.ugraph"]
+	path = pcds.ugraph
+	url = https://github.com/cran/pcds.ugraph
 [submodule "pcensmix"]
 	path = pcensmix
 	url = https://github.com/cran/pcensmix
