@@ -44,6 +44,9 @@
 [submodule "ACDm"]
 	path = ACDm
 	url = https://github.com/cran/ACDm
+[submodule "ACE.CoCo"]
+	path = ACE.CoCo
+	url = https://github.com/cran/ACE.CoCo
 [submodule "ACEP"]
 	path = ACEP
 	url = https://github.com/cran/ACEP
@@ -4835,6 +4838,9 @@
 [submodule "ExtremeRisks"]
 	path = ExtremeRisks
 	url = https://github.com/cran/ExtremeRisks
+[submodule "EzGP"]
+	path = EzGP
+	url = https://github.com/cran/EzGP
 [submodule "FABInference"]
 	path = FABInference
 	url = https://github.com/cran/FABInference
@@ -9404,6 +9410,9 @@
 [submodule "MisRepARMA"]
 	path = MisRepARMA
 	url = https://github.com/cran/MisRepARMA
+[submodule "MissCP"]
+	path = MissCP
+	url = https://github.com/cran/MissCP
 [submodule "MissingHandle"]
 	path = MissingHandle
 	url = https://github.com/cran/MissingHandle
@@ -16343,6 +16352,9 @@
 [submodule "TOU"]
 	path = TOU
 	url = https://github.com/cran/TOU
+[submodule "TOmicsVis"]
+	path = TOmicsVis
+	url = https://github.com/cran/TOmicsVis
 [submodule "TP.idm"]
 	path = TP.idm
 	url = https://github.com/cran/TP.idm
@@ -21863,6 +21875,9 @@
 [submodule "cbanalysis"]
 	path = cbanalysis
 	url = https://github.com/cran/cbanalysis
+[submodule "cbass"]
+	path = cbass
+	url = https://github.com/cran/cbass
 [submodule "cbcTools"]
 	path = cbcTools
 	url = https://github.com/cran/cbcTools
@@ -22991,6 +23006,9 @@
 [submodule "cocorresp"]
 	path = cocorresp
 	url = https://github.com/cran/cocorresp
+[submodule "cocosoR"]
+	path = cocosoR
+	url = https://github.com/cran/cocosoR
 [submodule "cocron"]
 	path = cocron
 	url = https://github.com/cran/cocron
@@ -27677,6 +27695,9 @@
 [submodule "english"]
 	path = english
 	url = https://github.com/cran/english
+[submodule "engression"]
+	path = engression
+	url = https://github.com/cran/engression
 [submodule "engsoccerdata"]
 	path = engsoccerdata
 	url = https://github.com/cran/engsoccerdata
@@ -35744,6 +35765,9 @@
 [submodule "jquerylib"]
 	path = jquerylib
 	url = https://github.com/cran/jquerylib
+[submodule "jrSiCKLSNMF"]
+	path = jrSiCKLSNMF
+	url = https://github.com/cran/jrSiCKLSNMF
 [submodule "jrc"]
 	path = jrc
 	url = https://github.com/cran/jrc
@@ -36458,6 +36482,9 @@
 [submodule "lares"]
 	path = lares
 	url = https://github.com/cran/lares
+[submodule "lareshiny"]
+	path = lareshiny
+	url = https://github.com/cran/lareshiny
 [submodule "largeList"]
 	path = largeList
 	url = https://github.com/cran/largeList
@@ -48716,6 +48743,9 @@
 [submodule "reshape2"]
 	path = reshape2
 	url = https://github.com/cran/reshape2
+[submodule "resilience"]
+	path = resilience
+	url = https://github.com/cran/resilience
 [submodule "reslr"]
 	path = reslr
 	url = https://github.com/cran/reslr
