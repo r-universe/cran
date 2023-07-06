@@ -17618,6 +17618,9 @@
 [submodule "YPmodel"]
 	path = YPmodel
 	url = https://github.com/cran/YPmodel
+[submodule "YPmodelPhreg"]
+	path = YPmodelPhreg
+	url = https://github.com/cran/YPmodelPhreg
 [submodule "YRmisc"]
 	path = YRmisc
 	url = https://github.com/cran/YRmisc
@@ -17672,6 +17675,9 @@
 [submodule "ZillowR"]
 	path = ZillowR
 	url = https://github.com/cran/ZillowR
+[submodule "ZooID"]
+	path = ZooID
+	url = https://github.com/cran/ZooID
 [submodule "Zseq"]
 	path = Zseq
 	url = https://github.com/cran/Zseq
@@ -20888,6 +20894,9 @@
 [submodule "bold"]
 	path = bold
 	url = https://github.com/cran/bold
+[submodule "bolsec"]
+	path = bolsec
+	url = https://github.com/cran/bolsec
 [submodule "bondAnalyst"]
 	path = bondAnalyst
 	url = https://github.com/cran/bondAnalyst
@@ -22961,9 +22970,6 @@
 [submodule "coca"]
 	path = coca
 	url = https://github.com/cran/coca
-[submodule "cocktailApp"]
-	path = cocktailApp
-	url = https://github.com/cran/cocktailApp
 [submodule "coconots"]
 	path = coconots
 	url = https://github.com/cran/coconots
@@ -44945,9 +44951,6 @@
 [submodule "plot3Drgl"]
 	path = plot3Drgl
 	url = https://github.com/cran/plot3Drgl
-[submodule "plot3logit"]
-	path = plot3logit
-	url = https://github.com/cran/plot3logit
 [submodule "plotBart"]
 	path = plotBart
 	url = https://github.com/cran/plotBart
@@ -46055,6 +46058,9 @@
 [submodule "prospectr"]
 	path = prospectr
 	url = https://github.com/cran/prospectr
+[submodule "protHMM"]
+	path = protHMM
+	url = https://github.com/cran/protHMM
 [submodule "protViz"]
 	path = protViz
 	url = https://github.com/cran/protViz
@@ -51323,9 +51329,6 @@
 [submodule "sdwd"]
 	path = sdwd
 	url = https://github.com/cran/sdwd
-[submodule "seAMLess"]
-	path = seAMLess
-	url = https://github.com/cran/seAMLess
 [submodule "seacarb"]
 	path = seacarb
 	url = https://github.com/cran/seacarb
@@ -57110,9 +57113,6 @@
 [submodule "tribe"]
 	path = tribe
 	url = https://github.com/cran/tribe
-[submodule "tricolore"]
-	path = tricolore
-	url = https://github.com/cran/tricolore
 [submodule "triebeard"]
 	path = triebeard
 	url = https://github.com/cran/triebeard
