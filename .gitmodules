@@ -22568,6 +22568,9 @@
 [submodule "cleanNLP"]
 	path = cleanNLP
 	url = https://github.com/cran/cleanNLP
+[submodule "cleanTS"]
+	path = cleanTS
+	url = https://github.com/cran/cleanTS
 [submodule "cleancall"]
 	path = cleancall
 	url = https://github.com/cran/cleancall
@@ -33824,9 +33827,6 @@
 [submodule "hscovar"]
 	path = hscovar
 	url = https://github.com/cran/hscovar
-[submodule "hsdar"]
-	path = hsdar
-	url = https://github.com/cran/hsdar
 [submodule "hse"]
 	path = hse
 	url = https://github.com/cran/hse
@@ -54623,9 +54623,6 @@
 [submodule "stockR"]
 	path = stockR
 	url = https://github.com/cran/stockR
-[submodule "stockfish"]
-	path = stockfish
-	url = https://github.com/cran/stockfish
 [submodule "stocks"]
 	path = stocks
 	url = https://github.com/cran/stocks
