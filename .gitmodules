@@ -14813,6 +14813,9 @@
 [submodule "SNSchart"]
 	path = SNSchart
 	url = https://github.com/cran/SNSchart
+[submodule "SNSeg"]
+	path = SNSeg
+	url = https://github.com/cran/SNSeg
 [submodule "SNSequate"]
 	path = SNSequate
 	url = https://github.com/cran/SNSequate
@@ -15695,6 +15698,9 @@
 [submodule "SpaCCr"]
 	path = SpaCCr
 	url = https://github.com/cran/SpaCCr
+[submodule "SpaDES.core"]
+	path = SpaDES.core
+	url = https://github.com/cran/SpaDES.core
 [submodule "SpaDES.tools"]
 	path = SpaDES.tools
 	url = https://github.com/cran/SpaDES.tools
@@ -19916,6 +19922,9 @@
 [submodule "bbl"]
 	path = bbl
 	url = https://github.com/cran/bbl
+[submodule "bbmix"]
+	path = bbmix
+	url = https://github.com/cran/bbmix
 [submodule "bbmle"]
 	path = bbmle
 	url = https://github.com/cran/bbmle
@@ -29129,6 +29138,9 @@
 [submodule "felp"]
 	path = felp
 	url = https://github.com/cran/felp
+[submodule "feltr"]
+	path = feltr
+	url = https://github.com/cran/feltr
 [submodule "fence"]
 	path = fence
 	url = https://github.com/cran/fence
@@ -40739,6 +40751,9 @@
 [submodule "multiDimBio"]
 	path = multiDimBio
 	url = https://github.com/cran/multiDimBio
+[submodule "multiFANOVA"]
+	path = multiFANOVA
+	url = https://github.com/cran/multiFANOVA
 [submodule "multiMarker"]
 	path = multiMarker
 	url = https://github.com/cran/multiMarker
@@ -54914,6 +54929,9 @@
 [submodule "sundialr"]
 	path = sundialr
 	url = https://github.com/cran/sundialr
+[submodule "suntools"]
+	path = suntools
+	url = https://github.com/cran/suntools
 [submodule "supc"]
 	path = supc
 	url = https://github.com/cran/supc
@@ -55265,6 +55283,9 @@
 [submodule "sweater"]
 	path = sweater
 	url = https://github.com/cran/sweater
+[submodule "sweep"]
+	path = sweep
+	url = https://github.com/cran/sweep
 [submodule "sweidnumbr"]
 	path = sweidnumbr
 	url = https://github.com/cran/sweidnumbr
@@ -56702,6 +56723,9 @@
 [submodule "togglr"]
 	path = togglr
 	url = https://github.com/cran/togglr
+[submodule "tok"]
+	path = tok
+	url = https://github.com/cran/tok
 [submodule "tokenbrowser"]
 	path = tokenbrowser
 	url = https://github.com/cran/tokenbrowser
