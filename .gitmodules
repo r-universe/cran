@@ -28640,6 +28640,9 @@
 [submodule "facmodCS"]
 	path = facmodCS
 	url = https://github.com/cran/facmodCS
+[submodule "factReg"]
+	path = factReg
+	url = https://github.com/cran/factReg
 [submodule "factiv"]
 	path = factiv
 	url = https://github.com/cran/factiv
@@ -28808,6 +28811,9 @@
 [submodule "fastLink"]
 	path = fastLink
 	url = https://github.com/cran/fastLink
+[submodule "fastLogisticRegressionWrap"]
+	path = fastLogisticRegressionWrap
+	url = https://github.com/cran/fastLogisticRegressionWrap
 [submodule "fastM"]
 	path = fastM
 	url = https://github.com/cran/fastM
@@ -42914,6 +42920,9 @@
 [submodule "optBiomarker"]
 	path = optBiomarker
 	url = https://github.com/cran/optBiomarker
+[submodule "optDesignSlopeInt"]
+	path = optDesignSlopeInt
+	url = https://github.com/cran/optDesignSlopeInt
 [submodule "optR"]
 	path = optR
 	url = https://github.com/cran/optR
