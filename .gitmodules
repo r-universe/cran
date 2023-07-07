@@ -27086,6 +27086,9 @@
 [submodule "ec50estimator"]
 	path = ec50estimator
 	url = https://github.com/cran/ec50estimator
+[submodule "ecan"]
+	path = ecan
+	url = https://github.com/cran/ecan
 [submodule "ecb"]
 	path = ecb
 	url = https://github.com/cran/ecb
@@ -29366,6 +29369,9 @@
 [submodule "fipp"]
 	path = fipp
 	url = https://github.com/cran/fipp
+[submodule "firebase"]
+	path = firebase
+	url = https://github.com/cran/firebase
 [submodule "firebehavioR"]
 	path = firebehavioR
 	url = https://github.com/cran/firebehavioR
