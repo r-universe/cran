@@ -215,6 +215,9 @@
 [submodule "AMCTestmakeR"]
 	path = AMCTestmakeR
 	url = https://github.com/cran/AMCTestmakeR
+[submodule "AMIM"]
+	path = AMIM
+	url = https://github.com/cran/AMIM
 [submodule "AMModels"]
 	path = AMModels
 	url = https://github.com/cran/AMModels
@@ -9887,6 +9890,9 @@
 [submodule "NLRoot"]
 	path = NLRoot
 	url = https://github.com/cran/NLRoot
+[submodule "NMA"]
+	path = NMA
+	url = https://github.com/cran/NMA
 [submodule "NMADiagT"]
 	path = NMADiagT
 	url = https://github.com/cran/NMADiagT
@@ -26726,6 +26732,9 @@
 [submodule "duckduckr"]
 	path = duckduckr
 	url = https://github.com/cran/duckduckr
+[submodule "duckplyr"]
+	path = duckplyr
+	url = https://github.com/cran/duckplyr
 [submodule "duke"]
 	path = duke
 	url = https://github.com/cran/duke
@@ -37532,6 +37541,9 @@
 [submodule "longitudinalcascade"]
 	path = longitudinalcascade
 	url = https://github.com/cran/longitudinalcascade
+[submodule "longke"]
+	path = longke
+	url = https://github.com/cran/longke
 [submodule "longmemo"]
 	path = longmemo
 	url = https://github.com/cran/longmemo
