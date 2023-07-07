@@ -2096,9 +2096,6 @@
 [submodule "CINID"]
 	path = CINID
 	url = https://github.com/cran/CINID
-[submodule "CINNA"]
-	path = CINNA
-	url = https://github.com/cran/CINNA
 [submodule "CINmetrics"]
 	path = CINmetrics
 	url = https://github.com/cran/CINmetrics
@@ -22070,9 +22067,6 @@
 [submodule "censored"]
 	path = censored
 	url = https://github.com/cran/censored
-[submodule "censusGeography"]
-	path = censusGeography
-	url = https://github.com/cran/censusGeography
 [submodule "censusapi"]
 	path = censusapi
 	url = https://github.com/cran/censusapi
@@ -25115,9 +25109,6 @@
 [submodule "dauphin"]
 	path = dauphin
 	url = https://github.com/cran/dauphin
-[submodule "dave"]
-	path = dave
-	url = https://github.com/cran/dave
 [submodule "dawai"]
 	path = dawai
 	url = https://github.com/cran/dawai
@@ -27110,9 +27101,6 @@
 [submodule "ec50estimator"]
 	path = ec50estimator
 	url = https://github.com/cran/ec50estimator
-[submodule "ecan"]
-	path = ecan
-	url = https://github.com/cran/ecan
 [submodule "ecb"]
 	path = ecb
 	url = https://github.com/cran/ecb
@@ -56855,9 +56843,6 @@
 [submodule "toscutil"]
 	path = toscutil
 	url = https://github.com/cran/toscutil
-[submodule "tosr"]
-	path = tosr
-	url = https://github.com/cran/tosr
 [submodule "totalcensus"]
 	path = totalcensus
 	url = https://github.com/cran/totalcensus
