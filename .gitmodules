@@ -38,9 +38,6 @@
 [submodule "ACA"]
 	path = ACA
 	url = https://github.com/cran/ACA
-[submodule "ACDC"]
-	path = ACDC
-	url = https://github.com/cran/ACDC
 [submodule "ACDm"]
 	path = ACDm
 	url = https://github.com/cran/ACDm
