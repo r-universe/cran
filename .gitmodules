@@ -683,6 +683,9 @@
 [submodule "AustralianPoliticians"]
 	path = AustralianPoliticians
 	url = https://github.com/cran/AustralianPoliticians
+[submodule "AutoAds"]
+	path = AutoAds
+	url = https://github.com/cran/AutoAds
 [submodule "AutoDeskR"]
 	path = AutoDeskR
 	url = https://github.com/cran/AutoDeskR
@@ -3239,9 +3242,6 @@
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
-[submodule "DCD"]
-	path = DCD
-	url = https://github.com/cran/DCD
 [submodule "DCEM"]
 	path = DCEM
 	url = https://github.com/cran/DCEM
@@ -8753,6 +8753,9 @@
 [submodule "MMAC"]
 	path = MMAC
 	url = https://github.com/cran/MMAC
+[submodule "MMAD"]
+	path = MMAD
+	url = https://github.com/cran/MMAD
 [submodule "MMD"]
 	path = MMD
 	url = https://github.com/cran/MMD
@@ -15167,9 +15170,6 @@
 [submodule "SampleSizeProportions"]
 	path = SampleSizeProportions
 	url = https://github.com/cran/SampleSizeProportions
-[submodule "SamplerCompare"]
-	path = SamplerCompare
-	url = https://github.com/cran/SamplerCompare
 [submodule "SamplingBigData"]
 	path = SamplingBigData
 	url = https://github.com/cran/SamplingBigData
@@ -28169,6 +28169,9 @@
 [submodule "eulerr"]
 	path = eulerr
 	url = https://github.com/cran/eulerr
+[submodule "eummd"]
+	path = eummd
+	url = https://github.com/cran/eummd
 [submodule "eurlex"]
 	path = eurlex
 	url = https://github.com/cran/eurlex
@@ -44249,9 +44252,6 @@
 [submodule "penAFT"]
 	path = penAFT
 	url = https://github.com/cran/penAFT
-[submodule "penDvine"]
-	path = penDvine
-	url = https://github.com/cran/penDvine
 [submodule "penMSM"]
 	path = penMSM
 	url = https://github.com/cran/penMSM
@@ -47813,6 +47813,9 @@
 [submodule "rbcb"]
 	path = rbcb
 	url = https://github.com/cran/rbcb
+[submodule "rbcc"]
+	path = rbcc
+	url = https://github.com/cran/rbcc
 [submodule "rbch"]
 	path = rbch
 	url = https://github.com/cran/rbch
@@ -58016,6 +58019,9 @@
 [submodule "vaRiskScore"]
 	path = vaRiskScore
 	url = https://github.com/cran/vaRiskScore
+[submodule "vaccine"]
+	path = vaccine
+	url = https://github.com/cran/vaccine
 [submodule "vacuum"]
 	path = vacuum
 	url = https://github.com/cran/vacuum
@@ -59243,9 +59249,6 @@
 [submodule "worldriskpollr"]
 	path = worldriskpollr
 	url = https://github.com/cran/worldriskpollr
-[submodule "worms"]
-	path = worms
-	url = https://github.com/cran/worms
 [submodule "worrms"]
 	path = worrms
 	url = https://github.com/cran/worrms
