@@ -48641,6 +48641,9 @@
 [submodule "replicatedpp2w"]
 	path = replicatedpp2w
 	url = https://github.com/cran/replicatedpp2w
+[submodule "replicationInterval"]
+	path = replicationInterval
+	url = https://github.com/cran/replicationInterval
 [submodule "repmis"]
 	path = repmis
 	url = https://github.com/cran/repmis
