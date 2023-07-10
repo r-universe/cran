@@ -7610,6 +7610,9 @@
 [submodule "KScorrect"]
 	path = KScorrect
 	url = https://github.com/cran/KScorrect
+[submodule "KSgeneral"]
+	path = KSgeneral
+	url = https://github.com/cran/KSgeneral
 [submodule "KTensorGraphs"]
 	path = KTensorGraphs
 	url = https://github.com/cran/KTensorGraphs
@@ -11504,6 +11507,9 @@
 [submodule "PoissonPCA"]
 	path = PoissonPCA
 	url = https://github.com/cran/PoissonPCA
+[submodule "PolarCAP"]
+	path = PolarCAP
+	url = https://github.com/cran/PolarCAP
 [submodule "PolicyPortfolios"]
 	path = PolicyPortfolios
 	url = https://github.com/cran/PolicyPortfolios
@@ -14489,6 +14495,9 @@
 [submodule "SCORPION"]
 	path = SCORPION
 	url = https://github.com/cran/SCORPION
+[submodule "SCORPIUS"]
+	path = SCORPIUS
+	url = https://github.com/cran/SCORPIUS
 [submodule "SCOUTer"]
 	path = SCOUTer
 	url = https://github.com/cran/SCOUTer
@@ -16322,6 +16331,9 @@
 [submodule "TMDb"]
 	path = TMDb
 	url = https://github.com/cran/TMDb
+[submodule "TML"]
+	path = TML
+	url = https://github.com/cran/TML
 [submodule "TMTI"]
 	path = TMTI
 	url = https://github.com/cran/TMTI
@@ -19502,6 +19514,9 @@
 [submodule "babelmixr2"]
 	path = babelmixr2
 	url = https://github.com/cran/babelmixr2
+[submodule "babelwhale"]
+	path = babelwhale
+	url = https://github.com/cran/babelwhale
 [submodule "babette"]
 	path = babette
 	url = https://github.com/cran/babette
@@ -26858,6 +26873,9 @@
 [submodule "dynetNLAResistance"]
 	path = dynetNLAResistance
 	url = https://github.com/cran/dynetNLAResistance
+[submodule "dynfeature"]
+	path = dynfeature
+	url = https://github.com/cran/dynfeature
 [submodule "dyngen"]
 	path = dyngen
 	url = https://github.com/cran/dyngen
@@ -26873,6 +26891,9 @@
 [submodule "dynparam"]
 	path = dynparam
 	url = https://github.com/cran/dynparam
+[submodule "dynplot"]
+	path = dynplot
+	url = https://github.com/cran/dynplot
 [submodule "dynpred"]
 	path = dynpred
 	url = https://github.com/cran/dynpred
@@ -26897,6 +26918,9 @@
 [submodule "dynutils"]
 	path = dynutils
 	url = https://github.com/cran/dynutils
+[submodule "dynwrap"]
+	path = dynwrap
+	url = https://github.com/cran/dynwrap
 [submodule "e1071"]
 	path = e1071
 	url = https://github.com/cran/e1071
@@ -39737,6 +39761,9 @@
 [submodule "mixture"]
 	path = mixture
 	url = https://github.com/cran/mixture
+[submodule "mixvlmc"]
+	path = mixvlmc
+	url = https://github.com/cran/mixvlmc
 [submodule "mize"]
 	path = mize
 	url = https://github.com/cran/mize
@@ -50135,6 +50162,9 @@
 [submodule "rsnell"]
 	path = rsnell
 	url = https://github.com/cran/rsnell
+[submodule "rsnps"]
+	path = rsnps
+	url = https://github.com/cran/rsnps
 [submodule "rsoi"]
 	path = rsoi
 	url = https://github.com/cran/rsoi
@@ -54905,6 +54935,9 @@
 [submodule "subscreen"]
 	path = subscreen
 	url = https://github.com/cran/subscreen
+[submodule "subselect"]
+	path = subselect
+	url = https://github.com/cran/subselect
 [submodule "subsemble"]
 	path = subsemble
 	url = https://github.com/cran/subsemble
