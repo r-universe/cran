@@ -14489,9 +14489,6 @@
 [submodule "SCORPION"]
 	path = SCORPION
 	url = https://github.com/cran/SCORPION
-[submodule "SCORPIUS"]
-	path = SCORPIUS
-	url = https://github.com/cran/SCORPIUS
 [submodule "SCOUTer"]
 	path = SCOUTer
 	url = https://github.com/cran/SCOUTer
@@ -19505,9 +19502,6 @@
 [submodule "babelmixr2"]
 	path = babelmixr2
 	url = https://github.com/cran/babelmixr2
-[submodule "babelwhale"]
-	path = babelwhale
-	url = https://github.com/cran/babelwhale
 [submodule "babette"]
 	path = babette
 	url = https://github.com/cran/babette
@@ -26864,9 +26858,6 @@
 [submodule "dynetNLAResistance"]
 	path = dynetNLAResistance
 	url = https://github.com/cran/dynetNLAResistance
-[submodule "dynfeature"]
-	path = dynfeature
-	url = https://github.com/cran/dynfeature
 [submodule "dyngen"]
 	path = dyngen
 	url = https://github.com/cran/dyngen
@@ -26882,9 +26873,6 @@
 [submodule "dynparam"]
 	path = dynparam
 	url = https://github.com/cran/dynparam
-[submodule "dynplot"]
-	path = dynplot
-	url = https://github.com/cran/dynplot
 [submodule "dynpred"]
 	path = dynpred
 	url = https://github.com/cran/dynpred
@@ -26909,9 +26897,6 @@
 [submodule "dynutils"]
 	path = dynutils
 	url = https://github.com/cran/dynutils
-[submodule "dynwrap"]
-	path = dynwrap
-	url = https://github.com/cran/dynwrap
 [submodule "e1071"]
 	path = e1071
 	url = https://github.com/cran/e1071
@@ -50150,9 +50135,6 @@
 [submodule "rsnell"]
 	path = rsnell
 	url = https://github.com/cran/rsnell
-[submodule "rsnps"]
-	path = rsnps
-	url = https://github.com/cran/rsnps
 [submodule "rsoi"]
 	path = rsoi
 	url = https://github.com/cran/rsoi
@@ -54923,9 +54905,6 @@
 [submodule "subscreen"]
 	path = subscreen
 	url = https://github.com/cran/subscreen
-[submodule "subselect"]
-	path = subselect
-	url = https://github.com/cran/subselect
 [submodule "subsemble"]
 	path = subsemble
 	url = https://github.com/cran/subsemble
