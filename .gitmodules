@@ -332,9 +332,6 @@
 [submodule "ASIP"]
 	path = ASIP
 	url = https://github.com/cran/ASIP
-[submodule "ASMap"]
-	path = ASMap
-	url = https://github.com/cran/ASMap
 [submodule "ASRgenomics"]
 	path = ASRgenomics
 	url = https://github.com/cran/ASRgenomics
@@ -1874,9 +1871,6 @@
 [submodule "CALIBERrfimpute"]
 	path = CALIBERrfimpute
 	url = https://github.com/cran/CALIBERrfimpute
-[submodule "CAMAN"]
-	path = CAMAN
-	url = https://github.com/cran/CAMAN
 [submodule "CAMML"]
 	path = CAMML
 	url = https://github.com/cran/CAMML
@@ -3236,9 +3230,6 @@
 [submodule "DBpower"]
 	path = DBpower
 	url = https://github.com/cran/DBpower
-[submodule "DCA"]
-	path = DCA
-	url = https://github.com/cran/DCA
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
@@ -5573,6 +5564,9 @@
 [submodule "GB2group"]
 	path = GB2group
 	url = https://github.com/cran/GB2group
+[submodule "GB5mcPred"]
+	path = GB5mcPred
+	url = https://github.com/cran/GB5mcPred
 [submodule "GBJ"]
 	path = GBJ
 	url = https://github.com/cran/GBJ
@@ -10730,9 +10724,6 @@
 [submodule "PDE"]
 	path = PDE
 	url = https://github.com/cran/PDE
-[submodule "PDFEstimator"]
-	path = PDFEstimator
-	url = https://github.com/cran/PDFEstimator
 [submodule "PDM"]
 	path = PDM
 	url = https://github.com/cran/PDM
@@ -14054,9 +14045,6 @@
 [submodule "Rnvd3"]
 	path = Rnvd3
 	url = https://github.com/cran/Rnvd3
-[submodule "RoBMA"]
-	path = RoBMA
-	url = https://github.com/cran/RoBMA
 [submodule "RoBSA"]
 	path = RoBSA
 	url = https://github.com/cran/RoBSA
@@ -15983,6 +15971,9 @@
 [submodule "StereoMorph"]
 	path = StereoMorph
 	url = https://github.com/cran/StereoMorph
+[submodule "SticsRFiles"]
+	path = SticsRFiles
+	url = https://github.com/cran/SticsRFiles
 [submodule "StochBlock"]
 	path = StochBlock
 	url = https://github.com/cran/StochBlock
@@ -18665,9 +18656,6 @@
 [submodule "anocva"]
 	path = anocva
 	url = https://github.com/cran/anocva
-[submodule "anomaly"]
-	path = anomaly
-	url = https://github.com/cran/anomaly
 [submodule "anovir"]
 	path = anovir
 	url = https://github.com/cran/anovir
@@ -22991,6 +22979,9 @@
 [submodule "coarseDataTools"]
 	path = coarseDataTools
 	url = https://github.com/cran/coarseDataTools
+[submodule "coat"]
+	path = coat
+	url = https://github.com/cran/coat
 [submodule "cobalt"]
 	path = cobalt
 	url = https://github.com/cran/cobalt
@@ -27038,6 +27029,9 @@
 [submodule "easycensus"]
 	path = easycensus
 	url = https://github.com/cran/easycensus
+[submodule "easyclimate"]
+	path = easyclimate
+	url = https://github.com/cran/easyclimate
 [submodule "easycsv"]
 	path = easycsv
 	url = https://github.com/cran/easycsv
@@ -28181,6 +28175,9 @@
 [submodule "eummd"]
 	path = eummd
 	url = https://github.com/cran/eummd
+[submodule "eunis.habitats"]
+	path = eunis.habitats
+	url = https://github.com/cran/eunis.habitats
 [submodule "eurlex"]
 	path = eurlex
 	url = https://github.com/cran/eurlex
@@ -29081,9 +29078,6 @@
 [submodule "fdakma"]
 	path = fdakma
 	url = https://github.com/cran/fdakma
-[submodule "fdaoutlier"]
-	path = fdaoutlier
-	url = https://github.com/cran/fdaoutlier
 [submodule "fdapace"]
 	path = fdapace
 	url = https://github.com/cran/fdapace
@@ -38642,6 +38636,9 @@
 [submodule "mcmcse"]
 	path = mcmcse
 	url = https://github.com/cran/mcmcse
+[submodule "mcmsupply"]
+	path = mcmsupply
+	url = https://github.com/cran/mcmsupply
 [submodule "mco"]
 	path = mco
 	url = https://github.com/cran/mco
@@ -40460,9 +40457,6 @@
 [submodule "moveHMM"]
 	path = moveHMM
 	url = https://github.com/cran/moveHMM
-[submodule "moveVis"]
-	path = moveVis
-	url = https://github.com/cran/moveVis
 [submodule "moveWindSpeed"]
 	path = moveWindSpeed
 	url = https://github.com/cran/moveWindSpeed
@@ -41072,9 +41066,6 @@
 [submodule "mvMonitoring"]
 	path = mvMonitoring
 	url = https://github.com/cran/mvMonitoring
-[submodule "mvPot"]
-	path = mvPot
-	url = https://github.com/cran/mvPot
 [submodule "mvProbit"]
 	path = mvProbit
 	url = https://github.com/cran/mvProbit
@@ -41444,9 +41435,6 @@
 [submodule "ndtv"]
 	path = ndtv
 	url = https://github.com/cran/ndtv
-[submodule "neariso"]
-	path = neariso
-	url = https://github.com/cran/neariso
 [submodule "neat"]
 	path = neat
 	url = https://github.com/cran/neat
@@ -42497,6 +42485,9 @@
 [submodule "oai"]
 	path = oai
 	url = https://github.com/cran/oai
+[submodule "oaii"]
+	path = oaii
+	url = https://github.com/cran/oaii
 [submodule "oaqc"]
 	path = oaqc
 	url = https://github.com/cran/oaqc
