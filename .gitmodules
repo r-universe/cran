@@ -45596,9 +45596,6 @@
 [submodule "pould"]
 	path = pould
 	url = https://github.com/cran/pould
-[submodule "povcalnetR"]
-	path = povcalnetR
-	url = https://github.com/cran/povcalnetR
 [submodule "pow.int"]
 	path = pow.int
 	url = https://github.com/cran/pow.int
@@ -48110,9 +48107,6 @@
 [submodule "rdpower"]
 	path = rdpower
 	url = https://github.com/cran/rdpower
-[submodule "rdracor"]
-	path = rdracor
-	url = https://github.com/cran/rdracor
 [submodule "rdrobust"]
 	path = rdrobust
 	url = https://github.com/cran/rdrobust
