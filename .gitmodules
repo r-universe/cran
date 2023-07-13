@@ -11930,6 +11930,9 @@
 [submodule "Quandl"]
 	path = Quandl
 	url = https://github.com/cran/Quandl
+[submodule "QuantBondCurves"]
+	path = QuantBondCurves
+	url = https://github.com/cran/QuantBondCurves
 [submodule "QuantNorm"]
 	path = QuantNorm
 	url = https://github.com/cran/QuantNorm
@@ -32870,6 +32873,9 @@
 [submodule "grplassocat"]
 	path = grplassocat
 	url = https://github.com/cran/grplassocat
+[submodule "grpnet"]
+	path = grpnet
+	url = https://github.com/cran/grpnet
 [submodule "grpreg"]
 	path = grpreg
 	url = https://github.com/cran/grpreg
