@@ -6785,6 +6785,9 @@
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cran/HypergeoMat
+[submodule "IADT"]
+	path = IADT
+	url = https://github.com/cran/IADT
 [submodule "IAPWS95"]
 	path = IAPWS95
 	url = https://github.com/cran/IAPWS95
@@ -22682,9 +22685,6 @@
 [submodule "climatrends"]
 	path = climatrends
 	url = https://github.com/cran/climatrends
-[submodule "climdex.pcic"]
-	path = climdex.pcic
-	url = https://github.com/cran/climdex.pcic
 [submodule "clime"]
 	path = clime
 	url = https://github.com/cran/clime
@@ -32522,9 +32522,6 @@
 [submodule "gpmap"]
 	path = gpmap
 	url = https://github.com/cran/gpmap
-[submodule "gppm"]
-	path = gppm
-	url = https://github.com/cran/gppm
 [submodule "gprofiler2"]
 	path = gprofiler2
 	url = https://github.com/cran/gprofiler2
@@ -38945,6 +38942,9 @@
 [submodule "messaging"]
 	path = messaging
 	url = https://github.com/cran/messaging
+[submodule "messi"]
+	path = messi
+	url = https://github.com/cran/messi
 [submodule "messy.cats"]
 	path = messy.cats
 	url = https://github.com/cran/messy.cats
@@ -44354,6 +44354,9 @@
 [submodule "peptider"]
 	path = peptider
 	url = https://github.com/cran/peptider
+[submodule "peptoolkit"]
+	path = peptoolkit
+	url = https://github.com/cran/peptoolkit
 [submodule "pequod"]
 	path = pequod
 	url = https://github.com/cran/pequod
@@ -44585,6 +44588,9 @@
 [submodule "phenofit"]
 	path = phenofit
 	url = https://github.com/cran/phenofit
+[submodule "phenolocrop"]
+	path = phenolocrop
+	url = https://github.com/cran/phenolocrop
 [submodule "phenology"]
 	path = phenology
 	url = https://github.com/cran/phenology
@@ -48020,9 +48026,6 @@
 [submodule "rcrossref"]
 	path = rcrossref
 	url = https://github.com/cran/rcrossref
-[submodule "rcrypt"]
-	path = rcrypt
-	url = https://github.com/cran/rcrypt
 [submodule "rcssci"]
 	path = rcssci
 	url = https://github.com/cran/rcssci
@@ -52199,6 +52202,9 @@
 [submodule "shinyRadioMatrix"]
 	path = shinyRadioMatrix
 	url = https://github.com/cran/shinyRadioMatrix
+[submodule "shinyRatings"]
+	path = shinyRatings
+	url = https://github.com/cran/shinyRatings
 [submodule "shinySIR"]
 	path = shinySIR
 	url = https://github.com/cran/shinySIR
@@ -53231,6 +53237,9 @@
 [submodule "snowflakes"]
 	path = snowflakes
 	url = https://github.com/cran/snowflakes
+[submodule "snowquery"]
+	path = snowquery
+	url = https://github.com/cran/snowquery
 [submodule "snpReady"]
 	path = snpReady
 	url = https://github.com/cran/snpReady
@@ -55898,9 +55907,6 @@
 [submodule "tensorBSS"]
 	path = tensorBSS
 	url = https://github.com/cran/tensorBSS
-[submodule "tensorFun"]
-	path = tensorFun
-	url = https://github.com/cran/tensorFun
 [submodule "tensorTS"]
 	path = tensorTS
 	url = https://github.com/cran/tensorTS
@@ -57566,6 +57572,9 @@
 [submodule "twangRDC"]
 	path = twangRDC
 	url = https://github.com/cran/twangRDC
+[submodule "twdtw"]
+	path = twdtw
+	url = https://github.com/cran/twdtw
 [submodule "tweedie"]
 	path = tweedie
 	url = https://github.com/cran/tweedie
