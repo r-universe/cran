@@ -17756,6 +17756,9 @@
 [submodule "aVirtualTwins"]
 	path = aVirtualTwins
 	url = https://github.com/cran/aVirtualTwins
+[submodule "abasequence"]
+	path = abasequence
+	url = https://github.com/cran/abasequence
 [submodule "abbreviate"]
 	path = abbreviate
 	url = https://github.com/cran/abbreviate
