@@ -14171,6 +14171,9 @@
 [submodule "Rpadrino"]
 	path = Rpadrino
 	url = https://github.com/cran/Rpadrino
+[submodule "Rpcop"]
+	path = Rpcop
+	url = https://github.com/cran/Rpcop
 [submodule "RpeakChrom"]
 	path = RpeakChrom
 	url = https://github.com/cran/RpeakChrom
@@ -27323,6 +27326,9 @@
 [submodule "edibble"]
 	path = edibble
 	url = https://github.com/cran/edibble
+[submodule "ediblecity"]
+	path = ediblecity
+	url = https://github.com/cran/ediblecity
 [submodule "edina"]
 	path = edina
 	url = https://github.com/cran/edina
@@ -28601,6 +28607,9 @@
 [submodule "fCopulae"]
 	path = fCopulae
 	url = https://github.com/cran/fCopulae
+[submodule "fDMA"]
+	path = fDMA
+	url = https://github.com/cran/fDMA
 [submodule "fExtremes"]
 	path = fExtremes
 	url = https://github.com/cran/fExtremes
@@ -44873,6 +44882,9 @@
 [submodule "pixmap"]
 	path = pixmap
 	url = https://github.com/cran/pixmap
+[submodule "pk4adi"]
+	path = pk4adi
+	url = https://github.com/cran/pk4adi
 [submodule "pkdata"]
 	path = pkdata
 	url = https://github.com/cran/pkdata
