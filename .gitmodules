@@ -54794,6 +54794,9 @@
 [submodule "stratEst"]
 	path = stratEst
 	url = https://github.com/cran/stratEst
+[submodule "strata.MaxCombo"]
+	path = strata.MaxCombo
+	url = https://github.com/cran/strata.MaxCombo
 [submodule "stratallo"]
 	path = stratallo
 	url = https://github.com/cran/stratallo
