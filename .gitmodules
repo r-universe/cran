@@ -3380,9 +3380,6 @@
 [submodule "DICOMread"]
 	path = DICOMread
 	url = https://github.com/cran/DICOMread
-[submodule "DIDmultiplegt"]
-	path = DIDmultiplegt
-	url = https://github.com/cran/DIDmultiplegt
 [submodule "DIFboost"]
 	path = DIFboost
 	url = https://github.com/cran/DIFboost
@@ -16967,9 +16964,6 @@
 [submodule "TwoStepCLogit"]
 	path = TwoStepCLogit
 	url = https://github.com/cran/TwoStepCLogit
-[submodule "TwoWayFEWeights"]
-	path = TwoWayFEWeights
-	url = https://github.com/cran/TwoWayFEWeights
 [submodule "UBCRM"]
 	path = UBCRM
 	url = https://github.com/cran/UBCRM
