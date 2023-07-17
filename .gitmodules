@@ -6761,9 +6761,6 @@
 [submodule "HybridMicrobiomes"]
 	path = HybridMicrobiomes
 	url = https://github.com/cran/HybridMicrobiomes
-[submodule "HydeNet"]
-	path = HydeNet
-	url = https://github.com/cran/HydeNet
 [submodule "HydroCode"]
 	path = HydroCode
 	url = https://github.com/cran/HydroCode
@@ -59177,15 +59174,9 @@
 [submodule "winfapReader"]
 	path = winfapReader
 	url = https://github.com/cran/winfapReader
-[submodule "wingui"]
-	path = wingui
-	url = https://github.com/cran/wingui
 [submodule "wiqid"]
 	path = wiqid
 	url = https://github.com/cran/wiqid
-[submodule "wiseR"]
-	path = wiseR
-	url = https://github.com/cran/wiseR
 [submodule "withdots"]
 	path = withdots
 	url = https://github.com/cran/withdots
