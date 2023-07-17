@@ -3236,9 +3236,6 @@
 [submodule "DBpower"]
 	path = DBpower
 	url = https://github.com/cran/DBpower
-[submodule "DCA"]
-	path = DCA
-	url = https://github.com/cran/DCA
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
@@ -6914,6 +6911,9 @@
 [submodule "IDCard"]
 	path = IDCard
 	url = https://github.com/cran/IDCard
+[submodule "IDConverter"]
+	path = IDConverter
+	url = https://github.com/cran/IDConverter
 [submodule "IDE"]
 	path = IDE
 	url = https://github.com/cran/IDE
@@ -40484,9 +40484,6 @@
 [submodule "moveHMM"]
 	path = moveHMM
 	url = https://github.com/cran/moveHMM
-[submodule "moveVis"]
-	path = moveVis
-	url = https://github.com/cran/moveVis
 [submodule "moveWindSpeed"]
 	path = moveWindSpeed
 	url = https://github.com/cran/moveWindSpeed
