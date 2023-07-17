@@ -671,6 +671,9 @@
 [submodule "AsynchLong"]
 	path = AsynchLong
 	url = https://github.com/cran/AsynchLong
+[submodule "AtlasMaker"]
+	path = AtlasMaker
+	url = https://github.com/cran/AtlasMaker
 [submodule "AtmChile"]
 	path = AtmChile
 	url = https://github.com/cran/AtmChile
@@ -33233,6 +33236,9 @@
 [submodule "hapsim"]
 	path = hapsim
 	url = https://github.com/cran/hapsim
+[submodule "harbinger"]
+	path = harbinger
+	url = https://github.com/cran/harbinger
 [submodule "hardhat"]
 	path = hardhat
 	url = https://github.com/cran/hardhat
@@ -45332,6 +45338,9 @@
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/cran/polaroid
+[submodule "polars"]
+	path = polars
+	url = https://github.com/cran/polars
 [submodule "policytree"]
 	path = policytree
 	url = https://github.com/cran/policytree
@@ -53078,6 +53087,9 @@
 [submodule "smdata"]
 	path = smdata
 	url = https://github.com/cran/smdata
+[submodule "smdi"]
+	path = smdi
+	url = https://github.com/cran/smdi
 [submodule "smdocker"]
 	path = smdocker
 	url = https://github.com/cran/smdocker
