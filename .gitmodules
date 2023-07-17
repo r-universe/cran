@@ -9809,6 +9809,9 @@
 [submodule "NBShiny3"]
 	path = NBShiny3
 	url = https://github.com/cran/NBShiny3
+[submodule "NBtsVarSel"]
+	path = NBtsVarSel
+	url = https://github.com/cran/NBtsVarSel
 [submodule "NCA"]
 	path = NCA
 	url = https://github.com/cran/NCA
@@ -16328,6 +16331,9 @@
 [submodule "TITAN2"]
 	path = TITAN2
 	url = https://github.com/cran/TITAN2
+[submodule "TITEgBOIN"]
+	path = TITEgBOIN
+	url = https://github.com/cran/TITEgBOIN
 [submodule "TKCat"]
 	path = TKCat
 	url = https://github.com/cran/TKCat
@@ -22301,6 +22307,9 @@
 [submodule "cheese"]
 	path = cheese
 	url = https://github.com/cran/cheese
+[submodule "chem16S"]
+	path = chem16S
+	url = https://github.com/cran/chem16S
 [submodule "chemCal"]
 	path = chemCal
 	url = https://github.com/cran/chemCal
@@ -24572,6 +24581,9 @@
 [submodule "cuRe"]
 	path = cuRe
 	url = https://github.com/cran/cuRe
+[submodule "cubar"]
+	path = cubar
+	url = https://github.com/cran/cubar
 [submodule "cubature"]
 	path = cubature
 	url = https://github.com/cran/cubature
