@@ -9005,6 +9005,9 @@
 [submodule "MTSYS"]
 	path = MTSYS
 	url = https://github.com/cran/MTSYS
+[submodule "MTest"]
+	path = MTest
+	url = https://github.com/cran/MTest
 [submodule "MUACz"]
 	path = MUACz
 	url = https://github.com/cran/MUACz
@@ -33830,6 +33833,9 @@
 [submodule "horseshoenlm"]
 	path = horseshoenlm
 	url = https://github.com/cran/horseshoenlm
+[submodule "hosm"]
+	path = hosm
+	url = https://github.com/cran/hosm
 [submodule "hospitals"]
 	path = hospitals
 	url = https://github.com/cran/hospitals
@@ -55652,6 +55658,9 @@
 [submodule "tagcloud"]
 	path = tagcloud
 	url = https://github.com/cran/tagcloud
+[submodule "tagtools"]
+	path = tagtools
+	url = https://github.com/cran/tagtools
 [submodule "tailDepFun"]
 	path = tailDepFun
 	url = https://github.com/cran/tailDepFun
