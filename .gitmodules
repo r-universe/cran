@@ -29096,9 +29096,6 @@
 [submodule "fdadensity"]
 	path = fdadensity
 	url = https://github.com/cran/fdadensity
-[submodule "fdakma"]
-	path = fdakma
-	url = https://github.com/cran/fdakma
 [submodule "fdaoutlier"]
 	path = fdaoutlier
 	url = https://github.com/cran/fdaoutlier
@@ -45329,9 +45326,6 @@
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/cran/polaroid
-[submodule "polars"]
-	path = polars
-	url = https://github.com/cran/polars
 [submodule "policytree"]
 	path = policytree
 	url = https://github.com/cran/policytree
