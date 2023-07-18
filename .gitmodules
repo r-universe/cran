@@ -10658,9 +10658,6 @@
 [submodule "PBtDesigns"]
 	path = PBtDesigns
 	url = https://github.com/cran/PBtDesigns
-[submodule "PCA4TS"]
-	path = PCA4TS
-	url = https://github.com/cran/PCA4TS
 [submodule "PCADSC"]
 	path = PCADSC
 	url = https://github.com/cran/PCADSC
@@ -39845,6 +39842,9 @@
 [submodule "mlim"]
 	path = mlim
 	url = https://github.com/cran/mlim
+[submodule "mllrnrs"]
+	path = mllrnrs
+	url = https://github.com/cran/mllrnrs
 [submodule "mlmRev"]
 	path = mlmRev
 	url = https://github.com/cran/mlmRev
