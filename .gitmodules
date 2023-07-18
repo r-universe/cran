@@ -19877,9 +19877,6 @@
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cran/bayeslm
-[submodule "bayesloglin"]
-	path = bayesloglin
-	url = https://github.com/cran/bayesloglin
 [submodule "bayeslongitudinal"]
 	path = bayeslongitudinal
 	url = https://github.com/cran/bayeslongitudinal
@@ -29780,6 +29777,9 @@
 [submodule "foodingraph"]
 	path = foodingraph
 	url = https://github.com/cran/foodingraph
+[submodule "foodwebWrapper"]
+	path = foodwebWrapper
+	url = https://github.com/cran/foodwebWrapper
 [submodule "foolbox"]
 	path = foolbox
 	url = https://github.com/cran/foolbox
@@ -33929,6 +33929,9 @@
 [submodule "hsstan"]
 	path = hsstan
 	url = https://github.com/cran/hsstan
+[submodule "hstats"]
+	path = hstats
+	url = https://github.com/cran/hstats
 [submodule "htdp"]
 	path = htdp
 	url = https://github.com/cran/htdp
@@ -47045,6 +47048,9 @@
 [submodule "quickcheck"]
 	path = quickcheck
 	url = https://github.com/cran/quickcheck
+[submodule "quickcode"]
+	path = quickcode
+	url = https://github.com/cran/quickcode
 [submodule "quickmapr"]
 	path = quickmapr
 	url = https://github.com/cran/quickmapr
