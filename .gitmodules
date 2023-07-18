@@ -2507,9 +2507,6 @@
 [submodule "CausalImpact"]
 	path = CausalImpact
 	url = https://github.com/cran/CausalImpact
-[submodule "CausalKinetiX"]
-	path = CausalKinetiX
-	url = https://github.com/cran/CausalKinetiX
 [submodule "CausalMBSTS"]
 	path = CausalMBSTS
 	url = https://github.com/cran/CausalMBSTS
@@ -4913,9 +4910,6 @@
 [submodule "FD"]
 	path = FD
 	url = https://github.com/cran/FD
-[submodule "FDRSeg"]
-	path = FDRSeg
-	url = https://github.com/cran/FDRSeg
 [submodule "FDRestimation"]
 	path = FDRestimation
 	url = https://github.com/cran/FDRestimation
@@ -6458,9 +6452,6 @@
 [submodule "HDoutliers"]
 	path = HDoutliers
 	url = https://github.com/cran/HDoutliers
-[submodule "HDtest"]
-	path = HDtest
-	url = https://github.com/cran/HDtest
 [submodule "HDtweedie"]
 	path = HDtweedie
 	url = https://github.com/cran/HDtweedie
@@ -22565,9 +22556,6 @@
 [submodule "clam"]
 	path = clam
 	url = https://github.com/cran/clam
-[submodule "clampSeg"]
-	path = clampSeg
-	url = https://github.com/cran/clampSeg
 [submodule "clarabel"]
 	path = clarabel
 	url = https://github.com/cran/clarabel
@@ -28928,9 +28916,6 @@
 [submodule "fastai"]
 	path = fastai
 	url = https://github.com/cran/fastai
-[submodule "fastclime"]
-	path = fastclime
-	url = https://github.com/cran/fastclime
 [submodule "fastcluster"]
 	path = fastcluster
 	url = https://github.com/cran/fastcluster
@@ -37121,9 +37106,6 @@
 [submodule "linearModel"]
 	path = linearModel
 	url = https://github.com/cran/linearModel
-[submodule "linearQ"]
-	path = linearQ
-	url = https://github.com/cran/linearQ
 [submodule "lineartestr"]
 	path = lineartestr
 	url = https://github.com/cran/lineartestr
@@ -37394,9 +37376,6 @@
 [submodule "loadeR"]
 	path = loadeR
 	url = https://github.com/cran/loadeR
-[submodule "loadflux"]
-	path = loadflux
-	url = https://github.com/cran/loadflux
 [submodule "loadings"]
 	path = loadings
 	url = https://github.com/cran/loadings
@@ -54638,9 +54617,6 @@
 [submodule "stepPlr"]
 	path = stepPlr
 	url = https://github.com/cran/stepPlr
-[submodule "stepR"]
-	path = stepR
-	url = https://github.com/cran/stepR
 [submodule "stepSplitReg"]
 	path = stepSplitReg
 	url = https://github.com/cran/stepSplitReg
@@ -55052,9 +55028,6 @@
 [submodule "suncalc"]
 	path = suncalc
 	url = https://github.com/cran/suncalc
-[submodule "sundialr"]
-	path = sundialr
-	url = https://github.com/cran/sundialr
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/cran/suntools
