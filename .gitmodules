@@ -23024,6 +23024,9 @@
 [submodule "coca"]
 	path = coca
 	url = https://github.com/cran/coca
+[submodule "cocktailApp"]
+	path = cocktailApp
+	url = https://github.com/cran/cocktailApp
 [submodule "coconots"]
 	path = coconots
 	url = https://github.com/cran/coconots
