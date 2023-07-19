@@ -11738,6 +11738,9 @@
 [submodule "PropScrRand"]
 	path = PropScrRand
 	url = https://github.com/cran/PropScrRand
+[submodule "ProteoBayes"]
+	path = ProteoBayes
+	url = https://github.com/cran/ProteoBayes
 [submodule "Przewodnik"]
 	path = Przewodnik
 	url = https://github.com/cran/Przewodnik
@@ -39563,6 +39566,9 @@
 [submodule "minimax"]
 	path = minimax
 	url = https://github.com/cran/minimax
+[submodule "minimaxApprox"]
+	path = minimaxApprox
+	url = https://github.com/cran/minimaxApprox
 [submodule "minimaxdesign"]
 	path = minimaxdesign
 	url = https://github.com/cran/minimaxdesign
@@ -57485,6 +57491,9 @@
 [submodule "tspmeta"]
 	path = tspmeta
 	url = https://github.com/cran/tspmeta
+[submodule "tspredit"]
+	path = tspredit
+	url = https://github.com/cran/tspredit
 [submodule "tsqn"]
 	path = tsqn
 	url = https://github.com/cran/tsqn
@@ -58766,6 +58775,9 @@
 [submodule "vvsculptor"]
 	path = vvsculptor
 	url = https://github.com/cran/vvsculptor
+[submodule "vvshiny"]
+	path = vvshiny
+	url = https://github.com/cran/vvshiny
 [submodule "vvtableau"]
 	path = vvtableau
 	url = https://github.com/cran/vvtableau
