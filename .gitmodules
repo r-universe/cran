@@ -2012,6 +2012,9 @@
 [submodule "CEGO"]
 	path = CEGO
 	url = https://github.com/cran/CEGO
+[submodule "CENFA"]
+	path = CENFA
+	url = https://github.com/cran/CENFA
 [submodule "CEOdata"]
 	path = CEOdata
 	url = https://github.com/cran/CEOdata
@@ -3233,6 +3236,9 @@
 [submodule "DBpower"]
 	path = DBpower
 	url = https://github.com/cran/DBpower
+[submodule "DCA"]
+	path = DCA
+	url = https://github.com/cran/DCA
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
@@ -5372,6 +5378,9 @@
 [submodule "ForestGapR"]
 	path = ForestGapR
 	url = https://github.com/cran/ForestGapR
+[submodule "ForestTools"]
+	path = ForestTools
+	url = https://github.com/cran/ForestTools
 [submodule "FormShare"]
 	path = FormShare
 	url = https://github.com/cran/FormShare
@@ -10658,6 +10667,9 @@
 [submodule "PBtDesigns"]
 	path = PBtDesigns
 	url = https://github.com/cran/PBtDesigns
+[submodule "PCA4TS"]
+	path = PCA4TS
+	url = https://github.com/cran/PCA4TS
 [submodule "PCADSC"]
 	path = PCADSC
 	url = https://github.com/cran/PCADSC
@@ -11540,6 +11552,9 @@
 [submodule "PopED"]
 	path = PopED
 	url = https://github.com/cran/PopED
+[submodule "PopGenHelpR"]
+	path = PopGenHelpR
+	url = https://github.com/cran/PopGenHelpR
 [submodule "PopGenReport"]
 	path = PopGenReport
 	url = https://github.com/cran/PopGenReport
@@ -19865,6 +19880,9 @@
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cran/bayeslm
+[submodule "bayesloglin"]
+	path = bayesloglin
+	url = https://github.com/cran/bayesloglin
 [submodule "bayeslongitudinal"]
 	path = bayeslongitudinal
 	url = https://github.com/cran/bayeslongitudinal
@@ -29081,6 +29099,9 @@
 [submodule "fdadensity"]
 	path = fdadensity
 	url = https://github.com/cran/fdadensity
+[submodule "fdakma"]
+	path = fdakma
+	url = https://github.com/cran/fdakma
 [submodule "fdaoutlier"]
 	path = fdaoutlier
 	url = https://github.com/cran/fdaoutlier
@@ -36764,6 +36785,9 @@
 [submodule "leaflet.minicharts"]
 	path = leaflet.minicharts
 	url = https://github.com/cran/leaflet.minicharts
+[submodule "leaflet.multiopacity"]
+	path = leaflet.multiopacity
+	url = https://github.com/cran/leaflet.multiopacity
 [submodule "leaflet.opacity"]
 	path = leaflet.opacity
 	url = https://github.com/cran/leaflet.opacity
@@ -37937,6 +37961,9 @@
 [submodule "maclogp"]
 	path = maclogp
 	url = https://github.com/cran/maclogp
+[submodule "macroBiome"]
+	path = macroBiome
+	url = https://github.com/cran/macroBiome
 [submodule "macrocol"]
 	path = macrocol
 	url = https://github.com/cran/macrocol
@@ -40469,6 +40496,9 @@
 [submodule "moveHMM"]
 	path = moveHMM
 	url = https://github.com/cran/moveHMM
+[submodule "moveVis"]
+	path = moveVis
+	url = https://github.com/cran/moveVis
 [submodule "moveWindSpeed"]
 	path = moveWindSpeed
 	url = https://github.com/cran/moveWindSpeed
@@ -45317,6 +45347,9 @@
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/cran/polaroid
+[submodule "polars"]
+	path = polars
+	url = https://github.com/cran/polars
 [submodule "policytree"]
 	path = policytree
 	url = https://github.com/cran/policytree
@@ -46271,6 +46304,9 @@
 [submodule "pseudo"]
 	path = pseudo
 	url = https://github.com/cran/pseudo
+[submodule "pseudohouseholds"]
+	path = pseudohouseholds
+	url = https://github.com/cran/pseudohouseholds
 [submodule "pseudorank"]
 	path = pseudorank
 	url = https://github.com/cran/pseudorank
@@ -46892,6 +46928,9 @@
 [submodule "quadrupen"]
 	path = quadrupen
 	url = https://github.com/cran/quadrupen
+[submodule "quadtree"]
+	path = quadtree
+	url = https://github.com/cran/quadtree
 [submodule "qualCI"]
 	path = qualCI
 	url = https://github.com/cran/qualCI
