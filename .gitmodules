@@ -4430,6 +4430,9 @@
 [submodule "EWSmethods"]
 	path = EWSmethods
 	url = https://github.com/cran/EWSmethods
+[submodule "EXPARMA"]
+	path = EXPARMA
+	url = https://github.com/cran/EXPARMA
 [submodule "EXRQ"]
 	path = EXRQ
 	url = https://github.com/cran/EXRQ
@@ -11105,6 +11108,9 @@
 [submodule "PScr"]
 	path = PScr
 	url = https://github.com/cran/PScr
+[submodule "PSinference"]
+	path = PSinference
+	url = https://github.com/cran/PSinference
 [submodule "PStrata"]
 	path = PStrata
 	url = https://github.com/cran/PStrata
@@ -19565,6 +19571,9 @@
 [submodule "bacr"]
 	path = bacr
 	url = https://github.com/cran/bacr
+[submodule "badgen"]
+	path = badgen
+	url = https://github.com/cran/badgen
 [submodule "badger"]
 	path = badger
 	url = https://github.com/cran/badger
@@ -23255,6 +23264,9 @@
 [submodule "colorspace"]
 	path = colorspace
 	url = https://github.com/cran/colorspace
+[submodule "colouR"]
+	path = colouR
+	url = https://github.com/cran/colouR
 [submodule "colourlovers"]
 	path = colourlovers
 	url = https://github.com/cran/colourlovers
@@ -28640,6 +28652,9 @@
 [submodule "fNonlinear"]
 	path = fNonlinear
 	url = https://github.com/cran/fNonlinear
+[submodule "fPASS"]
+	path = fPASS
+	url = https://github.com/cran/fPASS
 [submodule "fPortfolio"]
 	path = fPortfolio
 	url = https://github.com/cran/fPortfolio
@@ -29720,6 +29735,9 @@
 [submodule "fmdates"]
 	path = fmdates
 	url = https://github.com/cran/fmdates
+[submodule "fmeffects"]
+	path = fmeffects
+	url = https://github.com/cran/fmeffects
 [submodule "fmerPack"]
 	path = fmerPack
 	url = https://github.com/cran/fmerPack
@@ -29867,6 +29885,9 @@
 [submodule "forestinventory"]
 	path = forestinventory
 	url = https://github.com/cran/forestinventory
+[submodule "forestly"]
+	path = forestly
+	url = https://github.com/cran/forestly
 [submodule "forestmangr"]
 	path = forestmangr
 	url = https://github.com/cran/forestmangr
@@ -47618,6 +47639,9 @@
 [submodule "randomForestSRC"]
 	path = randomForestSRC
 	url = https://github.com/cran/randomForestSRC
+[submodule "randomForestVIP"]
+	path = randomForestVIP
+	url = https://github.com/cran/randomForestVIP
 [submodule "randomGLM"]
 	path = randomGLM
 	url = https://github.com/cran/randomGLM
@@ -48638,6 +48662,9 @@
 [submodule "remiod"]
 	path = remiod
 	url = https://github.com/cran/remiod
+[submodule "remmy"]
+	path = remmy
+	url = https://github.com/cran/remmy
 [submodule "remote"]
 	path = remote
 	url = https://github.com/cran/remote
@@ -52499,6 +52526,9 @@
 [submodule "signalHsmm"]
 	path = signalHsmm
 	url = https://github.com/cran/signalHsmm
+[submodule "signatureSurvival"]
+	path = signatureSurvival
+	url = https://github.com/cran/signatureSurvival
 [submodule "signed.backbones"]
 	path = signed.backbones
 	url = https://github.com/cran/signed.backbones
@@ -53033,6 +53063,9 @@
 [submodule "slp"]
 	path = slp
 	url = https://github.com/cran/slp
+[submodule "slr"]
+	path = slr
+	url = https://github.com/cran/slr
 [submodule "slurmR"]
 	path = slurmR
 	url = https://github.com/cran/slurmR
