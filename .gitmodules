@@ -39680,6 +39680,9 @@
 [submodule "missingHE"]
 	path = missingHE
 	url = https://github.com/cran/missingHE
+[submodule "missoNet"]
+	path = missoNet
+	url = https://github.com/cran/missoNet
 [submodule "mistat"]
 	path = mistat
 	url = https://github.com/cran/mistat
@@ -40022,6 +40025,9 @@
 [submodule "mlsjunkgen"]
 	path = mlsjunkgen
 	url = https://github.com/cran/mlsjunkgen
+[submodule "mlstrOpalr"]
+	path = mlstrOpalr
+	url = https://github.com/cran/mlstrOpalr
 [submodule "mlt"]
 	path = mlt
 	url = https://github.com/cran/mlt
@@ -43709,6 +43715,9 @@
 [submodule "panelhetero"]
 	path = panelhetero
 	url = https://github.com/cran/panelhetero
+[submodule "panelr"]
+	path = panelr
+	url = https://github.com/cran/panelr
 [submodule "panelsummary"]
 	path = panelsummary
 	url = https://github.com/cran/panelsummary
@@ -55850,6 +55859,9 @@
 [submodule "tcplfit2"]
 	path = tcplfit2
 	url = https://github.com/cran/tcplfit2
+[submodule "tcsinvest"]
+	path = tcsinvest
+	url = https://github.com/cran/tcsinvest
 [submodule "td"]
 	path = td
 	url = https://github.com/cran/td
@@ -59477,6 +59489,9 @@
 [submodule "xLLiM"]
 	path = xLLiM
 	url = https://github.com/cran/xLLiM
+[submodule "xQTLbiolinks"]
+	path = xQTLbiolinks
+	url = https://github.com/cran/xQTLbiolinks
 [submodule "xROI"]
 	path = xROI
 	url = https://github.com/cran/xROI
