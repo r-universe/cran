@@ -23813,9 +23813,6 @@
 [submodule "corporaexplorer"]
 	path = corporaexplorer
 	url = https://github.com/cran/corporaexplorer
-[submodule "corpus"]
-	path = corpus
-	url = https://github.com/cran/corpus
 [submodule "corpustools"]
 	path = corpustools
 	url = https://github.com/cran/corpustools
@@ -54908,9 +54905,6 @@
 [submodule "styler"]
 	path = styler
 	url = https://github.com/cran/styler
-[submodule "stylest"]
-	path = stylest
-	url = https://github.com/cran/stylest
 [submodule "stylo"]
 	path = stylo
 	url = https://github.com/cran/stylo
