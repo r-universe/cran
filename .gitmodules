@@ -17102,6 +17102,9 @@
 [submodule "UnivRNG"]
 	path = UnivRNG
 	url = https://github.com/cran/UnivRNG
+[submodule "UpDown"]
+	path = UpDown
+	url = https://github.com/cran/UpDown
 [submodule "UpSetR"]
 	path = UpSetR
 	url = https://github.com/cran/UpSetR
@@ -44366,6 +44369,9 @@
 [submodule "penalizedcdf"]
 	path = penalizedcdf
 	url = https://github.com/cran/penalizedcdf
+[submodule "penalizedclr"]
+	path = penalizedclr
+	url = https://github.com/cran/penalizedclr
 [submodule "penaltyLearning"]
 	path = penaltyLearning
 	url = https://github.com/cran/penaltyLearning
@@ -53240,6 +53246,9 @@
 [submodule "smoots"]
 	path = smoots
 	url = https://github.com/cran/smoots
+[submodule "smosr"]
+	path = smosr
+	url = https://github.com/cran/smosr
 [submodule "smotefamily"]
 	path = smotefamily
 	url = https://github.com/cran/smotefamily
