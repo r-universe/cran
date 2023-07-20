@@ -11390,6 +11390,9 @@
 [submodule "PhenotypeSimulator"]
 	path = PhenotypeSimulator
 	url = https://github.com/cran/PhenotypeSimulator
+[submodule "Phi2rho"]
+	path = Phi2rho
+	url = https://github.com/cran/Phi2rho
 [submodule "PhilipsHue"]
 	path = PhilipsHue
 	url = https://github.com/cran/PhilipsHue
