@@ -25754,9 +25754,6 @@
 [submodule "dfrr"]
 	path = dfrr
 	url = https://github.com/cran/dfrr
-[submodule "dfsaneacc"]
-	path = dfsaneacc
-	url = https://github.com/cran/dfsaneacc
 [submodule "dfvad"]
 	path = dfvad
 	url = https://github.com/cran/dfvad
@@ -35543,9 +35540,6 @@
 [submodule "itsadug"]
 	path = itsadug
 	url = https://github.com/cran/itsadug
-[submodule "itscalledsoccer"]
-	path = itscalledsoccer
-	url = https://github.com/cran/itscalledsoccer
 [submodule "itsdm"]
 	path = itsdm
 	url = https://github.com/cran/itsdm
