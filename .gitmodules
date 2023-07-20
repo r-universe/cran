@@ -12035,6 +12035,9 @@
 [submodule "R2PPT"]
 	path = R2PPT
 	url = https://github.com/cran/R2PPT
+[submodule "R2ROC"]
+	path = R2ROC
+	url = https://github.com/cran/R2ROC
 [submodule "R2SWF"]
 	path = R2SWF
 	url = https://github.com/cran/R2SWF
@@ -35300,6 +35303,9 @@
 [submodule "ipmr"]
 	path = ipmr
 	url = https://github.com/cran/ipmr
+[submodule "ipolygrowth"]
+	path = ipolygrowth
+	url = https://github.com/cran/ipolygrowth
 [submodule "ipr"]
 	path = ipr
 	url = https://github.com/cran/ipr
