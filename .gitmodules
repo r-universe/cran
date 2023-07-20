@@ -7709,6 +7709,9 @@
 [submodule "L2E"]
 	path = L2E
 	url = https://github.com/cran/L2E
+[submodule "L2hdchange"]
+	path = L2hdchange
+	url = https://github.com/cran/L2hdchange
 [submodule "LA"]
 	path = LA
 	url = https://github.com/cran/LA
@@ -27251,6 +27254,9 @@
 [submodule "ecorest"]
 	path = ecorest
 	url = https://github.com/cran/ecorest
+[submodule "ecos"]
+	path = ecos
+	url = https://github.com/cran/ecos
 [submodule "ecosim"]
 	path = ecosim
 	url = https://github.com/cran/ecosim
@@ -30032,6 +30038,9 @@
 [submodule "fqar"]
 	path = fqar
 	url = https://github.com/cran/fqar
+[submodule "frab"]
+	path = frab
+	url = https://github.com/cran/frab
 [submodule "fracdiff"]
 	path = fracdiff
 	url = https://github.com/cran/fracdiff
