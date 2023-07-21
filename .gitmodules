@@ -2867,6 +2867,9 @@
 [submodule "ComplexUpset"]
 	path = ComplexUpset
 	url = https://github.com/cran/ComplexUpset
+[submodule "CompositeReliability"]
+	path = CompositeReliability
+	url = https://github.com/cran/CompositeReliability
 [submodule "Compositional"]
 	path = Compositional
 	url = https://github.com/cran/Compositional
