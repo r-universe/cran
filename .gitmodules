@@ -9650,6 +9650,9 @@
 [submodule "MultiBD"]
 	path = MultiBD
 	url = https://github.com/cran/MultiBD
+[submodule "MultiClassROC"]
+	path = MultiClassROC
+	url = https://github.com/cran/MultiClassROC
 [submodule "MultiFit"]
 	path = MultiFit
 	url = https://github.com/cran/MultiFit
@@ -20705,6 +20708,9 @@
 [submodule "bisectr"]
 	path = bisectr
 	url = https://github.com/cran/bisectr
+[submodule "bisg"]
+	path = bisg
+	url = https://github.com/cran/bisg
 [submodule "bisque"]
 	path = bisque
 	url = https://github.com/cran/bisque
@@ -23486,6 +23492,9 @@
 [submodule "concordance"]
 	path = concordance
 	url = https://github.com/cran/concordance
+[submodule "concordancer"]
+	path = concordancer
+	url = https://github.com/cran/concordancer
 [submodule "concreg"]
 	path = concreg
 	url = https://github.com/cran/concreg
@@ -38426,6 +38435,9 @@
 [submodule "matchbook"]
 	path = matchbook
 	url = https://github.com/cran/matchbook
+[submodule "matchingMarkets"]
+	path = matchingMarkets
+	url = https://github.com/cran/matchingMarkets
 [submodule "matchingR"]
 	path = matchingR
 	url = https://github.com/cran/matchingR
