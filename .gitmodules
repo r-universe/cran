@@ -914,6 +914,9 @@
 [submodule "BESTree"]
 	path = BESTree
 	url = https://github.com/cran/BESTree
+[submodule "BET"]
+	path = BET
+	url = https://github.com/cran/BET
 [submodule "BETS"]
 	path = BETS
 	url = https://github.com/cran/BETS
