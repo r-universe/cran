@@ -6677,9 +6677,6 @@
 [submodule "HhP"]
 	path = HhP
 	url = https://github.com/cran/HhP
-[submodule "HiCfeat"]
-	path = HiCfeat
-	url = https://github.com/cran/HiCfeat
 [submodule "HiClimR"]
 	path = HiClimR
 	url = https://github.com/cran/HiClimR
@@ -13355,9 +13352,6 @@
 [submodule "Rbent"]
 	path = Rbent
 	url = https://github.com/cran/Rbent
-[submodule "Rbgs"]
-	path = Rbgs
-	url = https://github.com/cran/Rbgs
 [submodule "RblDataLicense"]
 	path = RblDataLicense
 	url = https://github.com/cran/RblDataLicense
@@ -49424,9 +49418,6 @@
 [submodule "rjwsacruncher"]
 	path = rjwsacruncher
 	url = https://github.com/cran/rjwsacruncher
-[submodule "rkafka"]
-	path = rkafka
-	url = https://github.com/cran/rkafka
 [submodule "rkafkajars"]
 	path = rkafkajars
 	url = https://github.com/cran/rkafkajars
@@ -51257,9 +51248,6 @@
 [submodule "scatr"]
 	path = scatr
 	url = https://github.com/cran/scatr
-[submodule "scatteR"]
-	path = scatteR
-	url = https://github.com/cran/scatteR
 [submodule "scatterD3"]
 	path = scatterD3
 	url = https://github.com/cran/scatterD3
@@ -54521,9 +54509,6 @@
 [submodule "stapler"]
 	path = stapler
 	url = https://github.com/cran/stapler
-[submodule "staplr"]
-	path = staplr
-	url = https://github.com/cran/staplr
 [submodule "stargazer"]
 	path = stargazer
 	url = https://github.com/cran/stargazer
