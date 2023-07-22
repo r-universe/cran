@@ -35636,6 +35636,9 @@
 [submodule "izmir"]
 	path = izmir
 	url = https://github.com/cran/izmir
+[submodule "jSDM"]
+	path = jSDM
+	url = https://github.com/cran/jSDM
 [submodule "jScore"]
 	path = jScore
 	url = https://github.com/cran/jScore
@@ -44558,6 +44561,9 @@
 [submodule "pfica"]
 	path = pfica
 	url = https://github.com/cran/pfica
+[submodule "pg"]
+	path = pg
+	url = https://github.com/cran/pg
 [submodule "pgTools"]
 	path = pgTools
 	url = https://github.com/cran/pgTools
@@ -53978,6 +53984,9 @@
 [submodule "spectrolab"]
 	path = spectrolab
 	url = https://github.com/cran/spectrolab
+[submodule "sped"]
+	path = sped
+	url = https://github.com/cran/sped
 [submodule "speech"]
 	path = speech
 	url = https://github.com/cran/speech
