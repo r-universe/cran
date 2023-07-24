@@ -8426,9 +8426,6 @@
 [submodule "MCBackscattering"]
 	path = MCBackscattering
 	url = https://github.com/cran/MCBackscattering
-[submodule "MCDA"]
-	path = MCDA
-	url = https://github.com/cran/MCDA
 [submodule "MCI"]
 	path = MCI
 	url = https://github.com/cran/MCI
