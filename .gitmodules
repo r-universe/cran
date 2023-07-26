@@ -57200,9 +57200,6 @@
 [submodule "trawl"]
 	path = trawl
 	url = https://github.com/cran/trawl
-[submodule "treasuryTR"]
-	path = treasuryTR
-	url = https://github.com/cran/treasuryTR
 [submodule "tree"]
 	path = tree
 	url = https://github.com/cran/tree
@@ -57602,9 +57599,6 @@
 [submodule "tufterhandout"]
 	path = tufterhandout
 	url = https://github.com/cran/tufterhandout
-[submodule "tukeyGH"]
-	path = tukeyGH
-	url = https://github.com/cran/tukeyGH
 [submodule "tukeytrend"]
 	path = tukeytrend
 	url = https://github.com/cran/tukeytrend
