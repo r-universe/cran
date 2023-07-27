@@ -22124,9 +22124,6 @@
 [submodule "censusr"]
 	path = censusr
 	url = https://github.com/cran/censusr
-[submodule "censusxy"]
-	path = censusxy
-	url = https://github.com/cran/censusxy
 [submodule "censys"]
 	path = censys
 	url = https://github.com/cran/censys
