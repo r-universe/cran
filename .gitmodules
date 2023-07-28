@@ -59315,9 +59315,6 @@
 [submodule "woodValuationDE"]
 	path = woodValuationDE
 	url = https://github.com/cran/woodValuationDE
-[submodule "woodendesc"]
-	path = woodendesc
-	url = https://github.com/cran/woodendesc
 [submodule "wooldridge"]
 	path = wooldridge
 	url = https://github.com/cran/wooldridge
