@@ -36596,9 +36596,6 @@
 [submodule "lareshiny"]
 	path = lareshiny
 	url = https://github.com/cran/lareshiny
-[submodule "largeList"]
-	path = largeList
-	url = https://github.com/cran/largeList
 [submodule "lars"]
 	path = lars
 	url = https://github.com/cran/lars
