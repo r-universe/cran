@@ -27161,9 +27161,6 @@
 [submodule "ebreg"]
 	path = ebreg
 	url = https://github.com/cran/ebreg
-[submodule "ebvcube"]
-	path = ebvcube
-	url = https://github.com/cran/ebvcube
 [submodule "ec50estimator"]
 	path = ec50estimator
 	url = https://github.com/cran/ec50estimator
@@ -49127,9 +49124,6 @@
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cran/rgexf
-[submodule "rgho"]
-	path = rgho
-	url = https://github.com/cran/rgho
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/cran/rgl
