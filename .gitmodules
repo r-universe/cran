@@ -11975,9 +11975,6 @@
 [submodule "QurvE"]
 	path = QurvE
 	url = https://github.com/cran/QurvE
-[submodule "R.SamBada"]
-	path = R.SamBada
-	url = https://github.com/cran/R.SamBada
 [submodule "R.cache"]
 	path = R.cache
 	url = https://github.com/cran/R.cache
@@ -20114,9 +20111,6 @@
 [submodule "beans"]
 	path = beans
 	url = https://github.com/cran/beans
-[submodule "beanz"]
-	path = beanz
-	url = https://github.com/cran/beanz
 [submodule "bearishTrader"]
 	path = bearishTrader
 	url = https://github.com/cran/bearishTrader
@@ -25763,9 +25757,6 @@
 [submodule "dfphase1"]
 	path = dfphase1
 	url = https://github.com/cran/dfphase1
-[submodule "dfpk"]
-	path = dfpk
-	url = https://github.com/cran/dfpk
 [submodule "dfrr"]
 	path = dfrr
 	url = https://github.com/cran/dfrr
@@ -34550,9 +34541,6 @@
 [submodule "idefix"]
 	path = idefix
 	url = https://github.com/cran/idefix
-[submodule "idem"]
-	path = idem
-	url = https://github.com/cran/idem
 [submodule "idendr0"]
 	path = idendr0
 	url = https://github.com/cran/idendr0
@@ -38771,9 +38759,6 @@
 [submodule "mda"]
 	path = mda
 	url = https://github.com/cran/mda
-[submodule "mdapack"]
-	path = mdapack
-	url = https://github.com/cran/mdapack
 [submodule "mdatools"]
 	path = mdatools
 	url = https://github.com/cran/mdatools
@@ -38798,9 +38783,6 @@
 [submodule "mdhglm"]
 	path = mdhglm
 	url = https://github.com/cran/mdhglm
-[submodule "mdir"]
-	path = mdir
-	url = https://github.com/cran/mdir
 [submodule "mdir.logrank"]
 	path = mdir.logrank
 	url = https://github.com/cran/mdir.logrank
@@ -43748,9 +43730,6 @@
 [submodule "panelhetero"]
 	path = panelhetero
 	url = https://github.com/cran/panelhetero
-[submodule "panelr"]
-	path = panelr
-	url = https://github.com/cran/panelr
 [submodule "panelsummary"]
 	path = panelsummary
 	url = https://github.com/cran/panelsummary
@@ -58574,9 +58553,6 @@
 [submodule "visdat"]
 	path = visdat
 	url = https://github.com/cran/visdat
-[submodule "visit"]
-	path = visit
-	url = https://github.com/cran/visit
 [submodule "visreg"]
 	path = visreg
 	url = https://github.com/cran/visreg
