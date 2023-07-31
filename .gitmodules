@@ -974,9 +974,6 @@
 [submodule "BICORN"]
 	path = BICORN
 	url = https://github.com/cran/BICORN
-[submodule "BIDistances"]
-	path = BIDistances
-	url = https://github.com/cran/BIDistances
 [submodule "BIEN"]
 	path = BIEN
 	url = https://github.com/cran/BIEN
