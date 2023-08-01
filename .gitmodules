@@ -32003,9 +32003,6 @@
 [submodule "gifti"]
 	path = gifti
 	url = https://github.com/cran/gifti
-[submodule "giftwrap"]
-	path = giftwrap
-	url = https://github.com/cran/giftwrap
 [submodule "gigg"]
 	path = gigg
 	url = https://github.com/cran/gigg
@@ -37043,9 +37040,6 @@
 [submodule "librarysnapshot"]
 	path = librarysnapshot
 	url = https://github.com/cran/librarysnapshot
-[submodule "libstableR"]
-	path = libstableR
-	url = https://github.com/cran/libstableR
 [submodule "lidR"]
 	path = lidR
 	url = https://github.com/cran/lidR
@@ -41225,9 +41219,6 @@
 [submodule "mvp"]
 	path = mvp
 	url = https://github.com/cran/mvp
-[submodule "mvpd"]
-	path = mvpd
-	url = https://github.com/cran/mvpd
 [submodule "mvrsquared"]
 	path = mvrsquared
 	url = https://github.com/cran/mvrsquared
@@ -41339,9 +41330,6 @@
 [submodule "namer"]
 	path = namer
 	url = https://github.com/cran/namer
-[submodule "namespace"]
-	path = namespace
-	url = https://github.com/cran/namespace
 [submodule "nametagger"]
 	path = nametagger
 	url = https://github.com/cran/nametagger
