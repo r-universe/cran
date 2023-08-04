@@ -1058,9 +1058,6 @@
 [submodule "BMTAR"]
 	path = BMTAR
 	url = https://github.com/cran/BMTAR
-[submodule "BMTME"]
-	path = BMTME
-	url = https://github.com/cran/BMTME
 [submodule "BMisc"]
 	path = BMisc
 	url = https://github.com/cran/BMisc
@@ -13796,9 +13793,6 @@
 [submodule "RegressionFactory"]
 	path = RegressionFactory
 	url = https://github.com/cran/RegressionFactory
-[submodule "RegularizedSCA"]
-	path = RegularizedSCA
-	url = https://github.com/cran/RegularizedSCA
 [submodule "ReinforcementLearning"]
 	path = ReinforcementLearning
 	url = https://github.com/cran/ReinforcementLearning
