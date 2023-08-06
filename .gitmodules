@@ -40130,9 +40130,6 @@
 [submodule "mniw"]
 	path = mniw
 	url = https://github.com/cran/mniw
-[submodule "mnj"]
-	path = mnj
-	url = https://github.com/cran/mnj
 [submodule "mnlfa"]
 	path = mnlfa
 	url = https://github.com/cran/mnlfa
