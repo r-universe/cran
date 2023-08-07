@@ -58748,6 +58748,9 @@
 [submodule "vvtableau"]
 	path = vvtableau
 	url = https://github.com/cran/vvtableau
+[submodule "vvtermtime"]
+	path = vvtermtime
+	url = https://github.com/cran/vvtermtime
 [submodule "vwline"]
 	path = vwline
 	url = https://github.com/cran/vwline
