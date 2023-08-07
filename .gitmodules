@@ -42431,9 +42431,6 @@
 [submodule "nse"]
 	path = nse
 	url = https://github.com/cran/nse
-[submodule "nse2r"]
-	path = nse2r
-	url = https://github.com/cran/nse2r
 [submodule "nseval"]
 	path = nseval
 	url = https://github.com/cran/nseval
