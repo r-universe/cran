@@ -1043,9 +1043,6 @@
 [submodule "BMRMM"]
 	path = BMRMM
 	url = https://github.com/cran/BMRMM
-[submodule "BMRSr"]
-	path = BMRSr
-	url = https://github.com/cran/BMRSr
 [submodule "BMRV"]
 	path = BMRV
 	url = https://github.com/cran/BMRV
@@ -6065,9 +6062,6 @@
 [submodule "Gammareg"]
 	path = Gammareg
 	url = https://github.com/cran/Gammareg
-[submodule "GapAnalysis"]
-	path = GapAnalysis
-	url = https://github.com/cran/GapAnalysis
 [submodule "GauPro"]
 	path = GauPro
 	url = https://github.com/cran/GauPro
@@ -53729,9 +53723,6 @@
 [submodule "spass"]
 	path = spass
 	url = https://github.com/cran/spass
-[submodule "spatPomp"]
-	path = spatPomp
-	url = https://github.com/cran/spatPomp
 [submodule "spate"]
 	path = spate
 	url = https://github.com/cran/spate
