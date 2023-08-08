@@ -9581,6 +9581,9 @@
 [submodule "MortalityGaps"]
 	path = MortalityGaps
 	url = https://github.com/cran/MortalityGaps
+[submodule "MortalityLaws"]
+	path = MortalityLaws
+	url = https://github.com/cran/MortalityLaws
 [submodule "MortalityTables"]
 	path = MortalityTables
 	url = https://github.com/cran/MortalityTables
@@ -15809,6 +15812,9 @@
 [submodule "SpatialPosition"]
 	path = SpatialPosition
 	url = https://github.com/cran/SpatialPosition
+[submodule "SpatialRDD"]
+	path = SpatialRDD
+	url = https://github.com/cran/SpatialRDD
 [submodule "SpatialRegimes"]
 	path = SpatialRegimes
 	url = https://github.com/cran/SpatialRegimes
@@ -19253,6 +19259,9 @@
 [submodule "async"]
 	path = async
 	url = https://github.com/cran/async
+[submodule "atRisk"]
+	path = atRisk
+	url = https://github.com/cran/atRisk
 [submodule "ata"]
 	path = ata
 	url = https://github.com/cran/ata
@@ -21434,6 +21443,9 @@
 [submodule "bvpSolve"]
 	path = bvpSolve
 	url = https://github.com/cran/bvpSolve
+[submodule "bvpa"]
+	path = bvpa
+	url = https://github.com/cran/bvpa
 [submodule "bwd"]
 	path = bwd
 	url = https://github.com/cran/bwd
@@ -25436,6 +25448,9 @@
 [submodule "deflist"]
 	path = deflist
 	url = https://github.com/cran/deflist
+[submodule "defm"]
+	path = defm
+	url = https://github.com/cran/defm
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
@@ -49823,6 +49838,9 @@
 [submodule "roistats"]
 	path = roistats
 	url = https://github.com/cran/roistats
+[submodule "rolap"]
+	path = rolap
+	url = https://github.com/cran/rolap
 [submodule "roll"]
 	path = roll
 	url = https://github.com/cran/roll
@@ -55037,6 +55055,9 @@
 [submodule "sugarbag"]
 	path = sugarbag
 	url = https://github.com/cran/sugarbag
+[submodule "suggests"]
+	path = suggests
+	url = https://github.com/cran/suggests
 [submodule "sugrrants"]
 	path = sugrrants
 	url = https://github.com/cran/sugrrants
