@@ -24197,9 +24197,6 @@
 [submodule "cptcity"]
 	path = cptcity
 	url = https://github.com/cran/cptcity
-[submodule "cqcr"]
-	path = cqcr
-	url = https://github.com/cran/cqcr
 [submodule "cqrReg"]
 	path = cqrReg
 	url = https://github.com/cran/cqrReg
@@ -33632,9 +33629,6 @@
 [submodule "hierSDR"]
 	path = hierSDR
 	url = https://github.com/cran/hierSDR
-[submodule "hierarchicalDS"]
-	path = hierarchicalDS
-	url = https://github.com/cran/hierarchicalDS
 [submodule "hierarchicalSets"]
 	path = hierarchicalSets
 	url = https://github.com/cran/hierarchicalSets
