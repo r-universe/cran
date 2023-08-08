@@ -2096,6 +2096,9 @@
 [submodule "CINID"]
 	path = CINID
 	url = https://github.com/cran/CINID
+[submodule "CINNA"]
+	path = CINNA
+	url = https://github.com/cran/CINNA
 [submodule "CINmetrics"]
 	path = CINmetrics
 	url = https://github.com/cran/CINmetrics
@@ -36338,6 +36341,9 @@
 [submodule "kosel"]
 	path = kosel
 	url = https://github.com/cran/kosel
+[submodule "kosis"]
+	path = kosis
+	url = https://github.com/cran/kosis
 [submodule "kpcalg"]
 	path = kpcalg
 	url = https://github.com/cran/kpcalg
@@ -36590,6 +36596,9 @@
 [submodule "latdiag"]
 	path = latdiag
 	url = https://github.com/cran/latdiag
+[submodule "latenetwork"]
+	path = latenetwork
+	url = https://github.com/cran/latenetwork
 [submodule "latentFactoR"]
 	path = latentFactoR
 	url = https://github.com/cran/latentFactoR
@@ -47738,6 +47747,9 @@
 [submodule "rankrate"]
 	path = rankrate
 	url = https://github.com/cran/rankrate
+[submodule "ranktreeEnsemble"]
+	path = ranktreeEnsemble
+	url = https://github.com/cran/ranktreeEnsemble
 [submodule "rapbase"]
 	path = rapbase
 	url = https://github.com/cran/rapbase
@@ -50687,6 +50699,9 @@
 [submodule "s2net"]
 	path = s2net
 	url = https://github.com/cran/s2net
+[submodule "s3"]
+	path = s3
+	url = https://github.com/cran/s3
 [submodule "s3.resourcer"]
 	path = s3.resourcer
 	url = https://github.com/cran/s3.resourcer
