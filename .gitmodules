@@ -42299,6 +42299,9 @@
 [submodule "nparsurv"]
 	path = nparsurv
 	url = https://github.com/cran/nparsurv
+[submodule "npboottprm"]
+	path = npboottprm
+	url = https://github.com/cran/npboottprm
 [submodule "npbr"]
 	path = npbr
 	url = https://github.com/cran/npbr
@@ -45488,6 +45491,9 @@
 [submodule "pool"]
 	path = pool
 	url = https://github.com/cran/pool
+[submodule "poolABC"]
+	path = poolABC
+	url = https://github.com/cran/poolABC
 [submodule "poolHelper"]
 	path = poolHelper
 	url = https://github.com/cran/poolHelper
