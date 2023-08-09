@@ -40892,9 +40892,6 @@
 [submodule "multiUS"]
 	path = multiUS
 	url = https://github.com/cran/multiUS
-[submodule "multibiasmeta"]
-	path = multibiasmeta
-	url = https://github.com/cran/multibiasmeta
 [submodule "multibiplotGUI"]
 	path = multibiplotGUI
 	url = https://github.com/cran/multibiplotGUI
