@@ -10856,6 +10856,9 @@
 [submodule "PL94171"]
 	path = PL94171
 	url = https://github.com/cran/PL94171
+[submodule "PLEXI"]
+	path = PLEXI
+	url = https://github.com/cran/PLEXI
 [submodule "PLFD"]
 	path = PLFD
 	url = https://github.com/cran/PLFD
@@ -26795,6 +26798,9 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/cran/duckdb
+[submodule "duckdbfs"]
+	path = duckdbfs
+	url = https://github.com/cran/duckdbfs
 [submodule "duckduckr"]
 	path = duckduckr
 	url = https://github.com/cran/duckduckr
@@ -30356,6 +30362,9 @@
 [submodule "funique"]
 	path = funique
 	url = https://github.com/cran/funique
+[submodule "funkycells"]
+	path = funkycells
+	url = https://github.com/cran/funkycells
 [submodule "funkyheatmap"]
 	path = funkyheatmap
 	url = https://github.com/cran/funkyheatmap
@@ -33242,6 +33251,9 @@
 [submodule "hamlet"]
 	path = hamlet
 	url = https://github.com/cran/hamlet
+[submodule "handcodeR"]
+	path = handcodeR
+	url = https://github.com/cran/handcodeR
 [submodule "handlr"]
 	path = handlr
 	url = https://github.com/cran/handlr
@@ -50084,6 +50096,9 @@
 [submodule "rprintf"]
 	path = rprintf
 	url = https://github.com/cran/rprintf
+[submodule "rprofile"]
+	path = rprofile
+	url = https://github.com/cran/rprofile
 [submodule "rprojroot"]
 	path = rprojroot
 	url = https://github.com/cran/rprojroot
