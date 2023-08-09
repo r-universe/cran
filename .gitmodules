@@ -7157,6 +7157,9 @@
 [submodule "ISR"]
 	path = ISR
 	url = https://github.com/cran/ISR
+[submodule "ISRaD"]
+	path = ISRaD
+	url = https://github.com/cran/ISRaD
 [submodule "ISS"]
 	path = ISS
 	url = https://github.com/cran/ISS
@@ -29204,6 +29207,9 @@
 [submodule "febr"]
 	path = febr
 	url = https://github.com/cran/febr
+[submodule "fec16"]
+	path = fec16
+	url = https://github.com/cran/fec16
 [submodule "fechner"]
 	path = fechner
 	url = https://github.com/cran/fechner
@@ -43250,6 +43256,9 @@
 [submodule "ordinalgmifs"]
 	path = ordinalgmifs
 	url = https://github.com/cran/ordinalgmifs
+[submodule "ordinalpattern"]
+	path = ordinalpattern
+	url = https://github.com/cran/ordinalpattern
 [submodule "ordr"]
 	path = ordr
 	url = https://github.com/cran/ordr
@@ -49109,6 +49118,9 @@
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cran/rgexf
+[submodule "rgho"]
+	path = rgho
+	url = https://github.com/cran/rgho
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/cran/rgl
@@ -57005,6 +57017,9 @@
 [submodule "toscutil"]
 	path = toscutil
 	url = https://github.com/cran/toscutil
+[submodule "tosr"]
+	path = tosr
+	url = https://github.com/cran/tosr
 [submodule "totalcensus"]
 	path = totalcensus
 	url = https://github.com/cran/totalcensus
