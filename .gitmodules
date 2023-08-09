@@ -53795,6 +53795,9 @@
 [submodule "spass"]
 	path = spass
 	url = https://github.com/cran/spass
+[submodule "spatPomp"]
+	path = spatPomp
+	url = https://github.com/cran/spatPomp
 [submodule "spate"]
 	path = spate
 	url = https://github.com/cran/spate
