@@ -59276,6 +59276,9 @@
 [submodule "windex"]
 	path = windex
 	url = https://github.com/cran/windex
+[submodule "windows.pls"]
+	path = windows.pls
+	url = https://github.com/cran/windows.pls
 [submodule "windsoraiR"]
 	path = windsoraiR
 	url = https://github.com/cran/windsoraiR
