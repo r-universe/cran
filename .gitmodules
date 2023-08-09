@@ -20105,6 +20105,9 @@
 [submodule "beans"]
 	path = beans
 	url = https://github.com/cran/beans
+[submodule "beanz"]
+	path = beanz
+	url = https://github.com/cran/beanz
 [submodule "bearishTrader"]
 	path = bearishTrader
 	url = https://github.com/cran/bearishTrader
@@ -34541,6 +34544,9 @@
 [submodule "idefix"]
 	path = idefix
 	url = https://github.com/cran/idefix
+[submodule "idem"]
+	path = idem
+	url = https://github.com/cran/idem
 [submodule "idendr0"]
 	path = idendr0
 	url = https://github.com/cran/idendr0
@@ -55304,6 +55310,9 @@
 [submodule "survivalMPLdc"]
 	path = survivalMPLdc
 	url = https://github.com/cran/survivalMPLdc
+[submodule "survivalREC"]
+	path = survivalREC
+	url = https://github.com/cran/survivalREC
 [submodule "survivalROC"]
 	path = survivalROC
 	url = https://github.com/cran/survivalROC
@@ -58559,6 +58568,9 @@
 [submodule "visdat"]
 	path = visdat
 	url = https://github.com/cran/visdat
+[submodule "visit"]
+	path = visit
+	url = https://github.com/cran/visit
 [submodule "visreg"]
 	path = visreg
 	url = https://github.com/cran/visreg
