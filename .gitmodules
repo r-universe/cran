@@ -14180,9 +14180,6 @@
 [submodule "Rpadrino"]
 	path = Rpadrino
 	url = https://github.com/cran/Rpadrino
-[submodule "Rpcop"]
-	path = Rpcop
-	url = https://github.com/cran/Rpcop
 [submodule "RpeakChrom"]
 	path = RpeakChrom
 	url = https://github.com/cran/RpeakChrom
@@ -36989,9 +36986,6 @@
 [submodule "lestat"]
 	path = lestat
 	url = https://github.com/cran/lestat
-[submodule "letsR"]
-	path = letsR
-	url = https://github.com/cran/letsR
 [submodule "levitate"]
 	path = levitate
 	url = https://github.com/cran/levitate
@@ -37415,9 +37409,6 @@
 [submodule "lmom"]
 	path = lmom
 	url = https://github.com/cran/lmom
-[submodule "lmomPi"]
-	path = lmomPi
-	url = https://github.com/cran/lmomPi
 [submodule "lmomRFA"]
 	path = lmomRFA
 	url = https://github.com/cran/lmomRFA
@@ -51749,9 +51740,6 @@
 [submodule "semlbci"]
 	path = semlbci
 	url = https://github.com/cran/semlbci
-[submodule "semmcci"]
-	path = semmcci
-	url = https://github.com/cran/semmcci
 [submodule "semmcmc"]
 	path = semmcmc
 	url = https://github.com/cran/semmcmc
