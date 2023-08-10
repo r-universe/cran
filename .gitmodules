@@ -2321,9 +2321,6 @@
 [submodule "CSESA"]
 	path = CSESA
 	url = https://github.com/cran/CSESA
-[submodule "CSFA"]
-	path = CSFA
-	url = https://github.com/cran/CSFA
 [submodule "CSGo"]
 	path = CSGo
 	url = https://github.com/cran/CSGo
@@ -15530,9 +15527,6 @@
 [submodule "SimSurvNMarker"]
 	path = SimSurvNMarker
 	url = https://github.com/cran/SimSurvNMarker
-[submodule "SimSurvey"]
-	path = SimSurvey
-	url = https://github.com/cran/SimSurvey
 [submodule "SimTimeVar"]
 	path = SimTimeVar
 	url = https://github.com/cran/SimTimeVar
@@ -16934,9 +16928,6 @@
 [submodule "TruncatedNormal"]
 	path = TruncatedNormal
 	url = https://github.com/cran/TruncatedNormal
-[submodule "TrustVDJ"]
-	path = TrustVDJ
-	url = https://github.com/cran/TrustVDJ
 [submodule "TukeyC"]
 	path = TukeyC
 	url = https://github.com/cran/TukeyC
@@ -33116,9 +33107,6 @@
 [submodule "gustave"]
 	path = gustave
 	url = https://github.com/cran/gustave
-[submodule "gutenbergr"]
-	path = gutenbergr
-	url = https://github.com/cran/gutenbergr
 [submodule "gvc"]
 	path = gvc
 	url = https://github.com/cran/gvc
@@ -54068,9 +54056,6 @@
 [submodule "splash"]
 	path = splash
 	url = https://github.com/cran/splash
-[submodule "spldv"]
-	path = spldv
-	url = https://github.com/cran/spldv
 [submodule "splines2"]
 	path = splines2
 	url = https://github.com/cran/splines2
