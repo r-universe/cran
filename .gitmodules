@@ -4346,9 +4346,6 @@
 [submodule "EMpeaksR"]
 	path = EMpeaksR
 	url = https://github.com/cran/EMpeaksR
-[submodule "ENMTools"]
-	path = ENMTools
-	url = https://github.com/cran/ENMTools
 [submodule "ENMeval"]
 	path = ENMeval
 	url = https://github.com/cran/ENMeval
@@ -11111,9 +11108,6 @@
 [submodule "PSinference"]
 	path = PSinference
 	url = https://github.com/cran/PSinference
-[submodule "PStrata"]
-	path = PStrata
-	url = https://github.com/cran/PStrata
 [submodule "PSweight"]
 	path = PSweight
 	url = https://github.com/cran/PSweight
@@ -14351,9 +14345,6 @@
 [submodule "SADISA"]
 	path = SADISA
 	url = https://github.com/cran/SADISA
-[submodule "SAEforest"]
-	path = SAEforest
-	url = https://github.com/cran/SAEforest
 [submodule "SAEval"]
 	path = SAEval
 	url = https://github.com/cran/SAEval
@@ -36788,9 +36779,6 @@
 [submodule "ldamatch"]
 	path = ldamatch
 	url = https://github.com/cran/ldamatch
-[submodule "ldat"]
-	path = ldat
-	url = https://github.com/cran/ldat
 [submodule "ldatuning"]
 	path = ldatuning
 	url = https://github.com/cran/ldatuning
@@ -37910,9 +37898,6 @@
 [submodule "luzlogr"]
 	path = luzlogr
 	url = https://github.com/cran/luzlogr
-[submodule "lvec"]
-	path = lvec
-	url = https://github.com/cran/lvec
 [submodule "lvm4net"]
 	path = lvm4net
 	url = https://github.com/cran/lvm4net
@@ -48398,9 +48383,6 @@
 [submodule "recipes"]
 	path = recipes
 	url = https://github.com/cran/recipes
-[submodule "reclin"]
-	path = reclin
-	url = https://github.com/cran/reclin
 [submodule "reclin2"]
 	path = reclin2
 	url = https://github.com/cran/reclin2
