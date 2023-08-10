@@ -8765,6 +8765,9 @@
 [submodule "MMLR"]
 	path = MMLR
 	url = https://github.com/cran/MMLR
+[submodule "MMOC"]
+	path = MMOC
+	url = https://github.com/cran/MMOC
 [submodule "MMRcaseselection"]
 	path = MMRcaseselection
 	url = https://github.com/cran/MMRcaseselection
@@ -13115,6 +13118,9 @@
 [submodule "RTL"]
 	path = RTL
 	url = https://github.com/cran/RTL
+[submodule "RTMB"]
+	path = RTMB
+	url = https://github.com/cran/RTMB
 [submodule "RTOMO"]
 	path = RTOMO
 	url = https://github.com/cran/RTOMO
@@ -16898,6 +16904,9 @@
 [submodule "Trendtwosub"]
 	path = Trendtwosub
 	url = https://github.com/cran/Trendtwosub
+[submodule "Tri.Hierarchical.IBDs"]
+	path = Tri.Hierarchical.IBDs
+	url = https://github.com/cran/Tri.Hierarchical.IBDs
 [submodule "TriDimRegression"]
 	path = TriDimRegression
 	url = https://github.com/cran/TriDimRegression
@@ -20966,6 +20975,9 @@
 [submodule "bonsai"]
 	path = bonsai
 	url = https://github.com/cran/bonsai
+[submodule "boodist"]
+	path = boodist
+	url = https://github.com/cran/boodist
 [submodule "bookdown"]
 	path = bookdown
 	url = https://github.com/cran/bookdown
@@ -34910,6 +34922,9 @@
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cran/inegiR
+[submodule "ineptR"]
+	path = ineptR
+	url = https://github.com/cran/ineptR
 [submodule "ineq"]
 	path = ineq
 	url = https://github.com/cran/ineq
