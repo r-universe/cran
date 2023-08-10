@@ -266,9 +266,6 @@
 [submodule "APPEstimation"]
 	path = APPEstimation
 	url = https://github.com/cran/APPEstimation
-[submodule "APackOfTheClones"]
-	path = APackOfTheClones
-	url = https://github.com/cran/APackOfTheClones
 [submodule "APfun"]
 	path = APfun
 	url = https://github.com/cran/APfun
@@ -26102,9 +26099,6 @@
 [submodule "disdat"]
 	path = disdat
 	url = https://github.com/cran/disdat
-[submodule "disk.frame"]
-	path = disk.frame
-	url = https://github.com/cran/disk.frame
 [submodule "diskImageR"]
 	path = diskImageR
 	url = https://github.com/cran/diskImageR
@@ -35234,6 +35228,9 @@
 [submodule "invgamma"]
 	path = invgamma
 	url = https://github.com/cran/invgamma
+[submodule "invgamstochvol"]
+	path = invgamstochvol
+	url = https://github.com/cran/invgamstochvol
 [submodule "io"]
 	path = io
 	url = https://github.com/cran/io
@@ -41273,6 +41270,9 @@
 [submodule "mxnorm"]
 	path = mxnorm
 	url = https://github.com/cran/mxnorm
+[submodule "mxsem"]
+	path = mxsem
+	url = https://github.com/cran/mxsem
 [submodule "myCRAN"]
 	path = myCRAN
 	url = https://github.com/cran/myCRAN
@@ -42581,9 +42581,6 @@
 [submodule "oai"]
 	path = oai
 	url = https://github.com/cran/oai
-[submodule "oaii"]
-	path = oaii
-	url = https://github.com/cran/oaii
 [submodule "oaqc"]
 	path = oaqc
 	url = https://github.com/cran/oaqc
@@ -43460,9 +43457,6 @@
 [submodule "owdbr"]
 	path = owdbr
 	url = https://github.com/cran/owdbr
-[submodule "owidR"]
-	path = owidR
-	url = https://github.com/cran/owidR
 [submodule "owmr"]
 	path = owmr
 	url = https://github.com/cran/owmr
@@ -45986,9 +45980,6 @@
 [submodule "prettydoc"]
 	path = prettydoc
 	url = https://github.com/cran/prettydoc
-[submodule "prettyglm"]
-	path = prettyglm
-	url = https://github.com/cran/prettyglm
 [submodule "prettymapr"]
 	path = prettymapr
 	url = https://github.com/cran/prettymapr
@@ -50312,9 +50303,6 @@
 [submodule "rsq"]
 	path = rsq
 	url = https://github.com/cran/rsq
-[submodule "rsqliteadmin"]
-	path = rsqliteadmin
-	url = https://github.com/cran/rsqliteadmin
 [submodule "rstac"]
 	path = rstac
 	url = https://github.com/cran/rstac
@@ -51479,9 +51467,6 @@
 [submodule "sdcLog"]
 	path = sdcLog
 	url = https://github.com/cran/sdcLog
-[submodule "sdcMicro"]
-	path = sdcMicro
-	url = https://github.com/cran/sdcMicro
 [submodule "sdcSpatial"]
 	path = sdcSpatial
 	url = https://github.com/cran/sdcSpatial
