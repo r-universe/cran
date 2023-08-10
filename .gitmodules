@@ -8252,6 +8252,9 @@
 [submodule "LotkasLaw"]
 	path = LotkasLaw
 	url = https://github.com/cran/LotkasLaw
+[submodule "LowRankQP"]
+	path = LowRankQP
+	url = https://github.com/cran/LowRankQP
 [submodule "LowWAFOMNX"]
 	path = LowWAFOMNX
 	url = https://github.com/cran/LowWAFOMNX
