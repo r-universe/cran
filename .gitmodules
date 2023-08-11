@@ -27293,6 +27293,9 @@
 [submodule "ecoreg"]
 	path = ecoreg
 	url = https://github.com/cran/ecoreg
+[submodule "ecoregime"]
+	path = ecoregime
+	url = https://github.com/cran/ecoregime
 [submodule "ecorest"]
 	path = ecorest
 	url = https://github.com/cran/ecorest
@@ -48635,6 +48638,9 @@
 [submodule "regress"]
 	path = regress
 	url = https://github.com/cran/regress
+[submodule "regressinator"]
+	path = regressinator
+	url = https://github.com/cran/regressinator
 [submodule "regressoR"]
 	path = regressoR
 	url = https://github.com/cran/regressoR
