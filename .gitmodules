@@ -2030,6 +2030,9 @@
 [submodule "CFilt"]
 	path = CFilt
 	url = https://github.com/cran/CFilt
+[submodule "CFtime"]
+	path = CFtime
+	url = https://github.com/cran/CFtime
 [submodule "CGE"]
 	path = CGE
 	url = https://github.com/cran/CGE
@@ -6647,6 +6650,9 @@
 [submodule "HazardDiff"]
 	path = HazardDiff
 	url = https://github.com/cran/HazardDiff
+[submodule "HealthCal"]
+	path = HealthCal
+	url = https://github.com/cran/HealthCal
 [submodule "HeckmanEM"]
 	path = HeckmanEM
 	url = https://github.com/cran/HeckmanEM
@@ -22304,6 +22310,9 @@
 [submodule "chartql"]
 	path = chartql
 	url = https://github.com/cran/chartql
+[submodule "chatAI4R"]
+	path = chatAI4R
+	url = https://github.com/cran/chatAI4R
 [submodule "chatgpt"]
 	path = chatgpt
 	url = https://github.com/cran/chatgpt
