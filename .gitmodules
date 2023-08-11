@@ -3566,6 +3566,9 @@
 [submodule "DRomics"]
 	path = DRomics
 	url = https://github.com/cran/DRomics
+[submodule "DRquality"]
+	path = DRquality
+	url = https://github.com/cran/DRquality
 [submodule "DRviaSPCN"]
 	path = DRviaSPCN
 	url = https://github.com/cran/DRviaSPCN
@@ -4997,6 +5000,9 @@
 [submodule "FLightR"]
 	path = FLightR
 	url = https://github.com/cran/FLightR
+[submodule "FMAT"]
+	path = FMAT
+	url = https://github.com/cran/FMAT
 [submodule "FMAdist"]
 	path = FMAdist
 	url = https://github.com/cran/FMAdist
@@ -6536,6 +6542,9 @@
 [submodule "HMVD"]
 	path = HMVD
 	url = https://github.com/cran/HMVD
+[submodule "HOasso"]
+	path = HOasso
+	url = https://github.com/cran/HOasso
 [submodule "HPLB"]
 	path = HPLB
 	url = https://github.com/cran/HPLB
@@ -10103,6 +10112,9 @@
 [submodule "NetworkComparisonTest"]
 	path = NetworkComparisonTest
 	url = https://github.com/cran/NetworkComparisonTest
+[submodule "NetworkComparr"]
+	path = NetworkComparr
+	url = https://github.com/cran/NetworkComparr
 [submodule "NetworkDistance"]
 	path = NetworkDistance
 	url = https://github.com/cran/NetworkDistance
@@ -20534,6 +20546,9 @@
 [submodule "binom"]
 	path = binom
 	url = https://github.com/cran/binom
+[submodule "binomCI"]
+	path = binomCI
+	url = https://github.com/cran/binomCI
 [submodule "binomSamSize"]
 	path = binomSamSize
 	url = https://github.com/cran/binomSamSize
@@ -35057,6 +35072,9 @@
 [submodule "installr"]
 	path = installr
 	url = https://github.com/cran/installr
+[submodule "instantiate"]
+	path = instantiate
+	url = https://github.com/cran/instantiate
 [submodule "insuranceData"]
 	path = insuranceData
 	url = https://github.com/cran/insuranceData
@@ -47843,9 +47861,6 @@
 [submodule "rasterKernelEstimates"]
 	path = rasterKernelEstimates
 	url = https://github.com/cran/rasterKernelEstimates
-[submodule "rasterList"]
-	path = rasterList
-	url = https://github.com/cran/rasterList
 [submodule "rasterVis"]
 	path = rasterVis
 	url = https://github.com/cran/rasterVis
@@ -53255,6 +53270,9 @@
 [submodule "smoothtail"]
 	path = smoothtail
 	url = https://github.com/cran/smoothtail
+[submodule "smoothy"]
+	path = smoothy
+	url = https://github.com/cran/smoothy
 [submodule "smoots"]
 	path = smoots
 	url = https://github.com/cran/smoots
