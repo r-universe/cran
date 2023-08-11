@@ -36944,9 +36944,6 @@
 [submodule "legocolors"]
 	path = legocolors
 	url = https://github.com/cran/legocolors
-[submodule "lehdr"]
-	path = lehdr
-	url = https://github.com/cran/lehdr
 [submodule "leiden"]
 	path = leiden
 	url = https://github.com/cran/leiden
