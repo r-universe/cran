@@ -2813,9 +2813,6 @@
 [submodule "CombinePortfolio"]
 	path = CombinePortfolio
 	url = https://github.com/cran/CombinePortfolio
-[submodule "CommEcol"]
-	path = CommEcol
-	url = https://github.com/cran/CommEcol
 [submodule "CommKern"]
 	path = CommKern
 	url = https://github.com/cran/CommKern
@@ -17282,9 +17279,6 @@
 [submodule "Vdgraph"]
 	path = Vdgraph
 	url = https://github.com/cran/Vdgraph
-[submodule "VecStatGraphs2D"]
-	path = VecStatGraphs2D
-	url = https://github.com/cran/VecStatGraphs2D
 [submodule "VectorCodeR"]
 	path = VectorCodeR
 	url = https://github.com/cran/VectorCodeR
@@ -27011,9 +27005,6 @@
 [submodule "eList"]
 	path = eList
 	url = https://github.com/cran/eList
-[submodule "eMLEloglin"]
-	path = eMLEloglin
-	url = https://github.com/cran/eMLEloglin
 [submodule "eNchange"]
 	path = eNchange
 	url = https://github.com/cran/eNchange
@@ -27941,9 +27932,6 @@
 [submodule "episensr"]
 	path = episensr
 	url = https://github.com/cran/episensr
-[submodule "epistasis"]
-	path = epistasis
-	url = https://github.com/cran/epistasis
 [submodule "epitab"]
 	path = epitab
 	url = https://github.com/cran/epitab
@@ -38648,9 +38636,6 @@
 [submodule "mc2d"]
 	path = mc2d
 	url = https://github.com/cran/mc2d
-[submodule "mcBFtest"]
-	path = mcBFtest
-	url = https://github.com/cran/mcBFtest
 [submodule "mcMST"]
 	path = mcMST
 	url = https://github.com/cran/mcMST
@@ -49403,9 +49388,6 @@
 [submodule "rjags"]
 	path = rjags
 	url = https://github.com/cran/rjags
-[submodule "rjazz"]
-	path = rjazz
-	url = https://github.com/cran/rjazz
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
 	url = https://github.com/cran/rjdmarkdown
