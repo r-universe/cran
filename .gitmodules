@@ -8990,9 +8990,6 @@
 [submodule "MSigSeg"]
 	path = MSigSeg
 	url = https://github.com/cran/MSigSeg
-[submodule "MSinference"]
-	path = MSinference
-	url = https://github.com/cran/MSinference
 [submodule "MSwM"]
 	path = MSwM
 	url = https://github.com/cran/MSwM
