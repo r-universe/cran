@@ -4007,6 +4007,9 @@
 [submodule "DivE"]
 	path = DivE
 	url = https://github.com/cran/DivE
+[submodule "DivInsight"]
+	path = DivInsight
+	url = https://github.com/cran/DivInsight
 [submodule "DiversificationR"]
 	path = DiversificationR
 	url = https://github.com/cran/DiversificationR
@@ -40112,6 +40115,9 @@
 [submodule "mlstrOpalr"]
 	path = mlstrOpalr
 	url = https://github.com/cran/mlstrOpalr
+[submodule "mlsurvlrnrs"]
+	path = mlsurvlrnrs
+	url = https://github.com/cran/mlsurvlrnrs
 [submodule "mlt"]
 	path = mlt
 	url = https://github.com/cran/mlt
@@ -44111,6 +44117,9 @@
 [submodule "paws.storage"]
 	path = paws.storage
 	url = https://github.com/cran/paws.storage
+[submodule "pawscore"]
+	path = pawscore
+	url = https://github.com/cran/pawscore
 [submodule "pbANOVA"]
 	path = pbANOVA
 	url = https://github.com/cran/pbANOVA
@@ -45812,6 +45821,9 @@
 [submodule "ppdiag"]
 	path = ppdiag
 	url = https://github.com/cran/ppdiag
+[submodule "ppendemic"]
+	path = ppendemic
+	url = https://github.com/cran/ppendemic
 [submodule "ppgam"]
 	path = ppgam
 	url = https://github.com/cran/ppgam
@@ -53099,6 +53111,9 @@
 [submodule "slasso"]
 	path = slasso
 	url = https://github.com/cran/slasso
+[submodule "slcm"]
+	path = slcm
+	url = https://github.com/cran/slcm
 [submodule "sld"]
 	path = sld
 	url = https://github.com/cran/sld
@@ -54944,6 +54959,9 @@
 [submodule "strand"]
 	path = strand
 	url = https://github.com/cran/strand
+[submodule "stranslate"]
+	path = stranslate
+	url = https://github.com/cran/stranslate
 [submodule "strap"]
 	path = strap
 	url = https://github.com/cran/strap
