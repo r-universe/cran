@@ -15320,6 +15320,9 @@
 [submodule "SelectionBias"]
 	path = SelectionBias
 	url = https://github.com/cran/SelectionBias
+[submodule "SemNeT"]
+	path = SemNeT
+	url = https://github.com/cran/SemNeT
 [submodule "SemNetCleaner"]
 	path = SemNetCleaner
 	url = https://github.com/cran/SemNetCleaner
@@ -24998,6 +25001,9 @@
 [submodule "dartR"]
 	path = dartR
 	url = https://github.com/cran/dartR
+[submodule "dartR.base"]
+	path = dartR.base
+	url = https://github.com/cran/dartR.base
 [submodule "dartR.data"]
 	path = dartR.data
 	url = https://github.com/cran/dartR.data
@@ -27212,6 +27218,9 @@
 [submodule "ecb"]
 	path = ecb
 	url = https://github.com/cran/ecb
+[submodule "ecce"]
+	path = ecce
+	url = https://github.com/cran/ecce
 [submodule "ecd"]
 	path = ecd
 	url = https://github.com/cran/ecd
@@ -54608,6 +54617,9 @@
 [submodule "starsTileServer"]
 	path = starsTileServer
 	url = https://github.com/cran/starsTileServer
+[submodule "starschemar"]
+	path = starschemar
+	url = https://github.com/cran/starschemar
 [submodule "startR"]
 	path = startR
 	url = https://github.com/cran/startR
