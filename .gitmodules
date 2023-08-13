@@ -30137,6 +30137,9 @@
 [submodule "frailtyMMpen"]
 	path = frailtyMMpen
 	url = https://github.com/cran/frailtyMMpen
+[submodule "frailtySurv"]
+	path = frailtySurv
+	url = https://github.com/cran/frailtySurv
 [submodule "frailtypack"]
 	path = frailtypack
 	url = https://github.com/cran/frailtypack
