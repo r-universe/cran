@@ -1397,9 +1397,6 @@
 [submodule "BayesSAE"]
 	path = BayesSAE
 	url = https://github.com/cran/BayesSAE
-[submodule "BayesSPsurv"]
-	path = BayesSPsurv
-	url = https://github.com/cran/BayesSPsurv
 [submodule "BayesSUR"]
 	path = BayesSUR
 	url = https://github.com/cran/BayesSUR
