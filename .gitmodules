@@ -2684,9 +2684,6 @@
 [submodule "CluMP"]
 	path = CluMP
 	url = https://github.com/cran/CluMP
-[submodule "ClueR"]
-	path = ClueR
-	url = https://github.com/cran/ClueR
 [submodule "ClusBoot"]
 	path = ClusBoot
 	url = https://github.com/cran/ClusBoot
@@ -18830,9 +18827,6 @@
 [submodule "aphid"]
 	path = aphid
 	url = https://github.com/cran/aphid
-[submodule "aphylo"]
-	path = aphylo
-	url = https://github.com/cran/aphylo
 [submodule "api2lm"]
 	path = api2lm
 	url = https://github.com/cran/api2lm
