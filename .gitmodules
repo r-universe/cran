@@ -37121,6 +37121,9 @@
 [submodule "librarysnapshot"]
 	path = librarysnapshot
 	url = https://github.com/cran/librarysnapshot
+[submodule "libstable4u"]
+	path = libstable4u
+	url = https://github.com/cran/libstable4u
 [submodule "lidR"]
 	path = lidR
 	url = https://github.com/cran/lidR
@@ -44963,6 +44966,9 @@
 [submodule "pipeliner"]
 	path = pipeliner
 	url = https://github.com/cran/pipeliner
+[submodule "piqp"]
+	path = piqp
+	url = https://github.com/cran/piqp
 [submodule "pirate"]
 	path = pirate
 	url = https://github.com/cran/pirate
