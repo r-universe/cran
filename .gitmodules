@@ -40526,9 +40526,6 @@
 [submodule "moranajp"]
 	path = moranajp
 	url = https://github.com/cran/moranajp
-[submodule "moreparty"]
-	path = moreparty
-	url = https://github.com/cran/moreparty
 [submodule "morestopwords"]
 	path = morestopwords
 	url = https://github.com/cran/morestopwords
@@ -47645,9 +47642,6 @@
 [submodule "radarchart"]
 	path = radarchart
 	url = https://github.com/cran/radarchart
-[submodule "radiant"]
-	path = radiant
-	url = https://github.com/cran/radiant
 [submodule "radiant.basics"]
 	path = radiant.basics
 	url = https://github.com/cran/radiant.basics
@@ -47657,12 +47651,6 @@
 [submodule "radiant.design"]
 	path = radiant.design
 	url = https://github.com/cran/radiant.design
-[submodule "radiant.model"]
-	path = radiant.model
-	url = https://github.com/cran/radiant.model
-[submodule "radiant.multivariate"]
-	path = radiant.multivariate
-	url = https://github.com/cran/radiant.multivariate
 [submodule "radir"]
 	path = radir
 	url = https://github.com/cran/radir
@@ -58640,9 +58628,6 @@
 [submodule "vioplot"]
 	path = vioplot
 	url = https://github.com/cran/vioplot
-[submodule "vip"]
-	path = vip
-	url = https://github.com/cran/vip
 [submodule "vipor"]
 	path = vipor
 	url = https://github.com/cran/vipor
@@ -59477,9 +59462,6 @@
 [submodule "wordspace"]
 	path = wordspace
 	url = https://github.com/cran/wordspace
-[submodule "workboots"]
-	path = workboots
-	url = https://github.com/cran/workboots
 [submodule "workflowr"]
 	path = workflowr
 	url = https://github.com/cran/workflowr
