@@ -8285,6 +8285,9 @@
 [submodule "M2SMJF"]
 	path = M2SMJF
 	url = https://github.com/cran/M2SMJF
+[submodule "M3JF"]
+	path = M3JF
+	url = https://github.com/cran/M3JF
 [submodule "MAAPER"]
 	path = MAAPER
 	url = https://github.com/cran/MAAPER
@@ -14381,6 +14384,9 @@
 [submodule "SAFD"]
 	path = SAFD
 	url = https://github.com/cran/SAFD
+[submodule "SAGM"]
+	path = SAGM
+	url = https://github.com/cran/SAGM
 [submodule "SAGMM"]
 	path = SAGMM
 	url = https://github.com/cran/SAGMM
@@ -37895,6 +37901,9 @@
 [submodule "ltable"]
 	path = ltable
 	url = https://github.com/cran/ltable
+[submodule "lterdatasampler"]
+	path = lterdatasampler
+	url = https://github.com/cran/lterdatasampler
 [submodule "lterpalettefinder"]
 	path = lterpalettefinder
 	url = https://github.com/cran/lterpalettefinder
@@ -45689,6 +45698,9 @@
 [submodule "portfolioBacktest"]
 	path = portfolioBacktest
 	url = https://github.com/cran/portfolioBacktest
+[submodule "portn"]
+	path = portn
+	url = https://github.com/cran/portn
 [submodule "portsort"]
 	path = portsort
 	url = https://github.com/cran/portsort
@@ -51470,6 +51482,9 @@
 [submodule "scrappy"]
 	path = scrappy
 	url = https://github.com/cran/scrappy
+[submodule "screenshot"]
+	path = screenshot
+	url = https://github.com/cran/screenshot
 [submodule "scribe"]
 	path = scribe
 	url = https://github.com/cran/scribe
