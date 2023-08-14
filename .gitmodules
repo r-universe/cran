@@ -43622,6 +43622,9 @@
 [submodule "packagefinder"]
 	path = packagefinder
 	url = https://github.com/cran/packagefinder
+[submodule "packagepal"]
+	path = packagepal
+	url = https://github.com/cran/packagepal
 [submodule "packager"]
 	path = packager
 	url = https://github.com/cran/packager
@@ -49160,6 +49163,9 @@
 [submodule "rfviz"]
 	path = rfviz
 	url = https://github.com/cran/rfviz
+[submodule "rgTest"]
+	path = rgTest
+	url = https://github.com/cran/rgTest
 [submodule "rgabriel"]
 	path = rgabriel
 	url = https://github.com/cran/rgabriel
@@ -56609,6 +56615,9 @@
 [submodule "tidygraph"]
 	path = tidygraph
 	url = https://github.com/cran/tidygraph
+[submodule "tidyhte"]
+	path = tidyhte
+	url = https://github.com/cran/tidyhte
 [submodule "tidyhydat"]
 	path = tidyhydat
 	url = https://github.com/cran/tidyhydat
