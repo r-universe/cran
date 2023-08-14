@@ -11468,9 +11468,6 @@
 [submodule "PlatformDesign"]
 	path = PlatformDesign
 	url = https://github.com/cran/PlatformDesign
-[submodule "Platypus"]
-	path = Platypus
-	url = https://github.com/cran/Platypus
 [submodule "PlayerRatings"]
 	path = PlayerRatings
 	url = https://github.com/cran/PlayerRatings
