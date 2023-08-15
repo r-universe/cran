@@ -24707,6 +24707,9 @@
 [submodule "curephEM"]
 	path = curephEM
 	url = https://github.com/cran/curephEM
+[submodule "cureplots"]
+	path = cureplots
+	url = https://github.com/cran/cureplots
 [submodule "curl"]
 	path = curl
 	url = https://github.com/cran/curl
@@ -49013,6 +49016,9 @@
 [submodule "resilience"]
 	path = resilience
 	url = https://github.com/cran/resilience
+[submodule "reslife"]
+	path = reslife
+	url = https://github.com/cran/reslife
 [submodule "reslr"]
 	path = reslr
 	url = https://github.com/cran/reslr
@@ -55007,6 +55013,9 @@
 [submodule "stppSim"]
 	path = stppSim
 	url = https://github.com/cran/stppSim
+[submodule "stpphawkes"]
+	path = stpphawkes
+	url = https://github.com/cran/stpphawkes
 [submodule "str2str"]
 	path = str2str
 	url = https://github.com/cran/str2str
