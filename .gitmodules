@@ -2684,6 +2684,9 @@
 [submodule "CluMP"]
 	path = CluMP
 	url = https://github.com/cran/CluMP
+[submodule "ClueR"]
+	path = ClueR
+	url = https://github.com/cran/ClueR
 [submodule "ClusBoot"]
 	path = ClusBoot
 	url = https://github.com/cran/ClusBoot
@@ -18833,6 +18836,9 @@
 [submodule "aphid"]
 	path = aphid
 	url = https://github.com/cran/aphid
+[submodule "aphylo"]
+	path = aphylo
+	url = https://github.com/cran/aphylo
 [submodule "api2lm"]
 	path = api2lm
 	url = https://github.com/cran/api2lm
@@ -20987,6 +20993,9 @@
 [submodule "bold"]
 	path = bold
 	url = https://github.com/cran/bold
+[submodule "bolsec"]
+	path = bolsec
+	url = https://github.com/cran/bolsec
 [submodule "bondAnalyst"]
 	path = bondAnalyst
 	url = https://github.com/cran/bondAnalyst
@@ -40331,6 +40340,9 @@
 [submodule "modeldata"]
 	path = modeldata
 	url = https://github.com/cran/modeldata
+[submodule "modeldatatoo"]
+	path = modeldatatoo
+	url = https://github.com/cran/modeldatatoo
 [submodule "modeldb"]
 	path = modeldb
 	url = https://github.com/cran/modeldb
@@ -40523,6 +40535,9 @@
 [submodule "moranajp"]
 	path = moranajp
 	url = https://github.com/cran/moranajp
+[submodule "moreparty"]
+	path = moreparty
+	url = https://github.com/cran/moreparty
 [submodule "morestopwords"]
 	path = morestopwords
 	url = https://github.com/cran/morestopwords
@@ -47633,6 +47648,9 @@
 [submodule "radarchart"]
 	path = radarchart
 	url = https://github.com/cran/radarchart
+[submodule "radiant"]
+	path = radiant
+	url = https://github.com/cran/radiant
 [submodule "radiant.basics"]
 	path = radiant.basics
 	url = https://github.com/cran/radiant.basics
@@ -47642,6 +47660,12 @@
 [submodule "radiant.design"]
 	path = radiant.design
 	url = https://github.com/cran/radiant.design
+[submodule "radiant.model"]
+	path = radiant.model
+	url = https://github.com/cran/radiant.model
+[submodule "radiant.multivariate"]
+	path = radiant.multivariate
+	url = https://github.com/cran/radiant.multivariate
 [submodule "radir"]
 	path = radir
 	url = https://github.com/cran/radir
@@ -54647,6 +54671,9 @@
 [submodule "statar"]
 	path = statar
 	url = https://github.com/cran/statar
+[submodule "statcanR"]
+	path = statcanR
+	url = https://github.com/cran/statcanR
 [submodule "statcheck"]
 	path = statcheck
 	url = https://github.com/cran/statcheck
@@ -58613,6 +58640,9 @@
 [submodule "vioplot"]
 	path = vioplot
 	url = https://github.com/cran/vioplot
+[submodule "vip"]
+	path = vip
+	url = https://github.com/cran/vip
 [submodule "vipor"]
 	path = vipor
 	url = https://github.com/cran/vipor
@@ -59447,6 +59477,9 @@
 [submodule "wordspace"]
 	path = wordspace
 	url = https://github.com/cran/wordspace
+[submodule "workboots"]
+	path = workboots
+	url = https://github.com/cran/workboots
 [submodule "workflowr"]
 	path = workflowr
 	url = https://github.com/cran/workflowr
@@ -59465,6 +59498,9 @@
 [submodule "worldmet"]
 	path = worldmet
 	url = https://github.com/cran/worldmet
+[submodule "worldriskpollr"]
+	path = worldriskpollr
+	url = https://github.com/cran/worldriskpollr
 [submodule "worrms"]
 	path = worrms
 	url = https://github.com/cran/worrms
