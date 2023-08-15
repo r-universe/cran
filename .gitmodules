@@ -41447,9 +41447,6 @@
 [submodule "narray"]
 	path = narray
 	url = https://github.com/cran/narray
-[submodule "naryn"]
-	path = naryn
-	url = https://github.com/cran/naryn
 [submodule "nasadata"]
 	path = nasadata
 	url = https://github.com/cran/nasadata
@@ -47090,9 +47087,6 @@
 [submodule "qualvar"]
 	path = qualvar
 	url = https://github.com/cran/qualvar
-[submodule "qualypsoss"]
-	path = qualypsoss
-	url = https://github.com/cran/qualypsoss
 [submodule "quantCurves"]
 	path = quantCurves
 	url = https://github.com/cran/quantCurves
@@ -51224,9 +51218,6 @@
 [submodule "scDiffCom"]
 	path = scDiffCom
 	url = https://github.com/cran/scDiffCom
-[submodule "scGOclust"]
-	path = scGOclust
-	url = https://github.com/cran/scGOclust
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/cran/scGate
