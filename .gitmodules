@@ -21488,6 +21488,9 @@
 [submodule "busdater"]
 	path = busdater
 	url = https://github.com/cran/busdater
+[submodule "businessPlanR"]
+	path = businessPlanR
+	url = https://github.com/cran/businessPlanR
 [submodule "butcher"]
 	path = butcher
 	url = https://github.com/cran/butcher
@@ -41333,6 +41336,9 @@
 [submodule "mvrsquared"]
 	path = mvrsquared
 	url = https://github.com/cran/mvrsquared
+[submodule "mvs"]
+	path = mvs
+	url = https://github.com/cran/mvs
 [submodule "mvtmeta"]
 	path = mvtmeta
 	url = https://github.com/cran/mvtmeta
