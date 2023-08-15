@@ -3068,6 +3068,9 @@
 [submodule "CovTools"]
 	path = CovTools
 	url = https://github.com/cran/CovTools
+[submodule "Covid19Wastewater"]
+	path = Covid19Wastewater
+	url = https://github.com/cran/Covid19Wastewater
 [submodule "CovidMutations"]
 	path = CovidMutations
 	url = https://github.com/cran/CovidMutations
@@ -18386,6 +18389,9 @@
 [submodule "aif360"]
 	path = aif360
 	url = https://github.com/cran/aif360
+[submodule "aifeducation"]
+	path = aifeducation
+	url = https://github.com/cran/aifeducation
 [submodule "aihuman"]
 	path = aihuman
 	url = https://github.com/cran/aihuman
@@ -21431,6 +21437,9 @@
 [submodule "bulkAnalyseR"]
 	path = bulkAnalyseR
 	url = https://github.com/cran/bulkAnalyseR
+[submodule "bulkreadr"]
+	path = bulkreadr
+	url = https://github.com/cran/bulkreadr
 [submodule "bulletcp"]
 	path = bulletcp
 	url = https://github.com/cran/bulletcp
@@ -36152,6 +36161,9 @@
 [submodule "kequate"]
 	path = kequate
 	url = https://github.com/cran/kequate
+[submodule "kerDAA"]
+	path = kerDAA
+	url = https://github.com/cran/kerDAA
 [submodule "kerSeg"]
 	path = kerSeg
 	url = https://github.com/cran/kerSeg
@@ -37355,6 +37367,9 @@
 [submodule "listviewer"]
 	path = listviewer
 	url = https://github.com/cran/listviewer
+[submodule "lit"]
+	path = lit
+	url = https://github.com/cran/lit
 [submodule "litRiddle"]
 	path = litRiddle
 	url = https://github.com/cran/litRiddle
@@ -44627,6 +44642,9 @@
 [submodule "pfica"]
 	path = pfica
 	url = https://github.com/cran/pfica
+[submodule "pfr"]
+	path = pfr
+	url = https://github.com/cran/pfr
 [submodule "pg"]
 	path = pg
 	url = https://github.com/cran/pg
