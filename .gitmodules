@@ -14429,6 +14429,9 @@
 [submodule "SAMUR"]
 	path = SAMUR
 	url = https://github.com/cran/SAMUR
+[submodule "SAMprior"]
+	path = SAMprior
+	url = https://github.com/cran/SAMprior
 [submodule "SAMtool"]
 	path = SAMtool
 	url = https://github.com/cran/SAMtool
