@@ -40331,9 +40331,6 @@
 [submodule "modeldata"]
 	path = modeldata
 	url = https://github.com/cran/modeldata
-[submodule "modeldatatoo"]
-	path = modeldatatoo
-	url = https://github.com/cran/modeldatatoo
 [submodule "modeldb"]
 	path = modeldb
 	url = https://github.com/cran/modeldb
@@ -54650,9 +54647,6 @@
 [submodule "statar"]
 	path = statar
 	url = https://github.com/cran/statar
-[submodule "statcanR"]
-	path = statcanR
-	url = https://github.com/cran/statcanR
 [submodule "statcheck"]
 	path = statcheck
 	url = https://github.com/cran/statcheck
@@ -59471,9 +59465,6 @@
 [submodule "worldmet"]
 	path = worldmet
 	url = https://github.com/cran/worldmet
-[submodule "worldriskpollr"]
-	path = worldriskpollr
-	url = https://github.com/cran/worldriskpollr
 [submodule "worrms"]
 	path = worrms
 	url = https://github.com/cran/worrms
