@@ -44390,6 +44390,9 @@
 [submodule "pedigree"]
 	path = pedigree
 	url = https://github.com/cran/pedigree
+[submodule "pedigreeTools"]
+	path = pedigreeTools
+	url = https://github.com/cran/pedigreeTools
 [submodule "pedigreemm"]
 	path = pedigreemm
 	url = https://github.com/cran/pedigreemm
@@ -53684,9 +53687,6 @@
 [submodule "spNNGP"]
 	path = spNNGP
 	url = https://github.com/cran/spNNGP
-[submodule "spNetwork"]
-	path = spNetwork
-	url = https://github.com/cran/spNetwork
 [submodule "spOccupancy"]
 	path = spOccupancy
 	url = https://github.com/cran/spOccupancy
