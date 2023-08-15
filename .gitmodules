@@ -509,9 +509,6 @@
 [submodule "Allspice"]
 	path = Allspice
 	url = https://github.com/cran/Allspice
-[submodule "AlphaHull3D"]
-	path = AlphaHull3D
-	url = https://github.com/cran/AlphaHull3D
 [submodule "AlphaPart"]
 	path = AlphaPart
 	url = https://github.com/cran/AlphaPart
@@ -608,6 +605,9 @@
 [submodule "ApacheLogProcessor"]
 	path = ApacheLogProcessor
 	url = https://github.com/cran/ApacheLogProcessor
+[submodule "Apollonius"]
+	path = Apollonius
+	url = https://github.com/cran/Apollonius
 [submodule "AppliedPredictiveModeling"]
 	path = AppliedPredictiveModeling
 	url = https://github.com/cran/AppliedPredictiveModeling
@@ -4817,6 +4817,9 @@
 [submodule "ExposR"]
 	path = ExposR
 	url = https://github.com/cran/ExposR
+[submodule "ExprNet"]
+	path = ExprNet
+	url = https://github.com/cran/ExprNet
 [submodule "ExtDist"]
 	path = ExtDist
 	url = https://github.com/cran/ExtDist
@@ -11216,6 +11219,9 @@
 [submodule "PakPC2017"]
 	path = PakPC2017
 	url = https://github.com/cran/PakPC2017
+[submodule "PakPC2023"]
+	path = PakPC2023
+	url = https://github.com/cran/PakPC2023
 [submodule "PakPMICS2014Ch"]
 	path = PakPMICS2014Ch
 	url = https://github.com/cran/PakPMICS2014Ch
@@ -22250,9 +22256,6 @@
 [submodule "cgal4h"]
 	path = cgal4h
 	url = https://github.com/cran/cgal4h
-[submodule "cgalMeshes"]
-	path = cgalMeshes
-	url = https://github.com/cran/cgalMeshes
 [submodule "cgalPolygons"]
 	path = cgalPolygons
 	url = https://github.com/cran/cgalPolygons
@@ -25523,9 +25526,6 @@
 [submodule "dejaVu"]
 	path = dejaVu
 	url = https://github.com/cran/dejaVu
-[submodule "delaunay"]
-	path = delaunay
-	url = https://github.com/cran/delaunay
 [submodule "delayed"]
 	path = delayed
 	url = https://github.com/cran/delayed
@@ -35936,6 +35936,9 @@
 [submodule "jpstat"]
 	path = jpstat
 	url = https://github.com/cran/jpstat
+[submodule "jqbr"]
+	path = jqbr
+	url = https://github.com/cran/jqbr
 [submodule "jqr"]
 	path = jqr
 	url = https://github.com/cran/jqr
