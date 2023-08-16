@@ -3584,6 +3584,9 @@
 [submodule "DSAIRM"]
 	path = DSAIRM
 	url = https://github.com/cran/DSAIRM
+[submodule "DSAM"]
+	path = DSAM
+	url = https://github.com/cran/DSAM
 [submodule "DSI"]
 	path = DSI
 	url = https://github.com/cran/DSI
@@ -8939,6 +8942,9 @@
 [submodule "MRTSampleSizeBinary"]
 	path = MRTSampleSizeBinary
 	url = https://github.com/cran/MRTSampleSizeBinary
+[submodule "MRZero"]
+	path = MRZero
+	url = https://github.com/cran/MRZero
 [submodule "MRmediation"]
 	path = MRmediation
 	url = https://github.com/cran/MRmediation
@@ -16895,6 +16901,9 @@
 [submodule "Tratamentos.ad"]
 	path = Tratamentos.ad
 	url = https://github.com/cran/Tratamentos.ad
+[submodule "TreatmentPatterns"]
+	path = TreatmentPatterns
+	url = https://github.com/cran/TreatmentPatterns
 [submodule "TreatmentSelection"]
 	path = TreatmentSelection
 	url = https://github.com/cran/TreatmentSelection
@@ -31793,6 +31802,9 @@
 [submodule "ggokabeito"]
 	path = ggokabeito
 	url = https://github.com/cran/ggokabeito
+[submodule "ggordiplots"]
+	path = ggordiplots
+	url = https://github.com/cran/ggordiplots
 [submodule "ggpackets"]
 	path = ggpackets
 	url = https://github.com/cran/ggpackets
@@ -40922,6 +40934,9 @@
 [submodule "mtlgmm"]
 	path = mtlgmm
 	url = https://github.com/cran/mtlgmm
+[submodule "mtscr"]
+	path = mtscr
+	url = https://github.com/cran/mtscr
 [submodule "mtsdi"]
 	path = mtsdi
 	url = https://github.com/cran/mtsdi
