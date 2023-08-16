@@ -23156,6 +23156,9 @@
 [submodule "codebreaker"]
 	path = codebreaker
 	url = https://github.com/cran/codebreaker
+[submodule "codecountR"]
+	path = codecountR
+	url = https://github.com/cran/codecountR
 [submodule "codemeta"]
 	path = codemeta
 	url = https://github.com/cran/codemeta
@@ -27122,6 +27125,9 @@
 [submodule "earthtones"]
 	path = earthtones
 	url = https://github.com/cran/earthtones
+[submodule "easy.utils"]
+	path = easy.utils
+	url = https://github.com/cran/easy.utils
 [submodule "easyAHP"]
 	path = easyAHP
 	url = https://github.com/cran/easyAHP
@@ -29909,6 +29915,9 @@
 [submodule "foodingraph"]
 	path = foodingraph
 	url = https://github.com/cran/foodingraph
+[submodule "foodquotient"]
+	path = foodquotient
+	url = https://github.com/cran/foodquotient
 [submodule "foodwebWrapper"]
 	path = foodwebWrapper
 	url = https://github.com/cran/foodwebWrapper
@@ -39599,6 +39608,9 @@
 [submodule "microsynth"]
 	path = microsynth
 	url = https://github.com/cran/microsynth
+[submodule "micss"]
+	path = micss
+	url = https://github.com/cran/micss
 [submodule "midas"]
 	path = midas
 	url = https://github.com/cran/midas
@@ -58067,6 +58079,9 @@
 [submodule "uniah"]
 	path = uniah
 	url = https://github.com/cran/uniah
+[submodule "unicol"]
+	path = unicol
+	url = https://github.com/cran/unicol
 [submodule "unifDAG"]
 	path = unifDAG
 	url = https://github.com/cran/unifDAG
