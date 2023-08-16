@@ -30398,9 +30398,6 @@
 [submodule "funLBM"]
 	path = funLBM
 	url = https://github.com/cran/funLBM
-[submodule "funModeling"]
-	path = funModeling
-	url = https://github.com/cran/funModeling
 [submodule "funStatTest"]
 	path = funStatTest
 	url = https://github.com/cran/funStatTest
