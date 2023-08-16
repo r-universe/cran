@@ -17723,6 +17723,9 @@
 [submodule "YRmisc"]
 	path = YRmisc
 	url = https://github.com/cran/YRmisc
+[submodule "YTAnalytics"]
+	path = YTAnalytics
+	url = https://github.com/cran/YTAnalytics
 [submodule "YaleToolkit"]
 	path = YaleToolkit
 	url = https://github.com/cran/YaleToolkit
@@ -31091,6 +31094,9 @@
 [submodule "geneHummus"]
 	path = geneHummus
 	url = https://github.com/cran/geneHummus
+[submodule "geneSLOPE"]
+	path = geneSLOPE
+	url = https://github.com/cran/geneSLOPE
 [submodule "genekitr"]
 	path = genekitr
 	url = https://github.com/cran/genekitr
@@ -37079,6 +37085,9 @@
 [submodule "letsR"]
 	path = letsR
 	url = https://github.com/cran/letsR
+[submodule "lettervalue"]
+	path = lettervalue
+	url = https://github.com/cran/lettervalue
 [submodule "levitate"]
 	path = levitate
 	url = https://github.com/cran/levitate
