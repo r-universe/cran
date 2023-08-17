@@ -1232,6 +1232,9 @@
 [submodule "BartMixVs"]
 	path = BartMixVs
 	url = https://github.com/cran/BartMixVs
+[submodule "Barycenter"]
+	path = Barycenter
+	url = https://github.com/cran/Barycenter
 [submodule "BaseSet"]
 	path = BaseSet
 	url = https://github.com/cran/BaseSet
@@ -10613,6 +10616,9 @@
 [submodule "OutliersO3"]
 	path = OutliersO3
 	url = https://github.com/cran/OutliersO3
+[submodule "OutrankingTools"]
+	path = OutrankingTools
+	url = https://github.com/cran/OutrankingTools
 [submodule "OwenQ"]
 	path = OwenQ
 	url = https://github.com/cran/OwenQ
@@ -46847,6 +46853,9 @@
 [submodule "qape"]
 	path = qape
 	url = https://github.com/cran/qape
+[submodule "qat"]
+	path = qat
+	url = https://github.com/cran/qat
 [submodule "qbld"]
 	path = qbld
 	url = https://github.com/cran/qbld
