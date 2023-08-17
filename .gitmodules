@@ -4043,6 +4043,9 @@
 [submodule "Dodge"]
 	path = Dodge
 	url = https://github.com/cran/Dodge
+[submodule "DominoDataR"]
+	path = DominoDataR
+	url = https://github.com/cran/DominoDataR
 [submodule "DoseFinding"]
 	path = DoseFinding
 	url = https://github.com/cran/DoseFinding
@@ -6059,6 +6062,9 @@
 [submodule "GWSDAT"]
 	path = GWSDAT
 	url = https://github.com/cran/GWSDAT
+[submodule "GWalkR"]
+	path = GWalkR
+	url = https://github.com/cran/GWalkR
 [submodule "GWmodel"]
 	path = GWmodel
 	url = https://github.com/cran/GWmodel
@@ -14981,6 +14987,9 @@
 [submodule "SPEI"]
 	path = SPEI
 	url = https://github.com/cran/SPEI
+[submodule "SPEV"]
+	path = SPEV
+	url = https://github.com/cran/SPEV
 [submodule "SPIAssay"]
 	path = SPIAssay
 	url = https://github.com/cran/SPIAssay
@@ -19445,6 +19454,9 @@
 [submodule "autoMFA"]
 	path = autoMFA
 	url = https://github.com/cran/autoMFA
+[submodule "autoMrP"]
+	path = autoMrP
+	url = https://github.com/cran/autoMrP
 [submodule "autoRasch"]
 	path = autoRasch
 	url = https://github.com/cran/autoRasch
@@ -25055,6 +25067,9 @@
 [submodule "dartR.data"]
 	path = dartR.data
 	url = https://github.com/cran/dartR.data
+[submodule "dartR.spatial"]
+	path = dartR.spatial
+	url = https://github.com/cran/dartR.spatial
 [submodule "dashCoreComponents"]
 	path = dashCoreComponents
 	url = https://github.com/cran/dashCoreComponents
@@ -28061,6 +28076,9 @@
 [submodule "epmrob"]
 	path = epmrob
 	url = https://github.com/cran/epmrob
+[submodule "epo"]
+	path = epo
+	url = https://github.com/cran/epo
 [submodule "epoc"]
 	path = epoc
 	url = https://github.com/cran/epoc
@@ -36752,6 +36770,9 @@
 [submodule "lassoshooting"]
 	path = lassoshooting
 	url = https://github.com/cran/lassoshooting
+[submodule "latcontrol"]
+	path = latcontrol
+	url = https://github.com/cran/latcontrol
 [submodule "latdiag"]
 	path = latdiag
 	url = https://github.com/cran/latdiag
@@ -39614,6 +39635,9 @@
 [submodule "micromapST"]
 	path = micromapST
 	url = https://github.com/cran/micromapST
+[submodule "micromodal"]
+	path = micromodal
+	url = https://github.com/cran/micromodal
 [submodule "micropan"]
 	path = micropan
 	url = https://github.com/cran/micropan
@@ -40793,6 +40817,9 @@
 [submodule "mrbsizeR"]
 	path = mrbsizeR
 	url = https://github.com/cran/mrbsizeR
+[submodule "mrct"]
+	path = mrct
+	url = https://github.com/cran/mrct
 [submodule "mrds"]
 	path = mrds
 	url = https://github.com/cran/mrds
@@ -46949,6 +46976,9 @@
 [submodule "qgg"]
 	path = qgg
 	url = https://github.com/cran/qgg
+[submodule "qgisprocess"]
+	path = qgisprocess
+	url = https://github.com/cran/qgisprocess
 [submodule "qgraph"]
 	path = qgraph
 	url = https://github.com/cran/qgraph
@@ -51617,6 +51647,9 @@
 [submodule "scriptexec"]
 	path = scriptexec
 	url = https://github.com/cran/scriptexec
+[submodule "scriptloc"]
+	path = scriptloc
+	url = https://github.com/cran/scriptloc
 [submodule "scriptuRs"]
 	path = scriptuRs
 	url = https://github.com/cran/scriptuRs
@@ -59669,6 +59702,9 @@
 [submodule "wqspt"]
 	path = wqspt
 	url = https://github.com/cran/wqspt
+[submodule "wqtrends"]
+	path = wqtrends
+	url = https://github.com/cran/wqtrends
 [submodule "wrGraph"]
 	path = wrGraph
 	url = https://github.com/cran/wrGraph
