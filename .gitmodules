@@ -41816,9 +41816,6 @@
 [submodule "netie"]
 	path = netie
 	url = https://github.com/cran/netie
-[submodule "netjack"]
-	path = netjack
-	url = https://github.com/cran/netjack
 [submodule "netmap"]
 	path = netmap
 	url = https://github.com/cran/netmap
