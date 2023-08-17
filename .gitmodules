@@ -32816,6 +32816,9 @@
 [submodule "graphx"]
 	path = graphx
 	url = https://github.com/cran/graphx
+[submodule "graposas"]
+	path = graposas
+	url = https://github.com/cran/graposas
 [submodule "grateful"]
 	path = grateful
 	url = https://github.com/cran/grateful
