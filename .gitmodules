@@ -15971,6 +15971,9 @@
 [submodule "StMoSim"]
 	path = StMoSim
 	url = https://github.com/cran/StMoSim
+[submodule "StReg"]
+	path = StReg
+	url = https://github.com/cran/StReg
 [submodule "StabilizedRegression"]
 	path = StabilizedRegression
 	url = https://github.com/cran/StabilizedRegression
@@ -17372,6 +17375,9 @@
 [submodule "VirtualPop"]
 	path = VirtualPop
 	url = https://github.com/cran/VirtualPop
+[submodule "VisCollin"]
+	path = VisCollin
+	url = https://github.com/cran/VisCollin
 [submodule "VisitorCounts"]
 	path = VisitorCounts
 	url = https://github.com/cran/VisitorCounts
@@ -28724,6 +28730,9 @@
 [submodule "ezr"]
 	path = ezr
 	url = https://github.com/cran/ezr
+[submodule "f1dataR"]
+	path = f1dataR
+	url = https://github.com/cran/f1dataR
 [submodule "fANCOVA"]
 	path = fANCOVA
 	url = https://github.com/cran/fANCOVA
@@ -30050,6 +30059,9 @@
 [submodule "formatters"]
 	path = formatters
 	url = https://github.com/cran/formatters
+[submodule "formods"]
+	path = formods
+	url = https://github.com/cran/formods
 [submodule "formula.tools"]
 	path = formula.tools
 	url = https://github.com/cran/formula.tools
@@ -32105,6 +32117,9 @@
 [submodule "ghypernet"]
 	path = ghypernet
 	url = https://github.com/cran/ghypernet
+[submodule "giacR"]
+	path = giacR
+	url = https://github.com/cran/giacR
 [submodule "gibasa"]
 	path = gibasa
 	url = https://github.com/cran/gibasa
@@ -33650,6 +33665,9 @@
 [submodule "hetGP"]
 	path = hetGP
 	url = https://github.com/cran/hetGP
+[submodule "heterogen"]
+	path = heterogen
+	url = https://github.com/cran/heterogen
 [submodule "heteromixgm"]
 	path = heteromixgm
 	url = https://github.com/cran/heteromixgm
@@ -43502,6 +43520,9 @@
 [submodule "oskeyring"]
 	path = oskeyring
 	url = https://github.com/cran/oskeyring
+[submodule "osmclass"]
+	path = osmclass
+	url = https://github.com/cran/osmclass
 [submodule "osmdata"]
 	path = osmdata
 	url = https://github.com/cran/osmdata
@@ -47660,6 +47681,9 @@
 [submodule "rTLsDeep"]
 	path = rTLsDeep
 	url = https://github.com/cran/rTLsDeep
+[submodule "rTPC"]
+	path = rTPC
+	url = https://github.com/cran/rTPC
 [submodule "rTRIPLEXCWFlux"]
 	path = rTRIPLEXCWFlux
 	url = https://github.com/cran/rTRIPLEXCWFlux
@@ -52331,6 +52355,9 @@
 [submodule "shiny.blueprint"]
 	path = shiny.blueprint
 	url = https://github.com/cran/shiny.blueprint
+[submodule "shiny.emptystate"]
+	path = shiny.emptystate
+	url = https://github.com/cran/shiny.emptystate
 [submodule "shiny.exe"]
 	path = shiny.exe
 	url = https://github.com/cran/shiny.exe
@@ -53297,6 +53324,9 @@
 [submodule "smacof"]
 	path = smacof
 	url = https://github.com/cran/smacof
+[submodule "smacofx"]
+	path = smacofx
+	url = https://github.com/cran/smacofx
 [submodule "smacpod"]
 	path = smacpod
 	url = https://github.com/cran/smacpod
@@ -54083,6 +54113,9 @@
 [submodule "spdep"]
 	path = spdep
 	url = https://github.com/cran/spdep
+[submodule "spdesign"]
+	path = spdesign
+	url = https://github.com/cran/spdesign
 [submodule "spdl"]
 	path = spdl
 	url = https://github.com/cran/spdl
