@@ -41576,6 +41576,9 @@
 [submodule "narray"]
 	path = narray
 	url = https://github.com/cran/narray
+[submodule "naryn"]
+	path = naryn
+	url = https://github.com/cran/naryn
 [submodule "nasadata"]
 	path = nasadata
 	url = https://github.com/cran/nasadata
