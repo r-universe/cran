@@ -6452,6 +6452,9 @@
 [submodule "HDShOP"]
 	path = HDShOP
 	url = https://github.com/cran/HDShOP
+[submodule "HDSinRdata"]
+	path = HDSinRdata
+	url = https://github.com/cran/HDSinRdata
 [submodule "HDSpatialScan"]
 	path = HDSpatialScan
 	url = https://github.com/cran/HDSpatialScan
@@ -8930,6 +8933,9 @@
 [submodule "MRMCaov"]
 	path = MRMCaov
 	url = https://github.com/cran/MRMCaov
+[submodule "MRMCsamplesize"]
+	path = MRMCsamplesize
+	url = https://github.com/cran/MRMCsamplesize
 [submodule "MRPC"]
 	path = MRPC
 	url = https://github.com/cran/MRPC
@@ -18410,9 +18416,6 @@
 [submodule "aiRthermo"]
 	path = aiRthermo
 	url = https://github.com/cran/aiRthermo
-[submodule "aibd"]
-	path = aibd
-	url = https://github.com/cran/aibd
 [submodule "aidar"]
 	path = aidar
 	url = https://github.com/cran/aidar
@@ -19700,9 +19703,6 @@
 [submodule "bama"]
 	path = bama
 	url = https://github.com/cran/bama
-[submodule "bamboo"]
-	path = bamboo
-	url = https://github.com/cran/bamboo
 [submodule "bambooHR"]
 	path = bambooHR
 	url = https://github.com/cran/bambooHR
@@ -21329,6 +21329,9 @@
 [submodule "brms"]
 	path = brms
 	url = https://github.com/cran/brms
+[submodule "brms.mmrm"]
+	path = brms.mmrm
+	url = https://github.com/cran/brms.mmrm
 [submodule "brmsmargins"]
 	path = brmsmargins
 	url = https://github.com/cran/brmsmargins
@@ -24095,6 +24098,9 @@
 [submodule "countland"]
 	path = countland
 	url = https://github.com/cran/countland
+[submodule "countprop"]
+	path = countprop
+	url = https://github.com/cran/countprop
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/cran/countrycode
@@ -27341,6 +27347,9 @@
 [submodule "ecoCopula"]
 	path = ecoCopula
 	url = https://github.com/cran/ecoCopula
+[submodule "ecocbo"]
+	path = ecocbo
+	url = https://github.com/cran/ecocbo
 [submodule "ecochange"]
 	path = ecochange
 	url = https://github.com/cran/ecochange
@@ -29885,6 +29894,9 @@
 [submodule "fmerPack"]
 	path = fmerPack
 	url = https://github.com/cran/fmerPack
+[submodule "fmesher"]
+	path = fmesher
+	url = https://github.com/cran/fmesher
 [submodule "fmf"]
 	path = fmf
 	url = https://github.com/cran/fmf
@@ -50432,9 +50444,6 @@
 [submodule "rsbp"]
 	path = rsbp
 	url = https://github.com/cran/rsbp
-[submodule "rscala"]
-	path = rscala
-	url = https://github.com/cran/rscala
 [submodule "rscc"]
 	path = rscc
 	url = https://github.com/cran/rscc
@@ -52307,9 +52316,6 @@
 [submodule "shadowtext"]
 	path = shadowtext
 	url = https://github.com/cran/shadowtext
-[submodule "shallot"]
-	path = shallot
-	url = https://github.com/cran/shallot
 [submodule "shape"]
 	path = shape
 	url = https://github.com/cran/shape
