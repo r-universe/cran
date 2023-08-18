@@ -13982,6 +13982,9 @@
 [submodule "Rga4gh"]
 	path = Rga4gh
 	url = https://github.com/cran/Rga4gh
+[submodule "Rgb"]
+	path = Rgb
+	url = https://github.com/cran/Rgb
 [submodule "Rgbp"]
 	path = Rgbp
 	url = https://github.com/cran/Rgbp
