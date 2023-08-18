@@ -5078,6 +5078,9 @@
 [submodule "FSAdata"]
 	path = FSAdata
 	url = https://github.com/cran/FSAdata
+[submodule "FSAtools"]
+	path = FSAtools
+	url = https://github.com/cran/FSAtools
 [submodule "FSDAM"]
 	path = FSDAM
 	url = https://github.com/cran/FSDAM
@@ -9314,6 +9317,9 @@
 [submodule "MetabolicSurv"]
 	path = MetabolicSurv
 	url = https://github.com/cran/MetabolicSurv
+[submodule "MetabolicSyndrome"]
+	path = MetabolicSyndrome
+	url = https://github.com/cran/MetabolicSyndrome
 [submodule "MetabolomicsBasics"]
 	path = MetabolomicsBasics
 	url = https://github.com/cran/MetabolomicsBasics
@@ -13985,6 +13991,9 @@
 [submodule "Rmixmod"]
 	path = Rmixmod
 	url = https://github.com/cran/Rmixmod
+[submodule "Rmodule"]
+	path = Rmodule
+	url = https://github.com/cran/Rmodule
 [submodule "Rmolt"]
 	path = Rmolt
 	url = https://github.com/cran/Rmolt
@@ -25055,6 +25064,9 @@
 [submodule "date"]
 	path = date
 	url = https://github.com/cran/date
+[submodule "dateback"]
+	path = dateback
+	url = https://github.com/cran/dateback
 [submodule "datefixR"]
 	path = datefixR
 	url = https://github.com/cran/datefixR
@@ -31547,6 +31559,9 @@
 [submodule "gghdr"]
 	path = gghdr
 	url = https://github.com/cran/gghdr
+[submodule "gghdx"]
+	path = gghdx
+	url = https://github.com/cran/gghdx
 [submodule "ggheatmap"]
 	path = ggheatmap
 	url = https://github.com/cran/ggheatmap
@@ -40856,6 +40871,9 @@
 [submodule "multiUS"]
 	path = multiUS
 	url = https://github.com/cran/multiUS
+[submodule "multibiasmeta"]
+	path = multibiasmeta
+	url = https://github.com/cran/multibiasmeta
 [submodule "multibiplotGUI"]
 	path = multibiplotGUI
 	url = https://github.com/cran/multibiplotGUI
