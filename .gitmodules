@@ -29327,9 +29327,6 @@
 [submodule "featurizer"]
 	path = featurizer
 	url = https://github.com/cran/featurizer
-[submodule "febr"]
-	path = febr
-	url = https://github.com/cran/febr
 [submodule "fec16"]
 	path = fec16
 	url = https://github.com/cran/fec16
