@@ -13613,9 +13613,6 @@
 [submodule "RcppDE"]
 	path = RcppDE
 	url = https://github.com/cran/RcppDE
-[submodule "RcppDL"]
-	path = RcppDL
-	url = https://github.com/cran/RcppDL
 [submodule "RcppDate"]
 	path = RcppDate
 	url = https://github.com/cran/RcppDate
@@ -15239,9 +15236,6 @@
 [submodule "SailoR"]
 	path = SailoR
 	url = https://github.com/cran/SailoR
-[submodule "Sample.Size"]
-	path = Sample.Size
-	url = https://github.com/cran/Sample.Size
 [submodule "SampleSize4ClinicalTrials"]
 	path = SampleSize4ClinicalTrials
 	url = https://github.com/cran/SampleSize4ClinicalTrials
@@ -24242,9 +24236,6 @@
 [submodule "cpa"]
 	path = cpa
 	url = https://github.com/cran/cpa
-[submodule "cpca"]
-	path = cpca
-	url = https://github.com/cran/cpca
 [submodule "cpd"]
 	path = cpd
 	url = https://github.com/cran/cpd
@@ -38285,9 +38276,6 @@
 [submodule "maicChecks"]
 	path = maicChecks
 	url = https://github.com/cran/maicChecks
-[submodule "mail"]
-	path = mail
-	url = https://github.com/cran/mail
 [submodule "mailR"]
 	path = mailR
 	url = https://github.com/cran/mailR
@@ -44705,9 +44693,6 @@
 [submodule "persDx"]
 	path = persDx
 	url = https://github.com/cran/persDx
-[submodule "persiandictionary"]
-	path = persiandictionary
-	url = https://github.com/cran/persiandictionary
 [submodule "personalized"]
 	path = personalized
 	url = https://github.com/cran/personalized
@@ -45485,9 +45470,6 @@
 [submodule "pluscode"]
 	path = pluscode
 	url = https://github.com/cran/pluscode
-[submodule "plusser"]
-	path = plusser
-	url = https://github.com/cran/plusser
 [submodule "plyr"]
 	path = plyr
 	url = https://github.com/cran/plyr
@@ -47219,9 +47201,6 @@
 [submodule "quadtree"]
 	path = quadtree
 	url = https://github.com/cran/quadtree
-[submodule "qualCI"]
-	path = qualCI
-	url = https://github.com/cran/qualCI
 [submodule "qualV"]
 	path = qualV
 	url = https://github.com/cran/qualV
@@ -52133,9 +52112,6 @@
 [submodule "seqtest"]
 	path = seqtest
 	url = https://github.com/cran/seqtest
-[submodule "sequences"]
-	path = sequences
-	url = https://github.com/cran/sequences
 [submodule "sequoia"]
 	path = sequoia
 	url = https://github.com/cran/sequoia
