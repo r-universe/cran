@@ -54941,6 +54941,9 @@
 [submodule "stepPlr"]
 	path = stepPlr
 	url = https://github.com/cran/stepPlr
+[submodule "stepR"]
+	path = stepR
+	url = https://github.com/cran/stepR
 [submodule "stepSplitReg"]
 	path = stepSplitReg
 	url = https://github.com/cran/stepSplitReg
@@ -58166,6 +58169,9 @@
 [submodule "uniset"]
 	path = uniset
 	url = https://github.com/cran/uniset
+[submodule "uniswappeR"]
+	path = uniswappeR
+	url = https://github.com/cran/uniswappeR
 [submodule "unitedR"]
 	path = unitedR
 	url = https://github.com/cran/unitedR
