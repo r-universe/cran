@@ -24242,9 +24242,6 @@
 [submodule "cpi"]
 	path = cpi
 	url = https://github.com/cran/cpi
-[submodule "cpk"]
-	path = cpk
-	url = https://github.com/cran/cpk
 [submodule "cplm"]
 	path = cplm
 	url = https://github.com/cran/cplm
