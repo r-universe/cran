@@ -59750,9 +59750,6 @@
 [submodule "xtal"]
 	path = xtal
 	url = https://github.com/cran/xtal
-[submodule "xtensor"]
-	path = xtensor
-	url = https://github.com/cran/xtensor
 [submodule "xtermStyle"]
 	path = xtermStyle
 	url = https://github.com/cran/xtermStyle
