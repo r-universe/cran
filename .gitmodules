@@ -9386,9 +9386,6 @@
 [submodule "Microsoft365R"]
 	path = Microsoft365R
 	url = https://github.com/cran/Microsoft365R
-[submodule "MinBAR"]
-	path = MinBAR
-	url = https://github.com/cran/MinBAR
 [submodule "MinEDfind"]
 	path = MinEDfind
 	url = https://github.com/cran/MinEDfind
@@ -12455,9 +12452,6 @@
 [submodule "RISmed"]
 	path = RISmed
 	url = https://github.com/cran/RISmed
-[submodule "RITCH"]
-	path = RITCH
-	url = https://github.com/cran/RITCH
 [submodule "RIbench"]
 	path = RIbench
 	url = https://github.com/cran/RIbench
@@ -18278,9 +18272,6 @@
 [submodule "aides"]
 	path = aides
 	url = https://github.com/cran/aides
-[submodule "aif360"]
-	path = aif360
-	url = https://github.com/cran/aif360
 [submodule "aifeducation"]
 	path = aifeducation
 	url = https://github.com/cran/aifeducation
@@ -36617,9 +36608,6 @@
 [submodule "lavaan.shiny"]
 	path = lavaan.shiny
 	url = https://github.com/cran/lavaan.shiny
-[submodule "lavaan.survey"]
-	path = lavaan.survey
-	url = https://github.com/cran/lavaan.survey
 [submodule "lavaanExtra"]
 	path = lavaanExtra
 	url = https://github.com/cran/lavaanExtra
@@ -39425,9 +39413,6 @@
 [submodule "microseq"]
 	path = microseq
 	url = https://github.com/cran/microseq
-[submodule "microservices"]
-	path = microservices
-	url = https://github.com/cran/microservices
 [submodule "microsimulation"]
 	path = microsimulation
 	url = https://github.com/cran/microsimulation
@@ -48812,9 +48797,6 @@
 [submodule "resampledata3"]
 	path = resampledata3
 	url = https://github.com/cran/resampledata3
-[submodule "rescue"]
-	path = rescue
-	url = https://github.com/cran/rescue
 [submodule "resde"]
 	path = resde
 	url = https://github.com/cran/resde
