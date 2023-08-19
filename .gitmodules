@@ -6326,9 +6326,6 @@
 [submodule "GrapheR"]
 	path = GrapheR
 	url = https://github.com/cran/GrapheR
-[submodule "GrassmannOptim"]
-	path = GrassmannOptim
-	url = https://github.com/cran/GrassmannOptim
 [submodule "GreedyEPL"]
 	path = GreedyEPL
 	url = https://github.com/cran/GreedyEPL
@@ -13757,9 +13754,6 @@
 [submodule "Rdpack"]
 	path = Rdpack
 	url = https://github.com/cran/Rdpack
-[submodule "Rdroolsjars"]
-	path = Rdroolsjars
-	url = https://github.com/cran/Rdroolsjars
 [submodule "Rdrw"]
 	path = Rdrw
 	url = https://github.com/cran/Rdrw
@@ -22346,9 +22340,6 @@
 [submodule "changepoint"]
 	path = changepoint
 	url = https://github.com/cran/changepoint
-[submodule "changepoint.geo"]
-	path = changepoint.geo
-	url = https://github.com/cran/changepoint.geo
 [submodule "changepoint.influence"]
 	path = changepoint.influence
 	url = https://github.com/cran/changepoint.influence
@@ -25073,18 +25064,6 @@
 [submodule "dartR.spatial"]
 	path = dartR.spatial
 	url = https://github.com/cran/dartR.spatial
-[submodule "dashCoreComponents"]
-	path = dashCoreComponents
-	url = https://github.com/cran/dashCoreComponents
-[submodule "dashHtmlComponents"]
-	path = dashHtmlComponents
-	url = https://github.com/cran/dashHtmlComponents
-[submodule "dashPivottable"]
-	path = dashPivottable
-	url = https://github.com/cran/dashPivottable
-[submodule "dashTable"]
-	path = dashTable
-	url = https://github.com/cran/dashTable
 [submodule "dashboardthemes"]
 	path = dashboardthemes
 	url = https://github.com/cran/dashboardthemes
@@ -25982,9 +25961,6 @@
 [submodule "didrooRFM"]
 	path = didrooRFM
 	url = https://github.com/cran/didrooRFM
-[submodule "dief"]
-	path = dief
-	url = https://github.com/cran/dief
 [submodule "diemr"]
 	path = diemr
 	url = https://github.com/cran/diemr
@@ -26009,9 +25985,6 @@
 [submodule "diffIRT"]
 	path = diffIRT
 	url = https://github.com/cran/diffIRT
-[submodule "diffMeshGP"]
-	path = diffMeshGP
-	url = https://github.com/cran/diffMeshGP
 [submodule "diffcor"]
 	path = diffcor
 	url = https://github.com/cran/diffcor
@@ -30923,9 +30896,6 @@
 [submodule "gawdis"]
 	path = gawdis
 	url = https://github.com/cran/gawdis
-[submodule "gazepath"]
-	path = gazepath
-	url = https://github.com/cran/gazepath
 [submodule "gb"]
 	path = gb
 	url = https://github.com/cran/gb
@@ -38615,9 +38585,6 @@
 [submodule "matchMulti"]
 	path = matchMulti
 	url = https://github.com/cran/matchMulti
-[submodule "matchbook"]
-	path = matchbook
-	url = https://github.com/cran/matchbook
 [submodule "matchingMarkets"]
 	path = matchingMarkets
 	url = https://github.com/cran/matchingMarkets
@@ -43022,9 +42989,6 @@
 [submodule "omnibus"]
 	path = omnibus
 	url = https://github.com/cran/omnibus
-[submodule "omopr"]
-	path = omopr
-	url = https://github.com/cran/omopr
 [submodule "ompr"]
 	path = ompr
 	url = https://github.com/cran/ompr
@@ -55931,9 +55895,6 @@
 [submodule "table1"]
 	path = table1
 	url = https://github.com/cran/table1
-[submodule "table1xls"]
-	path = table1xls
-	url = https://github.com/cran/table1xls
 [submodule "tableExtra"]
 	path = tableExtra
 	url = https://github.com/cran/tableExtra
