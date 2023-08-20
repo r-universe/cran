@@ -51371,9 +51371,6 @@
 [submodule "scoper"]
 	path = scoper
 	url = https://github.com/cran/scoper
-[submodule "scopr"]
-	path = scopr
-	url = https://github.com/cran/scopr
 [submodule "score"]
 	path = score
 	url = https://github.com/cran/score
