@@ -7694,6 +7694,9 @@
 [submodule "KingCountyHouses"]
 	path = KingCountyHouses
 	url = https://github.com/cran/KingCountyHouses
+[submodule "Kira"]
+	path = Kira
+	url = https://github.com/cran/Kira
 [submodule "Kmedians"]
 	path = Kmedians
 	url = https://github.com/cran/Kmedians
@@ -8036,6 +8039,9 @@
 [submodule "LSX"]
 	path = LSX
 	url = https://github.com/cran/LSX
+[submodule "LTAR"]
+	path = LTAR
+	url = https://github.com/cran/LTAR
 [submodule "LTASR"]
 	path = LTASR
 	url = https://github.com/cran/LTASR
@@ -25550,6 +25556,9 @@
 [submodule "deepNN"]
 	path = deepNN
 	url = https://github.com/cran/deepNN
+[submodule "deepRstudio"]
+	path = deepRstudio
+	url = https://github.com/cran/deepRstudio
 [submodule "deepdep"]
 	path = deepdep
 	url = https://github.com/cran/deepdep
