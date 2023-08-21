@@ -6752,6 +6752,9 @@
 [submodule "HodgesTools"]
 	path = HodgesTools
 	url = https://github.com/cran/HodgesTools
+[submodule "Holomics"]
+	path = Holomics
+	url = https://github.com/cran/Holomics
 [submodule "Homeric"]
 	path = Homeric
 	url = https://github.com/cran/Homeric
@@ -18314,6 +18317,9 @@
 [submodule "africamonitor"]
 	path = africamonitor
 	url = https://github.com/cran/africamonitor
+[submodule "aftR2"]
+	path = aftR2
+	url = https://github.com/cran/aftR2
 [submodule "aftgee"]
 	path = aftgee
 	url = https://github.com/cran/aftgee
@@ -21134,6 +21140,9 @@
 [submodule "bootstrapFP"]
 	path = bootstrapFP
 	url = https://github.com/cran/bootstrapFP
+[submodule "bootwar"]
+	path = bootwar
+	url = https://github.com/cran/bootwar
 [submodule "bor"]
 	path = bor
 	url = https://github.com/cran/bor
@@ -31295,6 +31304,9 @@
 [submodule "geocacheR"]
 	path = geocacheR
 	url = https://github.com/cran/geocacheR
+[submodule "geocausal"]
+	path = geocausal
+	url = https://github.com/cran/geocausal
 [submodule "geocmeans"]
 	path = geocmeans
 	url = https://github.com/cran/geocmeans
@@ -44738,6 +44750,9 @@
 [submodule "perturbR"]
 	path = perturbR
 	url = https://github.com/cran/perturbR
+[submodule "peruflorads43"]
+	path = peruflorads43
+	url = https://github.com/cran/peruflorads43
 [submodule "peruse"]
 	path = peruse
 	url = https://github.com/cran/peruse
@@ -45290,6 +45305,9 @@
 [submodule "plasma"]
 	path = plasma
 	url = https://github.com/cran/plasma
+[submodule "plasso"]
+	path = plasso
+	url = https://github.com/cran/plasso
 [submodule "plater"]
 	path = plater
 	url = https://github.com/cran/plater
@@ -48710,6 +48728,9 @@
 [submodule "reda"]
 	path = reda
 	url = https://github.com/cran/reda
+[submodule "redbookperu"]
+	path = redbookperu
+	url = https://github.com/cran/redbookperu
 [submodule "redcapAPI"]
 	path = redcapAPI
 	url = https://github.com/cran/redcapAPI
@@ -49754,6 +49775,9 @@
 [submodule "rmarkdown"]
 	path = rmarkdown
 	url = https://github.com/cran/rmarkdown
+[submodule "rmass2"]
+	path = rmass2
+	url = https://github.com/cran/rmass2
 [submodule "rmatio"]
 	path = rmatio
 	url = https://github.com/cran/rmatio
@@ -50252,6 +50276,9 @@
 [submodule "roxygen2md"]
 	path = roxygen2md
 	url = https://github.com/cran/roxygen2md
+[submodule "roxyglobals"]
+	path = roxyglobals
+	url = https://github.com/cran/roxyglobals
 [submodule "roxytest"]
 	path = roxytest
 	url = https://github.com/cran/roxytest
@@ -55205,6 +55232,9 @@
 [submodule "stream"]
 	path = stream
 	url = https://github.com/cran/stream
+[submodule "streamDAG"]
+	path = streamDAG
+	url = https://github.com/cran/streamDAG
 [submodule "streamDepletr"]
 	path = streamDepletr
 	url = https://github.com/cran/streamDepletr
@@ -56030,6 +56060,9 @@
 [submodule "tagcloud"]
 	path = tagcloud
 	url = https://github.com/cran/tagcloud
+[submodule "tagr"]
+	path = tagr
+	url = https://github.com/cran/tagr
 [submodule "tagtools"]
 	path = tagtools
 	url = https://github.com/cran/tagtools
@@ -57500,6 +57533,9 @@
 [submodule "treeDA"]
 	path = treeDA
 	url = https://github.com/cran/treeDA
+[submodule "treeDbalance"]
+	path = treeDbalance
+	url = https://github.com/cran/treeDbalance
 [submodule "treePlotArea"]
 	path = treePlotArea
 	url = https://github.com/cran/treePlotArea
