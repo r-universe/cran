@@ -25094,6 +25094,9 @@
 [submodule "dartR.spatial"]
 	path = dartR.spatial
 	url = https://github.com/cran/dartR.spatial
+[submodule "dartRverse"]
+	path = dartRverse
+	url = https://github.com/cran/dartRverse
 [submodule "dashCoreComponents"]
 	path = dashCoreComponents
 	url = https://github.com/cran/dashCoreComponents
@@ -32210,6 +32213,9 @@
 [submodule "gimms"]
 	path = gimms
 	url = https://github.com/cran/gimms
+[submodule "ginormal"]
+	path = ginormal
+	url = https://github.com/cran/ginormal
 [submodule "gips"]
 	path = gips
 	url = https://github.com/cran/gips
