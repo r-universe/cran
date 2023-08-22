@@ -7808,6 +7808,9 @@
 [submodule "LDATS"]
 	path = LDATS
 	url = https://github.com/cran/LDATS
+[submodule "LDATree"]
+	path = LDATree
+	url = https://github.com/cran/LDATree
 [submodule "LDAandLDAS"]
 	path = LDAandLDAS
 	url = https://github.com/cran/LDAandLDAS
@@ -43976,6 +43979,9 @@
 [submodule "panelhetero"]
 	path = panelhetero
 	url = https://github.com/cran/panelhetero
+[submodule "panelr"]
+	path = panelr
+	url = https://github.com/cran/panelr
 [submodule "panelsummary"]
 	path = panelsummary
 	url = https://github.com/cran/panelsummary
