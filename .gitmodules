@@ -11336,6 +11336,9 @@
 [submodule "PartCensReg"]
 	path = PartCensReg
 	url = https://github.com/cran/PartCensReg
+[submodule "PartialNetwork"]
+	path = PartialNetwork
+	url = https://github.com/cran/PartialNetwork
 [submodule "Partiallyoverlapping"]
 	path = Partiallyoverlapping
 	url = https://github.com/cran/Partiallyoverlapping
@@ -12413,6 +12416,9 @@
 [submodule "RESS"]
 	path = RESS
 	url = https://github.com/cran/RESS
+[submodule "RESTK"]
+	path = RESTK
+	url = https://github.com/cran/RESTK
 [submodule "REdaS"]
 	path = REdaS
 	url = https://github.com/cran/REdaS
@@ -15113,6 +15119,9 @@
 [submodule "SSHAARP"]
 	path = SSHAARP
 	url = https://github.com/cran/SSHAARP
+[submodule "SSIMmap"]
+	path = SSIMmap
+	url = https://github.com/cran/SSIMmap
 [submodule "SSLASSO"]
 	path = SSLASSO
 	url = https://github.com/cran/SSLASSO
@@ -18362,6 +18371,9 @@
 [submodule "aggregation"]
 	path = aggregation
 	url = https://github.com/cran/aggregation
+[submodule "aggutils"]
+	path = aggutils
+	url = https://github.com/cran/aggutils
 [submodule "aghq"]
 	path = aghq
 	url = https://github.com/cran/aghq
@@ -31163,6 +31175,9 @@
 [submodule "genderBR"]
 	path = genderBR
 	url = https://github.com/cran/genderBR
+[submodule "genderstat"]
+	path = genderstat
+	url = https://github.com/cran/genderstat
 [submodule "gendist"]
 	path = gendist
 	url = https://github.com/cran/gendist
