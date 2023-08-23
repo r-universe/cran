@@ -20975,6 +20975,9 @@
 [submodule "blrm"]
 	path = blrm
 	url = https://github.com/cran/blrm
+[submodule "blsBandit"]
+	path = blsBandit
+	url = https://github.com/cran/blsBandit
 [submodule "blsR"]
 	path = blsR
 	url = https://github.com/cran/blsR
