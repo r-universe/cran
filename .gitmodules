@@ -52535,6 +52535,9 @@
 [submodule "shinyCohortBuilder"]
 	path = shinyCohortBuilder
 	url = https://github.com/cran/shinyCohortBuilder
+[submodule "shinyCox"]
+	path = shinyCox
+	url = https://github.com/cran/shinyCox
 [submodule "shinyCyJS"]
 	path = shinyCyJS
 	url = https://github.com/cran/shinyCyJS
