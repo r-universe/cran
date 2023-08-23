@@ -2762,6 +2762,9 @@
 [submodule "CoImp"]
 	path = CoImp
 	url = https://github.com/cran/CoImp
+[submodule "CoMiRe"]
+	path = CoMiRe
+	url = https://github.com/cran/CoMiRe
 [submodule "CoNI"]
 	path = CoNI
 	url = https://github.com/cran/CoNI
@@ -51116,6 +51119,9 @@
 [submodule "sae.prop"]
 	path = sae.prop
 	url = https://github.com/cran/sae.prop
+[submodule "sae2"]
+	path = sae2
+	url = https://github.com/cran/sae2
 [submodule "saeBest"]
 	path = saeBest
 	url = https://github.com/cran/saeBest
