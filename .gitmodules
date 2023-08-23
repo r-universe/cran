@@ -22121,6 +22121,9 @@
 [submodule "ccmReportR"]
 	path = ccmReportR
 	url = https://github.com/cran/ccmReportR
+[submodule "ccml"]
+	path = ccml
+	url = https://github.com/cran/ccml
 [submodule "ccmm"]
 	path = ccmm
 	url = https://github.com/cran/ccmm
