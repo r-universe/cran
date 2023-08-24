@@ -8189,6 +8189,9 @@
 [submodule "LifeTables"]
 	path = LifeTables
 	url = https://github.com/cran/LifeTables
+[submodule "LifemapR"]
+	path = LifemapR
+	url = https://github.com/cran/LifemapR
 [submodule "LightningR"]
 	path = LightningR
 	url = https://github.com/cran/LightningR
@@ -14420,6 +14423,9 @@
 [submodule "Ryacas0"]
 	path = Ryacas0
 	url = https://github.com/cran/Ryacas0
+[submodule "S7"]
+	path = S7
+	url = https://github.com/cran/S7
 [submodule "SACCR"]
 	path = SACCR
 	url = https://github.com/cran/SACCR
@@ -19175,6 +19181,9 @@
 [submodule "arthistory"]
 	path = arthistory
 	url = https://github.com/cran/arthistory
+[submodule "artpack"]
+	path = artpack
+	url = https://github.com/cran/artpack
 [submodule "arules"]
 	path = arules
 	url = https://github.com/cran/arules
@@ -32276,6 +32285,9 @@
 [submodule "gitear"]
 	path = gitear
 	url = https://github.com/cran/gitear
+[submodule "gitgadget"]
+	path = gitgadget
+	url = https://github.com/cran/gitgadget
 [submodule "githubinstall"]
 	path = githubinstall
 	url = https://github.com/cran/githubinstall
@@ -45329,6 +45341,9 @@
 [submodule "planningML"]
 	path = planningML
 	url = https://github.com/cran/planningML
+[submodule "planr"]
+	path = planr
+	url = https://github.com/cran/planr
 [submodule "plantTracker"]
 	path = plantTracker
 	url = https://github.com/cran/plantTracker
