@@ -11699,6 +11699,9 @@
 [submodule "PreProcess"]
 	path = PreProcess
 	url = https://github.com/cran/PreProcess
+[submodule "PreProcessRecordLinkage"]
+	path = PreProcessRecordLinkage
+	url = https://github.com/cran/PreProcessRecordLinkage
 [submodule "PreProcessing"]
 	path = PreProcessing
 	url = https://github.com/cran/PreProcessing
@@ -21449,6 +21452,9 @@
 [submodule "bsearchtools"]
 	path = bsearchtools
 	url = https://github.com/cran/bsearchtools
+[submodule "bsgof"]
+	path = bsgof
+	url = https://github.com/cran/bsgof
 [submodule "bshazard"]
 	path = bshazard
 	url = https://github.com/cran/bshazard
@@ -33416,6 +33422,9 @@
 [submodule "h3jsr"]
 	path = h3jsr
 	url = https://github.com/cran/h3jsr
+[submodule "h3lib"]
+	path = h3lib
+	url = https://github.com/cran/h3lib
 [submodule "hBayesDM"]
 	path = hBayesDM
 	url = https://github.com/cran/hBayesDM
