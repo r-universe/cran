@@ -25625,9 +25625,6 @@
 [submodule "deflist"]
 	path = deflist
 	url = https://github.com/cran/deflist
-[submodule "defm"]
-	path = defm
-	url = https://github.com/cran/defm
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
@@ -44813,9 +44810,6 @@
 [submodule "pewdata"]
 	path = pewdata
 	url = https://github.com/cran/pewdata
-[submodule "pexm"]
-	path = pexm
-	url = https://github.com/cran/pexm
 [submodule "pez"]
 	path = pez
 	url = https://github.com/cran/pez
