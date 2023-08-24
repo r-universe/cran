@@ -1001,9 +1001,6 @@
 [submodule "BIOdry"]
 	path = BIOdry
 	url = https://github.com/cran/BIOdry
-[submodule "BIS"]
-	path = BIS
-	url = https://github.com/cran/BIS
 [submodule "BISdata"]
 	path = BISdata
 	url = https://github.com/cran/BISdata
