@@ -19373,6 +19373,9 @@
 [submodule "astsa"]
 	path = astsa
 	url = https://github.com/cran/astsa
+[submodule "asus"]
+	path = asus
+	url = https://github.com/cran/asus
 [submodule "asylum"]
 	path = asylum
 	url = https://github.com/cran/asylum
