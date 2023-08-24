@@ -24161,6 +24161,9 @@
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/cran/countrycode
+[submodule "countsplit"]
+	path = countsplit
+	url = https://github.com/cran/countsplit
 [submodule "covBM"]
 	path = covBM
 	url = https://github.com/cran/covBM
@@ -44744,6 +44747,9 @@
 [submodule "periscope"]
 	path = periscope
 	url = https://github.com/cran/periscope
+[submodule "periscope2"]
+	path = periscope2
+	url = https://github.com/cran/periscope2
 [submodule "perm"]
 	path = perm
 	url = https://github.com/cran/perm
@@ -55901,6 +55907,9 @@
 [submodule "syllabifyr"]
 	path = syllabifyr
 	url = https://github.com/cran/syllabifyr
+[submodule "syllogi"]
+	path = syllogi
+	url = https://github.com/cran/syllogi
 [submodule "sylly"]
 	path = sylly
 	url = https://github.com/cran/sylly
