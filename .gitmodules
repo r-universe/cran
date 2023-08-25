@@ -1979,9 +1979,6 @@
 [submodule "CDROM"]
 	path = CDROM
 	url = https://github.com/cran/CDROM
-[submodule "CDSS"]
-	path = CDSS
-	url = https://github.com/cran/CDSS
 [submodule "CDVineCopulaConditional"]
 	path = CDVineCopulaConditional
 	url = https://github.com/cran/CDVineCopulaConditional
@@ -8687,6 +8684,9 @@
 [submodule "MIIPW"]
 	path = MIIPW
 	url = https://github.com/cran/MIIPW
+[submodule "MIIVefa"]
+	path = MIIVefa
+	url = https://github.com/cran/MIIVefa
 [submodule "MIIVsem"]
 	path = MIIVsem
 	url = https://github.com/cran/MIIVsem
@@ -12446,9 +12446,6 @@
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
-[submodule "RFOC"]
-	path = RFOC
-	url = https://github.com/cran/RFOC
 [submodule "RFPM"]
 	path = RFPM
 	url = https://github.com/cran/RFPM
@@ -13202,9 +13199,6 @@
 [submodule "RTMB"]
 	path = RTMB
 	url = https://github.com/cran/RTMB
-[submodule "RTOMO"]
-	path = RTOMO
-	url = https://github.com/cran/RTOMO
 [submodule "RTSA"]
 	path = RTSA
 	url = https://github.com/cran/RTSA
@@ -14288,9 +14282,6 @@
 [submodule "Rprofet"]
 	path = Rprofet
 	url = https://github.com/cran/Rprofet
-[submodule "Rquake"]
-	path = Rquake
-	url = https://github.com/cran/Rquake
 [submodule "Rquefts"]
 	path = Rquefts
 	url = https://github.com/cran/Rquefts
@@ -27785,9 +27776,6 @@
 [submodule "electoral"]
 	path = electoral
 	url = https://github.com/cran/electoral
-[submodule "elementR"]
-	path = elementR
-	url = https://github.com/cran/elementR
 [submodule "elevatr"]
 	path = elevatr
 	url = https://github.com/cran/elevatr
@@ -31472,9 +31460,6 @@
 [submodule "geonetwork"]
 	path = geonetwork
 	url = https://github.com/cran/geonetwork
-[submodule "geophys"]
-	path = geophys
-	url = https://github.com/cran/geophys
 [submodule "geos"]
 	path = geos
 	url = https://github.com/cran/geos
@@ -42572,6 +42557,9 @@
 [submodule "normalr"]
 	path = normalr
 	url = https://github.com/cran/normalr
+[submodule "normfluodbf"]
+	path = normfluodbf
+	url = https://github.com/cran/normfluodbf
 [submodule "nortest"]
 	path = nortest
 	url = https://github.com/cran/nortest
@@ -42791,6 +42779,9 @@
 [submodule "ntdr"]
 	path = ntdr
 	url = https://github.com/cran/ntdr
+[submodule "ntsDists"]
+	path = ntsDists
+	url = https://github.com/cran/ntsDists
 [submodule "nucim"]
 	path = nucim
 	url = https://github.com/cran/nucim
@@ -45095,6 +45086,9 @@
 [submodule "phylosamp"]
 	path = phylosamp
 	url = https://github.com/cran/phylosamp
+[submodule "phylosem"]
+	path = phylosem
+	url = https://github.com/cran/phylosem
 [submodule "phyloseqGraphTest"]
 	path = phyloseqGraphTest
 	url = https://github.com/cran/phyloseqGraphTest
