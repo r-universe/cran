@@ -25649,6 +25649,9 @@
 [submodule "deflist"]
 	path = deflist
 	url = https://github.com/cran/deflist
+[submodule "defm"]
+	path = defm
+	url = https://github.com/cran/defm
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
@@ -31418,6 +31421,9 @@
 [submodule "geojsonio"]
 	path = geojsonio
 	url = https://github.com/cran/geojsonio
+[submodule "geojsonlint"]
+	path = geojsonlint
+	url = https://github.com/cran/geojsonlint
 [submodule "geojsonsf"]
 	path = geojsonsf
 	url = https://github.com/cran/geojsonsf
@@ -44840,6 +44846,9 @@
 [submodule "pewdata"]
 	path = pewdata
 	url = https://github.com/cran/pewdata
+[submodule "pexm"]
+	path = pexm
+	url = https://github.com/cran/pexm
 [submodule "pez"]
 	path = pez
 	url = https://github.com/cran/pez
