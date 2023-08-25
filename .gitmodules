@@ -6383,6 +6383,9 @@
 [submodule "GxEScanR"]
 	path = GxEScanR
 	url = https://github.com/cran/GxEScanR
+[submodule "GxEprs"]
+	path = GxEprs
+	url = https://github.com/cran/GxEprs
 [submodule "H2x2Factorial"]
 	path = H2x2Factorial
 	url = https://github.com/cran/H2x2Factorial
@@ -18938,6 +18941,9 @@
 [submodule "aplot"]
 	path = aplot
 	url = https://github.com/cran/aplot
+[submodule "aplotExtra"]
+	path = aplotExtra
+	url = https://github.com/cran/aplotExtra
 [submodule "aplpack"]
 	path = aplpack
 	url = https://github.com/cran/aplpack
