@@ -13196,6 +13196,9 @@
 [submodule "RTL"]
 	path = RTL
 	url = https://github.com/cran/RTL
+[submodule "RTLknitr"]
+	path = RTLknitr
+	url = https://github.com/cran/RTLknitr
 [submodule "RTMB"]
 	path = RTMB
 	url = https://github.com/cran/RTMB
@@ -13871,9 +13874,6 @@
 [submodule "Redmonder"]
 	path = Redmonder
 	url = https://github.com/cran/Redmonder
-[submodule "RefBasedMI"]
-	path = RefBasedMI
-	url = https://github.com/cran/RefBasedMI
 [submodule "RefManageR"]
 	path = RefManageR
 	url = https://github.com/cran/RefManageR
@@ -17024,6 +17024,9 @@
 [submodule "TriadSim"]
 	path = TriadSim
 	url = https://github.com/cran/TriadSim
+[submodule "TrialEmulation"]
+	path = TrialEmulation
+	url = https://github.com/cran/TrialEmulation
 [submodule "TrialSize"]
 	path = TrialSize
 	url = https://github.com/cran/TrialSize
@@ -34250,9 +34253,6 @@
 [submodule "htm2txt"]
 	path = htm2txt
 	url = https://github.com/cran/htm2txt
-[submodule "htmcglm"]
-	path = htmcglm
-	url = https://github.com/cran/htmcglm
 [submodule "html2R"]
 	path = html2R
 	url = https://github.com/cran/html2R
@@ -36809,6 +36809,9 @@
 [submodule "lambdr"]
 	path = lambdr
 	url = https://github.com/cran/lambdr
+[submodule "lamle"]
+	path = lamle
+	url = https://github.com/cran/lamle
 [submodule "lamme"]
 	path = lamme
 	url = https://github.com/cran/lamme
@@ -38957,9 +38960,6 @@
 [submodule "mcga"]
 	path = mcga
 	url = https://github.com/cran/mcga
-[submodule "mcglm"]
-	path = mcglm
-	url = https://github.com/cran/mcglm
 [submodule "mclcar"]
 	path = mclcar
 	url = https://github.com/cran/mclcar
@@ -42563,9 +42563,6 @@
 [submodule "norm"]
 	path = norm
 	url = https://github.com/cran/norm
-[submodule "norm2"]
-	path = norm2
-	url = https://github.com/cran/norm2
 [submodule "normalizeH"]
 	path = normalizeH
 	url = https://github.com/cran/normalizeH
@@ -49277,9 +49274,6 @@
 [submodule "restorepoint"]
 	path = restorepoint
 	url = https://github.com/cran/restorepoint
-[submodule "restriktor"]
-	path = restriktor
-	url = https://github.com/cran/restriktor
 [submodule "resumer"]
 	path = resumer
 	url = https://github.com/cran/resumer
@@ -49925,6 +49919,9 @@
 [submodule "rmoo"]
 	path = rmoo
 	url = https://github.com/cran/rmoo
+[submodule "rmp"]
+	path = rmp
+	url = https://github.com/cran/rmp
 [submodule "rmpw"]
 	path = rmpw
 	url = https://github.com/cran/rmpw
