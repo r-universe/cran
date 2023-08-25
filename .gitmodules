@@ -29630,6 +29630,9 @@
 [submodule "findR"]
 	path = findR
 	url = https://github.com/cran/findR
+[submodule "findSVI"]
+	path = findSVI
+	url = https://github.com/cran/findSVI
 [submodule "findpython"]
 	path = findpython
 	url = https://github.com/cran/findpython
