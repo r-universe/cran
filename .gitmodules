@@ -31418,9 +31418,6 @@
 [submodule "geojsonio"]
 	path = geojsonio
 	url = https://github.com/cran/geojsonio
-[submodule "geojsonlint"]
-	path = geojsonlint
-	url = https://github.com/cran/geojsonlint
 [submodule "geojsonsf"]
 	path = geojsonsf
 	url = https://github.com/cran/geojsonsf
