@@ -5057,9 +5057,6 @@
 [submodule "FOCI"]
 	path = FOCI
 	url = https://github.com/cran/FOCI
-[submodule "FORTLS"]
-	path = FORTLS
-	url = https://github.com/cran/FORTLS
 [submodule "FPCA2D"]
 	path = FPCA2D
 	url = https://github.com/cran/FPCA2D
