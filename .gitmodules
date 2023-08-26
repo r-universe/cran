@@ -26825,9 +26825,6 @@
 [submodule "drf"]
 	path = drf
 	url = https://github.com/cran/drf
-[submodule "drfit"]
-	path = drfit
-	url = https://github.com/cran/drfit
 [submodule "drgee"]
 	path = drgee
 	url = https://github.com/cran/drgee
@@ -30965,6 +30962,9 @@
 [submodule "gasmodel"]
 	path = gasmodel
 	url = https://github.com/cran/gasmodel
+[submodule "gasper"]
+	path = gasper
+	url = https://github.com/cran/gasper
 [submodule "gastempt"]
 	path = gastempt
 	url = https://github.com/cran/gastempt
