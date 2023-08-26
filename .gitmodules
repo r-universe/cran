@@ -11132,9 +11132,6 @@
 [submodule "PRSPGx"]
 	path = PRSPGx
 	url = https://github.com/cran/PRSPGx
-[submodule "PRSim"]
-	path = PRSim
-	url = https://github.com/cran/PRSim
 [submodule "PReMiuM"]
 	path = PReMiuM
 	url = https://github.com/cran/PReMiuM
@@ -48104,9 +48101,6 @@
 [submodule "ranktreeEnsemble"]
 	path = ranktreeEnsemble
 	url = https://github.com/cran/ranktreeEnsemble
-[submodule "rapbase"]
-	path = rapbase
-	url = https://github.com/cran/rapbase
 [submodule "rapiclient"]
 	path = rapiclient
 	url = https://github.com/cran/rapiclient
