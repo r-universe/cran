@@ -4406,9 +4406,6 @@
 [submodule "ERSA"]
 	path = ERSA
 	url = https://github.com/cran/ERSA
-[submodule "ESG"]
-	path = ESG
-	url = https://github.com/cran/ESG
 [submodule "ESTER"]
 	path = ESTER
 	url = https://github.com/cran/ESTER
@@ -12173,9 +12170,6 @@
 [submodule "RALSA"]
 	path = RALSA
 	url = https://github.com/cran/RALSA
-[submodule "RAMClustR"]
-	path = RAMClustR
-	url = https://github.com/cran/RAMClustR
 [submodule "RAMP"]
 	path = RAMP
 	url = https://github.com/cran/RAMP
@@ -38972,9 +38966,6 @@
 [submodule "mcglm"]
 	path = mcglm
 	url = https://github.com/cran/mcglm
-[submodule "mclcar"]
-	path = mclcar
-	url = https://github.com/cran/mclcar
 [submodule "mclm"]
 	path = mclm
 	url = https://github.com/cran/mclm
@@ -39365,9 +39356,6 @@
 [submodule "metabolic"]
 	path = metabolic
 	url = https://github.com/cran/metabolic
-[submodule "metabolomicsR"]
-	path = metabolomicsR
-	url = https://github.com/cran/metabolomicsR
 [submodule "metabup"]
 	path = metabup
 	url = https://github.com/cran/metabup
