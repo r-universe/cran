@@ -4016,6 +4016,9 @@
 [submodule "DivE"]
 	path = DivE
 	url = https://github.com/cran/DivE
+[submodule "DivInsight"]
+	path = DivInsight
+	url = https://github.com/cran/DivInsight
 [submodule "DiversificationR"]
 	path = DiversificationR
 	url = https://github.com/cran/DiversificationR
@@ -5057,6 +5060,9 @@
 [submodule "FOCI"]
 	path = FOCI
 	url = https://github.com/cran/FOCI
+[submodule "FORTLS"]
+	path = FORTLS
+	url = https://github.com/cran/FORTLS
 [submodule "FPCA2D"]
 	path = FPCA2D
 	url = https://github.com/cran/FPCA2D
@@ -9821,6 +9827,9 @@
 [submodule "NADA"]
 	path = NADA
 	url = https://github.com/cran/NADA
+[submodule "NADA2"]
+	path = NADA2
+	url = https://github.com/cran/NADA2
 [submodule "NADIA"]
 	path = NADIA
 	url = https://github.com/cran/NADIA
@@ -26165,6 +26174,9 @@
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/cran/dimensio
+[submodule "dimensionalAnalysis"]
+	path = dimensionalAnalysis
+	url = https://github.com/cran/dimensionalAnalysis
 [submodule "dimensionsR"]
 	path = dimensionsR
 	url = https://github.com/cran/dimensionsR
@@ -26822,6 +26834,9 @@
 [submodule "drf"]
 	path = drf
 	url = https://github.com/cran/drf
+[submodule "drfit"]
+	path = drfit
+	url = https://github.com/cran/drfit
 [submodule "drgee"]
 	path = drgee
 	url = https://github.com/cran/drgee
@@ -38534,6 +38549,9 @@
 [submodule "mapmisc"]
 	path = mapmisc
 	url = https://github.com/cran/mapmisc
+[submodule "mapping"]
+	path = mapping
+	url = https://github.com/cran/mapping
 [submodule "mappings"]
 	path = mappings
 	url = https://github.com/cran/mappings
