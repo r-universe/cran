@@ -13658,9 +13658,6 @@
 [submodule "RcppEigen"]
 	path = RcppEigen
 	url = https://github.com/cran/RcppEigen
-[submodule "RcppEigenAD"]
-	path = RcppEigenAD
-	url = https://github.com/cran/RcppEigenAD
 [submodule "RcppEnsmallen"]
 	path = RcppEnsmallen
 	url = https://github.com/cran/RcppEnsmallen
