@@ -7412,9 +7412,6 @@
 [submodule "IsoGene"]
 	path = IsoGene
 	url = https://github.com/cran/IsoGene
-[submodule "IsoMemo"]
-	path = IsoMemo
-	url = https://github.com/cran/IsoMemo
 [submodule "IsoSpecR"]
 	path = IsoSpecR
 	url = https://github.com/cran/IsoSpecR
