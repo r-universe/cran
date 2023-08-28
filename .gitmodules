@@ -32726,9 +32726,6 @@
 [submodule "goric"]
 	path = goric
 	url = https://github.com/cran/goric
-[submodule "gorica"]
-	path = gorica
-	url = https://github.com/cran/gorica
 [submodule "gorpiper"]
 	path = gorpiper
 	url = https://github.com/cran/gorpiper
