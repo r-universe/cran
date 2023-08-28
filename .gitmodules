@@ -14561,6 +14561,9 @@
 [submodule "SCCS"]
 	path = SCCS
 	url = https://github.com/cran/SCCS
+[submodule "SCDB"]
+	path = SCDB
+	url = https://github.com/cran/SCDB
 [submodule "SCEM"]
 	path = SCEM
 	url = https://github.com/cran/SCEM
@@ -34799,6 +34802,9 @@
 [submodule "idmact"]
 	path = idmact
 	url = https://github.com/cran/idmact
+[submodule "idmc"]
+	path = idmc
+	url = https://github.com/cran/idmc
 [submodule "idmodelr"]
 	path = idmodelr
 	url = https://github.com/cran/idmodelr
@@ -52946,6 +52952,9 @@
 [submodule "sim2Dpredictr"]
 	path = sim2Dpredictr
 	url = https://github.com/cran/sim2Dpredictr
+[submodule "simDAG"]
+	path = simDAG
+	url = https://github.com/cran/simDAG
 [submodule "simDNAmixtures"]
 	path = simDNAmixtures
 	url = https://github.com/cran/simDNAmixtures
