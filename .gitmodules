@@ -2507,9 +2507,6 @@
 [submodule "CausalModels"]
 	path = CausalModels
 	url = https://github.com/cran/CausalModels
-[submodule "CausalQueries"]
-	path = CausalQueries
-	url = https://github.com/cran/CausalQueries
 [submodule "CautiousLearning"]
 	path = CautiousLearning
 	url = https://github.com/cran/CautiousLearning
@@ -6059,6 +6056,9 @@
 [submodule "GWPR.light"]
 	path = GWPR.light
 	url = https://github.com/cran/GWPR.light
+[submodule "GWRLASSO"]
+	path = GWRLASSO
+	url = https://github.com/cran/GWRLASSO
 [submodule "GWRM"]
 	path = GWRM
 	url = https://github.com/cran/GWRM
@@ -29135,6 +29135,9 @@
 [submodule "fastai"]
 	path = fastai
 	url = https://github.com/cran/fastai
+[submodule "fastbeta"]
+	path = fastbeta
+	url = https://github.com/cran/fastbeta
 [submodule "fastcluster"]
 	path = fastcluster
 	url = https://github.com/cran/fastcluster
@@ -38216,6 +38219,9 @@
 [submodule "mRMRe"]
 	path = mRMRe
 	url = https://github.com/cran/mRMRe
+[submodule "mRc"]
+	path = mRc
+	url = https://github.com/cran/mRc
 [submodule "mRpostman"]
 	path = mRpostman
 	url = https://github.com/cran/mRpostman
@@ -40970,6 +40976,9 @@
 [submodule "msde"]
 	path = msde
 	url = https://github.com/cran/msde
+[submodule "mseapca"]
+	path = mseapca
+	url = https://github.com/cran/mseapca
 [submodule "msentropy"]
 	path = msentropy
 	url = https://github.com/cran/msentropy
@@ -55316,6 +55325,9 @@
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/cran/stringi
+[submodule "stringmagic"]
+	path = stringmagic
+	url = https://github.com/cran/stringmagic
 [submodule "stringr"]
 	path = stringr
 	url = https://github.com/cran/stringr
