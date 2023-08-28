@@ -608,9 +608,6 @@
 [submodule "ApacheLogProcessor"]
 	path = ApacheLogProcessor
 	url = https://github.com/cran/ApacheLogProcessor
-[submodule "Apollonius"]
-	path = Apollonius
-	url = https://github.com/cran/Apollonius
 [submodule "AppliedPredictiveModeling"]
 	path = AppliedPredictiveModeling
 	url = https://github.com/cran/AppliedPredictiveModeling
@@ -13616,9 +13613,6 @@
 [submodule "RcppCCTZ"]
 	path = RcppCCTZ
 	url = https://github.com/cran/RcppCCTZ
-[submodule "RcppCGAL"]
-	path = RcppCGAL
-	url = https://github.com/cran/RcppCGAL
 [submodule "RcppCNPy"]
 	path = RcppCNPy
 	url = https://github.com/cran/RcppCNPy
@@ -22382,9 +22376,6 @@
 [submodule "cgalMeshes"]
 	path = cgalMeshes
 	url = https://github.com/cran/cgalMeshes
-[submodule "cgalPolygons"]
-	path = cgalPolygons
-	url = https://github.com/cran/cgalPolygons
 [submodule "cgam"]
 	path = cgam
 	url = https://github.com/cran/cgam
@@ -35408,9 +35399,6 @@
 [submodule "interplot"]
 	path = interplot
 	url = https://github.com/cran/interplot
-[submodule "interpolation"]
-	path = interpolation
-	url = https://github.com/cran/interpolation
 [submodule "interpret"]
 	path = interpret
 	url = https://github.com/cran/interpret
@@ -36968,9 +36956,6 @@
 [submodule "lazyData"]
 	path = lazyData
 	url = https://github.com/cran/lazyData
-[submodule "lazyNumbers"]
-	path = lazyNumbers
-	url = https://github.com/cran/lazyNumbers
 [submodule "lazyWeave"]
 	path = lazyWeave
 	url = https://github.com/cran/lazyWeave
@@ -54425,9 +54410,6 @@
 [submodule "spgwr"]
 	path = spgwr
 	url = https://github.com/cran/spgwr
-[submodule "sphereTessellation"]
-	path = sphereTessellation
-	url = https://github.com/cran/sphereTessellation
 [submodule "spherepc"]
 	path = spherepc
 	url = https://github.com/cran/spherepc
