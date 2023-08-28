@@ -911,6 +911,9 @@
 [submodule "BENMMI"]
 	path = BENMMI
 	url = https://github.com/cran/BENMMI
+[submodule "BEST"]
+	path = BEST
+	url = https://github.com/cran/BEST
 [submodule "BESTree"]
 	path = BESTree
 	url = https://github.com/cran/BESTree
@@ -4403,6 +4406,9 @@
 [submodule "ERSA"]
 	path = ERSA
 	url = https://github.com/cran/ERSA
+[submodule "ESG"]
+	path = ESG
+	url = https://github.com/cran/ESG
 [submodule "ESTER"]
 	path = ESTER
 	url = https://github.com/cran/ESTER
@@ -7280,6 +7286,9 @@
 [submodule "IndexWizard"]
 	path = IndexWizard
 	url = https://github.com/cran/IndexWizard
+[submodule "IndianTaxCalc"]
+	path = IndianTaxCalc
+	url = https://github.com/cran/IndianTaxCalc
 [submodule "InferenceSMR"]
 	path = InferenceSMR
 	url = https://github.com/cran/InferenceSMR
@@ -12164,6 +12173,9 @@
 [submodule "RALSA"]
 	path = RALSA
 	url = https://github.com/cran/RALSA
+[submodule "RAMClustR"]
+	path = RAMClustR
+	url = https://github.com/cran/RAMClustR
 [submodule "RAMP"]
 	path = RAMP
 	url = https://github.com/cran/RAMP
@@ -16928,6 +16940,9 @@
 [submodule "TrafficBDE"]
 	path = TrafficBDE
 	url = https://github.com/cran/TrafficBDE
+[submodule "TraitStats"]
+	path = TraitStats
+	url = https://github.com/cran/TraitStats
 [submodule "TrajDataMining"]
 	path = TrajDataMining
 	url = https://github.com/cran/TrajDataMining
@@ -22748,6 +22763,9 @@
 [submodule "clarify"]
 	path = clarify
 	url = https://github.com/cran/clarify
+[submodule "clarkeTest"]
+	path = clarkeTest
+	url = https://github.com/cran/clarkeTest
 [submodule "class"]
 	path = class
 	url = https://github.com/cran/class
@@ -24113,6 +24131,9 @@
 [submodule "cotrend"]
 	path = cotrend
 	url = https://github.com/cran/cotrend
+[submodule "couchDB"]
+	path = couchDB
+	url = https://github.com/cran/couchDB
 [submodule "countDM"]
 	path = countDM
 	url = https://github.com/cran/countDM
@@ -28607,6 +28628,9 @@
 [submodule "exceldata"]
 	path = exceldata
 	url = https://github.com/cran/exceldata
+[submodule "excelstrippr"]
+	path = excelstrippr
+	url = https://github.com/cran/excelstrippr
 [submodule "excessmort"]
 	path = excessmort
 	url = https://github.com/cran/excessmort
@@ -28952,6 +28976,9 @@
 [submodule "factormodel"]
 	path = factormodel
 	url = https://github.com/cran/factormodel
+[submodule "factorplot"]
+	path = factorplot
+	url = https://github.com/cran/factorplot
 [submodule "factorstochvol"]
 	path = factorstochvol
 	url = https://github.com/cran/factorstochvol
@@ -34058,6 +34085,9 @@
 [submodule "hnp"]
 	path = hnp
 	url = https://github.com/cran/hnp
+[submodule "hoa"]
+	path = hoa
+	url = https://github.com/cran/hoa
 [submodule "hoardeR"]
 	path = hoardeR
 	url = https://github.com/cran/hoardeR
@@ -34082,6 +34112,9 @@
 [submodule "homals"]
 	path = homals
 	url = https://github.com/cran/homals
+[submodule "homeR"]
+	path = homeR
+	url = https://github.com/cran/homeR
 [submodule "hommel"]
 	path = hommel
 	url = https://github.com/cran/hommel
@@ -38939,6 +38972,9 @@
 [submodule "mcglm"]
 	path = mcglm
 	url = https://github.com/cran/mcglm
+[submodule "mclcar"]
+	path = mclcar
+	url = https://github.com/cran/mclcar
 [submodule "mclm"]
 	path = mclm
 	url = https://github.com/cran/mclm
@@ -39329,6 +39365,9 @@
 [submodule "metabolic"]
 	path = metabolic
 	url = https://github.com/cran/metabolic
+[submodule "metabolomicsR"]
+	path = metabolomicsR
+	url = https://github.com/cran/metabolomicsR
 [submodule "metabup"]
 	path = metabup
 	url = https://github.com/cran/metabup
@@ -42029,6 +42068,9 @@
 [submodule "neurobase"]
 	path = neurobase
 	url = https://github.com/cran/neurobase
+[submodule "neuroblastoma"]
+	path = neuroblastoma
+	url = https://github.com/cran/neuroblastoma
 [submodule "neurocInstall"]
 	path = neurocInstall
 	url = https://github.com/cran/neurocInstall
@@ -46814,6 +46856,9 @@
 [submodule "ptspotter"]
 	path = ptspotter
 	url = https://github.com/cran/ptspotter
+[submodule "ptsuite"]
+	path = ptsuite
+	url = https://github.com/cran/ptsuite
 [submodule "pttstability"]
 	path = pttstability
 	url = https://github.com/cran/pttstability
@@ -48830,6 +48875,9 @@
 [submodule "refitME"]
 	path = refitME
 	url = https://github.com/cran/refitME
+[submodule "refnr"]
+	path = refnr
+	url = https://github.com/cran/refnr
 [submodule "refreg"]
 	path = refreg
 	url = https://github.com/cran/refreg
@@ -51272,6 +51320,9 @@
 [submodule "samplingDataCRT"]
 	path = samplingDataCRT
 	url = https://github.com/cran/samplingDataCRT
+[submodule "samplingEstimates"]
+	path = samplingEstimates
+	url = https://github.com/cran/samplingEstimates
 [submodule "samplingR"]
 	path = samplingR
 	url = https://github.com/cran/samplingR
@@ -58520,6 +58571,9 @@
 [submodule "uwedragon"]
 	path = uwedragon
 	url = https://github.com/cran/uwedragon
+[submodule "uwo4419"]
+	path = uwo4419
+	url = https://github.com/cran/uwo4419
 [submodule "uwot"]
 	path = uwot
 	url = https://github.com/cran/uwot
@@ -59318,6 +59372,9 @@
 [submodule "waved"]
 	path = waved
 	url = https://github.com/cran/waved
+[submodule "wavefunction"]
+	path = wavefunction
+	url = https://github.com/cran/wavefunction
 [submodule "wavelets"]
 	path = wavelets
 	url = https://github.com/cran/wavelets
