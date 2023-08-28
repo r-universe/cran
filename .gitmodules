@@ -18086,6 +18086,9 @@
 [submodule "adabag"]
 	path = adabag
 	url = https://github.com/cran/adabag
+[submodule "adace"]
+	path = adace
+	url = https://github.com/cran/adace
 [submodule "adagio"]
 	path = adagio
 	url = https://github.com/cran/adagio
