@@ -13403,6 +13403,9 @@
 [submodule "RareComb"]
 	path = RareComb
 	url = https://github.com/cran/RareComb
+[submodule "Rarefy"]
+	path = Rarefy
+	url = https://github.com/cran/Rarefy
 [submodule "Rarity"]
 	path = Rarity
 	url = https://github.com/cran/Rarity
@@ -20699,6 +20702,9 @@
 [submodule "binomCI"]
 	path = binomCI
 	url = https://github.com/cran/binomCI
+[submodule "binomSamSize"]
+	path = binomSamSize
+	url = https://github.com/cran/binomSamSize
 [submodule "binomialRF"]
 	path = binomialRF
 	url = https://github.com/cran/binomialRF
