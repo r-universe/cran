@@ -14945,9 +14945,6 @@
 [submodule "SNSequate"]
 	path = SNSequate
 	url = https://github.com/cran/SNSequate
-[submodule "SNscan"]
-	path = SNscan
-	url = https://github.com/cran/SNscan
 [submodule "SOAR"]
 	path = SOAR
 	url = https://github.com/cran/SOAR
