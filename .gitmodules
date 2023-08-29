@@ -9581,6 +9581,9 @@
 [submodule "MoMPCA"]
 	path = MoMPCA
 	url = https://github.com/cran/MoMPCA
+[submodule "MoNAn"]
+	path = MoNAn
+	url = https://github.com/cran/MoNAn
 [submodule "MoTBFs"]
 	path = MoTBFs
 	url = https://github.com/cran/MoTBFs
@@ -13127,6 +13130,9 @@
 [submodule "RSStest"]
 	path = RSStest
 	url = https://github.com/cran/RSStest
+[submodule "RSSthemes"]
+	path = RSSthemes
+	url = https://github.com/cran/RSSthemes
 [submodule "RSarules"]
 	path = RSarules
 	url = https://github.com/cran/RSarules
@@ -18572,6 +18578,9 @@
 [submodule "aldvmm"]
 	path = aldvmm
 	url = https://github.com/cran/aldvmm
+[submodule "ale"]
+	path = ale
+	url = https://github.com/cran/ale
 [submodule "alfr"]
 	path = alfr
 	url = https://github.com/cran/alfr
@@ -20690,9 +20699,6 @@
 [submodule "binomCI"]
 	path = binomCI
 	url = https://github.com/cran/binomCI
-[submodule "binomSamSize"]
-	path = binomSamSize
-	url = https://github.com/cran/binomSamSize
 [submodule "binomialRF"]
 	path = binomialRF
 	url = https://github.com/cran/binomialRF
@@ -21605,6 +21611,9 @@
 [submodule "burnr"]
 	path = burnr
 	url = https://github.com/cran/burnr
+[submodule "bursa"]
+	path = bursa
+	url = https://github.com/cran/bursa
 [submodule "bursts"]
 	path = bursts
 	url = https://github.com/cran/bursts
@@ -25508,6 +25517,9 @@
 [submodule "ddiv"]
 	path = ddiv
 	url = https://github.com/cran/ddiv
+[submodule "ddml"]
+	path = ddml
+	url = https://github.com/cran/ddml
 [submodule "ddp"]
 	path = ddp
 	url = https://github.com/cran/ddp
@@ -28610,6 +28622,9 @@
 [submodule "exactRankTests"]
 	path = exactRankTests
 	url = https://github.com/cran/exactRankTests
+[submodule "exactamente"]
+	path = exactamente
+	url = https://github.com/cran/exactamente
 [submodule "exactci"]
 	path = exactci
 	url = https://github.com/cran/exactci
@@ -45095,6 +45110,9 @@
 [submodule "photosynthesis"]
 	path = photosynthesis
 	url = https://github.com/cran/photosynthesis
+[submodule "phrases"]
+	path = phrases
+	url = https://github.com/cran/phrases
 [submodule "phreeqc"]
 	path = phreeqc
 	url = https://github.com/cran/phreeqc
@@ -46064,6 +46082,9 @@
 [submodule "pould"]
 	path = pould
 	url = https://github.com/cran/pould
+[submodule "povmap"]
+	path = povmap
+	url = https://github.com/cran/povmap
 [submodule "pow.int"]
 	path = pow.int
 	url = https://github.com/cran/pow.int
@@ -50936,6 +50957,9 @@
 [submodule "rumidas"]
 	path = rumidas
 	url = https://github.com/cran/rumidas
+[submodule "ruminate"]
+	path = ruminate
+	url = https://github.com/cran/ruminate
 [submodule "runMCMCbtadjust"]
 	path = runMCMCbtadjust
 	url = https://github.com/cran/runMCMCbtadjust
@@ -57512,6 +57536,9 @@
 [submodule "tpr"]
 	path = tpr
 	url = https://github.com/cran/tpr
+[submodule "tqk"]
+	path = tqk
+	url = https://github.com/cran/tqk
 [submodule "tracee"]
 	path = tracee
 	url = https://github.com/cran/tracee
