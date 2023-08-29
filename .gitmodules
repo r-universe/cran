@@ -19277,6 +19277,9 @@
 [submodule "asnipe"]
 	path = asnipe
 	url = https://github.com/cran/asnipe
+[submodule "aspace"]
+	path = aspace
+	url = https://github.com/cran/aspace
 [submodule "aspect"]
 	path = aspect
 	url = https://github.com/cran/aspect
