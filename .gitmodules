@@ -7598,6 +7598,9 @@
 [submodule "KHQ"]
 	path = KHQ
 	url = https://github.com/cran/KHQ
+[submodule "KLINK"]
+	path = KLINK
+	url = https://github.com/cran/KLINK
 [submodule "KLexp"]
 	path = KLexp
 	url = https://github.com/cran/KLexp
@@ -13403,9 +13406,6 @@
 [submodule "RareComb"]
 	path = RareComb
 	url = https://github.com/cran/RareComb
-[submodule "Rarefy"]
-	path = Rarefy
-	url = https://github.com/cran/Rarefy
 [submodule "Rarity"]
 	path = Rarity
 	url = https://github.com/cran/Rarity
@@ -20702,9 +20702,6 @@
 [submodule "binomCI"]
 	path = binomCI
 	url = https://github.com/cran/binomCI
-[submodule "binomSamSize"]
-	path = binomSamSize
-	url = https://github.com/cran/binomSamSize
 [submodule "binomialRF"]
 	path = binomialRF
 	url = https://github.com/cran/binomialRF
@@ -23711,6 +23708,9 @@
 [submodule "condTruncMVN"]
 	path = condTruncMVN
 	url = https://github.com/cran/condTruncMVN
+[submodule "condensr"]
+	path = condensr
+	url = https://github.com/cran/condensr
 [submodule "condformat"]
 	path = condformat
 	url = https://github.com/cran/condformat
@@ -23954,6 +23954,9 @@
 [submodule "copCAR"]
 	path = copCAR
 	url = https://github.com/cran/copCAR
+[submodule "copcor"]
+	path = copcor
+	url = https://github.com/cran/copcor
 [submodule "cope"]
 	path = cope
 	url = https://github.com/cran/cope
@@ -36458,6 +36461,9 @@
 [submodule "keyholder"]
 	path = keyholder
 	url = https://github.com/cran/keyholder
+[submodule "keyperm"]
+	path = keyperm
+	url = https://github.com/cran/keyperm
 [submodule "keyplayer"]
 	path = keyplayer
 	url = https://github.com/cran/keyplayer
