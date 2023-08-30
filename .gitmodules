@@ -34955,6 +34955,9 @@
 [submodule "ihclust"]
 	path = ihclust
 	url = https://github.com/cran/ihclust
+[submodule "iheatmapr"]
+	path = iheatmapr
+	url = https://github.com/cran/iheatmapr
 [submodule "iheiddown"]
 	path = iheiddown
 	url = https://github.com/cran/iheiddown
