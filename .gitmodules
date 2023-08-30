@@ -3365,6 +3365,9 @@
 [submodule "DGCA"]
 	path = DGCA
 	url = https://github.com/cran/DGCA
+[submodule "DGEAR"]
+	path = DGEAR
+	url = https://github.com/cran/DGEAR
 [submodule "DGEobj"]
 	path = DGEobj
 	url = https://github.com/cran/DGEobj
@@ -17165,6 +17168,9 @@
 [submodule "UPSvarApprox"]
 	path = UPSvarApprox
 	url = https://github.com/cran/UPSvarApprox
+[submodule "URooTab"]
+	path = URooTab
+	url = https://github.com/cran/URooTab
 [submodule "USA.state.boundaries"]
 	path = USA.state.boundaries
 	url = https://github.com/cran/USA.state.boundaries
@@ -18170,6 +18176,9 @@
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/cran/adbcdrivermanager
+[submodule "adbcsqlite"]
+	path = adbcsqlite
+	url = https://github.com/cran/adbcsqlite
 [submodule "adc"]
 	path = adc
 	url = https://github.com/cran/adc
@@ -44855,6 +44864,9 @@
 [submodule "permimp"]
 	path = permimp
 	url = https://github.com/cran/permimp
+[submodule "perms"]
+	path = perms
+	url = https://github.com/cran/perms
 [submodule "permubiome"]
 	path = permubiome
 	url = https://github.com/cran/permubiome
@@ -47669,6 +47681,9 @@
 [submodule "r3js"]
 	path = r3js
 	url = https://github.com/cran/r3js
+[submodule "r4ds.tutorials"]
+	path = r4ds.tutorials
+	url = https://github.com/cran/r4ds.tutorials
 [submodule "r4googleads"]
 	path = r4googleads
 	url = https://github.com/cran/r4googleads
