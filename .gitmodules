@@ -16442,6 +16442,9 @@
 [submodule "TFMPvalue"]
 	path = TFMPvalue
 	url = https://github.com/cran/TFMPvalue
+[submodule "TFactSR"]
+	path = TFactSR
+	url = https://github.com/cran/TFactSR
 [submodule "TFisher"]
 	path = TFisher
 	url = https://github.com/cran/TFisher
@@ -20858,6 +20861,9 @@
 [submodule "bipd"]
 	path = bipd
 	url = https://github.com/cran/bipd
+[submodule "biplotEZ"]
+	path = biplotEZ
+	url = https://github.com/cran/biplotEZ
 [submodule "biplotbootGUI"]
 	path = biplotbootGUI
 	url = https://github.com/cran/biplotbootGUI
@@ -26060,6 +26066,9 @@
 [submodule "di"]
 	path = di
 	url = https://github.com/cran/di
+[submodule "diagL1"]
+	path = diagL1
+	url = https://github.com/cran/diagL1
 [submodule "diagis"]
 	path = diagis
 	url = https://github.com/cran/diagis
@@ -26903,6 +26912,9 @@
 [submodule "droll"]
 	path = droll
 	url = https://github.com/cran/droll
+[submodule "dropout"]
+	path = dropout
+	url = https://github.com/cran/dropout
 [submodule "droptest"]
 	path = droptest
 	url = https://github.com/cran/droptest
@@ -57902,6 +57914,9 @@
 [submodule "truh"]
 	path = truh
 	url = https://github.com/cran/truh
+[submodule "truncAIPW"]
+	path = truncAIPW
+	url = https://github.com/cran/truncAIPW
 [submodule "truncSP"]
 	path = truncSP
 	url = https://github.com/cran/truncSP
@@ -59054,6 +59069,9 @@
 [submodule "vipor"]
 	path = vipor
 	url = https://github.com/cran/vipor
+[submodule "viralmodels"]
+	path = viralmodels
+	url = https://github.com/cran/viralmodels
 [submodule "viridis"]
 	path = viridis
 	url = https://github.com/cran/viridis
