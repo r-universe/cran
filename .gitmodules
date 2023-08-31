@@ -1994,9 +1994,6 @@
 [submodule "CEDA"]
 	path = CEDA
 	url = https://github.com/cran/CEDA
-[submodule "CEDARS"]
-	path = CEDARS
-	url = https://github.com/cran/CEDARS
 [submodule "CEEMDANML"]
 	path = CEEMDANML
 	url = https://github.com/cran/CEEMDANML
@@ -27971,9 +27968,6 @@
 [submodule "emstreeR"]
 	path = emstreeR
 	url = https://github.com/cran/emstreeR
-[submodule "emuR"]
-	path = emuR
-	url = https://github.com/cran/emuR
 [submodule "emulator"]
 	path = emulator
 	url = https://github.com/cran/emulator
