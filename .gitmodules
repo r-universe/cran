@@ -20336,6 +20336,9 @@
 [submodule "bench"]
 	path = bench
 	url = https://github.com/cran/bench
+[submodule "benchden"]
+	path = benchden
+	url = https://github.com/cran/benchden
 [submodule "benchmarkme"]
 	path = benchmarkme
 	url = https://github.com/cran/benchmarkme
