@@ -46751,9 +46751,6 @@
 [submodule "prozor"]
 	path = prozor
 	url = https://github.com/cran/prozor
-[submodule "prqlr"]
-	path = prqlr
-	url = https://github.com/cran/prqlr
 [submodule "prrd"]
 	path = prrd
 	url = https://github.com/cran/prrd
