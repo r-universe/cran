@@ -41207,9 +41207,6 @@
 [submodule "muckrock"]
 	path = muckrock
 	url = https://github.com/cran/muckrock
-[submodule "mudata2"]
-	path = mudata2
-	url = https://github.com/cran/mudata2
 [submodule "mudfold"]
 	path = mudfold
 	url = https://github.com/cran/mudfold
