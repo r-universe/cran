@@ -17528,9 +17528,6 @@
 [submodule "WGScan"]
 	path = WGScan
 	url = https://github.com/cran/WGScan
-[submodule "WH"]
-	path = WH
-	url = https://github.com/cran/WH
 [submodule "WINS"]
 	path = WINS
 	url = https://github.com/cran/WINS
@@ -29888,9 +29885,6 @@
 [submodule "flashlight"]
 	path = flashlight
 	url = https://github.com/cran/flashlight
-[submodule "flashlighttext"]
-	path = flashlighttext
-	url = https://github.com/cran/flashlighttext
 [submodule "flashr"]
 	path = flashr
 	url = https://github.com/cran/flashr
@@ -30992,9 +30986,6 @@
 [submodule "ganGenerativeData"]
 	path = ganGenerativeData
 	url = https://github.com/cran/ganGenerativeData
-[submodule "ganalytics"]
-	path = ganalytics
-	url = https://github.com/cran/ganalytics
 [submodule "gap"]
 	path = gap
 	url = https://github.com/cran/gap
