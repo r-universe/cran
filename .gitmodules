@@ -16940,9 +16940,6 @@
 [submodule "TotalCopheneticIndex"]
 	path = TotalCopheneticIndex
 	url = https://github.com/cran/TotalCopheneticIndex
-[submodule "TouRnament"]
-	path = TouRnament
-	url = https://github.com/cran/TouRnament
 [submodule "ToxCrit"]
 	path = ToxCrit
 	url = https://github.com/cran/ToxCrit
@@ -17291,9 +17288,6 @@
 [submodule "VBsparsePCA"]
 	path = VBsparsePCA
 	url = https://github.com/cran/VBsparsePCA
-[submodule "VC2copula"]
-	path = VC2copula
-	url = https://github.com/cran/VC2copula
 [submodule "VCA"]
 	path = VCA
 	url = https://github.com/cran/VCA
@@ -24269,9 +24263,6 @@
 [submodule "covid19.analytics"]
 	path = covid19.analytics
 	url = https://github.com/cran/covid19.analytics
-[submodule "covid19br"]
-	path = covid19br
-	url = https://github.com/cran/covid19br
 [submodule "covid19brazil"]
 	path = covid19brazil
 	url = https://github.com/cran/covid19brazil
@@ -27158,9 +27149,6 @@
 [submodule "dynamicTreeCut"]
 	path = dynamicTreeCut
 	url = https://github.com/cran/dynamicTreeCut
-[submodule "dynamichazard"]
-	path = dynamichazard
-	url = https://github.com/cran/dynamichazard
 [submodule "dynamite"]
 	path = dynamite
 	url = https://github.com/cran/dynamite
@@ -33371,9 +33359,6 @@
 [submodule "gtfsio"]
 	path = gtfsio
 	url = https://github.com/cran/gtfsio
-[submodule "gtfsrouter"]
-	path = gtfsrouter
-	url = https://github.com/cran/gtfsrouter
 [submodule "gtfstools"]
 	path = gtfstools
 	url = https://github.com/cran/gtfstools
@@ -37199,9 +37184,6 @@
 [submodule "leaflet.multiopacity"]
 	path = leaflet.multiopacity
 	url = https://github.com/cran/leaflet.multiopacity
-[submodule "leaflet.opacity"]
-	path = leaflet.opacity
-	url = https://github.com/cran/leaflet.opacity
 [submodule "leaflet.providers"]
 	path = leaflet.providers
 	url = https://github.com/cran/leaflet.providers
@@ -38684,9 +38666,6 @@
 [submodule "mar1s"]
 	path = mar1s
 	url = https://github.com/cran/mar1s
-[submodule "maraca"]
-	path = maraca
-	url = https://github.com/cran/maraca
 [submodule "marble"]
 	path = marble
 	url = https://github.com/cran/marble
