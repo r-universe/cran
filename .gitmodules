@@ -24227,6 +24227,9 @@
 [submodule "countprop"]
 	path = countprop
 	url = https://github.com/cran/countprop
+[submodule "countries"]
+	path = countries
+	url = https://github.com/cran/countries
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/cran/countrycode
