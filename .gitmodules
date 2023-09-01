@@ -11828,6 +11828,9 @@
 [submodule "ProliferativeIndex"]
 	path = ProliferativeIndex
 	url = https://github.com/cran/ProliferativeIndex
+[submodule "PrometheeTools"]
+	path = PrometheeTools
+	url = https://github.com/cran/PrometheeTools
 [submodule "PropCIs"]
 	path = PropCIs
 	url = https://github.com/cran/PropCIs
@@ -59567,6 +59570,9 @@
 [submodule "webglobe"]
 	path = webglobe
 	url = https://github.com/cran/webglobe
+[submodule "webmap"]
+	path = webmap
+	url = https://github.com/cran/webmap
 [submodule "webmockr"]
 	path = webmockr
 	url = https://github.com/cran/webmockr
