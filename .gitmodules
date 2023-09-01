@@ -7106,6 +7106,9 @@
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
+[submodule "IP"]
+	path = IP
+	url = https://github.com/cran/IP
 [submodule "IPCAPS"]
 	path = IPCAPS
 	url = https://github.com/cran/IPCAPS
@@ -52343,6 +52346,9 @@
 [submodule "seqtest"]
 	path = seqtest
 	url = https://github.com/cran/seqtest
+[submodule "seqtrie"]
+	path = seqtrie
+	url = https://github.com/cran/seqtrie
 [submodule "sequences"]
 	path = sequences
 	url = https://github.com/cran/sequences
