@@ -39971,6 +39971,9 @@
 [submodule "minimaxdesign"]
 	path = minimaxdesign
 	url = https://github.com/cran/minimaxdesign
+[submodule "minioclient"]
+	path = minioclient
+	url = https://github.com/cran/minioclient
 [submodule "minpack.lm"]
 	path = minpack.lm
 	url = https://github.com/cran/minpack.lm
