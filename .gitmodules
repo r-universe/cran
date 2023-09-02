@@ -6452,6 +6452,9 @@
 [submodule "HDInterval"]
 	path = HDInterval
 	url = https://github.com/cran/HDInterval
+[submodule "HDJM"]
+	path = HDJM
+	url = https://github.com/cran/HDJM
 [submodule "HDLSSkST"]
 	path = HDLSSkST
 	url = https://github.com/cran/HDLSSkST
@@ -50714,6 +50717,9 @@
 [submodule "rsf"]
 	path = rsf
 	url = https://github.com/cran/rsf
+[submodule "rsgeo"]
+	path = rsgeo
+	url = https://github.com/cran/rsgeo
 [submodule "rshift"]
 	path = rshift
 	url = https://github.com/cran/rshift
