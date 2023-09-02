@@ -17291,6 +17291,9 @@
 [submodule "VARshrink"]
 	path = VARshrink
 	url = https://github.com/cran/VARshrink
+[submodule "VBJM"]
+	path = VBJM
+	url = https://github.com/cran/VBJM
 [submodule "VBLPCM"]
 	path = VBLPCM
 	url = https://github.com/cran/VBLPCM
