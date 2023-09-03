@@ -42185,6 +42185,9 @@
 [submodule "neutralitytestr"]
 	path = neutralitytestr
 	url = https://github.com/cran/neutralitytestr
+[submodule "nevada"]
+	path = nevada
+	url = https://github.com/cran/nevada
 [submodule "neverhpfilter"]
 	path = neverhpfilter
 	url = https://github.com/cran/neverhpfilter
