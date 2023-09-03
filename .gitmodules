@@ -947,6 +947,9 @@
 [submodule "BGLR"]
 	path = BGLR
 	url = https://github.com/cran/BGLR
+[submodule "BGPhazard"]
+	path = BGPhazard
+	url = https://github.com/cran/BGPhazard
 [submodule "BGVAR"]
 	path = BGVAR
 	url = https://github.com/cran/BGVAR
@@ -41633,6 +41636,9 @@
 [submodule "mvp"]
 	path = mvp
 	url = https://github.com/cran/mvp
+[submodule "mvpd"]
+	path = mvpd
+	url = https://github.com/cran/mvpd
 [submodule "mvrsquared"]
 	path = mvrsquared
 	url = https://github.com/cran/mvrsquared
