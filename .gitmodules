@@ -59423,9 +59423,6 @@
 [submodule "walkscoreAPI"]
 	path = walkscoreAPI
 	url = https://github.com/cran/walkscoreAPI
-[submodule "wallace"]
-	path = wallace
-	url = https://github.com/cran/wallace
 [submodule "wally"]
 	path = wally
 	url = https://github.com/cran/wally
