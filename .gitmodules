@@ -33074,6 +33074,9 @@
 [submodule "gratis"]
 	path = gratis
 	url = https://github.com/cran/gratis
+[submodule "grattan"]
+	path = grattan
+	url = https://github.com/cran/grattan
 [submodule "grattanInflators"]
 	path = grattanInflators
 	url = https://github.com/cran/grattanInflators
