@@ -32708,6 +32708,9 @@
 [submodule "gnomonicM"]
 	path = gnomonicM
 	url = https://github.com/cran/gnomonicM
+[submodule "gnonadd"]
+	path = gnonadd
+	url = https://github.com/cran/gnonadd
 [submodule "gnorm"]
 	path = gnorm
 	url = https://github.com/cran/gnorm
@@ -40868,6 +40871,9 @@
 [submodule "morse"]
 	path = morse
 	url = https://github.com/cran/morse
+[submodule "mort"]
+	path = mort
+	url = https://github.com/cran/mort
 [submodule "mortAAR"]
 	path = mortAAR
 	url = https://github.com/cran/mortAAR
@@ -58868,6 +58874,9 @@
 [submodule "varjmcm"]
 	path = varjmcm
 	url = https://github.com/cran/varjmcm
+[submodule "varoc"]
+	path = varoc
+	url = https://github.com/cran/varoc
 [submodule "varrank"]
 	path = varrank
 	url = https://github.com/cran/varrank
