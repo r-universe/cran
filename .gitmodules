@@ -5021,6 +5021,9 @@
 [submodule "FLLat"]
 	path = FLLat
 	url = https://github.com/cran/FLLat
+[submodule "FLOPART"]
+	path = FLOPART
+	url = https://github.com/cran/FLOPART
 [submodule "FLORAL"]
 	path = FLORAL
 	url = https://github.com/cran/FLORAL
@@ -6383,6 +6386,9 @@
 [submodule "GroupTest"]
 	path = GroupTest
 	url = https://github.com/cran/GroupTest
+[submodule "Grouphmap"]
+	path = Grouphmap
+	url = https://github.com/cran/Grouphmap
 [submodule "GrpString"]
 	path = GrpString
 	url = https://github.com/cran/GrpString
@@ -7844,6 +7850,9 @@
 [submodule "LDLcalc"]
 	path = LDLcalc
 	url = https://github.com/cran/LDLcalc
+[submodule "LDM"]
+	path = LDM
+	url = https://github.com/cran/LDM
 [submodule "LDNN"]
 	path = LDNN
 	url = https://github.com/cran/LDNN
@@ -13340,6 +13349,9 @@
 [submodule "RaceID"]
 	path = RaceID
 	url = https://github.com/cran/RaceID
+[submodule "Racmacs"]
+	path = Racmacs
+	url = https://github.com/cran/Racmacs
 [submodule "RadData"]
 	path = RadData
 	url = https://github.com/cran/RadData
