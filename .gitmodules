@@ -5564,6 +5564,9 @@
 [submodule "GAGAs"]
 	path = GAGAs
 	url = https://github.com/cran/GAGAs
+[submodule "GAGBLUP"]
+	path = GAGBLUP
+	url = https://github.com/cran/GAGBLUP
 [submodule "GAIPE"]
 	path = GAIPE
 	url = https://github.com/cran/GAIPE
@@ -7733,6 +7736,9 @@
 [submodule "KneeArrower"]
 	path = KneeArrower
 	url = https://github.com/cran/KneeArrower
+[submodule "KnockoffHybrid"]
+	path = KnockoffHybrid
+	url = https://github.com/cran/KnockoffHybrid
 [submodule "KnockoffScreen"]
 	path = KnockoffScreen
 	url = https://github.com/cran/KnockoffScreen
@@ -31829,6 +31835,9 @@
 [submodule "ggcleveland"]
 	path = ggcleveland
 	url = https://github.com/cran/ggcleveland
+[submodule "ggcorrplot"]
+	path = ggcorrplot
+	url = https://github.com/cran/ggcorrplot
 [submodule "ggcorset"]
 	path = ggcorset
 	url = https://github.com/cran/ggcorset
@@ -36305,6 +36314,9 @@
 [submodule "jubilee"]
 	path = jubilee
 	url = https://github.com/cran/jubilee
+[submodule "juicedown"]
+	path = juicedown
+	url = https://github.com/cran/juicedown
 [submodule "juicr"]
 	path = juicr
 	url = https://github.com/cran/juicr
@@ -40046,6 +40058,9 @@
 [submodule "miselect"]
 	path = miselect
 	url = https://github.com/cran/miselect
+[submodule "misha"]
+	path = misha
+	url = https://github.com/cran/misha
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/cran/mispitools
@@ -46571,6 +46586,9 @@
 [submodule "procmaps"]
 	path = procmaps
 	url = https://github.com/cran/procmaps
+[submodule "procs"]
+	path = procs
+	url = https://github.com/cran/procs
 [submodule "prodest"]
 	path = prodest
 	url = https://github.com/cran/prodest
@@ -47633,6 +47651,9 @@
 [submodule "r02pro"]
 	path = r02pro
 	url = https://github.com/cran/r02pro
+[submodule "r2country"]
+	path = r2country
+	url = https://github.com/cran/r2country
 [submodule "r2d2"]
 	path = r2d2
 	url = https://github.com/cran/r2d2
