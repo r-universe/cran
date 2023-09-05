@@ -14399,9 +14399,6 @@
 [submodule "Rsymphony"]
 	path = Rsymphony
 	url = https://github.com/cran/Rsymphony
-[submodule "RtD3"]
-	path = RtD3
-	url = https://github.com/cran/RtD3
 [submodule "Rtapas"]
 	path = Rtapas
 	url = https://github.com/cran/Rtapas
