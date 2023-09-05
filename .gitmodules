@@ -13736,6 +13736,9 @@
 [submodule "RcppHungarian"]
 	path = RcppHungarian
 	url = https://github.com/cran/RcppHungarian
+[submodule "RcppInt64"]
+	path = RcppInt64
+	url = https://github.com/cran/RcppInt64
 [submodule "RcppJagger"]
 	path = RcppJagger
 	url = https://github.com/cran/RcppJagger
@@ -45047,6 +45050,9 @@
 [submodule "pharmaverse"]
 	path = pharmaverse
 	url = https://github.com/cran/pharmaverse
+[submodule "pharmaversesdtm"]
+	path = pharmaversesdtm
+	url = https://github.com/cran/pharmaversesdtm
 [submodule "pharmr"]
 	path = pharmr
 	url = https://github.com/cran/pharmr
