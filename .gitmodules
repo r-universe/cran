@@ -2723,9 +2723,6 @@
 [submodule "ClustImpute"]
 	path = ClustImpute
 	url = https://github.com/cran/ClustImpute
-[submodule "ClustMMDD"]
-	path = ClustMMDD
-	url = https://github.com/cran/ClustMMDD
 [submodule "ClustOfVar"]
 	path = ClustOfVar
 	url = https://github.com/cran/ClustOfVar
@@ -20705,9 +20702,6 @@
 [submodule "binaryMM"]
 	path = binaryMM
 	url = https://github.com/cran/binaryMM
-[submodule "binaryTimeSeries"]
-	path = binaryTimeSeries
-	url = https://github.com/cran/binaryTimeSeries
 [submodule "binb"]
 	path = binb
 	url = https://github.com/cran/binb
@@ -20876,9 +20870,6 @@
 [submodule "biostat3"]
 	path = biostat3
 	url = https://github.com/cran/biostat3
-[submodule "biosurvey"]
-	path = biosurvey
-	url = https://github.com/cran/biosurvey
 [submodule "biotic"]
 	path = biotic
 	url = https://github.com/cran/biotic
@@ -31622,9 +31613,6 @@
 [submodule "geouy"]
 	path = geouy
 	url = https://github.com/cran/geouy
-[submodule "geoviz"]
-	path = geoviz
-	url = https://github.com/cran/geoviz
 [submodule "geovol"]
 	path = geovol
 	url = https://github.com/cran/geovol
@@ -38654,9 +38642,6 @@
 [submodule "mapme.biodiversity"]
 	path = mapme.biodiversity
 	url = https://github.com/cran/mapme.biodiversity
-[submodule "mapmisc"]
-	path = mapmisc
-	url = https://github.com/cran/mapmisc
 [submodule "mapping"]
 	path = mapping
 	url = https://github.com/cran/mapping
@@ -44102,9 +44087,6 @@
 [submodule "paleomorph"]
 	path = paleomorph
 	url = https://github.com/cran/paleomorph
-[submodule "paleopop"]
-	path = paleopop
-	url = https://github.com/cran/paleopop
 [submodule "paleotree"]
 	path = paleotree
 	url = https://github.com/cran/paleotree
@@ -45818,9 +45800,6 @@
 [submodule "podcleaner"]
 	path = podcleaner
 	url = https://github.com/cran/podcleaner
-[submodule "poems"]
-	path = poems
-	url = https://github.com/cran/poems
 [submodule "pogit"]
 	path = pogit
 	url = https://github.com/cran/pogit
@@ -52589,9 +52568,6 @@
 [submodule "shades"]
 	path = shades
 	url = https://github.com/cran/shades
-[submodule "shadow"]
-	path = shadow
-	url = https://github.com/cran/shadow
 [submodule "shadowr"]
 	path = shadowr
 	url = https://github.com/cran/shadowr
@@ -60524,9 +60500,6 @@
 [submodule "zoomr"]
 	path = zoomr
 	url = https://github.com/cran/zoomr
-[submodule "zoon"]
-	path = zoon
-	url = https://github.com/cran/zoon
 [submodule "zscorer"]
 	path = zscorer
 	url = https://github.com/cran/zscorer
