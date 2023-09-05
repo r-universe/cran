@@ -5396,6 +5396,9 @@
 [submodule "ForeCA"]
 	path = ForeCA
 	url = https://github.com/cran/ForeCA
+[submodule "ForeComp"]
+	path = ForeComp
+	url = https://github.com/cran/ForeComp
 [submodule "ForecastComb"]
 	path = ForecastComb
 	url = https://github.com/cran/ForecastComb
@@ -23081,6 +23084,9 @@
 [submodule "clustMixType"]
 	path = clustMixType
 	url = https://github.com/cran/clustMixType
+[submodule "clustNet"]
+	path = clustNet
+	url = https://github.com/cran/clustNet
 [submodule "cluster"]
 	path = cluster
 	url = https://github.com/cran/cluster
@@ -27674,6 +27680,9 @@
 [submodule "editData"]
 	path = editData
 	url = https://github.com/cran/editData
+[submodule "editbl"]
+	path = editbl
+	url = https://github.com/cran/editbl
 [submodule "editrules"]
 	path = editrules
 	url = https://github.com/cran/editrules
@@ -31199,6 +31208,9 @@
 [submodule "gdiff"]
 	path = gdiff
 	url = https://github.com/cran/gdiff
+[submodule "gdim"]
+	path = gdim
+	url = https://github.com/cran/gdim
 [submodule "gdistance"]
 	path = gdistance
 	url = https://github.com/cran/gdistance
@@ -33653,6 +33665,9 @@
 [submodule "harmony"]
 	path = harmony
 	url = https://github.com/cran/harmony
+[submodule "harmonydata"]
+	path = harmonydata
+	url = https://github.com/cran/harmonydata
 [submodule "harrietr"]
 	path = harrietr
 	url = https://github.com/cran/harrietr
@@ -43340,6 +43355,9 @@
 [submodule "onsr"]
 	path = onsr
 	url = https://github.com/cran/onsr
+[submodule "onsvplot"]
+	path = onsvplot
+	url = https://github.com/cran/onsvplot
 [submodule "ontoFAST"]
 	path = ontoFAST
 	url = https://github.com/cran/ontoFAST
