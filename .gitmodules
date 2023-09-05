@@ -3068,9 +3068,6 @@
 [submodule "CovCombR"]
 	path = CovCombR
 	url = https://github.com/cran/CovCombR
-[submodule "CovRegRF"]
-	path = CovRegRF
-	url = https://github.com/cran/CovRegRF
 [submodule "CovSel"]
 	path = CovSel
 	url = https://github.com/cran/CovSel
@@ -12476,9 +12473,6 @@
 [submodule "REndo"]
 	path = REndo
 	url = https://github.com/cran/REndo
-[submodule "RFCCA"]
-	path = RFCCA
-	url = https://github.com/cran/RFCCA
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
