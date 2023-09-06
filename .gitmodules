@@ -7256,6 +7256,9 @@
 [submodule "IgAScores"]
 	path = IgAScores
 	url = https://github.com/cran/IgAScores
+[submodule "ImML"]
+	path = ImML
+	url = https://github.com/cran/ImML
 [submodule "Immigrate"]
 	path = Immigrate
 	url = https://github.com/cran/Immigrate
@@ -36740,6 +36743,9 @@
 [submodule "konfound"]
 	path = konfound
 	url = https://github.com/cran/konfound
+[submodule "konya"]
+	path = konya
+	url = https://github.com/cran/konya
 [submodule "kosel"]
 	path = kosel
 	url = https://github.com/cran/kosel
@@ -40511,6 +40517,9 @@
 [submodule "mmc"]
 	path = mmc
 	url = https://github.com/cran/mmc
+[submodule "mmcards"]
+	path = mmcards
+	url = https://github.com/cran/mmcards
 [submodule "mmcif"]
 	path = mmcif
 	url = https://github.com/cran/mmcif
