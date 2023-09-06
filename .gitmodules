@@ -25439,9 +25439,6 @@
 [submodule "datos"]
 	path = datos
 	url = https://github.com/cran/datos
-[submodule "datplot"]
-	path = datplot
-	url = https://github.com/cran/datplot
 [submodule "datr"]
 	path = datr
 	url = https://github.com/cran/datr
