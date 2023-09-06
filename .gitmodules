@@ -14411,6 +14411,9 @@
 [submodule "Rsymphony"]
 	path = Rsymphony
 	url = https://github.com/cran/Rsymphony
+[submodule "RtD3"]
+	path = RtD3
+	url = https://github.com/cran/RtD3
 [submodule "Rtapas"]
 	path = Rtapas
 	url = https://github.com/cran/Rtapas
@@ -35864,6 +35867,9 @@
 [submodule "isoorbi"]
 	path = isoorbi
 	url = https://github.com/cran/isoorbi
+[submodule "isopam"]
+	path = isopam
+	url = https://github.com/cran/isopam
 [submodule "isopat"]
 	path = isopat
 	url = https://github.com/cran/isopat
@@ -59342,6 +59348,9 @@
 [submodule "vrtest"]
 	path = vrtest
 	url = https://github.com/cran/vrtest
+[submodule "vscc"]
+	path = vscc
+	url = https://github.com/cran/vscc
 [submodule "vsd"]
 	path = vsd
 	url = https://github.com/cran/vsd
