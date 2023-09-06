@@ -11198,6 +11198,9 @@
 [submodule "PSGD"]
 	path = PSGD
 	url = https://github.com/cran/PSGD
+[submodule "PSGoft"]
+	path = PSGoft
+	url = https://github.com/cran/PSGoft
 [submodule "PSLM2015"]
 	path = PSLM2015
 	url = https://github.com/cran/PSLM2015
@@ -18398,6 +18401,9 @@
 [submodule "afc"]
 	path = afc
 	url = https://github.com/cran/afc
+[submodule "afcolours"]
+	path = afcolours
+	url = https://github.com/cran/afcolours
 [submodule "afdx"]
 	path = afdx
 	url = https://github.com/cran/afdx
@@ -22358,6 +22364,9 @@
 [submodule "censo2017"]
 	path = censo2017
 	url = https://github.com/cran/censo2017
+[submodule "censobr"]
+	path = censobr
+	url = https://github.com/cran/censobr
 [submodule "censorcopula"]
 	path = censorcopula
 	url = https://github.com/cran/censorcopula
@@ -40991,6 +41000,9 @@
 [submodule "mpathsenser"]
 	path = mpathsenser
 	url = https://github.com/cran/mpathsenser
+[submodule "mpindex"]
+	path = mpindex
+	url = https://github.com/cran/mpindex
 [submodule "mplot"]
 	path = mplot
 	url = https://github.com/cran/mplot
@@ -45770,6 +45782,9 @@
 [submodule "pmc"]
 	path = pmc
 	url = https://github.com/cran/pmc
+[submodule "pmcalibration"]
+	path = pmcalibration
+	url = https://github.com/cran/pmcalibration
 [submodule "pmclust"]
 	path = pmclust
 	url = https://github.com/cran/pmclust
@@ -49823,6 +49838,9 @@
 [submodule "rioja"]
 	path = rioja
 	url = https://github.com/cran/rioja
+[submodule "ripc"]
+	path = ripc
+	url = https://github.com/cran/ripc
 [submodule "ripserr"]
 	path = ripserr
 	url = https://github.com/cran/ripserr
@@ -59834,6 +59852,9 @@
 [submodule "wikipediatrend"]
 	path = wikipediatrend
 	url = https://github.com/cran/wikipediatrend
+[submodule "wikiprofiler"]
+	path = wikiprofiler
+	url = https://github.com/cran/wikiprofiler
 [submodule "wikitaxa"]
 	path = wikitaxa
 	url = https://github.com/cran/wikitaxa
