@@ -36203,6 +36203,9 @@
 [submodule "joint.Cox"]
 	path = joint.Cox
 	url = https://github.com/cran/joint.Cox
+[submodule "jointCalib"]
+	path = jointCalib
+	url = https://github.com/cran/jointCalib
 [submodule "jointDiag"]
 	path = jointDiag
 	url = https://github.com/cran/jointDiag
@@ -36425,6 +36428,9 @@
 [submodule "karel"]
 	path = karel
 	url = https://github.com/cran/karel
+[submodule "karyotapR"]
+	path = karyotapR
+	url = https://github.com/cran/karyotapR
 [submodule "katex"]
 	path = katex
 	url = https://github.com/cran/katex
@@ -45083,6 +45089,9 @@
 [submodule "phangorn"]
 	path = phangorn
 	url = https://github.com/cran/phangorn
+[submodule "phantSEM"]
+	path = phantSEM
+	url = https://github.com/cran/phantSEM
 [submodule "pharmaRTF"]
 	path = pharmaRTF
 	url = https://github.com/cran/pharmaRTF
@@ -52844,6 +52853,9 @@
 [submodule "shinySIR"]
 	path = shinySIR
 	url = https://github.com/cran/shinySIR
+[submodule "shinySbm"]
+	path = shinySbm
+	url = https://github.com/cran/shinySbm
 [submodule "shinySearchbar"]
 	path = shinySearchbar
 	url = https://github.com/cran/shinySearchbar
@@ -59150,6 +59162,9 @@
 [submodule "viralmodels"]
 	path = viralmodels
 	url = https://github.com/cran/viralmodels
+[submodule "viralx"]
+	path = viralx
+	url = https://github.com/cran/viralx
 [submodule "viridis"]
 	path = viridis
 	url = https://github.com/cran/viridis
