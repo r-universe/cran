@@ -24317,6 +24317,9 @@
 [submodule "covid19.analytics"]
 	path = covid19.analytics
 	url = https://github.com/cran/covid19.analytics
+[submodule "covid19br"]
+	path = covid19br
+	url = https://github.com/cran/covid19br
 [submodule "covid19brazil"]
 	path = covid19brazil
 	url = https://github.com/cran/covid19brazil
@@ -25448,6 +25451,9 @@
 [submodule "datos"]
 	path = datos
 	url = https://github.com/cran/datos
+[submodule "datplot"]
+	path = datplot
+	url = https://github.com/cran/datplot
 [submodule "datr"]
 	path = datr
 	url = https://github.com/cran/datr
