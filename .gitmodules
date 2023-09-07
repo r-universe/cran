@@ -38579,6 +38579,9 @@
 [submodule "malaytextr"]
 	path = malaytextr
 	url = https://github.com/cran/malaytextr
+[submodule "maldipickr"]
+	path = maldipickr
+	url = https://github.com/cran/maldipickr
 [submodule "mallet"]
 	path = mallet
 	url = https://github.com/cran/mallet
