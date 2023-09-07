@@ -27221,9 +27221,6 @@
 [submodule "dynetNLAResistance"]
 	path = dynetNLAResistance
 	url = https://github.com/cran/dynetNLAResistance
-[submodule "dynfeature"]
-	path = dynfeature
-	url = https://github.com/cran/dynfeature
 [submodule "dyngen"]
 	path = dyngen
 	url = https://github.com/cran/dyngen
@@ -27239,9 +27236,6 @@
 [submodule "dynparam"]
 	path = dynparam
 	url = https://github.com/cran/dynparam
-[submodule "dynplot"]
-	path = dynplot
-	url = https://github.com/cran/dynplot
 [submodule "dynpred"]
 	path = dynpred
 	url = https://github.com/cran/dynpred
@@ -50822,9 +50816,6 @@
 [submodule "rsnell"]
 	path = rsnell
 	url = https://github.com/cran/rsnell
-[submodule "rsnps"]
-	path = rsnps
-	url = https://github.com/cran/rsnps
 [submodule "rsoi"]
 	path = rsoi
 	url = https://github.com/cran/rsoi
