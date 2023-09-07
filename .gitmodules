@@ -42212,6 +42212,9 @@
 [submodule "neuRosim"]
 	path = neuRosim
 	url = https://github.com/cran/neuRosim
+[submodule "neuralGAM"]
+	path = neuralGAM
+	url = https://github.com/cran/neuralGAM
 [submodule "neuralnet"]
 	path = neuralnet
 	url = https://github.com/cran/neuralnet
