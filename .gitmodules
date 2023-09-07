@@ -25196,6 +25196,9 @@
 [submodule "dagwood"]
 	path = dagwood
 	url = https://github.com/cran/dagwood
+[submodule "daiR"]
+	path = daiR
+	url = https://github.com/cran/daiR
 [submodule "dail"]
 	path = dail
 	url = https://github.com/cran/dail
