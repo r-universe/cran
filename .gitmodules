@@ -6839,6 +6839,9 @@
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
+[submodule "IAPWS95"]
+	path = IAPWS95
+	url = https://github.com/cran/IAPWS95
 [submodule "IASD"]
 	path = IASD
 	url = https://github.com/cran/IASD
@@ -49487,6 +49490,9 @@
 [submodule "retriever"]
 	path = retriever
 	url = https://github.com/cran/retriever
+[submodule "retrodesign"]
+	path = retrodesign
+	url = https://github.com/cran/retrodesign
 [submodule "retroharmonize"]
 	path = retroharmonize
 	url = https://github.com/cran/retroharmonize
