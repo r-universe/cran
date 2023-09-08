@@ -27140,9 +27140,6 @@
 [submodule "dvqcc"]
 	path = dvqcc
 	url = https://github.com/cran/dvqcc
-[submodule "dwctaxon"]
-	path = dwctaxon
-	url = https://github.com/cran/dwctaxon
 [submodule "dwdradar"]
 	path = dwdradar
 	url = https://github.com/cran/dwdradar
@@ -38885,9 +38882,6 @@
 [submodule "mathml"]
 	path = mathml
 	url = https://github.com/cran/mathml
-[submodule "mathpix"]
-	path = mathpix
-	url = https://github.com/cran/mathpix
 [submodule "matlab"]
 	path = matlab
 	url = https://github.com/cran/matlab
@@ -49712,9 +49706,6 @@
 [submodule "rgtmx"]
 	path = rgtmx
 	url = https://github.com/cran/rgtmx
-[submodule "rgudhi"]
-	path = rgudhi
-	url = https://github.com/cran/rgudhi
 [submodule "rgugik"]
 	path = rgugik
 	url = https://github.com/cran/rgugik
@@ -56717,9 +56708,6 @@
 [submodule "tetrascatt"]
 	path = tetrascatt
 	url = https://github.com/cran/tetrascatt
-[submodule "texPreview"]
-	path = texPreview
-	url = https://github.com/cran/texPreview
 [submodule "texmex"]
 	path = texmex
 	url = https://github.com/cran/texmex
