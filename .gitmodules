@@ -40970,6 +40970,9 @@
 [submodule "mountainplot"]
 	path = mountainplot
 	url = https://github.com/cran/mountainplot
+[submodule "mousetRajectory"]
+	path = mousetRajectory
+	url = https://github.com/cran/mousetRajectory
 [submodule "mousetrap"]
 	path = mousetrap
 	url = https://github.com/cran/mousetrap
@@ -56543,6 +56546,9 @@
 [submodule "teachingApps"]
 	path = teachingApps
 	url = https://github.com/cran/teachingApps
+[submodule "teal.logger"]
+	path = teal.logger
+	url = https://github.com/cran/teal.logger
 [submodule "tealeaves"]
 	path = tealeaves
 	url = https://github.com/cran/tealeaves
