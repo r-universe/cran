@@ -10295,6 +10295,9 @@
 [submodule "Nonpareil"]
 	path = Nonpareil
 	url = https://github.com/cran/Nonpareil
+[submodule "NormData"]
+	path = NormData
+	url = https://github.com/cran/NormData
 [submodule "NormExpression"]
 	path = NormExpression
 	url = https://github.com/cran/NormExpression
@@ -16334,6 +16337,9 @@
 [submodule "SurvTrunc"]
 	path = SurvTrunc
 	url = https://github.com/cran/SurvTrunc
+[submodule "SurveyCC"]
+	path = SurveyCC
+	url = https://github.com/cran/SurveyCC
 [submodule "SvyNom"]
 	path = SvyNom
 	url = https://github.com/cran/SvyNom
@@ -56555,6 +56561,9 @@
 [submodule "teal.logger"]
 	path = teal.logger
 	url = https://github.com/cran/teal.logger
+[submodule "teal.reporter"]
+	path = teal.reporter
+	url = https://github.com/cran/teal.reporter
 [submodule "tealeaves"]
 	path = tealeaves
 	url = https://github.com/cran/tealeaves
@@ -60530,6 +60539,9 @@
 [submodule "zipsae"]
 	path = zipsae
 	url = https://github.com/cran/zipsae
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/cran/zlib
 [submodule "zlog"]
 	path = zlog
 	url = https://github.com/cran/zlog
