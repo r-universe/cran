@@ -24002,6 +24002,9 @@
 [submodule "cooccur"]
 	path = cooccur
 	url = https://github.com/cran/cooccur
+[submodule "cookiecutter"]
+	path = cookiecutter
+	url = https://github.com/cran/cookiecutter
 [submodule "cookies"]
 	path = cookies
 	url = https://github.com/cran/cookies
