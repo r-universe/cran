@@ -1874,9 +1874,6 @@
 [submodule "CALIBERrfimpute"]
 	path = CALIBERrfimpute
 	url = https://github.com/cran/CALIBERrfimpute
-[submodule "CAMAN"]
-	path = CAMAN
-	url = https://github.com/cran/CAMAN
 [submodule "CAMML"]
 	path = CAMML
 	url = https://github.com/cran/CAMML
@@ -3245,9 +3242,6 @@
 [submodule "DBpower"]
 	path = DBpower
 	url = https://github.com/cran/DBpower
-[submodule "DCA"]
-	path = DCA
-	url = https://github.com/cran/DCA
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
@@ -29477,9 +29471,6 @@
 [submodule "fdakma"]
 	path = fdakma
 	url = https://github.com/cran/fdakma
-[submodule "fdaoutlier"]
-	path = fdaoutlier
-	url = https://github.com/cran/fdaoutlier
 [submodule "fdapace"]
 	path = fdapace
 	url = https://github.com/cran/fdapace
@@ -40997,9 +40988,6 @@
 [submodule "moveHMM"]
 	path = moveHMM
 	url = https://github.com/cran/moveHMM
-[submodule "moveVis"]
-	path = moveVis
-	url = https://github.com/cran/moveVis
 [submodule "moveWindSpeed"]
 	path = moveWindSpeed
 	url = https://github.com/cran/moveWindSpeed
@@ -41621,9 +41609,6 @@
 [submodule "mvMonitoring"]
 	path = mvMonitoring
 	url = https://github.com/cran/mvMonitoring
-[submodule "mvPot"]
-	path = mvPot
-	url = https://github.com/cran/mvPot
 [submodule "mvProbit"]
 	path = mvProbit
 	url = https://github.com/cran/mvProbit
@@ -41996,9 +41981,6 @@
 [submodule "ndtv"]
 	path = ndtv
 	url = https://github.com/cran/ndtv
-[submodule "neariso"]
-	path = neariso
-	url = https://github.com/cran/neariso
 [submodule "neat"]
 	path = neat
 	url = https://github.com/cran/neat
