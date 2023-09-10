@@ -500,6 +500,9 @@
 [submodule "AlleleRetain"]
 	path = AlleleRetain
 	url = https://github.com/cran/AlleleRetain
+[submodule "AlleleShift"]
+	path = AlleleShift
+	url = https://github.com/cran/AlleleShift
 [submodule "AllelicSeries"]
 	path = AllelicSeries
 	url = https://github.com/cran/AllelicSeries
@@ -1631,6 +1634,9 @@
 [submodule "Biodem"]
 	path = Biodem
 	url = https://github.com/cran/Biodem
+[submodule "BiodiversityR"]
+	path = BiodiversityR
+	url = https://github.com/cran/BiodiversityR
 [submodule "Bioi"]
 	path = Bioi
 	url = https://github.com/cran/Bioi
