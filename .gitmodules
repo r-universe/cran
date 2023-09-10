@@ -38828,9 +38828,6 @@
 [submodule "maskRangeR"]
 	path = maskRangeR
 	url = https://github.com/cran/maskRangeR
-[submodule "mason"]
-	path = mason
-	url = https://github.com/cran/mason
 [submodule "masscor"]
 	path = masscor
 	url = https://github.com/cran/masscor
