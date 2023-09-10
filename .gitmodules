@@ -23747,6 +23747,9 @@
 [submodule "concreg"]
 	path = concreg
 	url = https://github.com/cran/concreg
+[submodule "concrete"]
+	path = concrete
+	url = https://github.com/cran/concrete
 [submodule "concstats"]
 	path = concstats
 	url = https://github.com/cran/concstats
