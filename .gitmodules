@@ -19670,9 +19670,6 @@
 [submodule "averisk"]
 	path = averisk
 	url = https://github.com/cran/averisk
-[submodule "avidaR"]
-	path = avidaR
-	url = https://github.com/cran/avidaR
 [submodule "avocado"]
 	path = avocado
 	url = https://github.com/cran/avocado
