@@ -42755,6 +42755,9 @@
 [submodule "novelforestSG"]
 	path = novelforestSG
 	url = https://github.com/cran/novelforestSG
+[submodule "novelqualcodes"]
+	path = novelqualcodes
+	url = https://github.com/cran/novelqualcodes
 [submodule "noweb"]
 	path = noweb
 	url = https://github.com/cran/noweb
@@ -48314,6 +48317,9 @@
 [submodule "raptr"]
 	path = raptr
 	url = https://github.com/cran/raptr
+[submodule "raqs"]
+	path = raqs
+	url = https://github.com/cran/raqs
 [submodule "rare"]
 	path = rare
 	url = https://github.com/cran/rare
