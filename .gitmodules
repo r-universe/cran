@@ -14579,6 +14579,9 @@
 [submodule "SBAGM"]
 	path = SBAGM
 	url = https://github.com/cran/SBAGM
+[submodule "SBCK"]
+	path = SBCK
+	url = https://github.com/cran/SBCK
 [submodule "SBICgraph"]
 	path = SBICgraph
 	url = https://github.com/cran/SBICgraph
@@ -28193,6 +28196,9 @@
 [submodule "eph"]
 	path = eph
 	url = https://github.com/cran/eph
+[submodule "epiCleanr"]
+	path = epiCleanr
+	url = https://github.com/cran/epiCleanr
 [submodule "epiDisplay"]
 	path = epiDisplay
 	url = https://github.com/cran/epiDisplay
