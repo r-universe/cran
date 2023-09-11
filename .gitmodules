@@ -2777,6 +2777,9 @@
 [submodule "CoTiMA"]
 	path = CoTiMA
 	url = https://github.com/cran/CoTiMA
+[submodule "CoastlineFD"]
+	path = CoastlineFD
+	url = https://github.com/cran/CoastlineFD
 [submodule "CodataGS"]
 	path = CodataGS
 	url = https://github.com/cran/CodataGS
@@ -4439,6 +4442,9 @@
 [submodule "EWS"]
 	path = EWS
 	url = https://github.com/cran/EWS
+[submodule "EWSmethods"]
+	path = EWSmethods
+	url = https://github.com/cran/EWSmethods
 [submodule "EXPARMA"]
 	path = EXPARMA
 	url = https://github.com/cran/EXPARMA
@@ -22358,6 +22364,9 @@
 [submodule "censo2017"]
 	path = censo2017
 	url = https://github.com/cran/censo2017
+[submodule "censobr"]
+	path = censobr
+	url = https://github.com/cran/censobr
 [submodule "censorcopula"]
 	path = censorcopula
 	url = https://github.com/cran/censorcopula
@@ -38828,6 +38837,9 @@
 [submodule "maskRangeR"]
 	path = maskRangeR
 	url = https://github.com/cran/maskRangeR
+[submodule "mason"]
+	path = mason
+	url = https://github.com/cran/mason
 [submodule "masscor"]
 	path = masscor
 	url = https://github.com/cran/masscor
@@ -42200,6 +42212,9 @@
 [submodule "neuRosim"]
 	path = neuRosim
 	url = https://github.com/cran/neuRosim
+[submodule "neuralGAM"]
+	path = neuralGAM
+	url = https://github.com/cran/neuralGAM
 [submodule "neuralnet"]
 	path = neuralnet
 	url = https://github.com/cran/neuralnet
@@ -60293,6 +60308,9 @@
 [submodule "xplorerr"]
 	path = xplorerr
 	url = https://github.com/cran/xplorerr
+[submodule "xportr"]
+	path = xportr
+	url = https://github.com/cran/xportr
 [submodule "xpose"]
 	path = xpose
 	url = https://github.com/cran/xpose
