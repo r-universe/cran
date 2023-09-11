@@ -56987,9 +56987,6 @@
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/cran/tidyCpp
-[submodule "tidyDisasters"]
-	path = tidyDisasters
-	url = https://github.com/cran/tidyDisasters
 [submodule "tidyEdSurvey"]
 	path = tidyEdSurvey
 	url = https://github.com/cran/tidyEdSurvey
