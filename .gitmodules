@@ -5516,6 +5516,9 @@
 [submodule "FuzzyNumbers.Ext.2"]
 	path = FuzzyNumbers.Ext.2
 	url = https://github.com/cran/FuzzyNumbers.Ext.2
+[submodule "FuzzyPovertyR"]
+	path = FuzzyPovertyR
+	url = https://github.com/cran/FuzzyPovertyR
 [submodule "FuzzyQ"]
 	path = FuzzyQ
 	url = https://github.com/cran/FuzzyQ
@@ -7250,6 +7253,9 @@
 [submodule "IgAScores"]
 	path = IgAScores
 	url = https://github.com/cran/IgAScores
+[submodule "ImHD"]
+	path = ImHD
+	url = https://github.com/cran/ImHD
 [submodule "ImML"]
 	path = ImML
 	url = https://github.com/cran/ImML
@@ -14363,6 +14369,9 @@
 [submodule "Rrdap"]
 	path = Rrdap
 	url = https://github.com/cran/Rrdap
+[submodule "Rrepest"]
+	path = Rrepest
+	url = https://github.com/cran/Rrepest
 [submodule "RsSimulx"]
 	path = RsSimulx
 	url = https://github.com/cran/RsSimulx
@@ -22136,6 +22145,9 @@
 [submodule "cauchypca"]
 	path = cauchypca
 	url = https://github.com/cran/cauchypca
+[submodule "cauphy"]
+	path = cauphy
+	url = https://github.com/cran/cauphy
 [submodule "causact"]
 	path = causact
 	url = https://github.com/cran/causact
@@ -28565,6 +28577,9 @@
 [submodule "eudract"]
 	path = eudract
 	url = https://github.com/cran/eudract
+[submodule "eufmdis.adapt"]
+	path = eufmdis.adapt
+	url = https://github.com/cran/eufmdis.adapt
 [submodule "eulerian"]
 	path = eulerian
 	url = https://github.com/cran/eulerian
@@ -40901,6 +40916,9 @@
 [submodule "moodleR"]
 	path = moodleR
 	url = https://github.com/cran/moodleR
+[submodule "moodlequizR"]
+	path = moodlequizR
+	url = https://github.com/cran/moodlequizR
 [submodule "moonBook"]
 	path = moonBook
 	url = https://github.com/cran/moonBook
@@ -56567,6 +56585,9 @@
 [submodule "teachingApps"]
 	path = teachingApps
 	url = https://github.com/cran/teachingApps
+[submodule "teal.code"]
+	path = teal.code
+	url = https://github.com/cran/teal.code
 [submodule "teal.logger"]
 	path = teal.logger
 	url = https://github.com/cran/teal.logger
