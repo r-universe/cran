@@ -2798,6 +2798,9 @@
 [submodule "CohensdpLibrary"]
 	path = CohensdpLibrary
 	url = https://github.com/cran/CohensdpLibrary
+[submodule "CohortExplorer"]
+	path = CohortExplorer
+	url = https://github.com/cran/CohortExplorer
 [submodule "CohortPlat"]
 	path = CohortPlat
 	url = https://github.com/cran/CohortPlat
@@ -7526,6 +7529,9 @@
 [submodule "JMdesign"]
 	path = JMdesign
 	url = https://github.com/cran/JMdesign
+[submodule "JNplots"]
+	path = JNplots
+	url = https://github.com/cran/JNplots
 [submodule "JOPS"]
 	path = JOPS
 	url = https://github.com/cran/JOPS
@@ -12374,6 +12380,9 @@
 [submodule "RColorBrewer"]
 	path = RColorBrewer
 	url = https://github.com/cran/RColorBrewer
+[submodule "RColorConesa"]
+	path = RColorConesa
+	url = https://github.com/cran/RColorConesa
 [submodule "RConics"]
 	path = RConics
 	url = https://github.com/cran/RConics
@@ -22604,6 +22613,9 @@
 [submodule "checkr"]
 	path = checkr
 	url = https://github.com/cran/checkr
+[submodule "checkthat"]
+	path = checkthat
+	url = https://github.com/cran/checkthat
 [submodule "cheddar"]
 	path = cheddar
 	url = https://github.com/cran/cheddar
@@ -59357,6 +59369,9 @@
 [submodule "voice"]
 	path = voice
 	url = https://github.com/cran/voice
+[submodule "voiceR"]
+	path = voiceR
+	url = https://github.com/cran/voiceR
 [submodule "vol2birdR"]
 	path = vol2birdR
 	url = https://github.com/cran/vol2birdR
