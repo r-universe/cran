@@ -1697,6 +1697,9 @@
 [submodule "BlockCov"]
 	path = BlockCov
 	url = https://github.com/cran/BlockCov
+[submodule "BlockMissingData"]
+	path = BlockMissingData
+	url = https://github.com/cran/BlockMissingData
 [submodule "BlockmodelingGUI"]
 	path = BlockmodelingGUI
 	url = https://github.com/cran/BlockmodelingGUI
@@ -2606,6 +2609,9 @@
 [submodule "CircNNTSR"]
 	path = CircNNTSR
 	url = https://github.com/cran/CircNNTSR
+[submodule "CircNNTSRmult"]
+	path = CircNNTSRmult
+	url = https://github.com/cran/CircNNTSRmult
 [submodule "CircOutlier"]
 	path = CircOutlier
 	url = https://github.com/cran/CircOutlier
