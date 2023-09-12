@@ -1814,6 +1814,9 @@
 [submodule "Brundle"]
 	path = Brundle
 	url = https://github.com/cran/Brundle
+[submodule "BsMD"]
+	path = BsMD
+	url = https://github.com/cran/BsMD
 [submodule "Buddle"]
 	path = Buddle
 	url = https://github.com/cran/Buddle
@@ -6056,6 +6059,9 @@
 [submodule "GWASinspector"]
 	path = GWASinspector
 	url = https://github.com/cran/GWASinspector
+[submodule "GWEX"]
+	path = GWEX
+	url = https://github.com/cran/GWEX
 [submodule "GWI"]
 	path = GWI
 	url = https://github.com/cran/GWI
@@ -8633,6 +8639,9 @@
 [submodule "MEclustnet"]
 	path = MEclustnet
 	url = https://github.com/cran/MEclustnet
+[submodule "MEtest"]
+	path = MEtest
+	url = https://github.com/cran/MEtest
 [submodule "MFAg"]
 	path = MFAg
 	url = https://github.com/cran/MFAg
@@ -15788,6 +15797,9 @@
 [submodule "SmarterPoland"]
 	path = SmarterPoland
 	url = https://github.com/cran/SmarterPoland
+[submodule "SmoothHazard"]
+	path = SmoothHazard
+	url = https://github.com/cran/SmoothHazard
 [submodule "SmoothTensor"]
 	path = SmoothTensor
 	url = https://github.com/cran/SmoothTensor
@@ -19670,6 +19682,9 @@
 [submodule "averisk"]
 	path = averisk
 	url = https://github.com/cran/averisk
+[submodule "avidaR"]
+	path = avidaR
+	url = https://github.com/cran/avidaR
 [submodule "avocado"]
 	path = avocado
 	url = https://github.com/cran/avocado
@@ -27383,6 +27398,9 @@
 [submodule "easyVerification"]
 	path = easyVerification
 	url = https://github.com/cran/easyVerification
+[submodule "easyalluvial"]
+	path = easyalluvial
+	url = https://github.com/cran/easyalluvial
 [submodule "easyanova"]
 	path = easyanova
 	url = https://github.com/cran/easyanova
@@ -30431,6 +30449,9 @@
 [submodule "frailtySurv"]
 	path = frailtySurv
 	url = https://github.com/cran/frailtySurv
+[submodule "frailtypack"]
+	path = frailtypack
+	url = https://github.com/cran/frailtypack
 [submodule "frair"]
 	path = frair
 	url = https://github.com/cran/frair
@@ -32675,6 +32696,9 @@
 [submodule "gmat"]
 	path = gmat
 	url = https://github.com/cran/gmat
+[submodule "gmeta"]
+	path = gmeta
+	url = https://github.com/cran/gmeta
 [submodule "gmfd"]
 	path = gmfd
 	url = https://github.com/cran/gmfd
@@ -33239,6 +33263,9 @@
 [submodule "groupr"]
 	path = groupr
 	url = https://github.com/cran/groupr
+[submodule "groupsubsetselection"]
+	path = groupsubsetselection
+	url = https://github.com/cran/groupsubsetselection
 [submodule "groupwalk"]
 	path = groupwalk
 	url = https://github.com/cran/groupwalk
@@ -38585,6 +38612,9 @@
 [submodule "managelocalrepo"]
 	path = managelocalrepo
 	url = https://github.com/cran/managelocalrepo
+[submodule "mand"]
+	path = mand
+	url = https://github.com/cran/mand
 [submodule "mandelbrot"]
 	path = mandelbrot
 	url = https://github.com/cran/mandelbrot
@@ -42971,6 +43001,9 @@
 [submodule "numKM"]
 	path = numKM
 	url = https://github.com/cran/numKM
+[submodule "numOSL"]
+	path = numOSL
+	url = https://github.com/cran/numOSL
 [submodule "numbat"]
 	path = numbat
 	url = https://github.com/cran/numbat
@@ -44291,6 +44324,9 @@
 [submodule "paran"]
 	path = paran
 	url = https://github.com/cran/paran
+[submodule "parcats"]
+	path = parcats
+	url = https://github.com/cran/parcats
 [submodule "parfm"]
 	path = parfm
 	url = https://github.com/cran/parfm
@@ -46091,6 +46127,9 @@
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/cran/poppr
+[submodule "popsom"]
+	path = popsom
+	url = https://github.com/cran/popsom
 [submodule "popstudy"]
 	path = popstudy
 	url = https://github.com/cran/popstudy
@@ -49655,6 +49694,9 @@
 [submodule "rgl2gltf"]
 	path = rgl2gltf
 	url = https://github.com/cran/rgl2gltf
+[submodule "rglobi"]
+	path = rglobi
+	url = https://github.com/cran/rglobi
 [submodule "rglplus"]
 	path = rglplus
 	url = https://github.com/cran/rglplus
@@ -52526,6 +52568,9 @@
 [submodule "sfheaders"]
 	path = sfheaders
 	url = https://github.com/cran/sfheaders
+[submodule "sfhotspot"]
+	path = sfhotspot
+	url = https://github.com/cran/sfhotspot
 [submodule "sfinx"]
 	path = sfinx
 	url = https://github.com/cran/sfinx
@@ -56987,6 +57032,9 @@
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/cran/tidyCpp
+[submodule "tidyDisasters"]
+	path = tidyDisasters
+	url = https://github.com/cran/tidyDisasters
 [submodule "tidyEdSurvey"]
 	path = tidyEdSurvey
 	url = https://github.com/cran/tidyEdSurvey
@@ -58073,6 +58121,9 @@
 [submodule "tseriesEntropy"]
 	path = tseriesEntropy
 	url = https://github.com/cran/tseriesEntropy
+[submodule "tseriesTARMA"]
+	path = tseriesTARMA
+	url = https://github.com/cran/tseriesTARMA
 [submodule "tsfeatures"]
 	path = tsfeatures
 	url = https://github.com/cran/tsfeatures
@@ -60179,6 +60230,9 @@
 [submodule "xaringanthemer"]
 	path = xaringanthemer
 	url = https://github.com/cran/xaringanthemer
+[submodule "xbreed"]
+	path = xbreed
+	url = https://github.com/cran/xbreed
 [submodule "xdcclarge"]
 	path = xdcclarge
 	url = https://github.com/cran/xdcclarge
