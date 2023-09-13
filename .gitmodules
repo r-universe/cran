@@ -5318,9 +5318,6 @@
 [submodule "FinancialMath"]
 	path = FinancialMath
 	url = https://github.com/cran/FinancialMath
-[submodule "FindAllRoots"]
-	path = FindAllRoots
-	url = https://github.com/cran/FindAllRoots
 [submodule "FindIt"]
 	path = FindIt
 	url = https://github.com/cran/FindIt
@@ -13352,9 +13349,6 @@
 [submodule "RXKCD"]
 	path = RXKCD
 	url = https://github.com/cran/RXKCD
-[submodule "RXMCDA"]
-	path = RXMCDA
-	url = https://github.com/cran/RXMCDA
 [submodule "RXshrink"]
 	path = RXshrink
 	url = https://github.com/cran/RXshrink
@@ -16265,9 +16259,6 @@
 [submodule "SuRF.vs"]
 	path = SuRF.vs
 	url = https://github.com/cran/SuRF.vs
-[submodule "SubCultCon"]
-	path = SubCultCon
-	url = https://github.com/cran/SubCultCon
 [submodule "SubTS"]
 	path = SubTS
 	url = https://github.com/cran/SubTS
@@ -21368,9 +21359,6 @@
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/cran/bpbounds
-[submodule "bpca"]
-	path = bpca
-	url = https://github.com/cran/bpca
 [submodule "bpcp"]
 	path = bpcp
 	url = https://github.com/cran/bpcp
@@ -33785,9 +33773,6 @@
 [submodule "hcandersenr"]
 	path = hcandersenr
 	url = https://github.com/cran/hcandersenr
-[submodule "hcci"]
-	path = hcci
-	url = https://github.com/cran/hcci
 [submodule "hce"]
 	path = hce
 	url = https://github.com/cran/hce
@@ -44240,9 +44225,6 @@
 [submodule "pals"]
 	path = pals
 	url = https://github.com/cran/pals
-[submodule "pamctdp"]
-	path = pamctdp
-	url = https://github.com/cran/pamctdp
 [submodule "pamm"]
 	path = pamm
 	url = https://github.com/cran/pamm
