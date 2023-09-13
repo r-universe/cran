@@ -2186,6 +2186,9 @@
 [submodule "CNAIM"]
 	path = CNAIM
 	url = https://github.com/cran/CNAIM
+[submodule "CNID"]
+	path = CNID
+	url = https://github.com/cran/CNID
 [submodule "CNLTreg"]
 	path = CNLTreg
 	url = https://github.com/cran/CNLTreg
@@ -9101,6 +9104,9 @@
 [submodule "MSinference"]
 	path = MSinference
 	url = https://github.com/cran/MSinference
+[submodule "MSoutcomes"]
+	path = MSoutcomes
+	url = https://github.com/cran/MSoutcomes
 [submodule "MSwM"]
 	path = MSwM
 	url = https://github.com/cran/MSwM
@@ -20900,6 +20906,9 @@
 [submodule "bios2mds"]
 	path = bios2mds
 	url = https://github.com/cran/bios2mds
+[submodule "biosampleR"]
+	path = biosampleR
+	url = https://github.com/cran/biosampleR
 [submodule "biosensors.usc"]
 	path = biosensors.usc
 	url = https://github.com/cran/biosensors.usc
@@ -39461,6 +39470,9 @@
 [submodule "mergeTrees"]
 	path = mergeTrees
 	url = https://github.com/cran/mergeTrees
+[submodule "mergingTools"]
+	path = mergingTools
+	url = https://github.com/cran/mergingTools
 [submodule "merlin"]
 	path = merlin
 	url = https://github.com/cran/merlin
