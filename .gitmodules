@@ -2798,6 +2798,9 @@
 [submodule "CohensdpLibrary"]
 	path = CohensdpLibrary
 	url = https://github.com/cran/CohensdpLibrary
+[submodule "CohortAlgebra"]
+	path = CohortAlgebra
+	url = https://github.com/cran/CohortAlgebra
 [submodule "CohortExplorer"]
 	path = CohortExplorer
 	url = https://github.com/cran/CohortExplorer
@@ -11207,6 +11210,9 @@
 [submodule "PSCBS"]
 	path = PSCBS
 	url = https://github.com/cran/PSCBS
+[submodule "PSDistr"]
+	path = PSDistr
+	url = https://github.com/cran/PSDistr
 [submodule "PSF"]
 	path = PSF
 	url = https://github.com/cran/PSF
@@ -56939,6 +56945,9 @@
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/cran/tfrmt
+[submodule "tfrmtbuilder"]
+	path = tfrmtbuilder
+	url = https://github.com/cran/tfrmtbuilder
 [submodule "tfruns"]
 	path = tfruns
 	url = https://github.com/cran/tfruns
@@ -58703,6 +58712,9 @@
 [submodule "uptimeRobot"]
 	path = uptimeRobot
 	url = https://github.com/cran/uptimeRobot
+[submodule "ura"]
+	path = ura
+	url = https://github.com/cran/ura
 [submodule "urbin"]
 	path = urbin
 	url = https://github.com/cran/urbin
@@ -60302,6 +60314,9 @@
 [submodule "xgboost"]
 	path = xgboost
 	url = https://github.com/cran/xgboost
+[submodule "xgrove"]
+	path = xgrove
+	url = https://github.com/cran/xgrove
 [submodule "xgxr"]
 	path = xgxr
 	url = https://github.com/cran/xgxr
