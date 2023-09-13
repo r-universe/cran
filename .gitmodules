@@ -38735,6 +38735,9 @@
 [submodule "mapme.biodiversity"]
 	path = mapme.biodiversity
 	url = https://github.com/cran/mapme.biodiversity
+[submodule "mapmisc"]
+	path = mapmisc
+	url = https://github.com/cran/mapmisc
 [submodule "mapping"]
 	path = mapping
 	url = https://github.com/cran/mapping
