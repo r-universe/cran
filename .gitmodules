@@ -49742,6 +49742,9 @@
 [submodule "rglwidget"]
 	path = rglwidget
 	url = https://github.com/cran/rglwidget
+[submodule "rgnoisefilt"]
+	path = rgnoisefilt
+	url = https://github.com/cran/rgnoisefilt
 [submodule "rgnparser"]
 	path = rgnparser
 	url = https://github.com/cran/rgnparser
