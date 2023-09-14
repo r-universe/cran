@@ -3791,6 +3791,9 @@
 [submodule "DeRezende.Ferreira"]
 	path = DeRezende.Ferreira
 	url = https://github.com/cran/DeRezende.Ferreira
+[submodule "DebiasInfer"]
+	path = DebiasInfer
+	url = https://github.com/cran/DebiasInfer
 [submodule "DeclareDesign"]
 	path = DeclareDesign
 	url = https://github.com/cran/DeclareDesign
@@ -10070,6 +10073,9 @@
 [submodule "NMdata"]
 	path = NMdata
 	url = https://github.com/cran/NMdata
+[submodule "NMsim"]
+	path = NMsim
+	url = https://github.com/cran/NMsim
 [submodule "NNMIS"]
 	path = NNMIS
 	url = https://github.com/cran/NNMIS
@@ -33836,6 +33842,9 @@
 [submodule "hdf5r"]
 	path = hdf5r
 	url = https://github.com/cran/hdf5r
+[submodule "hdf5r.Extra"]
+	path = hdf5r.Extra
+	url = https://github.com/cran/hdf5r.Extra
 [submodule "hdflex"]
 	path = hdflex
 	url = https://github.com/cran/hdflex
