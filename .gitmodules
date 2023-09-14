@@ -27344,6 +27344,9 @@
 [submodule "eChem"]
 	path = eChem
 	url = https://github.com/cran/eChem
+[submodule "eDITH"]
+	path = eDITH
+	url = https://github.com/cran/eDITH
 [submodule "eDMA"]
 	path = eDMA
 	url = https://github.com/cran/eDMA
@@ -43775,6 +43778,9 @@
 [submodule "orderstats"]
 	path = orderstats
 	url = https://github.com/cran/orderstats
+[submodule "ordgam"]
+	path = ordgam
+	url = https://github.com/cran/ordgam
 [submodule "ordiBreadth"]
 	path = ordiBreadth
 	url = https://github.com/cran/ordiBreadth
@@ -60245,6 +60251,9 @@
 [submodule "wwntests"]
 	path = wwntests
 	url = https://github.com/cran/wwntests
+[submodule "wxgenR"]
+	path = wxgenR
+	url = https://github.com/cran/wxgenR
 [submodule "wyz.code.metaTesting"]
 	path = wyz.code.metaTesting
 	url = https://github.com/cran/wyz.code.metaTesting
