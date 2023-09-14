@@ -25466,6 +25466,9 @@
 [submodule "dataset"]
 	path = dataset
 	url = https://github.com/cran/dataset
+[submodule "datasetjson"]
+	path = datasetjson
+	url = https://github.com/cran/datasetjson
 [submodule "datasets.load"]
 	path = datasets.load
 	url = https://github.com/cran/datasets.load
@@ -29381,6 +29384,9 @@
 [submodule "fastcox"]
 	path = fastcox
 	url = https://github.com/cran/fastcox
+[submodule "fastcpd"]
+	path = fastcpd
+	url = https://github.com/cran/fastcpd
 [submodule "fastdigest"]
 	path = fastdigest
 	url = https://github.com/cran/fastdigest
