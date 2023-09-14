@@ -9902,6 +9902,9 @@
 [submodule "NAEPprimer"]
 	path = NAEPprimer
 	url = https://github.com/cran/NAEPprimer
+[submodule "NAIR"]
+	path = NAIR
+	url = https://github.com/cran/NAIR
 [submodule "NAM"]
 	path = NAM
 	url = https://github.com/cran/NAM
@@ -11231,6 +11234,9 @@
 [submodule "PSGoft"]
 	path = PSGoft
 	url = https://github.com/cran/PSGoft
+[submodule "PSIndependenceTest"]
+	path = PSIndependenceTest
+	url = https://github.com/cran/PSIndependenceTest
 [submodule "PSLM2015"]
 	path = PSLM2015
 	url = https://github.com/cran/PSLM2015
@@ -23210,6 +23216,9 @@
 [submodule "clustertend"]
 	path = clustertend
 	url = https://github.com/cran/clustertend
+[submodule "clustlearn"]
+	path = clustlearn
+	url = https://github.com/cran/clustlearn
 [submodule "clustra"]
 	path = clustra
 	url = https://github.com/cran/clustra
@@ -25685,6 +25694,9 @@
 [submodule "ddst"]
 	path = ddst
 	url = https://github.com/cran/ddst
+[submodule "ddtlcm"]
+	path = ddtlcm
+	url = https://github.com/cran/ddtlcm
 [submodule "deBInfer"]
 	path = deBInfer
 	url = https://github.com/cran/deBInfer
@@ -43217,6 +43229,9 @@
 [submodule "ocedata"]
 	path = ocedata
 	url = https://github.com/cran/ocedata
+[submodule "ocf"]
+	path = ocf
+	url = https://github.com/cran/ocf
 [submodule "ockc"]
 	path = ockc
 	url = https://github.com/cran/ockc
@@ -46409,6 +46424,9 @@
 [submodule "pqantimalarials"]
 	path = pqantimalarials
 	url = https://github.com/cran/pqantimalarials
+[submodule "pqrBayes"]
+	path = pqrBayes
+	url = https://github.com/cran/pqrBayes
 [submodule "pqrfe"]
 	path = pqrfe
 	url = https://github.com/cran/pqrfe
