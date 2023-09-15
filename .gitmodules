@@ -707,6 +707,9 @@
 [submodule "AutoStepwiseGLM"]
 	path = AutoStepwiseGLM
 	url = https://github.com/cran/AutoStepwiseGLM
+[submodule "AutoTransQF"]
+	path = AutoTransQF
+	url = https://github.com/cran/AutoTransQF
 [submodule "AutoWeatherIndices"]
 	path = AutoWeatherIndices
 	url = https://github.com/cran/AutoWeatherIndices
@@ -1487,6 +1490,9 @@
 [submodule "BeastJar"]
 	path = BeastJar
 	url = https://github.com/cran/BeastJar
+[submodule "BeeBDC"]
+	path = BeeBDC
+	url = https://github.com/cran/BeeBDC
 [submodule "BeeGUTS"]
 	path = BeeGUTS
 	url = https://github.com/cran/BeeGUTS
@@ -29552,6 +29558,9 @@
 [submodule "fdaPOIFD"]
 	path = fdaPOIFD
 	url = https://github.com/cran/fdaPOIFD
+[submodule "fdaSP"]
+	path = fdaSP
+	url = https://github.com/cran/fdaSP
 [submodule "fdacluster"]
 	path = fdacluster
 	url = https://github.com/cran/fdacluster
@@ -31880,6 +31889,9 @@
 [submodule "ggResidpanel"]
 	path = ggResidpanel
 	url = https://github.com/cran/ggResidpanel
+[submodule "ggRtsy"]
+	path = ggRtsy
+	url = https://github.com/cran/ggRtsy
 [submodule "ggThemeAssist"]
 	path = ggThemeAssist
 	url = https://github.com/cran/ggThemeAssist
@@ -38720,6 +38732,9 @@
 [submodule "manipulateWidget"]
 	path = manipulateWidget
 	url = https://github.com/cran/manipulateWidget
+[submodule "manta"]
+	path = manta
+	url = https://github.com/cran/manta
 [submodule "manydata"]
 	path = manydata
 	url = https://github.com/cran/manydata
