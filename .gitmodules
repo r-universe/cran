@@ -49388,6 +49388,9 @@
 [submodule "remote"]
 	path = remote
 	url = https://github.com/cran/remote
+[submodule "remotePARTS"]
+	path = remotePARTS
+	url = https://github.com/cran/remotePARTS
 [submodule "remotes"]
 	path = remotes
 	url = https://github.com/cran/remotes
