@@ -6812,9 +6812,6 @@
 [submodule "HospitalNetwork"]
 	path = HospitalNetwork
 	url = https://github.com/cran/HospitalNetwork
-[submodule "HostSwitch"]
-	path = HostSwitch
-	url = https://github.com/cran/HostSwitch
 [submodule "Hotelling"]
 	path = Hotelling
 	url = https://github.com/cran/Hotelling
@@ -14189,9 +14186,6 @@
 [submodule "Rlibeemd"]
 	path = Rlibeemd
 	url = https://github.com/cran/Rlibeemd
-[submodule "Rlibkdv"]
-	path = Rlibkdv
-	url = https://github.com/cran/Rlibkdv
 [submodule "Rlinkedin"]
 	path = Rlinkedin
 	url = https://github.com/cran/Rlinkedin
@@ -15359,9 +15353,6 @@
 [submodule "SVDNF"]
 	path = SVDNF
 	url = https://github.com/cran/SVDNF
-[submodule "SVMMaj"]
-	path = SVMMaj
-	url = https://github.com/cran/SVMMaj
 [submodule "SVN"]
 	path = SVN
 	url = https://github.com/cran/SVN
@@ -44273,9 +44264,6 @@
 [submodule "palmerpenguins"]
 	path = palmerpenguins
 	url = https://github.com/cran/palmerpenguins
-[submodule "palmid"]
-	path = palmid
-	url = https://github.com/cran/palmid
 [submodule "palmtree"]
 	path = palmtree
 	url = https://github.com/cran/palmtree
@@ -57305,9 +57293,6 @@
 [submodule "tidyselect"]
 	path = tidyselect
 	url = https://github.com/cran/tidyselect
-[submodule "tidyseurat"]
-	path = tidyseurat
-	url = https://github.com/cran/tidyseurat
 [submodule "tidysmd"]
 	path = tidysmd
 	url = https://github.com/cran/tidysmd
