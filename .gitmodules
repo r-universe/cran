@@ -40568,9 +40568,6 @@
 [submodule "mlsjunkgen"]
 	path = mlsjunkgen
 	url = https://github.com/cran/mlsjunkgen
-[submodule "mlstrOpalr"]
-	path = mlstrOpalr
-	url = https://github.com/cran/mlstrOpalr
 [submodule "mlsurvlrnrs"]
 	path = mlsurvlrnrs
 	url = https://github.com/cran/mlsurvlrnrs
@@ -56594,9 +56591,6 @@
 [submodule "tcplfit2"]
 	path = tcplfit2
 	url = https://github.com/cran/tcplfit2
-[submodule "tcsinvest"]
-	path = tcsinvest
-	url = https://github.com/cran/tcsinvest
 [submodule "td"]
 	path = td
 	url = https://github.com/cran/td
