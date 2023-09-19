@@ -5249,6 +5249,9 @@
 [submodule "FastSF"]
 	path = FastSF
 	url = https://github.com/cran/FastSF
+[submodule "FastStepGraph"]
+	path = FastStepGraph
+	url = https://github.com/cran/FastStepGraph
 [submodule "FatTailsR"]
 	path = FatTailsR
 	url = https://github.com/cran/FatTailsR
@@ -8210,6 +8213,9 @@
 [submodule "LearnPCA"]
 	path = LearnPCA
 	url = https://github.com/cran/LearnPCA
+[submodule "LearnSL"]
+	path = LearnSL
+	url = https://github.com/cran/LearnSL
 [submodule "LearningRlab"]
 	path = LearningRlab
 	url = https://github.com/cran/LearningRlab
@@ -26033,6 +26039,9 @@
 [submodule "desirability2"]
 	path = desirability2
 	url = https://github.com/cran/desirability2
+[submodule "desk"]
+	path = desk
+	url = https://github.com/cran/desk
 [submodule "desla"]
 	path = desla
 	url = https://github.com/cran/desla
@@ -28289,6 +28298,9 @@
 [submodule "epidata"]
 	path = epidata
 	url = https://github.com/cran/epidata
+[submodule "epidatr"]
+	path = epidatr
+	url = https://github.com/cran/epidatr
 [submodule "epidm"]
 	path = epidm
 	url = https://github.com/cran/epidm
@@ -41354,6 +41366,9 @@
 [submodule "mtsdi"]
 	path = mtsdi
 	url = https://github.com/cran/mtsdi
+[submodule "mtsta"]
+	path = mtsta
+	url = https://github.com/cran/mtsta
 [submodule "muHVT"]
 	path = muHVT
 	url = https://github.com/cran/muHVT
