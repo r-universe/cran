@@ -11189,6 +11189,9 @@
 [submodule "PRSPGx"]
 	path = PRSPGx
 	url = https://github.com/cran/PRSPGx
+[submodule "PRSim"]
+	path = PRSim
+	url = https://github.com/cran/PRSim
 [submodule "PReMiuM"]
 	path = PReMiuM
 	url = https://github.com/cran/PReMiuM
@@ -12512,6 +12515,9 @@
 [submodule "REndo"]
 	path = REndo
 	url = https://github.com/cran/REndo
+[submodule "RFCCA"]
+	path = RFCCA
+	url = https://github.com/cran/RFCCA
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
