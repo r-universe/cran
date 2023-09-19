@@ -4685,6 +4685,9 @@
 [submodule "EpiSignalDetection"]
 	path = EpiSignalDetection
 	url = https://github.com/cran/EpiSignalDetection
+[submodule "EpiStats"]
+	path = EpiStats
+	url = https://github.com/cran/EpiStats
 [submodule "EpiTest"]
 	path = EpiTest
 	url = https://github.com/cran/EpiTest
@@ -43004,6 +43007,9 @@
 [submodule "nse2r"]
 	path = nse2r
 	url = https://github.com/cran/nse2r
+[submodule "nser"]
+	path = nser
+	url = https://github.com/cran/nser
 [submodule "nseval"]
 	path = nseval
 	url = https://github.com/cran/nseval
