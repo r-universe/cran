@@ -9077,9 +9077,6 @@
 [submodule "MST"]
 	path = MST
 	url = https://github.com/cran/MST
-[submodule "MSTest"]
-	path = MSTest
-	url = https://github.com/cran/MSTest
 [submodule "MSbox"]
 	path = MSbox
 	url = https://github.com/cran/MSbox
@@ -29189,9 +29186,6 @@
 [submodule "fail"]
 	path = fail
 	url = https://github.com/cran/fail
-[submodule "fairadapt"]
-	path = fairadapt
-	url = https://github.com/cran/fairadapt
 [submodule "fairml"]
 	path = fairml
 	url = https://github.com/cran/fairml
@@ -31898,9 +31892,6 @@
 [submodule "ggarchery"]
 	path = ggarchery
 	url = https://github.com/cran/ggarchery
-[submodule "ggasym"]
-	path = ggasym
-	url = https://github.com/cran/ggasym
 [submodule "ggautomap"]
 	path = ggautomap
 	url = https://github.com/cran/ggautomap
@@ -40796,9 +40787,6 @@
 [submodule "modelimpact"]
 	path = modelimpact
 	url = https://github.com/cran/modelimpact
-[submodule "modelplotr"]
-	path = modelplotr
-	url = https://github.com/cran/modelplotr
 [submodule "modelr"]
 	path = modelr
 	url = https://github.com/cran/modelr
