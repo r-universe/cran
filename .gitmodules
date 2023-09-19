@@ -1004,9 +1004,6 @@
 [submodule "BINtools"]
 	path = BINtools
 	url = https://github.com/cran/BINtools
-[submodule "BIOMASS"]
-	path = BIOMASS
-	url = https://github.com/cran/BIOMASS
 [submodule "BIOdry"]
 	path = BIOdry
 	url = https://github.com/cran/BIOdry
@@ -2075,9 +2072,6 @@
 [submodule "CHOIRBM"]
 	path = CHOIRBM
 	url = https://github.com/cran/CHOIRBM
-[submodule "CHsharp"]
-	path = CHsharp
-	url = https://github.com/cran/CHsharp
 [submodule "CIAAWconsensus"]
 	path = CIAAWconsensus
 	url = https://github.com/cran/CIAAWconsensus
@@ -4289,9 +4283,6 @@
 [submodule "EHR"]
 	path = EHR
 	url = https://github.com/cran/EHR
-[submodule "EHRtemporalVariability"]
-	path = EHRtemporalVariability
-	url = https://github.com/cran/EHRtemporalVariability
 [submodule "EIAapi"]
 	path = EIAapi
 	url = https://github.com/cran/EIAapi
@@ -4868,9 +4859,6 @@
 [submodule "ExtractTrainData"]
 	path = ExtractTrainData
 	url = https://github.com/cran/ExtractTrainData
-[submodule "ExtremalDep"]
-	path = ExtremalDep
-	url = https://github.com/cran/ExtremalDep
 [submodule "ExtremeBounds"]
 	path = ExtremeBounds
 	url = https://github.com/cran/ExtremeBounds
@@ -10376,9 +10364,6 @@
 [submodule "OBRE"]
 	path = OBRE
 	url = https://github.com/cran/OBRE
-[submodule "OBsMD"]
-	path = OBsMD
-	url = https://github.com/cran/OBsMD
 [submodule "OCA"]
 	path = OCA
 	url = https://github.com/cran/OCA
@@ -14096,9 +14081,6 @@
 [submodule "Rfit"]
 	path = Rfit
 	url = https://github.com/cran/Rfit
-[submodule "Rfmtool"]
-	path = Rfmtool
-	url = https://github.com/cran/Rfmtool
 [submodule "Rfolding"]
 	path = Rfolding
 	url = https://github.com/cran/Rfolding
@@ -14366,9 +14348,6 @@
 [submodule "Routliers"]
 	path = Routliers
 	url = https://github.com/cran/Routliers
-[submodule "Rpadrino"]
-	path = Rpadrino
-	url = https://github.com/cran/Rpadrino
 [submodule "Rpcop"]
 	path = Rpcop
 	url = https://github.com/cran/Rpcop
@@ -27434,9 +27413,6 @@
 [submodule "earth"]
 	path = earth
 	url = https://github.com/cran/earth
-[submodule "earthtide"]
-	path = earthtide
-	url = https://github.com/cran/earthtide
 [submodule "earthtones"]
 	path = earthtones
 	url = https://github.com/cran/earthtones
@@ -39281,9 +39257,6 @@
 [submodule "mcprofile"]
 	path = mcprofile
 	url = https://github.com/cran/mcprofile
-[submodule "mcr"]
-	path = mcr
-	url = https://github.com/cran/mcr
 [submodule "mcreplicate"]
 	path = mcreplicate
 	url = https://github.com/cran/mcreplicate
@@ -40484,9 +40457,6 @@
 [submodule "mlmm.gwas"]
 	path = mlmm.gwas
 	url = https://github.com/cran/mlmm.gwas
-[submodule "mlmmm"]
-	path = mlmmm
-	url = https://github.com/cran/mlmmm
 [submodule "mlmpower"]
 	path = mlmpower
 	url = https://github.com/cran/mlmpower
@@ -43004,9 +42974,6 @@
 [submodule "npsf"]
 	path = npsf
 	url = https://github.com/cran/npsf
-[submodule "npsp"]
-	path = npsp
-	url = https://github.com/cran/npsp
 [submodule "npsr"]
 	path = npsr
 	url = https://github.com/cran/npsr
@@ -43028,9 +42995,6 @@
 [submodule "nricens"]
 	path = nricens
 	url = https://github.com/cran/nricens
-[submodule "nsRFA"]
-	path = nsRFA
-	url = https://github.com/cran/nsRFA
 [submodule "nsROC"]
 	path = nsROC
 	url = https://github.com/cran/nsROC
