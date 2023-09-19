@@ -2087,6 +2087,9 @@
 [submodule "CICA"]
 	path = CICA
 	url = https://github.com/cran/CICA
+[submodule "CICI"]
+	path = CICI
+	url = https://github.com/cran/CICI
 [submodule "CIDER"]
 	path = CIDER
 	url = https://github.com/cran/CIDER
@@ -6812,6 +6815,9 @@
 [submodule "HospitalNetwork"]
 	path = HospitalNetwork
 	url = https://github.com/cran/HospitalNetwork
+[submodule "HostSwitch"]
+	path = HostSwitch
+	url = https://github.com/cran/HostSwitch
 [submodule "Hotelling"]
 	path = Hotelling
 	url = https://github.com/cran/Hotelling
@@ -10376,6 +10382,9 @@
 [submodule "OCA"]
 	path = OCA
 	url = https://github.com/cran/OCA
+[submodule "OCNet"]
+	path = OCNet
+	url = https://github.com/cran/OCNet
 [submodule "OCSdata"]
 	path = OCSdata
 	url = https://github.com/cran/OCSdata
@@ -14183,6 +14192,9 @@
 [submodule "Rlibeemd"]
 	path = Rlibeemd
 	url = https://github.com/cran/Rlibeemd
+[submodule "Rlibkdv"]
+	path = Rlibkdv
+	url = https://github.com/cran/Rlibkdv
 [submodule "Rlinkedin"]
 	path = Rlinkedin
 	url = https://github.com/cran/Rlinkedin
@@ -15350,6 +15362,9 @@
 [submodule "SVDNF"]
 	path = SVDNF
 	url = https://github.com/cran/SVDNF
+[submodule "SVMMaj"]
+	path = SVMMaj
+	url = https://github.com/cran/SVMMaj
 [submodule "SVN"]
 	path = SVN
 	url = https://github.com/cran/SVN
@@ -17615,6 +17630,9 @@
 [submodule "WGScan"]
 	path = WGScan
 	url = https://github.com/cran/WGScan
+[submodule "WH"]
+	path = WH
+	url = https://github.com/cran/WH
 [submodule "WINS"]
 	path = WINS
 	url = https://github.com/cran/WINS
@@ -18329,6 +18347,9 @@
 [submodule "adehabitatMA"]
 	path = adehabitatMA
 	url = https://github.com/cran/adehabitatMA
+[submodule "adephylo"]
+	path = adephylo
+	url = https://github.com/cran/adephylo
 [submodule "adepro"]
 	path = adepro
 	url = https://github.com/cran/adepro
@@ -18338,6 +18359,9 @@
 [submodule "adeptdata"]
 	path = adeptdata
 	url = https://github.com/cran/adeptdata
+[submodule "adespatial"]
+	path = adespatial
+	url = https://github.com/cran/adespatial
 [submodule "adfExplorer"]
 	path = adfExplorer
 	url = https://github.com/cran/adfExplorer
@@ -19109,6 +19133,9 @@
 [submodule "appsflyeR"]
 	path = appsflyeR
 	url = https://github.com/cran/appsflyeR
+[submodule "appsheet"]
+	path = appsheet
+	url = https://github.com/cran/appsheet
 [submodule "aprean3"]
 	path = aprean3
 	url = https://github.com/cran/aprean3
@@ -26132,9 +26159,6 @@
 [submodule "dfrr"]
 	path = dfrr
 	url = https://github.com/cran/dfrr
-[submodule "dfsaneacc"]
-	path = dfsaneacc
-	url = https://github.com/cran/dfsaneacc
 [submodule "dfvad"]
 	path = dfvad
 	url = https://github.com/cran/dfvad
@@ -26969,6 +26993,9 @@
 [submodule "drake"]
 	path = drake
 	url = https://github.com/cran/drake
+[submodule "drape"]
+	path = drape
+	url = https://github.com/cran/drape
 [submodule "drat"]
 	path = drat
 	url = https://github.com/cran/drat
@@ -27347,6 +27374,9 @@
 [submodule "eChem"]
 	path = eChem
 	url = https://github.com/cran/eChem
+[submodule "eDITH"]
+	path = eDITH
+	url = https://github.com/cran/eDITH
 [submodule "eDMA"]
 	path = eDMA
 	url = https://github.com/cran/eDMA
@@ -36752,6 +36782,9 @@
 [submodule "km.ci"]
 	path = km.ci
 	url = https://github.com/cran/km.ci
+[submodule "kmBlock"]
+	path = kmBlock
+	url = https://github.com/cran/kmBlock
 [submodule "kmc"]
 	path = kmc
 	url = https://github.com/cran/kmc
@@ -44249,6 +44282,9 @@
 [submodule "palmerpenguins"]
 	path = palmerpenguins
 	url = https://github.com/cran/palmerpenguins
+[submodule "palmid"]
+	path = palmid
+	url = https://github.com/cran/palmid
 [submodule "palmtree"]
 	path = palmtree
 	url = https://github.com/cran/palmtree
@@ -45371,6 +45407,9 @@
 [submodule "phyloseqGraphTest"]
 	path = phyloseqGraphTest
 	url = https://github.com/cran/phyloseqGraphTest
+[submodule "phylosignal"]
+	path = phylosignal
+	url = https://github.com/cran/phylosignal
 [submodule "phylotate"]
 	path = phylotate
 	url = https://github.com/cran/phylotate
@@ -49997,6 +50036,9 @@
 [submodule "riverplot"]
 	path = riverplot
 	url = https://github.com/cran/riverplot
+[submodule "rivnet"]
+	path = rivnet
+	url = https://github.com/cran/rivnet
 [submodule "rivr"]
 	path = rivr
 	url = https://github.com/cran/rivr
@@ -55097,6 +55139,9 @@
 [submodule "stRoke"]
 	path = stRoke
 	url = https://github.com/cran/stRoke
+[submodule "stUPscales"]
+	path = stUPscales
+	url = https://github.com/cran/stUPscales
 [submodule "sta"]
 	path = sta
 	url = https://github.com/cran/sta
@@ -55178,6 +55223,9 @@
 [submodule "stapler"]
 	path = stapler
 	url = https://github.com/cran/stapler
+[submodule "staplr"]
+	path = staplr
+	url = https://github.com/cran/staplr
 [submodule "stargazer"]
 	path = stargazer
 	url = https://github.com/cran/stargazer
@@ -57269,6 +57317,9 @@
 [submodule "tidyselect"]
 	path = tidyselect
 	url = https://github.com/cran/tidyselect
+[submodule "tidyseurat"]
+	path = tidyseurat
+	url = https://github.com/cran/tidyseurat
 [submodule "tidysmd"]
 	path = tidysmd
 	url = https://github.com/cran/tidysmd
