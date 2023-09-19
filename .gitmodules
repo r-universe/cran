@@ -10910,6 +10910,9 @@
 [submodule "PELVIS"]
 	path = PELVIS
 	url = https://github.com/cran/PELVIS
+[submodule "PEPBVS"]
+	path = PEPBVS
+	url = https://github.com/cran/PEPBVS
 [submodule "PERK"]
 	path = PERK
 	url = https://github.com/cran/PERK
@@ -16958,6 +16961,9 @@
 [submodule "ThresholdROCsurvival"]
 	path = ThresholdROCsurvival
 	url = https://github.com/cran/ThresholdROCsurvival
+[submodule "ThurMod"]
+	path = ThurMod
+	url = https://github.com/cran/ThurMod
 [submodule "TiPS"]
 	path = TiPS
 	url = https://github.com/cran/TiPS
