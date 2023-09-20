@@ -19757,6 +19757,9 @@
 [submodule "averisk"]
 	path = averisk
 	url = https://github.com/cran/averisk
+[submodule "avesperu"]
+	path = avesperu
+	url = https://github.com/cran/avesperu
 [submodule "avidaR"]
 	path = avidaR
 	url = https://github.com/cran/avidaR
@@ -41153,6 +41156,9 @@
 [submodule "mplot"]
 	path = mplot
 	url = https://github.com/cran/mplot
+[submodule "mplusParallel.automation"]
+	path = mplusParallel.automation
+	url = https://github.com/cran/mplusParallel.automation
 [submodule "mpm"]
 	path = mpm
 	url = https://github.com/cran/mpm
@@ -45158,6 +45164,9 @@
 [submodule "peruse"]
 	path = peruse
 	url = https://github.com/cran/peruse
+[submodule "perutimber"]
+	path = perutimber
+	url = https://github.com/cran/perutimber
 [submodule "pesel"]
 	path = pesel
 	url = https://github.com/cran/pesel
@@ -45251,6 +45260,9 @@
 [submodule "pharmaverse"]
 	path = pharmaverse
 	url = https://github.com/cran/pharmaverse
+[submodule "pharmaverseadam"]
+	path = pharmaverseadam
+	url = https://github.com/cran/pharmaverseadam
 [submodule "pharmaversesdtm"]
 	path = pharmaversesdtm
 	url = https://github.com/cran/pharmaversesdtm
@@ -46871,6 +46883,9 @@
 [submodule "prolific.api"]
 	path = prolific.api
 	url = https://github.com/cran/prolific.api
+[submodule "prolsirm"]
+	path = prolsirm
+	url = https://github.com/cran/prolsirm
 [submodule "prome"]
 	path = prome
 	url = https://github.com/cran/prome
