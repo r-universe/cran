@@ -3251,6 +3251,9 @@
 [submodule "DBItest"]
 	path = DBItest
 	url = https://github.com/cran/DBItest
+[submodule "DBModelSelect"]
+	path = DBModelSelect
+	url = https://github.com/cran/DBModelSelect
 [submodule "DBNMFrank"]
 	path = DBNMFrank
 	url = https://github.com/cran/DBNMFrank
@@ -4733,6 +4736,9 @@
 [submodule "EuclideanSD"]
 	path = EuclideanSD
 	url = https://github.com/cran/EuclideanSD
+[submodule "Euclimatch"]
+	path = Euclimatch
+	url = https://github.com/cran/Euclimatch
 [submodule "EurosarcBayes"]
 	path = EurosarcBayes
 	url = https://github.com/cran/EurosarcBayes
@@ -28775,6 +28781,9 @@
 [submodule "evilDice"]
 	path = evilDice
 	url = https://github.com/cran/evilDice
+[submodule "evinf"]
+	path = evinf
+	url = https://github.com/cran/evinf
 [submodule "evir"]
 	path = evir
 	url = https://github.com/cran/evir
@@ -31352,6 +31361,9 @@
 [submodule "gdistance"]
 	path = gdistance
 	url = https://github.com/cran/gdistance
+[submodule "gdldata"]
+	path = gdldata
+	url = https://github.com/cran/gdldata
 [submodule "gdm"]
 	path = gdm
 	url = https://github.com/cran/gdm
@@ -40145,6 +40157,9 @@
 [submodule "miniMeta"]
 	path = miniMeta
 	url = https://github.com/cran/miniMeta
+[submodule "miniPCH"]
+	path = miniPCH
+	url = https://github.com/cran/miniPCH
 [submodule "miniUI"]
 	path = miniUI
 	url = https://github.com/cran/miniUI
