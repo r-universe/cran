@@ -1610,6 +1610,9 @@
 [submodule "BioInsight"]
 	path = BioInsight
 	url = https://github.com/cran/BioInsight
+[submodule "BioM2"]
+	path = BioM2
+	url = https://github.com/cran/BioM2
 [submodule "BioMark"]
 	path = BioMark
 	url = https://github.com/cran/BioMark
@@ -13379,6 +13382,9 @@
 [submodule "RWekajars"]
 	path = RWekajars
 	url = https://github.com/cran/RWekajars
+[submodule "RWgraph"]
+	path = RWgraph
+	url = https://github.com/cran/RWgraph
 [submodule "RWiener"]
 	path = RWiener
 	url = https://github.com/cran/RWiener
@@ -40859,6 +40865,9 @@
 [submodule "modelbased"]
 	path = modelbased
 	url = https://github.com/cran/modelbased
+[submodule "modelbpp"]
+	path = modelbpp
+	url = https://github.com/cran/modelbpp
 [submodule "modelc"]
 	path = modelc
 	url = https://github.com/cran/modelc
