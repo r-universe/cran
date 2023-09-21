@@ -6962,6 +6962,9 @@
 [submodule "ICS"]
 	path = ICS
 	url = https://github.com/cran/ICS
+[submodule "ICSClust"]
+	path = ICSClust
+	url = https://github.com/cran/ICSClust
 [submodule "ICSKAT"]
 	path = ICSKAT
 	url = https://github.com/cran/ICSKAT
@@ -18767,6 +18770,9 @@
 [submodule "allestimates"]
 	path = allestimates
 	url = https://github.com/cran/allestimates
+[submodule "allometric"]
+	path = allometric
+	url = https://github.com/cran/allometric
 [submodule "allomr"]
 	path = allomr
 	url = https://github.com/cran/allomr
@@ -22685,6 +22691,9 @@
 [submodule "cheese"]
 	path = cheese
 	url = https://github.com/cran/cheese
+[submodule "chem.databases"]
+	path = chem.databases
+	url = https://github.com/cran/chem.databases
 [submodule "chem16S"]
 	path = chem16S
 	url = https://github.com/cran/chem16S
@@ -41528,6 +41537,9 @@
 [submodule "multiUS"]
 	path = multiUS
 	url = https://github.com/cran/multiUS
+[submodule "multibias"]
+	path = multibias
+	url = https://github.com/cran/multibias
 [submodule "multibiasmeta"]
 	path = multibiasmeta
 	url = https://github.com/cran/multibiasmeta
@@ -42707,6 +42719,9 @@
 [submodule "nmathresh"]
 	path = nmathresh
 	url = https://github.com/cran/nmathresh
+[submodule "nmfbin"]
+	path = nmfbin
+	url = https://github.com/cran/nmfbin
 [submodule "nmixgof"]
 	path = nmixgof
 	url = https://github.com/cran/nmixgof
@@ -59258,9 +59273,6 @@
 [submodule "venn"]
 	path = venn
 	url = https://github.com/cran/venn
-[submodule "vennLasso"]
-	path = vennLasso
-	url = https://github.com/cran/vennLasso
 [submodule "venneuler"]
 	path = venneuler
 	url = https://github.com/cran/venneuler
