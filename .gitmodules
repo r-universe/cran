@@ -7292,6 +7292,9 @@
 [submodule "IgAScores"]
 	path = IgAScores
 	url = https://github.com/cran/IgAScores
+[submodule "ImFoR"]
+	path = ImFoR
+	url = https://github.com/cran/ImFoR
 [submodule "ImHD"]
 	path = ImHD
 	url = https://github.com/cran/ImHD
