@@ -59285,6 +59285,9 @@
 [submodule "venn"]
 	path = venn
 	url = https://github.com/cran/venn
+[submodule "vennLasso"]
+	path = vennLasso
+	url = https://github.com/cran/vennLasso
 [submodule "venneuler"]
 	path = venneuler
 	url = https://github.com/cran/venneuler
