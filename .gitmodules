@@ -1886,6 +1886,9 @@
 [submodule "CALIBERrfimpute"]
 	path = CALIBERrfimpute
 	url = https://github.com/cran/CALIBERrfimpute
+[submodule "CAMAN"]
+	path = CAMAN
+	url = https://github.com/cran/CAMAN
 [submodule "CAMML"]
 	path = CAMML
 	url = https://github.com/cran/CAMML
@@ -3089,6 +3092,9 @@
 [submodule "CovCombR"]
 	path = CovCombR
 	url = https://github.com/cran/CovCombR
+[submodule "CovRegRF"]
+	path = CovRegRF
+	url = https://github.com/cran/CovRegRF
 [submodule "CovSel"]
 	path = CovSel
 	url = https://github.com/cran/CovSel
@@ -17645,6 +17651,9 @@
 [submodule "WACS"]
 	path = WACS
 	url = https://github.com/cran/WACS
+[submodule "WALS"]
+	path = WALS
+	url = https://github.com/cran/WALS
 [submodule "WARN"]
 	path = WARN
 	url = https://github.com/cran/WARN
@@ -23153,6 +23162,9 @@
 [submodule "clogitboost"]
 	path = clogitboost
 	url = https://github.com/cran/clogitboost
+[submodule "cloneRate"]
+	path = cloneRate
+	url = https://github.com/cran/cloneRate
 [submodule "clordr"]
 	path = clordr
 	url = https://github.com/cran/clordr
@@ -53498,6 +53510,9 @@
 [submodule "simhelpers"]
 	path = simhelpers
 	url = https://github.com/cran/simhelpers
+[submodule "simitation"]
+	path = simitation
+	url = https://github.com/cran/simitation
 [submodule "simlandr"]
 	path = simlandr
 	url = https://github.com/cran/simlandr
@@ -55370,6 +55385,9 @@
 [submodule "statBasics"]
 	path = statBasics
 	url = https://github.com/cran/statBasics
+[submodule "statConfR"]
+	path = statConfR
+	url = https://github.com/cran/statConfR
 [submodule "statGraph"]
 	path = statGraph
 	url = https://github.com/cran/statGraph
@@ -56783,6 +56801,9 @@
 [submodule "teamr"]
 	path = teamr
 	url = https://github.com/cran/teamr
+[submodule "tectonicr"]
+	path = tectonicr
+	url = https://github.com/cran/tectonicr
 [submodule "teda"]
 	path = teda
 	url = https://github.com/cran/teda
