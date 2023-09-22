@@ -23087,9 +23087,6 @@
 [submodule "clime"]
 	path = clime
 	url = https://github.com/cran/clime
-[submodule "climetrics"]
-	path = climetrics
-	url = https://github.com/cran/climetrics
 [submodule "climextRemes"]
 	path = climextRemes
 	url = https://github.com/cran/climextRemes
@@ -34685,9 +34682,6 @@
 [submodule "hyd1d"]
 	path = hyd1d
 	url = https://github.com/cran/hyd1d
-[submodule "hydflood"]
-	path = hydflood
-	url = https://github.com/cran/hydflood
 [submodule "hydra"]
 	path = hydra
 	url = https://github.com/cran/hydra
