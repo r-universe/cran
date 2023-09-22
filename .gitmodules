@@ -31784,6 +31784,9 @@
 [submodule "geostats"]
 	path = geostats
 	url = https://github.com/cran/geostats
+[submodule "geostatsp"]
+	path = geostatsp
+	url = https://github.com/cran/geostatsp
 [submodule "geotools"]
 	path = geotools
 	url = https://github.com/cran/geotools
