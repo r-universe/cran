@@ -10328,6 +10328,9 @@
 [submodule "NlinTS"]
 	path = NlinTS
 	url = https://github.com/cran/NlinTS
+[submodule "NlsyLinks"]
+	path = NlsyLinks
+	url = https://github.com/cran/NlsyLinks
 [submodule "Nmisc"]
 	path = Nmisc
 	url = https://github.com/cran/Nmisc
