@@ -33029,9 +33029,6 @@
 [submodule "googledrive"]
 	path = googledrive
 	url = https://github.com/cran/googledrive
-[submodule "googleformr"]
-	path = googleformr
-	url = https://github.com/cran/googleformr
 [submodule "googlenlp"]
 	path = googlenlp
 	url = https://github.com/cran/googlenlp
