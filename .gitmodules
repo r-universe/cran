@@ -7631,6 +7631,9 @@
 [submodule "JointAI"]
 	path = JointAI
 	url = https://github.com/cran/JointAI
+[submodule "JointFPM"]
+	path = JointFPM
+	url = https://github.com/cran/JointFPM
 [submodule "JointModel"]
 	path = JointModel
 	url = https://github.com/cran/JointModel
@@ -7847,6 +7850,9 @@
 [submodule "LAGOSNE"]
 	path = LAGOSNE
 	url = https://github.com/cran/LAGOSNE
+[submodule "LAIr"]
+	path = LAIr
+	url = https://github.com/cran/LAIr
 [submodule "LAM"]
 	path = LAM
 	url = https://github.com/cran/LAM
@@ -8744,6 +8750,9 @@
 [submodule "MGMS2"]
 	path = MGMS2
 	url = https://github.com/cran/MGMS2
+[submodule "MGPSDK"]
+	path = MGPSDK
+	url = https://github.com/cran/MGPSDK
 [submodule "MGSDA"]
 	path = MGSDA
 	url = https://github.com/cran/MGSDA
@@ -15095,6 +15104,9 @@
 [submodule "SNPknock"]
 	path = SNPknock
 	url = https://github.com/cran/SNPknock
+[submodule "SNSFdatasets"]
+	path = SNSFdatasets
+	url = https://github.com/cran/SNSFdatasets
 [submodule "SNSchart"]
 	path = SNSchart
 	url = https://github.com/cran/SNSchart
@@ -24143,6 +24155,9 @@
 [submodule "cookiecutter"]
 	path = cookiecutter
 	url = https://github.com/cran/cookiecutter
+[submodule "cookiemonster"]
+	path = cookiemonster
+	url = https://github.com/cran/cookiemonster
 [submodule "cookies"]
 	path = cookies
 	url = https://github.com/cran/cookies
@@ -43304,6 +43319,9 @@
 [submodule "occUncertain"]
 	path = occUncertain
 	url = https://github.com/cran/occUncertain
+[submodule "occumb"]
+	path = occumb
+	url = https://github.com/cran/occumb
 [submodule "occupancy"]
 	path = occupancy
 	url = https://github.com/cran/occupancy
