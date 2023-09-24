@@ -10193,6 +10193,9 @@
 [submodule "NScluster"]
 	path = NScluster
 	url = https://github.com/cran/NScluster
+[submodule "NTS"]
+	path = NTS
+	url = https://github.com/cran/NTS
 [submodule "NTSS"]
 	path = NTSS
 	url = https://github.com/cran/NTSS
