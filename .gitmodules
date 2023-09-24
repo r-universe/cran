@@ -32870,6 +32870,9 @@
 [submodule "gmapsdistance"]
 	path = gmapsdistance
 	url = https://github.com/cran/gmapsdistance
+[submodule "gmat"]
+	path = gmat
+	url = https://github.com/cran/gmat
 [submodule "gmeta"]
 	path = gmeta
 	url = https://github.com/cran/gmeta
