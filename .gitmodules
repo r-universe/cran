@@ -4799,6 +4799,9 @@
 [submodule "EwR"]
 	path = EwR
 	url = https://github.com/cran/EwR
+[submodule "ExGaussEstim"]
+	path = ExGaussEstim
+	url = https://github.com/cran/ExGaussEstim
 [submodule "ExNRuleEnsemble"]
 	path = ExNRuleEnsemble
 	url = https://github.com/cran/ExNRuleEnsemble
@@ -10559,6 +10562,9 @@
 [submodule "OTUtable"]
 	path = OTUtable
 	url = https://github.com/cran/OTUtable
+[submodule "OTclust"]
+	path = OTclust
+	url = https://github.com/cran/OTclust
 [submodule "OTrecod"]
 	path = OTrecod
 	url = https://github.com/cran/OTrecod
@@ -39305,6 +39311,9 @@
 [submodule "mcga"]
 	path = mcga
 	url = https://github.com/cran/mcga
+[submodule "mcgibbsit"]
+	path = mcgibbsit
+	url = https://github.com/cran/mcgibbsit
 [submodule "mcglm"]
 	path = mcglm
 	url = https://github.com/cran/mcglm
