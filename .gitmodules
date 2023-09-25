@@ -12644,6 +12644,9 @@
 [submodule "RGMM"]
 	path = RGMM
 	url = https://github.com/cran/RGMM
+[submodule "RGN"]
+	path = RGN
+	url = https://github.com/cran/RGN
 [submodule "RGeckoboard"]
 	path = RGeckoboard
 	url = https://github.com/cran/RGeckoboard
@@ -34262,6 +34265,9 @@
 [submodule "highlightHTML"]
 	path = highlightHTML
 	url = https://github.com/cran/highlightHTML
+[submodule "highlighter"]
+	path = highlighter
+	url = https://github.com/cran/highlighter
 [submodule "highmean"]
 	path = highmean
 	url = https://github.com/cran/highmean
