@@ -5687,6 +5687,9 @@
 [submodule "GDAtools"]
 	path = GDAtools
 	url = https://github.com/cran/GDAtools
+[submodule "GDELTtools"]
+	path = GDELTtools
+	url = https://github.com/cran/GDELTtools
 [submodule "GDINA"]
 	path = GDINA
 	url = https://github.com/cran/GDINA
@@ -19037,6 +19040,9 @@
 [submodule "anocva"]
 	path = anocva
 	url = https://github.com/cran/anocva
+[submodule "anomalize"]
+	path = anomalize
+	url = https://github.com/cran/anomalize
 [submodule "anomaly"]
 	path = anomaly
 	url = https://github.com/cran/anomaly
