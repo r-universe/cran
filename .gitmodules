@@ -53057,6 +53057,9 @@
 [submodule "shinyEffects"]
 	path = shinyEffects
 	url = https://github.com/cran/shinyEffects
+[submodule "shinyExprPortal"]
+	path = shinyExprPortal
+	url = https://github.com/cran/shinyExprPortal
 [submodule "shinyFeedback"]
 	path = shinyFeedback
 	url = https://github.com/cran/shinyFeedback
