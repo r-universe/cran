@@ -32105,6 +32105,9 @@
 [submodule "ggetho"]
 	path = ggetho
 	url = https://github.com/cran/ggetho
+[submodule "ggfan"]
+	path = ggfan
+	url = https://github.com/cran/ggfan
 [submodule "ggfittext"]
 	path = ggfittext
 	url = https://github.com/cran/ggfittext
