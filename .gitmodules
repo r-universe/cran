@@ -239,9 +239,6 @@
 [submodule "ANOVAShiny2"]
 	path = ANOVAShiny2
 	url = https://github.com/cran/ANOVAShiny2
-[submodule "ANTs"]
-	path = ANTs
-	url = https://github.com/cran/ANTs
 [submodule "AOV1R"]
 	path = AOV1R
 	url = https://github.com/cran/AOV1R
@@ -3242,9 +3239,6 @@
 [submodule "DArand"]
 	path = DArand
 	url = https://github.com/cran/DArand
-[submodule "DBERlibR"]
-	path = DBERlibR
-	url = https://github.com/cran/DBERlibR
 [submodule "DBEST"]
 	path = DBEST
 	url = https://github.com/cran/DBEST
@@ -4874,9 +4868,6 @@
 [submodule "ExposR"]
 	path = ExposR
 	url = https://github.com/cran/ExposR
-[submodule "ExprNet"]
-	path = ExprNet
-	url = https://github.com/cran/ExprNet
 [submodule "ExtDist"]
 	path = ExtDist
 	url = https://github.com/cran/ExtDist
@@ -11273,9 +11264,6 @@
 [submodule "PSAWR"]
 	path = PSAWR
 	url = https://github.com/cran/PSAWR
-[submodule "PSAboot"]
-	path = PSAboot
-	url = https://github.com/cran/PSAboot
 [submodule "PSAgraphics"]
 	path = PSAgraphics
 	url = https://github.com/cran/PSAgraphics
@@ -19112,9 +19100,6 @@
 [submodule "apTreeshape"]
 	path = apTreeshape
 	url = https://github.com/cran/apTreeshape
-[submodule "apa"]
-	path = apa
-	url = https://github.com/cran/apa
 [submodule "apaTables"]
 	path = apaTables
 	url = https://github.com/cran/apaTables
@@ -28991,9 +28976,6 @@
 [submodule "explor"]
 	path = explor
 	url = https://github.com/cran/explor
-[submodule "exploratory"]
-	path = exploratory
-	url = https://github.com/cran/exploratory
 [submodule "explore"]
 	path = explore
 	url = https://github.com/cran/explore
@@ -36800,9 +36782,6 @@
 [submodule "kidsides"]
 	path = kidsides
 	url = https://github.com/cran/kidsides
-[submodule "kim"]
-	path = kim
-	url = https://github.com/cran/kim
 [submodule "kimfilter"]
 	path = kimfilter
 	url = https://github.com/cran/kimfilter
@@ -41036,9 +41015,6 @@
 [submodule "momentuHMM"]
 	path = momentuHMM
 	url = https://github.com/cran/momentuHMM
-[submodule "momr"]
-	path = momr
-	url = https://github.com/cran/momr
 [submodule "monaco"]
 	path = monaco
 	url = https://github.com/cran/monaco
@@ -44471,9 +44447,6 @@
 [submodule "panstarrs"]
 	path = panstarrs
 	url = https://github.com/cran/panstarrs
-[submodule "papaja"]
-	path = papaja
-	url = https://github.com/cran/papaja
 [submodule "papci"]
 	path = papci
 	url = https://github.com/cran/papci
@@ -48194,9 +48167,6 @@
 [submodule "rMVP"]
 	path = rMVP
 	url = https://github.com/cran/rMVP
-[submodule "rMisbeta"]
-	path = rMisbeta
-	url = https://github.com/cran/rMisbeta
 [submodule "rMultiNet"]
 	path = rMultiNet
 	url = https://github.com/cran/rMultiNet
@@ -50669,9 +50639,6 @@
 [submodule "roger"]
 	path = roger
 	url = https://github.com/cran/roger
-[submodule "roistats"]
-	path = roistats
-	url = https://github.com/cran/roistats
 [submodule "rolap"]
 	path = rolap
 	url = https://github.com/cran/rolap
@@ -57464,9 +57431,6 @@
 [submodule "tidysq"]
 	path = tidysq
 	url = https://github.com/cran/tidysq
-[submodule "tidystats"]
-	path = tidystats
-	url = https://github.com/cran/tidystats
 [submodule "tidystopwords"]
 	path = tidystopwords
 	url = https://github.com/cran/tidystopwords
