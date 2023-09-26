@@ -1982,9 +1982,6 @@
 [submodule "CDFt"]
 	path = CDFt
 	url = https://github.com/cran/CDFt
-[submodule "CDLasso"]
-	path = CDLasso
-	url = https://github.com/cran/CDLasso
 [submodule "CDM"]
 	path = CDM
 	url = https://github.com/cran/CDM
@@ -13559,9 +13556,6 @@
 [submodule "Rarity"]
 	path = Rarity
 	url = https://github.com/cran/Rarity
-[submodule "RaschSampler"]
-	path = RaschSampler
-	url = https://github.com/cran/RaschSampler
 [submodule "Rata"]
 	path = Rata
 	url = https://github.com/cran/Rata
@@ -21851,9 +21845,6 @@
 [submodule "bvls"]
 	path = bvls
 	url = https://github.com/cran/bvls
-[submodule "bvpSolve"]
-	path = bvpSolve
-	url = https://github.com/cran/bvpSolve
 [submodule "bvpa"]
 	path = bvpa
 	url = https://github.com/cran/bvpa
@@ -25817,9 +25808,6 @@
 [submodule "deTS"]
 	path = deTS
 	url = https://github.com/cran/deTS
-[submodule "deTestSet"]
-	path = deTestSet
-	url = https://github.com/cran/deTestSet
 [submodule "deaR"]
 	path = deaR
 	url = https://github.com/cran/deaR
@@ -27332,9 +27320,6 @@
 [submodule "dvqcc"]
 	path = dvqcc
 	url = https://github.com/cran/dvqcc
-[submodule "dwdradar"]
-	path = dwdradar
-	url = https://github.com/cran/dwdradar
 [submodule "dwlm"]
 	path = dwlm
 	url = https://github.com/cran/dwlm
@@ -33440,9 +33425,6 @@
 [submodule "groupRemMap"]
 	path = groupRemMap
 	url = https://github.com/cran/groupRemMap
-[submodule "groupTesting"]
-	path = groupTesting
-	url = https://github.com/cran/groupTesting
 [submodule "groupWQS"]
 	path = groupWQS
 	url = https://github.com/cran/groupWQS
@@ -52685,9 +52667,6 @@
 [submodule "sepkoski"]
 	path = sepkoski
 	url = https://github.com/cran/sepkoski
-[submodule "seq2R"]
-	path = seq2R
-	url = https://github.com/cran/seq2R
 [submodule "seqCBS"]
 	path = seqCBS
 	url = https://github.com/cran/seqCBS
