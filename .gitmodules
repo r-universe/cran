@@ -48830,9 +48830,6 @@
 [submodule "rcaiman"]
 	path = rcaiman
 	url = https://github.com/cran/rcaiman
-[submodule "rcanvec"]
-	path = rcanvec
-	url = https://github.com/cran/rcanvec
 [submodule "rcarbon"]
 	path = rcarbon
 	url = https://github.com/cran/rcarbon
