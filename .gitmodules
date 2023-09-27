@@ -55409,9 +55409,6 @@
 [submodule "starter"]
 	path = starter
 	url = https://github.com/cran/starter
-[submodule "starticles"]
-	path = starticles
-	url = https://github.com/cran/starticles
 [submodule "startup"]
 	path = startup
 	url = https://github.com/cran/startup
