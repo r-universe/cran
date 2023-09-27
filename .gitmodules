@@ -21623,9 +21623,6 @@
 [submodule "brisk"]
 	path = brisk
 	url = https://github.com/cran/brisk
-[submodule "briskaR"]
-	path = briskaR
-	url = https://github.com/cran/briskaR
 [submodule "brlrmr"]
 	path = brlrmr
 	url = https://github.com/cran/brlrmr
@@ -52316,6 +52313,9 @@
 [submodule "sdcLog"]
 	path = sdcLog
 	url = https://github.com/cran/sdcLog
+[submodule "sdcMicro"]
+	path = sdcMicro
+	url = https://github.com/cran/sdcMicro
 [submodule "sdcSpatial"]
 	path = sdcSpatial
 	url = https://github.com/cran/sdcSpatial
