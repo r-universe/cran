@@ -13103,6 +13103,9 @@
 [submodule "RPANDA"]
 	path = RPANDA
 	url = https://github.com/cran/RPANDA
+[submodule "RPDTest"]
+	path = RPDTest
+	url = https://github.com/cran/RPDTest
 [submodule "RPEGLMEN"]
 	path = RPEGLMEN
 	url = https://github.com/cran/RPEGLMEN
@@ -18440,6 +18443,9 @@
 [submodule "adespatial"]
 	path = adespatial
 	url = https://github.com/cran/adespatial
+[submodule "adestr"]
+	path = adestr
+	url = https://github.com/cran/adestr
 [submodule "adfExplorer"]
 	path = adfExplorer
 	url = https://github.com/cran/adfExplorer
@@ -40325,9 +40331,6 @@
 [submodule "miselect"]
 	path = miselect
 	url = https://github.com/cran/miselect
-[submodule "misha"]
-	path = misha
-	url = https://github.com/cran/misha
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/cran/mispitools
@@ -42881,6 +42884,9 @@
 [submodule "noisyr"]
 	path = noisyr
 	url = https://github.com/cran/noisyr
+[submodule "nolock"]
+	path = nolock
+	url = https://github.com/cran/nolock
 [submodule "nombre"]
 	path = nombre
 	url = https://github.com/cran/nombre
@@ -47957,6 +47963,9 @@
 [submodule "qvcalc"]
 	path = qvcalc
 	url = https://github.com/cran/qvcalc
+[submodule "qwalkr"]
+	path = qwalkr
+	url = https://github.com/cran/qwalkr
 [submodule "qwraps2"]
 	path = qwraps2
 	url = https://github.com/cran/qwraps2
@@ -57359,6 +57368,9 @@
 [submodule "tidycwl"]
 	path = tidycwl
 	url = https://github.com/cran/tidycwl
+[submodule "tidydann"]
+	path = tidydann
+	url = https://github.com/cran/tidydann
 [submodule "tidydatatutor"]
 	path = tidydatatutor
 	url = https://github.com/cran/tidydatatutor
