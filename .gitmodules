@@ -24179,9 +24179,6 @@
 [submodule "cookiecutter"]
 	path = cookiecutter
 	url = https://github.com/cran/cookiecutter
-[submodule "cookiemonster"]
-	path = cookiemonster
-	url = https://github.com/cran/cookiemonster
 [submodule "cookies"]
 	path = cookies
 	url = https://github.com/cran/cookies
@@ -50279,9 +50276,6 @@
 [submodule "rlfsm"]
 	path = rlfsm
 	url = https://github.com/cran/rlfsm
-[submodule "rlibkriging"]
-	path = rlibkriging
-	url = https://github.com/cran/rlibkriging
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/cran/rliger
