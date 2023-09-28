@@ -21623,6 +21623,9 @@
 [submodule "brisk"]
 	path = brisk
 	url = https://github.com/cran/brisk
+[submodule "briskaR"]
+	path = briskaR
+	url = https://github.com/cran/briskaR
 [submodule "brlrmr"]
 	path = brlrmr
 	url = https://github.com/cran/brlrmr
@@ -40328,6 +40331,9 @@
 [submodule "miselect"]
 	path = miselect
 	url = https://github.com/cran/miselect
+[submodule "misha"]
+	path = misha
+	url = https://github.com/cran/misha
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/cran/mispitools
@@ -48830,6 +48836,9 @@
 [submodule "rcaiman"]
 	path = rcaiman
 	url = https://github.com/cran/rcaiman
+[submodule "rcanvec"]
+	path = rcanvec
+	url = https://github.com/cran/rcanvec
 [submodule "rcarbon"]
 	path = rcarbon
 	url = https://github.com/cran/rcarbon
@@ -55415,6 +55424,9 @@
 [submodule "starter"]
 	path = starter
 	url = https://github.com/cran/starter
+[submodule "starticles"]
+	path = starticles
+	url = https://github.com/cran/starticles
 [submodule "startup"]
 	path = startup
 	url = https://github.com/cran/startup
