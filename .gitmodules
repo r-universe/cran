@@ -2828,6 +2828,9 @@
 [submodule "ColorNameR"]
 	path = ColorNameR
 	url = https://github.com/cran/ColorNameR
+[submodule "Colossus"]
+	path = Colossus
+	url = https://github.com/cran/Colossus
 [submodule "ComICS"]
 	path = ComICS
 	url = https://github.com/cran/ComICS
@@ -14438,6 +14441,9 @@
 [submodule "Rpcop"]
 	path = Rpcop
 	url = https://github.com/cran/Rpcop
+[submodule "Rpdb"]
+	path = Rpdb
+	url = https://github.com/cran/Rpdb
 [submodule "RpeakChrom"]
 	path = RpeakChrom
 	url = https://github.com/cran/RpeakChrom
@@ -59456,6 +59462,9 @@
 [submodule "vipor"]
 	path = vipor
 	url = https://github.com/cran/vipor
+[submodule "viraldomain"]
+	path = viraldomain
+	url = https://github.com/cran/viraldomain
 [submodule "viralmodels"]
 	path = viralmodels
 	url = https://github.com/cran/viralmodels
