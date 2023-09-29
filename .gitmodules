@@ -269,6 +269,9 @@
 [submodule "APackOfTheClones"]
 	path = APackOfTheClones
 	url = https://github.com/cran/APackOfTheClones
+[submodule "APfun"]
+	path = APfun
+	url = https://github.com/cran/APfun
 [submodule "APtools"]
 	path = APtools
 	url = https://github.com/cran/APtools
@@ -743,6 +746,9 @@
 [submodule "AzureKeyVault"]
 	path = AzureKeyVault
 	url = https://github.com/cran/AzureKeyVault
+[submodule "AzureKusto"]
+	path = AzureKusto
+	url = https://github.com/cran/AzureKusto
 [submodule "AzureQstor"]
 	path = AzureQstor
 	url = https://github.com/cran/AzureQstor
@@ -19121,6 +19127,9 @@
 [submodule "aos"]
 	path = aos
 	url = https://github.com/cran/aos
+[submodule "apTreeshape"]
+	path = apTreeshape
+	url = https://github.com/cran/apTreeshape
 [submodule "apa"]
 	path = apa
 	url = https://github.com/cran/apa
@@ -36386,6 +36395,9 @@
 [submodule "jmuOutlier"]
 	path = jmuOutlier
 	url = https://github.com/cran/jmuOutlier
+[submodule "jmv"]
+	path = jmv
+	url = https://github.com/cran/jmv
 [submodule "jmvReadWrite"]
 	path = jmvReadWrite
 	url = https://github.com/cran/jmvReadWrite
@@ -47204,6 +47216,9 @@
 [submodule "psr"]
 	path = psr
 	url = https://github.com/cran/psr
+[submodule "psrwe"]
+	path = psrwe
+	url = https://github.com/cran/psrwe
 [submodule "pssmooth"]
 	path = pssmooth
 	url = https://github.com/cran/pssmooth
@@ -50267,6 +50282,9 @@
 [submodule "rlfsm"]
 	path = rlfsm
 	url = https://github.com/cran/rlfsm
+[submodule "rlibkriging"]
+	path = rlibkriging
+	url = https://github.com/cran/rlibkriging
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/cran/rliger
@@ -58157,6 +58175,9 @@
 [submodule "treediff"]
 	path = treediff
 	url = https://github.com/cran/treediff
+[submodule "treeducken"]
+	path = treeducken
+	url = https://github.com/cran/treeducken
 [submodule "treefit"]
 	path = treefit
 	url = https://github.com/cran/treefit
