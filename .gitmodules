@@ -3173,6 +3173,9 @@
 [submodule "CureDepCens"]
 	path = CureDepCens
 	url = https://github.com/cran/CureDepCens
+[submodule "CustomDerivative"]
+	path = CustomDerivative
+	url = https://github.com/cran/CustomDerivative
 [submodule "CustomerScoringMetrics"]
 	path = CustomerScoringMetrics
 	url = https://github.com/cran/CustomerScoringMetrics
@@ -33767,6 +33770,9 @@
 [submodule "h3lib"]
 	path = h3lib
 	url = https://github.com/cran/h3lib
+[submodule "h3r"]
+	path = h3r
+	url = https://github.com/cran/h3r
 [submodule "hBayesDM"]
 	path = hBayesDM
 	url = https://github.com/cran/hBayesDM
@@ -34769,6 +34775,9 @@
 [submodule "hydrogeo"]
 	path = hydrogeo
 	url = https://github.com/cran/hydrogeo
+[submodule "hydroloom"]
+	path = hydroloom
+	url = https://github.com/cran/hydroloom
 [submodule "hydropeak"]
 	path = hydropeak
 	url = https://github.com/cran/hydropeak
@@ -45578,6 +45587,9 @@
 [submodule "physiology"]
 	path = physiology
 	url = https://github.com/cran/physiology
+[submodule "phytoclass"]
+	path = phytoclass
+	url = https://github.com/cran/phytoclass
 [submodule "phytools"]
 	path = phytools
 	url = https://github.com/cran/phytools
@@ -45878,6 +45890,9 @@
 [submodule "plgp"]
 	path = plgp
 	url = https://github.com/cran/plgp
+[submodule "plgraphics"]
+	path = plgraphics
+	url = https://github.com/cran/plgraphics
 [submodule "pliman"]
 	path = pliman
 	url = https://github.com/cran/pliman
@@ -49361,6 +49376,9 @@
 [submodule "regRSM"]
 	path = regRSM
 	url = https://github.com/cran/regRSM
+[submodule "regcensus"]
+	path = regcensus
+	url = https://github.com/cran/regcensus
 [submodule "regclass"]
 	path = regclass
 	url = https://github.com/cran/regclass
@@ -58061,6 +58079,9 @@
 [submodule "tramME"]
 	path = tramME
 	url = https://github.com/cran/tramME
+[submodule "tramicp"]
+	path = tramicp
+	url = https://github.com/cran/tramicp
 [submodule "tramnet"]
 	path = tramnet
 	url = https://github.com/cran/tramnet
