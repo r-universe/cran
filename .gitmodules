@@ -26606,6 +26606,9 @@
 [submodule "disdat"]
 	path = disdat
 	url = https://github.com/cran/disdat
+[submodule "diseasemapping"]
+	path = diseasemapping
+	url = https://github.com/cran/diseasemapping
 [submodule "disk.frame"]
 	path = disk.frame
 	url = https://github.com/cran/disk.frame
