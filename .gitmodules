@@ -2834,6 +2834,9 @@
 [submodule "ColorNameR"]
 	path = ColorNameR
 	url = https://github.com/cran/ColorNameR
+[submodule "Colossus"]
+	path = Colossus
+	url = https://github.com/cran/Colossus
 [submodule "ComICS"]
 	path = ComICS
 	url = https://github.com/cran/ComICS
@@ -8366,6 +8369,9 @@
 [submodule "LocalControl"]
 	path = LocalControl
 	url = https://github.com/cran/LocalControl
+[submodule "LocalControlStrategy"]
+	path = LocalControlStrategy
+	url = https://github.com/cran/LocalControlStrategy
 [submodule "Lock5Data"]
 	path = Lock5Data
 	url = https://github.com/cran/Lock5Data
