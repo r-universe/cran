@@ -8366,9 +8366,6 @@
 [submodule "LocalControl"]
 	path = LocalControl
 	url = https://github.com/cran/LocalControl
-[submodule "LocalControlStrategy"]
-	path = LocalControlStrategy
-	url = https://github.com/cran/LocalControlStrategy
 [submodule "Lock5Data"]
 	path = Lock5Data
 	url = https://github.com/cran/Lock5Data
@@ -10208,6 +10205,9 @@
 [submodule "NTSS"]
 	path = NTSS
 	url = https://github.com/cran/NTSS
+[submodule "NU.Learning"]
+	path = NU.Learning
+	url = https://github.com/cran/NU.Learning
 [submodule "NUCOMBog"]
 	path = NUCOMBog
 	url = https://github.com/cran/NUCOMBog
@@ -29681,6 +29681,9 @@
 [submodule "fdadensity"]
 	path = fdadensity
 	url = https://github.com/cran/fdadensity
+[submodule "fdaoutlier"]
+	path = fdaoutlier
+	url = https://github.com/cran/fdaoutlier
 [submodule "fdapace"]
 	path = fdapace
 	url = https://github.com/cran/fdapace
