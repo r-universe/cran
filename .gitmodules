@@ -18170,6 +18170,9 @@
 [submodule "abodOutlier"]
 	path = abodOutlier
 	url = https://github.com/cran/abodOutlier
+[submodule "abseil"]
+	path = abseil
+	url = https://github.com/cran/abseil
 [submodule "abstr"]
 	path = abstr
 	url = https://github.com/cran/abstr
@@ -18320,6 +18323,9 @@
 [submodule "adaHuber"]
 	path = adaHuber
 	url = https://github.com/cran/adaHuber
+[submodule "adaR"]
+	path = adaR
+	url = https://github.com/cran/adaR
 [submodule "adabag"]
 	path = adabag
 	url = https://github.com/cran/adabag
@@ -20222,6 +20228,9 @@
 [submodule "bayesMRM"]
 	path = bayesMRM
 	url = https://github.com/cran/bayesMRM
+[submodule "bayesMig"]
+	path = bayesMig
+	url = https://github.com/cran/bayesMig
 [submodule "bayesPO"]
 	path = bayesPO
 	url = https://github.com/cran/bayesPO
@@ -28433,6 +28442,9 @@
 [submodule "epikit"]
 	path = epikit
 	url = https://github.com/cran/epikit
+[submodule "epilogi"]
+	path = epilogi
+	url = https://github.com/cran/epilogi
 [submodule "epimdr"]
 	path = epimdr
 	url = https://github.com/cran/epimdr
@@ -32990,6 +33002,9 @@
 [submodule "gofcat"]
 	path = gofcat
 	url = https://github.com/cran/gofcat
+[submodule "gofedf"]
+	path = gofedf
+	url = https://github.com/cran/gofedf
 [submodule "goffda"]
 	path = goffda
 	url = https://github.com/cran/goffda
@@ -40220,6 +40235,9 @@
 [submodule "minSNPs"]
 	path = minSNPs
 	url = https://github.com/cran/minSNPs
+[submodule "minb"]
+	path = minb
+	url = https://github.com/cran/minb
 [submodule "mind"]
 	path = mind
 	url = https://github.com/cran/mind
@@ -47339,6 +47357,9 @@
 [submodule "pubh"]
 	path = pubh
 	url = https://github.com/cran/pubh
+[submodule "public.ctn0094data"]
+	path = public.ctn0094data
+	url = https://github.com/cran/public.ctn0094data
 [submodule "publipha"]
 	path = publipha
 	url = https://github.com/cran/publipha
@@ -52556,6 +52577,9 @@
 [submodule "selectspm"]
 	path = selectspm
 	url = https://github.com/cran/selectspm
+[submodule "selenider"]
+	path = selenider
+	url = https://github.com/cran/selenider
 [submodule "seleniumPipes"]
 	path = seleniumPipes
 	url = https://github.com/cran/seleniumPipes
@@ -58139,6 +58163,9 @@
 [submodule "transport"]
 	path = transport
 	url = https://github.com/cran/transport
+[submodule "transreg"]
+	path = transreg
+	url = https://github.com/cran/transreg
 [submodule "transx"]
 	path = transx
 	url = https://github.com/cran/transx
@@ -58217,6 +58244,9 @@
 [submodule "treenomial"]
 	path = treenomial
 	url = https://github.com/cran/treenomial
+[submodule "treeshap"]
+	path = treeshap
+	url = https://github.com/cran/treeshap
 [submodule "treespace"]
 	path = treespace
 	url = https://github.com/cran/treespace
