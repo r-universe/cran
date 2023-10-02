@@ -1550,6 +1550,9 @@
 [submodule "BiSEp"]
 	path = BiSEp
 	url = https://github.com/cran/BiSEp
+[submodule "BiTrinA"]
+	path = BiTrinA
+	url = https://github.com/cran/BiTrinA
 [submodule "BiasCorrector"]
 	path = BiasCorrector
 	url = https://github.com/cran/BiasCorrector
