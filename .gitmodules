@@ -1769,9 +1769,6 @@
 [submodule "BootstrapQTL"]
 	path = BootstrapQTL
 	url = https://github.com/cran/BootstrapQTL
-[submodule "Boov"]
-	path = Boov
-	url = https://github.com/cran/Boov
 [submodule "Boptbd"]
 	path = Boptbd
 	url = https://github.com/cran/Boptbd
@@ -9443,9 +9440,6 @@
 [submodule "Mercator"]
 	path = Mercator
 	url = https://github.com/cran/Mercator
-[submodule "MeshesTools"]
-	path = MeshesTools
-	url = https://github.com/cran/MeshesTools
 [submodule "Mestim"]
 	path = Mestim
 	url = https://github.com/cran/Mestim
@@ -9590,9 +9584,6 @@
 [submodule "Minirand"]
 	path = Minirand
 	url = https://github.com/cran/Minirand
-[submodule "MinkowskiSum"]
-	path = MinkowskiSum
-	url = https://github.com/cran/MinkowskiSum
 [submodule "MisRepARMA"]
 	path = MisRepARMA
 	url = https://github.com/cran/MisRepARMA
@@ -11765,9 +11756,6 @@
 [submodule "PolycrossDesigns"]
 	path = PolycrossDesigns
 	url = https://github.com/cran/PolycrossDesigns
-[submodule "PolygonSoup"]
-	path = PolygonSoup
-	url = https://github.com/cran/PolygonSoup
 [submodule "PolynomF"]
 	path = PolynomF
 	url = https://github.com/cran/PolynomF
