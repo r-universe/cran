@@ -17411,6 +17411,9 @@
 [submodule "UnivRNG"]
 	path = UnivRNG
 	url = https://github.com/cran/UnivRNG
+[submodule "UniversalCVI"]
+	path = UniversalCVI
+	url = https://github.com/cran/UniversalCVI
 [submodule "UpDown"]
 	path = UpDown
 	url = https://github.com/cran/UpDown
@@ -26063,6 +26066,9 @@
 [submodule "densityClust"]
 	path = densityClust
 	url = https://github.com/cran/densityClust
+[submodule "densityarea"]
+	path = densityarea
+	url = https://github.com/cran/densityarea
 [submodule "densratio"]
 	path = densratio
 	url = https://github.com/cran/densratio
@@ -47165,6 +47171,9 @@
 [submodule "psbcGroup"]
 	path = psbcGroup
 	url = https://github.com/cran/psbcGroup
+[submodule "psbcSpeedUp"]
+	path = psbcSpeedUp
+	url = https://github.com/cran/psbcSpeedUp
 [submodule "psborrow"]
 	path = psborrow
 	url = https://github.com/cran/psborrow
@@ -52019,6 +52028,9 @@
 [submodule "scDiffCom"]
 	path = scDiffCom
 	url = https://github.com/cran/scDiffCom
+[submodule "scGOclust"]
+	path = scGOclust
+	url = https://github.com/cran/scGOclust
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/cran/scGate
@@ -60338,6 +60350,9 @@
 [submodule "word2vec"]
 	path = word2vec
 	url = https://github.com/cran/word2vec
+[submodule "wordPuzzleR"]
+	path = wordPuzzleR
+	url = https://github.com/cran/wordPuzzleR
 [submodule "wordcloud"]
 	path = wordcloud
 	url = https://github.com/cran/wordcloud
