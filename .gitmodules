@@ -6452,9 +6452,6 @@
 [submodule "GsymPoint"]
 	path = GsymPoint
 	url = https://github.com/cran/GsymPoint
-[submodule "Guerry"]
-	path = Guerry
-	url = https://github.com/cran/Guerry
 [submodule "GxEScanR"]
 	path = GxEScanR
 	url = https://github.com/cran/GxEScanR
@@ -54716,9 +54713,6 @@
 [submodule "spatialCovariance"]
 	path = spatialCovariance
 	url = https://github.com/cran/spatialCovariance
-[submodule "spatialEco"]
-	path = spatialEco
-	url = https://github.com/cran/spatialEco
 [submodule "spatialRF"]
 	path = spatialRF
 	url = https://github.com/cran/spatialRF
