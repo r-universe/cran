@@ -15536,6 +15536,9 @@
 [submodule "SeedCalc"]
 	path = SeedCalc
 	url = https://github.com/cran/SeedCalc
+[submodule "SeedMatchR"]
+	path = SeedMatchR
+	url = https://github.com/cran/SeedMatchR
 [submodule "SeerMapper"]
 	path = SeerMapper
 	url = https://github.com/cran/SeerMapper
@@ -30602,6 +30605,9 @@
 [submodule "fqadata"]
 	path = fqadata
 	url = https://github.com/cran/fqadata
+[submodule "fqar"]
+	path = fqar
+	url = https://github.com/cran/fqar
 [submodule "frab"]
 	path = frab
 	url = https://github.com/cran/frab
