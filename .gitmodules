@@ -39251,9 +39251,6 @@
 [submodule "mbbefd"]
 	path = mbbefd
 	url = https://github.com/cran/mbbefd
-[submodule "mbclusterwise"]
-	path = mbclusterwise
-	url = https://github.com/cran/mbclusterwise
 [submodule "mbend"]
 	path = mbend
 	url = https://github.com/cran/mbend
