@@ -3236,6 +3236,9 @@
 [submodule "DALEXtra"]
 	path = DALEXtra
 	url = https://github.com/cran/DALEXtra
+[submodule "DALSM"]
+	path = DALSM
+	url = https://github.com/cran/DALSM
 [submodule "DALY"]
 	path = DALY
 	url = https://github.com/cran/DALY
@@ -60170,6 +60173,9 @@
 [submodule "whSample"]
 	path = whSample
 	url = https://github.com/cran/whSample
+[submodule "whatthreewords"]
+	path = whatthreewords
+	url = https://github.com/cran/whatthreewords
 [submodule "wheatmap"]
 	path = wheatmap
 	url = https://github.com/cran/wheatmap
