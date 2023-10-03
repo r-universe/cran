@@ -51968,6 +51968,9 @@
 [submodule "satin"]
 	path = satin
 	url = https://github.com/cran/satin
+[submodule "satres"]
+	path = satres
+	url = https://github.com/cran/satres
 [submodule "satscanMapper"]
 	path = satscanMapper
 	url = https://github.com/cran/satscanMapper
@@ -58361,6 +58364,9 @@
 [submodule "tripsAndDipR"]
 	path = tripsAndDipR
 	url = https://github.com/cran/tripsAndDipR
+[submodule "triptych"]
+	path = triptych
+	url = https://github.com/cran/triptych
 [submodule "triversity"]
 	path = triversity
 	url = https://github.com/cran/triversity
