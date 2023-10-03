@@ -41924,6 +41924,9 @@
 [submodule "mvglmmRank"]
 	path = mvglmmRank
 	url = https://github.com/cran/mvglmmRank
+[submodule "mvhist"]
+	path = mvhist
+	url = https://github.com/cran/mvhist
 [submodule "mvinfluence"]
 	path = mvinfluence
 	url = https://github.com/cran/mvinfluence
@@ -56555,6 +56558,9 @@
 [submodule "syntaxr"]
 	path = syntaxr
 	url = https://github.com/cran/syntaxr
+[submodule "syntenyPlotteR"]
+	path = syntenyPlotteR
+	url = https://github.com/cran/syntenyPlotteR
 [submodule "synthACS"]
 	path = synthACS
 	url = https://github.com/cran/synthACS
