@@ -47510,6 +47510,9 @@
 [submodule "pysd2r"]
 	path = pysd2r
 	url = https://github.com/cran/pysd2r
+[submodule "pysparklyr"]
+	path = pysparklyr
+	url = https://github.com/cran/pysparklyr
 [submodule "pzfx"]
 	path = pzfx
 	url = https://github.com/cran/pzfx
@@ -58553,6 +58556,9 @@
 [submodule "tsutils"]
 	path = tsutils
 	url = https://github.com/cran/tsutils
+[submodule "tsvio"]
+	path = tsvio
+	url = https://github.com/cran/tsvio
 [submodule "tsviz"]
 	path = tsviz
 	url = https://github.com/cran/tsviz
