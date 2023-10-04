@@ -10823,6 +10823,9 @@
 [submodule "PAMpal"]
 	path = PAMpal
 	url = https://github.com/cran/PAMpal
+[submodule "PAMscapes"]
+	path = PAMscapes
+	url = https://github.com/cran/PAMscapes
 [submodule "PANACEA"]
 	path = PANACEA
 	url = https://github.com/cran/PANACEA
