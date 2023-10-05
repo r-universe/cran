@@ -19385,6 +19385,9 @@
 [submodule "aricode"]
 	path = aricode
 	url = https://github.com/cran/aricode
+[submodule "arima2"]
+	path = arima2
+	url = https://github.com/cran/arima2
 [submodule "arkdb"]
 	path = arkdb
 	url = https://github.com/cran/arkdb
@@ -24053,6 +24056,9 @@
 [submodule "conformalbayes"]
 	path = conformalbayes
 	url = https://github.com/cran/conformalbayes
+[submodule "conformalpvalue"]
+	path = conformalpvalue
+	url = https://github.com/cran/conformalpvalue
 [submodule "confreq"]
 	path = confreq
 	url = https://github.com/cran/confreq
@@ -26327,6 +26333,9 @@
 [submodule "dhlabR"]
 	path = dhlabR
 	url = https://github.com/cran/dhlabR
+[submodule "dhsage"]
+	path = dhsage
+	url = https://github.com/cran/dhsage
 [submodule "di"]
 	path = di
 	url = https://github.com/cran/di
@@ -54875,6 +54884,9 @@
 [submodule "spec"]
 	path = spec
 	url = https://github.com/cran/spec
+[submodule "speccurvieR"]
+	path = speccurvieR
+	url = https://github.com/cran/speccurvieR
 [submodule "specieschrom"]
 	path = specieschrom
 	url = https://github.com/cran/specieschrom
