@@ -13652,6 +13652,9 @@
 [submodule "RcmdrPlugin.BWS2"]
 	path = RcmdrPlugin.BWS2
 	url = https://github.com/cran/RcmdrPlugin.BWS2
+[submodule "RcmdrPlugin.BWS3"]
+	path = RcmdrPlugin.BWS3
+	url = https://github.com/cran/RcmdrPlugin.BWS3
 [submodule "RcmdrPlugin.BiclustGUI"]
 	path = RcmdrPlugin.BiclustGUI
 	url = https://github.com/cran/RcmdrPlugin.BiclustGUI
