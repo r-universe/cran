@@ -16568,6 +16568,9 @@
 [submodule "TCIApathfinder"]
 	path = TCIApathfinder
 	url = https://github.com/cran/TCIApathfinder
+[submodule "TCIU"]
+	path = TCIU
+	url = https://github.com/cran/TCIU
 [submodule "TDA"]
 	path = TDA
 	url = https://github.com/cran/TDA
@@ -17399,6 +17402,9 @@
 [submodule "UncDecomp"]
 	path = UncDecomp
 	url = https://github.com/cran/UncDecomp
+[submodule "UniExactFunTest"]
+	path = UniExactFunTest
+	url = https://github.com/cran/UniExactFunTest
 [submodule "UniIsoRegression"]
 	path = UniIsoRegression
 	url = https://github.com/cran/UniIsoRegression
@@ -60302,6 +60308,9 @@
 [submodule "wikitaxa"]
 	path = wikitaxa
 	url = https://github.com/cran/wikitaxa
+[submodule "wikkitidy"]
+	path = wikkitidy
+	url = https://github.com/cran/wikkitidy
 [submodule "wilcoxmed"]
 	path = wilcoxmed
 	url = https://github.com/cran/wilcoxmed
