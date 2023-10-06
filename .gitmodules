@@ -23252,6 +23252,9 @@
 [submodule "clubSandwich"]
 	path = clubSandwich
 	url = https://github.com/cran/clubSandwich
+[submodule "clubpro"]
+	path = clubpro
+	url = https://github.com/cran/clubpro
 [submodule "clue"]
 	path = clue
 	url = https://github.com/cran/clue
@@ -23765,6 +23768,9 @@
 [submodule "comato"]
 	path = comato
 	url = https://github.com/cran/comato
+[submodule "combat.enigma"]
+	path = combat.enigma
+	url = https://github.com/cran/combat.enigma
 [submodule "combinIT"]
 	path = combinIT
 	url = https://github.com/cran/combinIT
@@ -46091,6 +46097,9 @@
 [submodule "plumbr"]
 	path = plumbr
 	url = https://github.com/cran/plumbr
+[submodule "plume"]
+	path = plume
+	url = https://github.com/cran/plume
 [submodule "pluralize"]
 	path = pluralize
 	url = https://github.com/cran/pluralize
@@ -48680,6 +48689,9 @@
 [submodule "rareNMtests"]
 	path = rareNMtests
 	url = https://github.com/cran/rareNMtests
+[submodule "rarestR"]
+	path = rarestR
+	url = https://github.com/cran/rarestR
 [submodule "rarms"]
 	path = rarms
 	url = https://github.com/cran/rarms
@@ -48956,6 +48968,9 @@
 [submodule "rco"]
 	path = rco
 	url = https://github.com/cran/rco
+[submodule "rcoder"]
+	path = rcoder
+	url = https://github.com/cran/rcoder
 [submodule "rcolors"]
 	path = rcolors
 	url = https://github.com/cran/rcolors
@@ -58649,6 +58664,9 @@
 [submodule "tutorial.helpers"]
 	path = tutorial.helpers
 	url = https://github.com/cran/tutorial.helpers
+[submodule "tv"]
+	path = tv
+	url = https://github.com/cran/tv
 [submodule "tvR"]
 	path = tvR
 	url = https://github.com/cran/tvR
