@@ -7334,6 +7334,9 @@
 [submodule "ImportanceIndice"]
 	path = ImportanceIndice
 	url = https://github.com/cran/ImportanceIndice
+[submodule "ImputeLongiCovs"]
+	path = ImputeLongiCovs
+	url = https://github.com/cran/ImputeLongiCovs
 [submodule "ImputeRobust"]
 	path = ImputeRobust
 	url = https://github.com/cran/ImputeRobust
@@ -57653,6 +57656,9 @@
 [submodule "tigerhitteR"]
 	path = tigerhitteR
 	url = https://github.com/cran/tigerhitteR
+[submodule "tigers"]
+	path = tigers
+	url = https://github.com/cran/tigers
 [submodule "tigerstats"]
 	path = tigerstats
 	url = https://github.com/cran/tigerstats
@@ -59261,6 +59267,9 @@
 [submodule "validateRS"]
 	path = validateRS
 	url = https://github.com/cran/validateRS
+[submodule "validatesuggest"]
+	path = validatesuggest
+	url = https://github.com/cran/validatesuggest
 [submodule "validatetools"]
 	path = validatetools
 	url = https://github.com/cran/validatetools
