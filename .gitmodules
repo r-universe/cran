@@ -46193,6 +46193,9 @@
 [submodule "podcleaner"]
 	path = podcleaner
 	url = https://github.com/cran/podcleaner
+[submodule "poems"]
+	path = poems
+	url = https://github.com/cran/poems
 [submodule "pogit"]
 	path = pogit
 	url = https://github.com/cran/pogit
