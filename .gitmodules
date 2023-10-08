@@ -24533,9 +24533,6 @@
 [submodule "covglasso"]
 	path = covglasso
 	url = https://github.com/cran/covglasso
-[submodule "covid19.analytics"]
-	path = covid19.analytics
-	url = https://github.com/cran/covid19.analytics
 [submodule "covid19br"]
 	path = covid19br
 	url = https://github.com/cran/covid19br
