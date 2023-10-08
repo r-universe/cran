@@ -25394,6 +25394,9 @@
 [submodule "daewr"]
 	path = daewr
 	url = https://github.com/cran/daewr
+[submodule "daff"]
+	path = daff
+	url = https://github.com/cran/daff
 [submodule "dafishr"]
 	path = dafishr
 	url = https://github.com/cran/dafishr
