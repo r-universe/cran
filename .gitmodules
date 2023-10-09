@@ -7919,6 +7919,9 @@
 [submodule "LDAandLDAS"]
 	path = LDAandLDAS
 	url = https://github.com/cran/LDAandLDAS
+[submodule "LDAcoop"]
+	path = LDAcoop
+	url = https://github.com/cran/LDAcoop
 [submodule "LDAvis"]
 	path = LDAvis
 	url = https://github.com/cran/LDAvis
@@ -27605,6 +27608,9 @@
 [submodule "easyanova"]
 	path = easyanova
 	url = https://github.com/cran/easyanova
+[submodule "easybgm"]
+	path = easybgm
+	url = https://github.com/cran/easybgm
 [submodule "easycensus"]
 	path = easycensus
 	url = https://github.com/cran/easycensus
@@ -30281,6 +30287,9 @@
 [submodule "flowTraceR"]
 	path = flowTraceR
 	url = https://github.com/cran/flowTraceR
+[submodule "flowml"]
+	path = flowml
+	url = https://github.com/cran/flowml
 [submodule "flowr"]
 	path = flowr
 	url = https://github.com/cran/flowr
@@ -31814,6 +31823,9 @@
 [submodule "geomtextpath"]
 	path = geomtextpath
 	url = https://github.com/cran/geomtextpath
+[submodule "geomultistar"]
+	path = geomultistar
+	url = https://github.com/cran/geomultistar
 [submodule "geonames"]
 	path = geonames
 	url = https://github.com/cran/geonames
@@ -31892,6 +31904,9 @@
 [submodule "gesisdata"]
 	path = gesisdata
 	url = https://github.com/cran/gesisdata
+[submodule "geslaR"]
+	path = geslaR
+	url = https://github.com/cran/geslaR
 [submodule "gesso"]
 	path = gesso
 	url = https://github.com/cran/gesso
@@ -40238,6 +40253,9 @@
 [submodule "mineCitrus"]
 	path = mineCitrus
 	url = https://github.com/cran/mineCitrus
+[submodule "mineSweepR"]
+	path = mineSweepR
+	url = https://github.com/cran/mineSweepR
 [submodule "mined"]
 	path = mined
 	url = https://github.com/cran/mined
@@ -45104,6 +45122,9 @@
 [submodule "pema"]
 	path = pema
 	url = https://github.com/cran/pema
+[submodule "pempi"]
+	path = pempi
+	url = https://github.com/cran/pempi
 [submodule "pems.utils"]
 	path = pems.utils
 	url = https://github.com/cran/pems.utils
