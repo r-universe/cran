@@ -25226,9 +25226,6 @@
 [submodule "cvwrapr"]
 	path = cvwrapr
 	url = https://github.com/cran/cvwrapr
-[submodule "cwbtools"]
-	path = cwbtools
-	url = https://github.com/cran/cwbtools
 [submodule "cwot"]
 	path = cwot
 	url = https://github.com/cran/cwot
@@ -27716,9 +27713,6 @@
 [submodule "echarts4r"]
 	path = echarts4r
 	url = https://github.com/cran/echarts4r
-[submodule "echarty"]
-	path = echarty
-	url = https://github.com/cran/echarty
 [submodule "echelon"]
 	path = echelon
 	url = https://github.com/cran/echelon
