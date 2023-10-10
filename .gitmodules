@@ -17060,9 +17060,6 @@
 [submodule "TidyMultiqc"]
 	path = TidyMultiqc
 	url = https://github.com/cran/TidyMultiqc
-[submodule "TimeSeries.OBeu"]
-	path = TimeSeries.OBeu
-	url = https://github.com/cran/TimeSeries.OBeu
 [submodule "TimeVTree"]
 	path = TimeVTree
 	url = https://github.com/cran/TimeVTree
