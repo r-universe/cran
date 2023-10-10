@@ -3386,6 +3386,9 @@
 [submodule "DFA.CANCOR"]
 	path = DFA.CANCOR
 	url = https://github.com/cran/DFA.CANCOR
+[submodule "DFD"]
+	path = DFD
+	url = https://github.com/cran/DFD
 [submodule "DFIT"]
 	path = DFIT
 	url = https://github.com/cran/DFIT
@@ -14660,6 +14663,12 @@
 [submodule "SAMtool"]
 	path = SAMtool
 	url = https://github.com/cran/SAMtool
+[submodule "SANple"]
+	path = SANple
+	url = https://github.com/cran/SANple
+[submodule "SANvi"]
+	path = SANvi
+	url = https://github.com/cran/SANvi
 [submodule "SAP"]
 	path = SAP
 	url = https://github.com/cran/SAP
@@ -14957,6 +14966,9 @@
 [submodule "SIMPLE.REGRESSION"]
 	path = SIMPLE.REGRESSION
 	url = https://github.com/cran/SIMPLE.REGRESSION
+[submodule "SIMle"]
+	path = SIMle
+	url = https://github.com/cran/SIMle
 [submodule "SIMplyBee"]
 	path = SIMplyBee
 	url = https://github.com/cran/SIMplyBee
@@ -34382,6 +34394,9 @@
 [submodule "hitandrun"]
 	path = hitandrun
 	url = https://github.com/cran/hitandrun
+[submodule "hivdata"]
+	path = hivdata
+	url = https://github.com/cran/hivdata
 [submodule "hive"]
 	path = hive
 	url = https://github.com/cran/hive
@@ -51803,6 +51818,9 @@
 [submodule "samplesizeCMH"]
 	path = samplesizeCMH
 	url = https://github.com/cran/samplesizeCMH
+[submodule "samplesizeestimator"]
+	path = samplesizeestimator
+	url = https://github.com/cran/samplesizeestimator
 [submodule "samplesizelogisticcasecontrol"]
 	path = samplesizelogisticcasecontrol
 	url = https://github.com/cran/samplesizelogisticcasecontrol
@@ -56894,6 +56912,9 @@
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/cran/teal.reporter
+[submodule "teal.widgets"]
+	path = teal.widgets
+	url = https://github.com/cran/teal.widgets
 [submodule "tealeaves"]
 	path = tealeaves
 	url = https://github.com/cran/tealeaves
