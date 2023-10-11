@@ -32600,9 +32600,6 @@
 [submodule "gibble"]
 	path = gibble
 	url = https://github.com/cran/gibble
-[submodule "giedata"]
-	path = giedata
-	url = https://github.com/cran/giedata
 [submodule "gif"]
 	path = gif
 	url = https://github.com/cran/gif
