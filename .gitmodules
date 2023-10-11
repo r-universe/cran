@@ -38330,6 +38330,9 @@
 [submodule "longitudinal"]
 	path = longitudinal
 	url = https://github.com/cran/longitudinal
+[submodule "longitudinalANAL"]
+	path = longitudinalANAL
+	url = https://github.com/cran/longitudinalANAL
 [submodule "longitudinalData"]
 	path = longitudinalData
 	url = https://github.com/cran/longitudinalData
