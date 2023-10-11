@@ -44444,6 +44444,9 @@
 [submodule "paleomorph"]
 	path = paleomorph
 	url = https://github.com/cran/paleomorph
+[submodule "paleopop"]
+	path = paleopop
+	url = https://github.com/cran/paleopop
 [submodule "paleotree"]
 	path = paleotree
 	url = https://github.com/cran/paleotree
