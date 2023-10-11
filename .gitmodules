@@ -40763,6 +40763,9 @@
 [submodule "mlsjunkgen"]
 	path = mlsjunkgen
 	url = https://github.com/cran/mlsjunkgen
+[submodule "mlstrOpalr"]
+	path = mlstrOpalr
+	url = https://github.com/cran/mlstrOpalr
 [submodule "mlsurvlrnrs"]
 	path = mlsurvlrnrs
 	url = https://github.com/cran/mlsurvlrnrs
