@@ -31775,6 +31775,9 @@
 [submodule "geofi"]
 	path = geofi
 	url = https://github.com/cran/geofi
+[submodule "geogenr"]
+	path = geogenr
+	url = https://github.com/cran/geogenr
 [submodule "geogrid"]
 	path = geogrid
 	url = https://github.com/cran/geogrid
@@ -39440,6 +39443,9 @@
 [submodule "mcr"]
 	path = mcr
 	url = https://github.com/cran/mcr
+[submodule "mcradds"]
+	path = mcradds
+	url = https://github.com/cran/mcradds
 [submodule "mcreplicate"]
 	path = mcreplicate
 	url = https://github.com/cran/mcreplicate
@@ -53318,6 +53324,9 @@
 [submodule "shinylight"]
 	path = shinylight
 	url = https://github.com/cran/shinylight
+[submodule "shinylive"]
+	path = shinylive
+	url = https://github.com/cran/shinylive
 [submodule "shinyloadtest"]
 	path = shinyloadtest
 	url = https://github.com/cran/shinyloadtest
