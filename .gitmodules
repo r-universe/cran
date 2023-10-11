@@ -248,6 +248,9 @@
 [submodule "APCI"]
 	path = APCI
 	url = https://github.com/cran/APCI
+[submodule "APCalign"]
+	path = APCalign
+	url = https://github.com/cran/APCalign
 [submodule "APCanalysis"]
 	path = APCanalysis
 	url = https://github.com/cran/APCanalysis
@@ -35585,6 +35588,9 @@
 [submodule "infer"]
 	path = infer
 	url = https://github.com/cran/infer
+[submodule "inferCSN"]
+	path = inferCSN
+	url = https://github.com/cran/inferCSN
 [submodule "inferference"]
 	path = inferference
 	url = https://github.com/cran/inferference
