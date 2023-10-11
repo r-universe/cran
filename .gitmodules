@@ -8174,6 +8174,9 @@
 [submodule "LW1949"]
 	path = LW1949
 	url = https://github.com/cran/LW1949
+[submodule "LWFBrook90R"]
+	path = LWFBrook90R
+	url = https://github.com/cran/LWFBrook90R
 [submodule "LZeroSpikeInference"]
 	path = LZeroSpikeInference
 	url = https://github.com/cran/LZeroSpikeInference
@@ -17072,6 +17075,9 @@
 [submodule "TidyMultiqc"]
 	path = TidyMultiqc
 	url = https://github.com/cran/TidyMultiqc
+[submodule "TimeSeries.OBeu"]
+	path = TimeSeries.OBeu
+	url = https://github.com/cran/TimeSeries.OBeu
 [submodule "TimeVTree"]
 	path = TimeVTree
 	url = https://github.com/cran/TimeVTree
@@ -21980,6 +21986,9 @@
 [submodule "calcUnique"]
 	path = calcUnique
 	url = https://github.com/cran/calcUnique
+[submodule "calcWOI"]
+	path = calcWOI
+	url = https://github.com/cran/calcWOI
 [submodule "calculus"]
 	path = calculus
 	url = https://github.com/cran/calculus
@@ -23294,6 +23303,9 @@
 [submodule "clusterHD"]
 	path = clusterHD
 	url = https://github.com/cran/clusterHD
+[submodule "clusterPower"]
+	path = clusterPower
+	url = https://github.com/cran/clusterPower
 [submodule "clusterRepro"]
 	path = clusterRepro
 	url = https://github.com/cran/clusterRepro
@@ -29159,6 +29171,9 @@
 [submodule "ezec"]
 	path = ezec
 	url = https://github.com/cran/ezec
+[submodule "ezglm"]
+	path = ezglm
+	url = https://github.com/cran/ezglm
 [submodule "ezknitr"]
 	path = ezknitr
 	url = https://github.com/cran/ezknitr
@@ -49874,6 +49889,9 @@
 [submodule "rex"]
 	path = rex
 	url = https://github.com/cran/rex
+[submodule "rexpokit"]
+	path = rexpokit
+	url = https://github.com/cran/rexpokit
 [submodule "rextendr"]
 	path = rextendr
 	url = https://github.com/cran/rextendr
