@@ -21359,6 +21359,9 @@
 [submodule "boinet"]
 	path = boinet
 	url = https://github.com/cran/boinet
+[submodule "boiwsa"]
+	path = boiwsa
+	url = https://github.com/cran/boiwsa
 [submodule "bolasso"]
 	path = bolasso
 	url = https://github.com/cran/bolasso
@@ -26714,6 +26717,9 @@
 [submodule "distillery"]
 	path = distillery
 	url = https://github.com/cran/distillery
+[submodule "distinctiveness"]
+	path = distinctiveness
+	url = https://github.com/cran/distinctiveness
 [submodule "disto"]
 	path = disto
 	url = https://github.com/cran/disto
@@ -37892,6 +37898,9 @@
 [submodule "lineupjs"]
 	path = lineupjs
 	url = https://github.com/cran/lineupjs
+[submodule "lingdist"]
+	path = lingdist
+	url = https://github.com/cran/lingdist
 [submodule "lingglosses"]
 	path = lingglosses
 	url = https://github.com/cran/lingglosses
