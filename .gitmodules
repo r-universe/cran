@@ -7316,6 +7316,9 @@
 [submodule "ImML"]
 	path = ImML
 	url = https://github.com/cran/ImML
+[submodule "ImNN"]
+	path = ImNN
+	url = https://github.com/cran/ImNN
 [submodule "Immigrate"]
 	path = Immigrate
 	url = https://github.com/cran/Immigrate
@@ -40862,6 +40865,9 @@
 [submodule "mmeta"]
 	path = mmeta
 	url = https://github.com/cran/mmeta
+[submodule "mmirestriktor"]
+	path = mmirestriktor
+	url = https://github.com/cran/mmirestriktor
 [submodule "mmmgee"]
 	path = mmmgee
 	url = https://github.com/cran/mmmgee
@@ -57806,6 +57812,9 @@
 [submodule "tinyarray"]
 	path = tinyarray
 	url = https://github.com/cran/tinyarray
+[submodule "tinycodet"]
+	path = tinycodet
+	url = https://github.com/cran/tinycodet
 [submodule "tinylabels"]
 	path = tinylabels
 	url = https://github.com/cran/tinylabels
