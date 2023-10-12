@@ -5015,6 +5015,9 @@
 [submodule "FFTrees"]
 	path = FFTrees
 	url = https://github.com/cran/FFTrees
+[submodule "FFdownload"]
+	path = FFdownload
+	url = https://github.com/cran/FFdownload
 [submodule "FGLMtrunc"]
 	path = FGLMtrunc
 	url = https://github.com/cran/FGLMtrunc
