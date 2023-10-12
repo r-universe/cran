@@ -29249,6 +29249,9 @@
 [submodule "fPortfolio"]
 	path = fPortfolio
 	url = https://github.com/cran/fPortfolio
+[submodule "fRLR"]
+	path = fRLR
+	url = https://github.com/cran/fRLR
 [submodule "fRegression"]
 	path = fRegression
 	url = https://github.com/cran/fRegression
