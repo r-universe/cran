@@ -40952,6 +40952,9 @@
 [submodule "modTurPoint"]
 	path = modTurPoint
 	url = https://github.com/cran/modTurPoint
+[submodule "modchart"]
+	path = modchart
+	url = https://github.com/cran/modchart
 [submodule "modeLLtest"]
 	path = modeLLtest
 	url = https://github.com/cran/modeLLtest
@@ -48836,6 +48839,9 @@
 [submodule "rbch"]
 	path = rbch
 	url = https://github.com/cran/rbch
+[submodule "rbedrock"]
+	path = rbedrock
+	url = https://github.com/cran/rbedrock
 [submodule "rbenchmark"]
 	path = rbenchmark
 	url = https://github.com/cran/rbenchmark
