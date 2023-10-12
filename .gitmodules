@@ -5984,9 +5984,6 @@
 [submodule "GPSeqClus"]
 	path = GPSeqClus
 	url = https://github.com/cran/GPSeqClus
-[submodule "GPUmatrix"]
-	path = GPUmatrix
-	url = https://github.com/cran/GPUmatrix
 [submodule "GPareto"]
 	path = GPareto
 	url = https://github.com/cran/GPareto
@@ -9575,6 +9572,9 @@
 [submodule "MicrobiomeStat"]
 	path = MicrobiomeStat
 	url = https://github.com/cran/MicrobiomeStat
+[submodule "MicrobiomeSurv"]
+	path = MicrobiomeSurv
+	url = https://github.com/cran/MicrobiomeSurv
 [submodule "Microsoft365R"]
 	path = Microsoft365R
 	url = https://github.com/cran/Microsoft365R
@@ -24482,6 +24482,9 @@
 [submodule "countsplit"]
 	path = countsplit
 	url = https://github.com/cran/countsplit
+[submodule "coursekata"]
+	path = coursekata
+	url = https://github.com/cran/coursekata
 [submodule "covBM"]
 	path = covBM
 	url = https://github.com/cran/covBM
@@ -34466,6 +34469,9 @@
 [submodule "hms"]
 	path = hms
 	url = https://github.com/cran/hms
+[submodule "hmsr"]
+	path = hmsr
+	url = https://github.com/cran/hmsr
 [submodule "hmstimer"]
 	path = hmstimer
 	url = https://github.com/cran/hmstimer
@@ -52115,6 +52121,9 @@
 [submodule "scSorter"]
 	path = scSorter
 	url = https://github.com/cran/scSorter
+[submodule "scSpatialSIM"]
+	path = scSpatialSIM
+	url = https://github.com/cran/scSpatialSIM
 [submodule "scTenifoldKnk"]
 	path = scTenifoldKnk
 	url = https://github.com/cran/scTenifoldKnk
