@@ -2705,9 +2705,6 @@
 [submodule "CluMP"]
 	path = CluMP
 	url = https://github.com/cran/CluMP
-[submodule "ClueR"]
-	path = ClueR
-	url = https://github.com/cran/ClueR
 [submodule "ClusBoot"]
 	path = ClusBoot
 	url = https://github.com/cran/ClusBoot
@@ -60497,9 +60494,6 @@
 [submodule "wordspace"]
 	path = wordspace
 	url = https://github.com/cran/wordspace
-[submodule "workboots"]
-	path = workboots
-	url = https://github.com/cran/workboots
 [submodule "workflowr"]
 	path = workflowr
 	url = https://github.com/cran/workflowr
