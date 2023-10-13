@@ -5651,6 +5651,9 @@
 [submodule "GBJ"]
 	path = GBJ
 	url = https://github.com/cran/GBJ
+[submodule "GCCfactor"]
+	path = GCCfactor
+	url = https://github.com/cran/GCCfactor
 [submodule "GCD"]
 	path = GCD
 	url = https://github.com/cran/GCD
@@ -47768,6 +47771,9 @@
 [submodule "qrjoint"]
 	path = qrjoint
 	url = https://github.com/cran/qrjoint
+[submodule "qrlabelr"]
+	path = qrlabelr
+	url = https://github.com/cran/qrlabelr
 [submodule "qrmdata"]
 	path = qrmdata
 	url = https://github.com/cran/qrmdata
@@ -60449,6 +60455,9 @@
 [submodule "wordPuzzleR"]
 	path = wordPuzzleR
 	url = https://github.com/cran/wordPuzzleR
+[submodule "wordbankr"]
+	path = wordbankr
+	url = https://github.com/cran/wordbankr
 [submodule "wordcloud"]
 	path = wordcloud
 	url = https://github.com/cran/wordcloud
