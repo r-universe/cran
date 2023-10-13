@@ -5984,6 +5984,9 @@
 [submodule "GPSeqClus"]
 	path = GPSeqClus
 	url = https://github.com/cran/GPSeqClus
+[submodule "GPUmatrix"]
+	path = GPUmatrix
+	url = https://github.com/cran/GPUmatrix
 [submodule "GPareto"]
 	path = GPareto
 	url = https://github.com/cran/GPareto
