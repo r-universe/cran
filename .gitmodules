@@ -41924,6 +41924,9 @@
 [submodule "mvMonitoring"]
 	path = mvMonitoring
 	url = https://github.com/cran/mvMonitoring
+[submodule "mvPot"]
+	path = mvPot
+	url = https://github.com/cran/mvPot
 [submodule "mvProbit"]
 	path = mvProbit
 	url = https://github.com/cran/mvProbit
