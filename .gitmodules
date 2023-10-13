@@ -29660,6 +29660,9 @@
 [submodule "fcirt"]
 	path = fcirt
 	url = https://github.com/cran/fcirt
+[submodule "fcl"]
+	path = fcl
+	url = https://github.com/cran/fcl
 [submodule "fclust"]
 	path = fclust
 	url = https://github.com/cran/fclust
