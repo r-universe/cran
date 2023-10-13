@@ -9269,9 +9269,6 @@
 [submodule "MajKMeans"]
 	path = MajKMeans
 	url = https://github.com/cran/MajKMeans
-[submodule "MakeYourPalette"]
-	path = MakeYourPalette
-	url = https://github.com/cran/MakeYourPalette
 [submodule "MakefileR"]
 	path = MakefileR
 	url = https://github.com/cran/MakefileR
