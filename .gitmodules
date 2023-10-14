@@ -3623,6 +3623,9 @@
 [submodule "DSAM"]
 	path = DSAM
 	url = https://github.com/cran/DSAM
+[submodule "DSBayes"]
+	path = DSBayes
+	url = https://github.com/cran/DSBayes
 [submodule "DSI"]
 	path = DSI
 	url = https://github.com/cran/DSI
