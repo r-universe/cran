@@ -44,6 +44,9 @@
 [submodule "ACE.CoCo"]
 	path = ACE.CoCo
 	url = https://github.com/cran/ACE.CoCo
+[submodule "ACEP"]
+	path = ACEP
+	url = https://github.com/cran/ACEP
 [submodule "ACEsearch"]
 	path = ACEsearch
 	url = https://github.com/cran/ACEsearch
@@ -929,6 +932,9 @@
 [submodule "BFS"]
 	path = BFS
 	url = https://github.com/cran/BFS
+[submodule "BFpack"]
+	path = BFpack
+	url = https://github.com/cran/BFpack
 [submodule "BGData"]
 	path = BGData
 	url = https://github.com/cran/BGData
@@ -938,6 +944,9 @@
 [submodule "BGGE"]
 	path = BGGE
 	url = https://github.com/cran/BGGE
+[submodule "BGGM"]
+	path = BGGM
+	url = https://github.com/cran/BGGM
 [submodule "BGLR"]
 	path = BGLR
 	url = https://github.com/cran/BGLR
@@ -4277,6 +4286,9 @@
 [submodule "EFS"]
 	path = EFS
 	url = https://github.com/cran/EFS
+[submodule "EGAnet"]
+	path = EGAnet
+	url = https://github.com/cran/EGAnet
 [submodule "EGRET"]
 	path = EGRET
 	url = https://github.com/cran/EGRET
@@ -9266,6 +9278,9 @@
 [submodule "MajKMeans"]
 	path = MajKMeans
 	url = https://github.com/cran/MajKMeans
+[submodule "MakeYourPalette"]
+	path = MakeYourPalette
+	url = https://github.com/cran/MakeYourPalette
 [submodule "MakefileR"]
 	path = MakefileR
 	url = https://github.com/cran/MakefileR
@@ -27602,6 +27617,9 @@
 [submodule "easyanova"]
 	path = easyanova
 	url = https://github.com/cran/easyanova
+[submodule "easybgm"]
+	path = easybgm
+	url = https://github.com/cran/easybgm
 [submodule "easycensus"]
 	path = easycensus
 	url = https://github.com/cran/easycensus
@@ -37313,6 +37331,9 @@
 [submodule "latenetwork"]
 	path = latenetwork
 	url = https://github.com/cran/latenetwork
+[submodule "latentFactoR"]
+	path = latentFactoR
+	url = https://github.com/cran/latentFactoR
 [submodule "latentcor"]
 	path = latentcor
 	url = https://github.com/cran/latentcor
