@@ -22799,6 +22799,9 @@
 [submodule "chess"]
 	path = chess
 	url = https://github.com/cran/chess
+[submodule "chessboard"]
+	path = chessboard
+	url = https://github.com/cran/chessboard
 [submodule "chest"]
 	path = chest
 	url = https://github.com/cran/chest
