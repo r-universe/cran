@@ -506,9 +506,6 @@
 [submodule "Allspice"]
 	path = Allspice
 	url = https://github.com/cran/Allspice
-[submodule "AlphaHull3D"]
-	path = AlphaHull3D
-	url = https://github.com/cran/AlphaHull3D
 [submodule "AlphaPart"]
 	path = AlphaPart
 	url = https://github.com/cran/AlphaPart
@@ -22640,9 +22637,6 @@
 [submodule "cgal4h"]
 	path = cgal4h
 	url = https://github.com/cran/cgal4h
-[submodule "cgalMeshes"]
-	path = cgalMeshes
-	url = https://github.com/cran/cgalMeshes
 [submodule "cgalPolygons"]
 	path = cgalPolygons
 	url = https://github.com/cran/cgalPolygons
@@ -25994,9 +25988,6 @@
 [submodule "dejaVu"]
 	path = dejaVu
 	url = https://github.com/cran/dejaVu
-[submodule "delaunay"]
-	path = delaunay
-	url = https://github.com/cran/delaunay
 [submodule "delayed"]
 	path = delayed
 	url = https://github.com/cran/delayed
@@ -60509,9 +60500,6 @@
 [submodule "worldmet"]
 	path = worldmet
 	url = https://github.com/cran/worldmet
-[submodule "worldriskpollr"]
-	path = worldriskpollr
-	url = https://github.com/cran/worldriskpollr
 [submodule "worrms"]
 	path = worrms
 	url = https://github.com/cran/worrms
