@@ -22742,9 +22742,6 @@
 [submodule "checkpoint"]
 	path = checkpoint
 	url = https://github.com/cran/checkpoint
-[submodule "checkr"]
-	path = checkr
-	url = https://github.com/cran/checkr
 [submodule "checkthat"]
 	path = checkthat
 	url = https://github.com/cran/checkthat
@@ -25313,9 +25310,6 @@
 [submodule "dBlockmodeling"]
 	path = dBlockmodeling
 	url = https://github.com/cran/dBlockmodeling
-[submodule "dCUR"]
-	path = dCUR
-	url = https://github.com/cran/dCUR
 [submodule "dChipIO"]
 	path = dChipIO
 	url = https://github.com/cran/dChipIO
@@ -46457,9 +46451,6 @@
 [submodule "popsom"]
 	path = popsom
 	url = https://github.com/cran/popsom
-[submodule "popstudy"]
-	path = popstudy
-	url = https://github.com/cran/popstudy
 [submodule "poptrend"]
 	path = poptrend
 	url = https://github.com/cran/poptrend
@@ -55463,9 +55454,6 @@
 [submodule "stacking"]
 	path = stacking
 	url = https://github.com/cran/stacking
-[submodule "stackoverflow"]
-	path = stackoverflow
-	url = https://github.com/cran/stackoverflow
 [submodule "stacks"]
 	path = stacks
 	url = https://github.com/cran/stacks
