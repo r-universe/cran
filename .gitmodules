@@ -7505,9 +7505,6 @@
 [submodule "IsoCor"]
 	path = IsoCor
 	url = https://github.com/cran/IsoCor
-[submodule "IsoCorr"]
-	path = IsoCorr
-	url = https://github.com/cran/IsoCorr
 [submodule "IsoGene"]
 	path = IsoGene
 	url = https://github.com/cran/IsoGene
@@ -56669,9 +56666,6 @@
 [submodule "tRnslate"]
 	path = tRnslate
 	url = https://github.com/cran/tRnslate
-[submodule "tRophicPosition"]
-	path = tRophicPosition
-	url = https://github.com/cran/tRophicPosition
 [submodule "tTOlr"]
 	path = tTOlr
 	url = https://github.com/cran/tTOlr
