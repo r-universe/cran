@@ -20105,9 +20105,6 @@
 [submodule "baseballDBR"]
 	path = baseballDBR
 	url = https://github.com/cran/baseballDBR
-[submodule "baseballr"]
-	path = baseballr
-	url = https://github.com/cran/baseballr
 [submodule "basecamb"]
 	path = basecamb
 	url = https://github.com/cran/basecamb
@@ -22043,9 +22040,6 @@
 [submodule "campaignmanageR"]
 	path = campaignmanageR
 	url = https://github.com/cran/campaignmanageR
-[submodule "campfin"]
-	path = campfin
-	url = https://github.com/cran/campfin
 [submodule "campsis"]
 	path = campsis
 	url = https://github.com/cran/campsis
@@ -26351,9 +26345,6 @@
 [submodule "diagram"]
 	path = diagram
 	url = https://github.com/cran/diagram
-[submodule "dialr"]
-	path = dialr
-	url = https://github.com/cran/dialr
 [submodule "dialrjars"]
 	path = dialrjars
 	url = https://github.com/cran/dialrjars
@@ -42095,6 +42086,9 @@
 [submodule "nLTT"]
 	path = nLTT
 	url = https://github.com/cran/nLTT
+[submodule "nRegression"]
+	path = nRegression
+	url = https://github.com/cran/nRegression
 [submodule "na.tools"]
 	path = na.tools
 	url = https://github.com/cran/na.tools
@@ -42737,9 +42731,6 @@
 [submodule "nlWaldTest"]
 	path = nlWaldTest
 	url = https://github.com/cran/nlWaldTest
-[submodule "nlaR"]
-	path = nlaR
-	url = https://github.com/cran/nlaR
 [submodule "nlcv"]
 	path = nlcv
 	url = https://github.com/cran/nlcv
@@ -44906,9 +44897,6 @@
 [submodule "pbivnorm"]
 	path = pbivnorm
 	url = https://github.com/cran/pbivnorm
-[submodule "pbixr"]
-	path = pbixr
-	url = https://github.com/cran/pbixr
 [submodule "pbkrtest"]
 	path = pbkrtest
 	url = https://github.com/cran/pbkrtest
@@ -51782,6 +51770,9 @@
 [submodule "saeHB.twofold"]
 	path = saeHB.twofold
 	url = https://github.com/cran/saeHB.twofold
+[submodule "saeHB.unit"]
+	path = saeHB.unit
+	url = https://github.com/cran/saeHB.unit
 [submodule "saeHB.zinb"]
 	path = saeHB.zinb
 	url = https://github.com/cran/saeHB.zinb
@@ -57770,6 +57761,9 @@
 [submodule "timeperiodsR"]
 	path = timeperiodsR
 	url = https://github.com/cran/timeperiodsR
+[submodule "timeplyr"]
+	path = timeplyr
+	url = https://github.com/cran/timeplyr
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/cran/timereg
