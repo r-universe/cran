@@ -17333,9 +17333,6 @@
 [submodule "UKgrid"]
 	path = UKgrid
 	url = https://github.com/cran/UKgrid
-[submodule "UMR"]
-	path = UMR
-	url = https://github.com/cran/UMR
 [submodule "UNCLES"]
 	path = UNCLES
 	url = https://github.com/cran/UNCLES
@@ -26018,9 +26015,6 @@
 [submodule "dematel"]
 	path = dematel
 	url = https://github.com/cran/dematel
-[submodule "demcon"]
-	path = demcon
-	url = https://github.com/cran/demcon
 [submodule "deming"]
 	path = deming
 	url = https://github.com/cran/deming
