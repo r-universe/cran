@@ -17333,6 +17333,9 @@
 [submodule "UKgrid"]
 	path = UKgrid
 	url = https://github.com/cran/UKgrid
+[submodule "UMR"]
+	path = UMR
+	url = https://github.com/cran/UMR
 [submodule "UNCLES"]
 	path = UNCLES
 	url = https://github.com/cran/UNCLES
@@ -26015,6 +26018,9 @@
 [submodule "dematel"]
 	path = dematel
 	url = https://github.com/cran/dematel
+[submodule "demcon"]
+	path = demcon
+	url = https://github.com/cran/demcon
 [submodule "deming"]
 	path = deming
 	url = https://github.com/cran/deming
@@ -39011,6 +39017,9 @@
 [submodule "maptiles"]
 	path = maptiles
 	url = https://github.com/cran/maptiles
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/cran/maptools
 [submodule "maptpx"]
 	path = maptpx
 	url = https://github.com/cran/maptpx
@@ -50009,6 +50018,9 @@
 [submodule "rgbif"]
 	path = rgbif
 	url = https://github.com/cran/rgbif
+[submodule "rgdal"]
+	path = rgdal
+	url = https://github.com/cran/rgdal
 [submodule "rgdax"]
 	path = rgdax
 	url = https://github.com/cran/rgdax
@@ -50039,6 +50051,9 @@
 [submodule "rgeoprofile"]
 	path = rgeoprofile
 	url = https://github.com/cran/rgeoprofile
+[submodule "rgeos"]
+	path = rgeos
+	url = https://github.com/cran/rgeos
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cran/rgexf
@@ -50084,6 +50099,9 @@
 [submodule "rgrass"]
 	path = rgrass
 	url = https://github.com/cran/rgrass
+[submodule "rgrass7"]
+	path = rgrass7
+	url = https://github.com/cran/rgrass7
 [submodule "rgsp"]
 	path = rgsp
 	url = https://github.com/cran/rgsp
