@@ -7505,6 +7505,9 @@
 [submodule "IsoCor"]
 	path = IsoCor
 	url = https://github.com/cran/IsoCor
+[submodule "IsoCorr"]
+	path = IsoCorr
+	url = https://github.com/cran/IsoCorr
 [submodule "IsoGene"]
 	path = IsoGene
 	url = https://github.com/cran/IsoGene
@@ -20105,6 +20108,9 @@
 [submodule "baseballDBR"]
 	path = baseballDBR
 	url = https://github.com/cran/baseballDBR
+[submodule "baseballr"]
+	path = baseballr
+	url = https://github.com/cran/baseballr
 [submodule "basecamb"]
 	path = basecamb
 	url = https://github.com/cran/basecamb
@@ -22040,6 +22046,9 @@
 [submodule "campaignmanageR"]
 	path = campaignmanageR
 	url = https://github.com/cran/campaignmanageR
+[submodule "campfin"]
+	path = campfin
+	url = https://github.com/cran/campfin
 [submodule "campsis"]
 	path = campsis
 	url = https://github.com/cran/campsis
@@ -22742,6 +22751,9 @@
 [submodule "checkpoint"]
 	path = checkpoint
 	url = https://github.com/cran/checkpoint
+[submodule "checkr"]
+	path = checkr
+	url = https://github.com/cran/checkr
 [submodule "checkthat"]
 	path = checkthat
 	url = https://github.com/cran/checkthat
@@ -25310,6 +25322,9 @@
 [submodule "dBlockmodeling"]
 	path = dBlockmodeling
 	url = https://github.com/cran/dBlockmodeling
+[submodule "dCUR"]
+	path = dCUR
+	url = https://github.com/cran/dCUR
 [submodule "dChipIO"]
 	path = dChipIO
 	url = https://github.com/cran/dChipIO
@@ -26339,6 +26354,9 @@
 [submodule "diagram"]
 	path = diagram
 	url = https://github.com/cran/diagram
+[submodule "dialr"]
+	path = dialr
+	url = https://github.com/cran/dialr
 [submodule "dialrjars"]
 	path = dialrjars
 	url = https://github.com/cran/dialrjars
@@ -42725,6 +42743,9 @@
 [submodule "nlWaldTest"]
 	path = nlWaldTest
 	url = https://github.com/cran/nlWaldTest
+[submodule "nlaR"]
+	path = nlaR
+	url = https://github.com/cran/nlaR
 [submodule "nlcv"]
 	path = nlcv
 	url = https://github.com/cran/nlcv
@@ -44891,6 +44912,9 @@
 [submodule "pbivnorm"]
 	path = pbivnorm
 	url = https://github.com/cran/pbivnorm
+[submodule "pbixr"]
+	path = pbixr
+	url = https://github.com/cran/pbixr
 [submodule "pbkrtest"]
 	path = pbkrtest
 	url = https://github.com/cran/pbkrtest
@@ -46451,6 +46475,9 @@
 [submodule "popsom"]
 	path = popsom
 	url = https://github.com/cran/popsom
+[submodule "popstudy"]
+	path = popstudy
+	url = https://github.com/cran/popstudy
 [submodule "poptrend"]
 	path = poptrend
 	url = https://github.com/cran/poptrend
@@ -55454,6 +55481,9 @@
 [submodule "stacking"]
 	path = stacking
 	url = https://github.com/cran/stacking
+[submodule "stackoverflow"]
+	path = stackoverflow
+	url = https://github.com/cran/stackoverflow
 [submodule "stacks"]
 	path = stacks
 	url = https://github.com/cran/stacks
@@ -56645,6 +56675,9 @@
 [submodule "tRnslate"]
 	path = tRnslate
 	url = https://github.com/cran/tRnslate
+[submodule "tRophicPosition"]
+	path = tRophicPosition
+	url = https://github.com/cran/tRophicPosition
 [submodule "tTOlr"]
 	path = tTOlr
 	url = https://github.com/cran/tTOlr
