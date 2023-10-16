@@ -2315,6 +2315,9 @@
 [submodule "CRTgeeDR"]
 	path = CRTgeeDR
 	url = https://github.com/cran/CRTgeeDR
+[submodule "CRTspat"]
+	path = CRTspat
+	url = https://github.com/cran/CRTspat
 [submodule "CRWRM"]
 	path = CRWRM
 	url = https://github.com/cran/CRWRM
@@ -5057,9 +5060,6 @@
 [submodule "FLSSS"]
 	path = FLSSS
 	url = https://github.com/cran/FLSSS
-[submodule "FLightR"]
-	path = FLightR
-	url = https://github.com/cran/FLightR
 [submodule "FMAT"]
 	path = FMAT
 	url = https://github.com/cran/FMAT
@@ -13595,9 +13595,6 @@
 [submodule "Rcgmin"]
 	path = Rcgmin
 	url = https://github.com/cran/Rcgmin
-[submodule "RchivalTag"]
-	path = RchivalTag
-	url = https://github.com/cran/RchivalTag
 [submodule "Rchoice"]
 	path = Rchoice
 	url = https://github.com/cran/Rchoice
@@ -33455,6 +33452,9 @@
 [submodule "grove"]
 	path = grove
 	url = https://github.com/cran/grove
+[submodule "growR"]
+	path = growR
+	url = https://github.com/cran/growR
 [submodule "growfunctions"]
 	path = growfunctions
 	url = https://github.com/cran/growfunctions
@@ -34745,15 +34745,6 @@
 [submodule "hydroEvents"]
 	path = hydroEvents
 	url = https://github.com/cran/hydroEvents
-[submodule "hydroGOF"]
-	path = hydroGOF
-	url = https://github.com/cran/hydroGOF
-[submodule "hydroMOPSO"]
-	path = hydroMOPSO
-	url = https://github.com/cran/hydroMOPSO
-[submodule "hydroPSO"]
-	path = hydroPSO
-	url = https://github.com/cran/hydroPSO
 [submodule "hydroTSM"]
 	path = hydroTSM
 	url = https://github.com/cran/hydroTSM
@@ -51896,9 +51887,6 @@
 [submodule "satres"]
 	path = satres
 	url = https://github.com/cran/satres
-[submodule "satscanMapper"]
-	path = satscanMapper
-	url = https://github.com/cran/satscanMapper
 [submodule "saturnin"]
 	path = saturnin
 	url = https://github.com/cran/saturnin
@@ -55292,9 +55280,6 @@
 [submodule "stRoke"]
 	path = stRoke
 	url = https://github.com/cran/stRoke
-[submodule "stUPscales"]
-	path = stUPscales
-	url = https://github.com/cran/stUPscales
 [submodule "sta"]
 	path = sta
 	url = https://github.com/cran/sta
@@ -57122,6 +57107,9 @@
 [submodule "tfCox"]
 	path = tfCox
 	url = https://github.com/cran/tfCox
+[submodule "tfNeuralODE"]
+	path = tfNeuralODE
+	url = https://github.com/cran/tfNeuralODE
 [submodule "tfaddons"]
 	path = tfaddons
 	url = https://github.com/cran/tfaddons
@@ -59837,9 +59825,6 @@
 [submodule "walkscoreAPI"]
 	path = walkscoreAPI
 	url = https://github.com/cran/walkscoreAPI
-[submodule "wallace"]
-	path = wallace
-	url = https://github.com/cran/wallace
 [submodule "wally"]
 	path = wally
 	url = https://github.com/cran/wally
