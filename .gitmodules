@@ -30989,6 +30989,9 @@
 [submodule "fwildclusterboot"]
 	path = fwildclusterboot
 	url = https://github.com/cran/fwildclusterboot
+[submodule "fwlplot"]
+	path = fwlplot
+	url = https://github.com/cran/fwlplot
 [submodule "fwsim"]
 	path = fwsim
 	url = https://github.com/cran/fwsim
