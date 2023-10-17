@@ -2846,6 +2846,9 @@
 [submodule "CompModels"]
 	path = CompModels
 	url = https://github.com/cran/CompModels
+[submodule "CompPareto"]
+	path = CompPareto
+	url = https://github.com/cran/CompPareto
 [submodule "CompQuadForm"]
 	path = CompQuadForm
 	url = https://github.com/cran/CompQuadForm
@@ -17876,6 +17879,9 @@
 [submodule "Z10"]
 	path = Z10
 	url = https://github.com/cran/Z10
+[submodule "ZIBR"]
+	path = ZIBR
+	url = https://github.com/cran/ZIBR
 [submodule "ZIBseq"]
 	path = ZIBseq
 	url = https://github.com/cran/ZIBseq
@@ -24317,6 +24323,9 @@
 [submodule "covdepGE"]
 	path = covdepGE
 	url = https://github.com/cran/covdepGE
+[submodule "coveR2"]
+	path = coveR2
+	url = https://github.com/cran/coveR2
 [submodule "coveffectsplot"]
 	path = coveffectsplot
 	url = https://github.com/cran/coveffectsplot
@@ -29963,6 +29972,9 @@
 [submodule "flashClust"]
 	path = flashClust
 	url = https://github.com/cran/flashClust
+[submodule "flashier"]
+	path = flashier
+	url = https://github.com/cran/flashier
 [submodule "flashlight"]
 	path = flashlight
 	url = https://github.com/cran/flashlight
@@ -40175,6 +40187,9 @@
 [submodule "missoNet"]
 	path = missoNet
 	url = https://github.com/cran/missoNet
+[submodule "misspi"]
+	path = misspi
+	url = https://github.com/cran/misspi
 [submodule "mistat"]
 	path = mistat
 	url = https://github.com/cran/mistat
@@ -53846,9 +53861,6 @@
 [submodule "smmR"]
 	path = smmR
 	url = https://github.com/cran/smmR
-[submodule "smnet"]
-	path = smnet
-	url = https://github.com/cran/smnet
 [submodule "smog"]
 	path = smog
 	url = https://github.com/cran/smog
@@ -55871,6 +55883,9 @@
 [submodule "surrosurvROC"]
 	path = surrosurvROC
 	url = https://github.com/cran/surrosurvROC
+[submodule "surtvep"]
+	path = surtvep
+	url = https://github.com/cran/surtvep
 [submodule "surv2sampleComp"]
 	path = surv2sampleComp
 	url = https://github.com/cran/surv2sampleComp
