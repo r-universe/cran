@@ -15428,24 +15428,6 @@
 [submodule "SeerMapper"]
 	path = SeerMapper
 	url = https://github.com/cran/SeerMapper
-[submodule "SeerMapper2010East"]
-	path = SeerMapper2010East
-	url = https://github.com/cran/SeerMapper2010East
-[submodule "SeerMapper2010Regs"]
-	path = SeerMapper2010Regs
-	url = https://github.com/cran/SeerMapper2010Regs
-[submodule "SeerMapper2010West"]
-	path = SeerMapper2010West
-	url = https://github.com/cran/SeerMapper2010West
-[submodule "SeerMapperEast"]
-	path = SeerMapperEast
-	url = https://github.com/cran/SeerMapperEast
-[submodule "SeerMapperRegs"]
-	path = SeerMapperRegs
-	url = https://github.com/cran/SeerMapperRegs
-[submodule "SeerMapperWest"]
-	path = SeerMapperWest
-	url = https://github.com/cran/SeerMapperWest
 [submodule "SegCorr"]
 	path = SegCorr
 	url = https://github.com/cran/SegCorr
@@ -53258,9 +53240,6 @@
 [submodule "simET"]
 	path = simET
 	url = https://github.com/cran/simET
-[submodule "simEd"]
-	path = simEd
-	url = https://github.com/cran/simEd
 [submodule "simExam"]
 	path = simExam
 	url = https://github.com/cran/simExam
