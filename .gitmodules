@@ -12566,9 +12566,6 @@
 [submodule "RGN"]
 	path = RGN
 	url = https://github.com/cran/RGN
-[submodule "RGeckoboard"]
-	path = RGeckoboard
-	url = https://github.com/cran/RGeckoboard
 [submodule "RGenData"]
 	path = RGenData
 	url = https://github.com/cran/RGenData
