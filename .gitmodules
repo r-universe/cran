@@ -56075,9 +56075,6 @@
 [submodule "synlik"]
 	path = synlik
 	url = https://github.com/cran/synlik
-[submodule "synoptReg"]
-	path = synoptReg
-	url = https://github.com/cran/synoptReg
 [submodule "synr"]
 	path = synr
 	url = https://github.com/cran/synr
