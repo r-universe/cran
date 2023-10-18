@@ -31028,9 +31028,6 @@
 [submodule "gatepoints"]
 	path = gatepoints
 	url = https://github.com/cran/gatepoints
-[submodule "gatoRs"]
-	path = gatoRs
-	url = https://github.com/cran/gatoRs
 [submodule "gauseR"]
 	path = gauseR
 	url = https://github.com/cran/gauseR
