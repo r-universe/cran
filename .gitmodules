@@ -37229,9 +37229,6 @@
 [submodule "leem"]
 	path = leem
 	url = https://github.com/cran/leem
-[submodule "leerSIECyL"]
-	path = leerSIECyL
-	url = https://github.com/cran/leerSIECyL
 [submodule "lefko3"]
 	path = lefko3
 	url = https://github.com/cran/lefko3
