@@ -11219,6 +11219,9 @@
 [submodule "PSinference"]
 	path = PSinference
 	url = https://github.com/cran/PSinference
+[submodule "PStrata"]
+	path = PStrata
+	url = https://github.com/cran/PStrata
 [submodule "PSweight"]
 	path = PSweight
 	url = https://github.com/cran/PSweight
