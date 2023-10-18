@@ -6281,6 +6281,9 @@
 [submodule "GillespieSSA2"]
 	path = GillespieSSA2
 	url = https://github.com/cran/GillespieSSA2
+[submodule "GimmeMyPlot"]
+	path = GimmeMyPlot
+	url = https://github.com/cran/GimmeMyPlot
 [submodule "Gini"]
 	path = Gini
 	url = https://github.com/cran/Gini
@@ -22976,6 +22979,9 @@
 [submodule "cloudUtil"]
 	path = cloudUtil
 	url = https://github.com/cran/cloudUtil
+[submodule "cloudfs"]
+	path = cloudfs
+	url = https://github.com/cran/cloudfs
 [submodule "cloudml"]
 	path = cloudml
 	url = https://github.com/cran/cloudml
@@ -56816,6 +56822,9 @@
 [submodule "thaipdf"]
 	path = thaipdf
 	url = https://github.com/cran/thaipdf
+[submodule "thames"]
+	path = thames
+	url = https://github.com/cran/thames
 [submodule "thankr"]
 	path = thankr
 	url = https://github.com/cran/thankr
