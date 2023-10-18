@@ -17813,6 +17813,9 @@
 [submodule "YieldCurve"]
 	path = YieldCurve
 	url = https://github.com/cran/YieldCurve
+[submodule "Ymisc"]
+	path = Ymisc
+	url = https://github.com/cran/Ymisc
 [submodule "Z10"]
 	path = Z10
 	url = https://github.com/cran/Z10
@@ -25490,6 +25493,9 @@
 [submodule "dcmodify"]
 	path = dcmodify
 	url = https://github.com/cran/dcmodify
+[submodule "dcorVS"]
+	path = dcorVS
+	url = https://github.com/cran/dcorVS
 [submodule "dcortools"]
 	path = dcortools
 	url = https://github.com/cran/dcortools
@@ -25964,6 +25970,9 @@
 [submodule "dfdr"]
 	path = dfdr
 	url = https://github.com/cran/dfdr
+[submodule "dfexpand"]
+	path = dfexpand
+	url = https://github.com/cran/dfexpand
 [submodule "dfidx"]
 	path = dfidx
 	url = https://github.com/cran/dfidx
@@ -38576,6 +38585,9 @@
 [submodule "mapiso"]
 	path = mapiso
 	url = https://github.com/cran/mapiso
+[submodule "maplegend"]
+	path = maplegend
+	url = https://github.com/cran/maplegend
 [submodule "mapme.biodiversity"]
 	path = mapme.biodiversity
 	url = https://github.com/cran/mapme.biodiversity
@@ -48800,6 +48812,9 @@
 [submodule "readysignal"]
 	path = readysignal
 	url = https://github.com/cran/readysignal
+[submodule "realTimeloads"]
+	path = realTimeloads
+	url = https://github.com/cran/realTimeloads
 [submodule "realtest"]
 	path = realtest
 	url = https://github.com/cran/realtest
@@ -49811,9 +49826,6 @@
 [submodule "rivernet"]
 	path = rivernet
 	url = https://github.com/cran/rivernet
-[submodule "riverplot"]
-	path = riverplot
-	url = https://github.com/cran/riverplot
 [submodule "rivnet"]
 	path = rivnet
 	url = https://github.com/cran/rivnet
