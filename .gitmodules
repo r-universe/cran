@@ -8090,6 +8090,9 @@
 [submodule "LTPDvar"]
 	path = LTPDvar
 	url = https://github.com/cran/LTPDvar
+[submodule "LTRCforests"]
+	path = LTRCforests
+	url = https://github.com/cran/LTRCforests
 [submodule "LTRCtrees"]
 	path = LTRCtrees
 	url = https://github.com/cran/LTRCtrees
@@ -16958,6 +16961,9 @@
 [submodule "TrajDataMining"]
 	path = TrajDataMining
 	url = https://github.com/cran/TrajDataMining
+[submodule "TransGraph"]
+	path = TransGraph
+	url = https://github.com/cran/TransGraph
 [submodule "TransModel"]
 	path = TransModel
 	url = https://github.com/cran/TransModel
@@ -20903,6 +20909,9 @@
 [submodule "bivgeom"]
 	path = bivgeom
 	url = https://github.com/cran/bivgeom
+[submodule "bivpois"]
+	path = bivpois
+	url = https://github.com/cran/bivpois
 [submodule "bivrp"]
 	path = bivrp
 	url = https://github.com/cran/bivrp
@@ -46421,6 +46430,9 @@
 [submodule "pressuRe"]
 	path = pressuRe
 	url = https://github.com/cran/pressuRe
+[submodule "pretest"]
+	path = pretest
+	url = https://github.com/cran/pretest
 [submodule "prettifyAddins"]
 	path = prettifyAddins
 	url = https://github.com/cran/prettifyAddins
@@ -47168,6 +47180,9 @@
 [submodule "qcapower"]
 	path = qcapower
 	url = https://github.com/cran/qcapower
+[submodule "qcauchyreg"]
+	path = qcauchyreg
+	url = https://github.com/cran/qcauchyreg
 [submodule "qcc"]
 	path = qcc
 	url = https://github.com/cran/qcc
@@ -51707,6 +51722,9 @@
 [submodule "scape"]
 	path = scape
 	url = https://github.com/cran/scape
+[submodule "scaper"]
+	path = scaper
+	url = https://github.com/cran/scaper
 [submodule "scapesClassification"]
 	path = scapesClassification
 	url = https://github.com/cran/scapesClassification
