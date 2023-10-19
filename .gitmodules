@@ -24674,6 +24674,9 @@
 [submodule "cruts"]
 	path = cruts
 	url = https://github.com/cran/cruts
+[submodule "crwbmetareg"]
+	path = crwbmetareg
+	url = https://github.com/cran/crwbmetareg
 [submodule "cry"]
 	path = cry
 	url = https://github.com/cran/cry
@@ -25709,6 +25712,9 @@
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
+[submodule "deform"]
+	path = deform
+	url = https://github.com/cran/deform
 [submodule "deformula"]
 	path = deformula
 	url = https://github.com/cran/deformula
@@ -27731,6 +27737,9 @@
 [submodule "eggCounts"]
 	path = eggCounts
 	url = https://github.com/cran/eggCounts
+[submodule "eglhmm"]
+	path = eglhmm
+	url = https://github.com/cran/eglhmm
 [submodule "egor"]
 	path = egor
 	url = https://github.com/cran/egor
