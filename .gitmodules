@@ -37991,6 +37991,9 @@
 [submodule "longRPart2"]
 	path = longRPart2
 	url = https://github.com/cran/longRPart2
+[submodule "longclust"]
+	path = longclust
+	url = https://github.com/cran/longclust
 [submodule "longit"]
 	path = longit
 	url = https://github.com/cran/longit
