@@ -5168,9 +5168,6 @@
 [submodule "FactorCopula"]
 	path = FactorCopula
 	url = https://github.com/cran/FactorCopula
-[submodule "FactorsR"]
-	path = FactorsR
-	url = https://github.com/cran/FactorsR
 [submodule "Factoshiny"]
 	path = Factoshiny
 	url = https://github.com/cran/Factoshiny
