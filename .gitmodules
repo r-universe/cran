@@ -11285,6 +11285,9 @@
 [submodule "PWIR"]
 	path = PWIR
 	url = https://github.com/cran/PWIR
+[submodule "PaLMr"]
+	path = PaLMr
+	url = https://github.com/cran/PaLMr
 [submodule "PaRe"]
 	path = PaRe
 	url = https://github.com/cran/PaRe
@@ -54050,6 +54053,9 @@
 [submodule "sp23design"]
 	path = sp23design
 	url = https://github.com/cran/sp23design
+[submodule "spAbundance"]
+	path = spAbundance
+	url = https://github.com/cran/spAbundance
 [submodule "spAddins"]
 	path = spAddins
 	url = https://github.com/cran/spAddins
