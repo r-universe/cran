@@ -1001,6 +1001,9 @@
 [submodule "BISdata"]
 	path = BISdata
 	url = https://github.com/cran/BISdata
+[submodule "BKTR"]
+	path = BKTR
+	url = https://github.com/cran/BKTR
 [submodule "BLCOP"]
 	path = BLCOP
 	url = https://github.com/cran/BLCOP
@@ -18029,6 +18032,9 @@
 [submodule "acdcR"]
 	path = acdcR
 	url = https://github.com/cran/acdcR
+[submodule "acdcquery"]
+	path = acdcquery
+	url = https://github.com/cran/acdcquery
 [submodule "ace2fastq"]
 	path = ace2fastq
 	url = https://github.com/cran/ace2fastq
@@ -20786,9 +20792,6 @@
 [submodule "biogeo"]
 	path = biogeo
 	url = https://github.com/cran/biogeo
-[submodule "biogeom"]
-	path = biogeom
-	url = https://github.com/cran/biogeom
 [submodule "biogram"]
 	path = biogram
 	url = https://github.com/cran/biogram
@@ -31484,6 +31487,9 @@
 [submodule "geogrid"]
 	path = geogrid
 	url = https://github.com/cran/geogrid
+[submodule "geohabnet"]
+	path = geohabnet
+	url = https://github.com/cran/geohabnet
 [submodule "geohashTools"]
 	path = geohashTools
 	url = https://github.com/cran/geohashTools
@@ -32381,6 +32387,9 @@
 [submodule "githubinstall"]
 	path = githubinstall
 	url = https://github.com/cran/githubinstall
+[submodule "githubr"]
+	path = githubr
+	url = https://github.com/cran/githubr
 [submodule "gitignore"]
 	path = gitignore
 	url = https://github.com/cran/gitignore
@@ -41591,6 +41600,9 @@
 [submodule "mvhist"]
 	path = mvhist
 	url = https://github.com/cran/mvhist
+[submodule "mvhtests"]
+	path = mvhtests
+	url = https://github.com/cran/mvhtests
 [submodule "mvinfluence"]
 	path = mvinfluence
 	url = https://github.com/cran/mvinfluence
