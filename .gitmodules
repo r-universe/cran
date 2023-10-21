@@ -20786,6 +20786,9 @@
 [submodule "biogeo"]
 	path = biogeo
 	url = https://github.com/cran/biogeo
+[submodule "biogeom"]
+	path = biogeom
+	url = https://github.com/cran/biogeom
 [submodule "biogram"]
 	path = biogram
 	url = https://github.com/cran/biogram
@@ -21077,6 +21080,9 @@
 [submodule "bnClustOmics"]
 	path = bnClustOmics
 	url = https://github.com/cran/bnClustOmics
+[submodule "bnclassify"]
+	path = bnclassify
+	url = https://github.com/cran/bnclassify
 [submodule "bndesr"]
 	path = bndesr
 	url = https://github.com/cran/bndesr
@@ -25130,6 +25136,9 @@
 [submodule "dafs"]
 	path = dafs
 	url = https://github.com/cran/dafs
+[submodule "dagHMM"]
+	path = dagHMM
+	url = https://github.com/cran/dagHMM
 [submodule "dagR"]
 	path = dagR
 	url = https://github.com/cran/dagR
@@ -26792,6 +26801,9 @@
 [submodule "dplR"]
 	path = dplR
 	url = https://github.com/cran/dplR
+[submodule "dplbnDE"]
+	path = dplbnDE
+	url = https://github.com/cran/dplbnDE
 [submodule "dplyr"]
 	path = dplyr
 	url = https://github.com/cran/dplyr
