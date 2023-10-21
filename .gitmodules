@@ -34484,9 +34484,6 @@
 [submodule "hybridts"]
 	path = hybridts
 	url = https://github.com/cran/hybridts
-[submodule "hyd1d"]
-	path = hyd1d
-	url = https://github.com/cran/hyd1d
 [submodule "hydflood"]
 	path = hydflood
 	url = https://github.com/cran/hydflood
