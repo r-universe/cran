@@ -19019,9 +19019,6 @@
 [submodule "apportion"]
 	path = apportion
 	url = https://github.com/cran/apportion
-[submodule "approxOT"]
-	path = approxOT
-	url = https://github.com/cran/approxOT
 [submodule "approximator"]
 	path = approximator
 	url = https://github.com/cran/approximator
@@ -22082,9 +22079,6 @@
 [submodule "causalDisco"]
 	path = causalDisco
 	url = https://github.com/cran/causalDisco
-[submodule "causalOT"]
-	path = causalOT
-	url = https://github.com/cran/causalOT
 [submodule "causalPAF"]
 	path = causalPAF
 	url = https://github.com/cran/causalPAF
