@@ -26288,9 +26288,6 @@
 [submodule "disaggR"]
 	path = disaggR
 	url = https://github.com/cran/disaggR
-[submodule "disaggregation"]
-	path = disaggregation
-	url = https://github.com/cran/disaggregation
 [submodule "disbayes"]
 	path = disbayes
 	url = https://github.com/cran/disbayes
