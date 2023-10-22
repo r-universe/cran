@@ -48713,6 +48713,9 @@
 [submodule "rdpower"]
 	path = rdpower
 	url = https://github.com/cran/rdpower
+[submodule "rdracor"]
+	path = rdracor
+	url = https://github.com/cran/rdracor
 [submodule "rdrobust"]
 	path = rdrobust
 	url = https://github.com/cran/rdrobust
