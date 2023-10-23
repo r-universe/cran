@@ -3854,6 +3854,9 @@
 [submodule "DescribeDisplay"]
 	path = DescribeDisplay
 	url = https://github.com/cran/DescribeDisplay
+[submodule "DescriptiveRepresentationCalculator"]
+	path = DescriptiveRepresentationCalculator
+	url = https://github.com/cran/DescriptiveRepresentationCalculator
 [submodule "DescriptiveStats.OBeu"]
 	path = DescriptiveStats.OBeu
 	url = https://github.com/cran/DescriptiveStats.OBeu
@@ -10022,6 +10025,9 @@
 [submodule "NMOF"]
 	path = NMOF
 	url = https://github.com/cran/NMOF
+[submodule "NMRphasing"]
+	path = NMRphasing
+	url = https://github.com/cran/NMRphasing
 [submodule "NMTox"]
 	path = NMTox
 	url = https://github.com/cran/NMTox
@@ -20030,6 +20036,9 @@
 [submodule "bayesTFR"]
 	path = bayesTFR
 	url = https://github.com/cran/bayesTFR
+[submodule "bayesWatch"]
+	path = bayesWatch
+	url = https://github.com/cran/bayesWatch
 [submodule "bayesZIB"]
 	path = bayesZIB
 	url = https://github.com/cran/bayesZIB
@@ -26927,6 +26936,9 @@
 [submodule "drtmle"]
 	path = drtmle
 	url = https://github.com/cran/drtmle
+[submodule "drugDemand"]
+	path = drugDemand
+	url = https://github.com/cran/drugDemand
 [submodule "drugprepr"]
 	path = drugprepr
 	url = https://github.com/cran/drugprepr
@@ -43175,6 +43187,9 @@
 [submodule "odr"]
 	path = odr
 	url = https://github.com/cran/odr
+[submodule "oeli"]
+	path = oeli
+	url = https://github.com/cran/oeli
 [submodule "oem"]
 	path = oem
 	url = https://github.com/cran/oem
@@ -52028,6 +52043,9 @@
 [submodule "sdpt3r"]
 	path = sdpt3r
 	url = https://github.com/cran/sdpt3r
+[submodule "sdtmval"]
+	path = sdtmval
+	url = https://github.com/cran/sdtmval
 [submodule "sdwd"]
 	path = sdwd
 	url = https://github.com/cran/sdwd
@@ -57962,6 +57980,9 @@
 [submodule "tripack"]
 	path = tripack
 	url = https://github.com/cran/tripack
+[submodule "triplesmatch"]
+	path = triplesmatch
+	url = https://github.com/cran/triplesmatch
 [submodule "triplot"]
 	path = triplot
 	url = https://github.com/cran/triplot
