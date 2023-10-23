@@ -49241,6 +49241,9 @@
 [submodule "remss"]
 	path = remss
 	url = https://github.com/cran/remss
+[submodule "renderthis"]
+	path = renderthis
+	url = https://github.com/cran/renderthis
 [submodule "renpow"]
 	path = renpow
 	url = https://github.com/cran/renpow
