@@ -44981,9 +44981,6 @@
 [submodule "pewdata"]
 	path = pewdata
 	url = https://github.com/cran/pewdata
-[submodule "pexm"]
-	path = pexm
-	url = https://github.com/cran/pexm
 [submodule "pez"]
 	path = pez
 	url = https://github.com/cran/pez
