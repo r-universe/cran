@@ -13232,9 +13232,6 @@
 [submodule "RTMB"]
 	path = RTMB
 	url = https://github.com/cran/RTMB
-[submodule "RTOMO"]
-	path = RTOMO
-	url = https://github.com/cran/RTOMO
 [submodule "RTSA"]
 	path = RTSA
 	url = https://github.com/cran/RTSA
@@ -13904,9 +13901,6 @@
 [submodule "Redmonder"]
 	path = Redmonder
 	url = https://github.com/cran/Redmonder
-[submodule "RefBasedMI"]
-	path = RefBasedMI
-	url = https://github.com/cran/RefBasedMI
 [submodule "RefManageR"]
 	path = RefManageR
 	url = https://github.com/cran/RefManageR
@@ -14324,9 +14318,6 @@
 [submodule "Rprofet"]
 	path = Rprofet
 	url = https://github.com/cran/Rprofet
-[submodule "Rquake"]
-	path = Rquake
-	url = https://github.com/cran/Rquake
 [submodule "Rquefts"]
 	path = Rquefts
 	url = https://github.com/cran/Rquefts
@@ -27857,9 +27848,6 @@
 [submodule "electoral"]
 	path = electoral
 	url = https://github.com/cran/electoral
-[submodule "elementR"]
-	path = elementR
-	url = https://github.com/cran/elementR
 [submodule "elevatr"]
 	path = elevatr
 	url = https://github.com/cran/elevatr
@@ -31568,9 +31556,6 @@
 [submodule "geonetwork"]
 	path = geonetwork
 	url = https://github.com/cran/geonetwork
-[submodule "geophys"]
-	path = geophys
-	url = https://github.com/cran/geophys
 [submodule "geos"]
 	path = geos
 	url = https://github.com/cran/geos
@@ -34358,9 +34343,6 @@
 [submodule "htm2txt"]
 	path = htm2txt
 	url = https://github.com/cran/htm2txt
-[submodule "htmcglm"]
-	path = htmcglm
-	url = https://github.com/cran/htmcglm
 [submodule "html2R"]
 	path = html2R
 	url = https://github.com/cran/html2R
@@ -39056,9 +39038,6 @@
 [submodule "mcgibbsit"]
 	path = mcgibbsit
 	url = https://github.com/cran/mcgibbsit
-[submodule "mcglm"]
-	path = mcglm
-	url = https://github.com/cran/mcglm
 [submodule "mclcar"]
 	path = mclcar
 	url = https://github.com/cran/mclcar
@@ -42710,9 +42689,6 @@
 [submodule "norm"]
 	path = norm
 	url = https://github.com/cran/norm
-[submodule "norm2"]
-	path = norm2
-	url = https://github.com/cran/norm2
 [submodule "normalizeH"]
 	path = normalizeH
 	url = https://github.com/cran/normalizeH
