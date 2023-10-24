@@ -5651,6 +5651,9 @@
 [submodule "GE"]
 	path = GE
 	url = https://github.com/cran/GE
+[submodule "GEC"]
+	path = GEC
+	url = https://github.com/cran/GEC
 [submodule "GEEaSPU"]
 	path = GEEaSPU
 	url = https://github.com/cran/GEEaSPU
