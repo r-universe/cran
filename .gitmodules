@@ -2339,6 +2339,9 @@
 [submodule "CTAShiny"]
 	path = CTAShiny
 	url = https://github.com/cran/CTAShiny
+[submodule "CTD"]
+	path = CTD
+	url = https://github.com/cran/CTD
 [submodule "CTM"]
 	path = CTM
 	url = https://github.com/cran/CTM
@@ -16508,6 +16511,9 @@
 [submodule "TP.idm"]
 	path = TP.idm
 	url = https://github.com/cran/TP.idm
+[submodule "TPACData"]
+	path = TPACData
+	url = https://github.com/cran/TPACData
 [submodule "TPCselect"]
 	path = TPCselect
 	url = https://github.com/cran/TPCselect
