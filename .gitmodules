@@ -14750,9 +14750,6 @@
 [submodule "SFS"]
 	path = SFS
 	url = https://github.com/cran/SFS
-[submodule "SFSI"]
-	path = SFSI
-	url = https://github.com/cran/SFSI
 [submodule "SFtools"]
 	path = SFtools
 	url = https://github.com/cran/SFtools
@@ -41210,9 +41207,6 @@
 [submodule "mtlgmm"]
 	path = mtlgmm
 	url = https://github.com/cran/mtlgmm
-[submodule "mtscr"]
-	path = mtscr
-	url = https://github.com/cran/mtscr
 [submodule "mtsdi"]
 	path = mtsdi
 	url = https://github.com/cran/mtsdi
