@@ -14738,6 +14738,9 @@
 [submodule "SEMsens"]
 	path = SEMsens
 	url = https://github.com/cran/SEMsens
+[submodule "SEPaLS"]
+	path = SEPaLS
+	url = https://github.com/cran/SEPaLS
 [submodule "SESraster"]
 	path = SESraster
 	url = https://github.com/cran/SESraster
@@ -22565,6 +22568,9 @@
 [submodule "cholera"]
 	path = cholera
 	url = https://github.com/cran/cholera
+[submodule "choosepc"]
+	path = choosepc
+	url = https://github.com/cran/choosepc
 [submodule "choplump"]
 	path = choplump
 	url = https://github.com/cran/choplump
@@ -23375,6 +23381,9 @@
 [submodule "collin"]
 	path = collin
 	url = https://github.com/cran/collin
+[submodule "collinear"]
+	path = collinear
+	url = https://github.com/cran/collinear
 [submodule "collpcm"]
 	path = collpcm
 	url = https://github.com/cran/collpcm
@@ -25208,6 +25217,9 @@
 [submodule "dataSDA"]
 	path = dataSDA
 	url = https://github.com/cran/dataSDA
+[submodule "databraryr"]
+	path = databraryr
+	url = https://github.com/cran/databraryr
 [submodule "dataclass"]
 	path = dataclass
 	url = https://github.com/cran/dataclass
