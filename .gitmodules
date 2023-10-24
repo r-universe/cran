@@ -30353,9 +30353,6 @@
 [submodule "fqadata"]
 	path = fqadata
 	url = https://github.com/cran/fqadata
-[submodule "fqar"]
-	path = fqar
-	url = https://github.com/cran/fqar
 [submodule "frab"]
 	path = frab
 	url = https://github.com/cran/frab
@@ -34484,9 +34481,6 @@
 [submodule "hyd1d"]
 	path = hyd1d
 	url = https://github.com/cran/hyd1d
-[submodule "hydflood"]
-	path = hydflood
-	url = https://github.com/cran/hydflood
 [submodule "hydra"]
 	path = hydra
 	url = https://github.com/cran/hydra
