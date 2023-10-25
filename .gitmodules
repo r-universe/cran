@@ -35987,9 +35987,6 @@
 [submodule "ivreg"]
 	path = ivreg
 	url = https://github.com/cran/ivreg
-[submodule "ivregEX"]
-	path = ivregEX
-	url = https://github.com/cran/ivregEX
 [submodule "ivs"]
 	path = ivs
 	url = https://github.com/cran/ivs
