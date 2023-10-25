@@ -32696,6 +32696,9 @@
 [submodule "gmnl"]
 	path = gmnl
 	url = https://github.com/cran/gmnl
+[submodule "gmoTree"]
+	path = gmoTree
+	url = https://github.com/cran/gmoTree
 [submodule "gmodels"]
 	path = gmodels
 	url = https://github.com/cran/gmodels
@@ -33587,6 +33590,9 @@
 [submodule "hagis"]
 	path = hagis
 	url = https://github.com/cran/hagis
+[submodule "hahmmr"]
+	path = hahmmr
+	url = https://github.com/cran/hahmmr
 [submodule "hakaiApi"]
 	path = hakaiApi
 	url = https://github.com/cran/hakaiApi
@@ -41495,6 +41501,9 @@
 [submodule "multitaper"]
 	path = multitaper
 	url = https://github.com/cran/multitaper
+[submodule "multitool"]
+	path = multitool
+	url = https://github.com/cran/multitool
 [submodule "multivar"]
 	path = multivar
 	url = https://github.com/cran/multivar
@@ -43808,6 +43817,9 @@
 [submodule "osd"]
 	path = osd
 	url = https://github.com/cran/osd
+[submodule "osdatahub"]
+	path = osdatahub
+	url = https://github.com/cran/osdatahub
 [submodule "osfr"]
 	path = osfr
 	url = https://github.com/cran/osfr
@@ -44747,6 +44759,9 @@
 [submodule "pecora"]
 	path = pecora
 	url = https://github.com/cran/pecora
+[submodule "pedFamilias"]
+	path = pedFamilias
+	url = https://github.com/cran/pedFamilias
 [submodule "pedSimulate"]
 	path = pedSimulate
 	url = https://github.com/cran/pedSimulate
