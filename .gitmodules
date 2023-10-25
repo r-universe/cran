@@ -4019,9 +4019,6 @@
 [submodule "DivE"]
 	path = DivE
 	url = https://github.com/cran/DivE
-[submodule "DivInsight"]
-	path = DivInsight
-	url = https://github.com/cran/DivInsight
 [submodule "DiversificationR"]
 	path = DiversificationR
 	url = https://github.com/cran/DiversificationR
@@ -26201,9 +26198,6 @@
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/cran/dimensio
-[submodule "dimensionalAnalysis"]
-	path = dimensionalAnalysis
-	url = https://github.com/cran/dimensionalAnalysis
 [submodule "dimensionsR"]
 	path = dimensionsR
 	url = https://github.com/cran/dimensionsR
