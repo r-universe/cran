@@ -20099,6 +20099,9 @@
 [submodule "bayesmix"]
 	path = bayesmix
 	url = https://github.com/cran/bayesmix
+[submodule "bayesmlogit"]
+	path = bayesmlogit
+	url = https://github.com/cran/bayesmlogit
 [submodule "bayesmove"]
 	path = bayesmove
 	url = https://github.com/cran/bayesmove
@@ -23993,6 +23996,9 @@
 [submodule "copent"]
 	path = copent
 	url = https://github.com/cran/copent
+[submodule "cophescan"]
+	path = cophescan
+	url = https://github.com/cran/cophescan
 [submodule "coppeCosenzaR"]
 	path = coppeCosenzaR
 	url = https://github.com/cran/coppeCosenzaR
@@ -25670,6 +25676,9 @@
 [submodule "deductive"]
 	path = deductive
 	url = https://github.com/cran/deductive
+[submodule "deduped"]
+	path = deduped
+	url = https://github.com/cran/deduped
 [submodule "dedupewider"]
 	path = dedupewider
 	url = https://github.com/cran/dedupewider
@@ -28124,6 +28133,9 @@
 [submodule "envstat"]
 	path = envstat
 	url = https://github.com/cran/envstat
+[submodule "envvar"]
+	path = envvar
+	url = https://github.com/cran/envvar
 [submodule "eoR"]
 	path = eoR
 	url = https://github.com/cran/eoR
@@ -30707,6 +30719,9 @@
 [submodule "funspace"]
 	path = funspace
 	url = https://github.com/cran/funspace
+[submodule "funspotr"]
+	path = funspotr
+	url = https://github.com/cran/funspotr
 [submodule "funtimes"]
 	path = funtimes
 	url = https://github.com/cran/funtimes
