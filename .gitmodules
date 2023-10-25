@@ -1667,6 +1667,9 @@
 [submodule "BlandAltmanLeh"]
 	path = BlandAltmanLeh
 	url = https://github.com/cran/BlandAltmanLeh
+[submodule "BlanketStatsments"]
+	path = BlanketStatsments
+	url = https://github.com/cran/BlanketStatsments
 [submodule "Blaunet"]
 	path = Blaunet
 	url = https://github.com/cran/Blaunet
@@ -14753,6 +14756,9 @@
 [submodule "SFS"]
 	path = SFS
 	url = https://github.com/cran/SFS
+[submodule "SFSI"]
+	path = SFSI
+	url = https://github.com/cran/SFSI
 [submodule "SFtools"]
 	path = SFtools
 	url = https://github.com/cran/SFtools
@@ -18860,6 +18866,9 @@
 [submodule "anomalize"]
 	path = anomalize
 	url = https://github.com/cran/anomalize
+[submodule "anomaly"]
+	path = anomaly
+	url = https://github.com/cran/anomaly
 [submodule "anovir"]
 	path = anovir
 	url = https://github.com/cran/anovir
@@ -19328,9 +19337,27 @@
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/cran/assertions
+[submodule "assertive"]
+	path = assertive
+	url = https://github.com/cran/assertive
 [submodule "assertive.base"]
 	path = assertive.base
 	url = https://github.com/cran/assertive.base
+[submodule "assertive.code"]
+	path = assertive.code
+	url = https://github.com/cran/assertive.code
+[submodule "assertive.data"]
+	path = assertive.data
+	url = https://github.com/cran/assertive.data
+[submodule "assertive.data.uk"]
+	path = assertive.data.uk
+	url = https://github.com/cran/assertive.data.uk
+[submodule "assertive.data.us"]
+	path = assertive.data.us
+	url = https://github.com/cran/assertive.data.us
+[submodule "assertive.datetimes"]
+	path = assertive.datetimes
+	url = https://github.com/cran/assertive.datetimes
 [submodule "assertive.files"]
 	path = assertive.files
 	url = https://github.com/cran/assertive.files
@@ -19343,12 +19370,21 @@
 [submodule "assertive.numbers"]
 	path = assertive.numbers
 	url = https://github.com/cran/assertive.numbers
+[submodule "assertive.properties"]
+	path = assertive.properties
+	url = https://github.com/cran/assertive.properties
 [submodule "assertive.reflection"]
 	path = assertive.reflection
 	url = https://github.com/cran/assertive.reflection
 [submodule "assertive.sets"]
 	path = assertive.sets
 	url = https://github.com/cran/assertive.sets
+[submodule "assertive.strings"]
+	path = assertive.strings
+	url = https://github.com/cran/assertive.strings
+[submodule "assertive.types"]
+	path = assertive.types
+	url = https://github.com/cran/assertive.types
 [submodule "assertr"]
 	path = assertr
 	url = https://github.com/cran/assertr
@@ -19697,6 +19733,9 @@
 [submodule "babelwhale"]
 	path = babelwhale
 	url = https://github.com/cran/babelwhale
+[submodule "babette"]
+	path = babette
+	url = https://github.com/cran/babette
 [submodule "babsim.hospital"]
 	path = babsim.hospital
 	url = https://github.com/cran/babsim.hospital
@@ -19856,6 +19895,9 @@
 [submodule "baseballr"]
 	path = baseballr
 	url = https://github.com/cran/baseballr
+[submodule "basecamb"]
+	path = basecamb
+	url = https://github.com/cran/basecamb
 [submodule "basedosdados"]
 	path = basedosdados
 	url = https://github.com/cran/basedosdados
@@ -20261,6 +20303,12 @@
 [submodule "beast"]
 	path = beast
 	url = https://github.com/cran/beast
+[submodule "beastier"]
+	path = beastier
+	url = https://github.com/cran/beastier
+[submodule "beautier"]
+	path = beautier
+	url = https://github.com/cran/beautier
 [submodule "bedr"]
 	path = bedr
 	url = https://github.com/cran/bedr
@@ -21251,6 +21299,9 @@
 [submodule "bpgmm"]
 	path = bpgmm
 	url = https://github.com/cran/bpgmm
+[submodule "bpmnR"]
+	path = bpmnR
+	url = https://github.com/cran/bpmnR
 [submodule "bpmnVisualizationR"]
 	path = bpmnVisualizationR
 	url = https://github.com/cran/bpmnVisualizationR
@@ -29954,6 +30005,9 @@
 [submodule "flipdownr"]
 	path = flipdownr
 	url = https://github.com/cran/flipdownr
+[submodule "flippant"]
+	path = flippant
+	url = https://github.com/cran/flippant
 [submodule "flipr"]
 	path = flipr
 	url = https://github.com/cran/flipr
@@ -30320,6 +30374,9 @@
 [submodule "fqadata"]
 	path = fqadata
 	url = https://github.com/cran/fqadata
+[submodule "fqar"]
+	path = fqar
+	url = https://github.com/cran/fqar
 [submodule "frab"]
 	path = frab
 	url = https://github.com/cran/frab
@@ -34448,6 +34505,9 @@
 [submodule "hyd1d"]
 	path = hyd1d
 	url = https://github.com/cran/hyd1d
+[submodule "hydflood"]
+	path = hydflood
+	url = https://github.com/cran/hydflood
 [submodule "hydra"]
 	path = hydra
 	url = https://github.com/cran/hydra
@@ -34550,6 +34610,9 @@
 [submodule "i18n"]
 	path = i18n
 	url = https://github.com/cran/i18n
+[submodule "i2dash"]
+	path = i2dash
+	url = https://github.com/cran/i2dash
 [submodule "i2extras"]
 	path = i2extras
 	url = https://github.com/cran/i2extras
@@ -38852,6 +38915,9 @@
 [submodule "mau"]
 	path = mau
 	url = https://github.com/cran/mau
+[submodule "mauricer"]
+	path = mauricer
+	url = https://github.com/cran/mauricer
 [submodule "maxLik"]
 	path = maxLik
 	url = https://github.com/cran/maxLik
@@ -38951,6 +39017,9 @@
 [submodule "mcb"]
 	path = mcb
 	url = https://github.com/cran/mcb
+[submodule "mcbette"]
+	path = mcbette
+	url = https://github.com/cran/mcbette
 [submodule "mcbiopi"]
 	path = mcbiopi
 	url = https://github.com/cran/mcbiopi
@@ -41159,6 +41228,9 @@
 [submodule "mtlgmm"]
 	path = mtlgmm
 	url = https://github.com/cran/mtlgmm
+[submodule "mtscr"]
+	path = mtscr
+	url = https://github.com/cran/mtscr
 [submodule "mtsdi"]
 	path = mtsdi
 	url = https://github.com/cran/mtsdi
@@ -41315,6 +41387,9 @@
 [submodule "multigroup"]
 	path = multigroup
 	url = https://github.com/cran/multigroup
+[submodule "multilateral"]
+	path = multilateral
+	url = https://github.com/cran/multilateral
 [submodule "multilaterals"]
 	path = multilaterals
 	url = https://github.com/cran/multilaterals
@@ -41375,6 +41450,9 @@
 [submodule "multiocc"]
 	path = multiocc
 	url = https://github.com/cran/multiocc
+[submodule "multipanelfigure"]
+	path = multipanelfigure
+	url = https://github.com/cran/multipanelfigure
 [submodule "multipleNCC"]
 	path = multipleNCC
 	url = https://github.com/cran/multipleNCC
@@ -42038,6 +42116,9 @@
 [submodule "netmeta"]
 	path = netmeta
 	url = https://github.com/cran/netmeta
+[submodule "netmhc2pan"]
+	path = netmhc2pan
+	url = https://github.com/cran/netmhc2pan
 [submodule "netplot"]
 	path = netplot
 	url = https://github.com/cran/netplot
@@ -42509,6 +42590,9 @@
 [submodule "node2vec"]
 	path = node2vec
 	url = https://github.com/cran/node2vec
+[submodule "nodeSub"]
+	path = nodeSub
+	url = https://github.com/cran/nodeSub
 [submodule "nodiv"]
 	path = nodiv
 	url = https://github.com/cran/nodiv
@@ -44801,6 +44885,9 @@
 [submodule "perccalc"]
 	path = perccalc
 	url = https://github.com/cran/perccalc
+[submodule "percentiles"]
+	path = percentiles
+	url = https://github.com/cran/percentiles
 [submodule "perfectphyloR"]
 	path = perfectphyloR
 	url = https://github.com/cran/perfectphyloR
@@ -45293,6 +45380,9 @@
 [submodule "piratings"]
 	path = piratings
 	url = https://github.com/cran/piratings
+[submodule "pirouette"]
+	path = pirouette
+	url = https://github.com/cran/pirouette
 [submodule "pisaRT"]
 	path = pisaRT
 	url = https://github.com/cran/pisaRT
@@ -45764,6 +45854,9 @@
 [submodule "pointr"]
 	path = pointr
 	url = https://github.com/cran/pointr
+[submodule "poio"]
+	path = poio
+	url = https://github.com/cran/poio
 [submodule "poisDoubleSamp"]
 	path = poisDoubleSamp
 	url = https://github.com/cran/poisDoubleSamp
@@ -48632,6 +48725,9 @@
 [submodule "rdrobust"]
 	path = rdrobust
 	url = https://github.com/cran/rdrobust
+[submodule "rdrop2"]
+	path = rdrop2
+	url = https://github.com/cran/rdrop2
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/cran/rdryad
@@ -56501,6 +56597,9 @@
 [submodule "tensorflow"]
 	path = tensorflow
 	url = https://github.com/cran/tensorflow
+[submodule "tensorr"]
+	path = tensorr
+	url = https://github.com/cran/tensorr
 [submodule "tensorregress"]
 	path = tensorregress
 	url = https://github.com/cran/tensorregress
@@ -58085,6 +58184,9 @@
 [submodule "ttScreening"]
 	path = ttScreening
 	url = https://github.com/cran/ttScreening
+[submodule "ttTensor"]
+	path = ttTensor
+	url = https://github.com/cran/ttTensor
 [submodule "ttbary"]
 	path = ttbary
 	url = https://github.com/cran/ttbary
@@ -59144,6 +59246,9 @@
 [submodule "visreg"]
 	path = visreg
 	url = https://github.com/cran/visreg
+[submodule "vistime"]
+	path = vistime
+	url = https://github.com/cran/vistime
 [submodule "vistla"]
 	path = vistla
 	url = https://github.com/cran/vistla
