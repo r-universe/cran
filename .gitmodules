@@ -23111,9 +23111,6 @@
 [submodule "clustermole"]
 	path = clustermole
 	url = https://github.com/cran/clustermole
-[submodule "clustermq"]
-	path = clustermq
-	url = https://github.com/cran/clustermq
 [submodule "clusternomics"]
 	path = clusternomics
 	url = https://github.com/cran/clusternomics
@@ -34133,9 +34130,6 @@
 [submodule "historicalborrow"]
 	path = historicalborrow
 	url = https://github.com/cran/historicalborrow
-[submodule "historicalborrowlong"]
-	path = historicalborrowlong
-	url = https://github.com/cran/historicalborrowlong
 [submodule "historydata"]
 	path = historydata
 	url = https://github.com/cran/historydata
