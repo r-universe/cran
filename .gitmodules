@@ -54659,9 +54659,6 @@
 [submodule "splmm"]
 	path = splmm
 	url = https://github.com/cran/splmm
-[submodule "splot"]
-	path = splot
-	url = https://github.com/cran/splot
 [submodule "spls"]
 	path = spls
 	url = https://github.com/cran/spls
