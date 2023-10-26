@@ -25946,6 +25946,9 @@
 [submodule "detector"]
 	path = detector
 	url = https://github.com/cran/detector
+[submodule "detectors"]
+	path = detectors
+	url = https://github.com/cran/detectors
 [submodule "detectseparation"]
 	path = detectseparation
 	url = https://github.com/cran/detectseparation
