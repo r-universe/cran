@@ -26537,6 +26537,9 @@
 [submodule "divseg"]
 	path = divseg
 	url = https://github.com/cran/divseg
+[submodule "divvy"]
+	path = divvy
+	url = https://github.com/cran/divvy
 [submodule "dixon"]
 	path = dixon
 	url = https://github.com/cran/dixon
@@ -51404,6 +51407,9 @@
 [submodule "samc"]
 	path = samc
 	url = https://github.com/cran/samc
+[submodule "samon"]
+	path = samon
+	url = https://github.com/cran/samon
 [submodule "sampleSelection"]
 	path = sampleSelection
 	url = https://github.com/cran/sampleSelection
