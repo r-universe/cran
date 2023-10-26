@@ -16505,6 +16505,9 @@
 [submodule "TP.idm"]
 	path = TP.idm
 	url = https://github.com/cran/TP.idm
+[submodule "TPAC"]
+	path = TPAC
+	url = https://github.com/cran/TPAC
 [submodule "TPACData"]
 	path = TPACData
 	url = https://github.com/cran/TPACData
@@ -20312,6 +20315,9 @@
 [submodule "beezdemand"]
 	path = beezdemand
 	url = https://github.com/cran/beezdemand
+[submodule "beezdiscounting"]
+	path = beezdiscounting
+	url = https://github.com/cran/beezdiscounting
 [submodule "befproj"]
 	path = befproj
 	url = https://github.com/cran/befproj
@@ -45950,6 +45956,9 @@
 [submodule "polyglotr"]
 	path = polyglotr
 	url = https://github.com/cran/polyglotr
+[submodule "polyhedralCubature"]
+	path = polyhedralCubature
+	url = https://github.com/cran/polyhedralCubature
 [submodule "polylabelr"]
 	path = polylabelr
 	url = https://github.com/cran/polylabelr
@@ -51845,6 +51854,9 @@
 [submodule "scistreer"]
 	path = scistreer
 	url = https://github.com/cran/scistreer
+[submodule "scitb"]
+	path = scitb
+	url = https://github.com/cran/scitb
 [submodule "sclr"]
 	path = sclr
 	url = https://github.com/cran/sclr
