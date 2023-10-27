@@ -10280,6 +10280,9 @@
 [submodule "NonProbEst"]
 	path = NonProbEst
 	url = https://github.com/cran/NonProbEst
+[submodule "NonlinearRDD"]
+	path = NonlinearRDD
+	url = https://github.com/cran/NonlinearRDD
 [submodule "NonlinearTSA"]
 	path = NonlinearTSA
 	url = https://github.com/cran/NonlinearTSA
@@ -24101,6 +24104,9 @@
 [submodule "correspondenceTables"]
 	path = correspondenceTables
 	url = https://github.com/cran/correspondenceTables
+[submodule "corrfuns"]
+	path = corrfuns
+	url = https://github.com/cran/corrfuns
 [submodule "corrgram"]
 	path = corrgram
 	url = https://github.com/cran/corrgram
@@ -27188,9 +27194,6 @@
 [submodule "dynr"]
 	path = dynr
 	url = https://github.com/cran/dynr
-[submodule "dynsbm"]
-	path = dynsbm
-	url = https://github.com/cran/dynsbm
 [submodule "dynsim"]
 	path = dynsim
 	url = https://github.com/cran/dynsim
@@ -39461,6 +39464,9 @@
 [submodule "metalite.ae"]
 	path = metalite.ae
 	url = https://github.com/cran/metalite.ae
+[submodule "metalite.table1"]
+	path = metalite.table1
+	url = https://github.com/cran/metalite.table1
 [submodule "metamedian"]
 	path = metamedian
 	url = https://github.com/cran/metamedian
@@ -40793,9 +40799,6 @@
 [submodule "mopac"]
 	path = mopac
 	url = https://github.com/cran/mopac
-[submodule "moranajp"]
-	path = moranajp
-	url = https://github.com/cran/moranajp
 [submodule "moreparty"]
 	path = moreparty
 	url = https://github.com/cran/moreparty
@@ -45701,6 +45704,9 @@
 [submodule "pluscode"]
 	path = pluscode
 	url = https://github.com/cran/pluscode
+[submodule "plutor"]
+	path = plutor
+	url = https://github.com/cran/plutor
 [submodule "plyr"]
 	path = plyr
 	url = https://github.com/cran/plyr
@@ -49913,9 +49919,6 @@
 [submodule "rlibkriging"]
 	path = rlibkriging
 	url = https://github.com/cran/rlibkriging
-[submodule "rliger"]
-	path = rliger
-	url = https://github.com/cran/rliger
 [submodule "rlist"]
 	path = rlist
 	url = https://github.com/cran/rlist
