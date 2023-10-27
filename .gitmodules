@@ -12491,6 +12491,9 @@
 [submodule "RFishBC"]
 	path = RFishBC
 	url = https://github.com/cran/RFishBC
+[submodule "RFlocalfdr.data"]
+	path = RFlocalfdr.data
+	url = https://github.com/cran/RFlocalfdr.data
 [submodule "RFormatter"]
 	path = RFormatter
 	url = https://github.com/cran/RFormatter
