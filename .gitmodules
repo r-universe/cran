@@ -3455,6 +3455,9 @@
 [submodule "DMMF"]
 	path = DMMF
 	url = https://github.com/cran/DMMF
+[submodule "DMQ"]
+	path = DMQ
+	url = https://github.com/cran/DMQ
 [submodule "DMRMark"]
 	path = DMRMark
 	url = https://github.com/cran/DMRMark
@@ -7088,6 +7091,9 @@
 [submodule "INLABMA"]
 	path = INLABMA
 	url = https://github.com/cran/INLABMA
+[submodule "INLAjoint"]
+	path = INLAjoint
+	url = https://github.com/cran/INLAjoint
 [submodule "INLAspacetime"]
 	path = INLAspacetime
 	url = https://github.com/cran/INLAspacetime
@@ -23468,6 +23474,9 @@
 [submodule "colorr"]
 	path = colorr
 	url = https://github.com/cran/colorr
+[submodule "colorsGen"]
+	path = colorsGen
+	url = https://github.com/cran/colorsGen
 [submodule "colorscience"]
 	path = colorscience
 	url = https://github.com/cran/colorscience
@@ -25685,6 +25694,9 @@
 [submodule "default"]
 	path = default
 	url = https://github.com/cran/default
+[submodule "defineOptions"]
+	path = defineOptions
+	url = https://github.com/cran/defineOptions
 [submodule "defineR"]
 	path = defineR
 	url = https://github.com/cran/defineR
