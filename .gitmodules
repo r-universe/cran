@@ -52166,6 +52166,9 @@
 [submodule "selenider"]
 	path = selenider
 	url = https://github.com/cran/selenider
+[submodule "selenium"]
+	path = selenium
+	url = https://github.com/cran/selenium
 [submodule "seleniumPipes"]
 	path = seleniumPipes
 	url = https://github.com/cran/seleniumPipes
@@ -53639,6 +53642,9 @@
 [submodule "smartmap"]
 	path = smartmap
 	url = https://github.com/cran/smartmap
+[submodule "smartsheetr"]
+	path = smartsheetr
+	url = https://github.com/cran/smartsheetr
 [submodule "smartsizer"]
 	path = smartsizer
 	url = https://github.com/cran/smartsizer
