@@ -42056,9 +42056,6 @@
 [submodule "netgen"]
 	path = netgen
 	url = https://github.com/cran/netgen
-[submodule "netgsa"]
-	path = netgsa
-	url = https://github.com/cran/netgsa
 [submodule "netgwas"]
 	path = netgwas
 	url = https://github.com/cran/netgwas
