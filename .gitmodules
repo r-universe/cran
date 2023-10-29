@@ -48473,9 +48473,6 @@
 [submodule "rbmn"]
 	path = rbmn
 	url = https://github.com/cran/rbmn
-[submodule "rbokeh"]
-	path = rbokeh
-	url = https://github.com/cran/rbokeh
 [submodule "rbooster"]
 	path = rbooster
 	url = https://github.com/cran/rbooster
@@ -56717,9 +56714,6 @@
 [submodule "texter"]
 	path = texter
 	url = https://github.com/cran/texter
-[submodule "textfeatures"]
-	path = textfeatures
-	url = https://github.com/cran/textfeatures
 [submodule "textgRid"]
 	path = textgRid
 	url = https://github.com/cran/textgRid
@@ -57902,9 +57896,6 @@
 [submodule "triangulr"]
 	path = triangulr
 	url = https://github.com/cran/triangulr
-[submodule "tribe"]
-	path = tribe
-	url = https://github.com/cran/tribe
 [submodule "triebeard"]
 	path = triebeard
 	url = https://github.com/cran/triebeard
