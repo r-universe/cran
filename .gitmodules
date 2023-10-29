@@ -45125,9 +45125,6 @@
 [submodule "phonenumber"]
 	path = phonenumber
 	url = https://github.com/cran/phonenumber
-[submodule "phonfieldwork"]
-	path = phonfieldwork
-	url = https://github.com/cran/phonfieldwork
 [submodule "phonics"]
 	path = phonics
 	url = https://github.com/cran/phonics
@@ -58379,9 +58376,6 @@
 [submodule "ubms"]
 	path = ubms
 	url = https://github.com/cran/ubms
-[submodule "uchardet"]
-	path = uchardet
-	url = https://github.com/cran/uchardet
 [submodule "uci"]
 	path = uci
 	url = https://github.com/cran/uci
