@@ -26540,9 +26540,6 @@
 [submodule "dixonTest"]
 	path = dixonTest
 	url = https://github.com/cran/dixonTest
-[submodule "diyar"]
-	path = diyar
-	url = https://github.com/cran/diyar
 [submodule "dkDNA"]
 	path = dkDNA
 	url = https://github.com/cran/dkDNA
