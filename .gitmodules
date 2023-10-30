@@ -43850,6 +43850,9 @@
 [submodule "owdbr"]
 	path = owdbr
 	url = https://github.com/cran/owdbr
+[submodule "owidR"]
+	path = owidR
+	url = https://github.com/cran/owidR
 [submodule "owmr"]
 	path = owmr
 	url = https://github.com/cran/owmr
