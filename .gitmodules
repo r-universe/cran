@@ -869,6 +869,9 @@
 [submodule "BClustLonG"]
 	path = BClustLonG
 	url = https://github.com/cran/BClustLonG
+[submodule "BDAlgo"]
+	path = BDAlgo
+	url = https://github.com/cran/BDAlgo
 [submodule "BDEsize"]
 	path = BDEsize
 	url = https://github.com/cran/BDEsize
@@ -8294,6 +8297,9 @@
 [submodule "LocKer"]
 	path = LocKer
 	url = https://github.com/cran/LocKer
+[submodule "LocaTT"]
+	path = LocaTT
+	url = https://github.com/cran/LocaTT
 [submodule "LocalControl"]
 	path = LocalControl
 	url = https://github.com/cran/LocalControl
@@ -23489,6 +23495,9 @@
 [submodule "colourvision"]
 	path = colourvision
 	url = https://github.com/cran/colourvision
+[submodule "cols"]
+	path = cols
+	url = https://github.com/cran/cols
 [submodule "cols4all"]
 	path = cols4all
 	url = https://github.com/cran/cols4all
@@ -26654,6 +26663,9 @@
 [submodule "dockerfiler"]
 	path = dockerfiler
 	url = https://github.com/cran/dockerfiler
+[submodule "docket"]
+	path = docket
+	url = https://github.com/cran/docket
 [submodule "docknitr"]
 	path = docknitr
 	url = https://github.com/cran/docknitr
@@ -26750,6 +26762,9 @@
 [submodule "dots"]
 	path = dots
 	url = https://github.com/cran/dots
+[submodule "dotsViolin"]
+	path = dotsViolin
+	url = https://github.com/cran/dotsViolin
 [submodule "dotwhisker"]
 	path = dotwhisker
 	url = https://github.com/cran/dotwhisker
@@ -35399,6 +35414,9 @@
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cran/intamap
+[submodule "intamapInteractive"]
+	path = intamapInteractive
+	url = https://github.com/cran/intamapInteractive
 [submodule "intccr"]
 	path = intccr
 	url = https://github.com/cran/intccr
@@ -37028,6 +37046,9 @@
 [submodule "lax"]
 	path = lax
 	url = https://github.com/cran/lax
+[submodule "lay"]
+	path = lay
+	url = https://github.com/cran/lay
 [submodule "lazy"]
 	path = lazy
 	url = https://github.com/cran/lazy
@@ -37718,6 +37739,9 @@
 [submodule "lmfor"]
 	path = lmfor
 	url = https://github.com/cran/lmfor
+[submodule "lmhelprs"]
+	path = lmhelprs
+	url = https://github.com/cran/lmhelprs
 [submodule "lmls"]
 	path = lmls
 	url = https://github.com/cran/lmls
@@ -50741,6 +50765,9 @@
 [submodule "rsnell"]
 	path = rsnell
 	url = https://github.com/cran/rsnell
+[submodule "rsofun"]
+	path = rsofun
+	url = https://github.com/cran/rsofun
 [submodule "rsoi"]
 	path = rsoi
 	url = https://github.com/cran/rsoi
@@ -56159,6 +56186,9 @@
 [submodule "tLagPropOdds"]
 	path = tLagPropOdds
 	url = https://github.com/cran/tLagPropOdds
+[submodule "tRigon"]
+	path = tRigon
+	url = https://github.com/cran/tRigon
 [submodule "tRnslate"]
 	path = tRnslate
 	url = https://github.com/cran/tRnslate
