@@ -16172,9 +16172,6 @@
 [submodule "SubVis"]
 	path = SubVis
 	url = https://github.com/cran/SubVis
-[submodule "SubgrPlots"]
-	path = SubgrPlots
-	url = https://github.com/cran/SubgrPlots
 [submodule "SubpathwayLNCE"]
 	path = SubpathwayLNCE
 	url = https://github.com/cran/SubpathwayLNCE
@@ -21059,9 +21056,6 @@
 [submodule "bmscstan"]
 	path = bmscstan
 	url = https://github.com/cran/bmscstan
-[submodule "bmstdr"]
-	path = bmstdr
-	url = https://github.com/cran/bmstdr
 [submodule "bnClustOmics"]
 	path = bnClustOmics
 	url = https://github.com/cran/bnClustOmics
@@ -37004,9 +36998,6 @@
 [submodule "lattice"]
 	path = lattice
 	url = https://github.com/cran/lattice
-[submodule "latticeDensity"]
-	path = latticeDensity
-	url = https://github.com/cran/latticeDensity
 [submodule "latticeExtra"]
 	path = latticeExtra
 	url = https://github.com/cran/latticeExtra
@@ -48935,9 +48926,6 @@
 [submodule "recurrentpseudo"]
 	path = recurrentpseudo
 	url = https://github.com/cran/recurrentpseudo
-[submodule "recurse"]
-	path = recurse
-	url = https://github.com/cran/recurse
 [submodule "red"]
 	path = red
 	url = https://github.com/cran/red
