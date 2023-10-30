@@ -1169,9 +1169,6 @@
 [submodule "BTYDplus"]
 	path = BTYDplus
 	url = https://github.com/cran/BTYDplus
-[submodule "BTdecayLasso"]
-	path = BTdecayLasso
-	url = https://github.com/cran/BTdecayLasso
 [submodule "BUCSS"]
 	path = BUCSS
 	url = https://github.com/cran/BUCSS
@@ -1514,9 +1511,6 @@
 [submodule "BiDimRegression"]
 	path = BiDimRegression
 	url = https://github.com/cran/BiDimRegression
-[submodule "BiProbitPartial"]
-	path = BiProbitPartial
-	url = https://github.com/cran/BiProbitPartial
 [submodule "BiSEp"]
 	path = BiSEp
 	url = https://github.com/cran/BiSEp
@@ -1631,9 +1625,6 @@
 [submodule "BiplotGUI"]
 	path = BiplotGUI
 	url = https://github.com/cran/BiplotGUI
-[submodule "BiplotML"]
-	path = BiplotML
-	url = https://github.com/cran/BiplotML
 [submodule "BisRNA"]
 	path = BisRNA
 	url = https://github.com/cran/BisRNA
@@ -3992,9 +3983,6 @@
 [submodule "DiscreteWeibull"]
 	path = DiscreteWeibull
 	url = https://github.com/cran/DiscreteWeibull
-[submodule "Disequilibrium"]
-	path = Disequilibrium
-	url = https://github.com/cran/Disequilibrium
 [submodule "DisimForMixed"]
 	path = DisimForMixed
 	url = https://github.com/cran/DisimForMixed
@@ -7328,9 +7316,6 @@
 [submodule "Inflation"]
 	path = Inflation
 	url = https://github.com/cran/Inflation
-[submodule "Inflect"]
-	path = Inflect
-	url = https://github.com/cran/Inflect
 [submodule "InflectSSP"]
 	path = InflectSSP
 	url = https://github.com/cran/InflectSSP
@@ -9716,9 +9701,6 @@
 [submodule "MultAlloc"]
 	path = MultAlloc
 	url = https://github.com/cran/MultAlloc
-[submodule "MultBiplotR"]
-	path = MultBiplotR
-	url = https://github.com/cran/MultBiplotR
 [submodule "MultEq"]
 	path = MultEq
 	url = https://github.com/cran/MultEq
@@ -13487,9 +13469,6 @@
 [submodule "RcextTools"]
 	path = RcextTools
 	url = https://github.com/cran/RcextTools
-[submodule "Rcgmin"]
-	path = Rcgmin
-	url = https://github.com/cran/Rcgmin
 [submodule "RchivalTag"]
 	path = RchivalTag
 	url = https://github.com/cran/RchivalTag
@@ -14423,9 +14402,6 @@
 [submodule "Rveg"]
 	path = Rveg
 	url = https://github.com/cran/Rveg
-[submodule "Rvmmin"]
-	path = Rvmmin
-	url = https://github.com/cran/Rvmmin
 [submodule "Rwave"]
 	path = Rwave
 	url = https://github.com/cran/Rwave
@@ -15698,9 +15674,6 @@
 [submodule "SkewHyperbolic"]
 	path = SkewHyperbolic
 	url = https://github.com/cran/SkewHyperbolic
-[submodule "SkeweDF"]
-	path = SkeweDF
-	url = https://github.com/cran/SkeweDF
 [submodule "Skillings.Mack"]
 	path = Skillings.Mack
 	url = https://github.com/cran/Skillings.Mack
@@ -17840,9 +17813,6 @@
 [submodule "ZIPFA"]
 	path = ZIPFA
 	url = https://github.com/cran/ZIPFA
-[submodule "ZIPG"]
-	path = ZIPG
-	url = https://github.com/cran/ZIPG
 [submodule "ZIprop"]
 	path = ZIprop
 	url = https://github.com/cran/ZIprop
@@ -24044,9 +24014,6 @@
 [submodule "corlink"]
 	path = corlink
 	url = https://github.com/cran/corlink
-[submodule "corncob"]
-	path = corncob
-	url = https://github.com/cran/corncob
 [submodule "cornet"]
 	path = cornet
 	url = https://github.com/cran/cornet
@@ -43562,9 +43529,6 @@
 [submodule "optimos.prime"]
 	path = optimos.prime
 	url = https://github.com/cran/optimos.prime
-[submodule "optimr"]
-	path = optimr
-	url = https://github.com/cran/optimr
 [submodule "optimsimplex"]
 	path = optimsimplex
 	url = https://github.com/cran/optimsimplex
