@@ -26537,6 +26537,9 @@
 [submodule "dixonTest"]
 	path = dixonTest
 	url = https://github.com/cran/dixonTest
+[submodule "diyar"]
+	path = diyar
+	url = https://github.com/cran/diyar
 [submodule "dkDNA"]
 	path = dkDNA
 	url = https://github.com/cran/dkDNA
@@ -42047,6 +42050,9 @@
 [submodule "netgen"]
 	path = netgen
 	url = https://github.com/cran/netgen
+[submodule "netgsa"]
+	path = netgsa
+	url = https://github.com/cran/netgsa
 [submodule "netgwas"]
 	path = netgwas
 	url = https://github.com/cran/netgwas
@@ -45113,6 +45119,9 @@
 [submodule "phonenumber"]
 	path = phonenumber
 	url = https://github.com/cran/phonenumber
+[submodule "phonfieldwork"]
+	path = phonfieldwork
+	url = https://github.com/cran/phonfieldwork
 [submodule "phonics"]
 	path = phonics
 	url = https://github.com/cran/phonics
@@ -48464,6 +48473,9 @@
 [submodule "rbmn"]
 	path = rbmn
 	url = https://github.com/cran/rbmn
+[submodule "rbokeh"]
+	path = rbokeh
+	url = https://github.com/cran/rbokeh
 [submodule "rbooster"]
 	path = rbooster
 	url = https://github.com/cran/rbooster
@@ -56705,6 +56717,9 @@
 [submodule "texter"]
 	path = texter
 	url = https://github.com/cran/texter
+[submodule "textfeatures"]
+	path = textfeatures
+	url = https://github.com/cran/textfeatures
 [submodule "textgRid"]
 	path = textgRid
 	url = https://github.com/cran/textgRid
@@ -57887,6 +57902,9 @@
 [submodule "triangulr"]
 	path = triangulr
 	url = https://github.com/cran/triangulr
+[submodule "tribe"]
+	path = tribe
+	url = https://github.com/cran/tribe
 [submodule "triebeard"]
 	path = triebeard
 	url = https://github.com/cran/triebeard
@@ -58355,6 +58373,9 @@
 [submodule "ubms"]
 	path = ubms
 	url = https://github.com/cran/ubms
+[submodule "uchardet"]
+	path = uchardet
+	url = https://github.com/cran/uchardet
 [submodule "uci"]
 	path = uci
 	url = https://github.com/cran/uci
