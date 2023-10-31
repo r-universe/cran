@@ -16241,6 +16241,9 @@
 [submodule "SurvRegCensCov"]
 	path = SurvRegCensCov
 	url = https://github.com/cran/SurvRegCensCov
+[submodule "SurvSparse"]
+	path = SurvSparse
+	url = https://github.com/cran/SurvSparse
 [submodule "SurvTrunc"]
 	path = SurvTrunc
 	url = https://github.com/cran/SurvTrunc
@@ -20717,9 +20720,6 @@
 [submodule "bioC.logs"]
 	path = bioC.logs
 	url = https://github.com/cran/bioC.logs
-[submodule "bioOED"]
-	path = bioOED
-	url = https://github.com/cran/bioOED
 [submodule "bioPN"]
 	path = bioPN
 	url = https://github.com/cran/bioPN
@@ -23453,6 +23453,9 @@
 [submodule "colorr"]
 	path = colorr
 	url = https://github.com/cran/colorr
+[submodule "colors3d"]
+	path = colors3d
+	url = https://github.com/cran/colors3d
 [submodule "colorsGen"]
 	path = colorsGen
 	url = https://github.com/cran/colorsGen
@@ -24908,6 +24911,9 @@
 [submodule "cutpointr"]
 	path = cutpointr
 	url = https://github.com/cran/cutpointr
+[submodule "cv"]
+	path = cv
+	url = https://github.com/cran/cv
 [submodule "cvAUC"]
 	path = cvAUC
 	url = https://github.com/cran/cvAUC
