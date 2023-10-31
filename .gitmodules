@@ -16895,9 +16895,6 @@
 [submodule "TotalCopheneticIndex"]
 	path = TotalCopheneticIndex
 	url = https://github.com/cran/TotalCopheneticIndex
-[submodule "TouRnament"]
-	path = TouRnament
-	url = https://github.com/cran/TouRnament
 [submodule "ToxCrit"]
 	path = ToxCrit
 	url = https://github.com/cran/ToxCrit
@@ -17252,9 +17249,6 @@
 [submodule "VBsparsePCA"]
 	path = VBsparsePCA
 	url = https://github.com/cran/VBsparsePCA
-[submodule "VC2copula"]
-	path = VC2copula
-	url = https://github.com/cran/VC2copula
 [submodule "VCA"]
 	path = VCA
 	url = https://github.com/cran/VCA
@@ -27131,9 +27125,6 @@
 [submodule "dynamicTreeCut"]
 	path = dynamicTreeCut
 	url = https://github.com/cran/dynamicTreeCut
-[submodule "dynamichazard"]
-	path = dynamichazard
-	url = https://github.com/cran/dynamichazard
 [submodule "dynamite"]
 	path = dynamite
 	url = https://github.com/cran/dynamite
@@ -37169,9 +37160,6 @@
 [submodule "leaflet.minicharts"]
 	path = leaflet.minicharts
 	url = https://github.com/cran/leaflet.minicharts
-[submodule "leaflet.opacity"]
-	path = leaflet.opacity
-	url = https://github.com/cran/leaflet.opacity
 [submodule "leaflet.providers"]
 	path = leaflet.providers
 	url = https://github.com/cran/leaflet.providers
