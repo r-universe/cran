@@ -14153,6 +14153,9 @@
 [submodule "Rmst"]
 	path = Rmst
 	url = https://github.com/cran/Rmst
+[submodule "Rnanoflann"]
+	path = Rnanoflann
+	url = https://github.com/cran/Rnanoflann
 [submodule "RnavGraphImageData"]
 	path = RnavGraphImageData
 	url = https://github.com/cran/RnavGraphImageData
@@ -38744,6 +38747,9 @@
 [submodule "mastif"]
 	path = mastif
 	url = https://github.com/cran/mastif
+[submodule "matRiks"]
+	path = matRiks
+	url = https://github.com/cran/matRiks
 [submodule "matahari"]
 	path = matahari
 	url = https://github.com/cran/matahari
@@ -38996,6 +39002,9 @@
 [submodule "mcga"]
 	path = mcga
 	url = https://github.com/cran/mcga
+[submodule "mcgf"]
+	path = mcgf
+	url = https://github.com/cran/mcgf
 [submodule "mcgibbsit"]
 	path = mcgibbsit
 	url = https://github.com/cran/mcgibbsit
@@ -40736,6 +40745,9 @@
 [submodule "mongopipe"]
 	path = mongopipe
 	url = https://github.com/cran/mongopipe
+[submodule "monitOS"]
+	path = monitOS
+	url = https://github.com/cran/monitOS
 [submodule "monitoR"]
 	path = monitoR
 	url = https://github.com/cran/monitoR
@@ -46058,6 +46070,9 @@
 [submodule "portfolioBacktest"]
 	path = portfolioBacktest
 	url = https://github.com/cran/portfolioBacktest
+[submodule "portion"]
+	path = portion
+	url = https://github.com/cran/portion
 [submodule "portn"]
 	path = portn
 	url = https://github.com/cran/portn
@@ -46529,6 +46544,9 @@
 [submodule "probably"]
 	path = probably
 	url = https://github.com/cran/probably
+[submodule "probe"]
+	path = probe
+	url = https://github.com/cran/probe
 [submodule "probout"]
 	path = probout
 	url = https://github.com/cran/probout
@@ -52250,6 +52268,9 @@
 [submodule "sendmailR"]
 	path = sendmailR
 	url = https://github.com/cran/sendmailR
+[submodule "sensR"]
+	path = sensR
+	url = https://github.com/cran/sensR
 [submodule "sense"]
 	path = sense
 	url = https://github.com/cran/sense
@@ -53123,6 +53144,9 @@
 [submodule "simPop"]
 	path = simPop
 	url = https://github.com/cran/simPop
+[submodule "simRestore"]
+	path = simRestore
+	url = https://github.com/cran/simRestore
 [submodule "simTargetCov"]
 	path = simTargetCov
 	url = https://github.com/cran/simTargetCov
