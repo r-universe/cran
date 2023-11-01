@@ -8141,9 +8141,6 @@
 [submodule "Langevin"]
 	path = Langevin
 	url = https://github.com/cran/Langevin
-[submodule "LaplaceDeconv"]
-	path = LaplaceDeconv
-	url = https://github.com/cran/LaplaceDeconv
 [submodule "LaplacesDemon"]
 	path = LaplacesDemon
 	url = https://github.com/cran/LaplacesDemon
@@ -13343,9 +13340,6 @@
 [submodule "RaceID"]
 	path = RaceID
 	url = https://github.com/cran/RaceID
-[submodule "Racmacs"]
-	path = Racmacs
-	url = https://github.com/cran/Racmacs
 [submodule "RadData"]
 	path = RadData
 	url = https://github.com/cran/RadData
@@ -25277,9 +25271,6 @@
 [submodule "dataframeexplorer"]
 	path = dataframeexplorer
 	url = https://github.com/cran/dataframeexplorer
-[submodule "dataframes2xls"]
-	path = dataframes2xls
-	url = https://github.com/cran/dataframes2xls
 [submodule "datafsm"]
 	path = datafsm
 	url = https://github.com/cran/datafsm
@@ -34340,9 +34331,6 @@
 [submodule "hstats"]
 	path = hstats
 	url = https://github.com/cran/hstats
-[submodule "htdp"]
-	path = htdp
-	url = https://github.com/cran/htdp
 [submodule "htestClust"]
 	path = htestClust
 	url = https://github.com/cran/htestClust
@@ -36086,9 +36074,6 @@
 [submodule "jfa"]
 	path = jfa
 	url = https://github.com/cran/jfa
-[submodule "jgcricolors"]
-	path = jgcricolors
-	url = https://github.com/cran/jgcricolors
 [submodule "jgsbook"]
 	path = jgsbook
 	url = https://github.com/cran/jgsbook
@@ -45317,9 +45302,6 @@
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/cran/piggyback
-[submodule "piglet"]
-	path = piglet
-	url = https://github.com/cran/piglet
 [submodule "pillar"]
 	path = pillar
 	url = https://github.com/cran/pillar
@@ -45680,9 +45662,6 @@
 [submodule "plotrix"]
 	path = plotrix
 	url = https://github.com/cran/plotrix
-[submodule "plotrr"]
-	path = plotrr
-	url = https://github.com/cran/plotrr
 [submodule "plotscale"]
 	path = plotscale
 	url = https://github.com/cran/plotscale
