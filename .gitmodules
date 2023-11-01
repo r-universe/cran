@@ -57293,6 +57293,9 @@
 [submodule "timeperiodsR"]
 	path = timeperiodsR
 	url = https://github.com/cran/timeperiodsR
+[submodule "timeplyr"]
+	path = timeplyr
+	url = https://github.com/cran/timeplyr
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/cran/timereg
