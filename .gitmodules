@@ -20756,6 +20756,9 @@
 [submodule "bioassays"]
 	path = bioassays
 	url = https://github.com/cran/bioassays
+[submodule "biobricks"]
+	path = biobricks
+	url = https://github.com/cran/biobricks
 [submodule "bioclim"]
 	path = bioclim
 	url = https://github.com/cran/bioclim
@@ -28130,6 +28133,9 @@
 [submodule "eoa3"]
 	path = eoa3
 	url = https://github.com/cran/eoa3
+[submodule "eodhd"]
+	path = eodhd
+	url = https://github.com/cran/eodhd
 [submodule "eoffice"]
 	path = eoffice
 	url = https://github.com/cran/eoffice
@@ -37868,6 +37874,9 @@
 [submodule "locpolExpectile"]
 	path = locpolExpectile
 	url = https://github.com/cran/locpolExpectile
+[submodule "locuszoomr"]
+	path = locuszoomr
+	url = https://github.com/cran/locuszoomr
 [submodule "lodGWAS"]
 	path = lodGWAS
 	url = https://github.com/cran/lodGWAS
