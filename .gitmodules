@@ -42698,6 +42698,9 @@
 [submodule "norm"]
 	path = norm
 	url = https://github.com/cran/norm
+[submodule "normalize"]
+	path = normalize
+	url = https://github.com/cran/normalize
 [submodule "normalizeH"]
 	path = normalizeH
 	url = https://github.com/cran/normalizeH
