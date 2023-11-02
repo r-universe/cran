@@ -32324,6 +32324,9 @@
 [submodule "ghclass"]
 	path = ghclass
 	url = https://github.com/cran/ghclass
+[submodule "ghcm"]
+	path = ghcm
+	url = https://github.com/cran/ghcm
 [submodule "ghibli"]
 	path = ghibli
 	url = https://github.com/cran/ghibli
