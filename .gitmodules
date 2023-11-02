@@ -31490,6 +31490,9 @@
 [submodule "geofd"]
 	path = geofd
 	url = https://github.com/cran/geofd
+[submodule "geofi"]
+	path = geofi
+	url = https://github.com/cran/geofi
 [submodule "geogenr"]
 	path = geogenr
 	url = https://github.com/cran/geogenr
