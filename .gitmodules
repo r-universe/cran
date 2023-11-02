@@ -1415,6 +1415,9 @@
 [submodule "BayesfMRI"]
 	path = BayesfMRI
 	url = https://github.com/cran/BayesfMRI
+[submodule "BayesianFactorZoo"]
+	path = BayesianFactorZoo
+	url = https://github.com/cran/BayesianFactorZoo
 [submodule "BayesianGLasso"]
 	path = BayesianGLasso
 	url = https://github.com/cran/BayesianGLasso
