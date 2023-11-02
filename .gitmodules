@@ -35249,6 +35249,9 @@
 [submodule "index0"]
 	path = index0
 	url = https://github.com/cran/index0
+[submodule "india"]
+	path = india
+	url = https://github.com/cran/india
 [submodule "indicspecies"]
 	path = indicspecies
 	url = https://github.com/cran/indicspecies
@@ -53027,6 +53030,9 @@
 [submodule "shoredate"]
 	path = shoredate
 	url = https://github.com/cran/shoredate
+[submodule "shortIRT"]
+	path = shortIRT
+	url = https://github.com/cran/shortIRT
 [submodule "shortcuts"]
 	path = shortcuts
 	url = https://github.com/cran/shortcuts
