@@ -20846,6 +20846,9 @@
 [submodule "bipd"]
 	path = bipd
 	url = https://github.com/cran/bipd
+[submodule "bipl5"]
+	path = bipl5
+	url = https://github.com/cran/bipl5
 [submodule "biplotEZ"]
 	path = biplotEZ
 	url = https://github.com/cran/biplotEZ
@@ -29222,6 +29225,9 @@
 [submodule "fastM"]
 	path = fastM
 	url = https://github.com/cran/fastM
+[submodule "fastMatMR"]
+	path = fastMatMR
+	url = https://github.com/cran/fastMatMR
 [submodule "fastNaiveBayes"]
 	path = fastNaiveBayes
 	url = https://github.com/cran/fastNaiveBayes
@@ -49610,6 +49616,9 @@
 [submodule "rfoaas"]
 	path = rfoaas
 	url = https://github.com/cran/rfoaas
+[submodule "rfold"]
+	path = rfold
+	url = https://github.com/cran/rfold
 [submodule "rfordummies"]
 	path = rfordummies
 	url = https://github.com/cran/rfordummies
