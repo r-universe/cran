@@ -22901,6 +22901,9 @@
 [submodule "clime"]
 	path = clime
 	url = https://github.com/cran/clime
+[submodule "climenv"]
+	path = climenv
+	url = https://github.com/cran/climenv
 [submodule "climetrics"]
 	path = climetrics
 	url = https://github.com/cran/climetrics
@@ -23660,6 +23663,9 @@
 [submodule "compute.es"]
 	path = compute.es
 	url = https://github.com/cran/compute.es
+[submodule "comradesOO"]
+	path = comradesOO
+	url = https://github.com/cran/comradesOO
 [submodule "comsimitv"]
 	path = comsimitv
 	url = https://github.com/cran/comsimitv
@@ -39818,6 +39824,9 @@
 [submodule "micompr"]
 	path = micompr
 	url = https://github.com/cran/micompr
+[submodule "microCRAN"]
+	path = microCRAN
+	url = https://github.com/cran/microCRAN
 [submodule "microPop"]
 	path = microPop
 	url = https://github.com/cran/microPop
