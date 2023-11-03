@@ -43457,6 +43457,9 @@
 [submodule "openairmaps"]
 	path = openairmaps
 	url = https://github.com/cran/openairmaps
+[submodule "openaistream"]
+	path = openaistream
+	url = https://github.com/cran/openaistream
 [submodule "openalexR"]
 	path = openalexR
 	url = https://github.com/cran/openalexR
@@ -45224,6 +45227,9 @@
 [submodule "phreeqc"]
 	path = phreeqc
 	url = https://github.com/cran/phreeqc
+[submodule "phsmethods"]
+	path = phsmethods
+	url = https://github.com/cran/phsmethods
 [submodule "phuassess"]
 	path = phuassess
 	url = https://github.com/cran/phuassess
@@ -49361,6 +49367,9 @@
 [submodule "repr"]
 	path = repr
 	url = https://github.com/cran/repr
+[submodule "represent"]
+	path = represent
+	url = https://github.com/cran/represent
 [submodule "representr"]
 	path = representr
 	url = https://github.com/cran/representr
