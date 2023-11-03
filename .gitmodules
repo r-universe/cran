@@ -5888,6 +5888,9 @@
 [submodule "GOplot"]
 	path = GOplot
 	url = https://github.com/cran/GOplot
+[submodule "GOxploreR"]
+	path = GOxploreR
+	url = https://github.com/cran/GOxploreR
 [submodule "GPArotateDF"]
 	path = GPArotateDF
 	url = https://github.com/cran/GPArotateDF
