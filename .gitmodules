@@ -14087,6 +14087,9 @@
 [submodule "Ritc"]
 	path = Ritc
 	url = https://github.com/cran/Ritc
+[submodule "RivRetrieve"]
+	path = RivRetrieve
+	url = https://github.com/cran/RivRetrieve
 [submodule "RiverBuilder"]
 	path = RiverBuilder
 	url = https://github.com/cran/RiverBuilder
@@ -46949,6 +46952,9 @@
 [submodule "psy"]
 	path = psy
 	url = https://github.com/cran/psy
+[submodule "psycCleaning"]
+	path = psycCleaning
+	url = https://github.com/cran/psycCleaning
 [submodule "psycModel"]
 	path = psycModel
 	url = https://github.com/cran/psycModel
