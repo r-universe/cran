@@ -3521,6 +3521,9 @@
 [submodule "DOVE"]
 	path = DOVE
 	url = https://github.com/cran/DOVE
+[submodule "DOYPAColors"]
+	path = DOYPAColors
+	url = https://github.com/cran/DOYPAColors
 [submodule "DOvalidation"]
 	path = DOvalidation
 	url = https://github.com/cran/DOvalidation
