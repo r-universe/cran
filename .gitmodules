@@ -10715,6 +10715,9 @@
 [submodule "PACLasso"]
 	path = PACLasso
 	url = https://github.com/cran/PACLasso
+[submodule "PACVr"]
+	path = PACVr
+	url = https://github.com/cran/PACVr
 [submodule "PAFit"]
 	path = PAFit
 	url = https://github.com/cran/PAFit
@@ -15635,6 +15638,9 @@
 [submodule "SimMultiCorrData"]
 	path = SimMultiCorrData
 	url = https://github.com/cran/SimMultiCorrData
+[submodule "SimRAD"]
+	path = SimRAD
+	url = https://github.com/cran/SimRAD
 [submodule "SimRVPedigree"]
 	path = SimRVPedigree
 	url = https://github.com/cran/SimRVPedigree
@@ -30788,6 +30794,9 @@
 [submodule "fwb"]
 	path = fwb
 	url = https://github.com/cran/fwb
+[submodule "fwi.fbp"]
+	path = fwi.fbp
+	url = https://github.com/cran/fwi.fbp
 [submodule "fwildclusterboot"]
 	path = fwildclusterboot
 	url = https://github.com/cran/fwildclusterboot
@@ -32090,6 +32099,9 @@
 [submodule "ggperiodic"]
 	path = ggperiodic
 	url = https://github.com/cran/ggperiodic
+[submodule "ggpicrust2"]
+	path = ggpicrust2
+	url = https://github.com/cran/ggpicrust2
 [submodule "ggpie"]
 	path = ggpie
 	url = https://github.com/cran/ggpie
@@ -58445,6 +58457,9 @@
 [submodule "u5mr"]
 	path = u5mr
 	url = https://github.com/cran/u5mr
+[submodule "uCAREChemSuiteCLI"]
+	path = uCAREChemSuiteCLI
+	url = https://github.com/cran/uCAREChemSuiteCLI
 [submodule "uGMAR"]
 	path = uGMAR
 	url = https://github.com/cran/uGMAR
