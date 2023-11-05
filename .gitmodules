@@ -20240,9 +20240,6 @@
 [submodule "bdpar"]
 	path = bdpar
 	url = https://github.com/cran/bdpar
-[submodule "bdpopt"]
-	path = bdpopt
-	url = https://github.com/cran/bdpopt
 [submodule "bdpv"]
 	path = bdpv
 	url = https://github.com/cran/bdpv
@@ -29501,9 +29498,6 @@
 [submodule "fds"]
 	path = fds
 	url = https://github.com/cran/fds
-[submodule "fdth"]
-	path = fdth
-	url = https://github.com/cran/fdth
 [submodule "feasts"]
 	path = feasts
 	url = https://github.com/cran/feasts
@@ -39485,9 +39479,6 @@
 [submodule "metaconfoundr"]
 	path = metaconfoundr
 	url = https://github.com/cran/metaconfoundr
-[submodule "metacor"]
-	path = metacor
-	url = https://github.com/cran/metacor
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/cran/metacore
