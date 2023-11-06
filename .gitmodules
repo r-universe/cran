@@ -8237,6 +8237,9 @@
 [submodule "LifeInsuranceContracts"]
 	path = LifeInsuranceContracts
 	url = https://github.com/cran/LifeInsuranceContracts
+[submodule "LifeInsureR"]
+	path = LifeInsureR
+	url = https://github.com/cran/LifeInsureR
 [submodule "LifeTables"]
 	path = LifeTables
 	url = https://github.com/cran/LifeTables
@@ -12749,6 +12752,9 @@
 [submodule "RMPSH"]
 	path = RMPSH
 	url = https://github.com/cran/RMPSH
+[submodule "RMSD"]
+	path = RMSD
+	url = https://github.com/cran/RMSD
 [submodule "RMSNumpress"]
 	path = RMSNumpress
 	url = https://github.com/cran/RMSNumpress
@@ -49118,6 +49124,9 @@
 [submodule "regclass"]
 	path = regclass
 	url = https://github.com/cran/regclass
+[submodule "regda"]
+	path = regda
+	url = https://github.com/cran/regda
 [submodule "regexPipes"]
 	path = regexPipes
 	url = https://github.com/cran/regexPipes
