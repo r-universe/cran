@@ -38858,6 +38858,9 @@
 [submodule "mathml"]
 	path = mathml
 	url = https://github.com/cran/mathml
+[submodule "mathpix"]
+	path = mathpix
+	url = https://github.com/cran/mathpix
 [submodule "matlab"]
 	path = matlab
 	url = https://github.com/cran/matlab
