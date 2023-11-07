@@ -18326,6 +18326,9 @@
 [submodule "adobeanalyticsr"]
 	path = adobeanalyticsr
 	url = https://github.com/cran/adobeanalyticsr
+[submodule "adproclus"]
+	path = adproclus
+	url = https://github.com/cran/adproclus
 [submodule "adpss"]
 	path = adpss
 	url = https://github.com/cran/adpss
@@ -35108,6 +35111,9 @@
 [submodule "imdbapi"]
 	path = imdbapi
 	url = https://github.com/cran/imdbapi
+[submodule "imf.data"]
+	path = imf.data
+	url = https://github.com/cran/imf.data
 [submodule "imgpalr"]
 	path = imgpalr
 	url = https://github.com/cran/imgpalr
@@ -42239,6 +42245,9 @@
 [submodule "neverhpfilter"]
 	path = neverhpfilter
 	url = https://github.com/cran/neverhpfilter
+[submodule "new.dist"]
+	path = new.dist
+	url = https://github.com/cran/new.dist
 [submodule "newFocus"]
 	path = newFocus
 	url = https://github.com/cran/newFocus
@@ -57407,6 +57416,9 @@
 [submodule "timetools"]
 	path = timetools
 	url = https://github.com/cran/timetools
+[submodule "timevarcorr"]
+	path = timevarcorr
+	url = https://github.com/cran/timevarcorr
 [submodule "timevis"]
 	path = timevis
 	url = https://github.com/cran/timevis
