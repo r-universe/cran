@@ -4844,6 +4844,9 @@
 [submodule "ExtMallows"]
 	path = ExtMallows
 	url = https://github.com/cran/ExtMallows
+[submodule "ExtrPatt"]
+	path = ExtrPatt
+	url = https://github.com/cran/ExtrPatt
 [submodule "ExtractTrainData"]
 	path = ExtractTrainData
 	url = https://github.com/cran/ExtractTrainData
@@ -7253,6 +7256,9 @@
 [submodule "IgAScores"]
 	path = IgAScores
 	url = https://github.com/cran/IgAScores
+[submodule "ImCluster"]
+	path = ImCluster
+	url = https://github.com/cran/ImCluster
 [submodule "ImFoR"]
 	path = ImFoR
 	url = https://github.com/cran/ImFoR
@@ -18350,6 +18356,9 @@
 [submodule "adwordsR"]
 	path = adwordsR
 	url = https://github.com/cran/adwordsR
+[submodule "aedseo"]
+	path = aedseo
+	url = https://github.com/cran/aedseo
 [submodule "afc"]
 	path = afc
 	url = https://github.com/cran/afc
@@ -20498,6 +20507,9 @@
 [submodule "biblionetwork"]
 	path = biblionetwork
 	url = https://github.com/cran/biblionetwork
+[submodule "biblioverlap"]
+	path = biblioverlap
+	url = https://github.com/cran/biblioverlap
 [submodule "bibs"]
 	path = bibs
 	url = https://github.com/cran/bibs
@@ -35528,6 +35540,9 @@
 [submodule "interplot"]
 	path = interplot
 	url = https://github.com/cran/interplot
+[submodule "interpolators"]
+	path = interpolators
+	url = https://github.com/cran/interpolators
 [submodule "interpret"]
 	path = interpret
 	url = https://github.com/cran/interpret
@@ -41615,6 +41630,9 @@
 [submodule "mvSLOUCH"]
 	path = mvSLOUCH
 	url = https://github.com/cran/mvSLOUCH
+[submodule "mvSUSY"]
+	path = mvSUSY
+	url = https://github.com/cran/mvSUSY
 [submodule "mvShapiroTest"]
 	path = mvShapiroTest
 	url = https://github.com/cran/mvShapiroTest
@@ -49283,6 +49301,9 @@
 [submodule "remedy"]
 	path = remedy
 	url = https://github.com/cran/remedy
+[submodule "remify"]
+	path = remify
+	url = https://github.com/cran/remify
 [submodule "remindR"]
 	path = remindR
 	url = https://github.com/cran/remindR
@@ -52685,6 +52706,9 @@
 [submodule "shapes"]
 	path = shapes
 	url = https://github.com/cran/shapes
+[submodule "shapley"]
+	path = shapley
+	url = https://github.com/cran/shapley
 [submodule "shapper"]
 	path = shapper
 	url = https://github.com/cran/shapper
