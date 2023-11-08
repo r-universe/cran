@@ -15194,6 +15194,9 @@
 [submodule "SSN"]
 	path = SSN
 	url = https://github.com/cran/SSN
+[submodule "SSN2"]
+	path = SSN2
+	url = https://github.com/cran/SSN2
 [submodule "SSNbayes"]
 	path = SSNbayes
 	url = https://github.com/cran/SSNbayes
@@ -15374,6 +15377,9 @@
 [submodule "SeBR"]
 	path = SeBR
 	url = https://github.com/cran/SeBR
+[submodule "SeaVal"]
+	path = SeaVal
+	url = https://github.com/cran/SeaVal
 [submodule "SearchTrees"]
 	path = SearchTrees
 	url = https://github.com/cran/SearchTrees
@@ -15608,6 +15614,9 @@
 [submodule "SignifReg"]
 	path = SignifReg
 	url = https://github.com/cran/SignifReg
+[submodule "SillyPutty"]
+	path = SillyPutty
+	url = https://github.com/cran/SillyPutty
 [submodule "Sim.DiffProc"]
 	path = Sim.DiffProc
 	url = https://github.com/cran/Sim.DiffProc
@@ -24443,6 +24452,9 @@
 [submodule "cppcheckR"]
 	path = cppcheckR
 	url = https://github.com/cran/cppcheckR
+[submodule "cppdoubles"]
+	path = cppdoubles
+	url = https://github.com/cran/cppdoubles
 [submodule "cpr"]
 	path = cpr
 	url = https://github.com/cran/cpr
@@ -25934,6 +25946,9 @@
 [submodule "desctable"]
 	path = desctable
 	url = https://github.com/cran/desctable
+[submodule "deseats"]
+	path = deseats
+	url = https://github.com/cran/deseats
 [submodule "desiR"]
 	path = desiR
 	url = https://github.com/cran/desiR
@@ -35681,6 +35696,9 @@
 [submodule "ipaddress"]
 	path = ipaddress
 	url = https://github.com/cran/ipaddress
+[submodule "ipanema"]
+	path = ipanema
+	url = https://github.com/cran/ipanema
 [submodule "ipbase"]
 	path = ipbase
 	url = https://github.com/cran/ipbase
@@ -38636,6 +38654,9 @@
 [submodule "manymome"]
 	path = manymome
 	url = https://github.com/cran/manymome
+[submodule "manymome.table"]
+	path = manymome.table
+	url = https://github.com/cran/manymome.table
 [submodule "manynet"]
 	path = manynet
 	url = https://github.com/cran/manynet
@@ -40496,6 +40517,9 @@
 [submodule "mlrpro"]
 	path = mlrpro
 	url = https://github.com/cran/mlrpro
+[submodule "mlrv"]
+	path = mlrv
+	url = https://github.com/cran/mlrv
 [submodule "mlsbm"]
 	path = mlsbm
 	url = https://github.com/cran/mlsbm
@@ -40568,6 +40592,9 @@
 [submodule "mmeta"]
 	path = mmeta
 	url = https://github.com/cran/mmeta
+[submodule "mmibain"]
+	path = mmibain
+	url = https://github.com/cran/mmibain
 [submodule "mmirestriktor"]
 	path = mmirestriktor
 	url = https://github.com/cran/mmirestriktor
@@ -51212,6 +51239,9 @@
 [submodule "rvcheck"]
 	path = rvcheck
 	url = https://github.com/cran/rvcheck
+[submodule "rvec"]
+	path = rvec
+	url = https://github.com/cran/rvec
 [submodule "rversions"]
 	path = rversions
 	url = https://github.com/cran/rversions
@@ -59063,6 +59093,9 @@
 [submodule "variantspark"]
 	path = variantspark
 	url = https://github.com/cran/variantspark
+[submodule "variationalDCM"]
+	path = variationalDCM
+	url = https://github.com/cran/variationalDCM
 [submodule "variosig"]
 	path = variosig
 	url = https://github.com/cran/variosig
