@@ -21662,6 +21662,9 @@
 [submodule "bvartools"]
 	path = bvartools
 	url = https://github.com/cran/bvartools
+[submodule "bvhar"]
+	path = bvhar
+	url = https://github.com/cran/bvhar
 [submodule "bvls"]
 	path = bvls
 	url = https://github.com/cran/bvls
