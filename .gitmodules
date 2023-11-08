@@ -9383,6 +9383,9 @@
 [submodule "Mestim"]
 	path = Mestim
 	url = https://github.com/cran/Mestim
+[submodule "MetAlyzer"]
+	path = MetAlyzer
+	url = https://github.com/cran/MetAlyzer
 [submodule "MetBrewer"]
 	path = MetBrewer
 	url = https://github.com/cran/MetBrewer
@@ -15113,6 +15116,9 @@
 [submodule "SPSP"]
 	path = SPSP
 	url = https://github.com/cran/SPSP
+[submodule "SPUTNIK"]
+	path = SPUTNIK
+	url = https://github.com/cran/SPUTNIK
 [submodule "SPYvsSPY"]
 	path = SPYvsSPY
 	url = https://github.com/cran/SPYvsSPY
