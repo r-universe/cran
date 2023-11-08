@@ -36560,6 +36560,9 @@
 [submodule "keyperm"]
 	path = keyperm
 	url = https://github.com/cran/keyperm
+[submodule "keyplayer"]
+	path = keyplayer
+	url = https://github.com/cran/keyplayer
 [submodule "keypress"]
 	path = keypress
 	url = https://github.com/cran/keypress
@@ -51422,6 +51425,9 @@
 [submodule "saeBest"]
 	path = saeBest
 	url = https://github.com/cran/saeBest
+[submodule "saeHB"]
+	path = saeHB
+	url = https://github.com/cran/saeHB
 [submodule "saeHB.ME"]
 	path = saeHB.ME
 	url = https://github.com/cran/saeHB.ME
