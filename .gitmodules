@@ -1457,6 +1457,9 @@
 [submodule "Bchron"]
 	path = Bchron
 	url = https://github.com/cran/Bchron
+[submodule "BeQut"]
+	path = BeQut
+	url = https://github.com/cran/BeQut
 [submodule "BeSS"]
 	path = BeSS
 	url = https://github.com/cran/BeSS
@@ -29735,6 +29738,9 @@
 [submodule "filebin"]
 	path = filebin
 	url = https://github.com/cran/filebin
+[submodule "filecacher"]
+	path = filecacher
+	url = https://github.com/cran/filecacher
 [submodule "filehash"]
 	path = filehash
 	url = https://github.com/cran/filehash
