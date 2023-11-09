@@ -12518,6 +12518,9 @@
 [submodule "RFishBC"]
 	path = RFishBC
 	url = https://github.com/cran/RFishBC
+[submodule "RFlocalfdr"]
+	path = RFlocalfdr
+	url = https://github.com/cran/RFlocalfdr
 [submodule "RFlocalfdr.data"]
 	path = RFlocalfdr.data
 	url = https://github.com/cran/RFlocalfdr.data
@@ -27116,6 +27119,9 @@
 [submodule "dual.spls"]
 	path = dual.spls
 	url = https://github.com/cran/dual.spls
+[submodule "dualScale"]
+	path = dualScale
+	url = https://github.com/cran/dualScale
 [submodule "dualtrees"]
 	path = dualtrees
 	url = https://github.com/cran/dualtrees
@@ -29096,6 +29102,9 @@
 [submodule "facmodCS"]
 	path = facmodCS
 	url = https://github.com/cran/facmodCS
+[submodule "facmodTS"]
+	path = facmodTS
+	url = https://github.com/cran/facmodTS
 [submodule "factReg"]
 	path = factReg
 	url = https://github.com/cran/factReg
@@ -59246,6 +59255,9 @@
 [submodule "vermeulen"]
 	path = vermeulen
 	url = https://github.com/cran/vermeulen
+[submodule "versioning"]
+	path = versioning
+	url = https://github.com/cran/versioning
 [submodule "versions"]
 	path = versions
 	url = https://github.com/cran/versions
@@ -60152,9 +60164,6 @@
 [submodule "wordPuzzleR"]
 	path = wordPuzzleR
 	url = https://github.com/cran/wordPuzzleR
-[submodule "wordbankr"]
-	path = wordbankr
-	url = https://github.com/cran/wordbankr
 [submodule "wordcloud"]
 	path = wordcloud
 	url = https://github.com/cran/wordcloud
