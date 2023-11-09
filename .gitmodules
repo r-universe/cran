@@ -1847,6 +1847,9 @@
 [submodule "CADStat"]
 	path = CADStat
 	url = https://github.com/cran/CADStat
+[submodule "CAGR"]
+	path = CAGR
+	url = https://github.com/cran/CAGR
 [submodule "CAISEr"]
 	path = CAISEr
 	url = https://github.com/cran/CAISEr
@@ -6992,6 +6995,9 @@
 [submodule "IDF"]
 	path = IDF
 	url = https://github.com/cran/IDF
+[submodule "IDMIR"]
+	path = IDMIR
+	url = https://github.com/cran/IDMIR
 [submodule "IDPSurvival"]
 	path = IDPSurvival
 	url = https://github.com/cran/IDPSurvival
@@ -15668,6 +15674,9 @@
 [submodule "SimMultiCorrData"]
 	path = SimMultiCorrData
 	url = https://github.com/cran/SimMultiCorrData
+[submodule "SimNPH"]
+	path = SimNPH
+	url = https://github.com/cran/SimNPH
 [submodule "SimRAD"]
 	path = SimRAD
 	url = https://github.com/cran/SimRAD
@@ -15995,6 +16004,9 @@
 [submodule "SpectralMap"]
 	path = SpectralMap
 	url = https://github.com/cran/SpectralMap
+[submodule "Spectran"]
+	path = Spectran
+	url = https://github.com/cran/Spectran
 [submodule "Spectrum"]
 	path = Spectrum
 	url = https://github.com/cran/Spectrum
@@ -19124,6 +19136,9 @@
 [submodule "archivist.github"]
 	path = archivist.github
 	url = https://github.com/cran/archivist.github
+[submodule "arcpbf"]
+	path = arcpbf
+	url = https://github.com/cran/arcpbf
 [submodule "arcpullr"]
 	path = arcpullr
 	url = https://github.com/cran/arcpullr
@@ -47375,6 +47390,9 @@
 [submodule "qdm"]
 	path = qdm
 	url = https://github.com/cran/qdm
+[submodule "qeML"]
+	path = qeML
+	url = https://github.com/cran/qeML
 [submodule "qfa"]
 	path = qfa
 	url = https://github.com/cran/qfa
