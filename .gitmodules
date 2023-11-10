@@ -818,9 +818,6 @@
 [submodule "BBSSL"]
 	path = BBSSL
 	url = https://github.com/cran/BBSSL
-[submodule "BBcor"]
-	path = BBcor
-	url = https://github.com/cran/BBcor
 [submodule "BBmisc"]
 	path = BBmisc
 	url = https://github.com/cran/BBmisc
@@ -1307,6 +1304,9 @@
 [submodule "BayesGWQS"]
 	path = BayesGWQS
 	url = https://github.com/cran/BayesGWQS
+[submodule "BayesGmed"]
+	path = BayesGmed
+	url = https://github.com/cran/BayesGmed
 [submodule "BayesLCA"]
 	path = BayesLCA
 	url = https://github.com/cran/BayesLCA
@@ -20105,9 +20105,6 @@
 [submodule "bayesianETAS"]
 	path = bayesianETAS
 	url = https://github.com/cran/bayesianETAS
-[submodule "bayeslincom"]
-	path = bayeslincom
-	url = https://github.com/cran/bayeslincom
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cran/bayeslm
@@ -21542,6 +21539,9 @@
 [submodule "bsicons"]
 	path = bsicons
 	url = https://github.com/cran/bsicons
+[submodule "bskyr"]
+	path = bskyr
+	url = https://github.com/cran/bskyr
 [submodule "bslib"]
 	path = bslib
 	url = https://github.com/cran/bslib
@@ -37016,6 +37016,9 @@
 [submodule "landmix"]
 	path = landmix
 	url = https://github.com/cran/landmix
+[submodule "landmulti"]
+	path = landmulti
+	url = https://github.com/cran/landmulti
 [submodule "landpred"]
 	path = landpred
 	url = https://github.com/cran/landpred
@@ -38681,6 +38684,9 @@
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/cran/mapSpain
+[submodule "mapStats"]
+	path = mapStats
+	url = https://github.com/cran/mapStats
 [submodule "mapaccuracy"]
 	path = mapaccuracy
 	url = https://github.com/cran/mapaccuracy
