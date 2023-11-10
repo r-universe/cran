@@ -2132,6 +2132,9 @@
 [submodule "CLONETv2"]
 	path = CLONETv2
 	url = https://github.com/cran/CLONETv2
+[submodule "CLSIEP15"]
+	path = CLSIEP15
+	url = https://github.com/cran/CLSIEP15
 [submodule "CLUSTShiny"]
 	path = CLUSTShiny
 	url = https://github.com/cran/CLUSTShiny
@@ -4313,6 +4316,9 @@
 [submodule "EM.Fuzzy"]
 	path = EM.Fuzzy
 	url = https://github.com/cran/EM.Fuzzy
+[submodule "EMAR"]
+	path = EMAR
+	url = https://github.com/cran/EMAR
 [submodule "EMAS"]
 	path = EMAS
 	url = https://github.com/cran/EMAS
@@ -9683,6 +9689,9 @@
 [submodule "MonoPoly"]
 	path = MonoPoly
 	url = https://github.com/cran/MonoPoly
+[submodule "MonotoneHazardRatio"]
+	path = MonotoneHazardRatio
+	url = https://github.com/cran/MonotoneHazardRatio
 [submodule "Monte.Carlo.se"]
 	path = Monte.Carlo.se
 	url = https://github.com/cran/Monte.Carlo.se
@@ -50111,6 +50120,9 @@
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/cran/rliger
+[submodule "rlinkedinads"]
+	path = rlinkedinads
+	url = https://github.com/cran/rlinkedinads
 [submodule "rlist"]
 	path = rlist
 	url = https://github.com/cran/rlist
@@ -50612,6 +50624,9 @@
 [submodule "rospca"]
 	path = rospca
 	url = https://github.com/cran/rospca
+[submodule "rosv"]
+	path = rosv
+	url = https://github.com/cran/rosv
 [submodule "rotasym"]
 	path = rotasym
 	url = https://github.com/cran/rotasym
