@@ -11030,6 +11030,9 @@
 [submodule "PLSiMCpp"]
 	path = PLSiMCpp
 	url = https://github.com/cran/PLSiMCpp
+[submodule "PLindleyROC"]
+	path = PLindleyROC
+	url = https://github.com/cran/PLindleyROC
 [submodule "PLmixed"]
 	path = PLmixed
 	url = https://github.com/cran/PLmixed
@@ -12635,6 +12638,9 @@
 [submodule "RHybridFinder"]
 	path = RHybridFinder
 	url = https://github.com/cran/RHybridFinder
+[submodule "RI2by2"]
+	path = RI2by2
+	url = https://github.com/cran/RI2by2
 [submodule "RIA"]
 	path = RIA
 	url = https://github.com/cran/RIA
