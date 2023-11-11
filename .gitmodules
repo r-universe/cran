@@ -9530,6 +9530,9 @@
 [submodule "Microsoft365R"]
 	path = Microsoft365R
 	url = https://github.com/cran/Microsoft365R
+[submodule "MigrationDetectR"]
+	path = MigrationDetectR
+	url = https://github.com/cran/MigrationDetectR
 [submodule "MinEDfind"]
 	path = MinEDfind
 	url = https://github.com/cran/MinEDfind
