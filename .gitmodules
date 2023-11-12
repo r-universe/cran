@@ -5360,6 +5360,9 @@
 [submodule "FixedPoint"]
 	path = FixedPoint
 	url = https://github.com/cran/FixedPoint
+[submodule "FjordLight"]
+	path = FjordLight
+	url = https://github.com/cran/FjordLight
 [submodule "FlexDir"]
 	path = FlexDir
 	url = https://github.com/cran/FlexDir
@@ -11516,6 +11519,9 @@
 [submodule "PesticideLoadIndicator"]
 	path = PesticideLoadIndicator
 	url = https://github.com/cran/PesticideLoadIndicator
+[submodule "Petersen"]
+	path = Petersen
+	url = https://github.com/cran/Petersen
 [submodule "PetfindeR"]
 	path = PetfindeR
 	url = https://github.com/cran/PetfindeR
@@ -33542,6 +33548,9 @@
 [submodule "gustave"]
 	path = gustave
 	url = https://github.com/cran/gustave
+[submodule "gutenbergr"]
+	path = gutenbergr
+	url = https://github.com/cran/gutenbergr
 [submodule "gvc"]
 	path = gvc
 	url = https://github.com/cran/gvc
@@ -38102,6 +38111,9 @@
 [submodule "longclust"]
 	path = longclust
 	url = https://github.com/cran/longclust
+[submodule "longevity"]
+	path = longevity
+	url = https://github.com/cran/longevity
 [submodule "longit"]
 	path = longit
 	url = https://github.com/cran/longit
@@ -59264,6 +59276,9 @@
 [submodule "versionsort"]
 	path = versionsort
 	url = https://github.com/cran/versionsort
+[submodule "versus"]
+	path = versus
+	url = https://github.com/cran/versus
 [submodule "vesselr"]
 	path = vesselr
 	url = https://github.com/cran/vesselr
