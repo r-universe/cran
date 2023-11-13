@@ -12353,6 +12353,9 @@
 [submodule "RCMinification"]
 	path = RCMinification
 	url = https://github.com/cran/RCMinification
+[submodule "RCPA"]
+	path = RCPA
+	url = https://github.com/cran/RCPA
 [submodule "RCPA3"]
 	path = RCPA3
 	url = https://github.com/cran/RCPA3
@@ -15398,6 +15401,9 @@
 [submodule "ScreenClean"]
 	path = ScreenClean
 	url = https://github.com/cran/ScreenClean
+[submodule "ScriptMapR"]
+	path = ScriptMapR
+	url = https://github.com/cran/ScriptMapR
 [submodule "SeBR"]
 	path = SeBR
 	url = https://github.com/cran/SeBR
@@ -25268,6 +25274,9 @@
 [submodule "danstat"]
 	path = danstat
 	url = https://github.com/cran/danstat
+[submodule "dapr"]
+	path = dapr
+	url = https://github.com/cran/dapr
 [submodule "daqapo"]
 	path = daqapo
 	url = https://github.com/cran/daqapo
@@ -37589,6 +37598,9 @@
 [submodule "likert"]
 	path = likert
 	url = https://github.com/cran/likert
+[submodule "lilikoi"]
+	path = lilikoi
+	url = https://github.com/cran/lilikoi
 [submodule "lillies"]
 	path = lillies
 	url = https://github.com/cran/lillies
@@ -46367,6 +46379,9 @@
 [submodule "ppclust"]
 	path = ppclust
 	url = https://github.com/cran/ppclust
+[submodule "ppcong"]
+	path = ppcong
+	url = https://github.com/cran/ppcong
 [submodule "ppcor"]
 	path = ppcor
 	url = https://github.com/cran/ppcor
@@ -57032,6 +57047,9 @@
 [submodule "tfruns"]
 	path = tfruns
 	url = https://github.com/cran/tfruns
+[submodule "tfse"]
+	path = tfse
+	url = https://github.com/cran/tfse
 [submodule "tgamtheme"]
 	path = tgamtheme
 	url = https://github.com/cran/tgamtheme
