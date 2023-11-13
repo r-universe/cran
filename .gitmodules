@@ -9131,6 +9131,9 @@
 [submodule "MTA"]
 	path = MTA
 	url = https://github.com/cran/MTA
+[submodule "MTAFT"]
+	path = MTAFT
+	url = https://github.com/cran/MTAFT
 [submodule "MTAR"]
 	path = MTAR
 	url = https://github.com/cran/MTAR
@@ -10163,6 +10166,9 @@
 [submodule "NUCOMBog"]
 	path = NUCOMBog
 	url = https://github.com/cran/NUCOMBog
+[submodule "NUETON"]
+	path = NUETON
+	url = https://github.com/cran/NUETON
 [submodule "NVCSSL"]
 	path = NVCSSL
 	url = https://github.com/cran/NVCSSL
@@ -10529,6 +10535,9 @@
 [submodule "OUwie"]
 	path = OUwie
 	url = https://github.com/cran/OUwie
+[submodule "OVL.CI"]
+	path = OVL.CI
+	url = https://github.com/cran/OVL.CI
 [submodule "OVtool"]
 	path = OVtool
 	url = https://github.com/cran/OVtool
@@ -10757,6 +10766,9 @@
 [submodule "PAGWAS"]
 	path = PAGWAS
 	url = https://github.com/cran/PAGWAS
+[submodule "PAICE"]
+	path = PAICE
+	url = https://github.com/cran/PAICE
 [submodule "PAMhm"]
 	path = PAMhm
 	url = https://github.com/cran/PAMhm
@@ -57350,6 +57362,9 @@
 [submodule "tidyrules"]
 	path = tidyrules
 	url = https://github.com/cran/tidyrules
+[submodule "tidysdm"]
+	path = tidysdm
+	url = https://github.com/cran/tidysdm
 [submodule "tidyselect"]
 	path = tidyselect
 	url = https://github.com/cran/tidyselect
