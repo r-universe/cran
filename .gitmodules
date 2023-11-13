@@ -49685,9 +49685,6 @@
 [submodule "rex"]
 	path = rex
 	url = https://github.com/cran/rex
-[submodule "rexpokit"]
-	path = rexpokit
-	url = https://github.com/cran/rexpokit
 [submodule "rextendr"]
 	path = rextendr
 	url = https://github.com/cran/rextendr
@@ -50957,9 +50954,6 @@
 [submodule "rsnell"]
 	path = rsnell
 	url = https://github.com/cran/rsnell
-[submodule "rsofun"]
-	path = rsofun
-	url = https://github.com/cran/rsofun
 [submodule "rsoi"]
 	path = rsoi
 	url = https://github.com/cran/rsoi
@@ -56969,9 +56963,6 @@
 [submodule "textrank"]
 	path = textrank
 	url = https://github.com/cran/textrank
-[submodule "textrecipes"]
-	path = textrecipes
-	url = https://github.com/cran/textrecipes
 [submodule "textreg"]
 	path = textreg
 	url = https://github.com/cran/textreg
