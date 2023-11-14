@@ -42581,9 +42581,6 @@
 [submodule "nlsem"]
 	path = nlsem
 	url = https://github.com/cran/nlsem
-[submodule "nlshelper"]
-	path = nlshelper
-	url = https://github.com/cran/nlshelper
 [submodule "nlshrink"]
 	path = nlshrink
 	url = https://github.com/cran/nlshrink
