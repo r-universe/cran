@@ -176,6 +176,9 @@
 [submodule "AIPW"]
 	path = AIPW
 	url = https://github.com/cran/AIPW
+[submodule "AIUQ"]
+	path = AIUQ
+	url = https://github.com/cran/AIUQ
 [submodule "ALDqr"]
 	path = ALDqr
 	url = https://github.com/cran/ALDqr
@@ -9254,9 +9257,6 @@
 [submodule "MapGAM"]
 	path = MapGAM
 	url = https://github.com/cran/MapGAM
-[submodule "MapeBay"]
-	path = MapeBay
-	url = https://github.com/cran/MapeBay
 [submodule "Mapinguari"]
 	path = Mapinguari
 	url = https://github.com/cran/Mapinguari
@@ -14420,6 +14420,9 @@
 [submodule "Rspotify"]
 	path = Rspotify
 	url = https://github.com/cran/Rspotify
+[submodule "RsqMed"]
+	path = RsqMed
+	url = https://github.com/cran/RsqMed
 [submodule "Rssa"]
 	path = Rssa
 	url = https://github.com/cran/Rssa
@@ -14762,6 +14765,9 @@
 [submodule "SEERaBomb"]
 	path = SEERaBomb
 	url = https://github.com/cran/SEERaBomb
+[submodule "SEI"]
+	path = SEI
+	url = https://github.com/cran/SEI
 [submodule "SEIRfansy"]
 	path = SEIRfansy
 	url = https://github.com/cran/SEIRfansy
@@ -18398,6 +18404,9 @@
 [submodule "adwordsR"]
 	path = adwordsR
 	url = https://github.com/cran/adwordsR
+[submodule "aeddo"]
+	path = aeddo
+	url = https://github.com/cran/aeddo
 [submodule "aedseo"]
 	path = aedseo
 	url = https://github.com/cran/aedseo
@@ -29276,6 +29285,9 @@
 [submodule "fastDummies"]
 	path = fastDummies
 	url = https://github.com/cran/fastDummies
+[submodule "fastFMM"]
+	path = fastFMM
+	url = https://github.com/cran/fastFMM
 [submodule "fastGHQuad"]
 	path = fastGHQuad
 	url = https://github.com/cran/fastGHQuad
@@ -31529,6 +31541,9 @@
 [submodule "geoFourierFDA"]
 	path = geoFourierFDA
 	url = https://github.com/cran/geoFourierFDA
+[submodule "geoGAM"]
+	path = geoGAM
+	url = https://github.com/cran/geoGAM
 [submodule "geoR"]
 	path = geoR
 	url = https://github.com/cran/geoR
@@ -34688,6 +34703,9 @@
 [submodule "iAdapt"]
 	path = iAdapt
 	url = https://github.com/cran/iAdapt
+[submodule "iBART"]
+	path = iBART
+	url = https://github.com/cran/iBART
 [submodule "iBST"]
 	path = iBST
 	url = https://github.com/cran/iBST
@@ -39764,6 +39782,9 @@
 [submodule "mfp"]
 	path = mfp
 	url = https://github.com/cran/mfp
+[submodule "mfp2"]
+	path = mfp2
+	url = https://github.com/cran/mfp2
 [submodule "mfpp"]
 	path = mfpp
 	url = https://github.com/cran/mfpp
@@ -42977,6 +42998,9 @@
 [submodule "npsf"]
 	path = npsf
 	url = https://github.com/cran/npsf
+[submodule "npsm"]
+	path = npsm
+	url = https://github.com/cran/npsm
 [submodule "npsp"]
 	path = npsp
 	url = https://github.com/cran/npsp
@@ -56735,6 +56759,9 @@
 [submodule "tensorBSS"]
 	path = tensorBSS
 	url = https://github.com/cran/tensorBSS
+[submodule "tensorEVD"]
+	path = tensorEVD
+	url = https://github.com/cran/tensorEVD
 [submodule "tensorTS"]
 	path = tensorTS
 	url = https://github.com/cran/tensorTS
