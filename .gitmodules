@@ -6818,9 +6818,6 @@
 [submodule "HospitalNetwork"]
 	path = HospitalNetwork
 	url = https://github.com/cran/HospitalNetwork
-[submodule "HostSwitch"]
-	path = HostSwitch
-	url = https://github.com/cran/HostSwitch
 [submodule "Hotelling"]
 	path = Hotelling
 	url = https://github.com/cran/Hotelling
@@ -15344,9 +15341,6 @@
 [submodule "SVDNF"]
 	path = SVDNF
 	url = https://github.com/cran/SVDNF
-[submodule "SVMMaj"]
-	path = SVMMaj
-	url = https://github.com/cran/SVMMaj
 [submodule "SVN"]
 	path = SVN
 	url = https://github.com/cran/SVN
@@ -44318,9 +44312,6 @@
 [submodule "palmerpenguins"]
 	path = palmerpenguins
 	url = https://github.com/cran/palmerpenguins
-[submodule "palmid"]
-	path = palmid
-	url = https://github.com/cran/palmid
 [submodule "palmtree"]
 	path = palmtree
 	url = https://github.com/cran/palmtree
