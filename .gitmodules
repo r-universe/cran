@@ -27461,6 +27461,9 @@
 [submodule "easyanova"]
 	path = easyanova
 	url = https://github.com/cran/easyanova
+[submodule "easybgm"]
+	path = easybgm
+	url = https://github.com/cran/easybgm
 [submodule "easycensus"]
 	path = easycensus
 	url = https://github.com/cran/easycensus
