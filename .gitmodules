@@ -28325,6 +28325,9 @@
 [submodule "epiomics"]
 	path = epiomics
 	url = https://github.com/cran/epiomics
+[submodule "epiphy"]
+	path = epiphy
+	url = https://github.com/cran/epiphy
 [submodule "episcan"]
 	path = episcan
 	url = https://github.com/cran/episcan
@@ -46820,6 +46823,9 @@
 [submodule "profileR"]
 	path = profileR
 	url = https://github.com/cran/profileR
+[submodule "profiplots"]
+	path = profiplots
+	url = https://github.com/cran/profiplots
 [submodule "profmem"]
 	path = profmem
 	url = https://github.com/cran/profmem
@@ -57326,6 +57332,9 @@
 [submodule "tidyhydat"]
 	path = tidyhydat
 	url = https://github.com/cran/tidyhydat
+[submodule "tidyindex"]
+	path = tidyindex
+	url = https://github.com/cran/tidyindex
 [submodule "tidyjson"]
 	path = tidyjson
 	url = https://github.com/cran/tidyjson
