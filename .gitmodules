@@ -17756,9 +17756,6 @@
 [submodule "WhatIf"]
 	path = WhatIf
 	url = https://github.com/cran/WhatIf
-[submodule "WhatsR"]
-	path = WhatsR
-	url = https://github.com/cran/WhatsR
 [submodule "WhiteStripe"]
 	path = WhiteStripe
 	url = https://github.com/cran/WhiteStripe
