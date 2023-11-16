@@ -12803,6 +12803,9 @@
 [submodule "RMSD"]
 	path = RMSD
 	url = https://github.com/cran/RMSD
+[submodule "RMSDp"]
+	path = RMSDp
+	url = https://github.com/cran/RMSDp
 [submodule "RMSNumpress"]
 	path = RMSNumpress
 	url = https://github.com/cran/RMSNumpress
@@ -14822,6 +14825,9 @@
 [submodule "SGB"]
 	path = SGB
 	url = https://github.com/cran/SGB
+[submodule "SGDinference"]
+	path = SGDinference
+	url = https://github.com/cran/SGDinference
 [submodule "SGL"]
 	path = SGL
 	url = https://github.com/cran/SGL
@@ -18131,6 +18137,9 @@
 [submodule "act"]
 	path = act
 	url = https://github.com/cran/act
+[submodule "actLifer"]
+	path = actLifer
+	url = https://github.com/cran/actLifer
 [submodule "actel"]
 	path = actel
 	url = https://github.com/cran/actel
@@ -21998,6 +22007,9 @@
 [submodule "care"]
 	path = care
 	url = https://github.com/cran/care
+[submodule "care4cmodel"]
+	path = care4cmodel
+	url = https://github.com/cran/care4cmodel
 [submodule "careless"]
 	path = careless
 	url = https://github.com/cran/careless
@@ -27413,6 +27425,9 @@
 [submodule "earth"]
 	path = earth
 	url = https://github.com/cran/earth
+[submodule "earthdatalogin"]
+	path = earthdatalogin
+	url = https://github.com/cran/earthdatalogin
 [submodule "earthtide"]
 	path = earthtide
 	url = https://github.com/cran/earthtide
@@ -48428,6 +48443,9 @@
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/cran/ranger
+[submodule "rankCorr"]
+	path = rankCorr
+	url = https://github.com/cran/rankCorr
 [submodule "rankFD"]
 	path = rankFD
 	url = https://github.com/cran/rankFD
