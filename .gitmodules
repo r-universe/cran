@@ -45965,6 +45965,9 @@
 [submodule "pmultinom"]
 	path = pmultinom
 	url = https://github.com/cran/pmultinom
+[submodule "pmvalsampsize"]
+	path = pmvalsampsize
+	url = https://github.com/cran/pmvalsampsize
 [submodule "pmwg"]
 	path = pmwg
 	url = https://github.com/cran/pmwg
