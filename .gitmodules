@@ -15401,6 +15401,9 @@
 [submodule "SangerTools"]
 	path = SangerTools
 	url = https://github.com/cran/SangerTools
+[submodule "ScRNAIMM"]
+	path = ScRNAIMM
+	url = https://github.com/cran/ScRNAIMM
 [submodule "ScaleSpikeSlab"]
 	path = ScaleSpikeSlab
 	url = https://github.com/cran/ScaleSpikeSlab
@@ -18608,6 +18611,9 @@
 [submodule "aion"]
 	path = aion
 	url = https://github.com/cran/aion
+[submodule "air"]
+	path = air
+	url = https://github.com/cran/air
 [submodule "airGR"]
 	path = airGR
 	url = https://github.com/cran/airGR
@@ -42626,6 +42632,9 @@
 [submodule "nlnet"]
 	path = nlnet
 	url = https://github.com/cran/nlnet
+[submodule "nlopt"]
+	path = nlopt
+	url = https://github.com/cran/nlopt
 [submodule "nloptr"]
 	path = nloptr
 	url = https://github.com/cran/nloptr
@@ -49469,6 +49478,9 @@
 [submodule "remss"]
 	path = remss
 	url = https://github.com/cran/remss
+[submodule "remstats"]
+	path = remstats
+	url = https://github.com/cran/remstats
 [submodule "renderthis"]
 	path = renderthis
 	url = https://github.com/cran/renderthis
@@ -50207,6 +50219,9 @@
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/cran/rlistings
+[submodule "rllama"]
+	path = rllama
+	url = https://github.com/cran/rllama
 [submodule "rlmDataDriven"]
 	path = rlmDataDriven
 	url = https://github.com/cran/rlmDataDriven
@@ -52481,6 +52496,9 @@
 [submodule "semTools"]
 	path = semTools
 	url = https://github.com/cran/semTools
+[submodule "semantic.assets"]
+	path = semantic.assets
+	url = https://github.com/cran/semantic.assets
 [submodule "semantic.dashboard"]
 	path = semantic.dashboard
 	url = https://github.com/cran/semantic.dashboard
@@ -58745,6 +58763,9 @@
 [submodule "ulid"]
 	path = ulid
 	url = https://github.com/cran/ulid
+[submodule "ulrb"]
+	path = ulrb
+	url = https://github.com/cran/ulrb
 [submodule "umap"]
 	path = umap
 	url = https://github.com/cran/umap
