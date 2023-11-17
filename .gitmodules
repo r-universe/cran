@@ -227,6 +227,9 @@
 [submodule "ANN2"]
 	path = ANN2
 	url = https://github.com/cran/ANN2
+[submodule "ANOFA"]
+	path = ANOFA
+	url = https://github.com/cran/ANOFA
 [submodule "ANOM"]
 	path = ANOM
 	url = https://github.com/cran/ANOM
@@ -608,6 +611,9 @@
 [submodule "AquaEnv"]
 	path = AquaEnv
 	url = https://github.com/cran/AquaEnv
+[submodule "AquaticLifeHistory"]
+	path = AquaticLifeHistory
+	url = https://github.com/cran/AquaticLifeHistory
 [submodule "ArArRedux"]
 	path = ArArRedux
 	url = https://github.com/cran/ArArRedux
@@ -29189,6 +29195,9 @@
 [submodule "factor.switching"]
 	path = factor.switching
 	url = https://github.com/cran/factor.switching
+[submodule "factor256"]
+	path = factor256
+	url = https://github.com/cran/factor256
 [submodule "factorial2x2"]
 	path = factorial2x2
 	url = https://github.com/cran/factorial2x2
@@ -39899,6 +39908,9 @@
 [submodule "miCoPTCM"]
 	path = miCoPTCM
 	url = https://github.com/cran/miCoPTCM
+[submodule "miLAG"]
+	path = miLAG
+	url = https://github.com/cran/miLAG
 [submodule "miLineage"]
 	path = miLineage
 	url = https://github.com/cran/miLineage
@@ -45056,6 +45068,9 @@
 [submodule "pequod"]
 	path = pequod
 	url = https://github.com/cran/pequod
+[submodule "perARMA"]
+	path = perARMA
+	url = https://github.com/cran/perARMA
 [submodule "peramo"]
 	path = peramo
 	url = https://github.com/cran/peramo
@@ -53420,6 +53435,9 @@
 [submodule "simRestore"]
 	path = simRestore
 	url = https://github.com/cran/simRestore
+[submodule "simStateSpace"]
+	path = simStateSpace
+	url = https://github.com/cran/simStateSpace
 [submodule "simTargetCov"]
 	path = simTargetCov
 	url = https://github.com/cran/simTargetCov
