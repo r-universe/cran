@@ -25472,9 +25472,6 @@
 [submodule "dataverse"]
 	path = dataverse
 	url = https://github.com/cran/dataverse
-[submodule "dataversionr"]
-	path = dataversionr
-	url = https://github.com/cran/dataversionr
 [submodule "datawizard"]
 	path = datawizard
 	url = https://github.com/cran/datawizard
@@ -31103,9 +31100,6 @@
 [submodule "gamlss.foreach"]
 	path = gamlss.foreach
 	url = https://github.com/cran/gamlss.foreach
-[submodule "gamlss.ggplots"]
-	path = gamlss.ggplots
-	url = https://github.com/cran/gamlss.ggplots
 [submodule "gamlss.inf"]
 	path = gamlss.inf
 	url = https://github.com/cran/gamlss.inf
@@ -38363,9 +38357,6 @@
 [submodule "lspls"]
 	path = lspls
 	url = https://github.com/cran/lspls
-[submodule "lsplsGlm"]
-	path = lsplsGlm
-	url = https://github.com/cran/lsplsGlm
 [submodule "lsr"]
 	path = lsr
 	url = https://github.com/cran/lsr
@@ -50594,9 +50585,6 @@
 [submodule "roll"]
 	path = roll
 	url = https://github.com/cran/roll
-[submodule "rollRegres"]
-	path = rollRegres
-	url = https://github.com/cran/rollRegres
 [submodule "rollbar"]
 	path = rollbar
 	url = https://github.com/cran/rollbar
