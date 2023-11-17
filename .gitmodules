@@ -404,6 +404,9 @@
 [submodule "ActiveDriver"]
 	path = ActiveDriver
 	url = https://github.com/cran/ActiveDriver
+[submodule "ActiveDriverWGS"]
+	path = ActiveDriverWGS
+	url = https://github.com/cran/ActiveDriverWGS
 [submodule "ActivePathways"]
 	path = ActivePathways
 	url = https://github.com/cran/ActivePathways
@@ -5363,6 +5366,9 @@
 [submodule "FixedPoint"]
 	path = FixedPoint
 	url = https://github.com/cran/FixedPoint
+[submodule "FjordLight"]
+	path = FjordLight
+	url = https://github.com/cran/FjordLight
 [submodule "FlexDir"]
 	path = FlexDir
 	url = https://github.com/cran/FlexDir
@@ -17759,6 +17765,9 @@
 [submodule "WhatIf"]
 	path = WhatIf
 	url = https://github.com/cran/WhatIf
+[submodule "WhatsR"]
+	path = WhatsR
+	url = https://github.com/cran/WhatsR
 [submodule "WhiteStripe"]
 	path = WhiteStripe
 	url = https://github.com/cran/WhiteStripe
@@ -31979,6 +31988,9 @@
 [submodule "ggcorset"]
 	path = ggcorset
 	url = https://github.com/cran/ggcorset
+[submodule "ggcoverage"]
+	path = ggcoverage
+	url = https://github.com/cran/ggcoverage
 [submodule "ggdag"]
 	path = ggdag
 	url = https://github.com/cran/ggdag
@@ -43394,6 +43406,9 @@
 [submodule "ohtadstats"]
 	path = ohtadstats
 	url = https://github.com/cran/ohtadstats
+[submodule "ohun"]
+	path = ohun
+	url = https://github.com/cran/ohun
 [submodule "oii"]
 	path = oii
 	url = https://github.com/cran/oii
@@ -48656,6 +48671,9 @@
 [submodule "rbenchmark"]
 	path = rbenchmark
 	url = https://github.com/cran/rbenchmark
+[submodule "rbenvo"]
+	path = rbenvo
+	url = https://github.com/cran/rbenvo
 [submodule "rbgm"]
 	path = rbgm
 	url = https://github.com/cran/rbgm
@@ -53399,6 +53417,9 @@
 [submodule "simPop"]
 	path = simPop
 	url = https://github.com/cran/simPop
+[submodule "simRestore"]
+	path = simRestore
+	url = https://github.com/cran/simRestore
 [submodule "simTargetCov"]
 	path = simTargetCov
 	url = https://github.com/cran/simTargetCov
@@ -54584,6 +54605,9 @@
 [submodule "spatialfusion"]
 	path = spatialfusion
 	url = https://github.com/cran/spatialfusion
+[submodule "spatialprobit"]
+	path = spatialprobit
+	url = https://github.com/cran/spatialprobit
 [submodule "spatialreg"]
 	path = spatialreg
 	url = https://github.com/cran/spatialreg
