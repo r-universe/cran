@@ -10793,6 +10793,9 @@
 [submodule "PANACEA"]
 	path = PANACEA
 	url = https://github.com/cran/PANACEA
+[submodule "PANPRSnext"]
+	path = PANPRSnext
+	url = https://github.com/cran/PANPRSnext
 [submodule "PAS"]
 	path = PAS
 	url = https://github.com/cran/PAS
@@ -33497,6 +33500,9 @@
 [submodule "gson"]
 	path = gson
 	url = https://github.com/cran/gson
+[submodule "gspcr"]
+	path = gspcr
+	url = https://github.com/cran/gspcr
 [submodule "gsrs"]
 	path = gsrs
 	url = https://github.com/cran/gsrs
