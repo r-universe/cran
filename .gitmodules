@@ -27128,6 +27128,9 @@
 [submodule "dsrTest"]
 	path = dsrTest
 	url = https://github.com/cran/dsrTest
+[submodule "dssd"]
+	path = dssd
+	url = https://github.com/cran/dssd
 [submodule "dst"]
 	path = dst
 	url = https://github.com/cran/dst
