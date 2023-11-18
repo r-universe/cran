@@ -26798,6 +26798,9 @@
 [submodule "dockerfiler"]
 	path = dockerfiler
 	url = https://github.com/cran/dockerfiler
+[submodule "docket"]
+	path = docket
+	url = https://github.com/cran/docket
 [submodule "docknitr"]
 	path = docknitr
 	url = https://github.com/cran/docknitr
