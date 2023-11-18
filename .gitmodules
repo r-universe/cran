@@ -2063,9 +2063,6 @@
 [submodule "CHOIRBM"]
 	path = CHOIRBM
 	url = https://github.com/cran/CHOIRBM
-[submodule "CHsharp"]
-	path = CHsharp
-	url = https://github.com/cran/CHsharp
 [submodule "CIAAWconsensus"]
 	path = CIAAWconsensus
 	url = https://github.com/cran/CIAAWconsensus
@@ -4292,9 +4289,6 @@
 [submodule "EHR"]
 	path = EHR
 	url = https://github.com/cran/EHR
-[submodule "EHRtemporalVariability"]
-	path = EHRtemporalVariability
-	url = https://github.com/cran/EHRtemporalVariability
 [submodule "EIAapi"]
 	path = EIAapi
 	url = https://github.com/cran/EIAapi
@@ -9110,9 +9104,6 @@
 [submodule "MST"]
 	path = MST
 	url = https://github.com/cran/MST
-[submodule "MSTest"]
-	path = MSTest
-	url = https://github.com/cran/MSTest
 [submodule "MSbox"]
 	path = MSbox
 	url = https://github.com/cran/MSbox
@@ -14096,9 +14087,6 @@
 [submodule "Rfit"]
 	path = Rfit
 	url = https://github.com/cran/Rfit
-[submodule "Rfmtool"]
-	path = Rfmtool
-	url = https://github.com/cran/Rfmtool
 [submodule "Rfolding"]
 	path = Rfolding
 	url = https://github.com/cran/Rfolding
@@ -31961,9 +31949,6 @@
 [submodule "ggarchery"]
 	path = ggarchery
 	url = https://github.com/cran/ggarchery
-[submodule "ggasym"]
-	path = ggasym
-	url = https://github.com/cran/ggasym
 [submodule "ggautomap"]
 	path = ggautomap
 	url = https://github.com/cran/ggautomap
@@ -40517,9 +40502,6 @@
 [submodule "mlmm.gwas"]
 	path = mlmm.gwas
 	url = https://github.com/cran/mlmm.gwas
-[submodule "mlmmm"]
-	path = mlmmm
-	url = https://github.com/cran/mlmmm
 [submodule "mlmpower"]
 	path = mlmpower
 	url = https://github.com/cran/mlmpower
@@ -40868,9 +40850,6 @@
 [submodule "modelimpact"]
 	path = modelimpact
 	url = https://github.com/cran/modelimpact
-[submodule "modelplotr"]
-	path = modelplotr
-	url = https://github.com/cran/modelplotr
 [submodule "modelr"]
 	path = modelr
 	url = https://github.com/cran/modelr
@@ -43073,9 +43052,6 @@
 [submodule "npsm"]
 	path = npsm
 	url = https://github.com/cran/npsm
-[submodule "npsp"]
-	path = npsp
-	url = https://github.com/cran/npsp
 [submodule "npsr"]
 	path = npsr
 	url = https://github.com/cran/npsr
