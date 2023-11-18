@@ -12455,9 +12455,6 @@
 [submodule "RDStreeboot"]
 	path = RDStreeboot
 	url = https://github.com/cran/RDStreeboot
-[submodule "RDataCanvas"]
-	path = RDataCanvas
-	url = https://github.com/cran/RDataCanvas
 [submodule "RDieHarder"]
 	path = RDieHarder
 	url = https://github.com/cran/RDieHarder
