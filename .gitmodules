@@ -8522,9 +8522,6 @@
 [submodule "MBC"]
 	path = MBC
 	url = https://github.com/cran/MBC
-[submodule "MBCbook"]
-	path = MBCbook
-	url = https://github.com/cran/MBCbook
 [submodule "MBESS"]
 	path = MBESS
 	url = https://github.com/cran/MBESS
@@ -44249,9 +44246,6 @@
 [submodule "pagenum"]
 	path = pagenum
 	url = https://github.com/cran/pagenum
-[submodule "pageviews"]
-	path = pageviews
-	url = https://github.com/cran/pageviews
 [submodule "pagoda2"]
 	path = pagoda2
 	url = https://github.com/cran/pagoda2
@@ -60167,9 +60161,6 @@
 [submodule "wikilake"]
 	path = wikilake
 	url = https://github.com/cran/wikilake
-[submodule "wikipediatrend"]
-	path = wikipediatrend
-	url = https://github.com/cran/wikipediatrend
 [submodule "wikiprofiler"]
 	path = wikiprofiler
 	url = https://github.com/cran/wikiprofiler
