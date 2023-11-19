@@ -6476,6 +6476,9 @@
 [submodule "HDBRR"]
 	path = HDBRR
 	url = https://github.com/cran/HDBRR
+[submodule "HDCD"]
+	path = HDCD
+	url = https://github.com/cran/HDCD
 [submodule "HDCI"]
 	path = HDCI
 	url = https://github.com/cran/HDCI
@@ -6686,6 +6689,9 @@
 [submodule "HUM"]
 	path = HUM
 	url = https://github.com/cran/HUM
+[submodule "HVT"]
+	path = HVT
+	url = https://github.com/cran/HVT
 [submodule "HWEintrinsic"]
 	path = HWEintrinsic
 	url = https://github.com/cran/HWEintrinsic
@@ -11777,6 +11783,9 @@
 [submodule "PowerNormal"]
 	path = PowerNormal
 	url = https://github.com/cran/PowerNormal
+[submodule "PowerSDI"]
+	path = PowerSDI
+	url = https://github.com/cran/PowerSDI
 [submodule "PowerTOST"]
 	path = PowerTOST
 	url = https://github.com/cran/PowerTOST
@@ -12497,6 +12506,9 @@
 [submodule "REEMtree"]
 	path = REEMtree
 	url = https://github.com/cran/REEMtree
+[submodule "REFA"]
+	path = REFA
+	url = https://github.com/cran/REFA
 [submodule "REGENT"]
 	path = REGENT
 	url = https://github.com/cran/REGENT
@@ -55721,6 +55733,9 @@
 [submodule "stratamatch"]
 	path = stratamatch
 	url = https://github.com/cran/stratamatch
+[submodule "stratastats"]
+	path = stratastats
+	url = https://github.com/cran/stratastats
 [submodule "stratbr"]
 	path = stratbr
 	url = https://github.com/cran/stratbr
