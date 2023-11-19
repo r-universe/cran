@@ -12455,6 +12455,9 @@
 [submodule "RDStreeboot"]
 	path = RDStreeboot
 	url = https://github.com/cran/RDStreeboot
+[submodule "RDataCanvas"]
+	path = RDataCanvas
+	url = https://github.com/cran/RDataCanvas
 [submodule "RDieHarder"]
 	path = RDieHarder
 	url = https://github.com/cran/RDieHarder
@@ -15353,6 +15356,9 @@
 [submodule "SWMPr"]
 	path = SWMPr
 	url = https://github.com/cran/SWMPr
+[submodule "SWMPrExtension"]
+	path = SWMPrExtension
+	url = https://github.com/cran/SWMPrExtension
 [submodule "SWTools"]
 	path = SWTools
 	url = https://github.com/cran/SWTools
@@ -58961,6 +58967,9 @@
 [submodule "usdm"]
 	path = usdm
 	url = https://github.com/cran/usdm
+[submodule "usdoj"]
+	path = usdoj
+	url = https://github.com/cran/usdoj
 [submodule "usedist"]
 	path = usedist
 	url = https://github.com/cran/usedist
