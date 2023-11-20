@@ -2075,9 +2075,6 @@
 [submodule "CICI"]
 	path = CICI
 	url = https://github.com/cran/CICI
-[submodule "CIDER"]
-	path = CIDER
-	url = https://github.com/cran/CIDER
 [submodule "CIEE"]
 	path = CIEE
 	url = https://github.com/cran/CIEE
@@ -2321,9 +2318,6 @@
 [submodule "CRediTas"]
 	path = CRediTas
 	url = https://github.com/cran/CRediTas
-[submodule "CSCDRNA"]
-	path = CSCDRNA
-	url = https://github.com/cran/CSCDRNA
 [submodule "CSCNet"]
 	path = CSCNet
 	url = https://github.com/cran/CSCNet
@@ -51878,9 +51872,6 @@
 [submodule "sc2sc"]
 	path = sc2sc
 	url = https://github.com/cran/sc2sc
-[submodule "scAnnotate"]
-	path = scAnnotate
-	url = https://github.com/cran/scAnnotate
 [submodule "scBio"]
 	path = scBio
 	url = https://github.com/cran/scBio
