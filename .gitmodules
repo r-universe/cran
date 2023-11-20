@@ -21380,6 +21380,9 @@
 [submodule "bpbounds"]
 	path = bpbounds
 	url = https://github.com/cran/bpbounds
+[submodule "bpca"]
+	path = bpca
+	url = https://github.com/cran/bpca
 [submodule "bpcp"]
 	path = bpcp
 	url = https://github.com/cran/bpcp
