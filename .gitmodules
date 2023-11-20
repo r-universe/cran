@@ -32816,9 +32816,6 @@
 [submodule "gmapsdistance"]
 	path = gmapsdistance
 	url = https://github.com/cran/gmapsdistance
-[submodule "gmat"]
-	path = gmat
-	url = https://github.com/cran/gmat
 [submodule "gmfd"]
 	path = gmfd
 	url = https://github.com/cran/gmfd
@@ -59357,9 +59354,6 @@
 [submodule "venn"]
 	path = venn
 	url = https://github.com/cran/venn
-[submodule "vennLasso"]
-	path = vennLasso
-	url = https://github.com/cran/vennLasso
 [submodule "venneuler"]
 	path = venneuler
 	url = https://github.com/cran/venneuler
