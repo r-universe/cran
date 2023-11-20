@@ -5381,6 +5381,9 @@
 [submodule "FlexScan"]
 	path = FlexScan
 	url = https://github.com/cran/FlexScan
+[submodule "FlexVarJM"]
+	path = FlexVarJM
+	url = https://github.com/cran/FlexVarJM
 [submodule "FlickrAPI"]
 	path = FlickrAPI
 	url = https://github.com/cran/FlickrAPI
@@ -25343,6 +25346,9 @@
 [submodule "dartR.data"]
 	path = dartR.data
 	url = https://github.com/cran/dartR.data
+[submodule "dartR.sim"]
+	path = dartR.sim
+	url = https://github.com/cran/dartR.sim
 [submodule "dartR.spatial"]
 	path = dartR.spatial
 	url = https://github.com/cran/dartR.spatial
@@ -31931,6 +31937,9 @@
 [submodule "ggRtsy"]
 	path = ggRtsy
 	url = https://github.com/cran/ggRtsy
+[submodule "ggScatRidges"]
+	path = ggScatRidges
+	url = https://github.com/cran/ggScatRidges
 [submodule "ggThemeAssist"]
 	path = ggThemeAssist
 	url = https://github.com/cran/ggThemeAssist
@@ -43328,6 +43337,9 @@
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/cran/odbc
+[submodule "odbr"]
+	path = odbr
+	url = https://github.com/cran/odbr
 [submodule "oddnet"]
 	path = oddnet
 	url = https://github.com/cran/oddnet
@@ -58787,6 +58799,9 @@
 [submodule "ungroup"]
 	path = ungroup
 	url = https://github.com/cran/ungroup
+[submodule "unhcrthemes"]
+	path = unhcrthemes
+	url = https://github.com/cran/unhcrthemes
 [submodule "unheadr"]
 	path = unheadr
 	url = https://github.com/cran/unheadr
