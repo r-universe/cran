@@ -37895,9 +37895,6 @@
 [submodule "lmSubsets"]
 	path = lmSubsets
 	url = https://github.com/cran/lmSubsets
-[submodule "lmap"]
-	path = lmap
-	url = https://github.com/cran/lmap
 [submodule "lmboot"]
 	path = lmboot
 	url = https://github.com/cran/lmboot
@@ -48986,9 +48983,6 @@
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
-[submodule "read.dbc"]
-	path = read.dbc
-	url = https://github.com/cran/read.dbc
 [submodule "read.gb"]
 	path = read.gb
 	url = https://github.com/cran/read.gb
@@ -49022,9 +49016,6 @@
 [submodule "readOffice"]
 	path = readOffice
 	url = https://github.com/cran/readOffice
-[submodule "readSX"]
-	path = readSX
-	url = https://github.com/cran/readSX
 [submodule "readabs"]
 	path = readabs
 	url = https://github.com/cran/readabs
