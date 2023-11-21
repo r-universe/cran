@@ -1319,6 +1319,9 @@
 [submodule "BayesGmed"]
 	path = BayesGmed
 	url = https://github.com/cran/BayesGmed
+[submodule "BayesGrowth"]
+	path = BayesGrowth
+	url = https://github.com/cran/BayesGrowth
 [submodule "BayesLCA"]
 	path = BayesLCA
 	url = https://github.com/cran/BayesLCA
@@ -9500,6 +9503,9 @@
 [submodule "MfUSampler"]
 	path = MfUSampler
 	url = https://github.com/cran/MfUSampler
+[submodule "Mhorseshoe"]
+	path = Mhorseshoe
+	url = https://github.com/cran/Mhorseshoe
 [submodule "MiDA"]
 	path = MiDA
 	url = https://github.com/cran/MiDA
@@ -10373,6 +10379,9 @@
 [submodule "NovelDistns"]
 	path = NovelDistns
 	url = https://github.com/cran/NovelDistns
+[submodule "NoviceDeveloperResources"]
+	path = NoviceDeveloperResources
+	url = https://github.com/cran/NoviceDeveloperResources
 [submodule "Nozzle.R1"]
 	path = Nozzle.R1
 	url = https://github.com/cran/Nozzle.R1
@@ -15614,6 +15623,9 @@
 [submodule "ShapleyValue"]
 	path = ShapleyValue
 	url = https://github.com/cran/ShapleyValue
+[submodule "SharkDemography"]
+	path = SharkDemography
+	url = https://github.com/cran/SharkDemography
 [submodule "SharpeR"]
 	path = SharpeR
 	url = https://github.com/cran/SharpeR
@@ -16703,6 +16715,9 @@
 [submodule "TSLSTM"]
 	path = TSLSTM
 	url = https://github.com/cran/TSLSTM
+[submodule "TSLSTMplus"]
+	path = TSLSTMplus
+	url = https://github.com/cran/TSLSTMplus
 [submodule "TSMN"]
 	path = TSMN
 	url = https://github.com/cran/TSMN
@@ -22517,6 +22532,9 @@
 [submodule "cforward"]
 	path = cforward
 	url = https://github.com/cran/cforward
+[submodule "cfr"]
+	path = cfr
+	url = https://github.com/cran/cfr
 [submodule "cft"]
 	path = cft
 	url = https://github.com/cran/cft
@@ -25358,6 +25376,9 @@
 [submodule "dartR.data"]
 	path = dartR.data
 	url = https://github.com/cran/dartR.data
+[submodule "dartR.popgen"]
+	path = dartR.popgen
+	url = https://github.com/cran/dartR.popgen
 [submodule "dartR.sim"]
 	path = dartR.sim
 	url = https://github.com/cran/dartR.sim
@@ -33077,6 +33098,9 @@
 [submodule "gpk"]
 	path = gpk
 	url = https://github.com/cran/gpk
+[submodule "gpkg"]
+	path = gpkg
+	url = https://github.com/cran/gpkg
 [submodule "gplite"]
 	path = gplite
 	url = https://github.com/cran/gplite
@@ -38972,6 +38996,9 @@
 [submodule "marqLevAlg"]
 	path = marqLevAlg
 	url = https://github.com/cran/marqLevAlg
+[submodule "marradistrees"]
+	path = marradistrees
+	url = https://github.com/cran/marradistrees
 [submodule "mas"]
 	path = mas
 	url = https://github.com/cran/mas
@@ -49712,6 +49739,9 @@
 [submodule "restriktor"]
 	path = restriktor
 	url = https://github.com/cran/restriktor
+[submodule "result"]
+	path = result
+	url = https://github.com/cran/result
 [submodule "resumer"]
 	path = resumer
 	url = https://github.com/cran/resumer
@@ -52073,6 +52103,9 @@
 [submodule "scenes"]
 	path = scenes
 	url = https://github.com/cran/scenes
+[submodule "scfetch"]
+	path = scfetch
+	url = https://github.com/cran/scfetch
 [submodule "scgwr"]
 	path = scgwr
 	url = https://github.com/cran/scgwr
@@ -54044,6 +54077,9 @@
 [submodule "smmR"]
 	path = smmR
 	url = https://github.com/cran/smmR
+[submodule "smof"]
+	path = smof
+	url = https://github.com/cran/smof
 [submodule "smog"]
 	path = smog
 	url = https://github.com/cran/smog
