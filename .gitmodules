@@ -44642,9 +44642,6 @@
 [submodule "pathlit"]
 	path = pathlit
 	url = https://github.com/cran/pathlit
-[submodule "pathmapping"]
-	path = pathmapping
-	url = https://github.com/cran/pathmapping
 [submodule "pathmodelfit"]
 	path = pathmodelfit
 	url = https://github.com/cran/pathmodelfit
@@ -45611,9 +45608,6 @@
 [submodule "pisaRT"]
 	path = pisaRT
 	url = https://github.com/cran/pisaRT
-[submodule "pitchRx"]
-	path = pitchRx
-	url = https://github.com/cran/pitchRx
 [submodule "piton"]
 	path = piton
 	url = https://github.com/cran/piton
