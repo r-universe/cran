@@ -15977,6 +15977,9 @@
 [submodule "SpatEntropy"]
 	path = SpatEntropy
 	url = https://github.com/cran/SpatEntropy
+[submodule "SpatMCA"]
+	path = SpatMCA
+	url = https://github.com/cran/SpatMCA
 [submodule "SpatPCA"]
 	path = SpatPCA
 	url = https://github.com/cran/SpatPCA
@@ -45083,6 +45086,9 @@
 [submodule "peppm"]
 	path = peppm
 	url = https://github.com/cran/peppm
+[submodule "pepr"]
+	path = pepr
+	url = https://github.com/cran/pepr
 [submodule "peptider"]
 	path = peptider
 	url = https://github.com/cran/peptider
