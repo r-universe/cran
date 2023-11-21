@@ -48224,6 +48224,9 @@
 [submodule "rSHAPE"]
 	path = rSHAPE
 	url = https://github.com/cran/rSHAPE
+[submodule "rSPARCS"]
+	path = rSPARCS
+	url = https://github.com/cran/rSPARCS
 [submodule "rSPDE"]
 	path = rSPDE
 	url = https://github.com/cran/rSPDE
