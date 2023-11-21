@@ -11090,6 +11090,9 @@
 [submodule "PNAR"]
 	path = PNAR
 	url = https://github.com/cran/PNAR
+[submodule "PNDSIBGE"]
+	path = PNDSIBGE
+	url = https://github.com/cran/PNDSIBGE
 [submodule "PNSIBGE"]
 	path = PNSIBGE
 	url = https://github.com/cran/PNSIBGE
@@ -51923,9 +51926,6 @@
 [submodule "scDiffCom"]
 	path = scDiffCom
 	url = https://github.com/cran/scDiffCom
-[submodule "scGOclust"]
-	path = scGOclust
-	url = https://github.com/cran/scGOclust
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/cran/scGate
@@ -52535,6 +52535,9 @@
 [submodule "semicmprskcoxmsm"]
 	path = semicmprskcoxmsm
 	url = https://github.com/cran/semicmprskcoxmsm
+[submodule "semidist"]
+	path = semidist
+	url = https://github.com/cran/semidist
 [submodule "seminr"]
 	path = seminr
 	url = https://github.com/cran/seminr
