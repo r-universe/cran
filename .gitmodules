@@ -3974,6 +3974,9 @@
 [submodule "DiffCorr"]
 	path = DiffCorr
 	url = https://github.com/cran/DiffCorr
+[submodule "DiffNet"]
+	path = DiffNet
+	url = https://github.com/cran/DiffNet
 [submodule "DiffXTables"]
 	path = DiffXTables
 	url = https://github.com/cran/DiffXTables
@@ -6374,6 +6377,9 @@
 [submodule "GpGp"]
 	path = GpGp
 	url = https://github.com/cran/GpGp
+[submodule "GrFA"]
+	path = GrFA
+	url = https://github.com/cran/GrFA
 [submodule "Grace"]
 	path = Grace
 	url = https://github.com/cran/Grace
@@ -11744,6 +11750,9 @@
 [submodule "Pomic"]
 	path = Pomic
 	url = https://github.com/cran/Pomic
+[submodule "PoolBal"]
+	path = PoolBal
+	url = https://github.com/cran/PoolBal
 [submodule "PoolDilutionR"]
 	path = PoolDilutionR
 	url = https://github.com/cran/PoolDilutionR
@@ -16184,6 +16193,9 @@
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/cran/Statamarkdown
+[submodule "StateLevelForest"]
+	path = StateLevelForest
+	url = https://github.com/cran/StateLevelForest
 [submodule "Statsomat"]
 	path = Statsomat
 	url = https://github.com/cran/Statsomat
@@ -30569,6 +30581,9 @@
 [submodule "fqar"]
 	path = fqar
 	url = https://github.com/cran/fqar
+[submodule "fr"]
+	path = fr
+	url = https://github.com/cran/fr
 [submodule "frab"]
 	path = frab
 	url = https://github.com/cran/frab
@@ -47291,6 +47306,9 @@
 [submodule "public.ctn0094data"]
 	path = public.ctn0094data
 	url = https://github.com/cran/public.ctn0094data
+[submodule "public.ctn0094extra"]
+	path = public.ctn0094extra
+	url = https://github.com/cran/public.ctn0094extra
 [submodule "publipha"]
 	path = publipha
 	url = https://github.com/cran/publipha
