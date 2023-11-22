@@ -44672,6 +44672,9 @@
 [submodule "pathlit"]
 	path = pathlit
 	url = https://github.com/cran/pathlit
+[submodule "pathmapping"]
+	path = pathmapping
+	url = https://github.com/cran/pathmapping
 [submodule "pathmodelfit"]
 	path = pathmodelfit
 	url = https://github.com/cran/pathmodelfit
@@ -45638,6 +45641,9 @@
 [submodule "pisaRT"]
 	path = pisaRT
 	url = https://github.com/cran/pisaRT
+[submodule "pitchRx"]
+	path = pitchRx
+	url = https://github.com/cran/pitchRx
 [submodule "piton"]
 	path = piton
 	url = https://github.com/cran/piton
@@ -51962,6 +51968,9 @@
 [submodule "scDiffCom"]
 	path = scDiffCom
 	url = https://github.com/cran/scDiffCom
+[submodule "scGOclust"]
+	path = scGOclust
+	url = https://github.com/cran/scGOclust
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/cran/scGate
