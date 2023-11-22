@@ -6851,6 +6851,9 @@
 [submodule "HurreconR"]
 	path = HurreconR
 	url = https://github.com/cran/HurreconR
+[submodule "HyMETT"]
+	path = HyMETT
+	url = https://github.com/cran/HyMETT
 [submodule "HyRiM"]
 	path = HyRiM
 	url = https://github.com/cran/HyRiM
