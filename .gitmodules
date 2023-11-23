@@ -35582,9 +35582,6 @@
 [submodule "innsight"]
 	path = innsight
 	url = https://github.com/cran/innsight
-[submodule "ino"]
-	path = ino
-	url = https://github.com/cran/ino
 [submodule "inops"]
 	path = inops
 	url = https://github.com/cran/inops
@@ -42551,9 +42548,6 @@
 [submodule "nhlapi"]
 	path = nhlapi
 	url = https://github.com/cran/nhlapi
-[submodule "nhlscrape"]
-	path = nhlscrape
-	url = https://github.com/cran/nhlscrape
 [submodule "nhm"]
 	path = nhm
 	url = https://github.com/cran/nhm
