@@ -653,6 +653,9 @@
 [submodule "AssocAFC"]
 	path = AssocAFC
 	url = https://github.com/cran/AssocAFC
+[submodule "AssocBin"]
+	path = AssocBin
+	url = https://github.com/cran/AssocBin
 [submodule "AssocTests"]
 	path = AssocTests
 	url = https://github.com/cran/AssocTests
@@ -49055,6 +49058,9 @@
 [submodule "reactable"]
 	path = reactable
 	url = https://github.com/cran/reactable
+[submodule "reactable.extras"]
+	path = reactable.extras
+	url = https://github.com/cran/reactable.extras
 [submodule "reactablefmtr"]
 	path = reactablefmtr
 	url = https://github.com/cran/reactablefmtr
