@@ -11981,6 +11981,9 @@
 [submodule "PtProcess"]
 	path = PtProcess
 	url = https://github.com/cran/PtProcess
+[submodule "PubChemR"]
+	path = PubChemR
+	url = https://github.com/cran/PubChemR
 [submodule "PubMedMining"]
 	path = PubMedMining
 	url = https://github.com/cran/PubMedMining
@@ -23222,6 +23225,9 @@
 [submodule "clusterCons"]
 	path = clusterCons
 	url = https://github.com/cran/clusterCons
+[submodule "clusterCrit"]
+	path = clusterCrit
+	url = https://github.com/cran/clusterCrit
 [submodule "clusterGeneration"]
 	path = clusterGeneration
 	url = https://github.com/cran/clusterGeneration
@@ -39683,6 +39689,9 @@
 [submodule "metaRNASeq"]
 	path = metaRNASeq
 	url = https://github.com/cran/metaRNASeq
+[submodule "metaRange"]
+	path = metaRange
+	url = https://github.com/cran/metaRange
 [submodule "metaSDTreg"]
 	path = metaSDTreg
 	url = https://github.com/cran/metaSDTreg
@@ -49826,6 +49835,9 @@
 [submodule "reverseR"]
 	path = reverseR
 	url = https://github.com/cran/reverseR
+[submodule "revert"]
+	path = revert
+	url = https://github.com/cran/revert
 [submodule "revgeo"]
 	path = revgeo
 	url = https://github.com/cran/revgeo
@@ -52256,6 +52268,9 @@
 [submodule "scraEP"]
 	path = scraEP
 	url = https://github.com/cran/scraEP
+[submodule "scrapeR"]
+	path = scrapeR
+	url = https://github.com/cran/scrapeR
 [submodule "scrappy"]
 	path = scrappy
 	url = https://github.com/cran/scrappy
@@ -53123,6 +53138,9 @@
 [submodule "shinyIRT"]
 	path = shinyIRT
 	url = https://github.com/cran/shinyIRT
+[submodule "shinyInvoice"]
+	path = shinyInvoice
+	url = https://github.com/cran/shinyInvoice
 [submodule "shinyKGode"]
 	path = shinyKGode
 	url = https://github.com/cran/shinyKGode
