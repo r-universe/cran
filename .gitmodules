@@ -33203,6 +33203,9 @@
 [submodule "granova"]
 	path = granova
 	url = https://github.com/cran/granova
+[submodule "granovaGG"]
+	path = granovaGG
+	url = https://github.com/cran/granovaGG
 [submodule "grantham"]
 	path = grantham
 	url = https://github.com/cran/grantham
@@ -37577,6 +37580,9 @@
 [submodule "lestat"]
 	path = lestat
 	url = https://github.com/cran/lestat
+[submodule "letsR"]
+	path = letsR
+	url = https://github.com/cran/letsR
 [submodule "lettervalue"]
 	path = lettervalue
 	url = https://github.com/cran/lettervalue
