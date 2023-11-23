@@ -11825,6 +11825,9 @@
 [submodule "PrInDT"]
 	path = PrInDT
 	url = https://github.com/cran/PrInDT
+[submodule "PracTools"]
+	path = PracTools
+	url = https://github.com/cran/PracTools
 [submodule "PracticalEquiDesign"]
 	path = PracticalEquiDesign
 	url = https://github.com/cran/PracticalEquiDesign
@@ -31814,6 +31817,9 @@
 [submodule "geostats"]
 	path = geostats
 	url = https://github.com/cran/geostats
+[submodule "geostatsp"]
+	path = geostatsp
+	url = https://github.com/cran/geostatsp
 [submodule "geotools"]
 	path = geotools
 	url = https://github.com/cran/geotools
