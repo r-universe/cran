@@ -11825,9 +11825,6 @@
 [submodule "PrInDT"]
 	path = PrInDT
 	url = https://github.com/cran/PrInDT
-[submodule "PracTools"]
-	path = PracTools
-	url = https://github.com/cran/PracTools
 [submodule "PracticalEquiDesign"]
 	path = PracticalEquiDesign
 	url = https://github.com/cran/PracticalEquiDesign
