@@ -38678,9 +38678,6 @@
 [submodule "madrat"]
 	path = madrat
 	url = https://github.com/cran/madrat
-[submodule "mads"]
-	path = mads
-	url = https://github.com/cran/mads
 [submodule "madshapR"]
 	path = madshapR
 	url = https://github.com/cran/madshapR
