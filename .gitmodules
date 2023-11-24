@@ -16256,6 +16256,9 @@
 [submodule "Storm"]
 	path = Storm
 	url = https://github.com/cran/Storm
+[submodule "StormR"]
+	path = StormR
+	url = https://github.com/cran/StormR
 [submodule "StrainRanking"]
 	path = StrainRanking
 	url = https://github.com/cran/StrainRanking
@@ -41714,6 +41717,9 @@
 [submodule "multipanelfigure"]
 	path = multipanelfigure
 	url = https://github.com/cran/multipanelfigure
+[submodule "multipleDL"]
+	path = multipleDL
+	url = https://github.com/cran/multipleDL
 [submodule "multipleNCC"]
 	path = multipleNCC
 	url = https://github.com/cran/multipleNCC
@@ -55199,6 +55205,9 @@
 [submodule "sqlHelpers"]
 	path = sqlHelpers
 	url = https://github.com/cran/sqlHelpers
+[submodule "sqlcaser"]
+	path = sqlcaser
+	url = https://github.com/cran/sqlcaser
 [submodule "sqldf"]
 	path = sqldf
 	url = https://github.com/cran/sqldf
@@ -58220,6 +58229,9 @@
 [submodule "trawl"]
 	path = trawl
 	url = https://github.com/cran/trawl
+[submodule "treats"]
+	path = treats
+	url = https://github.com/cran/treats
 [submodule "tree"]
 	path = tree
 	url = https://github.com/cran/tree
