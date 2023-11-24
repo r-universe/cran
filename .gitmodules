@@ -25112,6 +25112,9 @@
 [submodule "curvecomp"]
 	path = curvecomp
 	url = https://github.com/cran/curvecomp
+[submodule "curvir"]
+	path = curvir
+	url = https://github.com/cran/curvir
 [submodule "cusp"]
 	path = cusp
 	url = https://github.com/cran/cusp
@@ -30758,6 +30761,9 @@
 [submodule "frostr"]
 	path = frostr
 	url = https://github.com/cran/frostr
+[submodule "froth"]
+	path = froth
+	url = https://github.com/cran/froth
 [submodule "frscore"]
 	path = frscore
 	url = https://github.com/cran/frscore
@@ -43931,6 +43937,9 @@
 [submodule "ora"]
 	path = ora
 	url = https://github.com/cran/ora
+[submodule "orbweaver"]
+	path = orbweaver
+	url = https://github.com/cran/orbweaver
 [submodule "orca"]
 	path = orca
 	url = https://github.com/cran/orca
