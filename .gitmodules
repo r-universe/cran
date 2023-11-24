@@ -33641,9 +33641,6 @@
 [submodule "gtools"]
 	path = gtools
 	url = https://github.com/cran/gtools
-[submodule "gtop"]
-	path = gtop
-	url = https://github.com/cran/gtop
 [submodule "gtranslate"]
 	path = gtranslate
 	url = https://github.com/cran/gtranslate
