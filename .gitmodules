@@ -242,9 +242,6 @@
 [submodule "ANOVAShiny2"]
 	path = ANOVAShiny2
 	url = https://github.com/cran/ANOVAShiny2
-[submodule "ANTs"]
-	path = ANTs
-	url = https://github.com/cran/ANTs
 [submodule "AOV1R"]
 	path = AOV1R
 	url = https://github.com/cran/AOV1R
@@ -1976,9 +1973,6 @@
 [submodule "CDFt"]
 	path = CDFt
 	url = https://github.com/cran/CDFt
-[submodule "CDLasso"]
-	path = CDLasso
-	url = https://github.com/cran/CDLasso
 [submodule "CDM"]
 	path = CDM
 	url = https://github.com/cran/CDM
@@ -3236,9 +3230,6 @@
 [submodule "DArand"]
 	path = DArand
 	url = https://github.com/cran/DArand
-[submodule "DBERlibR"]
-	path = DBERlibR
-	url = https://github.com/cran/DBERlibR
 [submodule "DBEST"]
 	path = DBEST
 	url = https://github.com/cran/DBEST
@@ -4865,9 +4856,6 @@
 [submodule "ExposR"]
 	path = ExposR
 	url = https://github.com/cran/ExposR
-[submodule "ExprNet"]
-	path = ExprNet
-	url = https://github.com/cran/ExprNet
 [submodule "ExtDist"]
 	path = ExtDist
 	url = https://github.com/cran/ExtDist
@@ -21812,9 +21800,6 @@
 [submodule "bvls"]
 	path = bvls
 	url = https://github.com/cran/bvls
-[submodule "bvpSolve"]
-	path = bvpSolve
-	url = https://github.com/cran/bvpSolve
 [submodule "bvpa"]
 	path = bvpa
 	url = https://github.com/cran/bvpa
@@ -25790,9 +25775,6 @@
 [submodule "deTS"]
 	path = deTS
 	url = https://github.com/cran/deTS
-[submodule "deTestSet"]
-	path = deTestSet
-	url = https://github.com/cran/deTestSet
 [submodule "deaR"]
 	path = deaR
 	url = https://github.com/cran/deaR
@@ -41054,9 +41036,6 @@
 [submodule "momentuHMM"]
 	path = momentuHMM
 	url = https://github.com/cran/momentuHMM
-[submodule "momr"]
-	path = momr
-	url = https://github.com/cran/momr
 [submodule "monaco"]
 	path = monaco
 	url = https://github.com/cran/monaco
@@ -48245,9 +48224,6 @@
 [submodule "rMVP"]
 	path = rMVP
 	url = https://github.com/cran/rMVP
-[submodule "rMisbeta"]
-	path = rMisbeta
-	url = https://github.com/cran/rMisbeta
 [submodule "rMultiNet"]
 	path = rMultiNet
 	url = https://github.com/cran/rMultiNet
@@ -50735,9 +50711,6 @@
 [submodule "roger"]
 	path = roger
 	url = https://github.com/cran/roger
-[submodule "roistats"]
-	path = roistats
-	url = https://github.com/cran/roistats
 [submodule "rolap"]
 	path = rolap
 	url = https://github.com/cran/rolap
@@ -52757,9 +52730,6 @@
 [submodule "sepkoski"]
 	path = sepkoski
 	url = https://github.com/cran/sepkoski
-[submodule "seq2R"]
-	path = seq2R
-	url = https://github.com/cran/seq2R
 [submodule "seqCBS"]
 	path = seqCBS
 	url = https://github.com/cran/seqCBS
