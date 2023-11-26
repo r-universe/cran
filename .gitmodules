@@ -40319,9 +40319,6 @@
 [submodule "miselect"]
 	path = miselect
 	url = https://github.com/cran/miselect
-[submodule "misha"]
-	path = misha
-	url = https://github.com/cran/misha
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/cran/mispitools
@@ -55472,9 +55469,6 @@
 [submodule "starter"]
 	path = starter
 	url = https://github.com/cran/starter
-[submodule "starticles"]
-	path = starticles
-	url = https://github.com/cran/starticles
 [submodule "startup"]
 	path = startup
 	url = https://github.com/cran/startup
