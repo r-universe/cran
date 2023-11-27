@@ -8801,6 +8801,9 @@
 [submodule "MIXFIM"]
 	path = MIXFIM
 	url = https://github.com/cran/MIXFIM
+[submodule "MJMbamlss"]
+	path = MJMbamlss
+	url = https://github.com/cran/MJMbamlss
 [submodule "MKLE"]
 	path = MKLE
 	url = https://github.com/cran/MKLE
@@ -18221,9 +18224,6 @@
 [submodule "activity"]
 	path = activity
 	url = https://github.com/cran/activity
-[submodule "activityGCMM"]
-	path = activityGCMM
-	url = https://github.com/cran/activityGCMM
 [submodule "actogrammr"]
 	path = actogrammr
 	url = https://github.com/cran/actogrammr
@@ -25388,6 +25388,9 @@
 [submodule "dartR.base"]
 	path = dartR.base
 	url = https://github.com/cran/dartR.base
+[submodule "dartR.captive"]
+	path = dartR.captive
+	url = https://github.com/cran/dartR.captive
 [submodule "dartR.data"]
 	path = dartR.data
 	url = https://github.com/cran/dartR.data
@@ -50483,6 +50486,9 @@
 [submodule "rnn"]
 	path = rnn
 	url = https://github.com/cran/rnn
+[submodule "rnndescent"]
+	path = rnndescent
+	url = https://github.com/cran/rnndescent
 [submodule "rnoaa"]
 	path = rnoaa
 	url = https://github.com/cran/rnoaa
@@ -50786,6 +50792,9 @@
 [submodule "rosm"]
 	path = rosm
 	url = https://github.com/cran/rosm
+[submodule "rosmium"]
+	path = rosmium
+	url = https://github.com/cran/rosmium
 [submodule "rospca"]
 	path = rospca
 	url = https://github.com/cran/rospca
@@ -54725,6 +54734,9 @@
 [submodule "spatialfusion"]
 	path = spatialfusion
 	url = https://github.com/cran/spatialfusion
+[submodule "spatialising"]
+	path = spatialising
+	url = https://github.com/cran/spatialising
 [submodule "spatialprobit"]
 	path = spatialprobit
 	url = https://github.com/cran/spatialprobit
