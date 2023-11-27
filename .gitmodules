@@ -19067,9 +19067,6 @@
 [submodule "aos"]
 	path = aos
 	url = https://github.com/cran/aos
-[submodule "apTreeshape"]
-	path = apTreeshape
-	url = https://github.com/cran/apTreeshape
 [submodule "apa"]
 	path = apa
 	url = https://github.com/cran/apa
@@ -47213,9 +47210,6 @@
 [submodule "psqn"]
 	path = psqn
 	url = https://github.com/cran/psqn
-[submodule "psrwe"]
-	path = psrwe
-	url = https://github.com/cran/psrwe
 [submodule "pssmooth"]
 	path = pssmooth
 	url = https://github.com/cran/pssmooth
@@ -50294,9 +50288,6 @@
 [submodule "rlfsm"]
 	path = rlfsm
 	url = https://github.com/cran/rlfsm
-[submodule "rlibkriging"]
-	path = rlibkriging
-	url = https://github.com/cran/rlibkriging
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/cran/rliger
@@ -58250,9 +58241,6 @@
 [submodule "treediff"]
 	path = treediff
 	url = https://github.com/cran/treediff
-[submodule "treeducken"]
-	path = treeducken
-	url = https://github.com/cran/treeducken
 [submodule "treefit"]
 	path = treefit
 	url = https://github.com/cran/treefit
