@@ -18137,6 +18137,9 @@
 [submodule "accessrmd"]
 	path = accessrmd
 	url = https://github.com/cran/accessrmd
+[submodule "accrual"]
+	path = accrual
+	url = https://github.com/cran/accrual
 [submodule "accrualPlot"]
 	path = accrualPlot
 	url = https://github.com/cran/accrualPlot
