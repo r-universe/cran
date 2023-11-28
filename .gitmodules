@@ -13370,6 +13370,9 @@
 [submodule "RTriangle"]
 	path = RTriangle
 	url = https://github.com/cran/RTriangle
+[submodule "RUVIIIC"]
+	path = RUVIIIC
+	url = https://github.com/cran/RUVIIIC
 [submodule "RUnit"]
 	path = RUnit
 	url = https://github.com/cran/RUnit
@@ -18227,6 +18230,9 @@
 [submodule "activity"]
 	path = activity
 	url = https://github.com/cran/activity
+[submodule "activityGCMM"]
+	path = activityGCMM
+	url = https://github.com/cran/activityGCMM
 [submodule "actogrammr"]
 	path = actogrammr
 	url = https://github.com/cran/actogrammr
@@ -32423,6 +32429,9 @@
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/cran/ggseg3d
+[submodule "ggseqlogo"]
+	path = ggseqlogo
+	url = https://github.com/cran/ggseqlogo
 [submodule "ggseqplot"]
 	path = ggseqplot
 	url = https://github.com/cran/ggseqplot
@@ -54557,6 +54566,9 @@
 [submodule "spam64"]
 	path = spam64
 	url = https://github.com/cran/spam64
+[submodule "spamtree"]
+	path = spamtree
+	url = https://github.com/cran/spamtree
 [submodule "spanish"]
 	path = spanish
 	url = https://github.com/cran/spanish
