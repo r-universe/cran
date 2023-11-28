@@ -290,6 +290,9 @@
 [submodule "ARCokrig"]
 	path = ARCokrig
 	url = https://github.com/cran/ARCokrig
+[submodule "ARDECO"]
+	path = ARDECO
+	url = https://github.com/cran/ARDECO
 [submodule "ARDL"]
 	path = ARDL
 	url = https://github.com/cran/ARDL
@@ -1646,6 +1649,9 @@
 [submodule "Biostatistics"]
 	path = Biostatistics
 	url = https://github.com/cran/Biostatistics
+[submodule "BiostatsUHNplus"]
+	path = BiostatsUHNplus
+	url = https://github.com/cran/BiostatsUHNplus
 [submodule "BipartiteModularityMaximization"]
 	path = BipartiteModularityMaximization
 	url = https://github.com/cran/BipartiteModularityMaximization
@@ -18791,6 +18797,9 @@
 [submodule "alookr"]
 	path = alookr
 	url = https://github.com/cran/alookr
+[submodule "aloom"]
+	path = aloom
+	url = https://github.com/cran/aloom
 [submodule "alpaca"]
 	path = alpaca
 	url = https://github.com/cran/alpaca
@@ -22232,6 +22241,9 @@
 [submodule "causalDisco"]
 	path = causalDisco
 	url = https://github.com/cran/causalDisco
+[submodule "causalOT"]
+	path = causalOT
+	url = https://github.com/cran/causalOT
 [submodule "causalPAF"]
 	path = causalPAF
 	url = https://github.com/cran/causalPAF
@@ -43196,6 +43208,9 @@
 [submodule "nucim"]
 	path = nucim
 	url = https://github.com/cran/nucim
+[submodule "nuggets"]
+	path = nuggets
+	url = https://github.com/cran/nuggets
 [submodule "nullabor"]
 	path = nullabor
 	url = https://github.com/cran/nullabor
@@ -45509,6 +45524,9 @@
 [submodule "phylopath"]
 	path = phylopath
 	url = https://github.com/cran/phylopath
+[submodule "phyloraster"]
+	path = phyloraster
+	url = https://github.com/cran/phyloraster
 [submodule "phyloregion"]
 	path = phyloregion
 	url = https://github.com/cran/phyloregion
@@ -45554,6 +45572,9 @@
 [submodule "piar"]
 	path = piar
 	url = https://github.com/cran/piar
+[submodule "picClip"]
+	path = picClip
+	url = https://github.com/cran/picClip
 [submodule "picR"]
 	path = picR
 	url = https://github.com/cran/picR
