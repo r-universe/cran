@@ -5186,9 +5186,6 @@
 [submodule "FWRGB"]
 	path = FWRGB
 	url = https://github.com/cran/FWRGB
-[submodule "FactoClass"]
-	path = FactoClass
-	url = https://github.com/cran/FactoClass
 [submodule "FactoInvestigate"]
 	path = FactoInvestigate
 	url = https://github.com/cran/FactoInvestigate
@@ -47630,9 +47627,6 @@
 [submodule "qgtools"]
 	path = qgtools
 	url = https://github.com/cran/qgtools
-[submodule "qha"]
-	path = qha
-	url = https://github.com/cran/qha
 [submodule "qicharts"]
 	path = qicharts
 	url = https://github.com/cran/qicharts
