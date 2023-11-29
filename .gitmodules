@@ -10790,6 +10790,9 @@
 [submodule "PACVr"]
 	path = PACVr
 	url = https://github.com/cran/PACVr
+[submodule "PAFit"]
+	path = PAFit
+	url = https://github.com/cran/PAFit
 [submodule "PAGWAS"]
 	path = PAGWAS
 	url = https://github.com/cran/PAGWAS
@@ -11888,6 +11891,9 @@
 [submodule "ProFAST"]
 	path = ProFAST
 	url = https://github.com/cran/ProFAST
+[submodule "ProFound"]
+	path = ProFound
+	url = https://github.com/cran/ProFound
 [submodule "ProPublicaR"]
 	path = ProPublicaR
 	url = https://github.com/cran/ProPublicaR
@@ -20309,6 +20315,9 @@
 [submodule "bbreg"]
 	path = bbreg
 	url = https://github.com/cran/bbreg
+[submodule "bbsBayes"]
+	path = bbsBayes
+	url = https://github.com/cran/bbsBayes
 [submodule "bbw"]
 	path = bbw
 	url = https://github.com/cran/bbw
@@ -31718,6 +31727,9 @@
 [submodule "geoelectrics"]
 	path = geoelectrics
 	url = https://github.com/cran/geoelectrics
+[submodule "geofacet"]
+	path = geofacet
+	url = https://github.com/cran/geofacet
 [submodule "geofd"]
 	path = geofd
 	url = https://github.com/cran/geofd
@@ -33272,6 +33284,9 @@
 [submodule "graphsim"]
 	path = graphsim
 	url = https://github.com/cran/graphsim
+[submodule "graphx"]
+	path = graphx
+	url = https://github.com/cran/graphx
 [submodule "graposas"]
 	path = graposas
 	url = https://github.com/cran/graposas
@@ -34766,6 +34781,9 @@
 [submodule "hyfo"]
 	path = hyfo
 	url = https://github.com/cran/hyfo
+[submodule "hyper.fit"]
+	path = hyper.fit
+	url = https://github.com/cran/hyper.fit
 [submodule "hyper2"]
 	path = hyper2
 	url = https://github.com/cran/hyper2
@@ -38690,6 +38708,9 @@
 [submodule "magicLamp"]
 	path = magicLamp
 	url = https://github.com/cran/magicLamp
+[submodule "magicaxis"]
+	path = magicaxis
+	url = https://github.com/cran/magicaxis
 [submodule "magicfor"]
 	path = magicfor
 	url = https://github.com/cran/magicfor
@@ -42152,6 +42173,9 @@
 [submodule "nblR"]
 	path = nblR
 	url = https://github.com/cran/nblR
+[submodule "nbody"]
+	path = nbody
+	url = https://github.com/cran/nbody
 [submodule "nbpMatching"]
 	path = nbpMatching
 	url = https://github.com/cran/nbpMatching
