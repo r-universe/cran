@@ -48578,9 +48578,6 @@
 [submodule "rankICC"]
 	path = rankICC
 	url = https://github.com/cran/rankICC
-[submodule "rankUncertainty"]
-	path = rankUncertainty
-	url = https://github.com/cran/rankUncertainty
 [submodule "rankdifferencetest"]
 	path = rankdifferencetest
 	url = https://github.com/cran/rankdifferencetest
