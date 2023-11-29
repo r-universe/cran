@@ -39983,9 +39983,6 @@
 [submodule "mgsub"]
 	path = mgsub
 	url = https://github.com/cran/mgsub
-[submodule "mgwrsar"]
-	path = mgwrsar
-	url = https://github.com/cran/mgwrsar
 [submodule "mhazard"]
 	path = mhazard
 	url = https://github.com/cran/mhazard
@@ -47621,9 +47618,6 @@
 [submodule "qkerntool"]
 	path = qkerntool
 	url = https://github.com/cran/qkerntool
-[submodule "qlcMatrix"]
-	path = qlcMatrix
-	url = https://github.com/cran/qlcMatrix
 [submodule "qlcal"]
 	path = qlcal
 	url = https://github.com/cran/qlcal
