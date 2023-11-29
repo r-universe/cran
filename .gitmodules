@@ -6509,6 +6509,9 @@
 [submodule "HDLSSkST"]
 	path = HDLSSkST
 	url = https://github.com/cran/HDLSSkST
+[submodule "HDMAADMM"]
+	path = HDMAADMM
+	url = https://github.com/cran/HDMAADMM
 [submodule "HDMFA"]
 	path = HDMFA
 	url = https://github.com/cran/HDMFA
@@ -18464,6 +18467,9 @@
 [submodule "admmDensestSubmatrix"]
 	path = admmDensestSubmatrix
 	url = https://github.com/cran/admmDensestSubmatrix
+[submodule "admtools"]
+	path = admtools
+	url = https://github.com/cran/admtools
 [submodule "adnuts"]
 	path = adnuts
 	url = https://github.com/cran/adnuts
@@ -24422,6 +24428,9 @@
 [submodule "countsplit"]
 	path = countsplit
 	url = https://github.com/cran/countsplit
+[submodule "countts"]
+	path = countts
+	url = https://github.com/cran/countts
 [submodule "coursekata"]
 	path = coursekata
 	url = https://github.com/cran/coursekata
@@ -27185,6 +27194,9 @@
 [submodule "dsfa"]
 	path = dsfa
 	url = https://github.com/cran/dsfa
+[submodule "dsims"]
+	path = dsims
+	url = https://github.com/cran/dsims
 [submodule "dslabs"]
 	path = dslabs
 	url = https://github.com/cran/dslabs
@@ -36206,6 +36218,9 @@
 [submodule "ivmte"]
 	path = ivmte
 	url = https://github.com/cran/ivmte
+[submodule "ivo.table"]
+	path = ivo.table
+	url = https://github.com/cran/ivo.table
 [submodule "ivprobit"]
 	path = ivprobit
 	url = https://github.com/cran/ivprobit
