@@ -26417,9 +26417,6 @@
 [submodule "diffusionMap"]
 	path = diffusionMap
 	url = https://github.com/cran/diffusionMap
-[submodule "diffusr"]
-	path = diffusr
-	url = https://github.com/cran/diffusr
 [submodule "diffval"]
 	path = diffval
 	url = https://github.com/cran/diffval
