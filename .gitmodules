@@ -6716,6 +6716,9 @@
 [submodule "HaDeX"]
 	path = HaDeX
 	url = https://github.com/cran/HaDeX
+[submodule "HadIBDs"]
+	path = HadIBDs
+	url = https://github.com/cran/HadIBDs
 [submodule "HadamardR"]
 	path = HadamardR
 	url = https://github.com/cran/HadamardR
@@ -7676,6 +7679,9 @@
 [submodule "KHQ"]
 	path = KHQ
 	url = https://github.com/cran/KHQ
+[submodule "KINSIMU"]
+	path = KINSIMU
+	url = https://github.com/cran/KINSIMU
 [submodule "KLINK"]
 	path = KLINK
 	url = https://github.com/cran/KLINK
@@ -20585,6 +20591,9 @@
 [submodule "bets.covid19"]
 	path = bets.covid19
 	url = https://github.com/cran/bets.covid19
+[submodule "bexy"]
+	path = bexy
+	url = https://github.com/cran/bexy
 [submodule "beyondWhittle"]
 	path = beyondWhittle
 	url = https://github.com/cran/beyondWhittle
@@ -28790,6 +28799,9 @@
 [submodule "evaluate"]
 	path = evaluate
 	url = https://github.com/cran/evaluate
+[submodule "evapoRe"]
+	path = evapoRe
+	url = https://github.com/cran/evapoRe
 [submodule "evclass"]
 	path = evclass
 	url = https://github.com/cran/evclass
@@ -42527,6 +42539,9 @@
 [submodule "nextGenShinyApps"]
 	path = nextGenShinyApps
 	url = https://github.com/cran/nextGenShinyApps
+[submodule "nexus"]
+	path = nexus
+	url = https://github.com/cran/nexus
 [submodule "nfer"]
 	path = nfer
 	url = https://github.com/cran/nfer
@@ -45296,6 +45311,9 @@
 [submodule "pewdata"]
 	path = pewdata
 	url = https://github.com/cran/pewdata
+[submodule "pexm"]
+	path = pexm
+	url = https://github.com/cran/pexm
 [submodule "pez"]
 	path = pez
 	url = https://github.com/cran/pez
