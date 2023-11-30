@@ -30185,6 +30185,9 @@
 [submodule "fledge"]
 	path = fledge
 	url = https://github.com/cran/fledge
+[submodule "flevr"]
+	path = flevr
+	url = https://github.com/cran/flevr
 [submodule "flexCWM"]
 	path = flexCWM
 	url = https://github.com/cran/flexCWM
@@ -35918,6 +35921,9 @@
 [submodule "ipeadatar"]
 	path = ipeadatar
 	url = https://github.com/cran/ipeadatar
+[submodule "iperform"]
+	path = iperform
+	url = https://github.com/cran/iperform
 [submodule "ipflasso"]
 	path = ipflasso
 	url = https://github.com/cran/ipflasso
@@ -36686,6 +36692,9 @@
 [submodule "kazaam"]
 	path = kazaam
 	url = https://github.com/cran/kazaam
+[submodule "kcmeans"]
+	path = kcmeans
+	url = https://github.com/cran/kcmeans
 [submodule "kcpRS"]
 	path = kcpRS
 	url = https://github.com/cran/kcpRS
