@@ -21953,6 +21953,9 @@
 [submodule "calendar"]
 	path = calendar
 	url = https://github.com/cran/calendar
+[submodule "calibmsm"]
+	path = calibmsm
+	url = https://github.com/cran/calibmsm
 [submodule "calibrar"]
 	path = calibrar
 	url = https://github.com/cran/calibrar
