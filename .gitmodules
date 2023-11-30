@@ -16877,6 +16877,9 @@
 [submodule "Taxonstand"]
 	path = Taxonstand
 	url = https://github.com/cran/Taxonstand
+[submodule "TaylorRussell"]
+	path = TaylorRussell
+	url = https://github.com/cran/TaylorRussell
 [submodule "TcGSA"]
 	path = TcGSA
 	url = https://github.com/cran/TcGSA
