@@ -8651,6 +8651,9 @@
 [submodule "MCSim"]
 	path = MCSim
 	url = https://github.com/cran/MCSim
+[submodule "MCTrend"]
+	path = MCTrend
+	url = https://github.com/cran/MCTrend
 [submodule "MChtest"]
 	path = MChtest
 	url = https://github.com/cran/MChtest
@@ -18209,6 +18212,9 @@
 [submodule "acp"]
 	path = acp
 	url = https://github.com/cran/acp
+[submodule "acro"]
+	path = acro
+	url = https://github.com/cran/acro
 [submodule "acroname"]
 	path = acroname
 	url = https://github.com/cran/acroname
@@ -28289,6 +28295,9 @@
 [submodule "enmSdmX"]
 	path = enmSdmX
 	url = https://github.com/cran/enmSdmX
+[submodule "enmpa"]
+	path = enmpa
+	url = https://github.com/cran/enmpa
 [submodule "enpls"]
 	path = enpls
 	url = https://github.com/cran/enpls
