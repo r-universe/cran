@@ -50462,6 +50462,9 @@
 [submodule "rmdwc"]
 	path = rmdwc
 	url = https://github.com/cran/rmdwc
+[submodule "rmerec"]
+	path = rmerec
+	url = https://github.com/cran/rmerec
 [submodule "rmeta"]
 	path = rmeta
 	url = https://github.com/cran/rmeta
