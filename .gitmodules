@@ -56381,6 +56381,9 @@
 [submodule "survmixer"]
 	path = survmixer
 	url = https://github.com/cran/survmixer
+[submodule "survobj"]
+	path = survobj
+	url = https://github.com/cran/survobj
 [submodule "survout"]
 	path = survout
 	url = https://github.com/cran/survout
