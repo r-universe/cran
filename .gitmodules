@@ -6236,6 +6236,9 @@
 [submodule "GenoTriplo"]
 	path = GenoTriplo
 	url = https://github.com/cran/GenoTriplo
+[submodule "GenomeAdapt"]
+	path = GenomeAdapt
+	url = https://github.com/cran/GenomeAdapt
 [submodule "GenomeAdmixR"]
 	path = GenomeAdmixR
 	url = https://github.com/cran/GenomeAdmixR
