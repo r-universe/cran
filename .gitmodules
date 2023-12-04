@@ -7316,6 +7316,9 @@
 [submodule "ImNN"]
 	path = ImNN
 	url = https://github.com/cran/ImNN
+[submodule "ImVol"]
+	path = ImVol
+	url = https://github.com/cran/ImVol
 [submodule "Immigrate"]
 	path = Immigrate
 	url = https://github.com/cran/Immigrate
@@ -9926,6 +9929,9 @@
 [submodule "N2R"]
 	path = N2R
 	url = https://github.com/cran/N2R
+[submodule "NAC"]
+	path = NAC
+	url = https://github.com/cran/NAC
 [submodule "NACHO"]
 	path = NACHO
 	url = https://github.com/cran/NACHO
@@ -25859,6 +25865,9 @@
 [submodule "decoder"]
 	path = decoder
 	url = https://github.com/cran/decoder
+[submodule "decompDL"]
+	path = decompDL
+	url = https://github.com/cran/decompDL
 [submodule "decomposedPSF"]
 	path = decomposedPSF
 	url = https://github.com/cran/decomposedPSF
@@ -47033,6 +47042,9 @@
 [submodule "profr"]
 	path = profr
 	url = https://github.com/cran/profr
+[submodule "profrep"]
+	path = profrep
+	url = https://github.com/cran/profrep
 [submodule "proftools"]
 	path = proftools
 	url = https://github.com/cran/proftools
@@ -49490,6 +49502,9 @@
 [submodule "regmedint"]
 	path = regmedint
 	url = https://github.com/cran/regmedint
+[submodule "regmhmm"]
+	path = regmhmm
+	url = https://github.com/cran/regmhmm
 [submodule "regnet"]
 	path = regnet
 	url = https://github.com/cran/regnet
@@ -51884,6 +51899,9 @@
 [submodule "samplingbook"]
 	path = samplingbook
 	url = https://github.com/cran/samplingbook
+[submodule "samplingin"]
+	path = samplingin
+	url = https://github.com/cran/samplingin
 [submodule "sampsizeval"]
 	path = sampsizeval
 	url = https://github.com/cran/sampsizeval
