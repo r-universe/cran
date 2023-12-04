@@ -1820,9 +1820,6 @@
 [submodule "Brq"]
 	path = Brq
 	url = https://github.com/cran/Brq
-[submodule "Brundle"]
-	path = Brundle
-	url = https://github.com/cran/Brundle
 [submodule "BsMD"]
 	path = BsMD
 	url = https://github.com/cran/BsMD
