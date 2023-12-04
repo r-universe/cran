@@ -9308,6 +9308,9 @@
 [submodule "Mapinguari"]
 	path = Mapinguari
 	url = https://github.com/cran/Mapinguari
+[submodule "MarZIC"]
+	path = MarZIC
+	url = https://github.com/cran/MarZIC
 [submodule "MareyMap"]
 	path = MareyMap
 	url = https://github.com/cran/MareyMap
