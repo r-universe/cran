@@ -26552,6 +26552,9 @@
 [submodule "discAUC"]
 	path = discAUC
 	url = https://github.com/cran/discAUC
+[submodule "discFA"]
+	path = discFA
+	url = https://github.com/cran/discFA
 [submodule "discSurv"]
 	path = discSurv
 	url = https://github.com/cran/discSurv
@@ -27683,6 +27686,9 @@
 [submodule "ebmc"]
 	path = ebmc
 	url = https://github.com/cran/ebmc
+[submodule "ebmstate"]
+	path = ebmstate
+	url = https://github.com/cran/ebmstate
 [submodule "ebnm"]
 	path = ebnm
 	url = https://github.com/cran/ebnm
@@ -45452,6 +45458,9 @@
 [submodule "phd"]
 	path = phd
 	url = https://github.com/cran/phd
+[submodule "phdcocktail"]
+	path = phdcocktail
+	url = https://github.com/cran/phdcocktail
 [submodule "pheatmap"]
 	path = pheatmap
 	url = https://github.com/cran/pheatmap
