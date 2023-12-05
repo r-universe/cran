@@ -18008,6 +18008,9 @@
 [submodule "ZIprop"]
 	path = ZIprop
 	url = https://github.com/cran/ZIprop
+[submodule "ZLAvian"]
+	path = ZLAvian
+	url = https://github.com/cran/ZLAvian
 [submodule "ZRA"]
 	path = ZRA
 	url = https://github.com/cran/ZRA
@@ -19004,6 +19007,9 @@
 [submodule "animation"]
 	path = animation
 	url = https://github.com/cran/animation
+[submodule "animbook"]
+	path = animbook
+	url = https://github.com/cran/animbook
 [submodule "animint2"]
 	path = animint2
 	url = https://github.com/cran/animint2
@@ -29675,6 +29681,9 @@
 [submodule "fcm"]
 	path = fcm
 	url = https://github.com/cran/fcm
+[submodule "fcp"]
+	path = fcp
+	url = https://github.com/cran/fcp
 [submodule "fcr"]
 	path = fcr
 	url = https://github.com/cran/fcr
@@ -31574,6 +31583,9 @@
 [submodule "genBaRcode"]
 	path = genBaRcode
 	url = https://github.com/cran/genBaRcode
+[submodule "genCountR"]
+	path = genCountR
+	url = https://github.com/cran/genCountR
 [submodule "genSEIR"]
 	path = genSEIR
 	url = https://github.com/cran/genSEIR
