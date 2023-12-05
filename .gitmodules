@@ -1985,6 +1985,9 @@
 [submodule "CDNmoney"]
 	path = CDNmoney
 	url = https://github.com/cran/CDNmoney
+[submodule "CDSE"]
+	path = CDSE
+	url = https://github.com/cran/CDSE
 [submodule "CDSS"]
 	path = CDSS
 	url = https://github.com/cran/CDSS
