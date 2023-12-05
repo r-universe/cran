@@ -851,9 +851,6 @@
 [submodule "BCClong"]
 	path = BCClong
 	url = https://github.com/cran/BCClong
-[submodule "BCDAG"]
-	path = BCDAG
-	url = https://github.com/cran/BCDAG
 [submodule "BCDating"]
 	path = BCDating
 	url = https://github.com/cran/BCDating
@@ -15956,9 +15953,6 @@
 [submodule "SoupX"]
 	path = SoupX
 	url = https://github.com/cran/SoupX
-[submodule "SourceSet"]
-	path = SourceSet
-	url = https://github.com/cran/SourceSet
 [submodule "SoyNAM"]
 	path = SoyNAM
 	url = https://github.com/cran/SoyNAM
@@ -21296,9 +21290,6 @@
 [submodule "bnpsd"]
 	path = bnpsd
 	url = https://github.com/cran/bnpsd
-[submodule "bnspatial"]
-	path = bnspatial
-	url = https://github.com/cran/bnspatial
 [submodule "bnstruct"]
 	path = bnstruct
 	url = https://github.com/cran/bnstruct
@@ -53648,9 +53639,6 @@
 [submodule "simMetric"]
 	path = simMetric
 	url = https://github.com/cran/simMetric
-[submodule "simPATHy"]
-	path = simPATHy
-	url = https://github.com/cran/simPATHy
 [submodule "simPH"]
 	path = simPH
 	url = https://github.com/cran/simPH
