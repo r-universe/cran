@@ -12941,6 +12941,9 @@
 [submodule "RMySQL"]
 	path = RMySQL
 	url = https://github.com/cran/RMySQL
+[submodule "RNAmf"]
+	path = RNAmf
+	url = https://github.com/cran/RNAmf
 [submodule "RNAseqNet"]
 	path = RNAseqNet
 	url = https://github.com/cran/RNAseqNet
@@ -24497,6 +24500,9 @@
 [submodule "covTestR"]
 	path = covTestR
 	url = https://github.com/cran/covTestR
+[submodule "covadap"]
+	path = covadap
+	url = https://github.com/cran/covadap
 [submodule "covafillr"]
 	path = covafillr
 	url = https://github.com/cran/covafillr
