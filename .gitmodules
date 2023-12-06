@@ -46166,6 +46166,9 @@
 [submodule "pm3"]
 	path = pm3
 	url = https://github.com/cran/pm3
+[submodule "pmartR"]
+	path = pmartR
+	url = https://github.com/cran/pmartR
 [submodule "pmc"]
 	path = pmc
 	url = https://github.com/cran/pmc
