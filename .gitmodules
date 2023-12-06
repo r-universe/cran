@@ -37874,6 +37874,9 @@
 [submodule "lindia"]
 	path = lindia
 	url = https://github.com/cran/lindia
+[submodule "linea"]
+	path = linea
+	url = https://github.com/cran/linea
 [submodule "linearModel"]
 	path = linearModel
 	url = https://github.com/cran/linearModel
@@ -44579,6 +44582,9 @@
 [submodule "pangaear"]
 	path = pangaear
 	url = https://github.com/cran/pangaear
+[submodule "panstarrs"]
+	path = panstarrs
+	url = https://github.com/cran/panstarrs
 [submodule "papaja"]
 	path = papaja
 	url = https://github.com/cran/papaja
@@ -57725,6 +57731,9 @@
 [submodule "tidytree"]
 	path = tidytree
 	url = https://github.com/cran/tidytree
+[submodule "tidytuesdayR"]
+	path = tidytuesdayR
+	url = https://github.com/cran/tidytuesdayR
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/cran/tidyverse
