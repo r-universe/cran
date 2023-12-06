@@ -42023,6 +42023,9 @@
 [submodule "mvs"]
 	path = mvs
 	url = https://github.com/cran/mvs
+[submodule "mvst"]
+	path = mvst
+	url = https://github.com/cran/mvst
 [submodule "mvtmeta"]
 	path = mvtmeta
 	url = https://github.com/cran/mvtmeta
