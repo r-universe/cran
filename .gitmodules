@@ -11033,6 +11033,9 @@
 [submodule "PHENIX"]
 	path = PHENIX
 	url = https://github.com/cran/PHENIX
+[submodule "PHENTHAUproc"]
+	path = PHENTHAUproc
+	url = https://github.com/cran/PHENTHAUproc
 [submodule "PHEindicatormethods"]
 	path = PHEindicatormethods
 	url = https://github.com/cran/PHEindicatormethods
@@ -17729,6 +17732,9 @@
 [submodule "WRTDStidal"]
 	path = WRTDStidal
 	url = https://github.com/cran/WRTDStidal
+[submodule "WRestimates"]
+	path = WRestimates
+	url = https://github.com/cran/WRestimates
 [submodule "WSGeometry"]
 	path = WSGeometry
 	url = https://github.com/cran/WSGeometry
