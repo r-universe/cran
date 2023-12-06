@@ -6377,6 +6377,9 @@
 [submodule "GrFA"]
 	path = GrFA
 	url = https://github.com/cran/GrFA
+[submodule "GrabSVG"]
+	path = GrabSVG
+	url = https://github.com/cran/GrabSVG
 [submodule "Grace"]
 	path = Grace
 	url = https://github.com/cran/Grace
@@ -9257,6 +9260,9 @@
 [submodule "MacroZooBenthosWaterA"]
 	path = MacroZooBenthosWaterA
 	url = https://github.com/cran/MacroZooBenthosWaterA
+[submodule "MadanText"]
+	path = MadanText
+	url = https://github.com/cran/MadanText
 [submodule "Maeswrap"]
 	path = Maeswrap
 	url = https://github.com/cran/Maeswrap
@@ -10184,6 +10190,9 @@
 [submodule "NPflow"]
 	path = NPflow
 	url = https://github.com/cran/NPflow
+[submodule "NRAHDLTP"]
+	path = NRAHDLTP
+	url = https://github.com/cran/NRAHDLTP
 [submodule "NRejections"]
 	path = NRejections
 	url = https://github.com/cran/NRejections
@@ -14927,6 +14936,9 @@
 [submodule "SIBERG"]
 	path = SIBERG
 	url = https://github.com/cran/SIBERG
+[submodule "SID"]
+	path = SID
+	url = https://github.com/cran/SID
 [submodule "SIDES"]
 	path = SIDES
 	url = https://github.com/cran/SIDES
@@ -20912,6 +20924,9 @@
 [submodule "binovisualfields"]
 	path = binovisualfields
 	url = https://github.com/cran/binovisualfields
+[submodule "binpackr"]
+	path = binpackr
+	url = https://github.com/cran/binpackr
 [submodule "binr"]
 	path = binr
 	url = https://github.com/cran/binr
@@ -32843,9 +32858,6 @@
 [submodule "glmmrBase"]
 	path = glmmrBase
 	url = https://github.com/cran/glmmrBase
-[submodule "glmmrOptim"]
-	path = glmmrOptim
-	url = https://github.com/cran/glmmrOptim
 [submodule "glmnet"]
 	path = glmnet
 	url = https://github.com/cran/glmnet
@@ -42107,9 +42119,6 @@
 [submodule "nabor"]
 	path = nabor
 	url = https://github.com/cran/nabor
-[submodule "nadiv"]
-	path = nadiv
-	url = https://github.com/cran/nadiv
 [submodule "naflex"]
 	path = naflex
 	url = https://github.com/cran/naflex
@@ -43910,9 +43919,6 @@
 [submodule "optextras"]
 	path = optextras
 	url = https://github.com/cran/optextras
-[submodule "optiSel"]
-	path = optiSel
-	url = https://github.com/cran/optiSel
 [submodule "optiSolve"]
 	path = optiSolve
 	url = https://github.com/cran/optiSolve
