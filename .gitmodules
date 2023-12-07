@@ -23153,9 +23153,6 @@
 [submodule "clinDR"]
 	path = clinDR
 	url = https://github.com/cran/clinDR
-[submodule "clinDataReview"]
-	path = clinDataReview
-	url = https://github.com/cran/clinDataReview
 [submodule "clinPK"]
 	path = clinPK
 	url = https://github.com/cran/clinPK
