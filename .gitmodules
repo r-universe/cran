@@ -24944,6 +24944,9 @@
 [submodule "cryptography"]
 	path = cryptography
 	url = https://github.com/cran/cryptography
+[submodule "cryptotrackr"]
+	path = cryptotrackr
+	url = https://github.com/cran/cryptotrackr
 [submodule "cryptoverse"]
 	path = cryptoverse
 	url = https://github.com/cran/cryptoverse
@@ -31130,6 +31133,9 @@
 [submodule "g.data"]
 	path = g.data
 	url = https://github.com/cran/g.data
+[submodule "g.ridge"]
+	path = g.ridge
+	url = https://github.com/cran/g.ridge
 [submodule "g3viz"]
 	path = g3viz
 	url = https://github.com/cran/g3viz
@@ -32600,6 +32606,9 @@
 [submodule "ggtext"]
 	path = ggtext
 	url = https://github.com/cran/ggtext
+[submodule "ggthemeUL"]
+	path = ggthemeUL
+	url = https://github.com/cran/ggthemeUL
 [submodule "ggthemes"]
 	path = ggthemes
 	url = https://github.com/cran/ggthemes
