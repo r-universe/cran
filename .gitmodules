@@ -2810,6 +2810,9 @@
 [submodule "CohortPlat"]
 	path = CohortPlat
 	url = https://github.com/cran/CohortPlat
+[submodule "CohortSurvival"]
+	path = CohortSurvival
+	url = https://github.com/cran/CohortSurvival
 [submodule "Coinprofile"]
 	path = Coinprofile
 	url = https://github.com/cran/Coinprofile
@@ -6188,6 +6191,9 @@
 [submodule "GenTag"]
 	path = GenTag
 	url = https://github.com/cran/GenTag
+[submodule "GenTwoArmsTrialSize"]
+	path = GenTwoArmsTrialSize
+	url = https://github.com/cran/GenTwoArmsTrialSize
 [submodule "GenWin"]
 	path = GenWin
 	url = https://github.com/cran/GenWin
@@ -15008,9 +15014,6 @@
 [submodule "SITH"]
 	path = SITH
 	url = https://github.com/cran/SITH
-[submodule "SIfEK"]
-	path = SIfEK
-	url = https://github.com/cran/SIfEK
 [submodule "SK4FGA"]
 	path = SK4FGA
 	url = https://github.com/cran/SK4FGA
@@ -33452,9 +33455,6 @@
 [submodule "gremlin"]
 	path = gremlin
 	url = https://github.com/cran/gremlin
-[submodule "gren"]
-	path = gren
-	url = https://github.com/cran/gren
 [submodule "greport"]
 	path = greport
 	url = https://github.com/cran/greport
@@ -49280,6 +49280,9 @@
 [submodule "readmet"]
 	path = readmet
 	url = https://github.com/cran/readmet
+[submodule "readmission"]
+	path = readmission
+	url = https://github.com/cran/readmission
 [submodule "readmnist"]
 	path = readmnist
 	url = https://github.com/cran/readmnist
@@ -54263,9 +54266,6 @@
 [submodule "smfishHmrf"]
 	path = smfishHmrf
 	url = https://github.com/cran/smfishHmrf
-[submodule "smfsb"]
-	path = smfsb
-	url = https://github.com/cran/smfsb
 [submodule "smicd"]
 	path = smicd
 	url = https://github.com/cran/smicd
@@ -55031,9 +55031,6 @@
 [submodule "specr"]
 	path = specr
 	url = https://github.com/cran/specr
-[submodule "specs"]
-	path = specs
-	url = https://github.com/cran/specs
 [submodule "spectacles"]
 	path = spectacles
 	url = https://github.com/cran/spectacles
@@ -60926,6 +60923,9 @@
 [submodule "xts"]
 	path = xts
 	url = https://github.com/cran/xts
+[submodule "xtsum"]
+	path = xtsum
+	url = https://github.com/cran/xtsum
 [submodule "xtune"]
 	path = xtune
 	url = https://github.com/cran/xtune
