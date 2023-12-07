@@ -27638,6 +27638,9 @@
 [submodule "easyVerification"]
 	path = easyVerification
 	url = https://github.com/cran/easyVerification
+[submodule "easyalluvial"]
+	path = easyalluvial
+	url = https://github.com/cran/easyalluvial
 [submodule "easyanova"]
 	path = easyanova
 	url = https://github.com/cran/easyanova
