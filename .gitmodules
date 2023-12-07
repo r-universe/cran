@@ -32870,6 +32870,9 @@
 [submodule "glmmrBase"]
 	path = glmmrBase
 	url = https://github.com/cran/glmmrBase
+[submodule "glmmrOptim"]
+	path = glmmrOptim
+	url = https://github.com/cran/glmmrOptim
 [submodule "glmnet"]
 	path = glmnet
 	url = https://github.com/cran/glmnet
@@ -42131,6 +42134,9 @@
 [submodule "nabor"]
 	path = nabor
 	url = https://github.com/cran/nabor
+[submodule "nadiv"]
+	path = nadiv
+	url = https://github.com/cran/nadiv
 [submodule "naflex"]
 	path = naflex
 	url = https://github.com/cran/naflex
@@ -43931,6 +43937,9 @@
 [submodule "optextras"]
 	path = optextras
 	url = https://github.com/cran/optextras
+[submodule "optiSel"]
+	path = optiSel
+	url = https://github.com/cran/optiSel
 [submodule "optiSolve"]
 	path = optiSolve
 	url = https://github.com/cran/optiSolve
