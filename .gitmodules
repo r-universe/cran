@@ -9269,6 +9269,9 @@
 [submodule "MadanText"]
 	path = MadanText
 	url = https://github.com/cran/MadanText
+[submodule "MadanTextNetwork"]
+	path = MadanTextNetwork
+	url = https://github.com/cran/MadanTextNetwork
 [submodule "Maeswrap"]
 	path = Maeswrap
 	url = https://github.com/cran/Maeswrap
@@ -13802,6 +13805,9 @@
 [submodule "RcppCCTZ"]
 	path = RcppCCTZ
 	url = https://github.com/cran/RcppCCTZ
+[submodule "RcppCGAL"]
+	path = RcppCGAL
+	url = https://github.com/cran/RcppCGAL
 [submodule "RcppCNPy"]
 	path = RcppCNPy
 	url = https://github.com/cran/RcppCNPy
@@ -21164,6 +21170,9 @@
 [submodule "blackbox"]
 	path = blackbox
 	url = https://github.com/cran/blackbox
+[submodule "blackmarbler"]
+	path = blackmarbler
+	url = https://github.com/cran/blackmarbler
 [submodule "blaise"]
 	path = blaise
 	url = https://github.com/cran/blaise
@@ -22997,6 +23006,9 @@
 [submodule "ciuupi2"]
 	path = ciuupi2
 	url = https://github.com/cran/ciuupi2
+[submodule "civ"]
+	path = civ
+	url = https://github.com/cran/civ
 [submodule "civis"]
 	path = civis
 	url = https://github.com/cran/civis
@@ -27269,6 +27281,9 @@
 [submodule "dse"]
 	path = dse
 	url = https://github.com/cran/dse
+[submodule "dsem"]
+	path = dsem
+	url = https://github.com/cran/dsem
 [submodule "dsfa"]
 	path = dsfa
 	url = https://github.com/cran/dsfa
@@ -30113,6 +30128,9 @@
 [submodule "fishMod"]
 	path = fishMod
 	url = https://github.com/cran/fishMod
+[submodule "fishRman"]
+	path = fishRman
+	url = https://github.com/cran/fishRman
 [submodule "fishbc"]
 	path = fishbc
 	url = https://github.com/cran/fishbc
@@ -39752,6 +39770,9 @@
 [submodule "mergeTrees"]
 	path = mergeTrees
 	url = https://github.com/cran/mergeTrees
+[submodule "mergen"]
+	path = mergen
+	url = https://github.com/cran/mergen
 [submodule "mergingTools"]
 	path = mergingTools
 	url = https://github.com/cran/mergingTools
@@ -50120,6 +50141,9 @@
 [submodule "rgenoud"]
 	path = rgenoud
 	url = https://github.com/cran/rgenoud
+[submodule "rgeoboundaries"]
+	path = rgeoboundaries
+	url = https://github.com/cran/rgeoboundaries
 [submodule "rgeoda"]
 	path = rgeoda
 	url = https://github.com/cran/rgeoda
