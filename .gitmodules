@@ -389,6 +389,9 @@
 [submodule "AcademicThemes"]
 	path = AcademicThemes
 	url = https://github.com/cran/AcademicThemes
+[submodule "AccelStab"]
+	path = AccelStab
+	url = https://github.com/cran/AccelStab
 [submodule "AcceptanceSampling"]
 	path = AcceptanceSampling
 	url = https://github.com/cran/AcceptanceSampling
@@ -1184,6 +1187,9 @@
 [submodule "BTdecayLasso"]
 	path = BTdecayLasso
 	url = https://github.com/cran/BTdecayLasso
+[submodule "BTtest"]
+	path = BTtest
+	url = https://github.com/cran/BTtest
 [submodule "BUCSS"]
 	path = BUCSS
 	url = https://github.com/cran/BUCSS
@@ -30365,6 +30371,9 @@
 [submodule "flora"]
 	path = flora
 	url = https://github.com/cran/flora
+[submodule "florabr"]
+	path = florabr
+	url = https://github.com/cran/florabr
 [submodule "flow"]
 	path = flow
 	url = https://github.com/cran/flow
@@ -44708,6 +44717,9 @@
 [submodule "paran"]
 	path = paran
 	url = https://github.com/cran/paran
+[submodule "parcats"]
+	path = parcats
+	url = https://github.com/cran/parcats
 [submodule "parfm"]
 	path = parfm
 	url = https://github.com/cran/parfm
@@ -46064,6 +46076,9 @@
 [submodule "plot3Drgl"]
 	path = plot3Drgl
 	url = https://github.com/cran/plot3Drgl
+[submodule "plot3logit"]
+	path = plot3logit
+	url = https://github.com/cran/plot3logit
 [submodule "plotBart"]
 	path = plotBart
 	url = https://github.com/cran/plotBart
@@ -47504,6 +47519,9 @@
 [submodule "pubmedR"]
 	path = pubmedR
 	url = https://github.com/cran/pubmedR
+[submodule "pubmedtk"]
+	path = pubmedtk
+	url = https://github.com/cran/pubmedtk
 [submodule "pubtatordb"]
 	path = pubtatordb
 	url = https://github.com/cran/pubtatordb
@@ -53435,6 +53453,9 @@
 [submodule "shinydashboardPlus"]
 	path = shinydashboardPlus
 	url = https://github.com/cran/shinydashboardPlus
+[submodule "shinydbauth"]
+	path = shinydbauth
+	url = https://github.com/cran/shinydbauth
 [submodule "shinydisconnect"]
 	path = shinydisconnect
 	url = https://github.com/cran/shinydisconnect
