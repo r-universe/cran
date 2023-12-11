@@ -18377,6 +18377,9 @@
 [submodule "adbcsqlite"]
 	path = adbcsqlite
 	url = https://github.com/cran/adbcsqlite
+[submodule "adbi"]
+	path = adbi
+	url = https://github.com/cran/adbi
 [submodule "adc"]
 	path = adc
 	url = https://github.com/cran/adc
@@ -53945,6 +53948,9 @@
 [submodule "simtrait"]
 	path = simtrait
 	url = https://github.com/cran/simtrait
+[submodule "simtrial"]
+	path = simtrial
+	url = https://github.com/cran/simtrial
 [submodule "simts"]
 	path = simts
 	url = https://github.com/cran/simts
@@ -55625,6 +55631,9 @@
 [submodule "standardize"]
 	path = standardize
 	url = https://github.com/cran/standardize
+[submodule "standardlastprofile"]
+	path = standardlastprofile
+	url = https://github.com/cran/standardlastprofile
 [submodule "standartox"]
 	path = standartox
 	url = https://github.com/cran/standartox
