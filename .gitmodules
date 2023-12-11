@@ -4229,6 +4229,9 @@
 [submodule "EDA"]
 	path = EDA
 	url = https://github.com/cran/EDA
+[submodule "EDCimport"]
+	path = EDCimport
+	url = https://github.com/cran/EDCimport
 [submodule "EDFtest"]
 	path = EDFtest
 	url = https://github.com/cran/EDFtest
@@ -27761,9 +27764,6 @@
 [submodule "ecce"]
 	path = ecce
 	url = https://github.com/cran/ecce
-[submodule "ecd"]
-	path = ecd
-	url = https://github.com/cran/ecd
 [submodule "ecdfHT"]
 	path = ecdfHT
 	url = https://github.com/cran/ecdfHT
