@@ -15125,6 +15125,9 @@
 [submodule "SMVar"]
 	path = SMVar
 	url = https://github.com/cran/SMVar
+[submodule "SNBdata"]
+	path = SNBdata
+	url = https://github.com/cran/SNBdata
 [submodule "SNFtool"]
 	path = SNFtool
 	url = https://github.com/cran/SNFtool
@@ -16910,6 +16913,9 @@
 [submodule "TauStar"]
 	path = TauStar
 	url = https://github.com/cran/TauStar
+[submodule "TaxaNorm"]
+	path = TaxaNorm
+	url = https://github.com/cran/TaxaNorm
 [submodule "TaxicabCA"]
 	path = TaxicabCA
 	url = https://github.com/cran/TaxicabCA
@@ -27323,6 +27329,9 @@
 [submodule "dstat2x2xk"]
 	path = dstat2x2xk
 	url = https://github.com/cran/dstat2x2xk
+[submodule "dtComb"]
+	path = dtComb
+	url = https://github.com/cran/dtComb
 [submodule "dtangle"]
 	path = dtangle
 	url = https://github.com/cran/dtangle
@@ -40481,6 +40490,9 @@
 [submodule "missForest"]
 	path = missForest
 	url = https://github.com/cran/missForest
+[submodule "missForestPredict"]
+	path = missForestPredict
+	url = https://github.com/cran/missForestPredict
 [submodule "missMDA"]
 	path = missMDA
 	url = https://github.com/cran/missMDA
@@ -43193,6 +43205,9 @@
 [submodule "npboottprm"]
 	path = npboottprm
 	url = https://github.com/cran/npboottprm
+[submodule "npboottprmFBar"]
+	path = npboottprmFBar
+	url = https://github.com/cran/npboottprmFBar
 [submodule "npbr"]
 	path = npbr
 	url = https://github.com/cran/npbr
