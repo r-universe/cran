@@ -947,9 +947,6 @@
 [submodule "BGGE"]
 	path = BGGE
 	url = https://github.com/cran/BGGE
-[submodule "BGGM"]
-	path = BGGM
-	url = https://github.com/cran/BGGM
 [submodule "BGLR"]
 	path = BGLR
 	url = https://github.com/cran/BGLR
@@ -9287,9 +9284,6 @@
 [submodule "MajKMeans"]
 	path = MajKMeans
 	url = https://github.com/cran/MajKMeans
-[submodule "MakeYourPalette"]
-	path = MakeYourPalette
-	url = https://github.com/cran/MakeYourPalette
 [submodule "MakefileR"]
 	path = MakefileR
 	url = https://github.com/cran/MakefileR
@@ -37388,9 +37382,6 @@
 [submodule "latenetwork"]
 	path = latenetwork
 	url = https://github.com/cran/latenetwork
-[submodule "latentFactoR"]
-	path = latentFactoR
-	url = https://github.com/cran/latentFactoR
 [submodule "latentcor"]
 	path = latentcor
 	url = https://github.com/cran/latentcor
