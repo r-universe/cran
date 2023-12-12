@@ -7889,6 +7889,9 @@
 [submodule "LAWBL"]
 	path = LAWBL
 	url = https://github.com/cran/LAWBL
+[submodule "LBI"]
+	path = LBI
+	url = https://github.com/cran/LBI
 [submodule "LBPG"]
 	path = LBPG
 	url = https://github.com/cran/LBPG
@@ -8738,6 +8741,9 @@
 [submodule "MEclustnet"]
 	path = MEclustnet
 	url = https://github.com/cran/MEclustnet
+[submodule "MF.beta4"]
+	path = MF.beta4
+	url = https://github.com/cran/MF.beta4
 [submodule "MFAg"]
 	path = MFAg
 	url = https://github.com/cran/MFAg
@@ -18380,6 +18386,9 @@
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/cran/adbcdrivermanager
+[submodule "adbcpostgresql"]
+	path = adbcpostgresql
+	url = https://github.com/cran/adbcpostgresql
 [submodule "adbcsqlite"]
 	path = adbcsqlite
 	url = https://github.com/cran/adbcsqlite
@@ -53519,6 +53528,9 @@
 [submodule "shinypivottabler"]
 	path = shinypivottabler
 	url = https://github.com/cran/shinypivottabler
+[submodule "shinyquiz"]
+	path = shinyquiz
+	url = https://github.com/cran/shinyquiz
 [submodule "shinyr"]
 	path = shinyr
 	url = https://github.com/cran/shinyr
@@ -57221,6 +57233,9 @@
 [submodule "tern"]
 	path = tern
 	url = https://github.com/cran/tern
+[submodule "tern.gee"]
+	path = tern.gee
+	url = https://github.com/cran/tern.gee
 [submodule "ternvis"]
 	path = ternvis
 	url = https://github.com/cran/ternvis
@@ -58118,6 +58133,9 @@
 [submodule "tnet"]
 	path = tnet
 	url = https://github.com/cran/tnet
+[submodule "tnl.Test"]
+	path = tnl.Test
+	url = https://github.com/cran/tnl.Test
 [submodule "toOrdinal"]
 	path = toOrdinal
 	url = https://github.com/cran/toOrdinal
@@ -59201,6 +59219,9 @@
 [submodule "unmarked"]
 	path = unmarked
 	url = https://github.com/cran/unmarked
+[submodule "unmconf"]
+	path = unmconf
+	url = https://github.com/cran/unmconf
 [submodule "unnest"]
 	path = unnest
 	url = https://github.com/cran/unnest
@@ -60251,6 +60272,9 @@
 [submodule "wcep"]
 	path = wcep
 	url = https://github.com/cran/wcep
+[submodule "wconf"]
+	path = wconf
+	url = https://github.com/cran/wconf
 [submodule "wcox"]
 	path = wcox
 	url = https://github.com/cran/wcox
