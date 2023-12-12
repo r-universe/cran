@@ -7430,6 +7430,9 @@
 [submodule "IntCal"]
 	path = IntCal
 	url = https://github.com/cran/IntCal
+[submodule "IntLIM"]
+	path = IntLIM
+	url = https://github.com/cran/IntLIM
 [submodule "IntNMF"]
 	path = IntNMF
 	url = https://github.com/cran/IntNMF
@@ -8999,6 +9002,9 @@
 [submodule "MOCCA"]
 	path = MOCCA
 	url = https://github.com/cran/MOCCA
+[submodule "MOCHA"]
+	path = MOCHA
+	url = https://github.com/cran/MOCHA
 [submodule "MODISTools"]
 	path = MODISTools
 	url = https://github.com/cran/MODISTools
@@ -59264,6 +59270,9 @@
 [submodule "uroot"]
 	path = uroot
 	url = https://github.com/cran/uroot
+[submodule "ursa"]
+	path = ursa
+	url = https://github.com/cran/ursa
 [submodule "us.census.geoheader"]
 	path = us.census.geoheader
 	url = https://github.com/cran/us.census.geoheader
