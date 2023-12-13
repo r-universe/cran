@@ -608,6 +608,9 @@
 [submodule "ApacheLogProcessor"]
 	path = ApacheLogProcessor
 	url = https://github.com/cran/ApacheLogProcessor
+[submodule "Apollonius"]
+	path = Apollonius
+	url = https://github.com/cran/Apollonius
 [submodule "AppliedPredictiveModeling"]
 	path = AppliedPredictiveModeling
 	url = https://github.com/cran/AppliedPredictiveModeling
@@ -8216,6 +8219,9 @@
 [submodule "LabourMarketAreas"]
 	path = LabourMarketAreas
 	url = https://github.com/cran/LabourMarketAreas
+[submodule "LadderFuelsR"]
+	path = LadderFuelsR
+	url = https://github.com/cran/LadderFuelsR
 [submodule "LagSequential"]
 	path = LagSequential
 	url = https://github.com/cran/LagSequential
@@ -17897,6 +17903,9 @@
 [submodule "WeightedROC"]
 	path = WeightedROC
 	url = https://github.com/cran/WeightedROC
+[submodule "WeightedTreemaps"]
+	path = WeightedTreemaps
+	url = https://github.com/cran/WeightedTreemaps
 [submodule "WgtEff"]
 	path = WgtEff
 	url = https://github.com/cran/WgtEff
@@ -27464,6 +27473,9 @@
 [submodule "dvqcc"]
 	path = dvqcc
 	url = https://github.com/cran/dvqcc
+[submodule "dwctaxon"]
+	path = dwctaxon
+	url = https://github.com/cran/dwctaxon
 [submodule "dwdradar"]
 	path = dwdradar
 	url = https://github.com/cran/dwdradar
@@ -44903,6 +44915,9 @@
 [submodule "pathfindR.data"]
 	path = pathfindR.data
 	url = https://github.com/cran/pathfindR.data
+[submodule "pathling"]
+	path = pathling
+	url = https://github.com/cran/pathling
 [submodule "pathlit"]
 	path = pathlit
 	url = https://github.com/cran/pathlit
