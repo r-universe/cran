@@ -3176,6 +3176,9 @@
 [submodule "CytOpT"]
 	path = CytOpT
 	url = https://github.com/cran/CytOpT
+[submodule "CytoSimplex"]
+	path = CytoSimplex
+	url = https://github.com/cran/CytoSimplex
 [submodule "CytobankAPI"]
 	path = CytobankAPI
 	url = https://github.com/cran/CytobankAPI
@@ -3377,6 +3380,9 @@
 [submodule "DFA.CANCOR"]
 	path = DFA.CANCOR
 	url = https://github.com/cran/DFA.CANCOR
+[submodule "DFBA"]
+	path = DFBA
+	url = https://github.com/cran/DFBA
 [submodule "DFD"]
 	path = DFD
 	url = https://github.com/cran/DFD
@@ -6218,6 +6224,9 @@
 [submodule "GeneScape"]
 	path = GeneScape
 	url = https://github.com/cran/GeneScape
+[submodule "GeneSelectR"]
+	path = GeneSelectR
+	url = https://github.com/cran/GeneSelectR
 [submodule "GeneralOaxaca"]
 	path = GeneralOaxaca
 	url = https://github.com/cran/GeneralOaxaca
@@ -16067,6 +16076,9 @@
 [submodule "SpatEntropy"]
 	path = SpatEntropy
 	url = https://github.com/cran/SpatEntropy
+[submodule "SpatGRID"]
+	path = SpatGRID
+	url = https://github.com/cran/SpatGRID
 [submodule "SpatMCA"]
 	path = SpatMCA
 	url = https://github.com/cran/SpatMCA
@@ -18962,6 +18974,9 @@
 [submodule "amazonspR"]
 	path = amazonspR
 	url = https://github.com/cran/amazonspR
+[submodule "amberr"]
+	path = amberr
+	url = https://github.com/cran/amberr
 [submodule "ambhasGW"]
 	path = ambhasGW
 	url = https://github.com/cran/ambhasGW
@@ -27431,6 +27446,9 @@
 [submodule "dundermifflin"]
 	path = dundermifflin
 	url = https://github.com/cran/dundermifflin
+[submodule "dunlin"]
+	path = dunlin
+	url = https://github.com/cran/dunlin
 [submodule "dunn.test"]
 	path = dunn.test
 	url = https://github.com/cran/dunn.test
