@@ -24794,6 +24794,9 @@
 [submodule "crew"]
 	path = crew
 	url = https://github.com/cran/crew
+[submodule "crew.aws.batch"]
+	path = crew.aws.batch
+	url = https://github.com/cran/crew.aws.batch
 [submodule "crew.cluster"]
 	path = crew.cluster
 	url = https://github.com/cran/crew.cluster
@@ -24974,6 +24977,9 @@
 [submodule "crypto2"]
 	path = crypto2
 	url = https://github.com/cran/crypto2
+[submodule "cryptoQuotes"]
+	path = cryptoQuotes
+	url = https://github.com/cran/cryptoQuotes
 [submodule "cryptography"]
 	path = cryptography
 	url = https://github.com/cran/cryptography
