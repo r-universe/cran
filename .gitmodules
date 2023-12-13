@@ -54395,6 +54395,9 @@
 [submodule "smoothROCtime"]
 	path = smoothROCtime
 	url = https://github.com/cran/smoothROCtime
+[submodule "smoothSurv"]
+	path = smoothSurv
+	url = https://github.com/cran/smoothSurv
 [submodule "smoothedLasso"]
 	path = smoothedLasso
 	url = https://github.com/cran/smoothedLasso
