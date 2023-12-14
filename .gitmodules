@@ -15344,6 +15344,9 @@
 [submodule "SSDforR"]
 	path = SSDforR
 	url = https://github.com/cran/SSDforR
+[submodule "SSEparser"]
+	path = SSEparser
+	url = https://github.com/cran/SSEparser
 [submodule "SSGL"]
 	path = SSGL
 	url = https://github.com/cran/SSGL
@@ -33911,6 +33914,9 @@
 [submodule "gwer"]
 	path = gwer
 	url = https://github.com/cran/gwer
+[submodule "gwid"]
+	path = gwid
+	url = https://github.com/cran/gwid
 [submodule "gwpcormapper"]
 	path = gwpcormapper
 	url = https://github.com/cran/gwpcormapper
@@ -42002,6 +42008,9 @@
 [submodule "mutSignatures"]
 	path = mutSignatures
 	url = https://github.com/cran/mutSignatures
+[submodule "mutationtypes"]
+	path = mutationtypes
+	url = https://github.com/cran/mutationtypes
 [submodule "mutoss"]
 	path = mutoss
 	url = https://github.com/cran/mutoss
@@ -48740,6 +48749,9 @@
 [submodule "randomLCA"]
 	path = randomLCA
 	url = https://github.com/cran/randomLCA
+[submodule "randomMachines"]
+	path = randomMachines
+	url = https://github.com/cran/randomMachines
 [submodule "randomNames"]
 	path = randomNames
 	url = https://github.com/cran/randomNames
@@ -50426,6 +50438,9 @@
 [submodule "risks"]
 	path = risks
 	url = https://github.com/cran/risks
+[submodule "riskscores"]
+	path = riskscores
+	url = https://github.com/cran/riskscores
 [submodule "risksetROC"]
 	path = risksetROC
 	url = https://github.com/cran/risksetROC
@@ -57275,6 +57290,9 @@
 [submodule "tern.gee"]
 	path = tern.gee
 	url = https://github.com/cran/tern.gee
+[submodule "tern.mmrm"]
+	path = tern.mmrm
+	url = https://github.com/cran/tern.mmrm
 [submodule "ternvis"]
 	path = ternvis
 	url = https://github.com/cran/ternvis
@@ -59660,6 +59678,9 @@
 [submodule "vcfR"]
 	path = vcfR
 	url = https://github.com/cran/vcfR
+[submodule "vcfppR"]
+	path = vcfppR
+	url = https://github.com/cran/vcfppR
 [submodule "vcmeta"]
 	path = vcmeta
 	url = https://github.com/cran/vcmeta
