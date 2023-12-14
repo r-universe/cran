@@ -32303,6 +32303,9 @@
 [submodule "ggfittext"]
 	path = ggfittext
 	url = https://github.com/cran/ggfittext
+[submodule "ggfixest"]
+	path = ggfixest
+	url = https://github.com/cran/ggfixest
 [submodule "ggflowchart"]
 	path = ggflowchart
 	url = https://github.com/cran/ggflowchart
@@ -55490,6 +55493,9 @@
 [submodule "sregsurvey"]
 	path = sregsurvey
 	url = https://github.com/cran/sregsurvey
+[submodule "srlTS"]
+	path = srlTS
+	url = https://github.com/cran/srlTS
 [submodule "srlars"]
 	path = srlars
 	url = https://github.com/cran/srlars
