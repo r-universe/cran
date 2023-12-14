@@ -7529,9 +7529,6 @@
 [submodule "IsoCor"]
 	path = IsoCor
 	url = https://github.com/cran/IsoCor
-[submodule "IsoCorr"]
-	path = IsoCorr
-	url = https://github.com/cran/IsoCorr
 [submodule "IsoGene"]
 	path = IsoGene
 	url = https://github.com/cran/IsoGene
@@ -20141,9 +20138,6 @@
 [submodule "baseballDBR"]
 	path = baseballDBR
 	url = https://github.com/cran/baseballDBR
-[submodule "baseballr"]
-	path = baseballr
-	url = https://github.com/cran/baseballr
 [submodule "basecamb"]
 	path = basecamb
 	url = https://github.com/cran/basecamb
@@ -42857,9 +42851,6 @@
 [submodule "nlWaldTest"]
 	path = nlWaldTest
 	url = https://github.com/cran/nlWaldTest
-[submodule "nlaR"]
-	path = nlaR
-	url = https://github.com/cran/nlaR
 [submodule "nlcv"]
 	path = nlcv
 	url = https://github.com/cran/nlcv
@@ -45032,9 +45023,6 @@
 [submodule "pbivnorm"]
 	path = pbivnorm
 	url = https://github.com/cran/pbivnorm
-[submodule "pbixr"]
-	path = pbixr
-	url = https://github.com/cran/pbixr
 [submodule "pbkrtest"]
 	path = pbkrtest
 	url = https://github.com/cran/pbkrtest
@@ -56867,9 +56855,6 @@
 [submodule "tRnslate"]
 	path = tRnslate
 	url = https://github.com/cran/tRnslate
-[submodule "tRophicPosition"]
-	path = tRophicPosition
-	url = https://github.com/cran/tRophicPosition
 [submodule "tTOlr"]
 	path = tTOlr
 	url = https://github.com/cran/tTOlr
