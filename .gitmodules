@@ -4859,9 +4859,6 @@
 [submodule "ExpGenetic"]
 	path = ExpGenetic
 	url = https://github.com/cran/ExpGenetic
-[submodule "ExpImage"]
-	path = ExpImage
-	url = https://github.com/cran/ExpImage
 [submodule "ExpRep"]
 	path = ExpRep
 	url = https://github.com/cran/ExpRep
@@ -16496,6 +16493,9 @@
 [submodule "SwarmSVM"]
 	path = SwarmSVM
 	url = https://github.com/cran/SwarmSVM
+[submodule "SweepDiscovery"]
+	path = SweepDiscovery
+	url = https://github.com/cran/SweepDiscovery
 [submodule "SwimmeR"]
 	path = SwimmeR
 	url = https://github.com/cran/SwimmeR
@@ -43418,9 +43418,6 @@
 [submodule "nucim"]
 	path = nucim
 	url = https://github.com/cran/nucim
-[submodule "nuggets"]
-	path = nuggets
-	url = https://github.com/cran/nuggets
 [submodule "nullabor"]
 	path = nullabor
 	url = https://github.com/cran/nullabor
