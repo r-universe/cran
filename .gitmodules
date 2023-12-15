@@ -6338,6 +6338,9 @@
 [submodule "GlarmaVarSel"]
 	path = GlarmaVarSel
 	url = https://github.com/cran/GlarmaVarSel
+[submodule "Glarmadillo"]
+	path = Glarmadillo
+	url = https://github.com/cran/Glarmadillo
 [submodule "GlmSimulatoR"]
 	path = GlmSimulatoR
 	url = https://github.com/cran/GlmSimulatoR
@@ -29069,6 +29072,9 @@
 [submodule "expirest"]
 	path = expirest
 	url = https://github.com/cran/expirest
+[submodule "explainer"]
+	path = explainer
+	url = https://github.com/cran/explainer
 [submodule "explor"]
 	path = explor
 	url = https://github.com/cran/explor
@@ -29450,6 +29456,9 @@
 [submodule "fansi"]
 	path = fansi
 	url = https://github.com/cran/fansi
+[submodule "fanyi"]
+	path = fanyi
+	url = https://github.com/cran/fanyi
 [submodule "faoutlier"]
 	path = faoutlier
 	url = https://github.com/cran/faoutlier
@@ -34061,6 +34070,9 @@
 [submodule "hdbm"]
 	path = hdbm
 	url = https://github.com/cran/hdbm
+[submodule "hdbma"]
+	path = hdbma
+	url = https://github.com/cran/hdbma
 [submodule "hdcate"]
 	path = hdcate
 	url = https://github.com/cran/hdcate
