@@ -4847,6 +4847,9 @@
 [submodule "ExpGenetic"]
 	path = ExpGenetic
 	url = https://github.com/cran/ExpGenetic
+[submodule "ExpImage"]
+	path = ExpImage
+	url = https://github.com/cran/ExpImage
 [submodule "ExpRep"]
 	path = ExpRep
 	url = https://github.com/cran/ExpRep
@@ -43283,6 +43286,9 @@
 [submodule "nucim"]
 	path = nucim
 	url = https://github.com/cran/nucim
+[submodule "nuggets"]
+	path = nuggets
+	url = https://github.com/cran/nuggets
 [submodule "nullabor"]
 	path = nullabor
 	url = https://github.com/cran/nullabor
