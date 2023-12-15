@@ -22040,9 +22040,6 @@
 [submodule "camsRad"]
 	path = camsRad
 	url = https://github.com/cran/camsRad
-[submodule "camtrapR"]
-	path = camtrapR
-	url = https://github.com/cran/camtrapR
 [submodule "canadamaps"]
 	path = canadamaps
 	url = https://github.com/cran/canadamaps
@@ -44255,9 +44252,6 @@
 [submodule "overdisp"]
 	path = overdisp
 	url = https://github.com/cran/overdisp
-[submodule "overlap"]
-	path = overlap
-	url = https://github.com/cran/overlap
 [submodule "overlapping"]
 	path = overlapping
 	url = https://github.com/cran/overlapping
