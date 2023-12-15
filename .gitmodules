@@ -21707,6 +21707,9 @@
 [submodule "bsicons"]
 	path = bsicons
 	url = https://github.com/cran/bsicons
+[submodule "bsitar"]
+	path = bsitar
+	url = https://github.com/cran/bsitar
 [submodule "bskyr"]
 	path = bskyr
 	url = https://github.com/cran/bskyr
@@ -57740,6 +57743,9 @@
 [submodule "tightClust"]
 	path = tightClust
 	url = https://github.com/cran/tightClust
+[submodule "tightenBlock"]
+	path = tightenBlock
+	url = https://github.com/cran/tightenBlock
 [submodule "tigreBrowserWriter"]
 	path = tigreBrowserWriter
 	url = https://github.com/cran/tigreBrowserWriter
