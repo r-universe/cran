@@ -10892,9 +10892,6 @@
 [submodule "PBNPA"]
 	path = PBNPA
 	url = https://github.com/cran/PBNPA
-[submodule "PBRF"]
-	path = PBRF
-	url = https://github.com/cran/PBRF
 [submodule "PBSadmb"]
 	path = PBSadmb
 	url = https://github.com/cran/PBSadmb
@@ -17723,9 +17720,6 @@
 [submodule "WWGbook"]
 	path = WWGbook
 	url = https://github.com/cran/WWGbook
-[submodule "WWR"]
-	path = WWR
-	url = https://github.com/cran/WWR
 [submodule "WaMaSim"]
 	path = WaMaSim
 	url = https://github.com/cran/WaMaSim
@@ -23915,9 +23909,6 @@
 [submodule "concordancer"]
 	path = concordancer
 	url = https://github.com/cran/concordancer
-[submodule "concreg"]
-	path = concreg
-	url = https://github.com/cran/concreg
 [submodule "concrete"]
 	path = concrete
 	url = https://github.com/cran/concrete
