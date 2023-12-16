@@ -52925,6 +52925,9 @@
 [submodule "sfcr"]
 	path = sfcr
 	url = https://github.com/cran/sfcr
+[submodule "sfd"]
+	path = sfd
+	url = https://github.com/cran/sfd
 [submodule "sfdct"]
 	path = sfdct
 	url = https://github.com/cran/sfdct
