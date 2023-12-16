@@ -18824,9 +18824,6 @@
 [submodule "alone"]
 	path = alone
 	url = https://github.com/cran/alone
-[submodule "alookr"]
-	path = alookr
-	url = https://github.com/cran/alookr
 [submodule "aloom"]
 	path = aloom
 	url = https://github.com/cran/aloom
@@ -26816,9 +26813,6 @@
 [submodule "dlnm"]
 	path = dlnm
 	url = https://github.com/cran/dlnm
-[submodule "dlookr"]
-	path = dlookr
-	url = https://github.com/cran/dlookr
 [submodule "dlr"]
 	path = dlr
 	url = https://github.com/cran/dlr
