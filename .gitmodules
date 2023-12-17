@@ -4301,6 +4301,9 @@
 [submodule "EHR"]
 	path = EHR
 	url = https://github.com/cran/EHR
+[submodule "EHRtemporalVariability"]
+	path = EHRtemporalVariability
+	url = https://github.com/cran/EHRtemporalVariability
 [submodule "EIAapi"]
 	path = EIAapi
 	url = https://github.com/cran/EIAapi
@@ -29090,6 +29093,9 @@
 [submodule "exreport"]
 	path = exreport
 	url = https://github.com/cran/exreport
+[submodule "extBatchMarking"]
+	path = extBatchMarking
+	url = https://github.com/cran/extBatchMarking
 [submodule "extRC"]
 	path = extRC
 	url = https://github.com/cran/extRC
@@ -32126,6 +32132,9 @@
 [submodule "ggbeeswarm"]
 	path = ggbeeswarm
 	url = https://github.com/cran/ggbeeswarm
+[submodule "ggbiplot"]
+	path = ggbiplot
+	url = https://github.com/cran/ggbiplot
 [submodule "ggblanket"]
 	path = ggblanket
 	url = https://github.com/cran/ggblanket
@@ -38387,6 +38396,9 @@
 [submodule "loon.tourr"]
 	path = loon.tourr
 	url = https://github.com/cran/loon.tourr
+[submodule "lorad"]
+	path = lorad
+	url = https://github.com/cran/lorad
 [submodule "lordif"]
 	path = lordif
 	url = https://github.com/cran/lordif
@@ -54347,6 +54359,9 @@
 [submodule "snowquery"]
 	path = snowquery
 	url = https://github.com/cran/snowquery
+[submodule "snpAIMeR"]
+	path = snpAIMeR
+	url = https://github.com/cran/snpAIMeR
 [submodule "snpReady"]
 	path = snpReady
 	url = https://github.com/cran/snpReady
