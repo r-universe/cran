@@ -10892,6 +10892,9 @@
 [submodule "PBNPA"]
 	path = PBNPA
 	url = https://github.com/cran/PBNPA
+[submodule "PBRF"]
+	path = PBRF
+	url = https://github.com/cran/PBRF
 [submodule "PBSadmb"]
 	path = PBSadmb
 	url = https://github.com/cran/PBSadmb
@@ -17720,6 +17723,9 @@
 [submodule "WWGbook"]
 	path = WWGbook
 	url = https://github.com/cran/WWGbook
+[submodule "WWR"]
+	path = WWR
+	url = https://github.com/cran/WWR
 [submodule "WaMaSim"]
 	path = WaMaSim
 	url = https://github.com/cran/WaMaSim
@@ -18824,6 +18830,9 @@
 [submodule "alone"]
 	path = alone
 	url = https://github.com/cran/alone
+[submodule "alookr"]
+	path = alookr
+	url = https://github.com/cran/alookr
 [submodule "aloom"]
 	path = aloom
 	url = https://github.com/cran/aloom
@@ -23906,6 +23915,9 @@
 [submodule "concordancer"]
 	path = concordancer
 	url = https://github.com/cran/concordancer
+[submodule "concreg"]
+	path = concreg
+	url = https://github.com/cran/concreg
 [submodule "concrete"]
 	path = concrete
 	url = https://github.com/cran/concrete
@@ -26813,6 +26825,9 @@
 [submodule "dlnm"]
 	path = dlnm
 	url = https://github.com/cran/dlnm
+[submodule "dlookr"]
+	path = dlookr
+	url = https://github.com/cran/dlookr
 [submodule "dlr"]
 	path = dlr
 	url = https://github.com/cran/dlr
