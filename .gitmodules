@@ -28598,9 +28598,6 @@
 [submodule "era"]
 	path = era
 	url = https://github.com/cran/era
-[submodule "erah"]
-	path = erah
-	url = https://github.com/cran/erah
 [submodule "ercv"]
 	path = ercv
 	url = https://github.com/cran/ercv
@@ -52823,6 +52820,9 @@
 [submodule "sentopics"]
 	path = sentopics
 	url = https://github.com/cran/sentopics
+[submodule "sentryR"]
+	path = sentryR
+	url = https://github.com/cran/sentryR
 [submodule "separationplot"]
 	path = separationplot
 	url = https://github.com/cran/separationplot
