@@ -7847,6 +7847,9 @@
 [submodule "L0Learn"]
 	path = L0Learn
 	url = https://github.com/cran/L0Learn
+[submodule "L1centrality"]
+	path = L1centrality
+	url = https://github.com/cran/L1centrality
 [submodule "L1pack"]
 	path = L1pack
 	url = https://github.com/cran/L1pack
@@ -11660,6 +11663,9 @@
 [submodule "PhotosynQ"]
 	path = PhotosynQ
 	url = https://github.com/cran/PhotosynQ
+[submodule "PhyInsight"]
+	path = PhyInsight
+	url = https://github.com/cran/PhyInsight
 [submodule "PhySortR"]
 	path = PhySortR
 	url = https://github.com/cran/PhySortR
@@ -20204,6 +20210,9 @@
 [submodule "bayesRecon"]
 	path = bayesRecon
 	url = https://github.com/cran/bayesRecon
+[submodule "bayesSurv"]
+	path = bayesSurv
+	url = https://github.com/cran/bayesSurv
 [submodule "bayesTFR"]
 	path = bayesTFR
 	url = https://github.com/cran/bayesTFR
@@ -24047,6 +24056,9 @@
 [submodule "connectapi"]
 	path = connectapi
 	url = https://github.com/cran/connectapi
+[submodule "connections"]
+	path = connections
+	url = https://github.com/cran/connections
 [submodule "connectwidgets"]
 	path = connectwidgets
 	url = https://github.com/cran/connectwidgets
@@ -31484,6 +31496,9 @@
 [submodule "gcplyr"]
 	path = gcplyr
 	url = https://github.com/cran/gcplyr
+[submodule "gdalBindings"]
+	path = gdalBindings
+	url = https://github.com/cran/gdalBindings
 [submodule "gdalUtilities"]
 	path = gdalUtilities
 	url = https://github.com/cran/gdalUtilities
@@ -57887,6 +57902,9 @@
 [submodule "tinytex"]
 	path = tinytex
 	url = https://github.com/cran/tinytex
+[submodule "tinythemes"]
+	path = tinythemes
+	url = https://github.com/cran/tinythemes
 [submodule "tinytiger"]
 	path = tinytiger
 	url = https://github.com/cran/tinytiger
@@ -58388,6 +58406,9 @@
 [submodule "treeshap"]
 	path = treeshap
 	url = https://github.com/cran/treeshap
+[submodule "treesliceR"]
+	path = treesliceR
+	url = https://github.com/cran/treesliceR
 [submodule "treespace"]
 	path = treespace
 	url = https://github.com/cran/treespace
