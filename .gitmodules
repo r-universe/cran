@@ -16559,6 +16559,9 @@
 [submodule "TDAkit"]
 	path = TDAkit
 	url = https://github.com/cran/TDAkit
+[submodule "TDApplied"]
+	path = TDApplied
+	url = https://github.com/cran/TDApplied
 [submodule "TDAstats"]
 	path = TDAstats
 	url = https://github.com/cran/TDAstats
@@ -28601,6 +28604,9 @@
 [submodule "era"]
 	path = era
 	url = https://github.com/cran/era
+[submodule "erah"]
+	path = erah
+	url = https://github.com/cran/erah
 [submodule "ercv"]
 	path = ercv
 	url = https://github.com/cran/ercv
