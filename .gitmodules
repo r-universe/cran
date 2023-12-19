@@ -16625,6 +16625,9 @@
 [submodule "TH.data"]
 	path = TH.data
 	url = https://github.com/cran/TH.data
+[submodule "THREC"]
+	path = THREC
+	url = https://github.com/cran/THREC
 [submodule "TIGERr"]
 	path = TIGERr
 	url = https://github.com/cran/TIGERr
