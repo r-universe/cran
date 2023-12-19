@@ -3803,6 +3803,9 @@
 [submodule "Davies"]
 	path = Davies
 	url = https://github.com/cran/Davies
+[submodule "DeBoinR"]
+	path = DeBoinR
+	url = https://github.com/cran/DeBoinR
 [submodule "DeCAFS"]
 	path = DeCAFS
 	url = https://github.com/cran/DeCAFS
@@ -30482,6 +30485,9 @@
 [submodule "forceR"]
 	path = forceR
 	url = https://github.com/cran/forceR
+[submodule "forceplate"]
+	path = forceplate
+	url = https://github.com/cran/forceplate
 [submodule "foreSIGHT"]
 	path = foreSIGHT
 	url = https://github.com/cran/foreSIGHT
@@ -33251,6 +33257,9 @@
 [submodule "gps.track"]
 	path = gps.track
 	url = https://github.com/cran/gps.track
+[submodule "gptoolsStan"]
+	path = gptoolsStan
+	url = https://github.com/cran/gptoolsStan
 [submodule "gptstudio"]
 	path = gptstudio
 	url = https://github.com/cran/gptstudio
