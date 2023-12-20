@@ -1100,6 +1100,9 @@
 [submodule "BPM"]
 	path = BPM
 	url = https://github.com/cran/BPM
+[submodule "BPrinStratTTE"]
+	path = BPrinStratTTE
+	url = https://github.com/cran/BPrinStratTTE
 [submodule "BRACE"]
 	path = BRACE
 	url = https://github.com/cran/BRACE
@@ -43772,6 +43775,9 @@
 [submodule "ontologySimilarity"]
 	path = ontologySimilarity
 	url = https://github.com/cran/ontologySimilarity
+[submodule "ontophylo"]
+	path = ontophylo
+	url = https://github.com/cran/ontophylo
 [submodule "oolong"]
 	path = oolong
 	url = https://github.com/cran/oolong
