@@ -368,6 +368,9 @@
 [submodule "AUtests"]
 	path = AUtests
 	url = https://github.com/cran/AUtests
+[submodule "AVGAS"]
+	path = AVGAS
+	url = https://github.com/cran/AVGAS
 [submodule "AWR"]
 	path = AWR
 	url = https://github.com/cran/AWR
@@ -1976,6 +1979,9 @@
 [submodule "CCWeights"]
 	path = CCWeights
 	url = https://github.com/cran/CCWeights
+[submodule "CDCPLACES"]
+	path = CDCPLACES
+	url = https://github.com/cran/CDCPLACES
 [submodule "CDFt"]
 	path = CDFt
 	url = https://github.com/cran/CDFt
@@ -21554,6 +21560,9 @@
 [submodule "brassica"]
 	path = brassica
 	url = https://github.com/cran/brassica
+[submodule "bratteli"]
+	path = bratteli
+	url = https://github.com/cran/bratteli
 [submodule "bravo"]
 	path = bravo
 	url = https://github.com/cran/bravo
@@ -26648,6 +26657,9 @@
 [submodule "diseasemapping"]
 	path = diseasemapping
 	url = https://github.com/cran/diseasemapping
+[submodule "diseasystore"]
+	path = diseasystore
+	url = https://github.com/cran/diseasystore
 [submodule "disk.frame"]
 	path = disk.frame
 	url = https://github.com/cran/disk.frame
@@ -49676,6 +49688,9 @@
 [submodule "remstats"]
 	path = remstats
 	url = https://github.com/cran/remstats
+[submodule "remstimate"]
+	path = remstimate
+	url = https://github.com/cran/remstimate
 [submodule "renderthis"]
 	path = renderthis
 	url = https://github.com/cran/renderthis
