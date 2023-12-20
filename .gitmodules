@@ -35153,6 +35153,9 @@
 [submodule "icenReg"]
 	path = icenReg
 	url = https://github.com/cran/icenReg
+[submodule "icensBKL"]
+	path = icensBKL
+	url = https://github.com/cran/icensBKL
 [submodule "icensmis"]
 	path = icensmis
 	url = https://github.com/cran/icensmis
@@ -35831,6 +35834,9 @@
 [submodule "interplot"]
 	path = interplot
 	url = https://github.com/cran/interplot
+[submodule "interpolation"]
+	path = interpolation
+	url = https://github.com/cran/interpolation
 [submodule "interpolators"]
 	path = interpolators
 	url = https://github.com/cran/interpolators
@@ -44489,9 +44495,6 @@
 [submodule "paleomorph"]
 	path = paleomorph
 	url = https://github.com/cran/paleomorph
-[submodule "paleopop"]
-	path = paleopop
-	url = https://github.com/cran/paleopop
 [submodule "paleotree"]
 	path = paleotree
 	url = https://github.com/cran/paleotree
@@ -46232,9 +46235,6 @@
 [submodule "podcleaner"]
 	path = podcleaner
 	url = https://github.com/cran/podcleaner
-[submodule "poems"]
-	path = poems
-	url = https://github.com/cran/poems
 [submodule "pogit"]
 	path = pogit
 	url = https://github.com/cran/pogit
