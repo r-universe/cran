@@ -20003,6 +20003,9 @@
 [submodule "bakeoff"]
 	path = bakeoff
 	url = https://github.com/cran/bakeoff
+[submodule "baker"]
+	path = baker
+	url = https://github.com/cran/baker
 [submodule "baldur"]
 	path = baldur
 	url = https://github.com/cran/baldur
@@ -21467,6 +21470,9 @@
 [submodule "box"]
 	path = box
 	url = https://github.com/cran/box
+[submodule "boxcoxmix"]
+	path = boxcoxmix
+	url = https://github.com/cran/boxcoxmix
 [submodule "boxfilter"]
 	path = boxfilter
 	url = https://github.com/cran/boxfilter
