@@ -299,6 +299,9 @@
 [submodule "ARDL"]
 	path = ARDL
 	url = https://github.com/cran/ARDL
+[submodule "ARGOS"]
+	path = ARGOS
+	url = https://github.com/cran/ARGOS
 [submodule "ARHT"]
 	path = ARHT
 	url = https://github.com/cran/ARHT
@@ -4940,6 +4943,9 @@
 [submodule "FARDEEP"]
 	path = FARDEEP
 	url = https://github.com/cran/FARDEEP
+[submodule "FAST.R"]
+	path = FAST.R
+	url = https://github.com/cran/FAST.R
 [submodule "FASeg"]
 	path = FASeg
 	url = https://github.com/cran/FASeg
@@ -4961,6 +4967,9 @@
 [submodule "FBFsearch"]
 	path = FBFsearch
 	url = https://github.com/cran/FBFsearch
+[submodule "FBMS"]
+	path = FBMS
+	url = https://github.com/cran/FBMS
 [submodule "FBN"]
 	path = FBN
 	url = https://github.com/cran/FBN
@@ -9155,6 +9164,9 @@
 [submodule "MSGARCHelm"]
 	path = MSGARCHelm
 	url = https://github.com/cran/MSGARCHelm
+[submodule "MSML"]
+	path = MSML
+	url = https://github.com/cran/MSML
 [submodule "MSMwRA"]
 	path = MSMwRA
 	url = https://github.com/cran/MSMwRA
@@ -14327,6 +14339,9 @@
 [submodule "Rmolt"]
 	path = Rmolt
 	url = https://github.com/cran/Rmolt
+[submodule "Rmonize"]
+	path = Rmonize
+	url = https://github.com/cran/Rmonize
 [submodule "Rmosek"]
 	path = Rmosek
 	url = https://github.com/cran/Rmosek
@@ -18845,6 +18860,9 @@
 [submodule "allestimates"]
 	path = allestimates
 	url = https://github.com/cran/allestimates
+[submodule "allofus"]
+	path = allofus
+	url = https://github.com/cran/allofus
 [submodule "allometric"]
 	path = allometric
 	url = https://github.com/cran/allometric
@@ -20825,6 +20843,9 @@
 [submodule "bigrquery"]
 	path = bigrquery
 	url = https://github.com/cran/bigrquery
+[submodule "bigrquerystorage"]
+	path = bigrquerystorage
+	url = https://github.com/cran/bigrquerystorage
 [submodule "bigsimr"]
 	path = bigsimr
 	url = https://github.com/cran/bigsimr
@@ -38216,6 +38237,9 @@
 [submodule "localScore"]
 	path = localScore
 	url = https://github.com/cran/localScore
+[submodule "localboot"]
+	path = localboot
+	url = https://github.com/cran/localboot
 [submodule "localgauss"]
 	path = localgauss
 	url = https://github.com/cran/localgauss
@@ -40793,6 +40817,9 @@
 [submodule "mlr3pipelines"]
 	path = mlr3pipelines
 	url = https://github.com/cran/mlr3pipelines
+[submodule "mlr3resampling"]
+	path = mlr3resampling
+	url = https://github.com/cran/mlr3resampling
 [submodule "mlr3shiny"]
 	path = mlr3shiny
 	url = https://github.com/cran/mlr3shiny
@@ -56411,6 +56438,9 @@
 [submodule "surveydata"]
 	path = surveydata
 	url = https://github.com/cran/surveydata
+[submodule "surveyexplorer"]
+	path = surveyexplorer
+	url = https://github.com/cran/surveyexplorer
 [submodule "surveyplanning"]
 	path = surveyplanning
 	url = https://github.com/cran/surveyplanning
