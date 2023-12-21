@@ -8927,6 +8927,9 @@
 [submodule "MLML2R"]
 	path = MLML2R
 	url = https://github.com/cran/MLML2R
+[submodule "MLMOI"]
+	path = MLMOI
+	url = https://github.com/cran/MLMOI
 [submodule "MLModelSelection"]
 	path = MLModelSelection
 	url = https://github.com/cran/MLModelSelection
