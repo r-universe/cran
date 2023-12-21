@@ -49697,9 +49697,6 @@
 [submodule "remstimate"]
 	path = remstimate
 	url = https://github.com/cran/remstimate
-[submodule "renderthis"]
-	path = renderthis
-	url = https://github.com/cran/renderthis
 [submodule "renpow"]
 	path = renpow
 	url = https://github.com/cran/renpow
