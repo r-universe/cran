@@ -18164,6 +18164,9 @@
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cran/abmR
+[submodule "abn"]
+	path = abn
+	url = https://github.com/cran/abn
 [submodule "abnormality"]
 	path = abnormality
 	url = https://github.com/cran/abnormality
@@ -39473,6 +39476,9 @@
 [submodule "mcmcOutput"]
 	path = mcmcOutput
 	url = https://github.com/cran/mcmcOutput
+[submodule "mcmcabn"]
+	path = mcmcabn
+	url = https://github.com/cran/mcmcabn
 [submodule "mcmcderive"]
 	path = mcmcderive
 	url = https://github.com/cran/mcmcderive
