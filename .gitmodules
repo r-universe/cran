@@ -20846,6 +20846,9 @@
 [submodule "bigrquery"]
 	path = bigrquery
 	url = https://github.com/cran/bigrquery
+[submodule "bigrquerystorage"]
+	path = bigrquerystorage
+	url = https://github.com/cran/bigrquerystorage
 [submodule "bigsimr"]
 	path = bigsimr
 	url = https://github.com/cran/bigsimr
