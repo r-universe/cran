@@ -22295,6 +22295,9 @@
 [submodule "camsRad"]
 	path = camsRad
 	url = https://github.com/cran/camsRad
+[submodule "camtrapR"]
+	path = camtrapR
+	url = https://github.com/cran/camtrapR
 [submodule "canadamaps"]
 	path = canadamaps
 	url = https://github.com/cran/canadamaps
