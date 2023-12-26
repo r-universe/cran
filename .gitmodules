@@ -27518,9 +27518,6 @@
 [submodule "dynr"]
 	path = dynr
 	url = https://github.com/cran/dynr
-[submodule "dynsbm"]
-	path = dynsbm
-	url = https://github.com/cran/dynsbm
 [submodule "dynsim"]
 	path = dynsim
 	url = https://github.com/cran/dynsim
@@ -41216,9 +41213,6 @@
 [submodule "mopac"]
 	path = mopac
 	url = https://github.com/cran/mopac
-[submodule "moranajp"]
-	path = moranajp
-	url = https://github.com/cran/moranajp
 [submodule "moreparty"]
 	path = moreparty
 	url = https://github.com/cran/moreparty
