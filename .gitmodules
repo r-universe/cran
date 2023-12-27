@@ -48515,9 +48515,6 @@
 [submodule "rags2ridges"]
 	path = rags2ridges
 	url = https://github.com/cran/rags2ridges
-[submodule "ragt2ridges"]
-	path = ragt2ridges
-	url = https://github.com/cran/ragt2ridges
 [submodule "ragtop"]
 	path = ragtop
 	url = https://github.com/cran/ragtop
