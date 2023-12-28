@@ -1550,9 +1550,6 @@
 [submodule "BiDimRegression"]
 	path = BiDimRegression
 	url = https://github.com/cran/BiDimRegression
-[submodule "BiProbitPartial"]
-	path = BiProbitPartial
-	url = https://github.com/cran/BiProbitPartial
 [submodule "BiSEp"]
 	path = BiSEp
 	url = https://github.com/cran/BiSEp
@@ -1670,9 +1667,6 @@
 [submodule "BiplotGUI"]
 	path = BiplotGUI
 	url = https://github.com/cran/BiplotGUI
-[submodule "BiplotML"]
-	path = BiplotML
-	url = https://github.com/cran/BiplotML
 [submodule "BisRNA"]
 	path = BisRNA
 	url = https://github.com/cran/BisRNA
@@ -4040,9 +4034,6 @@
 [submodule "DiscreteWeibull"]
 	path = DiscreteWeibull
 	url = https://github.com/cran/DiscreteWeibull
-[submodule "Disequilibrium"]
-	path = Disequilibrium
-	url = https://github.com/cran/Disequilibrium
 [submodule "DisimForMixed"]
 	path = DisimForMixed
 	url = https://github.com/cran/DisimForMixed
@@ -7418,9 +7409,6 @@
 [submodule "Inflation"]
 	path = Inflation
 	url = https://github.com/cran/Inflation
-[submodule "Inflect"]
-	path = Inflect
-	url = https://github.com/cran/Inflect
 [submodule "InflectSSP"]
 	path = InflectSSP
 	url = https://github.com/cran/InflectSSP
@@ -15893,9 +15881,6 @@
 [submodule "SkewHyperbolic"]
 	path = SkewHyperbolic
 	url = https://github.com/cran/SkewHyperbolic
-[submodule "SkeweDF"]
-	path = SkeweDF
-	url = https://github.com/cran/SkeweDF
 [submodule "Skillings.Mack"]
 	path = Skillings.Mack
 	url = https://github.com/cran/Skillings.Mack
@@ -16382,9 +16367,6 @@
 [submodule "SubVis"]
 	path = SubVis
 	url = https://github.com/cran/SubVis
-[submodule "SubgrPlots"]
-	path = SubgrPlots
-	url = https://github.com/cran/SubgrPlots
 [submodule "SubpathwayLNCE"]
 	path = SubpathwayLNCE
 	url = https://github.com/cran/SubpathwayLNCE
@@ -18047,9 +18029,6 @@
 [submodule "ZIPFA"]
 	path = ZIPFA
 	url = https://github.com/cran/ZIPFA
-[submodule "ZIPG"]
-	path = ZIPG
-	url = https://github.com/cran/ZIPG
 [submodule "ZIprop"]
 	path = ZIprop
 	url = https://github.com/cran/ZIprop
@@ -24308,9 +24287,6 @@
 [submodule "corlink"]
 	path = corlink
 	url = https://github.com/cran/corlink
-[submodule "corncob"]
-	path = corncob
-	url = https://github.com/cran/corncob
 [submodule "cornet"]
 	path = cornet
 	url = https://github.com/cran/cornet
@@ -37376,9 +37352,6 @@
 [submodule "lattice"]
 	path = lattice
 	url = https://github.com/cran/lattice
-[submodule "latticeDensity"]
-	path = latticeDensity
-	url = https://github.com/cran/latticeDensity
 [submodule "latticeExtra"]
 	path = latticeExtra
 	url = https://github.com/cran/latticeExtra
@@ -45545,9 +45518,6 @@
 [submodule "phonenumber"]
 	path = phonenumber
 	url = https://github.com/cran/phonenumber
-[submodule "phonfieldwork"]
-	path = phonfieldwork
-	url = https://github.com/cran/phonfieldwork
 [submodule "phonics"]
 	path = phonics
 	url = https://github.com/cran/phonics
@@ -48911,9 +48881,6 @@
 [submodule "rbmn"]
 	path = rbmn
 	url = https://github.com/cran/rbmn
-[submodule "rbokeh"]
-	path = rbokeh
-	url = https://github.com/cran/rbokeh
 [submodule "rbooster"]
 	path = rbooster
 	url = https://github.com/cran/rbooster
@@ -57263,9 +57230,6 @@
 [submodule "texter"]
 	path = texter
 	url = https://github.com/cran/texter
-[submodule "textfeatures"]
-	path = textfeatures
-	url = https://github.com/cran/textfeatures
 [submodule "textgRid"]
 	path = textgRid
 	url = https://github.com/cran/textgRid
@@ -58466,9 +58430,6 @@
 [submodule "triangulr"]
 	path = triangulr
 	url = https://github.com/cran/triangulr
-[submodule "tribe"]
-	path = tribe
-	url = https://github.com/cran/tribe
 [submodule "triebeard"]
 	path = triebeard
 	url = https://github.com/cran/triebeard
@@ -58934,9 +58895,6 @@
 [submodule "ubms"]
 	path = ubms
 	url = https://github.com/cran/ubms
-[submodule "uchardet"]
-	path = uchardet
-	url = https://github.com/cran/uchardet
 [submodule "uci"]
 	path = uci
 	url = https://github.com/cran/uci
