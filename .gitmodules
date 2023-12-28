@@ -43034,9 +43034,6 @@
 [submodule "nordklimdata1"]
 	path = nordklimdata1
 	url = https://github.com/cran/nordklimdata1
-[submodule "norgeo"]
-	path = norgeo
-	url = https://github.com/cran/norgeo
 [submodule "norm"]
 	path = norm
 	url = https://github.com/cran/norm
