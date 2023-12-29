@@ -9020,9 +9020,6 @@
 [submodule "MODISTools"]
 	path = MODISTools
 	url = https://github.com/cran/MODISTools
-[submodule "MODIStsp"]
-	path = MODIStsp
-	url = https://github.com/cran/MODIStsp
 [submodule "MOEADr"]
 	path = MOEADr
 	url = https://github.com/cran/MOEADr
@@ -52727,9 +52724,6 @@
 [submodule "semverutils"]
 	path = semverutils
 	url = https://github.com/cran/semverutils
-[submodule "sen2r"]
-	path = sen2r
-	url = https://github.com/cran/sen2r
 [submodule "sendgridr"]
 	path = sendgridr
 	url = https://github.com/cran/sendgridr
