@@ -13283,9 +13283,6 @@
 [submodule "RSAGA"]
 	path = RSAGA
 	url = https://github.com/cran/RSAGA
-[submodule "RSAlgaeR"]
-	path = RSAlgaeR
-	url = https://github.com/cran/RSAlgaeR
 [submodule "RSBJson"]
 	path = RSBJson
 	url = https://github.com/cran/RSBJson
@@ -15473,9 +15470,6 @@
 [submodule "SWMPrExtension"]
 	path = SWMPrExtension
 	url = https://github.com/cran/SWMPrExtension
-[submodule "SWTools"]
-	path = SWTools
-	url = https://github.com/cran/SWTools
 [submodule "SYNCSA"]
 	path = SYNCSA
 	url = https://github.com/cran/SYNCSA
@@ -15863,9 +15857,6 @@
 [submodule "SingleCaseES"]
 	path = SingleCaseES
 	url = https://github.com/cran/SingleCaseES
-[submodule "SiteAdapt"]
-	path = SiteAdapt
-	url = https://github.com/cran/SiteAdapt
 [submodule "SitesInterest"]
 	path = SitesInterest
 	url = https://github.com/cran/SitesInterest
@@ -20939,9 +20930,6 @@
 [submodule "bioC.logs"]
 	path = bioC.logs
 	url = https://github.com/cran/bioC.logs
-[submodule "bioOED"]
-	path = bioOED
-	url = https://github.com/cran/bioOED
 [submodule "bioPN"]
 	path = bioPN
 	url = https://github.com/cran/bioPN
@@ -27317,9 +27305,6 @@
 [submodule "dtw"]
 	path = dtw
 	url = https://github.com/cran/dtw
-[submodule "dtwSat"]
-	path = dtwSat
-	url = https://github.com/cran/dtwSat
 [submodule "dtwclust"]
 	path = dtwclust
 	url = https://github.com/cran/dtwclust
@@ -27398,9 +27383,6 @@
 [submodule "dyads"]
 	path = dyads
 	url = https://github.com/cran/dyads
-[submodule "dycdtools"]
-	path = dycdtools
-	url = https://github.com/cran/dycdtools
 [submodule "dydea"]
 	path = dydea
 	url = https://github.com/cran/dydea
@@ -37130,9 +37112,6 @@
 [submodule "kvh"]
 	path = kvh
 	url = https://github.com/cran/kvh
-[submodule "kwb.hantush"]
-	path = kwb.hantush
-	url = https://github.com/cran/kwb.hantush
 [submodule "kyotil"]
 	path = kyotil
 	url = https://github.com/cran/kyotil
@@ -46532,9 +46511,6 @@
 [submodule "pould"]
 	path = pould
 	url = https://github.com/cran/pould
-[submodule "povmap"]
-	path = povmap
-	url = https://github.com/cran/povmap
 [submodule "pow.int"]
 	path = pow.int
 	url = https://github.com/cran/pow.int
@@ -51902,9 +51878,6 @@
 [submodule "sandwich"]
 	path = sandwich
 	url = https://github.com/cran/sandwich
-[submodule "sandwichr"]
-	path = sandwichr
-	url = https://github.com/cran/sandwichr
 [submodule "sanic"]
 	path = sanic
 	url = https://github.com/cran/sanic
@@ -58181,9 +58154,6 @@
 [submodule "trackeRapp"]
 	path = trackeRapp
 	url = https://github.com/cran/trackeRapp
-[submodule "trackter"]
-	path = trackter
-	url = https://github.com/cran/trackter
 [submodule "tractor.base"]
 	path = tractor.base
 	url = https://github.com/cran/tractor.base
