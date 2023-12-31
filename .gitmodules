@@ -8231,9 +8231,6 @@
 [submodule "Langevin"]
 	path = Langevin
 	url = https://github.com/cran/Langevin
-[submodule "LaplaceDeconv"]
-	path = LaplaceDeconv
-	url = https://github.com/cran/LaplaceDeconv
 [submodule "LaplacesDemon"]
 	path = LaplacesDemon
 	url = https://github.com/cran/LaplacesDemon
@@ -15809,9 +15806,6 @@
 [submodule "SimNPH"]
 	path = SimNPH
 	url = https://github.com/cran/SimNPH
-[submodule "SimRAD"]
-	path = SimRAD
-	url = https://github.com/cran/SimRAD
 [submodule "SimRVPedigree"]
 	path = SimRVPedigree
 	url = https://github.com/cran/SimRVPedigree
@@ -25520,9 +25514,6 @@
 [submodule "dataframeexplorer"]
 	path = dataframeexplorer
 	url = https://github.com/cran/dataframeexplorer
-[submodule "dataframes2xls"]
-	path = dataframes2xls
-	url = https://github.com/cran/dataframes2xls
 [submodule "datafsm"]
 	path = datafsm
 	url = https://github.com/cran/datafsm
@@ -31073,9 +31064,6 @@
 [submodule "fwb"]
 	path = fwb
 	url = https://github.com/cran/fwb
-[submodule "fwi.fbp"]
-	path = fwi.fbp
-	url = https://github.com/cran/fwi.fbp
 [submodule "fwildclusterboot"]
 	path = fwildclusterboot
 	url = https://github.com/cran/fwildclusterboot
@@ -34646,9 +34634,6 @@
 [submodule "hstats"]
 	path = hstats
 	url = https://github.com/cran/hstats
-[submodule "htdp"]
-	path = htdp
-	url = https://github.com/cran/htdp
 [submodule "htestClust"]
 	path = htestClust
 	url = https://github.com/cran/htestClust
@@ -36386,9 +36371,6 @@
 [submodule "jfa"]
 	path = jfa
 	url = https://github.com/cran/jfa
-[submodule "jgcricolors"]
-	path = jgcricolors
-	url = https://github.com/cran/jgcricolors
 [submodule "jgsbook"]
 	path = jgsbook
 	url = https://github.com/cran/jgsbook
@@ -45653,9 +45635,6 @@
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/cran/piggyback
-[submodule "piglet"]
-	path = piglet
-	url = https://github.com/cran/piglet
 [submodule "pillar"]
 	path = pillar
 	url = https://github.com/cran/pillar
@@ -46010,9 +45989,6 @@
 [submodule "plotrix"]
 	path = plotrix
 	url = https://github.com/cran/plotrix
-[submodule "plotrr"]
-	path = plotrr
-	url = https://github.com/cran/plotrr
 [submodule "plotscale"]
 	path = plotscale
 	url = https://github.com/cran/plotscale
@@ -58835,9 +58811,6 @@
 [submodule "u5mr"]
 	path = u5mr
 	url = https://github.com/cran/u5mr
-[submodule "uCAREChemSuiteCLI"]
-	path = uCAREChemSuiteCLI
-	url = https://github.com/cran/uCAREChemSuiteCLI
 [submodule "uGMAR"]
 	path = uGMAR
 	url = https://github.com/cran/uGMAR
