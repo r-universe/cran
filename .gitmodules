@@ -35537,6 +35537,9 @@
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cran/inegiR
+[submodule "ineptR"]
+	path = ineptR
+	url = https://github.com/cran/ineptR
 [submodule "ineq"]
 	path = ineq
 	url = https://github.com/cran/ineq
