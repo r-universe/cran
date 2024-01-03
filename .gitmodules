@@ -45797,9 +45797,6 @@
 [submodule "pkgsearch"]
 	path = pkgsearch
 	url = https://github.com/cran/pkgsearch
-[submodule "pkgstats"]
-	path = pkgstats
-	url = https://github.com/cran/pkgstats
 [submodule "pkgverse"]
 	path = pkgverse
 	url = https://github.com/cran/pkgverse
