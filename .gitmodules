@@ -8108,9 +8108,6 @@
 [submodule "LRMF3"]
 	path = LRMF3
 	url = https://github.com/cran/LRMF3
-[submodule "LRQMM"]
-	path = LRQMM
-	url = https://github.com/cran/LRQMM
 [submodule "LRTesteR"]
 	path = LRTesteR
 	url = https://github.com/cran/LRTesteR
@@ -20408,9 +20405,6 @@
 [submodule "bdpar"]
 	path = bdpar
 	url = https://github.com/cran/bdpar
-[submodule "bdpopt"]
-	path = bdpopt
-	url = https://github.com/cran/bdpopt
 [submodule "bdpv"]
 	path = bdpv
 	url = https://github.com/cran/bdpv
@@ -24557,9 +24551,6 @@
 [submodule "coxme"]
 	path = coxme
 	url = https://github.com/cran/coxme
-[submodule "coxmeg"]
-	path = coxmeg
-	url = https://github.com/cran/coxmeg
 [submodule "coxphMIC"]
 	path = coxphMIC
 	url = https://github.com/cran/coxphMIC
@@ -39749,9 +39740,6 @@
 [submodule "metaconfoundr"]
 	path = metaconfoundr
 	url = https://github.com/cran/metaconfoundr
-[submodule "metacor"]
-	path = metacor
-	url = https://github.com/cran/metacor
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/cran/metacore
