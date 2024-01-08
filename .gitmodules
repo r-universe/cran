@@ -1454,6 +1454,9 @@
 [submodule "BayesianLaterality"]
 	path = BayesianLaterality
 	url = https://github.com/cran/BayesianLaterality
+[submodule "BayesianMCPMod"]
+	path = BayesianMCPMod
+	url = https://github.com/cran/BayesianMCPMod
 [submodule "BayesianMediationA"]
 	path = BayesianMediationA
 	url = https://github.com/cran/BayesianMediationA
@@ -59462,6 +59465,9 @@
 [submodule "vecsets"]
 	path = vecsets
 	url = https://github.com/cran/vecsets
+[submodule "vectorbitops"]
+	path = vectorbitops
+	url = https://github.com/cran/vectorbitops
 [submodule "vectorwavelet"]
 	path = vectorwavelet
 	url = https://github.com/cran/vectorwavelet
