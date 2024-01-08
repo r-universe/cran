@@ -54989,6 +54989,9 @@
 [submodule "spgwr"]
 	path = spgwr
 	url = https://github.com/cran/spgwr
+[submodule "sphereTessellation"]
+	path = sphereTessellation
+	url = https://github.com/cran/sphereTessellation
 [submodule "spherepc"]
 	path = spherepc
 	url = https://github.com/cran/spherepc
