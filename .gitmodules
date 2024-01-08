@@ -10397,6 +10397,9 @@
 [submodule "Nmix"]
 	path = Nmix
 	url = https://github.com/cran/Nmix
+[submodule "NobBS"]
+	path = NobBS
+	url = https://github.com/cran/NobBS
 [submodule "NonCompart"]
 	path = NonCompart
 	url = https://github.com/cran/NonCompart
@@ -17090,6 +17093,9 @@
 [submodule "TopKLists"]
 	path = TopKLists
 	url = https://github.com/cran/TopKLists
+[submodule "TopKSignal"]
+	path = TopKSignal
+	url = https://github.com/cran/TopKSignal
 [submodule "TopSisWM"]
 	path = TopSisWM
 	url = https://github.com/cran/TopSisWM
@@ -24503,6 +24509,9 @@
 [submodule "covid19swiss"]
 	path = covid19swiss
 	url = https://github.com/cran/covid19swiss
+[submodule "covid19tunisia"]
+	path = covid19tunisia
+	url = https://github.com/cran/covid19tunisia
 [submodule "covid19us"]
 	path = covid19us
 	url = https://github.com/cran/covid19us
