@@ -10301,6 +10301,9 @@
 [submodule "NetInt"]
 	path = NetInt
 	url = https://github.com/cran/NetInt
+[submodule "NetLogoR"]
+	path = NetLogoR
+	url = https://github.com/cran/NetLogoR
 [submodule "NetMix"]
 	path = NetMix
 	url = https://github.com/cran/NetMix
@@ -27476,6 +27479,9 @@
 [submodule "eCAR"]
 	path = eCAR
 	url = https://github.com/cran/eCAR
+[submodule "eCV"]
+	path = eCV
+	url = https://github.com/cran/eCV
 [submodule "eChem"]
 	path = eChem
 	url = https://github.com/cran/eChem
@@ -28691,6 +28697,9 @@
 [submodule "estimateW"]
 	path = estimateW
 	url = https://github.com/cran/estimateW
+[submodule "estimators"]
+	path = estimators
+	url = https://github.com/cran/estimators
 [submodule "estimatr"]
 	path = estimatr
 	url = https://github.com/cran/estimatr
@@ -32636,6 +32645,9 @@
 [submodule "gimms"]
 	path = gimms
 	url = https://github.com/cran/gimms
+[submodule "giniVarCI"]
+	path = giniVarCI
+	url = https://github.com/cran/giniVarCI
 [submodule "ginormal"]
 	path = ginormal
 	url = https://github.com/cran/ginormal
