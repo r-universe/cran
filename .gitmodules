@@ -842,9 +842,6 @@
 [submodule "BBSSL"]
 	path = BBSSL
 	url = https://github.com/cran/BBSSL
-[submodule "BBcor"]
-	path = BBcor
-	url = https://github.com/cran/BBcor
 [submodule "BBmisc"]
 	path = BBmisc
 	url = https://github.com/cran/BBmisc
@@ -20234,9 +20231,6 @@
 [submodule "bayesianETAS"]
 	path = bayesianETAS
 	url = https://github.com/cran/bayesianETAS
-[submodule "bayeslincom"]
-	path = bayeslincom
-	url = https://github.com/cran/bayeslincom
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cran/bayeslm
@@ -21230,6 +21224,9 @@
 [submodule "bmemLavaan"]
 	path = bmemLavaan
 	url = https://github.com/cran/bmemLavaan
+[submodule "bmet"]
+	path = bmet
+	url = https://github.com/cran/bmet
 [submodule "bmgarch"]
 	path = bmgarch
 	url = https://github.com/cran/bmgarch
