@@ -1109,6 +1109,9 @@
 [submodule "BRACoD.R"]
 	path = BRACoD.R
 	url = https://github.com/cran/BRACoD.R
+[submodule "BRBVS"]
+	path = BRBVS
+	url = https://github.com/cran/BRBVS
 [submodule "BRDT"]
 	path = BRDT
 	url = https://github.com/cran/BRDT
@@ -19181,6 +19184,9 @@
 [submodule "aplpack"]
 	path = aplpack
 	url = https://github.com/cran/aplpack
+[submodule "apmx"]
+	path = apmx
+	url = https://github.com/cran/apmx
 [submodule "apng"]
 	path = apng
 	url = https://github.com/cran/apng
@@ -22022,6 +22028,9 @@
 [submodule "cancerTiming"]
 	path = cancerTiming
 	url = https://github.com/cran/cancerTiming
+[submodule "cancerscreening"]
+	path = cancerscreening
+	url = https://github.com/cran/cancerscreening
 [submodule "candisc"]
 	path = candisc
 	url = https://github.com/cran/candisc
@@ -22619,6 +22628,9 @@
 [submodule "chandwich"]
 	path = chandwich
 	url = https://github.com/cran/chandwich
+[submodule "changeRangeR"]
+	path = changeRangeR
+	url = https://github.com/cran/changeRangeR
 [submodule "changepoint"]
 	path = changepoint
 	url = https://github.com/cran/changepoint
@@ -35882,6 +35894,9 @@
 [submodule "ionr"]
 	path = ionr
 	url = https://github.com/cran/ionr
+[submodule "iopspackage"]
+	path = iopspackage
+	url = https://github.com/cran/iopspackage
 [submodule "iopsych"]
 	path = iopsych
 	url = https://github.com/cran/iopsych
@@ -40214,6 +40229,9 @@
 [submodule "mimi"]
 	path = mimi
 	url = https://github.com/cran/mimi
+[submodule "mimiSBM"]
+	path = mimiSBM
+	url = https://github.com/cran/mimiSBM
 [submodule "mimsy"]
 	path = mimsy
 	url = https://github.com/cran/mimsy
@@ -57710,6 +57728,9 @@
 [submodule "time.slots"]
 	path = time.slots
 	url = https://github.com/cran/time.slots
+[submodule "timeDF"]
+	path = timeDF
+	url = https://github.com/cran/timeDF
 [submodule "timeDate"]
 	path = timeDate
 	url = https://github.com/cran/timeDate
@@ -60257,6 +60278,9 @@
 [submodule "wheatmap"]
 	path = wheatmap
 	url = https://github.com/cran/wheatmap
+[submodule "when"]
+	path = when
+	url = https://github.com/cran/when
 [submodule "whereami"]
 	path = whereami
 	url = https://github.com/cran/whereami
