@@ -5231,6 +5231,9 @@
 [submodule "FamEvent"]
 	path = FamEvent
 	url = https://github.com/cran/FamEvent
+[submodule "Familias"]
+	path = Familias
+	url = https://github.com/cran/Familias
 [submodule "Families"]
 	path = Families
 	url = https://github.com/cran/Families
@@ -17279,6 +17282,9 @@
 [submodule "TwoStepCLogit"]
 	path = TwoStepCLogit
 	url = https://github.com/cran/TwoStepCLogit
+[submodule "TwoWayFEWeights"]
+	path = TwoWayFEWeights
+	url = https://github.com/cran/TwoWayFEWeights
 [submodule "UBCRM"]
 	path = UBCRM
 	url = https://github.com/cran/UBCRM
