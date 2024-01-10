@@ -3779,6 +3779,9 @@
 [submodule "DataLoader"]
 	path = DataLoader
 	url = https://github.com/cran/DataLoader
+[submodule "DataMetProcess"]
+	path = DataMetProcess
+	url = https://github.com/cran/DataMetProcess
 [submodule "DataSetsUni"]
 	path = DataSetsUni
 	url = https://github.com/cran/DataSetsUni
@@ -4934,6 +4937,9 @@
 [submodule "FARDEEP"]
 	path = FARDEEP
 	url = https://github.com/cran/FARDEEP
+[submodule "FAS"]
+	path = FAS
+	url = https://github.com/cran/FAS
 [submodule "FAST.R"]
 	path = FAST.R
 	url = https://github.com/cran/FAST.R
@@ -49379,6 +49385,9 @@
 [submodule "refitME"]
 	path = refitME
 	url = https://github.com/cran/refitME
+[submodule "reflimR"]
+	path = reflimR
+	url = https://github.com/cran/reflimR
 [submodule "refreg"]
 	path = refreg
 	url = https://github.com/cran/refreg
