@@ -1130,9 +1130,6 @@
 [submodule "BRL"]
 	path = BRL
 	url = https://github.com/cran/BRL
-[submodule "BRVM"]
-	path = BRVM
-	url = https://github.com/cran/BRVM
 [submodule "BRugs"]
 	path = BRugs
 	url = https://github.com/cran/BRugs
@@ -17249,9 +17246,6 @@
 [submodule "TripleR"]
 	path = TripleR
 	url = https://github.com/cran/TripleR
-[submodule "TropFishR"]
-	path = TropFishR
-	url = https://github.com/cran/TropFishR
 [submodule "TroublemakeR"]
 	path = TroublemakeR
 	url = https://github.com/cran/TroublemakeR
@@ -31385,6 +31379,9 @@
 [submodule "garray"]
 	path = garray
 	url = https://github.com/cran/garray
+[submodule "gasanalyzer"]
+	path = gasanalyzer
+	url = https://github.com/cran/gasanalyzer
 [submodule "gaselect"]
 	path = gaselect
 	url = https://github.com/cran/gaselect
@@ -42002,9 +41999,6 @@
 [submodule "mvnpermute"]
 	path = mvnpermute
 	url = https://github.com/cran/mvnpermute
-[submodule "mvord"]
-	path = mvord
-	url = https://github.com/cran/mvord
 [submodule "mvoutlier"]
 	path = mvoutlier
 	url = https://github.com/cran/mvoutlier
@@ -43844,9 +43838,6 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
-[submodule "opensensmapr"]
-	path = opensensmapr
-	url = https://github.com/cran/opensensmapr
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
@@ -60710,9 +60701,6 @@
 [submodule "xLLiM"]
 	path = xLLiM
 	url = https://github.com/cran/xLLiM
-[submodule "xQTLbiolinks"]
-	path = xQTLbiolinks
-	url = https://github.com/cran/xQTLbiolinks
 [submodule "xRing"]
 	path = xRing
 	url = https://github.com/cran/xRing
