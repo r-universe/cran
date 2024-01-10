@@ -3077,6 +3077,9 @@
 [submodule "Countr"]
 	path = Countr
 	url = https://github.com/cran/Countr
+[submodule "CountsEPPM"]
+	path = CountsEPPM
+	url = https://github.com/cran/CountsEPPM
 [submodule "CovCombR"]
 	path = CovCombR
 	url = https://github.com/cran/CovCombR
@@ -24953,6 +24956,9 @@
 [submodule "csmaps"]
 	path = csmaps
 	url = https://github.com/cran/csmaps
+[submodule "csmpv"]
+	path = csmpv
+	url = https://github.com/cran/csmpv
 [submodule "csn"]
 	path = csn
 	url = https://github.com/cran/csn
