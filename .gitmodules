@@ -23492,6 +23492,9 @@
 [submodule "cocosoR"]
 	path = cocosoR
 	url = https://github.com/cran/cocosoR
+[submodule "cocotest"]
+	path = cocotest
+	url = https://github.com/cran/cocotest
 [submodule "cocron"]
 	path = cocron
 	url = https://github.com/cran/cocron
@@ -25868,6 +25871,9 @@
 [submodule "deal"]
 	path = deal
 	url = https://github.com/cran/deal
+[submodule "debest"]
+	path = debest
+	url = https://github.com/cran/debest
 [submodule "debkeepr"]
 	path = debkeepr
 	url = https://github.com/cran/debkeepr
