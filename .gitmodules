@@ -1376,6 +1376,9 @@
 [submodule "BayesPPD"]
 	path = BayesPPD
 	url = https://github.com/cran/BayesPPD
+[submodule "BayesPPDSurv"]
+	path = BayesPPDSurv
+	url = https://github.com/cran/BayesPPDSurv
 [submodule "BayesPieceHazSelect"]
 	path = BayesPieceHazSelect
 	url = https://github.com/cran/BayesPieceHazSelect
@@ -5846,6 +5849,9 @@
 [submodule "GIGrvg"]
 	path = GIGrvg
 	url = https://github.com/cran/GIGrvg
+[submodule "GISINTEGRATION"]
+	path = GISINTEGRATION
+	url = https://github.com/cran/GISINTEGRATION
 [submodule "GISSB"]
 	path = GISSB
 	url = https://github.com/cran/GISSB
@@ -6197,9 +6203,6 @@
 [submodule "GeNetIt"]
 	path = GeNetIt
 	url = https://github.com/cran/GeNetIt
-[submodule "GeSciLiVis"]
-	path = GeSciLiVis
-	url = https://github.com/cran/GeSciLiVis
 [submodule "GenAlgo"]
 	path = GenAlgo
 	url = https://github.com/cran/GenAlgo
@@ -30098,6 +30101,9 @@
 [submodule "firebehavioR"]
 	path = firebehavioR
 	url = https://github.com/cran/firebehavioR
+[submodule "first"]
+	path = first
+	url = https://github.com/cran/first
 [submodule "fishMod"]
 	path = fishMod
 	url = https://github.com/cran/fishMod
@@ -34271,6 +34277,9 @@
 [submodule "hetu"]
 	path = hetu
 	url = https://github.com/cran/hetu
+[submodule "heumilkr"]
+	path = heumilkr
+	url = https://github.com/cran/heumilkr
 [submodule "heuristica"]
 	path = heuristica
 	url = https://github.com/cran/heuristica
@@ -52694,6 +52703,9 @@
 [submodule "semicmprskcoxmsm"]
 	path = semicmprskcoxmsm
 	url = https://github.com/cran/semicmprskcoxmsm
+[submodule "semicontMANOVA"]
+	path = semicontMANOVA
+	url = https://github.com/cran/semicontMANOVA
 [submodule "semidist"]
 	path = semidist
 	url = https://github.com/cran/semidist
