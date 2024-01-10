@@ -24305,6 +24305,9 @@
 [submodule "corlink"]
 	path = corlink
 	url = https://github.com/cran/corlink
+[submodule "corncob"]
+	path = corncob
+	url = https://github.com/cran/corncob
 [submodule "cornet"]
 	path = cornet
 	url = https://github.com/cran/cornet
@@ -41177,6 +41180,9 @@
 [submodule "monochromeR"]
 	path = monochromeR
 	url = https://github.com/cran/monochromeR
+[submodule "monographaR"]
+	path = monographaR
+	url = https://github.com/cran/monographaR
 [submodule "monomvn"]
 	path = monomvn
 	url = https://github.com/cran/monomvn
