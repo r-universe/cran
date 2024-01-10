@@ -1979,9 +1979,6 @@
 [submodule "CCWeights"]
 	path = CCWeights
 	url = https://github.com/cran/CCWeights
-[submodule "CDCPLACES"]
-	path = CDCPLACES
-	url = https://github.com/cran/CDCPLACES
 [submodule "CDFt"]
 	path = CDFt
 	url = https://github.com/cran/CDFt
@@ -41243,9 +41240,6 @@
 [submodule "mousetRajectory"]
 	path = mousetRajectory
 	url = https://github.com/cran/mousetRajectory
-[submodule "mousetrap"]
-	path = mousetrap
-	url = https://github.com/cran/mousetrap
 [submodule "movMF"]
 	path = movMF
 	url = https://github.com/cran/movMF
