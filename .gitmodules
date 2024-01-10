@@ -2162,6 +2162,9 @@
 [submodule "CLVTools"]
 	path = CLVTools
 	url = https://github.com/cran/CLVTools
+[submodule "CLimd"]
+	path = CLimd
+	url = https://github.com/cran/CLimd
 [submodule "CMAPSS"]
 	path = CMAPSS
 	url = https://github.com/cran/CMAPSS
@@ -4052,6 +4055,9 @@
 [submodule "DistatisR"]
 	path = DistatisR
 	url = https://github.com/cran/DistatisR
+[submodule "Distributacalcul"]
+	path = Distributacalcul
+	url = https://github.com/cran/Distributacalcul
 [submodule "DistributionOptimization"]
 	path = DistributionOptimization
 	url = https://github.com/cran/DistributionOptimization
@@ -4481,6 +4487,9 @@
 [submodule "EValue"]
 	path = EValue
 	url = https://github.com/cran/EValue
+[submodule "EVchargcost"]
+	path = EVchargcost
+	url = https://github.com/cran/EVchargcost
 [submodule "EWGoF"]
 	path = EWGoF
 	url = https://github.com/cran/EWGoF
@@ -8333,6 +8342,9 @@
 [submodule "LifemapR"]
 	path = LifemapR
 	url = https://github.com/cran/LifemapR
+[submodule "LiftTest"]
+	path = LiftTest
+	url = https://github.com/cran/LiftTest
 [submodule "LightningR"]
 	path = LightningR
 	url = https://github.com/cran/LightningR
@@ -11279,6 +11291,9 @@
 [submodule "PRIMAL"]
 	path = PRIMAL
 	url = https://github.com/cran/PRIMAL
+[submodule "PRIMEplus"]
+	path = PRIMEplus
+	url = https://github.com/cran/PRIMEplus
 [submodule "PRIMME"]
 	path = PRIMME
 	url = https://github.com/cran/PRIMME
@@ -19658,6 +19673,9 @@
 [submodule "atpolR"]
 	path = atpolR
 	url = https://github.com/cran/atpolR
+[submodule "atrrr"]
+	path = atrrr
+	url = https://github.com/cran/atrrr
 [submodule "attachment"]
 	path = attachment
 	url = https://github.com/cran/attachment
@@ -27206,6 +27224,9 @@
 [submodule "drugDemand"]
 	path = drugDemand
 	url = https://github.com/cran/drugDemand
+[submodule "drugdevelopR"]
+	path = drugdevelopR
+	url = https://github.com/cran/drugdevelopR
 [submodule "drugprepr"]
 	path = drugprepr
 	url = https://github.com/cran/drugprepr
@@ -41846,6 +41867,9 @@
 [submodule "music"]
 	path = music
 	url = https://github.com/cran/music
+[submodule "musicNMR"]
+	path = musicNMR
+	url = https://github.com/cran/musicNMR
 [submodule "musica"]
 	path = musica
 	url = https://github.com/cran/musica
@@ -51155,6 +51179,9 @@
 [submodule "rshift"]
 	path = rshift
 	url = https://github.com/cran/rshift
+[submodule "rsi"]
+	path = rsi
+	url = https://github.com/cran/rsi
 [submodule "rsimsum"]
 	path = rsimsum
 	url = https://github.com/cran/rsimsum
