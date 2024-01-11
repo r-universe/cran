@@ -1316,6 +1316,9 @@
 [submodule "BayesESS"]
 	path = BayesESS
 	url = https://github.com/cran/BayesESS
+[submodule "BayesFBHborrow"]
+	path = BayesFBHborrow
+	url = https://github.com/cran/BayesFBHborrow
 [submodule "BayesFM"]
 	path = BayesFM
 	url = https://github.com/cran/BayesFM
