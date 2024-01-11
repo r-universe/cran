@@ -55580,9 +55580,6 @@
 [submodule "statConfR"]
 	path = statConfR
 	url = https://github.com/cran/statConfR
-[submodule "statGraph"]
-	path = statGraph
-	url = https://github.com/cran/statGraph
 [submodule "statVisual"]
 	path = statVisual
 	url = https://github.com/cran/statVisual
