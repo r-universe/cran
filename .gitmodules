@@ -611,6 +611,9 @@
 [submodule "ApacheLogProcessor"]
 	path = ApacheLogProcessor
 	url = https://github.com/cran/ApacheLogProcessor
+[submodule "Apoderoides"]
+	path = Apoderoides
+	url = https://github.com/cran/Apoderoides
 [submodule "Apollonius"]
 	path = Apollonius
 	url = https://github.com/cran/Apollonius
@@ -5888,6 +5891,9 @@
 [submodule "GLMMadaptive"]
 	path = GLMMadaptive
 	url = https://github.com/cran/GLMMadaptive
+[submodule "GLMMcosinor"]
+	path = GLMMcosinor
+	url = https://github.com/cran/GLMMcosinor
 [submodule "GLMMselect"]
 	path = GLMMselect
 	url = https://github.com/cran/GLMMselect
@@ -9068,6 +9074,9 @@
 [submodule "MPCI"]
 	path = MPCI
 	url = https://github.com/cran/MPCI
+[submodule "MPCR"]
+	path = MPCR
+	url = https://github.com/cran/MPCR
 [submodule "MPDiR"]
 	path = MPDiR
 	url = https://github.com/cran/MPDiR
@@ -19286,6 +19295,9 @@
 [submodule "arc"]
 	path = arc
 	url = https://github.com/cran/arc
+[submodule "arcgisutils"]
+	path = arcgisutils
+	url = https://github.com/cran/arcgisutils
 [submodule "archdata"]
 	path = archdata
 	url = https://github.com/cran/archdata
@@ -21692,6 +21704,9 @@
 [submodule "bsamGP"]
 	path = bsamGP
 	url = https://github.com/cran/bsamGP
+[submodule "bscui"]
+	path = bscui
+	url = https://github.com/cran/bscui
 [submodule "bsearchtools"]
 	path = bsearchtools
 	url = https://github.com/cran/bsearchtools
@@ -23603,6 +23618,9 @@
 [submodule "cohorttools"]
 	path = cohorttools
 	url = https://github.com/cran/cohorttools
+[submodule "coil"]
+	path = coil
+	url = https://github.com/cran/coil
 [submodule "coin"]
 	path = coin
 	url = https://github.com/cran/coin
