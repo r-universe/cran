@@ -9818,9 +9818,6 @@
 [submodule "MortalityGaps"]
 	path = MortalityGaps
 	url = https://github.com/cran/MortalityGaps
-[submodule "MortalityLaws"]
-	path = MortalityLaws
-	url = https://github.com/cran/MortalityLaws
 [submodule "MortalityTables"]
 	path = MortalityTables
 	url = https://github.com/cran/MortalityTables
@@ -26033,6 +26030,9 @@
 [submodule "dematel"]
 	path = dematel
 	url = https://github.com/cran/dematel
+[submodule "demic"]
+	path = demic
+	url = https://github.com/cran/demic
 [submodule "deming"]
 	path = deming
 	url = https://github.com/cran/deming
@@ -26786,6 +26786,9 @@
 [submodule "disttools"]
 	path = disttools
 	url = https://github.com/cran/disttools
+[submodule "dittoViz"]
+	path = dittoViz
+	url = https://github.com/cran/dittoViz
 [submodule "dittodb"]
 	path = dittodb
 	url = https://github.com/cran/dittodb
@@ -27563,6 +27566,9 @@
 [submodule "eHOF"]
 	path = eHOF
 	url = https://github.com/cran/eHOF
+[submodule "eLNNpairedCov"]
+	path = eLNNpairedCov
+	url = https://github.com/cran/eLNNpairedCov
 [submodule "eList"]
 	path = eList
 	url = https://github.com/cran/eList
@@ -28724,6 +28730,9 @@
 [submodule "esmprep"]
 	path = esmprep
 	url = https://github.com/cran/esmprep
+[submodule "esmtools"]
+	path = esmtools
+	url = https://github.com/cran/esmtools
 [submodule "espadon"]
 	path = espadon
 	url = https://github.com/cran/espadon
@@ -30701,6 +30710,9 @@
 [submodule "fqadata"]
 	path = fqadata
 	url = https://github.com/cran/fqadata
+[submodule "fqar"]
+	path = fqar
+	url = https://github.com/cran/fqar
 [submodule "fr"]
 	path = fr
 	url = https://github.com/cran/fr
@@ -43598,9 +43610,6 @@
 [submodule "olctools"]
 	path = olctools
 	url = https://github.com/cran/olctools
-[submodule "oldbailey"]
-	path = oldbailey
-	url = https://github.com/cran/oldbailey
 [submodule "ollg"]
 	path = ollg
 	url = https://github.com/cran/ollg
@@ -51041,6 +51050,9 @@
 [submodule "rqdatatable"]
 	path = rqdatatable
 	url = https://github.com/cran/rqdatatable
+[submodule "rqlm"]
+	path = rqlm
+	url = https://github.com/cran/rqlm
 [submodule "rquery"]
 	path = rquery
 	url = https://github.com/cran/rquery
@@ -57044,6 +57056,9 @@
 [submodule "templr"]
 	path = templr
 	url = https://github.com/cran/templr
+[submodule "tempted"]
+	path = tempted
+	url = https://github.com/cran/tempted
 [submodule "tenispolaR"]
 	path = tenispolaR
 	url = https://github.com/cran/tenispolaR
@@ -57470,6 +57485,9 @@
 [submodule "tidyLPA"]
 	path = tidyLPA
 	url = https://github.com/cran/tidyLPA
+[submodule "tidyMC"]
+	path = tidyMC
+	url = https://github.com/cran/tidyMC
 [submodule "tidyREDCap"]
 	path = tidyREDCap
 	url = https://github.com/cran/tidyREDCap
@@ -57599,6 +57617,9 @@
 [submodule "tidypaleo"]
 	path = tidypaleo
 	url = https://github.com/cran/tidypaleo
+[submodule "tidyplate"]
+	path = tidyplate
+	url = https://github.com/cran/tidyplate
 [submodule "tidyplus"]
 	path = tidyplus
 	url = https://github.com/cran/tidyplus
