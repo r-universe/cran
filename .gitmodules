@@ -1130,6 +1130,9 @@
 [submodule "BRL"]
 	path = BRL
 	url = https://github.com/cran/BRL
+[submodule "BRVM"]
+	path = BRVM
+	url = https://github.com/cran/BRVM
 [submodule "BRugs"]
 	path = BRugs
 	url = https://github.com/cran/BRugs
@@ -1979,6 +1982,9 @@
 [submodule "CCWeights"]
 	path = CCWeights
 	url = https://github.com/cran/CCWeights
+[submodule "CDCPLACES"]
+	path = CDCPLACES
+	url = https://github.com/cran/CDCPLACES
 [submodule "CDFt"]
 	path = CDFt
 	url = https://github.com/cran/CDFt
@@ -6203,6 +6209,9 @@
 [submodule "GeNetIt"]
 	path = GeNetIt
 	url = https://github.com/cran/GeNetIt
+[submodule "GeSciLiVis"]
+	path = GeSciLiVis
+	url = https://github.com/cran/GeSciLiVis
 [submodule "GenAlgo"]
 	path = GenAlgo
 	url = https://github.com/cran/GenAlgo
@@ -17249,6 +17258,9 @@
 [submodule "TripleR"]
 	path = TripleR
 	url = https://github.com/cran/TripleR
+[submodule "TropFishR"]
+	path = TropFishR
+	url = https://github.com/cran/TropFishR
 [submodule "TroublemakeR"]
 	path = TroublemakeR
 	url = https://github.com/cran/TroublemakeR
@@ -42011,6 +42023,9 @@
 [submodule "mvnpermute"]
 	path = mvnpermute
 	url = https://github.com/cran/mvnpermute
+[submodule "mvord"]
+	path = mvord
+	url = https://github.com/cran/mvord
 [submodule "mvoutlier"]
 	path = mvoutlier
 	url = https://github.com/cran/mvoutlier
@@ -43850,6 +43865,9 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
+[submodule "opensensmapr"]
+	path = opensensmapr
+	url = https://github.com/cran/opensensmapr
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
@@ -60710,6 +60728,9 @@
 [submodule "xLLiM"]
 	path = xLLiM
 	url = https://github.com/cran/xLLiM
+[submodule "xQTLbiolinks"]
+	path = xQTLbiolinks
+	url = https://github.com/cran/xQTLbiolinks
 [submodule "xRing"]
 	path = xRing
 	url = https://github.com/cran/xRing
