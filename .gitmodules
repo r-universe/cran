@@ -12815,6 +12815,9 @@
 [submodule "RISmed"]
 	path = RISmed
 	url = https://github.com/cran/RISmed
+[submodule "RITCH"]
+	path = RITCH
+	url = https://github.com/cran/RITCH
 [submodule "RIbench"]
 	path = RIbench
 	url = https://github.com/cran/RIbench
