@@ -3491,9 +3491,6 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
-[submodule "DLSSM"]
-	path = DLSSM
-	url = https://github.com/cran/DLSSM
 [submodule "DMCfun"]
 	path = DMCfun
 	url = https://github.com/cran/DMCfun
@@ -8855,9 +8852,6 @@
 [submodule "MIIPW"]
 	path = MIIPW
 	url = https://github.com/cran/MIIPW
-[submodule "MIIVefa"]
-	path = MIIVefa
-	url = https://github.com/cran/MIIVefa
 [submodule "MIIVsem"]
 	path = MIIVsem
 	url = https://github.com/cran/MIIVsem
@@ -17042,9 +17036,6 @@
 [submodule "ThermIndex"]
 	path = ThermIndex
 	url = https://github.com/cran/ThermIndex
-[submodule "ThermalSampleR"]
-	path = ThermalSampleR
-	url = https://github.com/cran/ThermalSampleR
 [submodule "Thermimage"]
 	path = Thermimage
 	url = https://github.com/cran/Thermimage
@@ -24179,9 +24170,6 @@
 [submodule "convdistr"]
 	path = convdistr
 	url = https://github.com/cran/convdistr
-[submodule "convergEU"]
-	path = convergEU
-	url = https://github.com/cran/convergEU
 [submodule "convertbonds"]
 	path = convertbonds
 	url = https://github.com/cran/convertbonds
@@ -28979,9 +28967,6 @@
 [submodule "exCon"]
 	path = exCon
 	url = https://github.com/cran/exCon
-[submodule "exDE"]
-	path = exDE
-	url = https://github.com/cran/exDE
 [submodule "exact.n"]
 	path = exact.n
 	url = https://github.com/cran/exact.n
@@ -36380,9 +36365,6 @@
 [submodule "jackstrap"]
 	path = jackstrap
 	url = https://github.com/cran/jackstrap
-[submodule "jackstraw"]
-	path = jackstraw
-	url = https://github.com/cran/jackstraw
 [submodule "jacobi"]
 	path = jacobi
 	url = https://github.com/cran/jacobi
@@ -37070,9 +37052,6 @@
 [submodule "koRpus.lang.en"]
 	path = koRpus.lang.en
 	url = https://github.com/cran/koRpus.lang.en
-[submodule "kofdata"]
-	path = kofdata
-	url = https://github.com/cran/kofdata
 [submodule "kofnGA"]
 	path = kofnGA
 	url = https://github.com/cran/kofnGA
@@ -40277,9 +40256,6 @@
 [submodule "mildsvm"]
 	path = mildsvm
 	url = https://github.com/cran/mildsvm
-[submodule "milorGWAS"]
-	path = milorGWAS
-	url = https://github.com/cran/milorGWAS
 [submodule "milr"]
 	path = milr
 	url = https://github.com/cran/milr
@@ -43385,9 +43361,6 @@
 [submodule "nzpullover"]
 	path = nzpullover
 	url = https://github.com/cran/nzpullover
-[submodule "o2geosocial"]
-	path = o2geosocial
-	url = https://github.com/cran/o2geosocial
 [submodule "o2plsda"]
 	path = o2plsda
 	url = https://github.com/cran/o2plsda
@@ -44591,9 +44564,6 @@
 [submodule "pangaear"]
 	path = pangaear
 	url = https://github.com/cran/pangaear
-[submodule "panstarrs"]
-	path = panstarrs
-	url = https://github.com/cran/panstarrs
 [submodule "papaja"]
 	path = papaja
 	url = https://github.com/cran/papaja
@@ -51617,9 +51587,6 @@
 [submodule "rwisp"]
 	path = rwisp
 	url = https://github.com/cran/rwisp
-[submodule "rworkflows"]
-	path = rworkflows
-	url = https://github.com/cran/rworkflows
 [submodule "rworldmap"]
 	path = rworldmap
 	url = https://github.com/cran/rworldmap
@@ -57221,9 +57188,6 @@
 [submodule "text.alignment"]
 	path = text.alignment
 	url = https://github.com/cran/text.alignment
-[submodule "text2map"]
-	path = text2map
-	url = https://github.com/cran/text2map
 [submodule "text2sdg"]
 	path = text2sdg
 	url = https://github.com/cran/text2sdg
@@ -57728,9 +57692,6 @@
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/cran/tidyverse
-[submodule "tidyvpc"]
-	path = tidyvpc
-	url = https://github.com/cran/tidyvpc
 [submodule "tidywikidatar"]
 	path = tidywikidatar
 	url = https://github.com/cran/tidywikidatar
@@ -58397,9 +58358,6 @@
 [submodule "treenomial"]
 	path = treenomial
 	url = https://github.com/cran/treenomial
-[submodule "treeshap"]
-	path = treeshap
-	url = https://github.com/cran/treeshap
 [submodule "treesliceR"]
 	path = treesliceR
 	url = https://github.com/cran/treesliceR
