@@ -1421,9 +1421,6 @@
 [submodule "BayesSenMC"]
 	path = BayesSenMC
 	url = https://github.com/cran/BayesSenMC
-[submodule "BayesSpec"]
-	path = BayesSpec
-	url = https://github.com/cran/BayesSpec
 [submodule "BayesSurvival"]
 	path = BayesSurvival
 	url = https://github.com/cran/BayesSurvival
@@ -3506,9 +3503,6 @@
 [submodule "DMQ"]
 	path = DMQ
 	url = https://github.com/cran/DMQ
-[submodule "DMRMark"]
-	path = DMRMark
-	url = https://github.com/cran/DMRMark
 [submodule "DMRnet"]
 	path = DMRnet
 	url = https://github.com/cran/DMRnet
@@ -10574,9 +10568,6 @@
 [submodule "OOBCurve"]
 	path = OOBCurve
 	url = https://github.com/cran/OOBCurve
-[submodule "OOI"]
-	path = OOI
-	url = https://github.com/cran/OOI
 [submodule "OOR"]
 	path = OOR
 	url = https://github.com/cran/OOR
@@ -11009,9 +11000,6 @@
 [submodule "PCRA"]
 	path = PCRA
 	url = https://github.com/cran/PCRA
-[submodule "PCRedux"]
-	path = PCRedux
-	url = https://github.com/cran/PCRedux
 [submodule "PCS"]
 	path = PCS
 	url = https://github.com/cran/PCS
@@ -13184,15 +13172,6 @@
 [submodule "ROpenWeatherMap"]
 	path = ROpenWeatherMap
 	url = https://github.com/cran/ROpenWeatherMap
-[submodule "ROptEst"]
-	path = ROptEst
-	url = https://github.com/cran/ROptEst
-[submodule "ROptEstOld"]
-	path = ROptEstOld
-	url = https://github.com/cran/ROptEstOld
-[submodule "ROptRegTS"]
-	path = ROptRegTS
-	url = https://github.com/cran/ROptRegTS
 [submodule "ROptSpace"]
 	path = ROptSpace
 	url = https://github.com/cran/ROptSpace
@@ -14411,9 +14390,6 @@
 [submodule "RobAStRDA"]
 	path = RobAStRDA
 	url = https://github.com/cran/RobAStRDA
-[submodule "RobExtremes"]
-	path = RobExtremes
-	url = https://github.com/cran/RobExtremes
 [submodule "RobGARCHBoot"]
 	path = RobGARCHBoot
 	url = https://github.com/cran/RobGARCHBoot
@@ -14432,9 +14408,6 @@
 [submodule "RobPer"]
 	path = RobPer
 	url = https://github.com/cran/RobPer
-[submodule "RobRex"]
-	path = RobRex
-	url = https://github.com/cran/RobRex
 [submodule "RobStatTM"]
 	path = RobStatTM
 	url = https://github.com/cran/RobStatTM
@@ -17564,9 +17537,6 @@
 [submodule "VSURF"]
 	path = VSURF
 	url = https://github.com/cran/VSURF
-[submodule "VSdecomp"]
-	path = VSdecomp
-	url = https://github.com/cran/VSdecomp
 [submodule "VTShiny"]
 	path = VTShiny
 	url = https://github.com/cran/VTShiny
@@ -20114,9 +20084,6 @@
 [submodule "basicMCMCplots"]
 	path = basicMCMCplots
 	url = https://github.com/cran/basicMCMCplots
-[submodule "basicspace"]
-	path = basicspace
-	url = https://github.com/cran/basicspace
 [submodule "basictabler"]
 	path = basictabler
 	url = https://github.com/cran/basictabler
@@ -20399,9 +20366,6 @@
 [submodule "bcmixed"]
 	path = bcmixed
 	url = https://github.com/cran/bcmixed
-[submodule "bcp"]
-	path = bcp
-	url = https://github.com/cran/bcp
 [submodule "bcpa"]
 	path = bcpa
 	url = https://github.com/cran/bcpa
@@ -26750,30 +26714,12 @@
 [submodule "distr"]
 	path = distr
 	url = https://github.com/cran/distr
-[submodule "distrDoc"]
-	path = distrDoc
-	url = https://github.com/cran/distrDoc
-[submodule "distrEllipse"]
-	path = distrEllipse
-	url = https://github.com/cran/distrEllipse
 [submodule "distrEx"]
 	path = distrEx
 	url = https://github.com/cran/distrEx
 [submodule "distrMod"]
 	path = distrMod
 	url = https://github.com/cran/distrMod
-[submodule "distrRmetrics"]
-	path = distrRmetrics
-	url = https://github.com/cran/distrRmetrics
-[submodule "distrSim"]
-	path = distrSim
-	url = https://github.com/cran/distrSim
-[submodule "distrTEst"]
-	path = distrTEst
-	url = https://github.com/cran/distrTEst
-[submodule "distrTeach"]
-	path = distrTeach
-	url = https://github.com/cran/distrTeach
 [submodule "distreg.vis"]
 	path = distreg.vis
 	url = https://github.com/cran/distreg.vis
@@ -28235,9 +28181,6 @@
 [submodule "emBayes"]
 	path = emBayes
 	url = https://github.com/cran/emBayes
-[submodule "emIRT"]
-	path = emIRT
-	url = https://github.com/cran/emIRT
 [submodule "emailjsr"]
 	path = emailjsr
 	url = https://github.com/cran/emailjsr
@@ -43976,9 +43919,6 @@
 [submodule "optimx"]
 	path = optimx
 	url = https://github.com/cran/optimx
-[submodule "optinterv"]
-	path = optinterv
-	url = https://github.com/cran/optinterv
 [submodule "optional"]
 	path = optional
 	url = https://github.com/cran/optional
@@ -45515,9 +45455,6 @@
 [submodule "phenomap"]
 	path = phenomap
 	url = https://github.com/cran/phenomap
-[submodule "phenopix"]
-	path = phenopix
-	url = https://github.com/cran/phenopix
 [submodule "phers"]
 	path = phers
 	url = https://github.com/cran/phers
@@ -50144,9 +50081,6 @@
 [submodule "ri2"]
 	path = ri2
 	url = https://github.com/cran/ri2
-[submodule "riAFTBART"]
-	path = riAFTBART
-	url = https://github.com/cran/riAFTBART
 [submodule "rib"]
 	path = rib
 	url = https://github.com/cran/rib
