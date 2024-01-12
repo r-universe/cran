@@ -25919,6 +25919,9 @@
 [submodule "deal"]
 	path = deal
 	url = https://github.com/cran/deal
+[submodule "debar"]
+	path = debar
+	url = https://github.com/cran/debar
 [submodule "debest"]
 	path = debest
 	url = https://github.com/cran/debest
