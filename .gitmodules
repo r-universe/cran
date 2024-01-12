@@ -6191,6 +6191,9 @@
 [submodule "GWsignif"]
 	path = GWsignif
 	url = https://github.com/cran/GWsignif
+[submodule "GaMaBioMD"]
+	path = GaMaBioMD
+	url = https://github.com/cran/GaMaBioMD
 [submodule "GaSP"]
 	path = GaSP
 	url = https://github.com/cran/GaSP
@@ -9548,6 +9551,9 @@
 [submodule "MetaLonDA"]
 	path = MetaLonDA
 	url = https://github.com/cran/MetaLonDA
+[submodule "MetaNet"]
+	path = MetaNet
+	url = https://github.com/cran/MetaNet
 [submodule "MetaSKAT"]
 	path = MetaSKAT
 	url = https://github.com/cran/MetaSKAT
@@ -17498,6 +17504,9 @@
 [submodule "VBLPCM"]
 	path = VBLPCM
 	url = https://github.com/cran/VBLPCM
+[submodule "VBTree"]
+	path = VBTree
+	url = https://github.com/cran/VBTree
 [submodule "VBV"]
 	path = VBV
 	url = https://github.com/cran/VBV
@@ -56684,6 +56693,9 @@
 [submodule "symphony"]
 	path = symphony
 	url = https://github.com/cran/symphony
+[submodule "symptomcheckR"]
+	path = symptomcheckR
+	url = https://github.com/cran/symptomcheckR
 [submodule "syn"]
 	path = syn
 	url = https://github.com/cran/syn
@@ -60347,6 +60359,9 @@
 [submodule "weights"]
 	path = weights
 	url = https://github.com/cran/weights
+[submodule "weird"]
+	path = weird
+	url = https://github.com/cran/weird
 [submodule "weirs"]
 	path = weirs
 	url = https://github.com/cran/weirs
