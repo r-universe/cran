@@ -4796,6 +4796,9 @@
 [submodule "EventDetectR"]
 	path = EventDetectR
 	url = https://github.com/cran/EventDetectR
+[submodule "EventPredInCure"]
+	path = EventPredInCure
+	url = https://github.com/cran/EventPredInCure
 [submodule "EventStudy"]
 	path = EventStudy
 	url = https://github.com/cran/EventStudy
@@ -14186,6 +14189,9 @@
 [submodule "RepoGenerator"]
 	path = RepoGenerator
 	url = https://github.com/cran/RepoGenerator
+[submodule "ReporterScore"]
+	path = ReporterScore
+	url = https://github.com/cran/ReporterScore
 [submodule "Require"]
 	path = Require
 	url = https://github.com/cran/Require
@@ -50132,6 +50138,9 @@
 [submodule "rglwidget"]
 	path = rglwidget
 	url = https://github.com/cran/rglwidget
+[submodule "rgm"]
+	path = rgm
+	url = https://github.com/cran/rgm
 [submodule "rgnoisefilt"]
 	path = rgnoisefilt
 	url = https://github.com/cran/rgnoisefilt
@@ -55070,6 +55079,9 @@
 [submodule "sped"]
 	path = sped
 	url = https://github.com/cran/sped
+[submodule "spedecon"]
+	path = spedecon
+	url = https://github.com/cran/spedecon
 [submodule "speech"]
 	path = speech
 	url = https://github.com/cran/speech
@@ -58625,6 +58637,9 @@
 [submodule "tsDyn"]
 	path = tsDyn
 	url = https://github.com/cran/tsDyn
+[submodule "tsLSTMx"]
+	path = tsLSTMx
+	url = https://github.com/cran/tsLSTMx
 [submodule "tsModel"]
 	path = tsModel
 	url = https://github.com/cran/tsModel
