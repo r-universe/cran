@@ -51242,9 +51242,6 @@
 [submodule "rsnell"]
 	path = rsnell
 	url = https://github.com/cran/rsnell
-[submodule "rsofun"]
-	path = rsofun
-	url = https://github.com/cran/rsofun
 [submodule "rsoi"]
 	path = rsoi
 	url = https://github.com/cran/rsoi
