@@ -266,9 +266,6 @@
 [submodule "APIS"]
 	path = APIS
 	url = https://github.com/cran/APIS
-[submodule "APML0"]
-	path = APML0
-	url = https://github.com/cran/APML0
 [submodule "APPEstimation"]
 	path = APPEstimation
 	url = https://github.com/cran/APPEstimation
@@ -2888,9 +2885,6 @@
 [submodule "CompR"]
 	path = CompR
 	url = https://github.com/cran/CompR
-[submodule "Compack"]
-	path = Compack
-	url = https://github.com/cran/Compack
 [submodule "CompareCausalNetworks"]
 	path = CompareCausalNetworks
 	url = https://github.com/cran/CompareCausalNetworks
@@ -4241,9 +4235,6 @@
 [submodule "ECTTDNN"]
 	path = ECTTDNN
 	url = https://github.com/cran/ECTTDNN
-[submodule "ECctmc"]
-	path = ECctmc
-	url = https://github.com/cran/ECctmc
 [submodule "ECharts2Shiny"]
 	path = ECharts2Shiny
 	url = https://github.com/cran/ECharts2Shiny
@@ -4865,9 +4856,6 @@
 [submodule "ExhaustiveSearch"]
 	path = ExhaustiveSearch
 	url = https://github.com/cran/ExhaustiveSearch
-[submodule "ExomeDepth"]
-	path = ExomeDepth
-	url = https://github.com/cran/ExomeDepth
 [submodule "ExpAnalysis3d"]
 	path = ExpAnalysis3d
 	url = https://github.com/cran/ExpAnalysis3d
@@ -10505,9 +10493,6 @@
 [submodule "Nozzle.R1"]
 	path = Nozzle.R1
 	url = https://github.com/cran/Nozzle.R1
-[submodule "Numero"]
-	path = Numero
-	url = https://github.com/cran/Numero
 [submodule "NutrienTrackeR"]
 	path = NutrienTrackeR
 	url = https://github.com/cran/NutrienTrackeR
@@ -11897,9 +11882,6 @@
 [submodule "PopGenReport"]
 	path = PopGenReport
 	url = https://github.com/cran/PopGenReport
-[submodule "PopVar"]
-	path = PopVar
-	url = https://github.com/cran/PopVar
 [submodule "PopulationGrowthR"]
 	path = PopulationGrowthR
 	url = https://github.com/cran/PopulationGrowthR
@@ -12563,9 +12545,6 @@
 [submodule "RCircos"]
 	path = RCircos
 	url = https://github.com/cran/RCircos
-[submodule "RClickhouse"]
-	path = RClickhouse
-	url = https://github.com/cran/RClickhouse
 [submodule "RClimacell"]
 	path = RClimacell
 	url = https://github.com/cran/RClimacell
@@ -14537,9 +14516,6 @@
 [submodule "RpeakChrom"]
 	path = RpeakChrom
 	url = https://github.com/cran/RpeakChrom
-[submodule "Rphylopars"]
-	path = Rphylopars
-	url = https://github.com/cran/Rphylopars
 [submodule "Rpoet"]
 	path = Rpoet
 	url = https://github.com/cran/Rpoet
@@ -14990,9 +14966,6 @@
 [submodule "SFS"]
 	path = SFS
 	url = https://github.com/cran/SFS
-[submodule "SFSI"]
-	path = SFSI
-	url = https://github.com/cran/SFSI
 [submodule "SFtools"]
 	path = SFtools
 	url = https://github.com/cran/SFtools
@@ -16067,9 +16040,6 @@
 [submodule "SparseDC"]
 	path = SparseDC
 	url = https://github.com/cran/SparseDC
-[submodule "SparseFactorAnalysis"]
-	path = SparseFactorAnalysis
-	url = https://github.com/cran/SparseFactorAnalysis
 [submodule "SparseFunClust"]
 	path = SparseFunClust
 	url = https://github.com/cran/SparseFunClust
@@ -16508,9 +16478,6 @@
 [submodule "SvyNom"]
 	path = SvyNom
 	url = https://github.com/cran/SvyNom
-[submodule "SwarmSVM"]
-	path = SwarmSVM
-	url = https://github.com/cran/SwarmSVM
 [submodule "SweepDiscovery"]
 	path = SweepDiscovery
 	url = https://github.com/cran/SweepDiscovery
@@ -16637,9 +16604,6 @@
 [submodule "TDbook"]
 	path = TDbook
 	url = https://github.com/cran/TDbook
-[submodule "TDboost"]
-	path = TDboost
-	url = https://github.com/cran/TDboost
 [submodule "TE"]
 	path = TE
 	url = https://github.com/cran/TE
@@ -16952,9 +16916,6 @@
 [submodule "Tariff"]
 	path = Tariff
 	url = https://github.com/cran/Tariff
-[submodule "TauStar"]
-	path = TauStar
-	url = https://github.com/cran/TauStar
 [submodule "TaxaNorm"]
 	path = TaxaNorm
 	url = https://github.com/cran/TaxaNorm
@@ -24251,9 +24212,6 @@
 [submodule "cookies"]
 	path = cookies
 	url = https://github.com/cran/cookies
-[submodule "cooltools"]
-	path = cooltools
-	url = https://github.com/cran/cooltools
 [submodule "coop"]
 	path = coop
 	url = https://github.com/cran/coop
@@ -25109,9 +25067,6 @@
 [submodule "ctl"]
 	path = ctl
 	url = https://github.com/cran/ctl
-[submodule "ctmcd"]
-	path = ctmcd
-	url = https://github.com/cran/ctmcd
 [submodule "ctmcmove"]
 	path = ctmcmove
 	url = https://github.com/cran/ctmcmove
@@ -28595,9 +28550,6 @@
 [submodule "epitweetr"]
 	path = epitweetr
 	url = https://github.com/cran/epitweetr
-[submodule "epiworldR"]
-	path = epiworldR
-	url = https://github.com/cran/epiworldR
 [submodule "eplusr"]
 	path = eplusr
 	url = https://github.com/cran/eplusr
@@ -29510,9 +29462,6 @@
 [submodule "familiar"]
 	path = familiar
 	url = https://github.com/cran/familiar
-[submodule "fanc"]
-	path = fanc
-	url = https://github.com/cran/fanc
 [submodule "fancycut"]
 	path = fancycut
 	url = https://github.com/cran/fancycut
@@ -31160,9 +31109,6 @@
 [submodule "future.tests"]
 	path = future.tests
 	url = https://github.com/cran/future.tests
-[submodule "futureheatwaves"]
-	path = futureheatwaves
-	url = https://github.com/cran/futureheatwaves
 [submodule "fuzzr"]
 	path = fuzzr
 	url = https://github.com/cran/fuzzr
@@ -34301,9 +34247,6 @@
 [submodule "hereR"]
 	path = hereR
 	url = https://github.com/cran/hereR
-[submodule "hergm"]
-	path = hergm
-	url = https://github.com/cran/hergm
 [submodule "heritability"]
 	path = heritability
 	url = https://github.com/cran/heritability
@@ -35150,9 +35093,6 @@
 [submodule "ibd"]
 	path = ibd
 	url = https://github.com/cran/ibd
-[submodule "ibdreg"]
-	path = ibdreg
-	url = https://github.com/cran/ibdreg
 [submodule "ibdsim2"]
 	path = ibdsim2
 	url = https://github.com/cran/ibdsim2
@@ -40409,9 +40349,6 @@
 [submodule "minimaxApprox"]
 	path = minimaxApprox
 	url = https://github.com/cran/minimaxApprox
-[submodule "minimaxdesign"]
-	path = minimaxdesign
-	url = https://github.com/cran/minimaxdesign
 [submodule "minioclient"]
 	path = minioclient
 	url = https://github.com/cran/minioclient
@@ -40613,9 +40550,6 @@
 [submodule "mixedCCA"]
 	path = mixedCCA
 	url = https://github.com/cran/mixedCCA
-[submodule "mixedClust"]
-	path = mixedClust
-	url = https://github.com/cran/mixedClust
 [submodule "mixedLSR"]
 	path = mixedLSR
 	url = https://github.com/cran/mixedLSR
@@ -41564,9 +41498,6 @@
 [submodule "msentropy"]
 	path = msentropy
 	url = https://github.com/cran/msentropy
-[submodule "msgl"]
-	path = msgl
-	url = https://github.com/cran/msgl
 [submodule "msgpackR"]
 	path = msgpackR
 	url = https://github.com/cran/msgpackR
@@ -41609,9 +41540,6 @@
 [submodule "msos"]
 	path = msos
 	url = https://github.com/cran/msos
-[submodule "mssm"]
-	path = mssm
-	url = https://github.com/cran/mssm
 [submodule "mstDIF"]
 	path = mstDIF
 	url = https://github.com/cran/mstDIF
@@ -44135,9 +44063,6 @@
 [submodule "ordinal"]
 	path = ordinal
 	url = https://github.com/cran/ordinal
-[submodule "ordinalClust"]
-	path = ordinalClust
-	url = https://github.com/cran/ordinalClust
 [submodule "ordinalCont"]
 	path = ordinalCont
 	url = https://github.com/cran/ordinalCont
@@ -48287,9 +48212,6 @@
 [submodule "rCNV"]
 	path = rCNV
 	url = https://github.com/cran/rCNV
-[submodule "rCRM"]
-	path = rCRM
-	url = https://github.com/cran/rCRM
 [submodule "rChoiceDialogs"]
 	path = rChoiceDialogs
 	url = https://github.com/cran/rChoiceDialogs
@@ -48314,9 +48236,6 @@
 [submodule "rEMM"]
 	path = rEMM
 	url = https://github.com/cran/rEMM
-[submodule "rENA"]
-	path = rENA
-	url = https://github.com/cran/rENA
 [submodule "rFSA"]
 	path = rFSA
 	url = https://github.com/cran/rFSA
@@ -48908,9 +48827,6 @@
 [submodule "rbacon"]
 	path = rbacon
 	url = https://github.com/cran/rbacon
-[submodule "rbart"]
-	path = rbart
-	url = https://github.com/cran/rbart
 [submodule "rbcb"]
 	path = rbcb
 	url = https://github.com/cran/rbcb
@@ -52121,9 +52037,6 @@
 [submodule "sbgcop"]
 	path = sbgcop
 	url = https://github.com/cran/sbgcop
-[submodule "sbioPN"]
-	path = sbioPN
-	url = https://github.com/cran/sbioPN
 [submodule "sbl"]
 	path = sbl
 	url = https://github.com/cran/sbl
@@ -53075,9 +52988,6 @@
 [submodule "sgeostat"]
 	path = sgeostat
 	url = https://github.com/cran/sgeostat
-[submodule "sglOptim"]
-	path = sglOptim
-	url = https://github.com/cran/sglOptim
 [submodule "sglasso"]
 	path = sglasso
 	url = https://github.com/cran/sglasso
@@ -54299,9 +54209,6 @@
 [submodule "smof"]
 	path = smof
 	url = https://github.com/cran/smof
-[submodule "smog"]
-	path = smog
-	url = https://github.com/cran/smog
 [submodule "smoke"]
 	path = smoke
 	url = https://github.com/cran/smoke
@@ -58328,9 +58235,6 @@
 [submodule "traj"]
 	path = traj
 	url = https://github.com/cran/traj
-[submodule "trajeR"]
-	path = trajeR
-	url = https://github.com/cran/trajeR
 [submodule "trajectories"]
 	path = trajectories
 	url = https://github.com/cran/trajectories
