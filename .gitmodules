@@ -6053,6 +6053,9 @@
 [submodule "GRCdata"]
 	path = GRCdata
 	url = https://github.com/cran/GRCdata
+[submodule "GRCdesigns"]
+	path = GRCdesigns
+	url = https://github.com/cran/GRCdesigns
 [submodule "GREENeR"]
 	path = GREENeR
 	url = https://github.com/cran/GREENeR
@@ -20510,9 +20513,6 @@
 [submodule "beakr"]
 	path = beakr
 	url = https://github.com/cran/beakr
-[submodule "beam"]
-	path = beam
-	url = https://github.com/cran/beam
 [submodule "beanplot"]
 	path = beanplot
 	url = https://github.com/cran/beanplot
@@ -39278,6 +39278,9 @@
 [submodule "matpow"]
 	path = matpow
 	url = https://github.com/cran/matpow
+[submodule "matrans"]
+	path = matrans
+	url = https://github.com/cran/matrans
 [submodule "matric"]
 	path = matric
 	url = https://github.com/cran/matric
@@ -58484,6 +58487,9 @@
 [submodule "treestartr"]
 	path = treestartr
 	url = https://github.com/cran/treestartr
+[submodule "treestats"]
+	path = treestats
+	url = https://github.com/cran/treestats
 [submodule "treestructure"]
 	path = treestructure
 	url = https://github.com/cran/treestructure
