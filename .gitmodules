@@ -4424,9 +4424,6 @@
 [submodule "ENMeval"]
 	path = ENMeval
 	url = https://github.com/cran/ENMeval
-[submodule "EPGMr"]
-	path = EPGMr
-	url = https://github.com/cran/EPGMr
 [submodule "EPLSIM"]
 	path = EPLSIM
 	url = https://github.com/cran/EPLSIM
@@ -5408,9 +5405,6 @@
 [submodule "FlexDir"]
 	path = FlexDir
 	url = https://github.com/cran/FlexDir
-[submodule "FlexDotPlot"]
-	path = FlexDotPlot
-	url = https://github.com/cran/FlexDotPlot
 [submodule "FlexGAM"]
 	path = FlexGAM
 	url = https://github.com/cran/FlexGAM
@@ -9362,9 +9356,6 @@
 [submodule "MapGAM"]
 	path = MapGAM
 	url = https://github.com/cran/MapGAM
-[submodule "MapeBay"]
-	path = MapeBay
-	url = https://github.com/cran/MapeBay
 [submodule "Mapinguari"]
 	path = Mapinguari
 	url = https://github.com/cran/Mapinguari
@@ -21629,9 +21620,6 @@
 [submodule "brpop"]
 	path = brpop
 	url = https://github.com/cran/brpop
-[submodule "brr"]
-	path = brr
-	url = https://github.com/cran/brr
 [submodule "brsim"]
 	path = brsim
 	url = https://github.com/cran/brsim
@@ -31292,9 +31280,6 @@
 [submodule "gammSlice"]
 	path = gammSlice
 	url = https://github.com/cran/gammSlice
-[submodule "gamma"]
-	path = gamma
-	url = https://github.com/cran/gamma
 [submodule "gamreg"]
 	path = gamreg
 	url = https://github.com/cran/gamreg
@@ -32192,9 +32177,6 @@
 [submodule "ggeffects"]
 	path = ggeffects
 	url = https://github.com/cran/ggeffects
-[submodule "ggenealogy"]
-	path = ggenealogy
-	url = https://github.com/cran/ggenealogy
 [submodule "ggetho"]
 	path = ggetho
 	url = https://github.com/cran/ggetho
@@ -45356,9 +45338,6 @@
 [submodule "pgsc"]
 	path = pgsc
 	url = https://github.com/cran/pgsc
-[submodule "pguIMP"]
-	path = pguIMP
-	url = https://github.com/cran/pguIMP
 [submodule "ph2bayes"]
 	path = ph2bayes
 	url = https://github.com/cran/ph2bayes
@@ -45950,9 +45929,6 @@
 [submodule "plotMElm"]
 	path = plotMElm
 	url = https://github.com/cran/plotMElm
-[submodule "plotRCS"]
-	path = plotRCS
-	url = https://github.com/cran/plotRCS
 [submodule "plotROC"]
 	path = plotROC
 	url = https://github.com/cran/plotROC
@@ -46202,9 +46178,6 @@
 [submodule "pokemon"]
 	path = pokemon
 	url = https://github.com/cran/pokemon
-[submodule "poker"]
-	path = poker
-	url = https://github.com/cran/poker
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/cran/polaroid
@@ -46541,9 +46514,6 @@
 [submodule "powerpkg"]
 	path = powerpkg
 	url = https://github.com/cran/powerpkg
-[submodule "powerplus"]
-	path = powerplus
-	url = https://github.com/cran/powerplus
 [submodule "ppRep"]
 	path = ppRep
 	url = https://github.com/cran/ppRep
@@ -48890,9 +48860,6 @@
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/cran/rcheology
-[submodule "rchess"]
-	path = rchess
-	url = https://github.com/cran/rchess
 [submodule "rciplot"]
 	path = rciplot
 	url = https://github.com/cran/rciplot
@@ -51443,9 +51410,6 @@
 [submodule "rust"]
 	path = rust
 	url = https://github.com/cran/rust
-[submodule "ruta"]
-	path = ruta
-	url = https://github.com/cran/ruta
 [submodule "rutifier"]
 	path = rutifier
 	url = https://github.com/cran/rutifier
@@ -59192,9 +59156,6 @@
 [submodule "utile.visuals"]
 	path = utile.visuals
 	url = https://github.com/cran/utile.visuals
-[submodule "utilities"]
-	path = utilities
-	url = https://github.com/cran/utilities
 [submodule "utility"]
 	path = utility
 	url = https://github.com/cran/utility
