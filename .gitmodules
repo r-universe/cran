@@ -43439,6 +43439,9 @@
 [submodule "oai"]
 	path = oai
 	url = https://github.com/cran/oai
+[submodule "oaii"]
+	path = oaii
+	url = https://github.com/cran/oaii
 [submodule "oaqc"]
 	path = oaqc
 	url = https://github.com/cran/oaqc
