@@ -24524,9 +24524,6 @@
 [submodule "countts"]
 	path = countts
 	url = https://github.com/cran/countts
-[submodule "coursekata"]
-	path = coursekata
-	url = https://github.com/cran/coursekata
 [submodule "covBM"]
 	path = covBM
 	url = https://github.com/cran/covBM
@@ -54245,6 +54242,9 @@
 [submodule "smfishHmrf"]
 	path = smfishHmrf
 	url = https://github.com/cran/smfishHmrf
+[submodule "smfsb"]
+	path = smfsb
+	url = https://github.com/cran/smfsb
 [submodule "smicd"]
 	path = smicd
 	url = https://github.com/cran/smicd
