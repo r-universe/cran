@@ -272,6 +272,9 @@
 [submodule "APPEstimation"]
 	path = APPEstimation
 	url = https://github.com/cran/APPEstimation
+[submodule "APackOfTheClones"]
+	path = APackOfTheClones
+	url = https://github.com/cran/APackOfTheClones
 [submodule "APtools"]
 	path = APtools
 	url = https://github.com/cran/APtools
