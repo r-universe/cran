@@ -20294,6 +20294,9 @@
 [submodule "bayesianETAS"]
 	path = bayesianETAS
 	url = https://github.com/cran/bayesianETAS
+[submodule "bayesianVARs"]
+	path = bayesianVARs
+	url = https://github.com/cran/bayesianVARs
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cran/bayeslm
