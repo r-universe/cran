@@ -13607,6 +13607,9 @@
 [submodule "RandPro"]
 	path = RandPro
 	url = https://github.com/cran/RandPro
+[submodule "RandVar"]
+	path = RandVar
+	url = https://github.com/cran/RandVar
 [submodule "RandomForestsGLS"]
 	path = RandomForestsGLS
 	url = https://github.com/cran/RandomForestsGLS
@@ -14417,6 +14420,9 @@
 [submodule "RoBTT"]
 	path = RoBTT
 	url = https://github.com/cran/RoBTT
+[submodule "RobAStBase"]
+	path = RobAStBase
+	url = https://github.com/cran/RobAStBase
 [submodule "RobAStRDA"]
 	path = RobAStRDA
 	url = https://github.com/cran/RobAStRDA
@@ -14429,6 +14435,12 @@
 [submodule "RobKF"]
 	path = RobKF
 	url = https://github.com/cran/RobKF
+[submodule "RobLox"]
+	path = RobLox
+	url = https://github.com/cran/RobLox
+[submodule "RobLoxBioC"]
+	path = RobLoxBioC
+	url = https://github.com/cran/RobLoxBioC
 [submodule "RobMixReg"]
 	path = RobMixReg
 	url = https://github.com/cran/RobMixReg
@@ -24518,6 +24530,9 @@
 [submodule "countts"]
 	path = countts
 	url = https://github.com/cran/countts
+[submodule "coursekata"]
+	path = coursekata
+	url = https://github.com/cran/coursekata
 [submodule "covBM"]
 	path = covBM
 	url = https://github.com/cran/covBM
@@ -26786,6 +26801,9 @@
 [submodule "distrEx"]
 	path = distrEx
 	url = https://github.com/cran/distrEx
+[submodule "distrMod"]
+	path = distrMod
+	url = https://github.com/cran/distrMod
 [submodule "distrRmetrics"]
 	path = distrRmetrics
 	url = https://github.com/cran/distrRmetrics
