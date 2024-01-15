@@ -21473,6 +21473,9 @@
 [submodule "borrowr"]
 	path = borrowr
 	url = https://github.com/cran/borrowr
+[submodule "bossR"]
+	path = bossR
+	url = https://github.com/cran/bossR
 [submodule "botor"]
 	path = botor
 	url = https://github.com/cran/botor
