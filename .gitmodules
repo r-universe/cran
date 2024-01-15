@@ -2537,6 +2537,9 @@
 [submodule "CausalMBSTS"]
 	path = CausalMBSTS
 	url = https://github.com/cran/CausalMBSTS
+[submodule "CausalMetaR"]
+	path = CausalMetaR
+	url = https://github.com/cran/CausalMetaR
 [submodule "CausalModels"]
 	path = CausalModels
 	url = https://github.com/cran/CausalModels
@@ -19322,6 +19325,9 @@
 [submodule "arc"]
 	path = arc
 	url = https://github.com/cran/arc
+[submodule "arcgeocoder"]
+	path = arcgeocoder
+	url = https://github.com/cran/arcgeocoder
 [submodule "arcgisutils"]
 	path = arcgisutils
 	url = https://github.com/cran/arcgisutils
@@ -19931,6 +19937,9 @@
 [submodule "azuremlsdk"]
 	path = azuremlsdk
 	url = https://github.com/cran/azuremlsdk
+[submodule "b64"]
+	path = b64
+	url = https://github.com/cran/b64
 [submodule "bReeze"]
 	path = bReeze
 	url = https://github.com/cran/bReeze
@@ -31973,6 +31982,9 @@
 [submodule "geonetwork"]
 	path = geonetwork
 	url = https://github.com/cran/geonetwork
+[submodule "georefdatar"]
+	path = georefdatar
+	url = https://github.com/cran/georefdatar
 [submodule "geos"]
 	path = geos
 	url = https://github.com/cran/geos
@@ -47327,6 +47339,9 @@
 [submodule "psidR"]
 	path = psidR
 	url = https://github.com/cran/psidR
+[submodule "psidread"]
+	path = psidread
+	url = https://github.com/cran/psidread
 [submodule "psmineR"]
 	path = psmineR
 	url = https://github.com/cran/psmineR
@@ -53162,6 +53177,9 @@
 [submodule "shidashi"]
 	path = shidashi
 	url = https://github.com/cran/shidashi
+[submodule "shide"]
+	path = shide
+	url = https://github.com/cran/shide
 [submodule "shiftR"]
 	path = shiftR
 	url = https://github.com/cran/shiftR
