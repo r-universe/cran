@@ -41345,6 +41345,9 @@
 [submodule "mousetRajectory"]
 	path = mousetRajectory
 	url = https://github.com/cran/mousetRajectory
+[submodule "mousetrap"]
+	path = mousetrap
+	url = https://github.com/cran/mousetrap
 [submodule "movMF"]
 	path = movMF
 	url = https://github.com/cran/movMF
