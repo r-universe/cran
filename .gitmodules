@@ -419,9 +419,6 @@
 [submodule "ActiveDriver"]
 	path = ActiveDriver
 	url = https://github.com/cran/ActiveDriver
-[submodule "ActiveDriverWGS"]
-	path = ActiveDriverWGS
-	url = https://github.com/cran/ActiveDriverWGS
 [submodule "ActivePathways"]
 	path = ActivePathways
 	url = https://github.com/cran/ActivePathways
@@ -32261,9 +32258,6 @@
 [submodule "ggcorset"]
 	path = ggcorset
 	url = https://github.com/cran/ggcorset
-[submodule "ggcoverage"]
-	path = ggcoverage
-	url = https://github.com/cran/ggcoverage
 [submodule "ggdag"]
 	path = ggdag
 	url = https://github.com/cran/ggdag
@@ -48908,9 +48902,6 @@
 [submodule "rbenchmark"]
 	path = rbenchmark
 	url = https://github.com/cran/rbenchmark
-[submodule "rbenvo"]
-	path = rbenvo
-	url = https://github.com/cran/rbenvo
 [submodule "rbgm"]
 	path = rbgm
 	url = https://github.com/cran/rbgm
@@ -54899,9 +54890,6 @@
 [submodule "spatialising"]
 	path = spatialising
 	url = https://github.com/cran/spatialising
-[submodule "spatialprobit"]
-	path = spatialprobit
-	url = https://github.com/cran/spatialprobit
 [submodule "spatialreg"]
 	path = spatialreg
 	url = https://github.com/cran/spatialreg
