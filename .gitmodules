@@ -9653,6 +9653,9 @@
 [submodule "Microsoft365R"]
 	path = Microsoft365R
 	url = https://github.com/cran/Microsoft365R
+[submodule "MigConnectivity"]
+	path = MigConnectivity
+	url = https://github.com/cran/MigConnectivity
 [submodule "MigrationDetectR"]
 	path = MigrationDetectR
 	url = https://github.com/cran/MigrationDetectR
@@ -11375,6 +11378,9 @@
 [submodule "PRSim"]
 	path = PRSim
 	url = https://github.com/cran/PRSim
+[submodule "PRTree"]
+	path = PRTree
+	url = https://github.com/cran/PRTree
 [submodule "PReMiuM"]
 	path = PReMiuM
 	url = https://github.com/cran/PReMiuM
@@ -27182,6 +27188,9 @@
 [submodule "dplyrAssist"]
 	path = dplyrAssist
 	url = https://github.com/cran/dplyrAssist
+[submodule "dpm"]
+	path = dpm
+	url = https://github.com/cran/dpm
 [submodule "dpmr"]
 	path = dpmr
 	url = https://github.com/cran/dpmr
@@ -38822,6 +38831,9 @@
 [submodule "maclogp"]
 	path = maclogp
 	url = https://github.com/cran/maclogp
+[submodule "macroBiome"]
+	path = macroBiome
+	url = https://github.com/cran/macroBiome
 [submodule "macrocol"]
 	path = macrocol
 	url = https://github.com/cran/macrocol
@@ -42461,6 +42473,9 @@
 [submodule "neonOS"]
 	path = neonOS
 	url = https://github.com/cran/neonOS
+[submodule "neonPlantEcology"]
+	path = neonPlantEcology
+	url = https://github.com/cran/neonPlantEcology
 [submodule "neonUtilities"]
 	path = neonUtilities
 	url = https://github.com/cran/neonUtilities
@@ -50807,6 +50822,9 @@
 [submodule "robustlmm"]
 	path = robustlmm
 	url = https://github.com/cran/robustlmm
+[submodule "robustmatrix"]
+	path = robustmatrix
+	url = https://github.com/cran/robustmatrix
 [submodule "robustmeta"]
 	path = robustmeta
 	url = https://github.com/cran/robustmeta
@@ -59846,6 +59864,9 @@
 [submodule "visit"]
 	path = visit
 	url = https://github.com/cran/visit
+[submodule "vismeteor"]
+	path = vismeteor
+	url = https://github.com/cran/vismeteor
 [submodule "visreg"]
 	path = visreg
 	url = https://github.com/cran/visreg
