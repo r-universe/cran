@@ -22484,6 +22484,9 @@
 [submodule "cdcatR"]
 	path = cdcatR
 	url = https://github.com/cran/cdcatR
+[submodule "cdcfluview"]
+	path = cdcfluview
+	url = https://github.com/cran/cdcfluview
 [submodule "cdcsis"]
 	path = cdcsis
 	url = https://github.com/cran/cdcsis
