@@ -27020,9 +27020,6 @@
 [submodule "dockerfiler"]
 	path = dockerfiler
 	url = https://github.com/cran/dockerfiler
-[submodule "docket"]
-	path = docket
-	url = https://github.com/cran/docket
 [submodule "docknitr"]
 	path = docknitr
 	url = https://github.com/cran/docknitr
@@ -59276,9 +59273,6 @@
 [submodule "usdm"]
 	path = usdm
 	url = https://github.com/cran/usdm
-[submodule "usdoj"]
-	path = usdoj
-	url = https://github.com/cran/usdoj
 [submodule "usedist"]
 	path = usedist
 	url = https://github.com/cran/usedist
