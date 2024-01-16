@@ -4439,6 +4439,9 @@
 [submodule "EMpeaksR"]
 	path = EMpeaksR
 	url = https://github.com/cran/EMpeaksR
+[submodule "ENMTools"]
+	path = ENMTools
+	url = https://github.com/cran/ENMTools
 [submodule "ENMeval"]
 	path = ENMeval
 	url = https://github.com/cran/ENMeval
@@ -20132,6 +20135,9 @@
 [submodule "baseballDBR"]
 	path = baseballDBR
 	url = https://github.com/cran/baseballDBR
+[submodule "baseballr"]
+	path = baseballr
+	url = https://github.com/cran/baseballr
 [submodule "basedosdados"]
 	path = basedosdados
 	url = https://github.com/cran/basedosdados
