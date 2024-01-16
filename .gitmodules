@@ -12290,6 +12290,9 @@
 [submodule "QuantPsyc"]
 	path = QuantPsyc
 	url = https://github.com/cran/QuantPsyc
+[submodule "QuantRegGLasso"]
+	path = QuantRegGLasso
+	url = https://github.com/cran/QuantRegGLasso
 [submodule "QuantileGH"]
 	path = QuantileGH
 	url = https://github.com/cran/QuantileGH
