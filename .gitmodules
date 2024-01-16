@@ -17516,6 +17516,9 @@
 [submodule "VBsparsePCA"]
 	path = VBsparsePCA
 	url = https://github.com/cran/VBsparsePCA
+[submodule "VC2copula"]
+	path = VC2copula
+	url = https://github.com/cran/VC2copula
 [submodule "VCA"]
 	path = VCA
 	url = https://github.com/cran/VCA
@@ -19277,6 +19280,9 @@
 [submodule "apportion"]
 	path = apportion
 	url = https://github.com/cran/apportion
+[submodule "approxOT"]
+	path = approxOT
+	url = https://github.com/cran/approxOT
 [submodule "approximator"]
 	path = approximator
 	url = https://github.com/cran/approximator
