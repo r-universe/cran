@@ -3482,6 +3482,9 @@
 [submodule "DImodels"]
 	path = DImodels
 	url = https://github.com/cran/DImodels
+[submodule "DImodelsMulti"]
+	path = DImodelsMulti
+	url = https://github.com/cran/DImodelsMulti
 [submodule "DIscBIO"]
 	path = DIscBIO
 	url = https://github.com/cran/DIscBIO
@@ -10118,6 +10121,9 @@
 [submodule "NGBVS"]
 	path = NGBVS
 	url = https://github.com/cran/NGBVS
+[submodule "NGCHM"]
+	path = NGCHM
+	url = https://github.com/cran/NGCHM
 [submodule "NGLVieweR"]
 	path = NGLVieweR
 	url = https://github.com/cran/NGLVieweR
@@ -16511,6 +16517,9 @@
 [submodule "SurvivalClusteringTree"]
 	path = SurvivalClusteringTree
 	url = https://github.com/cran/SurvivalClusteringTree
+[submodule "SurvivalTests"]
+	path = SurvivalTests
+	url = https://github.com/cran/SurvivalTests
 [submodule "SvyNom"]
 	path = SvyNom
 	url = https://github.com/cran/SvyNom
@@ -16610,6 +16619,9 @@
 [submodule "TCGAretriever"]
 	path = TCGAretriever
 	url = https://github.com/cran/TCGAretriever
+[submodule "TCHazaRds"]
+	path = TCHazaRds
+	url = https://github.com/cran/TCHazaRds
 [submodule "TCIApathfinder"]
 	path = TCIApathfinder
 	url = https://github.com/cran/TCIApathfinder
@@ -26375,6 +26387,9 @@
 [submodule "dfmeta"]
 	path = dfmeta
 	url = https://github.com/cran/dfmeta
+[submodule "dfmirroR"]
+	path = dfmirroR
+	url = https://github.com/cran/dfmirroR
 [submodule "dfms"]
 	path = dfms
 	url = https://github.com/cran/dfms
@@ -44759,6 +44774,9 @@
 [submodule "parcats"]
 	path = parcats
 	url = https://github.com/cran/parcats
+[submodule "parcr"]
+	path = parcr
+	url = https://github.com/cran/parcr
 [submodule "parfm"]
 	path = parfm
 	url = https://github.com/cran/parfm
@@ -48197,6 +48215,9 @@
 [submodule "r2dii.plot"]
 	path = r2dii.plot
 	url = https://github.com/cran/r2dii.plot
+[submodule "r2fireworks"]
+	path = r2fireworks
+	url = https://github.com/cran/r2fireworks
 [submodule "r2glmm"]
 	path = r2glmm
 	url = https://github.com/cran/r2glmm
@@ -52376,6 +52397,9 @@
 [submodule "scidesignR"]
 	path = scidesignR
 	url = https://github.com/cran/scidesignR
+[submodule "scientific"]
+	path = scientific
+	url = https://github.com/cran/scientific
 [submodule "scientoText"]
 	path = scientoText
 	url = https://github.com/cran/scientoText
