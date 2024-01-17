@@ -22382,6 +22382,9 @@
 [submodule "causalPAF"]
 	path = causalPAF
 	url = https://github.com/cran/causalPAF
+[submodule "causalSLSE"]
+	path = causalSLSE
+	url = https://github.com/cran/causalSLSE
 [submodule "causaldata"]
 	path = causaldata
 	url = https://github.com/cran/causaldata
@@ -43751,6 +43754,9 @@
 [submodule "omnibus"]
 	path = omnibus
 	url = https://github.com/cran/omnibus
+[submodule "omopgenerics"]
+	path = omopgenerics
+	url = https://github.com/cran/omopgenerics
 [submodule "ompr"]
 	path = ompr
 	url = https://github.com/cran/ompr
