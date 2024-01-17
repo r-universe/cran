@@ -6233,6 +6233,9 @@
 [submodule "GeSciLiVis"]
 	path = GeSciLiVis
 	url = https://github.com/cran/GeSciLiVis
+[submodule "GenAI"]
+	path = GenAI
+	url = https://github.com/cran/GenAI
 [submodule "GenAlgo"]
 	path = GenAlgo
 	url = https://github.com/cran/GenAlgo
@@ -13448,6 +13451,9 @@
 [submodule "RStata"]
 	path = RStata
 	url = https://github.com/cran/RStata
+[submodule "RStoolbox"]
+	path = RStoolbox
+	url = https://github.com/cran/RStoolbox
 [submodule "RStorm"]
 	path = RStorm
 	url = https://github.com/cran/RStorm
@@ -16058,6 +16064,9 @@
 [submodule "SpaDES.tools"]
 	path = SpaDES.tools
 	url = https://github.com/cran/SpaDES.tools
+[submodule "SpaTopic"]
+	path = SpaTopic
+	url = https://github.com/cran/SpaTopic
 [submodule "SpaceTimeBSS"]
 	path = SpaceTimeBSS
 	url = https://github.com/cran/SpaceTimeBSS
@@ -26408,6 +26417,9 @@
 [submodule "dfrr"]
 	path = dfrr
 	url = https://github.com/cran/dfrr
+[submodule "dfsaneacc"]
+	path = dfsaneacc
+	url = https://github.com/cran/dfsaneacc
 [submodule "dfvad"]
 	path = dfvad
 	url = https://github.com/cran/dfvad
@@ -48443,6 +48455,9 @@
 [submodule "rPBK"]
 	path = rPBK
 	url = https://github.com/cran/rPBK
+[submodule "rPDBapi"]
+	path = rPDBapi
+	url = https://github.com/cran/rPDBapi
 [submodule "rPackedBar"]
 	path = rPackedBar
 	url = https://github.com/cran/rPackedBar
@@ -52937,6 +52952,9 @@
 [submodule "separationplot"]
 	path = separationplot
 	url = https://github.com/cran/separationplot
+[submodule "sephora"]
+	path = sephora
+	url = https://github.com/cran/sephora
 [submodule "sepkoski"]
 	path = sepkoski
 	url = https://github.com/cran/sepkoski
@@ -56543,6 +56561,9 @@
 [submodule "susieR"]
 	path = susieR
 	url = https://github.com/cran/susieR
+[submodule "susographql"]
+	path = susographql
+	url = https://github.com/cran/susographql
 [submodule "svDialogs"]
 	path = svDialogs
 	url = https://github.com/cran/svDialogs
@@ -61112,6 +61133,9 @@
 [submodule "yum"]
 	path = yum
 	url = https://github.com/cran/yum
+[submodule "yyjsonr"]
+	path = yyjsonr
+	url = https://github.com/cran/yyjsonr
 [submodule "zCompositions"]
 	path = zCompositions
 	url = https://github.com/cran/zCompositions
