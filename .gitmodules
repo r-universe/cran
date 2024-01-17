@@ -27131,6 +27131,9 @@
 [submodule "doremi"]
 	path = doremi
 	url = https://github.com/cran/doremi
+[submodule "doseSens"]
+	path = doseSens
+	url = https://github.com/cran/doseSens
 [submodule "dosearch"]
 	path = dosearch
 	url = https://github.com/cran/dosearch
@@ -31625,6 +31628,9 @@
 [submodule "gcplyr"]
 	path = gcplyr
 	url = https://github.com/cran/gcplyr
+[submodule "gcxgclab"]
+	path = gcxgclab
+	url = https://github.com/cran/gcxgclab
 [submodule "gdalBindings"]
 	path = gdalBindings
 	url = https://github.com/cran/gdalBindings
@@ -47609,6 +47615,9 @@
 [submodule "pvcurveanalysis"]
 	path = pvcurveanalysis
 	url = https://github.com/cran/pvcurveanalysis
+[submodule "pvda"]
+	path = pvda
+	url = https://github.com/cran/pvda
 [submodule "pvldcurve"]
 	path = pvldcurve
 	url = https://github.com/cran/pvldcurve
