@@ -41069,6 +41069,9 @@
 [submodule "mnormt"]
 	path = mnormt
 	url = https://github.com/cran/mnormt
+[submodule "mnreadR"]
+	path = mnreadR
+	url = https://github.com/cran/mnreadR
 [submodule "mnt"]
 	path = mnt
 	url = https://github.com/cran/mnt
@@ -52823,6 +52826,9 @@
 [submodule "semTable"]
 	path = semTable
 	url = https://github.com/cran/semTable
+[submodule "semTests"]
+	path = semTests
+	url = https://github.com/cran/semTests
 [submodule "semTools"]
 	path = semTools
 	url = https://github.com/cran/semTools
@@ -55175,6 +55181,9 @@
 [submodule "speedycode"]
 	path = speedycode
 	url = https://github.com/cran/speedycode
+[submodule "speedytax"]
+	path = speedytax
+	url = https://github.com/cran/speedytax
 [submodule "spef"]
 	path = spef
 	url = https://github.com/cran/spef
@@ -56516,6 +56525,9 @@
 [submodule "surveysd"]
 	path = surveysd
 	url = https://github.com/cran/surveysd
+[submodule "surveytable"]
+	path = surveytable
+	url = https://github.com/cran/surveytable
 [submodule "surveyvoi"]
 	path = surveyvoi
 	url = https://github.com/cran/surveyvoi
