@@ -10304,6 +10304,9 @@
 [submodule "NUETON"]
 	path = NUETON
 	url = https://github.com/cran/NUETON
+[submodule "NVAR"]
+	path = NVAR
+	url = https://github.com/cran/NVAR
 [submodule "NVCSSL"]
 	path = NVCSSL
 	url = https://github.com/cran/NVCSSL
