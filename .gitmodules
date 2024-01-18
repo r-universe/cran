@@ -34982,6 +34982,9 @@
 [submodule "hydroEvents"]
 	path = hydroEvents
 	url = https://github.com/cran/hydroEvents
+[submodule "hydroTSM"]
+	path = hydroTSM
+	url = https://github.com/cran/hydroTSM
 [submodule "hydroToolkit"]
 	path = hydroToolkit
 	url = https://github.com/cran/hydroToolkit
@@ -57638,6 +57641,9 @@
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/cran/tidyCpp
+[submodule "tidyDenovix"]
+	path = tidyDenovix
+	url = https://github.com/cran/tidyDenovix
 [submodule "tidyEdSurvey"]
 	path = tidyEdSurvey
 	url = https://github.com/cran/tidyEdSurvey
