@@ -19214,6 +19214,9 @@
 [submodule "aoristic"]
 	path = aoristic
 	url = https://github.com/cran/aoristic
+[submodule "aorsf"]
+	path = aorsf
+	url = https://github.com/cran/aorsf
 [submodule "aos"]
 	path = aos
 	url = https://github.com/cran/aos
