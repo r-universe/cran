@@ -12713,9 +12713,6 @@
 [submodule "REndo"]
 	path = REndo
 	url = https://github.com/cran/REndo
-[submodule "RFCCA"]
-	path = RFCCA
-	url = https://github.com/cran/RFCCA
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
@@ -42182,6 +42179,9 @@
 [submodule "mwcsr"]
 	path = mwcsr
 	url = https://github.com/cran/mwcsr
+[submodule "mwlaxeref"]
+	path = mwlaxeref
+	url = https://github.com/cran/mwlaxeref
 [submodule "mwshiny"]
 	path = mwshiny
 	url = https://github.com/cran/mwshiny
