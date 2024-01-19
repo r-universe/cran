@@ -6389,6 +6389,9 @@
 [submodule "Gini"]
 	path = Gini
 	url = https://github.com/cran/Gini
+[submodule "GiniDecompLY"]
+	path = GiniDecompLY
+	url = https://github.com/cran/GiniDecompLY
 [submodule "GiniDistance"]
 	path = GiniDistance
 	url = https://github.com/cran/GiniDistance
@@ -16778,6 +16781,9 @@
 [submodule "TPLSr"]
 	path = TPLSr
 	url = https://github.com/cran/TPLSr
+[submodule "TPMplt"]
+	path = TPMplt
+	url = https://github.com/cran/TPMplt
 [submodule "TPmsm"]
 	path = TPmsm
 	url = https://github.com/cran/TPmsm
@@ -28730,6 +28736,9 @@
 [submodule "erah"]
 	path = erah
 	url = https://github.com/cran/erah
+[submodule "erboost"]
+	path = erboost
+	url = https://github.com/cran/erboost
 [submodule "ercv"]
 	path = ercv
 	url = https://github.com/cran/ercv
@@ -43991,6 +44000,9 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
+[submodule "openscoring"]
+	path = openscoring
+	url = https://github.com/cran/openscoring
 [submodule "opensensmapr"]
 	path = opensensmapr
 	url = https://github.com/cran/opensensmapr
