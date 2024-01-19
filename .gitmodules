@@ -2099,9 +2099,6 @@
 [submodule "CICI"]
 	path = CICI
 	url = https://github.com/cran/CICI
-[submodule "CIDER"]
-	path = CIDER
-	url = https://github.com/cran/CIDER
 [submodule "CIEE"]
 	path = CIEE
 	url = https://github.com/cran/CIEE
@@ -2348,9 +2345,6 @@
 [submodule "CRediTas"]
 	path = CRediTas
 	url = https://github.com/cran/CRediTas
-[submodule "CSCDRNA"]
-	path = CSCDRNA
-	url = https://github.com/cran/CSCDRNA
 [submodule "CSCNet"]
 	path = CSCNet
 	url = https://github.com/cran/CSCNet
@@ -38186,9 +38180,6 @@
 [submodule "lmSubsets"]
 	path = lmSubsets
 	url = https://github.com/cran/lmSubsets
-[submodule "lmap"]
-	path = lmap
-	url = https://github.com/cran/lmap
 [submodule "lmboot"]
 	path = lmboot
 	url = https://github.com/cran/lmboot
@@ -49289,9 +49280,6 @@
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
-[submodule "read.dbc"]
-	path = read.dbc
-	url = https://github.com/cran/read.dbc
 [submodule "read.gb"]
 	path = read.gb
 	url = https://github.com/cran/read.gb
@@ -49325,9 +49313,6 @@
 [submodule "readOffice"]
 	path = readOffice
 	url = https://github.com/cran/readOffice
-[submodule "readSX"]
-	path = readSX
-	url = https://github.com/cran/readSX
 [submodule "readabs"]
 	path = readabs
 	url = https://github.com/cran/readabs
@@ -52217,9 +52202,6 @@
 [submodule "sc2sc"]
 	path = sc2sc
 	url = https://github.com/cran/sc2sc
-[submodule "scAnnotate"]
-	path = scAnnotate
-	url = https://github.com/cran/scAnnotate
 [submodule "scBio"]
 	path = scBio
 	url = https://github.com/cran/scBio
