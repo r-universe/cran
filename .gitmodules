@@ -12710,6 +12710,9 @@
 [submodule "REndo"]
 	path = REndo
 	url = https://github.com/cran/REndo
+[submodule "RFCCA"]
+	path = RFCCA
+	url = https://github.com/cran/RFCCA
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
@@ -51647,6 +51650,9 @@
 [submodule "rusk"]
 	path = rusk
 	url = https://github.com/cran/rusk
+[submodule "rusquant"]
+	path = rusquant
+	url = https://github.com/cran/rusquant
 [submodule "rust"]
 	path = rust
 	url = https://github.com/cran/rust
