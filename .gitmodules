@@ -29072,6 +29072,9 @@
 [submodule "evoper"]
 	path = evoper
 	url = https://github.com/cran/evoper
+[submodule "evprof"]
+	path = evprof
+	url = https://github.com/cran/evprof
 [submodule "evreg"]
 	path = evreg
 	url = https://github.com/cran/evreg
