@@ -34988,6 +34988,9 @@
 [submodule "hydroEvents"]
 	path = hydroEvents
 	url = https://github.com/cran/hydroEvents
+[submodule "hydroGOF"]
+	path = hydroGOF
+	url = https://github.com/cran/hydroGOF
 [submodule "hydroTSM"]
 	path = hydroTSM
 	url = https://github.com/cran/hydroTSM
