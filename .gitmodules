@@ -55457,6 +55457,9 @@
 [submodule "sqldf"]
 	path = sqldf
 	url = https://github.com/cran/sqldf
+[submodule "sqlhelper"]
+	path = sqlhelper
+	url = https://github.com/cran/sqlhelper
 [submodule "sqliter"]
 	path = sqliter
 	url = https://github.com/cran/sqliter
