@@ -23795,6 +23795,9 @@
 [submodule "colorhcplot"]
 	path = colorhcplot
 	url = https://github.com/cran/colorhcplot
+[submodule "colorhex"]
+	path = colorhex
+	url = https://github.com/cran/colorhex
 [submodule "colorist"]
 	path = colorist
 	url = https://github.com/cran/colorist
