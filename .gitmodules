@@ -1244,9 +1244,6 @@
 [submodule "Barnard"]
 	path = Barnard
 	url = https://github.com/cran/Barnard
-[submodule "BartMixVs"]
-	path = BartMixVs
-	url = https://github.com/cran/BartMixVs
 [submodule "BaseSet"]
 	path = BaseSet
 	url = https://github.com/cran/BaseSet
@@ -2927,6 +2924,9 @@
 [submodule "Conake"]
 	path = Conake
 	url = https://github.com/cran/Conake
+[submodule "ConconiAnaerobicThresholdTest"]
+	path = ConconiAnaerobicThresholdTest
+	url = https://github.com/cran/ConconiAnaerobicThresholdTest
 [submodule "ConcordanceTest"]
 	path = ConcordanceTest
 	url = https://github.com/cran/ConcordanceTest
@@ -6959,6 +6959,9 @@
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
+[submodule "IALS"]
+	path = IALS
+	url = https://github.com/cran/IALS
 [submodule "IAPWS95"]
 	path = IAPWS95
 	url = https://github.com/cran/IAPWS95
@@ -8399,9 +8402,6 @@
 [submodule "LindleyPowerSeries"]
 	path = LindleyPowerSeries
 	url = https://github.com/cran/LindleyPowerSeries
-[submodule "LinearDetect"]
-	path = LinearDetect
-	url = https://github.com/cran/LinearDetect
 [submodule "LinearRegressionMDE"]
 	path = LinearRegressionMDE
 	url = https://github.com/cran/LinearRegressionMDE
@@ -10769,9 +10769,6 @@
 [submodule "OneTwoSamples"]
 	path = OneTwoSamples
 	url = https://github.com/cran/OneTwoSamples
-[submodule "OpVaR"]
-	path = OpVaR
-	url = https://github.com/cran/OpVaR
 [submodule "OpenCL"]
 	path = OpenCL
 	url = https://github.com/cran/OpenCL
@@ -15881,9 +15878,6 @@
 [submodule "SimNPH"]
 	path = SimNPH
 	url = https://github.com/cran/SimNPH
-[submodule "SimRVPedigree"]
-	path = SimRVPedigree
-	url = https://github.com/cran/SimRVPedigree
 [submodule "SimReg"]
 	path = SimReg
 	url = https://github.com/cran/SimReg
@@ -15926,9 +15920,6 @@
 [submodule "SingleCaseES"]
 	path = SingleCaseES
 	url = https://github.com/cran/SingleCaseES
-[submodule "SitesInterest"]
-	path = SitesInterest
-	url = https://github.com/cran/SitesInterest
 [submodule "SixSigma"]
 	path = SixSigma
 	url = https://github.com/cran/SixSigma
@@ -17996,6 +17987,9 @@
 [submodule "WormTensor"]
 	path = WormTensor
 	url = https://github.com/cran/WormTensor
+[submodule "WpProj"]
+	path = WpProj
+	url = https://github.com/cran/WpProj
 [submodule "WrensBookshelf"]
 	path = WrensBookshelf
 	url = https://github.com/cran/WrensBookshelf
@@ -19406,6 +19400,9 @@
 [submodule "arcpullr"]
 	path = arcpullr
 	url = https://github.com/cran/arcpullr
+[submodule "arcpy"]
+	path = arcpy
+	url = https://github.com/cran/arcpy
 [submodule "arctools"]
 	path = arctools
 	url = https://github.com/cran/arctools
@@ -31589,6 +31586,9 @@
 [submodule "gbm2sas"]
 	path = gbm2sas
 	url = https://github.com/cran/gbm2sas
+[submodule "gbm3"]
+	path = gbm3
+	url = https://github.com/cran/gbm3
 [submodule "gbmt"]
 	path = gbmt
 	url = https://github.com/cran/gbmt
@@ -32000,9 +32000,6 @@
 [submodule "geojsonsf"]
 	path = geojsonsf
 	url = https://github.com/cran/geojsonsf
-[submodule "geoknife"]
-	path = geoknife
-	url = https://github.com/cran/geoknife
 [submodule "geomander"]
 	path = geomander
 	url = https://github.com/cran/geomander
@@ -36071,6 +36068,9 @@
 [submodule "ioncopy"]
 	path = ioncopy
 	url = https://github.com/cran/ioncopy
+[submodule "ionet"]
+	path = ionet
+	url = https://github.com/cran/ionet
 [submodule "ionr"]
 	path = ionr
 	url = https://github.com/cran/ionr
@@ -37718,9 +37718,6 @@
 [submodule "leaps"]
 	path = leaps
 	url = https://github.com/cran/leaps
-[submodule "learNN"]
-	path = learNN
-	url = https://github.com/cran/learNN
 [submodule "learnPopGen"]
 	path = learnPopGen
 	url = https://github.com/cran/learnPopGen
@@ -40697,9 +40694,6 @@
 [submodule "mixhvg"]
 	path = mixhvg
 	url = https://github.com/cran/mixhvg
-[submodule "mixl"]
-	path = mixl
-	url = https://github.com/cran/mixl
 [submodule "mixlm"]
 	path = mixlm
 	url = https://github.com/cran/mixlm
@@ -44543,9 +44537,6 @@
 [submodule "packager"]
 	path = packager
 	url = https://github.com/cran/packager
-[submodule "packagetrackr"]
-	path = packagetrackr
-	url = https://github.com/cran/packagetrackr
 [submodule "packcircles"]
 	path = packcircles
 	url = https://github.com/cran/packcircles
@@ -46694,6 +46685,9 @@
 [submodule "pould"]
 	path = pould
 	url = https://github.com/cran/pould
+[submodule "povmap"]
+	path = povmap
+	url = https://github.com/cran/povmap
 [submodule "pow.int"]
 	path = pow.int
 	url = https://github.com/cran/pow.int
@@ -47507,9 +47501,6 @@
 [submodule "ptest"]
 	path = ptest
 	url = https://github.com/cran/ptest
-[submodule "ptf"]
-	path = ptf
-	url = https://github.com/cran/ptf
 [submodule "ptinpoly"]
 	path = ptinpoly
 	url = https://github.com/cran/ptinpoly
@@ -50003,6 +49994,9 @@
 [submodule "resumer"]
 	path = resumer
 	url = https://github.com/cran/resumer
+[submodule "retel"]
+	path = retel
+	url = https://github.com/cran/retel
 [submodule "rethinker"]
 	path = rethinker
 	url = https://github.com/cran/rethinker
@@ -50987,9 +50981,6 @@
 [submodule "rootSolve"]
 	path = rootSolve
 	url = https://github.com/cran/rootSolve
-[submodule "rootWishart"]
-	path = rootWishart
-	url = https://github.com/cran/rootWishart
 [submodule "roots"]
 	path = roots
 	url = https://github.com/cran/roots
@@ -52679,6 +52670,9 @@
 [submodule "secsse"]
 	path = secsse
 	url = https://github.com/cran/secsse
+[submodule "sectorgap"]
+	path = sectorgap
+	url = https://github.com/cran/sectorgap
 [submodule "secuTrialR"]
 	path = secuTrialR
 	url = https://github.com/cran/secuTrialR
@@ -56489,6 +56483,9 @@
 [submodule "survSpearman"]
 	path = survSpearman
 	url = https://github.com/cran/survSpearman
+[submodule "survcompare"]
+	path = survcompare
+	url = https://github.com/cran/survcompare
 [submodule "surveil"]
 	path = surveil
 	url = https://github.com/cran/surveil
@@ -56975,6 +56972,9 @@
 [submodule "tabulog"]
 	path = tabulog
 	url = https://github.com/cran/tabulog
+[submodule "tabxplor"]
+	path = tabxplor
+	url = https://github.com/cran/tabxplor
 [submodule "tacmagic"]
 	path = tacmagic
 	url = https://github.com/cran/tacmagic
@@ -58058,6 +58058,9 @@
 [submodule "tinyspotifyr"]
 	path = tinyspotifyr
 	url = https://github.com/cran/tinyspotifyr
+[submodule "tinytable"]
+	path = tinytable
+	url = https://github.com/cran/tinytable
 [submodule "tinytest"]
 	path = tinytest
 	url = https://github.com/cran/tinytest
