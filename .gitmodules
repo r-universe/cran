@@ -52661,6 +52661,9 @@
 [submodule "secret"]
 	path = secret
 	url = https://github.com/cran/secret
+[submodule "secretbase"]
+	path = secretbase
+	url = https://github.com/cran/secretbase
 [submodule "secrettext"]
 	path = secrettext
 	url = https://github.com/cran/secrettext
