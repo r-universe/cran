@@ -1673,9 +1673,6 @@
 [submodule "BipartiteModularityMaximization"]
 	path = BipartiteModularityMaximization
 	url = https://github.com/cran/BipartiteModularityMaximization
-[submodule "BiplotGUI"]
-	path = BiplotGUI
-	url = https://github.com/cran/BiplotGUI
 [submodule "BisRNA"]
 	path = BisRNA
 	url = https://github.com/cran/BisRNA
@@ -7853,9 +7850,6 @@
 [submodule "Keyboard"]
 	path = Keyboard
 	url = https://github.com/cran/Keyboard
-[submodule "KeyboardSimulator"]
-	path = KeyboardSimulator
-	url = https://github.com/cran/KeyboardSimulator
 [submodule "KinMixLite"]
 	path = KinMixLite
 	url = https://github.com/cran/KinMixLite
@@ -8747,9 +8741,6 @@
 [submodule "MDPtoolbox"]
 	path = MDPtoolbox
 	url = https://github.com/cran/MDPtoolbox
-[submodule "MDSGUI"]
-	path = MDSGUI
-	url = https://github.com/cran/MDSGUI
 [submodule "MDSMap"]
 	path = MDSMap
 	url = https://github.com/cran/MDSMap
@@ -9497,9 +9488,6 @@
 [submodule "MediaK"]
 	path = MediaK
 	url = https://github.com/cran/MediaK
-[submodule "MediaNews"]
-	path = MediaNews
-	url = https://github.com/cran/MediaNews
 [submodule "Mediana"]
 	path = Mediana
 	url = https://github.com/cran/Mediana
@@ -12374,9 +12362,6 @@
 [submodule "R2OpenBUGS"]
 	path = R2OpenBUGS
 	url = https://github.com/cran/R2OpenBUGS
-[submodule "R2PPT"]
-	path = R2PPT
-	url = https://github.com/cran/R2PPT
 [submodule "R2ROC"]
 	path = R2ROC
 	url = https://github.com/cran/R2ROC
@@ -12398,9 +12383,6 @@
 [submodule "R2ucare"]
 	path = R2ucare
 	url = https://github.com/cran/R2ucare
-[submodule "R2wd"]
-	path = R2wd
-	url = https://github.com/cran/R2wd
 [submodule "R3port"]
 	path = R3port
 	url = https://github.com/cran/R3port
@@ -12863,9 +12845,6 @@
 [submodule "RInSp"]
 	path = RInSp
 	url = https://github.com/cran/RInSp
-[submodule "RInno"]
-	path = RInno
-	url = https://github.com/cran/RInno
 [submodule "RInside"]
 	path = RInside
 	url = https://github.com/cran/RInside
@@ -13544,9 +13523,6 @@
 [submodule "RWildbook"]
 	path = RWildbook
 	url = https://github.com/cran/RWildbook
-[submodule "RWinEdt"]
-	path = RWinEdt
-	url = https://github.com/cran/RWinEdt
 [submodule "RWmisc"]
 	path = RWmisc
 	url = https://github.com/cran/RWmisc
@@ -21245,9 +21221,6 @@
 [submodule "blatent"]
 	path = blatent
 	url = https://github.com/cran/blatent
-[submodule "blatr"]
-	path = blatr
-	url = https://github.com/cran/blatr
 [submodule "blavaan"]
 	path = blavaan
 	url = https://github.com/cran/blavaan
@@ -23264,6 +23237,9 @@
 [submodule "clintools"]
 	path = clintools
 	url = https://github.com/cran/clintools
+[submodule "cliot"]
+	path = cliot
+	url = https://github.com/cran/cliot
 [submodule "clipp"]
 	path = clipp
 	url = https://github.com/cran/clipp
@@ -29135,9 +29111,6 @@
 [submodule "exceedProb"]
 	path = exceedProb
 	url = https://github.com/cran/exceedProb
-[submodule "excel.link"]
-	path = excel.link
-	url = https://github.com/cran/excel.link
 [submodule "excelR"]
 	path = excelR
 	url = https://github.com/cran/excelR
@@ -48383,9 +48356,6 @@
 [submodule "rFSA"]
 	path = rFSA
 	url = https://github.com/cran/rFSA
-[submodule "rFUSION"]
-	path = rFUSION
-	url = https://github.com/cran/rFUSION
 [submodule "rFerns"]
 	path = rFerns
 	url = https://github.com/cran/rFerns
@@ -55148,9 +55118,6 @@
 [submodule "spectre"]
 	path = spectre
 	url = https://github.com/cran/spectre
-[submodule "spectrino"]
-	path = spectrino
-	url = https://github.com/cran/spectrino
 [submodule "spectrolab"]
 	path = spectrolab
 	url = https://github.com/cran/spectrolab
@@ -57041,9 +57008,6 @@
 [submodule "tashu"]
 	path = tashu
 	url = https://github.com/cran/tashu
-[submodule "taskscheduleR"]
-	path = taskscheduleR
-	url = https://github.com/cran/taskscheduleR
 [submodule "tastypie"]
 	path = tastypie
 	url = https://github.com/cran/tastypie
