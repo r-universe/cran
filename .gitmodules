@@ -9671,6 +9671,9 @@
 [submodule "MissCP"]
 	path = MissCP
 	url = https://github.com/cran/MissCP
+[submodule "MissMech"]
+	path = MissMech
+	url = https://github.com/cran/MissMech
 [submodule "MissingHandle"]
 	path = MissingHandle
 	url = https://github.com/cran/MissingHandle
@@ -26834,6 +26837,9 @@
 [submodule "disto"]
 	path = disto
 	url = https://github.com/cran/disto
+[submodule "distops"]
+	path = distops
+	url = https://github.com/cran/distops
 [submodule "distory"]
 	path = distory
 	url = https://github.com/cran/distory
@@ -35417,6 +35423,9 @@
 [submodule "ifctools"]
 	path = ifctools
 	url = https://github.com/cran/ifctools
+[submodule "ifpd"]
+	path = ifpd
+	url = https://github.com/cran/ifpd
 [submodule "ifs"]
 	path = ifs
 	url = https://github.com/cran/ifs
@@ -37319,6 +37328,9 @@
 [submodule "labelVector"]
 	path = labelVector
 	url = https://github.com/cran/labelVector
+[submodule "labeleR"]
+	path = labeleR
+	url = https://github.com/cran/labeleR
 [submodule "labeling"]
 	path = labeling
 	url = https://github.com/cran/labeling
@@ -37328,6 +37340,9 @@
 [submodule "labelmachine"]
 	path = labelmachine
 	url = https://github.com/cran/labelmachine
+[submodule "labelr"]
+	path = labelr
+	url = https://github.com/cran/labelr
 [submodule "lablaster"]
 	path = lablaster
 	url = https://github.com/cran/lablaster
@@ -43715,6 +43730,9 @@
 [submodule "offlineChange"]
 	path = offlineChange
 	url = https://github.com/cran/offlineChange
+[submodule "offsetreg"]
+	path = offsetreg
+	url = https://github.com/cran/offsetreg
 [submodule "oglmx"]
 	path = oglmx
 	url = https://github.com/cran/oglmx
