@@ -713,6 +713,9 @@
 [submodule "AutoPipe"]
 	path = AutoPipe
 	url = https://github.com/cran/AutoPipe
+[submodule "AutoPlots"]
+	path = AutoPlots
+	url = https://github.com/cran/AutoPlots
 [submodule "AutoScore"]
 	path = AutoScore
 	url = https://github.com/cran/AutoScore
@@ -29066,6 +29069,9 @@
 [submodule "evreg"]
 	path = evreg
 	url = https://github.com/cran/evreg
+[submodule "evsim"]
+	path = evsim
+	url = https://github.com/cran/evsim
 [submodule "evt0"]
 	path = evt0
 	url = https://github.com/cran/evt0
@@ -42440,6 +42446,9 @@
 [submodule "ndtv"]
 	path = ndtv
 	url = https://github.com/cran/ndtv
+[submodule "nearfar"]
+	path = nearfar
+	url = https://github.com/cran/nearfar
 [submodule "neat"]
 	path = neat
 	url = https://github.com/cran/neat
