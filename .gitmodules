@@ -1244,6 +1244,9 @@
 [submodule "Barnard"]
 	path = Barnard
 	url = https://github.com/cran/Barnard
+[submodule "BartMixVs"]
+	path = BartMixVs
+	url = https://github.com/cran/BartMixVs
 [submodule "BaseSet"]
 	path = BaseSet
 	url = https://github.com/cran/BaseSet
@@ -3101,6 +3104,9 @@
 [submodule "CovTools"]
 	path = CovTools
 	url = https://github.com/cran/CovTools
+[submodule "Covid19Wastewater"]
+	path = Covid19Wastewater
+	url = https://github.com/cran/Covid19Wastewater
 [submodule "CovidMutations"]
 	path = CovidMutations
 	url = https://github.com/cran/CovidMutations
@@ -8393,6 +8399,9 @@
 [submodule "LindleyPowerSeries"]
 	path = LindleyPowerSeries
 	url = https://github.com/cran/LindleyPowerSeries
+[submodule "LinearDetect"]
+	path = LinearDetect
+	url = https://github.com/cran/LinearDetect
 [submodule "LinearRegressionMDE"]
 	path = LinearRegressionMDE
 	url = https://github.com/cran/LinearRegressionMDE
@@ -8975,6 +8984,9 @@
 [submodule "MM"]
 	path = MM
 	url = https://github.com/cran/MM
+[submodule "MM2S"]
+	path = MM2S
+	url = https://github.com/cran/MM2S
 [submodule "MM2Sdata"]
 	path = MM2Sdata
 	url = https://github.com/cran/MM2Sdata
@@ -10751,6 +10763,9 @@
 [submodule "OneTwoSamples"]
 	path = OneTwoSamples
 	url = https://github.com/cran/OneTwoSamples
+[submodule "OpVaR"]
+	path = OpVaR
+	url = https://github.com/cran/OpVaR
 [submodule "OpenCL"]
 	path = OpenCL
 	url = https://github.com/cran/OpenCL
@@ -15848,6 +15863,9 @@
 [submodule "SimNPH"]
 	path = SimNPH
 	url = https://github.com/cran/SimNPH
+[submodule "SimRVPedigree"]
+	path = SimRVPedigree
+	url = https://github.com/cran/SimRVPedigree
 [submodule "SimReg"]
 	path = SimReg
 	url = https://github.com/cran/SimReg
@@ -15890,6 +15908,9 @@
 [submodule "SingleCaseES"]
 	path = SingleCaseES
 	url = https://github.com/cran/SingleCaseES
+[submodule "SitesInterest"]
+	path = SitesInterest
+	url = https://github.com/cran/SitesInterest
 [submodule "SixSigma"]
 	path = SixSigma
 	url = https://github.com/cran/SixSigma
@@ -26063,6 +26084,9 @@
 [submodule "deflist"]
 	path = deflist
 	url = https://github.com/cran/deflist
+[submodule "defm"]
+	path = defm
+	url = https://github.com/cran/defm
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
@@ -37844,6 +37868,9 @@
 [submodule "lhs"]
 	path = lhs
 	url = https://github.com/cran/lhs
+[submodule "liayson"]
+	path = liayson
+	url = https://github.com/cran/liayson
 [submodule "libbib"]
 	path = libbib
 	url = https://github.com/cran/libbib
@@ -39299,6 +39326,9 @@
 [submodule "matrans"]
 	path = matrans
 	url = https://github.com/cran/matrans
+[submodule "matric"]
+	path = matric
+	url = https://github.com/cran/matric
 [submodule "matricks"]
 	path = matricks
 	url = https://github.com/cran/matricks
@@ -40649,6 +40679,9 @@
 [submodule "mixhvg"]
 	path = mixhvg
 	url = https://github.com/cran/mixhvg
+[submodule "mixl"]
+	path = mixl
+	url = https://github.com/cran/mixl
 [submodule "mixlm"]
 	path = mixlm
 	url = https://github.com/cran/mixlm
@@ -41978,6 +42011,9 @@
 [submodule "musica"]
 	path = musica
 	url = https://github.com/cran/musica
+[submodule "mustashe"]
+	path = mustashe
+	url = https://github.com/cran/mustashe
 [submodule "mutSignatures"]
 	path = mutSignatures
 	url = https://github.com/cran/mutSignatures
@@ -44489,6 +44525,9 @@
 [submodule "packager"]
 	path = packager
 	url = https://github.com/cran/packager
+[submodule "packagetrackr"]
+	path = packagetrackr
+	url = https://github.com/cran/packagetrackr
 [submodule "packcircles"]
 	path = packcircles
 	url = https://github.com/cran/packcircles
@@ -47453,6 +47492,9 @@
 [submodule "ptest"]
 	path = ptest
 	url = https://github.com/cran/ptest
+[submodule "ptf"]
+	path = ptf
+	url = https://github.com/cran/ptf
 [submodule "ptinpoly"]
 	path = ptinpoly
 	url = https://github.com/cran/ptinpoly
