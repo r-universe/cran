@@ -57878,9 +57878,6 @@
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/cran/tidytable
-[submodule "tidytags"]
-	path = tidytags
-	url = https://github.com/cran/tidytags
 [submodule "tidyterra"]
 	path = tidyterra
 	url = https://github.com/cran/tidyterra
