@@ -27419,6 +27419,9 @@
 [submodule "dstat2x2xk"]
 	path = dstat2x2xk
 	url = https://github.com/cran/dstat2x2xk
+[submodule "dtComb"]
+	path = dtComb
+	url = https://github.com/cran/dtComb
 [submodule "dtangle"]
 	path = dtangle
 	url = https://github.com/cran/dtangle
