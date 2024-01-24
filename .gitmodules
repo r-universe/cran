@@ -43025,6 +43025,9 @@
 [submodule "nmw"]
 	path = nmw
 	url = https://github.com/cran/nmw
+[submodule "nn2poly"]
+	path = nn2poly
+	url = https://github.com/cran/nn2poly
 [submodule "nnGarrote"]
 	path = nnGarrote
 	url = https://github.com/cran/nnGarrote
