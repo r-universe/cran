@@ -37058,6 +37058,9 @@
 [submodule "kirby21.t1"]
 	path = kirby21.t1
 	url = https://github.com/cran/kirby21.t1
+[submodule "kisopenapi"]
+	path = kisopenapi
+	url = https://github.com/cran/kisopenapi
 [submodule "kissmig"]
 	path = kissmig
 	url = https://github.com/cran/kissmig
