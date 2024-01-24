@@ -19961,6 +19961,9 @@
 [submodule "bReeze"]
 	path = bReeze
 	url = https://github.com/cran/bReeze
+[submodule "bSi"]
+	path = bSi
+	url = https://github.com/cran/bSi
 [submodule "bSims"]
 	path = bSims
 	url = https://github.com/cran/bSims
@@ -22364,6 +22367,9 @@
 [submodule "causal.decomp"]
 	path = causal.decomp
 	url = https://github.com/cran/causal.decomp
+[submodule "causalBatch"]
+	path = causalBatch
+	url = https://github.com/cran/causalBatch
 [submodule "causalCmprsk"]
 	path = causalCmprsk
 	url = https://github.com/cran/causalCmprsk
@@ -37934,6 +37940,9 @@
 [submodule "lightgbm"]
 	path = lightgbm
 	url = https://github.com/cran/lightgbm
+[submodule "lightparser"]
+	path = lightparser
+	url = https://github.com/cran/lightparser
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/cran/lightr
@@ -57359,6 +57368,9 @@
 [submodule "tetrascatt"]
 	path = tetrascatt
 	url = https://github.com/cran/tetrascatt
+[submodule "texPreview"]
+	path = texPreview
+	url = https://github.com/cran/texPreview
 [submodule "texmex"]
 	path = texmex
 	url = https://github.com/cran/texmex
