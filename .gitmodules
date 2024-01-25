@@ -50186,9 +50186,6 @@
 [submodule "rgenoud"]
 	path = rgenoud
 	url = https://github.com/cran/rgenoud
-[submodule "rgeoboundaries"]
-	path = rgeoboundaries
-	url = https://github.com/cran/rgeoboundaries
 [submodule "rgeoda"]
 	path = rgeoda
 	url = https://github.com/cran/rgeoda
