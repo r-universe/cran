@@ -15224,6 +15224,9 @@
 [submodule "SNSequate"]
 	path = SNSequate
 	url = https://github.com/cran/SNSequate
+[submodule "SNVLFDR"]
+	path = SNVLFDR
+	url = https://github.com/cran/SNVLFDR
 [submodule "SOAR"]
 	path = SOAR
 	url = https://github.com/cran/SOAR
