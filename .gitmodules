@@ -59243,6 +59243,9 @@
 [submodule "uniformly"]
 	path = uniformly
 	url = https://github.com/cran/uniformly
+[submodule "unigd"]
+	path = unigd
+	url = https://github.com/cran/unigd
 [submodule "unikn"]
 	path = unikn
 	url = https://github.com/cran/unikn
