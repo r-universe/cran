@@ -941,6 +941,9 @@
 [submodule "BFF"]
 	path = BFF
 	url = https://github.com/cran/BFF
+[submodule "BFS"]
+	path = BFS
+	url = https://github.com/cran/BFS
 [submodule "BFpack"]
 	path = BFpack
 	url = https://github.com/cran/BFpack
@@ -3095,6 +3098,9 @@
 [submodule "CovCombR"]
 	path = CovCombR
 	url = https://github.com/cran/CovCombR
+[submodule "CovRegRF"]
+	path = CovRegRF
+	url = https://github.com/cran/CovRegRF
 [submodule "CovSel"]
 	path = CovSel
 	url = https://github.com/cran/CovSel
@@ -12128,6 +12134,9 @@
 [submodule "PwrGSD"]
 	path = PwrGSD
 	url = https://github.com/cran/PwrGSD
+[submodule "PxWebApiData"]
+	path = PxWebApiData
+	url = https://github.com/cran/PxWebApiData
 [submodule "Q2q"]
 	path = Q2q
 	url = https://github.com/cran/Q2q
@@ -12824,6 +12833,9 @@
 [submodule "RIFS"]
 	path = RIFS
 	url = https://github.com/cran/RIFS
+[submodule "RISCA"]
+	path = RISCA
+	url = https://github.com/cran/RISCA
 [submodule "RISmed"]
 	path = RISmed
 	url = https://github.com/cran/RISmed
@@ -31268,6 +31280,9 @@
 [submodule "g.ridge"]
 	path = g.ridge
 	url = https://github.com/cran/g.ridge
+[submodule "g3viz"]
+	path = g3viz
+	url = https://github.com/cran/g3viz
 [submodule "gCat"]
 	path = gCat
 	url = https://github.com/cran/gCat
@@ -34856,6 +34871,9 @@
 [submodule "httpcode"]
 	path = httpcode
 	url = https://github.com/cran/httpcode
+[submodule "httpgd"]
+	path = httpgd
+	url = https://github.com/cran/httpgd
 [submodule "httping"]
 	path = httping
 	url = https://github.com/cran/httping
@@ -41381,6 +41399,9 @@
 [submodule "mosaic"]
 	path = mosaic
 	url = https://github.com/cran/mosaic
+[submodule "mosaicCalc"]
+	path = mosaicCalc
+	url = https://github.com/cran/mosaicCalc
 [submodule "mosaicCore"]
 	path = mosaicCore
 	url = https://github.com/cran/mosaicCore
@@ -47678,6 +47699,9 @@
 [submodule "pxR"]
 	path = pxR
 	url = https://github.com/cran/pxR
+[submodule "pxweb"]
+	path = pxweb
+	url = https://github.com/cran/pxweb
 [submodule "pyMTurkR"]
 	path = pyMTurkR
 	url = https://github.com/cran/pyMTurkR
@@ -56561,6 +56585,9 @@
 [submodule "survivalROC"]
 	path = survivalROC
 	url = https://github.com/cran/survivalROC
+[submodule "survivalSL"]
+	path = survivalSL
+	url = https://github.com/cran/survivalSL
 [submodule "survivalmodels"]
 	path = survivalmodels
 	url = https://github.com/cran/survivalmodels
