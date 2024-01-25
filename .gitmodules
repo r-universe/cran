@@ -1388,9 +1388,6 @@
 [submodule "BayesPPD"]
 	path = BayesPPD
 	url = https://github.com/cran/BayesPPD
-[submodule "BayesPPDSurv"]
-	path = BayesPPDSurv
-	url = https://github.com/cran/BayesPPDSurv
 [submodule "BayesPieceHazSelect"]
 	path = BayesPieceHazSelect
 	url = https://github.com/cran/BayesPieceHazSelect
@@ -3503,9 +3500,6 @@
 [submodule "DLSSM"]
 	path = DLSSM
 	url = https://github.com/cran/DLSSM
-[submodule "DMCfun"]
-	path = DMCfun
-	url = https://github.com/cran/DMCfun
 [submodule "DMLLZU"]
 	path = DMLLZU
 	url = https://github.com/cran/DMLLZU
@@ -20504,12 +20498,6 @@
 [submodule "bdc"]
 	path = bdc
 	url = https://github.com/cran/bdc
-[submodule "bdchecks"]
-	path = bdchecks
-	url = https://github.com/cran/bdchecks
-[submodule "bdclean"]
-	path = bdclean
-	url = https://github.com/cran/bdclean
 [submodule "bde"]
 	path = bde
 	url = https://github.com/cran/bde
@@ -42293,9 +42281,6 @@
 [submodule "name"]
 	path = name
 	url = https://github.com/cran/name
-[submodule "namedCapture"]
-	path = namedCapture
-	url = https://github.com/cran/namedCapture
 [submodule "namedropR"]
 	path = namedropR
 	url = https://github.com/cran/namedropR
