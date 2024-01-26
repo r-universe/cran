@@ -45428,9 +45428,6 @@
 [submodule "perccalc"]
 	path = perccalc
 	url = https://github.com/cran/perccalc
-[submodule "perfectphyloR"]
-	path = perfectphyloR
-	url = https://github.com/cran/perfectphyloR
 [submodule "performance"]
 	path = performance
 	url = https://github.com/cran/performance
