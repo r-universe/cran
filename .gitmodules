@@ -383,9 +383,6 @@
 [submodule "AWR.Kinesis"]
 	path = AWR.Kinesis
 	url = https://github.com/cran/AWR.Kinesis
-[submodule "AZIAD"]
-	path = AZIAD
-	url = https://github.com/cran/AZIAD
 [submodule "AalenJohansen"]
 	path = AalenJohansen
 	url = https://github.com/cran/AalenJohansen
@@ -6659,9 +6656,6 @@
 [submodule "HH"]
 	path = HH
 	url = https://github.com/cran/HH
-[submodule "HHG"]
-	path = HHG
-	url = https://github.com/cran/HHG
 [submodule "HIMA"]
 	path = HIMA
 	url = https://github.com/cran/HIMA
@@ -9692,9 +9686,6 @@
 [submodule "MittagLeffleR"]
 	path = MittagLeffleR
 	url = https://github.com/cran/MittagLeffleR
-[submodule "MixAll"]
-	path = MixAll
-	url = https://github.com/cran/MixAll
 [submodule "MixGHD"]
 	path = MixGHD
 	url = https://github.com/cran/MixGHD
@@ -17660,6 +17651,9 @@
 [submodule "Vdgraph"]
 	path = Vdgraph
 	url = https://github.com/cran/Vdgraph
+[submodule "VeccTMVN"]
+	path = VeccTMVN
+	url = https://github.com/cran/VeccTMVN
 [submodule "VectorCodeR"]
 	path = VectorCodeR
 	url = https://github.com/cran/VectorCodeR
@@ -35717,6 +35711,9 @@
 [submodule "index0"]
 	path = index0
 	url = https://github.com/cran/index0
+[submodule "indexthis"]
+	path = indexthis
+	url = https://github.com/cran/indexthis
 [submodule "india"]
 	path = india
 	url = https://github.com/cran/india
@@ -52133,6 +52130,9 @@
 [submodule "sarima"]
 	path = sarima
 	url = https://github.com/cran/sarima
+[submodule "saros"]
+	path = saros
+	url = https://github.com/cran/saros
 [submodule "sarp.snowprofile"]
 	path = sarp.snowprofile
 	url = https://github.com/cran/sarp.snowprofile
@@ -52598,9 +52598,6 @@
 [submodule "sdcLog"]
 	path = sdcLog
 	url = https://github.com/cran/sdcLog
-[submodule "sdcMicro"]
-	path = sdcMicro
-	url = https://github.com/cran/sdcMicro
 [submodule "sdcSpatial"]
 	path = sdcSpatial
 	url = https://github.com/cran/sdcSpatial
