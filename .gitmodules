@@ -13406,9 +13406,6 @@
 [submodule "RSiena"]
 	path = RSiena
 	url = https://github.com/cran/RSiena
-[submodule "RSiteCatalyst"]
-	path = RSiteCatalyst
-	url = https://github.com/cran/RSiteCatalyst
 [submodule "RSizeBiased"]
 	path = RSizeBiased
 	url = https://github.com/cran/RSizeBiased
