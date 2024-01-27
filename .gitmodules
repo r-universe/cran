@@ -21158,6 +21158,9 @@
 [submodule "bisectr"]
 	path = bisectr
 	url = https://github.com/cran/bisectr
+[submodule "bispdep"]
+	path = bispdep
+	url = https://github.com/cran/bispdep
 [submodule "bisque"]
 	path = bisque
 	url = https://github.com/cran/bisque
