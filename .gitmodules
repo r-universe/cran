@@ -383,6 +383,9 @@
 [submodule "AWR.Kinesis"]
 	path = AWR.Kinesis
 	url = https://github.com/cran/AWR.Kinesis
+[submodule "AZIAD"]
+	path = AZIAD
+	url = https://github.com/cran/AZIAD
 [submodule "AalenJohansen"]
 	path = AalenJohansen
 	url = https://github.com/cran/AalenJohansen
@@ -6656,6 +6659,9 @@
 [submodule "HH"]
 	path = HH
 	url = https://github.com/cran/HH
+[submodule "HHG"]
+	path = HHG
+	url = https://github.com/cran/HHG
 [submodule "HIMA"]
 	path = HIMA
 	url = https://github.com/cran/HIMA
@@ -9686,6 +9692,9 @@
 [submodule "MittagLeffleR"]
 	path = MittagLeffleR
 	url = https://github.com/cran/MittagLeffleR
+[submodule "MixAll"]
+	path = MixAll
+	url = https://github.com/cran/MixAll
 [submodule "MixGHD"]
 	path = MixGHD
 	url = https://github.com/cran/MixGHD
@@ -45407,6 +45416,9 @@
 [submodule "perccalc"]
 	path = perccalc
 	url = https://github.com/cran/perccalc
+[submodule "perfectphyloR"]
+	path = perfectphyloR
+	url = https://github.com/cran/perfectphyloR
 [submodule "performance"]
 	path = performance
 	url = https://github.com/cran/performance
@@ -52571,6 +52583,9 @@
 [submodule "sdcLog"]
 	path = sdcLog
 	url = https://github.com/cran/sdcLog
+[submodule "sdcMicro"]
+	path = sdcMicro
+	url = https://github.com/cran/sdcMicro
 [submodule "sdcSpatial"]
 	path = sdcSpatial
 	url = https://github.com/cran/sdcSpatial
