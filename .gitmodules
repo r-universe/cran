@@ -557,6 +557,9 @@
 [submodule "Anaconda"]
 	path = Anaconda
 	url = https://github.com/cran/Anaconda
+[submodule "AnalysisLin"]
+	path = AnalysisLin
+	url = https://github.com/cran/AnalysisLin
 [submodule "AnanseSeurat"]
 	path = AnanseSeurat
 	url = https://github.com/cran/AnanseSeurat
@@ -38726,6 +38729,9 @@
 [submodule "ltxsparklines"]
 	path = ltxsparklines
 	url = https://github.com/cran/ltxsparklines
+[submodule "luajr"]
+	path = luajr
+	url = https://github.com/cran/luajr
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/cran/lubridate
