@@ -19643,6 +19643,9 @@
 [submodule "assertthat"]
 	path = assertthat
 	url = https://github.com/cran/assertthat
+[submodule "assessor"]
+	path = assessor
+	url = https://github.com/cran/assessor
 [submodule "assignPOP"]
 	path = assignPOP
 	url = https://github.com/cran/assignPOP
