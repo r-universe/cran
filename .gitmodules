@@ -5240,9 +5240,6 @@
 [submodule "FWRGB"]
 	path = FWRGB
 	url = https://github.com/cran/FWRGB
-[submodule "FactoClass"]
-	path = FactoClass
-	url = https://github.com/cran/FactoClass
 [submodule "FactoInvestigate"]
 	path = FactoInvestigate
 	url = https://github.com/cran/FactoInvestigate
@@ -26591,9 +26588,6 @@
 [submodule "diffusionMap"]
 	path = diffusionMap
 	url = https://github.com/cran/diffusionMap
-[submodule "diffusr"]
-	path = diffusr
-	url = https://github.com/cran/diffusr
 [submodule "diffval"]
 	path = diffval
 	url = https://github.com/cran/diffval
@@ -47822,9 +47816,6 @@
 [submodule "qgtools"]
 	path = qgtools
 	url = https://github.com/cran/qgtools
-[submodule "qha"]
-	path = qha
-	url = https://github.com/cran/qha
 [submodule "qicharts"]
 	path = qicharts
 	url = https://github.com/cran/qicharts
@@ -47840,9 +47831,6 @@
 [submodule "qkerntool"]
 	path = qkerntool
 	url = https://github.com/cran/qkerntool
-[submodule "qlcMatrix"]
-	path = qlcMatrix
-	url = https://github.com/cran/qlcMatrix
 [submodule "qlcal"]
 	path = qlcal
 	url = https://github.com/cran/qlcal
