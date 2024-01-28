@@ -28685,6 +28685,9 @@
 [submodule "epubr"]
 	path = epubr
 	url = https://github.com/cran/epubr
+[submodule "epwshiftr"]
+	path = epwshiftr
+	url = https://github.com/cran/epwshiftr
 [submodule "epxToR"]
 	path = epxToR
 	url = https://github.com/cran/epxToR
