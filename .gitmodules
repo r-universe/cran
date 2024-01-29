@@ -61220,6 +61220,9 @@
 [submodule "zetadiv"]
 	path = zetadiv
 	url = https://github.com/cran/zetadiv
+[submodule "zfa"]
+	path = zfa
+	url = https://github.com/cran/zfa
 [submodule "zfit"]
 	path = zfit
 	url = https://github.com/cran/zfit
