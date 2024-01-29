@@ -50957,6 +50957,9 @@
 [submodule "roll"]
 	path = roll
 	url = https://github.com/cran/roll
+[submodule "rollama"]
+	path = rollama
+	url = https://github.com/cran/rollama
 [submodule "rollbar"]
 	path = rollbar
 	url = https://github.com/cran/rollbar
