@@ -22616,9 +22616,6 @@
 [submodule "censorcopula"]
 	path = censorcopula
 	url = https://github.com/cran/censorcopula
-[submodule "censored"]
-	path = censored
-	url = https://github.com/cran/censored
 [submodule "censusapi"]
 	path = censusapi
 	url = https://github.com/cran/censusapi
