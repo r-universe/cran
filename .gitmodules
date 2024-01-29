@@ -19313,6 +19313,9 @@
 [submodule "aprof"]
 	path = aprof
 	url = https://github.com/cran/aprof
+[submodule "apsimx"]
+	path = apsimx
+	url = https://github.com/cran/apsimx
 [submodule "apt"]
 	path = apt
 	url = https://github.com/cran/apt
@@ -30494,6 +30497,9 @@
 [submodule "flps"]
 	path = flps
 	url = https://github.com/cran/flps
+[submodule "flsa"]
+	path = flsa
+	url = https://github.com/cran/flsa
 [submodule "fluoSurv"]
 	path = fluoSurv
 	url = https://github.com/cran/fluoSurv
@@ -33512,6 +33518,9 @@
 [submodule "graphql"]
 	path = graphql
 	url = https://github.com/cran/graphql
+[submodule "graphseg"]
+	path = graphseg
+	url = https://github.com/cran/graphseg
 [submodule "graphsim"]
 	path = graphsim
 	url = https://github.com/cran/graphsim
@@ -35636,6 +35645,9 @@
 [submodule "imputeTestbench"]
 	path = imputeTestbench
 	url = https://github.com/cran/imputeTestbench
+[submodule "imputeYn"]
+	path = imputeYn
+	url = https://github.com/cran/imputeYn
 [submodule "imsig"]
 	path = imsig
 	url = https://github.com/cran/imsig
@@ -36473,6 +36485,9 @@
 [submodule "jackalope"]
 	path = jackalope
 	url = https://github.com/cran/jackalope
+[submodule "jackknifeKME"]
+	path = jackknifeKME
+	url = https://github.com/cran/jackknifeKME
 [submodule "jackknifeR"]
 	path = jackknifeR
 	url = https://github.com/cran/jackknifeR
@@ -45335,6 +45350,9 @@
 [submodule "penalized"]
 	path = penalized
 	url = https://github.com/cran/penalized
+[submodule "penalizedLDA"]
+	path = penalizedLDA
+	url = https://github.com/cran/penalizedLDA
 [submodule "penalizedSVM"]
 	path = penalizedSVM
 	url = https://github.com/cran/penalizedSVM
@@ -50297,6 +50315,9 @@
 [submodule "riceware"]
 	path = riceware
 	url = https://github.com/cran/riceware
+[submodule "rich"]
+	path = rich
+	url = https://github.com/cran/rich
 [submodule "ricu"]
 	path = ricu
 	url = https://github.com/cran/ricu
