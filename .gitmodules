@@ -19574,6 +19574,9 @@
 [submodule "ash"]
 	path = ash
 	url = https://github.com/cran/ash
+[submodule "ashapesampler"]
+	path = ashapesampler
+	url = https://github.com/cran/ashapesampler
 [submodule "ashr"]
 	path = ashr
 	url = https://github.com/cran/ashr
