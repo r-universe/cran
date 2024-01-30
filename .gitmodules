@@ -27242,9 +27242,6 @@
 [submodule "dracor"]
 	path = dracor
 	url = https://github.com/cran/dracor
-[submodule "dragon"]
-	path = dragon
-	url = https://github.com/cran/dragon
 [submodule "dragonking"]
 	path = dragonking
 	url = https://github.com/cran/dragonking
