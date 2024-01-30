@@ -33791,9 +33791,6 @@
 [submodule "gscounts"]
 	path = gscounts
 	url = https://github.com/cran/gscounts
-[submodule "gsdensity"]
-	path = gsdensity
-	url = https://github.com/cran/gsdensity
 [submodule "gsheet"]
 	path = gsheet
 	url = https://github.com/cran/gsheet
@@ -53147,9 +53144,6 @@
 [submodule "sgat"]
 	path = sgat
 	url = https://github.com/cran/sgat
-[submodule "sgd"]
-	path = sgd
-	url = https://github.com/cran/sgd
 [submodule "sgee"]
 	path = sgee
 	url = https://github.com/cran/sgee
