@@ -4691,6 +4691,9 @@
 [submodule "EnviroPRA"]
 	path = EnviroPRA
 	url = https://github.com/cran/EnviroPRA
+[submodule "EnviroPRA2"]
+	path = EnviroPRA2
+	url = https://github.com/cran/EnviroPRA2
 [submodule "Epi"]
 	path = Epi
 	url = https://github.com/cran/Epi
