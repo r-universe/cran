@@ -27014,9 +27014,6 @@
 [submodule "dndR"]
 	path = dndR
 	url = https://github.com/cran/dndR
-[submodule "dnet"]
-	path = dnet
-	url = https://github.com/cran/dnet
 [submodule "dng"]
 	path = dng
 	url = https://github.com/cran/dng
@@ -49256,9 +49253,6 @@
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/cran/rdryad
-[submodule "rdss"]
-	path = rdss
-	url = https://github.com/cran/rdss
 [submodule "rdtLite"]
 	path = rdtLite
 	url = https://github.com/cran/rdtLite
