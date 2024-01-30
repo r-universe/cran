@@ -28772,6 +28772,9 @@
 [submodule "erify"]
 	path = erify
 	url = https://github.com/cran/erify
+[submodule "ern"]
+	path = ern
+	url = https://github.com/cran/ern
 [submodule "erp.easy"]
 	path = erp.easy
 	url = https://github.com/cran/erp.easy
