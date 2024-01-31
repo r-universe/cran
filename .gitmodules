@@ -6308,9 +6308,6 @@
 [submodule "GenoTriplo"]
 	path = GenoTriplo
 	url = https://github.com/cran/GenoTriplo
-[submodule "GenomeAdapt"]
-	path = GenomeAdapt
-	url = https://github.com/cran/GenomeAdapt
 [submodule "GenomeAdmixR"]
 	path = GenomeAdmixR
 	url = https://github.com/cran/GenomeAdmixR
@@ -20156,9 +20153,6 @@
 [submodule "base64url"]
 	path = base64url
 	url = https://github.com/cran/base64url
-[submodule "baseballDBR"]
-	path = baseballDBR
-	url = https://github.com/cran/baseballDBR
 [submodule "baseballr"]
 	path = baseballr
 	url = https://github.com/cran/baseballr
