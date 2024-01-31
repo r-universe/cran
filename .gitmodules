@@ -27014,6 +27014,9 @@
 [submodule "dndR"]
 	path = dndR
 	url = https://github.com/cran/dndR
+[submodule "dnet"]
+	path = dnet
+	url = https://github.com/cran/dnet
 [submodule "dng"]
 	path = dng
 	url = https://github.com/cran/dng
@@ -33788,6 +33791,9 @@
 [submodule "gscounts"]
 	path = gscounts
 	url = https://github.com/cran/gscounts
+[submodule "gsdensity"]
+	path = gsdensity
+	url = https://github.com/cran/gsdensity
 [submodule "gsheet"]
 	path = gsheet
 	url = https://github.com/cran/gsheet
@@ -49247,6 +49253,9 @@
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/cran/rdryad
+[submodule "rdss"]
+	path = rdss
+	url = https://github.com/cran/rdss
 [submodule "rdtLite"]
 	path = rdtLite
 	url = https://github.com/cran/rdtLite
@@ -53141,6 +53150,9 @@
 [submodule "sgat"]
 	path = sgat
 	url = https://github.com/cran/sgat
+[submodule "sgd"]
+	path = sgd
+	url = https://github.com/cran/sgd
 [submodule "sgee"]
 	path = sgee
 	url = https://github.com/cran/sgee
