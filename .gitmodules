@@ -5243,6 +5243,9 @@
 [submodule "FWRGB"]
 	path = FWRGB
 	url = https://github.com/cran/FWRGB
+[submodule "FactoClass"]
+	path = FactoClass
+	url = https://github.com/cran/FactoClass
 [submodule "FactoInvestigate"]
 	path = FactoInvestigate
 	url = https://github.com/cran/FactoInvestigate
@@ -22004,6 +22007,9 @@
 [submodule "cSEM"]
 	path = cSEM
 	url = https://github.com/cran/cSEM
+[submodule "cTOST"]
+	path = cTOST
+	url = https://github.com/cran/cTOST
 [submodule "ca"]
 	path = ca
 	url = https://github.com/cran/ca
@@ -29723,6 +29729,9 @@
 [submodule "fastglm"]
 	path = fastglm
 	url = https://github.com/cran/fastglm
+[submodule "fastglmpca"]
+	path = fastglmpca
+	url = https://github.com/cran/fastglmpca
 [submodule "fastkmedoids"]
 	path = fastkmedoids
 	url = https://github.com/cran/fastkmedoids
@@ -38927,6 +38936,9 @@
 [submodule "magicLamp"]
 	path = magicLamp
 	url = https://github.com/cran/magicLamp
+[submodule "magicaxis"]
+	path = magicaxis
+	url = https://github.com/cran/magicaxis
 [submodule "magicfor"]
 	path = magicfor
 	url = https://github.com/cran/magicfor
@@ -41168,6 +41180,9 @@
 [submodule "modelenv"]
 	path = modelenv
 	url = https://github.com/cran/modelenv
+[submodule "modelfactory"]
+	path = modelfactory
+	url = https://github.com/cran/modelfactory
 [submodule "modelfree"]
 	path = modelfree
 	url = https://github.com/cran/modelfree
@@ -56156,6 +56171,9 @@
 [submodule "stressaddition"]
 	path = stressaddition
 	url = https://github.com/cran/stressaddition
+[submodule "stressor"]
+	path = stressor
+	url = https://github.com/cran/stressor
 [submodule "stressr"]
 	path = stressr
 	url = https://github.com/cran/stressr
@@ -57176,6 +57194,9 @@
 [submodule "teal.code"]
 	path = teal.code
 	url = https://github.com/cran/teal.code
+[submodule "teal.data"]
+	path = teal.data
+	url = https://github.com/cran/teal.data
 [submodule "teal.logger"]
 	path = teal.logger
 	url = https://github.com/cran/teal.logger
@@ -59903,6 +59924,9 @@
 [submodule "virtuoso"]
 	path = virtuoso
 	url = https://github.com/cran/virtuoso
+[submodule "viruslearner"]
+	path = viruslearner
+	url = https://github.com/cran/viruslearner
 [submodule "virustotal"]
 	path = virustotal
 	url = https://github.com/cran/virustotal
@@ -61289,6 +61313,9 @@
 [submodule "zoomGroupStats"]
 	path = zoomGroupStats
 	url = https://github.com/cran/zoomGroupStats
+[submodule "zoomerjoin"]
+	path = zoomerjoin
+	url = https://github.com/cran/zoomerjoin
 [submodule "zoomr"]
 	path = zoomr
 	url = https://github.com/cran/zoomr
