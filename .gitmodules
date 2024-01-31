@@ -16664,6 +16664,9 @@
 [submodule "TFMPvalue"]
 	path = TFMPvalue
 	url = https://github.com/cran/TFMPvalue
+[submodule "TFRE"]
+	path = TFRE
+	url = https://github.com/cran/TFRE
 [submodule "TFactSR"]
 	path = TFactSR
 	url = https://github.com/cran/TFactSR
@@ -19238,6 +19241,9 @@
 [submodule "apercu"]
 	path = apercu
 	url = https://github.com/cran/apercu
+[submodule "apex"]
+	path = apex
+	url = https://github.com/cran/apex
 [submodule "apexcharter"]
 	path = apexcharter
 	url = https://github.com/cran/apexcharter
@@ -22208,6 +22214,9 @@
 [submodule "carbonate"]
 	path = carbonate
 	url = https://github.com/cran/carbonate
+[submodule "carbondate"]
+	path = carbondate
+	url = https://github.com/cran/carbondate
 [submodule "carcass"]
 	path = carcass
 	url = https://github.com/cran/carcass
@@ -36311,6 +36320,9 @@
 [submodule "isocir"]
 	path = isocir
 	url = https://github.com/cran/isocir
+[submodule "isocountry"]
+	path = isocountry
+	url = https://github.com/cran/isocountry
 [submodule "isodistrreg"]
 	path = isodistrreg
 	url = https://github.com/cran/isodistrreg
