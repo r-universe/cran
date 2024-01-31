@@ -57740,9 +57740,6 @@
 [submodule "tidyestimate"]
 	path = tidyestimate
 	url = https://github.com/cran/tidyestimate
-[submodule "tidyfast"]
-	path = tidyfast
-	url = https://github.com/cran/tidyfast
 [submodule "tidyfit"]
 	path = tidyfit
 	url = https://github.com/cran/tidyfit
