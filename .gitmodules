@@ -10511,6 +10511,9 @@
 [submodule "NoviceDeveloperResources"]
 	path = NoviceDeveloperResources
 	url = https://github.com/cran/NoviceDeveloperResources
+[submodule "NoviceDeveloperResources2"]
+	path = NoviceDeveloperResources2
+	url = https://github.com/cran/NoviceDeveloperResources2
 [submodule "Nozzle.R1"]
 	path = Nozzle.R1
 	url = https://github.com/cran/Nozzle.R1
@@ -15098,6 +15101,9 @@
 [submodule "SKAT"]
 	path = SKAT
 	url = https://github.com/cran/SKAT
+[submodule "SKFCPD"]
+	path = SKFCPD
+	url = https://github.com/cran/SKFCPD
 [submodule "SKNN"]
 	path = SKNN
 	url = https://github.com/cran/SKNN
@@ -17054,6 +17060,9 @@
 [submodule "TestGardener"]
 	path = TestGardener
 	url = https://github.com/cran/TestGardener
+[submodule "TestGenerator"]
+	path = TestGenerator
+	url = https://github.com/cran/TestGenerator
 [submodule "TestScorer"]
 	path = TestScorer
 	url = https://github.com/cran/TestScorer
@@ -22877,6 +22886,9 @@
 [submodule "chest"]
 	path = chest
 	url = https://github.com/cran/chest
+[submodule "chevron"]
+	path = chevron
+	url = https://github.com/cran/chevron
 [submodule "chi"]
 	path = chi
 	url = https://github.com/cran/chi
@@ -29153,6 +29165,9 @@
 [submodule "exceedProb"]
 	path = exceedProb
 	url = https://github.com/cran/exceedProb
+[submodule "excel2eprime"]
+	path = excel2eprime
+	url = https://github.com/cran/excel2eprime
 [submodule "excelR"]
 	path = excelR
 	url = https://github.com/cran/excelR
@@ -36932,6 +36947,9 @@
 [submodule "kdry"]
 	path = kdry
 	url = https://github.com/cran/kdry
+[submodule "kedd"]
+	path = kedd
+	url = https://github.com/cran/kedd
 [submodule "keep"]
 	path = keep
 	url = https://github.com/cran/keep
@@ -49019,6 +49037,9 @@
 [submodule "rbart"]
 	path = rbart
 	url = https://github.com/cran/rbart
+[submodule "rbbnp"]
+	path = rbbnp
+	url = https://github.com/cran/rbbnp
 [submodule "rbcb"]
 	path = rbcb
 	url = https://github.com/cran/rbcb
