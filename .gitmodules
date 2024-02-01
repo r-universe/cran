@@ -16457,6 +16457,9 @@
 [submodule "Surrogate"]
 	path = Surrogate
 	url = https://github.com/cran/Surrogate
+[submodule "SurrogateBMA"]
+	path = SurrogateBMA
+	url = https://github.com/cran/SurrogateBMA
 [submodule "SurrogateOutcome"]
 	path = SurrogateOutcome
 	url = https://github.com/cran/SurrogateOutcome
@@ -37127,6 +37130,9 @@
 [submodule "klic"]
 	path = klic
 	url = https://github.com/cran/klic
+[submodule "klovan"]
+	path = klovan
+	url = https://github.com/cran/klovan
 [submodule "klsh"]
 	path = klsh
 	url = https://github.com/cran/klsh
