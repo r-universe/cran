@@ -56318,9 +56318,6 @@
 [submodule "subspace"]
 	path = subspace
 	url = https://github.com/cran/subspace
-[submodule "subtee"]
-	path = subtee
-	url = https://github.com/cran/subtee
 [submodule "success"]
 	path = success
 	url = https://github.com/cran/success
