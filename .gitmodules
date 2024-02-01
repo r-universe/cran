@@ -27749,6 +27749,9 @@
 [submodule "easyDes"]
 	path = easyDes
 	url = https://github.com/cran/easyDes
+[submodule "easyDifferentialGeneCoexpression"]
+	path = easyDifferentialGeneCoexpression
+	url = https://github.com/cran/easyDifferentialGeneCoexpression
 [submodule "easyNCDF"]
 	path = easyNCDF
 	url = https://github.com/cran/easyNCDF
@@ -38750,6 +38753,9 @@
 [submodule "ltxsparklines"]
 	path = ltxsparklines
 	url = https://github.com/cran/ltxsparklines
+[submodule "luajr"]
+	path = luajr
+	url = https://github.com/cran/luajr
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/cran/lubridate
@@ -57773,6 +57779,9 @@
 [submodule "tidyestimate"]
 	path = tidyestimate
 	url = https://github.com/cran/tidyestimate
+[submodule "tidyfast"]
+	path = tidyfast
+	url = https://github.com/cran/tidyfast
 [submodule "tidyfit"]
 	path = tidyfit
 	url = https://github.com/cran/tidyfit
