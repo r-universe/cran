@@ -28511,6 +28511,9 @@
 [submodule "ensemblepp"]
 	path = ensemblepp
 	url = https://github.com/cran/ensemblepp
+[submodule "enshuman"]
+	path = enshuman
+	url = https://github.com/cran/enshuman
 [submodule "ensr"]
 	path = ensr
 	url = https://github.com/cran/ensr
@@ -56090,6 +56093,9 @@
 [submodule "stocks"]
 	path = stocks
 	url = https://github.com/cran/stocks
+[submodule "stodom"]
+	path = stodom
+	url = https://github.com/cran/stodom
 [submodule "stoichcalc"]
 	path = stoichcalc
 	url = https://github.com/cran/stoichcalc
