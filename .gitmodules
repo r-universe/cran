@@ -46196,6 +46196,9 @@
 [submodule "plot3logit"]
 	path = plot3logit
 	url = https://github.com/cran/plot3logit
+[submodule "plot4fun"]
+	path = plot4fun
+	url = https://github.com/cran/plot4fun
 [submodule "plotBart"]
 	path = plotBart
 	url = https://github.com/cran/plotBart
@@ -46979,6 +46982,9 @@
 [submodule "predtoolsTS"]
 	path = predtoolsTS
 	url = https://github.com/cran/predtoolsTS
+[submodule "pref"]
+	path = pref
+	url = https://github.com/cran/pref
 [submodule "prefeR"]
 	path = prefeR
 	url = https://github.com/cran/prefeR
