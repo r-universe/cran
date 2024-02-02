@@ -6545,6 +6545,9 @@
 [submodule "HBV.IANIGLA"]
 	path = HBV.IANIGLA
 	url = https://github.com/cran/HBV.IANIGLA
+[submodule "HCD"]
+	path = HCD
+	url = https://github.com/cran/HCD
 [submodule "HCR"]
 	path = HCR
 	url = https://github.com/cran/HCR
@@ -31733,6 +31736,9 @@
 [submodule "gear"]
 	path = gear
 	url = https://github.com/cran/gear
+[submodule "geboes.score"]
+	path = geboes.score
+	url = https://github.com/cran/geboes.score
 [submodule "gecko"]
 	path = gecko
 	url = https://github.com/cran/gecko
@@ -32408,6 +32414,9 @@
 [submodule "ggfacto"]
 	path = ggfacto
 	url = https://github.com/cran/ggfacto
+[submodule "ggfields"]
+	path = ggfields
+	url = https://github.com/cran/ggfields
 [submodule "ggfittext"]
 	path = ggfittext
 	url = https://github.com/cran/ggfittext
@@ -33389,6 +33398,9 @@
 [submodule "gower"]
 	path = gower
 	url = https://github.com/cran/gower
+[submodule "goweragreement"]
+	path = goweragreement
+	url = https://github.com/cran/goweragreement
 [submodule "goxygen"]
 	path = goxygen
 	url = https://github.com/cran/goxygen
@@ -42863,6 +42875,9 @@
 [submodule "nhm"]
 	path = nhm
 	url = https://github.com/cran/nhm
+[submodule "nhppp"]
+	path = nhppp
+	url = https://github.com/cran/nhppp
 [submodule "nhs.predict"]
 	path = nhs.predict
 	url = https://github.com/cran/nhs.predict
@@ -49268,6 +49283,9 @@
 [submodule "rdecision"]
 	path = rdecision
 	url = https://github.com/cran/rdecision
+[submodule "rdeps"]
+	path = rdeps
+	url = https://github.com/cran/rdeps
 [submodule "rdflib"]
 	path = rdflib
 	url = https://github.com/cran/rdflib
@@ -49337,6 +49355,9 @@
 [submodule "reReg"]
 	path = reReg
 	url = https://github.com/cran/reReg
+[submodule "react"]
+	path = react
+	url = https://github.com/cran/react
 [submodule "reactCheckbox"]
 	path = reactCheckbox
 	url = https://github.com/cran/reactCheckbox
@@ -50024,6 +50045,9 @@
 [submodule "reslr"]
 	path = reslr
 	url = https://github.com/cran/reslr
+[submodule "resmush"]
+	path = resmush
+	url = https://github.com/cran/resmush
 [submodule "resourcer"]
 	path = resourcer
 	url = https://github.com/cran/resourcer
@@ -61025,6 +61049,9 @@
 [submodule "xefun"]
 	path = xefun
 	url = https://github.com/cran/xefun
+[submodule "xegaSelectGene"]
+	path = xegaSelectGene
+	url = https://github.com/cran/xegaSelectGene
 [submodule "xergm.common"]
 	path = xergm.common
 	url = https://github.com/cran/xergm.common
