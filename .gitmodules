@@ -33749,6 +33749,9 @@
 [submodule "growthPheno"]
 	path = growthPheno
 	url = https://github.com/cran/growthPheno
+[submodule "growthcleanr"]
+	path = growthcleanr
+	url = https://github.com/cran/growthcleanr
 [submodule "growthcurver"]
 	path = growthcurver
 	url = https://github.com/cran/growthcurver
@@ -56342,6 +56345,9 @@
 [submodule "subspace"]
 	path = subspace
 	url = https://github.com/cran/subspace
+[submodule "subtee"]
+	path = subtee
+	url = https://github.com/cran/subtee
 [submodule "success"]
 	path = success
 	url = https://github.com/cran/success
@@ -57161,6 +57167,9 @@
 [submodule "tbm"]
 	path = tbm
 	url = https://github.com/cran/tbm
+[submodule "tbma"]
+	path = tbma
+	url = https://github.com/cran/tbma
 [submodule "tboot"]
 	path = tboot
 	url = https://github.com/cran/tboot
