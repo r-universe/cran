@@ -9416,9 +9416,6 @@
 [submodule "MatSkew"]
 	path = MatSkew
 	url = https://github.com/cran/MatSkew
-[submodule "MatTransMix"]
-	path = MatTransMix
-	url = https://github.com/cran/MatTransMix
 [submodule "MatchIt"]
 	path = MatchIt
 	url = https://github.com/cran/MatchIt
@@ -34499,9 +34496,6 @@
 [submodule "hht"]
 	path = hht
 	url = https://github.com/cran/hht
-[submodule "hibayes"]
-	path = hibayes
-	url = https://github.com/cran/hibayes
 [submodule "hiddenf"]
 	path = hiddenf
 	url = https://github.com/cran/hiddenf
