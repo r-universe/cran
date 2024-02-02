@@ -57047,6 +57047,9 @@
 [submodule "tactile"]
 	path = tactile
 	url = https://github.com/cran/tactile
+[submodule "tada"]
+	path = tada
+	url = https://github.com/cran/tada
 [submodule "tagcloud"]
 	path = tagcloud
 	url = https://github.com/cran/tagcloud
