@@ -15527,6 +15527,9 @@
 [submodule "SWMPrExtension"]
 	path = SWMPrExtension
 	url = https://github.com/cran/SWMPrExtension
+[submodule "SWTools"]
+	path = SWTools
+	url = https://github.com/cran/SWTools
 [submodule "SYNCSA"]
 	path = SYNCSA
 	url = https://github.com/cran/SYNCSA
