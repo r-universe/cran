@@ -11000,6 +11000,9 @@
 [submodule "PCFAM"]
 	path = PCFAM
 	url = https://github.com/cran/PCFAM
+[submodule "PCGII"]
+	path = PCGII
+	url = https://github.com/cran/PCGII
 [submodule "PCGSE"]
 	path = PCGSE
 	url = https://github.com/cran/PCGSE
@@ -12701,6 +12704,9 @@
 [submodule "REddyProcNCDF"]
 	path = REddyProcNCDF
 	url = https://github.com/cran/REddyProcNCDF
+[submodule "REffectivePred"]
+	path = REffectivePred
+	url = https://github.com/cran/REffectivePred
 [submodule "REndo"]
 	path = REndo
 	url = https://github.com/cran/REndo
@@ -40154,6 +40160,9 @@
 [submodule "metrica"]
 	path = metrica
 	url = https://github.com/cran/metrica
+[submodule "metricminer"]
+	path = metricminer
+	url = https://github.com/cran/metricminer
 [submodule "metricsgraphics"]
 	path = metricsgraphics
 	url = https://github.com/cran/metricsgraphics
