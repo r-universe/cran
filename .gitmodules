@@ -20834,9 +20834,6 @@
 [submodule "bigQF"]
 	path = bigQF
 	url = https://github.com/cran/bigQF
-[submodule "bigQueryR"]
-	path = bigQueryR
-	url = https://github.com/cran/bigQueryR
 [submodule "bigReg"]
 	path = bigReg
 	url = https://github.com/cran/bigReg
