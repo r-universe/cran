@@ -38072,9 +38072,6 @@
 [submodule "lindia"]
 	path = lindia
 	url = https://github.com/cran/lindia
-[submodule "linea"]
-	path = linea
-	url = https://github.com/cran/linea
 [submodule "linearModel"]
 	path = linearModel
 	url = https://github.com/cran/linearModel
