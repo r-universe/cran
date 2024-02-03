@@ -32093,6 +32093,9 @@
 [submodule "georefdatar"]
 	path = georefdatar
 	url = https://github.com/cran/georefdatar
+[submodule "georob"]
+	path = georob
+	url = https://github.com/cran/georob
 [submodule "geos"]
 	path = geos
 	url = https://github.com/cran/geos
@@ -39512,6 +39515,9 @@
 [submodule "mbRes"]
 	path = mbRes
 	url = https://github.com/cran/mbRes
+[submodule "mbbe"]
+	path = mbbe
+	url = https://github.com/cran/mbbe
 [submodule "mbbefd"]
 	path = mbbefd
 	url = https://github.com/cran/mbbefd
