@@ -51404,6 +51404,9 @@
 [submodule "rsample"]
 	path = rsample
 	url = https://github.com/cran/rsample
+[submodule "rsat"]
+	path = rsat
+	url = https://github.com/cran/rsat
 [submodule "rsatscan"]
 	path = rsatscan
 	url = https://github.com/cran/rsatscan
