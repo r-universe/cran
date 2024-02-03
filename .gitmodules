@@ -10769,6 +10769,9 @@
 [submodule "OneR"]
 	path = OneR
 	url = https://github.com/cran/OneR
+[submodule "OneSampleLogRankTest"]
+	path = OneSampleLogRankTest
+	url = https://github.com/cran/OneSampleLogRankTest
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/cran/OneSampleMR
@@ -12797,6 +12800,9 @@
 [submodule "RGoogleFit"]
 	path = RGoogleFit
 	url = https://github.com/cran/RGoogleFit
+[submodule "RGraphSpace"]
+	path = RGraphSpace
+	url = https://github.com/cran/RGraphSpace
 [submodule "RGraphics"]
 	path = RGraphics
 	url = https://github.com/cran/RGraphics
@@ -16427,6 +16433,9 @@
 [submodule "SubVis"]
 	path = SubVis
 	url = https://github.com/cran/SubVis
+[submodule "SubgrpID"]
+	path = SubgrpID
+	url = https://github.com/cran/SubgrpID
 [submodule "SubpathwayLNCE"]
 	path = SubpathwayLNCE
 	url = https://github.com/cran/SubpathwayLNCE
@@ -53183,6 +53192,9 @@
 [submodule "settings"]
 	path = settings
 	url = https://github.com/cran/settings
+[submodule "sevenbridges2"]
+	path = sevenbridges2
+	url = https://github.com/cran/sevenbridges2
 [submodule "sever"]
 	path = sever
 	url = https://github.com/cran/sever
