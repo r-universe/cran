@@ -10763,6 +10763,9 @@
 [submodule "Oncotree"]
 	path = Oncotree
 	url = https://github.com/cran/Oncotree
+[submodule "One4All"]
+	path = One4All
+	url = https://github.com/cran/One4All
 [submodule "OneArm2stage"]
 	path = OneArm2stage
 	url = https://github.com/cran/OneArm2stage
@@ -34535,6 +34538,9 @@
 [submodule "hibayes"]
 	path = hibayes
 	url = https://github.com/cran/hibayes
+[submodule "hicp"]
+	path = hicp
+	url = https://github.com/cran/hicp
 [submodule "hiddenf"]
 	path = hiddenf
 	url = https://github.com/cran/hiddenf
@@ -36578,6 +36584,9 @@
 [submodule "jadeLizardOptions"]
 	path = jadeLizardOptions
 	url = https://github.com/cran/jadeLizardOptions
+[submodule "jage"]
+	path = jage
+	url = https://github.com/cran/jage
 [submodule "jaggR"]
 	path = jaggR
 	url = https://github.com/cran/jaggR
@@ -59975,6 +59984,9 @@
 [submodule "viewpoly"]
 	path = viewpoly
 	url = https://github.com/cran/viewpoly
+[submodule "viewscape"]
+	path = viewscape
+	url = https://github.com/cran/viewscape
 [submodule "viking"]
 	path = viking
 	url = https://github.com/cran/viking
