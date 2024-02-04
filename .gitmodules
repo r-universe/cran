@@ -12335,6 +12335,9 @@
 [submodule "QurvE"]
 	path = QurvE
 	url = https://github.com/cran/QurvE
+[submodule "Qval"]
+	path = Qval
+	url = https://github.com/cran/Qval
 [submodule "R.cache"]
 	path = R.cache
 	url = https://github.com/cran/R.cache
@@ -28337,6 +28340,9 @@
 [submodule "elfgen"]
 	path = elfgen
 	url = https://github.com/cran/elfgen
+[submodule "elgbd"]
+	path = elgbd
+	url = https://github.com/cran/elgbd
 [submodule "elhmc"]
 	path = elhmc
 	url = https://github.com/cran/elhmc
@@ -41849,6 +41855,9 @@
 [submodule "muir"]
 	path = muir
 	url = https://github.com/cran/muir
+[submodule "mulSEM"]
+	path = mulSEM
+	url = https://github.com/cran/mulSEM
 [submodule "mulgar"]
 	path = mulgar
 	url = https://github.com/cran/mulgar
@@ -57872,6 +57881,9 @@
 [submodule "tidydr"]
 	path = tidydr
 	url = https://github.com/cran/tidydr
+[submodule "tidyedgar"]
+	path = tidyedgar
+	url = https://github.com/cran/tidyedgar
 [submodule "tidyestimate"]
 	path = tidyestimate
 	url = https://github.com/cran/tidyestimate
@@ -59078,6 +59090,9 @@
 [submodule "turboEM"]
 	path = turboEM
 	url = https://github.com/cran/turboEM
+[submodule "turkeyelections"]
+	path = turkeyelections
+	url = https://github.com/cran/turkeyelections
 [submodule "turner"]
 	path = turner
 	url = https://github.com/cran/turner
