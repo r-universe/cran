@@ -10295,6 +10295,9 @@
 [submodule "NScluster"]
 	path = NScluster
 	url = https://github.com/cran/NScluster
+[submodule "NTLKwIEx"]
+	path = NTLKwIEx
+	url = https://github.com/cran/NTLKwIEx
 [submodule "NTS"]
 	path = NTS
 	url = https://github.com/cran/NTS
@@ -16664,6 +16667,9 @@
 [submodule "TDAvec"]
 	path = TDAvec
 	url = https://github.com/cran/TDAvec
+[submodule "TDCM"]
+	path = TDCM
+	url = https://github.com/cran/TDCM
 [submodule "TDCor"]
 	path = TDCor
 	url = https://github.com/cran/TDCor
@@ -30536,6 +30542,9 @@
 [submodule "flock"]
 	path = flock
 	url = https://github.com/cran/flock
+[submodule "flocker"]
+	path = flocker
+	url = https://github.com/cran/flocker
 [submodule "flood"]
 	path = flood
 	url = https://github.com/cran/flood
@@ -57482,6 +57491,9 @@
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/cran/testthat
+[submodule "testthatmulti"]
+	path = testthatmulti
+	url = https://github.com/cran/testthatmulti
 [submodule "testthis"]
 	path = testthis
 	url = https://github.com/cran/testthis
