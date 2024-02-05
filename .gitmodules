@@ -15116,9 +15116,6 @@
 [submodule "SITH"]
 	path = SITH
 	url = https://github.com/cran/SITH
-[submodule "SIfEK"]
-	path = SIfEK
-	url = https://github.com/cran/SIfEK
 [submodule "SK4FGA"]
 	path = SK4FGA
 	url = https://github.com/cran/SK4FGA
@@ -33662,9 +33659,6 @@
 [submodule "gremlin"]
 	path = gremlin
 	url = https://github.com/cran/gremlin
-[submodule "gren"]
-	path = gren
-	url = https://github.com/cran/gren
 [submodule "greport"]
 	path = greport
 	url = https://github.com/cran/greport
@@ -55256,9 +55250,6 @@
 [submodule "specr"]
 	path = specr
 	url = https://github.com/cran/specr
-[submodule "specs"]
-	path = specs
-	url = https://github.com/cran/specs
 [submodule "spectacles"]
 	path = spectacles
 	url = https://github.com/cran/spectacles
