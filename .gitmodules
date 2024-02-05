@@ -6107,6 +6107,9 @@
 [submodule "GSAfisherCombined"]
 	path = GSAfisherCombined
 	url = https://github.com/cran/GSAfisherCombined
+[submodule "GSD"]
+	path = GSD
+	url = https://github.com/cran/GSD
 [submodule "GSDA"]
 	path = GSDA
 	url = https://github.com/cran/GSDA
@@ -27173,6 +27176,9 @@
 [submodule "dogesr"]
 	path = dogesr
 	url = https://github.com/cran/dogesr
+[submodule "dominanceanalysis"]
+	path = dominanceanalysis
+	url = https://github.com/cran/dominanceanalysis
 [submodule "domino"]
 	path = domino
 	url = https://github.com/cran/domino
@@ -27560,6 +27566,9 @@
 [submodule "dunn.test"]
 	path = dunn.test
 	url = https://github.com/cran/dunn.test
+[submodule "dupNodes"]
+	path = dupNodes
+	url = https://github.com/cran/dupNodes
 [submodule "dupree"]
 	path = dupree
 	url = https://github.com/cran/dupree
@@ -29798,6 +29807,9 @@
 [submodule "fastkmedoids"]
 	path = fastkmedoids
 	url = https://github.com/cran/fastkmedoids
+[submodule "fastliu"]
+	path = fastliu
+	url = https://github.com/cran/fastliu
 [submodule "fastlogitME"]
 	path = fastlogitME
 	url = https://github.com/cran/fastlogitME
@@ -37118,6 +37130,9 @@
 [submodule "kgschart"]
 	path = kgschart
 	url = https://github.com/cran/kgschart
+[submodule "khisr"]
+	path = khisr
+	url = https://github.com/cran/khisr
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/cran/khroma
@@ -39725,6 +39740,9 @@
 [submodule "md.log"]
 	path = md.log
 	url = https://github.com/cran/md.log
+[submodule "md4r"]
+	path = md4r
+	url = https://github.com/cran/md4r
 [submodule "mda"]
 	path = mda
 	url = https://github.com/cran/mda
@@ -41552,6 +41570,9 @@
 [submodule "movementsync"]
 	path = movementsync
 	url = https://github.com/cran/movementsync
+[submodule "movieROC"]
+	path = movieROC
+	url = https://github.com/cran/movieROC
 [submodule "mp"]
 	path = mp
 	url = https://github.com/cran/mp
@@ -41831,6 +41852,9 @@
 [submodule "mtsta"]
 	path = mtsta
 	url = https://github.com/cran/mtsta
+[submodule "mtvc"]
+	path = mtvc
+	url = https://github.com/cran/mtvc
 [submodule "muRL"]
 	path = muRL
 	url = https://github.com/cran/muRL
@@ -60326,6 +60350,9 @@
 [submodule "vwline"]
 	path = vwline
 	url = https://github.com/cran/vwline
+[submodule "vyos"]
+	path = vyos
+	url = https://github.com/cran/vyos
 [submodule "wCorr"]
 	path = wCorr
 	url = https://github.com/cran/wCorr
@@ -61091,6 +61118,18 @@
 [submodule "xefun"]
 	path = xefun
 	url = https://github.com/cran/xefun
+[submodule "xegaBNF"]
+	path = xegaBNF
+	url = https://github.com/cran/xegaBNF
+[submodule "xegaDfGene"]
+	path = xegaDfGene
+	url = https://github.com/cran/xegaDfGene
+[submodule "xegaGaGene"]
+	path = xegaGaGene
+	url = https://github.com/cran/xegaGaGene
+[submodule "xegaPermGene"]
+	path = xegaPermGene
+	url = https://github.com/cran/xegaPermGene
 [submodule "xegaSelectGene"]
 	path = xegaSelectGene
 	url = https://github.com/cran/xegaSelectGene
