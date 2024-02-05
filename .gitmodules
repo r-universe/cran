@@ -26804,9 +26804,6 @@
 [submodule "disdat"]
 	path = disdat
 	url = https://github.com/cran/disdat
-[submodule "diseasemapping"]
-	path = diseasemapping
-	url = https://github.com/cran/diseasemapping
 [submodule "diseasystore"]
 	path = diseasystore
 	url = https://github.com/cran/diseasystore
