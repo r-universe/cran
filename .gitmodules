@@ -8288,6 +8288,9 @@
 [submodule "LambertW"]
 	path = LambertW
 	url = https://github.com/cran/LambertW
+[submodule "LandComp"]
+	path = LandComp
+	url = https://github.com/cran/LandComp
 [submodule "Landmarking"]
 	path = Landmarking
 	url = https://github.com/cran/Landmarking
@@ -8585,6 +8588,9 @@
 [submodule "MAPITR"]
 	path = MAPITR
 	url = https://github.com/cran/MAPITR
+[submodule "MARMoT"]
+	path = MARMoT
+	url = https://github.com/cran/MARMoT
 [submodule "MARSANNhybrid"]
 	path = MARSANNhybrid
 	url = https://github.com/cran/MARSANNhybrid
@@ -8711,6 +8717,9 @@
 [submodule "MCMCvis"]
 	path = MCMCvis
 	url = https://github.com/cran/MCMCvis
+[submodule "MCOE"]
+	path = MCOE
+	url = https://github.com/cran/MCOE
 [submodule "MCPAN"]
 	path = MCPAN
 	url = https://github.com/cran/MCPAN
@@ -12137,6 +12146,9 @@
 [submodule "PubMedWordcloud"]
 	path = PubMedWordcloud
 	url = https://github.com/cran/PubMedWordcloud
+[submodule "PublicWorksFinanceIT"]
+	path = PublicWorksFinanceIT
+	url = https://github.com/cran/PublicWorksFinanceIT
 [submodule "PublicationBias"]
 	path = PublicationBias
 	url = https://github.com/cran/PublicationBias
@@ -21854,6 +21866,9 @@
 [submodule "bsnsing"]
 	path = bsnsing
 	url = https://github.com/cran/bsnsing
+[submodule "bspcov"]
+	path = bspcov
+	url = https://github.com/cran/bspcov
 [submodule "bspec"]
 	path = bspec
 	url = https://github.com/cran/bspec
@@ -24059,6 +24074,9 @@
 [submodule "comsimitv"]
 	path = comsimitv
 	url = https://github.com/cran/comsimitv
+[submodule "comtradr"]
+	path = comtradr
+	url = https://github.com/cran/comtradr
 [submodule "con2aqi"]
 	path = con2aqi
 	url = https://github.com/cran/con2aqi
@@ -29942,6 +29960,9 @@
 [submodule "fdANOVA"]
 	path = fdANOVA
 	url = https://github.com/cran/fdANOVA
+[submodule "fdWasserstein"]
+	path = fdWasserstein
+	url = https://github.com/cran/fdWasserstein
 [submodule "fda"]
 	path = fda
 	url = https://github.com/cran/fda
@@ -30578,6 +30599,9 @@
 [submodule "flowTraceR"]
 	path = flowTraceR
 	url = https://github.com/cran/flowTraceR
+[submodule "flowchart"]
+	path = flowchart
+	url = https://github.com/cran/flowchart
 [submodule "flowml"]
 	path = flowml
 	url = https://github.com/cran/flowml
@@ -35909,6 +35933,9 @@
 [submodule "inlcolor"]
 	path = inlcolor
 	url = https://github.com/cran/inlcolor
+[submodule "inldata"]
+	path = inldata
+	url = https://github.com/cran/inldata
 [submodule "inline"]
 	path = inline
 	url = https://github.com/cran/inline
@@ -53807,6 +53834,9 @@
 [submodule "showtextdb"]
 	path = showtextdb
 	url = https://github.com/cran/showtextdb
+[submodule "shp2graph"]
+	path = shp2graph
+	url = https://github.com/cran/shp2graph
 [submodule "shrink"]
 	path = shrink
 	url = https://github.com/cran/shrink
@@ -56837,6 +56867,9 @@
 [submodule "svydiags"]
 	path = svydiags
 	url = https://github.com/cran/svydiags
+[submodule "svylme"]
+	path = svylme
+	url = https://github.com/cran/svylme
 [submodule "svyweight"]
 	path = svyweight
 	url = https://github.com/cran/svyweight
@@ -57350,6 +57383,9 @@
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/cran/teal.reporter
+[submodule "teal.slice"]
+	path = teal.slice
+	url = https://github.com/cran/teal.slice
 [submodule "teal.widgets"]
 	path = teal.widgets
 	url = https://github.com/cran/teal.widgets
@@ -58943,6 +58979,9 @@
 [submodule "tscount"]
 	path = tscount
 	url = https://github.com/cran/tscount
+[submodule "tsdataleaks"]
+	path = tsdataleaks
+	url = https://github.com/cran/tsdataleaks
 [submodule "tsdb"]
 	path = tsdb
 	url = https://github.com/cran/tsdb
@@ -60095,6 +60134,9 @@
 [submodule "visNetwork"]
 	path = visNetwork
 	url = https://github.com/cran/visNetwork
+[submodule "visOmopResults"]
+	path = visOmopResults
+	url = https://github.com/cran/visOmopResults
 [submodule "visR"]
 	path = visR
 	url = https://github.com/cran/visR
