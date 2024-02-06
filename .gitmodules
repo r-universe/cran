@@ -18149,6 +18149,9 @@
 [submodule "ZIPFA"]
 	path = ZIPFA
 	url = https://github.com/cran/ZIPFA
+[submodule "ZIPG"]
+	path = ZIPG
+	url = https://github.com/cran/ZIPG
 [submodule "ZIprop"]
 	path = ZIprop
 	url = https://github.com/cran/ZIprop
