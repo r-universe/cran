@@ -42257,6 +42257,9 @@
 [submodule "mvbutils"]
 	path = mvbutils
 	url = https://github.com/cran/mvbutils
+[submodule "mvcauchy"]
+	path = mvcauchy
+	url = https://github.com/cran/mvcauchy
 [submodule "mvctm"]
 	path = mvctm
 	url = https://github.com/cran/mvctm
@@ -52184,6 +52187,9 @@
 [submodule "samon"]
 	path = samon
 	url = https://github.com/cran/samon
+[submodule "sampbias"]
+	path = sampbias
+	url = https://github.com/cran/sampbias
 [submodule "sampleSelection"]
 	path = sampleSelection
 	url = https://github.com/cran/sampleSelection
