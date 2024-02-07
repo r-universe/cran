@@ -31697,6 +31697,9 @@
 [submodule "gbm2sas"]
 	path = gbm2sas
 	url = https://github.com/cran/gbm2sas
+[submodule "gbm3"]
+	path = gbm3
+	url = https://github.com/cran/gbm3
 [submodule "gbmt"]
 	path = gbmt
 	url = https://github.com/cran/gbmt
