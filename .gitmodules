@@ -2861,6 +2861,9 @@
 [submodule "CommKern"]
 	path = CommKern
 	url = https://github.com/cran/CommKern
+[submodule "CommonDataModel"]
+	path = CommonDataModel
+	url = https://github.com/cran/CommonDataModel
 [submodule "CommonJavaJars"]
 	path = CommonJavaJars
 	url = https://github.com/cran/CommonJavaJars
@@ -14822,6 +14825,9 @@
 [submodule "SAVER"]
 	path = SAVER
 	url = https://github.com/cran/SAVER
+[submodule "SAiVE"]
+	path = SAiVE
+	url = https://github.com/cran/SAiVE
 [submodule "SAutomata"]
 	path = SAutomata
 	url = https://github.com/cran/SAutomata
@@ -15725,6 +15731,9 @@
 [submodule "SentimentAnalysis"]
 	path = SentimentAnalysis
 	url = https://github.com/cran/SentimentAnalysis
+[submodule "SeqAlignR"]
+	path = SeqAlignR
+	url = https://github.com/cran/SeqAlignR
 [submodule "SeqAlloc"]
 	path = SeqAlloc
 	url = https://github.com/cran/SeqAlloc
@@ -25619,6 +25628,9 @@
 [submodule "dam"]
 	path = dam
 	url = https://github.com/cran/dam
+[submodule "damAOI"]
+	path = damAOI
+	url = https://github.com/cran/damAOI
 [submodule "dampack"]
 	path = dampack
 	url = https://github.com/cran/dampack
@@ -29777,6 +29789,9 @@
 [submodule "fastSOM"]
 	path = fastSOM
 	url = https://github.com/cran/fastSOM
+[submodule "fastTS"]
+	path = fastTS
+	url = https://github.com/cran/fastTS
 [submodule "fastText"]
 	path = fastText
 	url = https://github.com/cran/fastText
@@ -32870,6 +32885,9 @@
 [submodule "ggthemes"]
 	path = ggthemes
 	url = https://github.com/cran/ggthemes
+[submodule "ggtibble"]
+	path = ggtibble
+	url = https://github.com/cran/ggtibble
 [submodule "ggtikz"]
 	path = ggtikz
 	url = https://github.com/cran/ggtikz
@@ -34391,6 +34409,9 @@
 [submodule "healthfinance"]
 	path = healthfinance
 	url = https://github.com/cran/healthfinance
+[submodule "healthyAddress"]
+	path = healthyAddress
+	url = https://github.com/cran/healthyAddress
 [submodule "healthyR"]
 	path = healthyR
 	url = https://github.com/cran/healthyR
@@ -45704,6 +45725,9 @@
 [submodule "pg"]
 	path = pg
 	url = https://github.com/cran/pg
+[submodule "pgKDEsphere"]
+	path = pgKDEsphere
+	url = https://github.com/cran/pgKDEsphere
 [submodule "pgTools"]
 	path = pgTools
 	url = https://github.com/cran/pgTools
@@ -58583,6 +58607,9 @@
 [submodule "tqk"]
 	path = tqk
 	url = https://github.com/cran/tqk
+[submodule "tr.iatgen"]
+	path = tr.iatgen
+	url = https://github.com/cran/tr.iatgen
 [submodule "tracee"]
 	path = tracee
 	url = https://github.com/cran/tracee
