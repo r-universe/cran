@@ -10436,6 +10436,9 @@
 [submodule "NetworkInference"]
 	path = NetworkInference
 	url = https://github.com/cran/NetworkInference
+[submodule "NetworkReg"]
+	path = NetworkReg
+	url = https://github.com/cran/NetworkReg
 [submodule "NetworkRiskMeasures"]
 	path = NetworkRiskMeasures
 	url = https://github.com/cran/NetworkRiskMeasures
@@ -10805,6 +10808,9 @@
 [submodule "OneTwoSamples"]
 	path = OneTwoSamples
 	url = https://github.com/cran/OneTwoSamples
+[submodule "OnomasticDiversity"]
+	path = OnomasticDiversity
+	url = https://github.com/cran/OnomasticDiversity
 [submodule "OpVaR"]
 	path = OpVaR
 	url = https://github.com/cran/OpVaR
@@ -17663,6 +17669,9 @@
 [submodule "VLMC"]
 	path = VLMC
 	url = https://github.com/cran/VLMC
+[submodule "VLMCX"]
+	path = VLMCX
+	url = https://github.com/cran/VLMCX
 [submodule "VLTimeCausality"]
 	path = VLTimeCausality
 	url = https://github.com/cran/VLTimeCausality
@@ -27482,6 +27491,9 @@
 [submodule "dsm"]
 	path = dsm
 	url = https://github.com/cran/dsm
+[submodule "dsmSearch"]
+	path = dsmSearch
+	url = https://github.com/cran/dsmSearch
 [submodule "dsmisc"]
 	path = dsmisc
 	url = https://github.com/cran/dsmisc
@@ -47216,6 +47228,9 @@
 [submodule "priceR"]
 	path = priceR
 	url = https://github.com/cran/priceR
+[submodule "pricelevels"]
+	path = pricelevels
+	url = https://github.com/cran/pricelevels
 [submodule "pricesensitivitymeter"]
 	path = pricesensitivitymeter
 	url = https://github.com/cran/pricesensitivitymeter
