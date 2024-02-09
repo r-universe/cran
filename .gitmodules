@@ -55238,6 +55238,9 @@
 [submodule "spatialising"]
 	path = spatialising
 	url = https://github.com/cran/spatialising
+[submodule "spatialprobit"]
+	path = spatialprobit
+	url = https://github.com/cran/spatialprobit
 [submodule "spatialreg"]
 	path = spatialreg
 	url = https://github.com/cran/spatialreg
