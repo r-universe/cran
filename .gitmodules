@@ -8552,6 +8552,9 @@
 [submodule "MAGEE"]
 	path = MAGEE
 	url = https://github.com/cran/MAGEE
+[submodule "MAGMA.R"]
+	path = MAGMA.R
+	url = https://github.com/cran/MAGMA.R
 [submodule "MAGNAMWAR"]
 	path = MAGNAMWAR
 	url = https://github.com/cran/MAGNAMWAR
@@ -52454,6 +52457,9 @@
 [submodule "sc2sc"]
 	path = sc2sc
 	url = https://github.com/cran/sc2sc
+[submodule "scBSP"]
+	path = scBSP
+	url = https://github.com/cran/scBSP
 [submodule "scBio"]
 	path = scBio
 	url = https://github.com/cran/scBio
