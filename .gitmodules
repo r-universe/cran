@@ -21362,6 +21362,9 @@
 [submodule "blockTools"]
 	path = blockTools
 	url = https://github.com/cran/blockTools
+[submodule "blockcluster"]
+	path = blockcluster
+	url = https://github.com/cran/blockcluster
 [submodule "blocklength"]
 	path = blocklength
 	url = https://github.com/cran/blocklength
@@ -42116,6 +42119,9 @@
 [submodule "multinets"]
 	path = multinets
 	url = https://github.com/cran/multinets
+[submodule "multinma"]
+	path = multinma
+	url = https://github.com/cran/multinma
 [submodule "multinomialLogitMix"]
 	path = multinomialLogitMix
 	url = https://github.com/cran/multinomialLogitMix
@@ -44447,6 +44453,9 @@
 [submodule "oreo"]
 	path = oreo
 	url = https://github.com/cran/oreo
+[submodule "ores"]
+	path = ores
+	url = https://github.com/cran/ores
 [submodule "orf"]
 	path = orf
 	url = https://github.com/cran/orf
@@ -49448,6 +49457,9 @@
 [submodule "rdpower"]
 	path = rdpower
 	url = https://github.com/cran/rdpower
+[submodule "rdracor"]
+	path = rdracor
+	url = https://github.com/cran/rdracor
 [submodule "rdrobust"]
 	path = rdrobust
 	url = https://github.com/cran/rdrobust
