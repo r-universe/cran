@@ -20042,6 +20042,9 @@
 [submodule "aws.translate"]
 	path = aws.translate
 	url = https://github.com/cran/aws.translate
+[submodule "aws.wrfsmn"]
+	path = aws.wrfsmn
+	url = https://github.com/cran/aws.wrfsmn
 [submodule "awsMethods"]
 	path = awsMethods
 	url = https://github.com/cran/awsMethods
@@ -30398,6 +30401,9 @@
 [submodule "fitODBOD"]
 	path = fitODBOD
 	url = https://github.com/cran/fitODBOD
+[submodule "fitODBODRshiny"]
+	path = fitODBODRshiny
+	url = https://github.com/cran/fitODBODRshiny
 [submodule "fitPS"]
 	path = fitPS
 	url = https://github.com/cran/fitPS
@@ -47576,6 +47582,9 @@
 [submodule "ps"]
 	path = ps
 	url = https://github.com/cran/ps
+[submodule "psBayesborrow"]
+	path = psBayesborrow
+	url = https://github.com/cran/psBayesborrow
 [submodule "psData"]
 	path = psData
 	url = https://github.com/cran/psData
