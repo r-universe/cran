@@ -7505,9 +7505,6 @@
 [submodule "IntCal"]
 	path = IntCal
 	url = https://github.com/cran/IntCal
-[submodule "IntLIM"]
-	path = IntLIM
-	url = https://github.com/cran/IntLIM
 [submodule "IntNMF"]
 	path = IntNMF
 	url = https://github.com/cran/IntNMF
@@ -32825,6 +32822,9 @@
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/cran/ggseg3d
+[submodule "ggseqlogo"]
+	path = ggseqlogo
+	url = https://github.com/cran/ggseqlogo
 [submodule "ggseqplot"]
 	path = ggseqplot
 	url = https://github.com/cran/ggseqplot
@@ -57407,6 +57407,9 @@
 [submodule "teachingApps"]
 	path = teachingApps
 	url = https://github.com/cran/teachingApps
+[submodule "teal"]
+	path = teal
+	url = https://github.com/cran/teal
 [submodule "teal.code"]
 	path = teal.code
 	url = https://github.com/cran/teal.code
