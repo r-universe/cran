@@ -866,6 +866,9 @@
 [submodule "BCClong"]
 	path = BCClong
 	url = https://github.com/cran/BCClong
+[submodule "BCDAG"]
+	path = BCDAG
+	url = https://github.com/cran/BCDAG
 [submodule "BCDating"]
 	path = BCDating
 	url = https://github.com/cran/BCDating
@@ -32057,9 +32060,6 @@
 [submodule "gensvm"]
 	path = gensvm
 	url = https://github.com/cran/gensvm
-[submodule "geoAr"]
-	path = geoAr
-	url = https://github.com/cran/geoAr
 [submodule "geoBayes"]
 	path = geoBayes
 	url = https://github.com/cran/geoBayes
@@ -32654,9 +32654,6 @@
 [submodule "ggmosaic"]
 	path = ggmosaic
 	url = https://github.com/cran/ggmosaic
-[submodule "ggmotif"]
-	path = ggmotif
-	url = https://github.com/cran/ggmotif
 [submodule "ggmr"]
 	path = ggmr
 	url = https://github.com/cran/ggmr
@@ -35732,9 +35729,6 @@
 [submodule "immer"]
 	path = immer
 	url = https://github.com/cran/immer
-[submodule "immunarch"]
-	path = immunarch
-	url = https://github.com/cran/immunarch
 [submodule "immuneSIM"]
 	path = immuneSIM
 	url = https://github.com/cran/immuneSIM
