@@ -51626,6 +51626,9 @@
 [submodule "rsq"]
 	path = rsq
 	url = https://github.com/cran/rsq
+[submodule "rstac"]
+	path = rstac
+	url = https://github.com/cran/rstac
 [submodule "rstack"]
 	path = rstack
 	url = https://github.com/cran/rstack
