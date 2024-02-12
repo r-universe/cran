@@ -41396,6 +41396,9 @@
 [submodule "moder"]
 	path = moder
 	url = https://github.com/cran/moder
+[submodule "moderate.mediation"]
+	path = moderate.mediation
+	url = https://github.com/cran/moderate.mediation
 [submodule "modernVA"]
 	path = modernVA
 	url = https://github.com/cran/modernVA
@@ -51566,6 +51569,9 @@
 [submodule "rshift"]
 	path = rshift
 	url = https://github.com/cran/rshift
+[submodule "rsi"]
+	path = rsi
+	url = https://github.com/cran/rsi
 [submodule "rsimsum"]
 	path = rsimsum
 	url = https://github.com/cran/rsimsum
