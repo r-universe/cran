@@ -8240,6 +8240,9 @@
 [submodule "LTASR"]
 	path = LTASR
 	url = https://github.com/cran/LTASR
+[submodule "LTFHPlus"]
+	path = LTFHPlus
+	url = https://github.com/cran/LTFHPlus
 [submodule "LTPDvar"]
 	path = LTPDvar
 	url = https://github.com/cran/LTPDvar
@@ -41504,6 +41507,9 @@
 [submodule "monreg"]
 	path = monreg
 	url = https://github.com/cran/monreg
+[submodule "moodef"]
+	path = moodef
+	url = https://github.com/cran/moodef
 [submodule "moodleR"]
 	path = moodleR
 	url = https://github.com/cran/moodleR
