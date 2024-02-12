@@ -35270,6 +35270,9 @@
 [submodule "iNEXT"]
 	path = iNEXT
 	url = https://github.com/cran/iNEXT
+[submodule "iNEXT.3D"]
+	path = iNEXT.3D
+	url = https://github.com/cran/iNEXT.3D
 [submodule "iNZightMR"]
 	path = iNZightMR
 	url = https://github.com/cran/iNZightMR
