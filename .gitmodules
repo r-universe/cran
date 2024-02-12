@@ -20213,9 +20213,6 @@
 [submodule "bark"]
 	path = bark
 	url = https://github.com/cran/bark
-[submodule "bartBMA"]
-	path = bartBMA
-	url = https://github.com/cran/bartBMA
 [submodule "bartCause"]
 	path = bartCause
 	url = https://github.com/cran/bartCause
@@ -29864,9 +29861,6 @@
 [submodule "fastlogitME"]
 	path = fastlogitME
 	url = https://github.com/cran/fastlogitME
-[submodule "fastlogranktest"]
-	path = fastlogranktest
-	url = https://github.com/cran/fastlogranktest
 [submodule "fastmap"]
 	path = fastmap
 	url = https://github.com/cran/fastmap
@@ -33392,9 +33386,6 @@
 [submodule "goldfish"]
 	path = goldfish
 	url = https://github.com/cran/goldfish
-[submodule "goldilocks"]
-	path = goldilocks
-	url = https://github.com/cran/goldilocks
 [submodule "golem"]
 	path = golem
 	url = https://github.com/cran/golem
@@ -40085,9 +40076,6 @@
 [submodule "metaMA"]
 	path = metaMA
 	url = https://github.com/cran/metaMA
-[submodule "metaRMST"]
-	path = metaRMST
-	url = https://github.com/cran/metaRMST
 [submodule "metaRNASeq"]
 	path = metaRNASeq
 	url = https://github.com/cran/metaRNASeq
@@ -43865,9 +43853,6 @@
 [submodule "odeGUTS"]
 	path = odeGUTS
 	url = https://github.com/cran/odeGUTS
-[submodule "odeintr"]
-	path = odeintr
-	url = https://github.com/cran/odeintr
 [submodule "odetector"]
 	path = odetector
 	url = https://github.com/cran/odetector
@@ -60278,9 +60263,6 @@
 [submodule "vkR"]
 	path = vkR
 	url = https://github.com/cran/vkR
-[submodule "vlad"]
-	path = vlad
-	url = https://github.com/cran/vlad
 [submodule "vlda"]
 	path = vlda
 	url = https://github.com/cran/vlda
