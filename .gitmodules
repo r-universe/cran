@@ -16367,9 +16367,6 @@
 [submodule "SteinIV"]
 	path = SteinIV
 	url = https://github.com/cran/SteinIV
-[submodule "SteinerNet"]
-	path = SteinerNet
-	url = https://github.com/cran/SteinerNet
 [submodule "StemAnalysis"]
 	path = StemAnalysis
 	url = https://github.com/cran/StemAnalysis
@@ -17753,9 +17750,6 @@
 [submodule "VertexSimilarity"]
 	path = VertexSimilarity
 	url = https://github.com/cran/VertexSimilarity
-[submodule "VertexSort"]
-	path = VertexSort
-	url = https://github.com/cran/VertexSort
 [submodule "VeryLargeIntegers"]
 	path = VeryLargeIntegers
 	url = https://github.com/cran/VeryLargeIntegers
@@ -35273,9 +35267,6 @@
 [submodule "iGasso"]
 	path = iGasso
 	url = https://github.com/cran/iGasso
-[submodule "iGraphMatch"]
-	path = iGraphMatch
-	url = https://github.com/cran/iGraphMatch
 [submodule "iIneq"]
 	path = iIneq
 	url = https://github.com/cran/iIneq
@@ -41453,9 +41444,6 @@
 [submodule "molaR"]
 	path = molaR
 	url = https://github.com/cran/molaR
-[submodule "molnet"]
-	path = molnet
-	url = https://github.com/cran/molnet
 [submodule "mombf"]
 	path = mombf
 	url = https://github.com/cran/mombf
@@ -42788,9 +42776,6 @@
 [submodule "netcmc"]
 	path = netcmc
 	url = https://github.com/cran/netcmc
-[submodule "netcom"]
-	path = netcom
-	url = https://github.com/cran/netcom
 [submodule "netcontrol"]
 	path = netcontrol
 	url = https://github.com/cran/netcontrol
