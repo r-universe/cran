@@ -30281,6 +30281,9 @@
 [submodule "filesstrings"]
 	path = filesstrings
 	url = https://github.com/cran/filesstrings
+[submodule "filibustr"]
+	path = filibustr
+	url = https://github.com/cran/filibustr
 [submodule "filling"]
 	path = filling
 	url = https://github.com/cran/filling
@@ -59810,6 +59813,9 @@
 [submodule "valection"]
 	path = valection
 	url = https://github.com/cran/valection
+[submodule "valentine"]
+	path = valentine
+	url = https://github.com/cran/valentine
 [submodule "valet"]
 	path = valet
 	url = https://github.com/cran/valet
