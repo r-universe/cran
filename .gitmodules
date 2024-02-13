@@ -18065,6 +18065,9 @@
 [submodule "WorldFlora"]
 	path = WorldFlora
 	url = https://github.com/cran/WorldFlora
+[submodule "WorldMapR"]
+	path = WorldMapR
+	url = https://github.com/cran/WorldMapR
 [submodule "WormTensor"]
 	path = WormTensor
 	url = https://github.com/cran/WormTensor
@@ -52181,6 +52184,9 @@
 [submodule "saebnocov"]
 	path = saebnocov
 	url = https://github.com/cran/saebnocov
+[submodule "saeczi"]
+	path = saeczi
+	url = https://github.com/cran/saeczi
 [submodule "saeeb"]
 	path = saeeb
 	url = https://github.com/cran/saeeb
@@ -61241,6 +61247,9 @@
 [submodule "xegaBNF"]
 	path = xegaBNF
 	url = https://github.com/cran/xegaBNF
+[submodule "xegaDerivationTrees"]
+	path = xegaDerivationTrees
+	url = https://github.com/cran/xegaDerivationTrees
 [submodule "xegaDfGene"]
 	path = xegaDfGene
 	url = https://github.com/cran/xegaDfGene
