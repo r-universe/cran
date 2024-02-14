@@ -6131,6 +6131,9 @@
 [submodule "GSMX"]
 	path = GSMX
 	url = https://github.com/cran/GSMX
+[submodule "GSNA"]
+	path = GSNA
+	url = https://github.com/cran/GSNA
 [submodule "GSODR"]
 	path = GSODR
 	url = https://github.com/cran/GSODR
@@ -41978,6 +41981,9 @@
 [submodule "multcompView"]
 	path = multcompView
 	url = https://github.com/cran/multcompView
+[submodule "multe"]
+	path = multe
+	url = https://github.com/cran/multe
 [submodule "multfisher"]
 	path = multfisher
 	url = https://github.com/cran/multfisher
@@ -58709,6 +58715,9 @@
 [submodule "trajectories"]
 	path = trajectories
 	url = https://github.com/cran/trajectories
+[submodule "trajmsm"]
+	path = trajmsm
+	url = https://github.com/cran/trajmsm
 [submodule "trajr"]
 	path = trajr
 	url = https://github.com/cran/trajr
