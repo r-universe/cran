@@ -23129,6 +23129,9 @@
 [submodule "circle"]
 	path = circle
 	url = https://github.com/cran/circle
+[submodule "circlesplot"]
+	path = circlesplot
+	url = https://github.com/cran/circlesplot
 [submodule "circletyper"]
 	path = circletyper
 	url = https://github.com/cran/circletyper
@@ -31991,6 +31994,9 @@
 [submodule "genesysr"]
 	path = genesysr
 	url = https://github.com/cran/genesysr
+[submodule "genetic.algo.optimizeR"]
+	path = genetic.algo.optimizeR
+	url = https://github.com/cran/genetic.algo.optimizeR
 [submodule "geneticae"]
 	path = geneticae
 	url = https://github.com/cran/geneticae
@@ -43253,6 +43259,9 @@
 [submodule "nnGarrote"]
 	path = nnGarrote
 	url = https://github.com/cran/nnGarrote
+[submodule "nnR"]
+	path = nnR
+	url = https://github.com/cran/nnR
 [submodule "nnTensor"]
 	path = nnTensor
 	url = https://github.com/cran/nnTensor
