@@ -26822,9 +26822,6 @@
 [submodule "discord"]
 	path = discord
 	url = https://github.com/cran/discord
-[submodule "discourseGT"]
-	path = discourseGT
-	url = https://github.com/cran/discourseGT
 [submodule "discoveR"]
 	path = discoveR
 	url = https://github.com/cran/discoveR
@@ -45020,9 +45017,6 @@
 [submodule "parglm"]
 	path = parglm
 	url = https://github.com/cran/parglm
-[submodule "parlitools"]
-	path = parlitools
-	url = https://github.com/cran/parlitools
 [submodule "parma"]
 	path = parma
 	url = https://github.com/cran/parma
