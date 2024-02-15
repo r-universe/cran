@@ -10835,6 +10835,9 @@
 [submodule "OpenML"]
 	path = OpenML
 	url = https://github.com/cran/OpenML
+[submodule "OpenMindat"]
+	path = OpenMindat
+	url = https://github.com/cran/OpenMindat
 [submodule "OpenMx"]
 	path = OpenMx
 	url = https://github.com/cran/OpenMx
@@ -61256,6 +61259,9 @@
 [submodule "xegaGaGene"]
 	path = xegaGaGene
 	url = https://github.com/cran/xegaGaGene
+[submodule "xegaGpGene"]
+	path = xegaGpGene
+	url = https://github.com/cran/xegaGpGene
 [submodule "xegaPermGene"]
 	path = xegaPermGene
 	url = https://github.com/cran/xegaPermGene
