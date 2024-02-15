@@ -50717,9 +50717,6 @@
 [submodule "rkafkajars"]
 	path = rkafkajars
 	url = https://github.com/cran/rkafkajars
-[submodule "rkeops"]
-	path = rkeops
-	url = https://github.com/cran/rkeops
 [submodule "rkt"]
 	path = rkt
 	url = https://github.com/cran/rkt
