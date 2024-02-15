@@ -15158,9 +15158,6 @@
 [submodule "SKAT"]
 	path = SKAT
 	url = https://github.com/cran/SKAT
-[submodule "SKFCPD"]
-	path = SKFCPD
-	url = https://github.com/cran/SKFCPD
 [submodule "SKNN"]
 	path = SKNN
 	url = https://github.com/cran/SKNN
@@ -38363,9 +38360,6 @@
 [submodule "lm.beta"]
 	path = lm.beta
 	url = https://github.com/cran/lm.beta
-[submodule "lm.br"]
-	path = lm.br
-	url = https://github.com/cran/lm.br
 [submodule "lmDiallel"]
 	path = lmDiallel
 	url = https://github.com/cran/lmDiallel
@@ -42617,9 +42611,6 @@
 [submodule "nbpMatching"]
 	path = nbpMatching
 	url = https://github.com/cran/nbpMatching
-[submodule "nc"]
-	path = nc
-	url = https://github.com/cran/nc
 [submodule "ncappc"]
 	path = ncappc
 	url = https://github.com/cran/ncappc
