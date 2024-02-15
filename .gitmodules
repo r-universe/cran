@@ -29072,9 +29072,6 @@
 [submodule "eunis.habitats"]
 	path = eunis.habitats
 	url = https://github.com/cran/eunis.habitats
-[submodule "eurlex"]
-	path = eurlex
-	url = https://github.com/cran/eurlex
 [submodule "eurocordexr"]
 	path = eurocordexr
 	url = https://github.com/cran/eurocordexr
