@@ -10958,6 +10958,9 @@
 [submodule "PACVr"]
 	path = PACVr
 	url = https://github.com/cran/PACVr
+[submodule "PAGFL"]
+	path = PAGFL
+	url = https://github.com/cran/PAGFL
 [submodule "PAGWAS"]
 	path = PAGWAS
 	url = https://github.com/cran/PAGWAS
@@ -20285,6 +20288,9 @@
 [submodule "basicMCMCplots"]
 	path = basicMCMCplots
 	url = https://github.com/cran/basicMCMCplots
+[submodule "basicdrm"]
+	path = basicdrm
+	url = https://github.com/cran/basicdrm
 [submodule "basicspace"]
 	path = basicspace
 	url = https://github.com/cran/basicspace
@@ -20939,6 +20945,9 @@
 [submodule "bigdist"]
 	path = bigdist
 	url = https://github.com/cran/bigdist
+[submodule "bigergm"]
+	path = bigergm
+	url = https://github.com/cran/bigergm
 [submodule "biglasso"]
 	path = biglasso
 	url = https://github.com/cran/biglasso
@@ -29288,6 +29297,9 @@
 [submodule "exdqlm"]
 	path = exdqlm
 	url = https://github.com/cran/exdqlm
+[submodule "executablePackeR"]
+	path = executablePackeR
+	url = https://github.com/cran/executablePackeR
 [submodule "exif"]
 	path = exif
 	url = https://github.com/cran/exif
@@ -30353,6 +30365,9 @@
 [submodule "finnishgrid"]
 	path = finnishgrid
 	url = https://github.com/cran/finnishgrid
+[submodule "finnsurveytext"]
+	path = finnsurveytext
+	url = https://github.com/cran/finnsurveytext
 [submodule "finnts"]
 	path = finnts
 	url = https://github.com/cran/finnts
@@ -30683,6 +30698,9 @@
 [submodule "fmdates"]
 	path = fmdates
 	url = https://github.com/cran/fmdates
+[submodule "fmdu"]
+	path = fmdu
+	url = https://github.com/cran/fmdu
 [submodule "fmeffects"]
 	path = fmeffects
 	url = https://github.com/cran/fmeffects
@@ -41210,6 +41228,9 @@
 [submodule "mmeta"]
 	path = mmeta
 	url = https://github.com/cran/mmeta
+[submodule "mmiCATs"]
+	path = mmiCATs
+	url = https://github.com/cran/mmiCATs
 [submodule "mmibain"]
 	path = mmibain
 	url = https://github.com/cran/mmibain
