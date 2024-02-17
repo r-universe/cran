@@ -4784,6 +4784,9 @@
 [submodule "Euclimatch"]
 	path = Euclimatch
 	url = https://github.com/cran/Euclimatch
+[submodule "Euronext"]
+	path = Euronext
+	url = https://github.com/cran/Euronext
 [submodule "EurosarcBayes"]
 	path = EurosarcBayes
 	url = https://github.com/cran/EurosarcBayes
@@ -4856,6 +4859,9 @@
 [submodule "ExactCIdiff"]
 	path = ExactCIdiff
 	url = https://github.com/cran/ExactCIdiff
+[submodule "ExactCIone"]
+	path = ExactCIone
+	url = https://github.com/cran/ExactCIone
 [submodule "ExactMed"]
 	path = ExactMed
 	url = https://github.com/cran/ExactMed
@@ -9692,6 +9698,9 @@
 [submodule "MisRepARMA"]
 	path = MisRepARMA
 	url = https://github.com/cran/MisRepARMA
+[submodule "MiscMetabar"]
+	path = MiscMetabar
+	url = https://github.com/cran/MiscMetabar
 [submodule "MissCP"]
 	path = MissCP
 	url = https://github.com/cran/MissCP
@@ -14201,6 +14210,9 @@
 [submodule "Relectoral"]
 	path = Relectoral
 	url = https://github.com/cran/Relectoral
+[submodule "ReliabilityTheory"]
+	path = ReliabilityTheory
+	url = https://github.com/cran/ReliabilityTheory
 [submodule "RelimpPCR"]
 	path = RelimpPCR
 	url = https://github.com/cran/RelimpPCR
@@ -20048,6 +20060,9 @@
 [submodule "awsMethods"]
 	path = awsMethods
 	url = https://github.com/cran/awsMethods
+[submodule "axisandallies"]
+	path = axisandallies
+	url = https://github.com/cran/axisandallies
 [submodule "azlogr"]
 	path = azlogr
 	url = https://github.com/cran/azlogr
@@ -28295,6 +28310,9 @@
 [submodule "ei.Datasets"]
 	path = ei.Datasets
 	url = https://github.com/cran/ei.Datasets
+[submodule "eiCircles"]
+	path = eiCircles
+	url = https://github.com/cran/eiCircles
 [submodule "eiCompare"]
 	path = eiCompare
 	url = https://github.com/cran/eiCompare
@@ -37115,6 +37133,9 @@
 [submodule "keras"]
 	path = keras
 	url = https://github.com/cran/keras
+[submodule "keras3"]
+	path = keras3
+	url = https://github.com/cran/keras3
 [submodule "kerastuneR"]
 	path = kerastuneR
 	url = https://github.com/cran/kerastuneR
@@ -40541,6 +40562,9 @@
 [submodule "microsynth"]
 	path = microsynth
 	url = https://github.com/cran/microsynth
+[submodule "micsr"]
+	path = micsr
+	url = https://github.com/cran/micsr
 [submodule "micss"]
 	path = micss
 	url = https://github.com/cran/micss
@@ -41972,6 +41996,9 @@
 [submodule "mulset"]
 	path = mulset
 	url = https://github.com/cran/mulset
+[submodule "mult.latent.reg"]
+	path = mult.latent.reg
+	url = https://github.com/cran/mult.latent.reg
 [submodule "multDM"]
 	path = multDM
 	url = https://github.com/cran/multDM
@@ -47507,6 +47534,9 @@
 [submodule "protein8k"]
 	path = protein8k
 	url = https://github.com/cran/protein8k
+[submodule "proteomicsCV"]
+	path = proteomicsCV
+	url = https://github.com/cran/proteomicsCV
 [submodule "proteus"]
 	path = proteus
 	url = https://github.com/cran/proteus
@@ -57467,6 +57497,9 @@
 [submodule "teal.slice"]
 	path = teal.slice
 	url = https://github.com/cran/teal.slice
+[submodule "teal.transform"]
+	path = teal.transform
+	url = https://github.com/cran/teal.transform
 [submodule "teal.widgets"]
 	path = teal.widgets
 	url = https://github.com/cran/teal.widgets
@@ -61265,6 +61298,9 @@
 [submodule "xegaGaGene"]
 	path = xegaGaGene
 	url = https://github.com/cran/xegaGaGene
+[submodule "xegaGeGene"]
+	path = xegaGeGene
+	url = https://github.com/cran/xegaGeGene
 [submodule "xegaGpGene"]
 	path = xegaGpGene
 	url = https://github.com/cran/xegaGpGene
