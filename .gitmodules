@@ -947,9 +947,6 @@
 [submodule "BFF"]
 	path = BFF
 	url = https://github.com/cran/BFF
-[submodule "BFS"]
-	path = BFS
-	url = https://github.com/cran/BFS
 [submodule "BFpack"]
 	path = BFpack
 	url = https://github.com/cran/BFpack
@@ -24557,9 +24554,6 @@
 [submodule "correctedAUC"]
 	path = correctedAUC
 	url = https://github.com/cran/correctedAUC
-[submodule "corregp"]
-	path = corregp
-	url = https://github.com/cran/corregp
 [submodule "correlation"]
 	path = correlation
 	url = https://github.com/cran/correlation
@@ -28397,9 +28391,6 @@
 [submodule "elfDistr"]
 	path = elfDistr
 	url = https://github.com/cran/elfDistr
-[submodule "elfgen"]
-	path = elfgen
-	url = https://github.com/cran/elfgen
 [submodule "elgbd"]
 	path = elgbd
 	url = https://github.com/cran/elgbd
@@ -59774,9 +59765,6 @@
 [submodule "utiml"]
 	path = utiml
 	url = https://github.com/cran/utiml
-[submodule "utr.annotation"]
-	path = utr.annotation
-	url = https://github.com/cran/utr.annotation
 [submodule "uuid"]
 	path = uuid
 	url = https://github.com/cran/uuid
