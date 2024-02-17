@@ -8141,9 +8141,6 @@
 [submodule "LPCM"]
 	path = LPCM
 	url = https://github.com/cran/LPCM
-[submodule "LPDynR"]
-	path = LPDynR
-	url = https://github.com/cran/LPDynR
 [submodule "LPGraph"]
 	path = LPGraph
 	url = https://github.com/cran/LPGraph
@@ -10034,9 +10031,6 @@
 [submodule "Mychisq"]
 	path = Mychisq
 	url = https://github.com/cran/Mychisq
-[submodule "N2H4"]
-	path = N2H4
-	url = https://github.com/cran/N2H4
 [submodule "N2R"]
 	path = N2R
 	url = https://github.com/cran/N2R
@@ -13472,9 +13466,6 @@
 [submodule "RSentiment"]
 	path = RSentiment
 	url = https://github.com/cran/RSentiment
-[submodule "RSiena"]
-	path = RSiena
-	url = https://github.com/cran/RSiena
 [submodule "RSizeBiased"]
 	path = RSizeBiased
 	url = https://github.com/cran/RSizeBiased
@@ -25823,9 +25814,6 @@
 [submodule "dataseries"]
 	path = dataseries
 	url = https://github.com/cran/dataseries
-[submodule "dataset"]
-	path = dataset
-	url = https://github.com/cran/dataset
 [submodule "datasetjson"]
 	path = datasetjson
 	url = https://github.com/cran/datasetjson
@@ -42851,9 +42839,6 @@
 [submodule "netmap"]
 	path = netmap
 	url = https://github.com/cran/netmap
-[submodule "netmediate"]
-	path = netmediate
-	url = https://github.com/cran/netmediate
 [submodule "netmeta"]
 	path = netmeta
 	url = https://github.com/cran/netmeta
@@ -43931,9 +43916,6 @@
 [submodule "odk"]
 	path = odk
 	url = https://github.com/cran/odk
-[submodule "odns"]
-	path = odns
-	url = https://github.com/cran/odns
 [submodule "odpc"]
 	path = odpc
 	url = https://github.com/cran/odpc
