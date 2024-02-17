@@ -6551,9 +6551,6 @@
 [submodule "HACSim"]
 	path = HACSim
 	url = https://github.com/cran/HACSim
-[submodule "HARModel"]
-	path = HARModel
-	url = https://github.com/cran/HARModel
 [submodule "HBSTM"]
 	path = HBSTM
 	url = https://github.com/cran/HBSTM
@@ -52463,6 +52460,9 @@
 [submodule "sazedR"]
 	path = sazedR
 	url = https://github.com/cran/sazedR
+[submodule "sbde"]
+	path = sbde
+	url = https://github.com/cran/sbde
 [submodule "sbfc"]
 	path = sbfc
 	url = https://github.com/cran/sbfc
