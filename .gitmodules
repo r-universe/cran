@@ -947,6 +947,9 @@
 [submodule "BFF"]
 	path = BFF
 	url = https://github.com/cran/BFF
+[submodule "BFS"]
+	path = BFS
+	url = https://github.com/cran/BFS
 [submodule "BFpack"]
 	path = BFpack
 	url = https://github.com/cran/BFpack
@@ -8144,6 +8147,9 @@
 [submodule "LPCM"]
 	path = LPCM
 	url = https://github.com/cran/LPCM
+[submodule "LPDynR"]
+	path = LPDynR
+	url = https://github.com/cran/LPDynR
 [submodule "LPGraph"]
 	path = LPGraph
 	url = https://github.com/cran/LPGraph
@@ -13475,6 +13481,9 @@
 [submodule "RSentiment"]
 	path = RSentiment
 	url = https://github.com/cran/RSentiment
+[submodule "RSiena"]
+	path = RSiena
+	url = https://github.com/cran/RSiena
 [submodule "RSizeBiased"]
 	path = RSizeBiased
 	url = https://github.com/cran/RSizeBiased
@@ -24572,6 +24581,9 @@
 [submodule "correctedAUC"]
 	path = correctedAUC
 	url = https://github.com/cran/correctedAUC
+[submodule "corregp"]
+	path = corregp
+	url = https://github.com/cran/corregp
 [submodule "correlation"]
 	path = correlation
 	url = https://github.com/cran/correlation
@@ -25826,6 +25838,9 @@
 [submodule "dataseries"]
 	path = dataseries
 	url = https://github.com/cran/dataseries
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/cran/dataset
 [submodule "datasetjson"]
 	path = datasetjson
 	url = https://github.com/cran/datasetjson
@@ -28412,6 +28427,9 @@
 [submodule "elfDistr"]
 	path = elfDistr
 	url = https://github.com/cran/elfDistr
+[submodule "elfgen"]
+	path = elfgen
+	url = https://github.com/cran/elfgen
 [submodule "elgbd"]
 	path = elgbd
 	url = https://github.com/cran/elgbd
@@ -42860,6 +42878,9 @@
 [submodule "netmap"]
 	path = netmap
 	url = https://github.com/cran/netmap
+[submodule "netmediate"]
+	path = netmediate
+	url = https://github.com/cran/netmediate
 [submodule "netmeta"]
 	path = netmeta
 	url = https://github.com/cran/netmeta
@@ -43937,6 +43958,9 @@
 [submodule "odk"]
 	path = odk
 	url = https://github.com/cran/odk
+[submodule "odns"]
+	path = odns
+	url = https://github.com/cran/odns
 [submodule "odpc"]
 	path = odpc
 	url = https://github.com/cran/odpc
@@ -59795,6 +59819,9 @@
 [submodule "utiml"]
 	path = utiml
 	url = https://github.com/cran/utiml
+[submodule "utr.annotation"]
+	path = utr.annotation
+	url = https://github.com/cran/utr.annotation
 [submodule "uuid"]
 	path = uuid
 	url = https://github.com/cran/uuid
