@@ -10037,6 +10037,9 @@
 [submodule "Mychisq"]
 	path = Mychisq
 	url = https://github.com/cran/Mychisq
+[submodule "N2H4"]
+	path = N2H4
+	url = https://github.com/cran/N2H4
 [submodule "N2R"]
 	path = N2R
 	url = https://github.com/cran/N2R
@@ -44882,9 +44885,6 @@
 [submodule "paleomorph"]
 	path = paleomorph
 	url = https://github.com/cran/paleomorph
-[submodule "paleopop"]
-	path = paleopop
-	url = https://github.com/cran/paleopop
 [submodule "paleotree"]
 	path = paleotree
 	url = https://github.com/cran/paleotree
@@ -46607,9 +46607,6 @@
 [submodule "podcleaner"]
 	path = podcleaner
 	url = https://github.com/cran/podcleaner
-[submodule "poems"]
-	path = poems
-	url = https://github.com/cran/poems
 [submodule "pogit"]
 	path = pogit
 	url = https://github.com/cran/pogit
