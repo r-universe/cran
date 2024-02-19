@@ -28550,9 +28550,6 @@
 [submodule "emulator"]
 	path = emulator
 	url = https://github.com/cran/emulator
-[submodule "enc"]
-	path = enc
-	url = https://github.com/cran/enc
 [submodule "encode"]
 	path = encode
 	url = https://github.com/cran/encode
@@ -41492,9 +41489,6 @@
 [submodule "mokken"]
 	path = mokken
 	url = https://github.com/cran/mokken
-[submodule "moko"]
-	path = moko
-	url = https://github.com/cran/moko
 [submodule "molaR"]
 	path = molaR
 	url = https://github.com/cran/molaR
@@ -42854,9 +42848,6 @@
 [submodule "netdiffuseR"]
 	path = netdiffuseR
 	url = https://github.com/cran/netdiffuseR
-[submodule "netgen"]
-	path = netgen
-	url = https://github.com/cran/netgen
 [submodule "netgsa"]
 	path = netgsa
 	url = https://github.com/cran/netgsa
