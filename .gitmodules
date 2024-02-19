@@ -4652,6 +4652,9 @@
 [submodule "EncDNA"]
 	path = EncDNA
 	url = https://github.com/cran/EncDNA
+[submodule "EncompassTest"]
+	path = EncompassTest
+	url = https://github.com/cran/EncompassTest
 [submodule "EnergyOnlineCPM"]
 	path = EnergyOnlineCPM
 	url = https://github.com/cran/EnergyOnlineCPM
@@ -51365,6 +51368,9 @@
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/cran/roxyglobals
+[submodule "roxylint"]
+	path = roxylint
+	url = https://github.com/cran/roxylint
 [submodule "roxytest"]
 	path = roxytest
 	url = https://github.com/cran/roxytest
