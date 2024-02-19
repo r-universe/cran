@@ -3494,6 +3494,9 @@
 [submodule "DImodelsMulti"]
 	path = DImodelsMulti
 	url = https://github.com/cran/DImodelsMulti
+[submodule "DImodelsVis"]
+	path = DImodelsVis
+	url = https://github.com/cran/DImodelsVis
 [submodule "DIscBIO"]
 	path = DIscBIO
 	url = https://github.com/cran/DIscBIO
@@ -16799,6 +16802,9 @@
 [submodule "TKCat"]
 	path = TKCat
 	url = https://github.com/cran/TKCat
+[submodule "TLCAR"]
+	path = TLCAR
+	url = https://github.com/cran/TLCAR
 [submodule "TLMoments"]
 	path = TLMoments
 	url = https://github.com/cran/TLMoments
@@ -43637,6 +43643,9 @@
 [submodule "npsm"]
 	path = npsm
 	url = https://github.com/cran/npsm
+[submodule "npsp"]
+	path = npsp
+	url = https://github.com/cran/npsp
 [submodule "npsr"]
 	path = npsr
 	url = https://github.com/cran/npsr
