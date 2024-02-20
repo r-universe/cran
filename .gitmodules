@@ -2849,6 +2849,9 @@
 [submodule "ColorNameR"]
 	path = ColorNameR
 	url = https://github.com/cran/ColorNameR
+[submodule "Colossus"]
+	path = Colossus
+	url = https://github.com/cran/Colossus
 [submodule "ComICS"]
 	path = ComICS
 	url = https://github.com/cran/ComICS
