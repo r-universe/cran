@@ -9371,6 +9371,9 @@
 [submodule "MaOEA"]
 	path = MaOEA
 	url = https://github.com/cran/MaOEA
+[submodule "MacBehaviour"]
+	path = MacBehaviour
+	url = https://github.com/cran/MacBehaviour
 [submodule "MachineShop"]
 	path = MachineShop
 	url = https://github.com/cran/MachineShop
@@ -11327,6 +11330,9 @@
 [submodule "POMaSPU"]
 	path = POMaSPU
 	url = https://github.com/cran/POMaSPU
+[submodule "POPInf"]
+	path = POPInf
+	url = https://github.com/cran/POPInf
 [submodule "POSSA"]
 	path = POSSA
 	url = https://github.com/cran/POSSA
@@ -18308,6 +18314,9 @@
 [submodule "abe"]
 	path = abe
 	url = https://github.com/cran/abe
+[submodule "aberrance"]
+	path = aberrance
+	url = https://github.com/cran/aberrance
 [submodule "abess"]
 	path = abess
 	url = https://github.com/cran/abess
@@ -23585,6 +23594,9 @@
 [submodule "cmaesr"]
 	path = cmaesr
 	url = https://github.com/cran/cmaesr
+[submodule "cmahalanobis"]
+	path = cmahalanobis
+	url = https://github.com/cran/cmahalanobis
 [submodule "cmbClust"]
 	path = cmbClust
 	url = https://github.com/cran/cmbClust
@@ -24131,6 +24143,9 @@
 [submodule "comsimitv"]
 	path = comsimitv
 	url = https://github.com/cran/comsimitv
+[submodule "comstab"]
+	path = comstab
+	url = https://github.com/cran/comstab
 [submodule "comtradr"]
 	path = comtradr
 	url = https://github.com/cran/comtradr
@@ -28511,6 +28526,9 @@
 [submodule "emdist"]
 	path = emdist
 	url = https://github.com/cran/emdist
+[submodule "emery"]
+	path = emery
+	url = https://github.com/cran/emery
 [submodule "emg"]
 	path = emg
 	url = https://github.com/cran/emg
@@ -32498,6 +32516,9 @@
 [submodule "ggborderline"]
 	path = ggborderline
 	url = https://github.com/cran/ggborderline
+[submodule "ggbrace"]
+	path = ggbrace
+	url = https://github.com/cran/ggbrace
 [submodule "ggbrain"]
 	path = ggbrain
 	url = https://github.com/cran/ggbrain
@@ -33545,6 +33566,9 @@
 [submodule "govdown"]
 	path = govdown
 	url = https://github.com/cran/govdown
+[submodule "govinfoR"]
+	path = govinfoR
+	url = https://github.com/cran/govinfoR
 [submodule "gower"]
 	path = gower
 	url = https://github.com/cran/gower
@@ -52478,6 +52502,9 @@
 [submodule "savonliquide"]
 	path = savonliquide
 	url = https://github.com/cran/savonliquide
+[submodule "savvyr"]
+	path = savvyr
+	url = https://github.com/cran/savvyr
 [submodule "sawnuti"]
 	path = sawnuti
 	url = https://github.com/cran/sawnuti
