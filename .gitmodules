@@ -36167,6 +36167,9 @@
 [submodule "interp"]
 	path = interp
 	url = https://github.com/cran/interp
+[submodule "interplex"]
+	path = interplex
+	url = https://github.com/cran/interplex
 [submodule "interplot"]
 	path = interplot
 	url = https://github.com/cran/interplot
