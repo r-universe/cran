@@ -30695,6 +30695,9 @@
 [submodule "flsa"]
 	path = flsa
 	url = https://github.com/cran/flsa
+[submodule "fluidsynth"]
+	path = fluidsynth
+	url = https://github.com/cran/fluidsynth
 [submodule "fluoSurv"]
 	path = fluoSurv
 	url = https://github.com/cran/fluoSurv
@@ -32567,6 +32570,9 @@
 [submodule "ggeffects"]
 	path = ggeffects
 	url = https://github.com/cran/ggeffects
+[submodule "ggenealogy"]
+	path = ggenealogy
+	url = https://github.com/cran/ggenealogy
 [submodule "ggetho"]
 	path = ggetho
 	url = https://github.com/cran/ggetho
