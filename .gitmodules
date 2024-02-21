@@ -11861,6 +11861,9 @@
 [submodule "PlatformDesign"]
 	path = PlatformDesign
 	url = https://github.com/cran/PlatformDesign
+[submodule "Platypus"]
+	path = Platypus
+	url = https://github.com/cran/Platypus
 [submodule "PlayerRatings"]
 	path = PlayerRatings
 	url = https://github.com/cran/PlayerRatings
@@ -17690,6 +17693,9 @@
 [submodule "VIM"]
 	path = VIM
 	url = https://github.com/cran/VIM
+[submodule "VIMPS"]
+	path = VIMPS
+	url = https://github.com/cran/VIMPS
 [submodule "VIMean"]
 	path = VIMean
 	url = https://github.com/cran/VIMean
@@ -40238,6 +40244,9 @@
 [submodule "metaheuristicOpt"]
 	path = metaheuristicOpt
 	url = https://github.com/cran/metaheuristicOpt
+[submodule "metainc"]
+	path = metainc
+	url = https://github.com/cran/metainc
 [submodule "metajam"]
 	path = metajam
 	url = https://github.com/cran/metajam
@@ -42920,6 +42929,9 @@
 [submodule "nets"]
 	path = nets
 	url = https://github.com/cran/nets
+[submodule "netseer"]
+	path = netseer
+	url = https://github.com/cran/netseer
 [submodule "netseg"]
 	path = netseg
 	url = https://github.com/cran/netseg
@@ -52268,6 +52280,9 @@
 [submodule "saemix"]
 	path = saemix
 	url = https://github.com/cran/saemix
+[submodule "saens"]
+	path = saens
+	url = https://github.com/cran/saens
 [submodule "safedata"]
 	path = safedata
 	url = https://github.com/cran/safedata
