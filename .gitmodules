@@ -14630,6 +14630,9 @@
 [submodule "Rpoppler"]
 	path = Rpoppler
 	url = https://github.com/cran/Rpoppler
+[submodule "RprobitB"]
+	path = RprobitB
+	url = https://github.com/cran/RprobitB
 [submodule "Rprofet"]
 	path = Rprofet
 	url = https://github.com/cran/Rprofet
@@ -19307,6 +19310,9 @@
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/cran/anytime
+[submodule "ao"]
+	path = ao
+	url = https://github.com/cran/ao
 [submodule "aod"]
 	path = aod
 	url = https://github.com/cran/aod
@@ -29558,6 +29564,9 @@
 [submodule "fGarch"]
 	path = fGarch
 	url = https://github.com/cran/fGarch
+[submodule "fHMM"]
+	path = fHMM
+	url = https://github.com/cran/fHMM
 [submodule "fICA"]
 	path = fICA
 	url = https://github.com/cran/fICA
@@ -33767,6 +33776,9 @@
 [submodule "graticule"]
 	path = graticule
 	url = https://github.com/cran/graticule
+[submodule "gratis"]
+	path = gratis
+	url = https://github.com/cran/gratis
 [submodule "grattan"]
 	path = grattan
 	url = https://github.com/cran/grattan
@@ -44000,6 +44012,9 @@
 [submodule "odr"]
 	path = odr
 	url = https://github.com/cran/odr
+[submodule "oeli"]
+	path = oeli
+	url = https://github.com/cran/oeli
 [submodule "oem"]
 	path = oem
 	url = https://github.com/cran/oem
@@ -44414,6 +44429,9 @@
 [submodule "optimization"]
 	path = optimization
 	url = https://github.com/cran/optimization
+[submodule "optimizeR"]
+	path = optimizeR
+	url = https://github.com/cran/optimizeR
 [submodule "optimos.prime"]
 	path = optimos.prime
 	url = https://github.com/cran/optimos.prime
@@ -55694,6 +55712,9 @@
 [submodule "spmoran"]
 	path = spmoran
 	url = https://github.com/cran/spmoran
+[submodule "spnaf"]
+	path = spnaf
+	url = https://github.com/cran/spnaf
 [submodule "spnn"]
 	path = spnn
 	url = https://github.com/cran/spnn
