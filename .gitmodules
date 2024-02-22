@@ -35258,6 +35258,9 @@
 [submodule "hyperSpec"]
 	path = hyperSpec
 	url = https://github.com/cran/hyperSpec
+[submodule "hyperbolicDEA"]
+	path = hyperbolicDEA
+	url = https://github.com/cran/hyperbolicDEA
 [submodule "hypercube"]
 	path = hypercube
 	url = https://github.com/cran/hypercube
