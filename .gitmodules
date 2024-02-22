@@ -22823,6 +22823,9 @@
 [submodule "cfdecomp"]
 	path = cfdecomp
 	url = https://github.com/cran/cfdecomp
+[submodule "cffdrs"]
+	path = cffdrs
+	url = https://github.com/cran/cffdrs
 [submodule "cffr"]
 	path = cffr
 	url = https://github.com/cran/cffr
