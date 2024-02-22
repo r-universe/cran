@@ -3509,6 +3509,9 @@
 [submodule "DLASSO"]
 	path = DLASSO
 	url = https://github.com/cran/DLASSO
+[submodule "DLEGFM"]
+	path = DLEGFM
+	url = https://github.com/cran/DLEGFM
 [submodule "DLL"]
 	path = DLL
 	url = https://github.com/cran/DLL
@@ -60476,6 +60479,9 @@
 [submodule "volesti"]
 	path = volesti
 	url = https://github.com/cran/volesti
+[submodule "volker"]
+	path = volker
+	url = https://github.com/cran/volker
 [submodule "volleystat"]
 	path = volleystat
 	url = https://github.com/cran/volleystat
