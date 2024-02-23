@@ -962,6 +962,9 @@
 [submodule "BGGE"]
 	path = BGGE
 	url = https://github.com/cran/BGGE
+[submodule "BGGM"]
+	path = BGGM
+	url = https://github.com/cran/BGGM
 [submodule "BGLR"]
 	path = BGLR
 	url = https://github.com/cran/BGLR
