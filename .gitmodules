@@ -3452,6 +3452,9 @@
 [submodule "DIDmultiplegt"]
 	path = DIDmultiplegt
 	url = https://github.com/cran/DIDmultiplegt
+[submodule "DIDmultiplegtDYN"]
+	path = DIDmultiplegtDYN
+	url = https://github.com/cran/DIDmultiplegtDYN
 [submodule "DIFboost"]
 	path = DIFboost
 	url = https://github.com/cran/DIFboost
@@ -6473,6 +6476,9 @@
 [submodule "GoodFibes"]
 	path = GoodFibes
 	url = https://github.com/cran/GoodFibes
+[submodule "GoodFitSBM"]
+	path = GoodFitSBM
+	url = https://github.com/cran/GoodFitSBM
 [submodule "GoodmanKruskal"]
 	path = GoodmanKruskal
 	url = https://github.com/cran/GoodmanKruskal
@@ -8243,6 +8249,9 @@
 [submodule "LSTS"]
 	path = LSTS
 	url = https://github.com/cran/LSTS
+[submodule "LSTbook"]
+	path = LSTbook
+	url = https://github.com/cran/LSTbook
 [submodule "LSVAR"]
 	path = LSVAR
 	url = https://github.com/cran/LSVAR
@@ -12362,6 +12371,9 @@
 [submodule "QuadRoot"]
 	path = QuadRoot
 	url = https://github.com/cran/QuadRoot
+[submodule "QuadratiK"]
+	path = QuadratiK
+	url = https://github.com/cran/QuadratiK
 [submodule "Quandl"]
 	path = Quandl
 	url = https://github.com/cran/Quandl
@@ -15575,6 +15587,9 @@
 [submodule "STGS"]
 	path = STGS
 	url = https://github.com/cran/STGS
+[submodule "STMotif"]
+	path = STMotif
+	url = https://github.com/cran/STMotif
 [submodule "STMr"]
 	path = STMr
 	url = https://github.com/cran/STMr
@@ -18350,6 +18365,9 @@
 [submodule "abseil"]
 	path = abseil
 	url = https://github.com/cran/abseil
+[submodule "absorber"]
+	path = absorber
+	url = https://github.com/cran/absorber
 [submodule "abstr"]
 	path = abstr
 	url = https://github.com/cran/abstr
@@ -29141,6 +29159,9 @@
 [submodule "eurodata"]
 	path = eurodata
 	url = https://github.com/cran/eurodata
+[submodule "euroleaguer"]
+	path = euroleaguer
+	url = https://github.com/cran/euroleaguer
 [submodule "europeanaR"]
 	path = europeanaR
 	url = https://github.com/cran/europeanaR
@@ -31232,6 +31253,9 @@
 [submodule "fsbrain"]
 	path = fsbrain
 	url = https://github.com/cran/fsbrain
+[submodule "fscache"]
+	path = fscache
+	url = https://github.com/cran/fscache
 [submodule "fscaret"]
 	path = fscaret
 	url = https://github.com/cran/fscaret
@@ -35378,6 +35402,9 @@
 [submodule "iNEXT.3D"]
 	path = iNEXT.3D
 	url = https://github.com/cran/iNEXT.3D
+[submodule "iNEXT.beta3D"]
+	path = iNEXT.beta3D
+	url = https://github.com/cran/iNEXT.beta3D
 [submodule "iNZightMR"]
 	path = iNZightMR
 	url = https://github.com/cran/iNZightMR
@@ -36716,6 +36743,9 @@
 [submodule "ivx"]
 	path = ivx
 	url = https://github.com/cran/ivx
+[submodule "iwaqr"]
+	path = iwaqr
+	url = https://github.com/cran/iwaqr
 [submodule "ixplorer"]
 	path = ixplorer
 	url = https://github.com/cran/ixplorer
@@ -38981,6 +39011,9 @@
 [submodule "lterpalettefinder"]
 	path = lterpalettefinder
 	url = https://github.com/cran/lterpalettefinder
+[submodule "ltertools"]
+	path = ltertools
+	url = https://github.com/cran/ltertools
 [submodule "ltm"]
 	path = ltm
 	url = https://github.com/cran/ltm
@@ -40478,6 +40511,9 @@
 [submodule "mgsub"]
 	path = mgsub
 	url = https://github.com/cran/mgsub
+[submodule "mgwnbr"]
+	path = mgwnbr
+	url = https://github.com/cran/mgwnbr
 [submodule "mgwrsar"]
 	path = mgwrsar
 	url = https://github.com/cran/mgwrsar
@@ -46373,6 +46409,9 @@
 [submodule "planr"]
 	path = planr
 	url = https://github.com/cran/planr
+[submodule "planscorer"]
+	path = planscorer
+	url = https://github.com/cran/planscorer
 [submodule "plantTracker"]
 	path = plantTracker
 	url = https://github.com/cran/plantTracker
@@ -51767,6 +51806,9 @@
 [submodule "rstanarm"]
 	path = rstanarm
 	url = https://github.com/cran/rstanarm
+[submodule "rstanbdp"]
+	path = rstanbdp
+	url = https://github.com/cran/rstanbdp
 [submodule "rstanemax"]
 	path = rstanemax
 	url = https://github.com/cran/rstanemax
@@ -57575,6 +57617,9 @@
 [submodule "teal.logger"]
 	path = teal.logger
 	url = https://github.com/cran/teal.logger
+[submodule "teal.modules.clinical"]
+	path = teal.modules.clinical
+	url = https://github.com/cran/teal.modules.clinical
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/cran/teal.reporter
