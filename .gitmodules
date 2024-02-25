@@ -51674,9 +51674,6 @@
 [submodule "rsatscan"]
 	path = rsatscan
 	url = https://github.com/cran/rsatscan
-[submodule "rsbp"]
-	path = rsbp
-	url = https://github.com/cran/rsbp
 [submodule "rscc"]
 	path = rscc
 	url = https://github.com/cran/rscc
@@ -58205,9 +58202,6 @@
 [submodule "tidygapminder"]
 	path = tidygapminder
 	url = https://github.com/cran/tidygapminder
-[submodule "tidygate"]
-	path = tidygate
-	url = https://github.com/cran/tidygate
 [submodule "tidygenomics"]
 	path = tidygenomics
 	url = https://github.com/cran/tidygenomics
