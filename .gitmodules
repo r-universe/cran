@@ -33011,9 +33011,6 @@
 [submodule "ggtibble"]
 	path = ggtibble
 	url = https://github.com/cran/ggtibble
-[submodule "ggtikz"]
-	path = ggtikz
-	url = https://github.com/cran/ggtikz
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/cran/ggtrace
@@ -41414,9 +41411,6 @@
 [submodule "mobilityIndexR"]
 	path = mobilityIndexR
 	url = https://github.com/cran/mobilityIndexR
-[submodule "mobirep"]
-	path = mobirep
-	url = https://github.com/cran/mobirep
 [submodule "mobr"]
 	path = mobr
 	url = https://github.com/cran/mobr
@@ -50981,9 +50975,6 @@
 [submodule "rmda"]
 	path = rmda
 	url = https://github.com/cran/rmda
-[submodule "rmdcev"]
-	path = rmdcev
-	url = https://github.com/cran/rmdcev
 [submodule "rmdfiltr"]
 	path = rmdfiltr
 	url = https://github.com/cran/rmdfiltr
