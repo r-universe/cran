@@ -2057,6 +2057,9 @@
 [submodule "CFF"]
 	path = CFF
 	url = https://github.com/cran/CFF
+[submodule "CFO"]
+	path = CFO
+	url = https://github.com/cran/CFO
 [submodule "CFilt"]
 	path = CFilt
 	url = https://github.com/cran/CFilt
@@ -21047,6 +21050,9 @@
 [submodule "bigrquery"]
 	path = bigrquery
 	url = https://github.com/cran/bigrquery
+[submodule "bigrquerystorage"]
+	path = bigrquerystorage
+	url = https://github.com/cran/bigrquerystorage
 [submodule "bigsimr"]
 	path = bigsimr
 	url = https://github.com/cran/bigsimr
@@ -23516,6 +23522,9 @@
 [submodule "clugenr"]
 	path = clugenr
 	url = https://github.com/cran/clugenr
+[submodule "clusEvol"]
+	path = clusEvol
+	url = https://github.com/cran/clusEvol
 [submodule "clusTransition"]
 	path = clusTransition
 	url = https://github.com/cran/clusTransition
@@ -24356,6 +24365,9 @@
 [submodule "connections"]
 	path = connections
 	url = https://github.com/cran/connections
+[submodule "connectoModa"]
+	path = connectoModa
+	url = https://github.com/cran/connectoModa
 [submodule "connectwidgets"]
 	path = connectwidgets
 	url = https://github.com/cran/connectwidgets
@@ -47393,6 +47405,9 @@
 [submodule "prevederer"]
 	path = prevederer
 	url = https://github.com/cran/prevederer
+[submodule "preventr"]
+	path = preventr
+	url = https://github.com/cran/preventr
 [submodule "previsionio"]
 	path = previsionio
 	url = https://github.com/cran/previsionio
@@ -49340,6 +49355,9 @@
 [submodule "raws.profile"]
 	path = raws.profile
 	url = https://github.com/cran/raws.profile
+[submodule "raybevel"]
+	path = raybevel
+	url = https://github.com/cran/raybevel
 [submodule "rayimage"]
 	path = rayimage
 	url = https://github.com/cran/rayimage
