@@ -33011,6 +33011,9 @@
 [submodule "ggtibble"]
 	path = ggtibble
 	url = https://github.com/cran/ggtibble
+[submodule "ggtikz"]
+	path = ggtikz
+	url = https://github.com/cran/ggtikz
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/cran/ggtrace
@@ -41411,6 +41414,9 @@
 [submodule "mobilityIndexR"]
 	path = mobilityIndexR
 	url = https://github.com/cran/mobilityIndexR
+[submodule "mobirep"]
+	path = mobirep
+	url = https://github.com/cran/mobirep
 [submodule "mobr"]
 	path = mobr
 	url = https://github.com/cran/mobr
@@ -50972,6 +50978,9 @@
 [submodule "rmda"]
 	path = rmda
 	url = https://github.com/cran/rmda
+[submodule "rmdcev"]
+	path = rmdcev
+	url = https://github.com/cran/rmdcev
 [submodule "rmdfiltr"]
 	path = rmdfiltr
 	url = https://github.com/cran/rmdfiltr
@@ -51671,6 +51680,9 @@
 [submodule "rsatscan"]
 	path = rsatscan
 	url = https://github.com/cran/rsatscan
+[submodule "rsbp"]
+	path = rsbp
+	url = https://github.com/cran/rsbp
 [submodule "rscc"]
 	path = rscc
 	url = https://github.com/cran/rscc
@@ -58199,6 +58211,9 @@
 [submodule "tidygapminder"]
 	path = tidygapminder
 	url = https://github.com/cran/tidygapminder
+[submodule "tidygate"]
+	path = tidygate
+	url = https://github.com/cran/tidygate
 [submodule "tidygenomics"]
 	path = tidygenomics
 	url = https://github.com/cran/tidygenomics
