@@ -22901,9 +22901,6 @@
 [submodule "cgmquantify"]
 	path = cgmquantify
 	url = https://github.com/cran/cgmquantify
-[submodule "cgrcusum"]
-	path = cgrcusum
-	url = https://github.com/cran/cgrcusum
 [submodule "cgwtools"]
 	path = cgwtools
 	url = https://github.com/cran/cgwtools
@@ -24071,6 +24068,9 @@
 [submodule "cometr"]
 	path = cometr
 	url = https://github.com/cran/cometr
+[submodule "comets"]
+	path = comets
+	url = https://github.com/cran/comets
 [submodule "comf"]
 	path = comf
 	url = https://github.com/cran/comf
@@ -54761,6 +54761,9 @@
 [submodule "smcfcs"]
 	path = smcfcs
 	url = https://github.com/cran/smcfcs
+[submodule "smcryptoR"]
+	path = smcryptoR
+	url = https://github.com/cran/smcryptoR
 [submodule "smcure"]
 	path = smcure
 	url = https://github.com/cran/smcure
