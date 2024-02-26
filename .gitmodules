@@ -1304,6 +1304,9 @@
 [submodule "BayesCTDesign"]
 	path = BayesCTDesign
 	url = https://github.com/cran/BayesCTDesign
+[submodule "BayesCVI"]
+	path = BayesCVI
+	url = https://github.com/cran/BayesCVI
 [submodule "BayesCombo"]
 	path = BayesCombo
 	url = https://github.com/cran/BayesCombo
@@ -13736,6 +13739,9 @@
 [submodule "RankingProject"]
 	path = RankingProject
 	url = https://github.com/cran/RankingProject
+[submodule "Rapi"]
+	path = Rapi
+	url = https://github.com/cran/Rapi
 [submodule "RapidPolygonLookup"]
 	path = RapidPolygonLookup
 	url = https://github.com/cran/RapidPolygonLookup
@@ -52475,6 +52481,9 @@
 [submodule "sanityTracker"]
 	path = sanityTracker
 	url = https://github.com/cran/sanityTracker
+[submodule "sanketphonetictranslator"]
+	path = sanketphonetictranslator
+	url = https://github.com/cran/sanketphonetictranslator
 [submodule "sankey"]
 	path = sankey
 	url = https://github.com/cran/sankey
