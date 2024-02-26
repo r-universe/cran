@@ -17591,6 +17591,9 @@
 [submodule "UniIsoRegression"]
 	path = UniIsoRegression
 	url = https://github.com/cran/UniIsoRegression
+[submodule "Unico"]
+	path = Unico
+	url = https://github.com/cran/Unico
 [submodule "Unicode"]
 	path = Unicode
 	url = https://github.com/cran/Unicode
@@ -22382,6 +22385,9 @@
 [submodule "cardidates"]
 	path = cardidates
 	url = https://github.com/cran/cardidates
+[submodule "cards"]
+	path = cards
+	url = https://github.com/cran/cards
 [submodule "care"]
 	path = care
 	url = https://github.com/cran/care
