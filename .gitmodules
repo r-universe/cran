@@ -58895,6 +58895,9 @@
 [submodule "trackeRapp"]
 	path = trackeRapp
 	url = https://github.com/cran/trackeRapp
+[submodule "tractor.base"]
+	path = tractor.base
+	url = https://github.com/cran/tractor.base
 [submodule "trade"]
 	path = trade
 	url = https://github.com/cran/trade
