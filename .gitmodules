@@ -5282,6 +5282,9 @@
 [submodule "FWRGB"]
 	path = FWRGB
 	url = https://github.com/cran/FWRGB
+[submodule "FaaSr"]
+	path = FaaSr
+	url = https://github.com/cran/FaaSr
 [submodule "FactoClass"]
 	path = FactoClass
 	url = https://github.com/cran/FactoClass
@@ -6644,6 +6647,9 @@
 [submodule "HDMT"]
 	path = HDMT
 	url = https://github.com/cran/HDMT
+[submodule "HDNRA"]
+	path = HDNRA
+	url = https://github.com/cran/HDNRA
 [submodule "HDOMDesign"]
 	path = HDOMDesign
 	url = https://github.com/cran/HDOMDesign
@@ -19508,6 +19514,9 @@
 [submodule "arcgeocoder"]
 	path = arcgeocoder
 	url = https://github.com/cran/arcgeocoder
+[submodule "arcgislayers"]
+	path = arcgislayers
+	url = https://github.com/cran/arcgislayers
 [submodule "arcgisutils"]
 	path = arcgisutils
 	url = https://github.com/cran/arcgisutils
@@ -20624,6 +20633,9 @@
 [submodule "bcdata"]
 	path = bcdata
 	url = https://github.com/cran/bcdata
+[submodule "bcf"]
+	path = bcf
+	url = https://github.com/cran/bcf
 [submodule "bcfrailph"]
 	path = bcfrailph
 	url = https://github.com/cran/bcfrailph
@@ -45551,6 +45563,9 @@
 [submodule "pct"]
 	path = pct
 	url = https://github.com/cran/pct
+[submodule "pctax"]
+	path = pctax
+	url = https://github.com/cran/pctax
 [submodule "pcts"]
 	path = pcts
 	url = https://github.com/cran/pcts
@@ -49853,6 +49868,9 @@
 [submodule "recmap"]
 	path = recmap
 	url = https://github.com/cran/recmap
+[submodule "recmetrics"]
+	path = recmetrics
+	url = https://github.com/cran/recmetrics
 [submodule "recodeflow"]
 	path = recodeflow
 	url = https://github.com/cran/recodeflow
@@ -58820,6 +58838,9 @@
 [submodule "toxEval"]
 	path = toxEval
 	url = https://github.com/cran/toxEval
+[submodule "toxSummary"]
+	path = toxSummary
+	url = https://github.com/cran/toxSummary
 [submodule "toxpiR"]
 	path = toxpiR
 	url = https://github.com/cran/toxpiR
@@ -61151,6 +61172,9 @@
 [submodule "winfapReader"]
 	path = winfapReader
 	url = https://github.com/cran/winfapReader
+[submodule "wingen"]
+	path = wingen
+	url = https://github.com/cran/wingen
 [submodule "wiqid"]
 	path = wiqid
 	url = https://github.com/cran/wiqid
