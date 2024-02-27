@@ -46673,9 +46673,6 @@
 [submodule "pm3"]
 	path = pm3
 	url = https://github.com/cran/pm3
-[submodule "pmartR"]
-	path = pmartR
-	url = https://github.com/cran/pmartR
 [submodule "pmc"]
 	path = pmc
 	url = https://github.com/cran/pmc
@@ -58886,9 +58883,6 @@
 [submodule "trackeRapp"]
 	path = trackeRapp
 	url = https://github.com/cran/trackeRapp
-[submodule "tractor.base"]
-	path = tractor.base
-	url = https://github.com/cran/tractor.base
 [submodule "trade"]
 	path = trade
 	url = https://github.com/cran/trade
