@@ -395,9 +395,6 @@
 [submodule "AcademicThemes"]
 	path = AcademicThemes
 	url = https://github.com/cran/AcademicThemes
-[submodule "AccelStab"]
-	path = AccelStab
-	url = https://github.com/cran/AccelStab
 [submodule "AcceptanceSampling"]
 	path = AcceptanceSampling
 	url = https://github.com/cran/AcceptanceSampling
