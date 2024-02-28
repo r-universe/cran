@@ -9197,6 +9197,9 @@
 [submodule "MQMF"]
 	path = MQMF
 	url = https://github.com/cran/MQMF
+[submodule "MR.RGM"]
+	path = MR.RGM
+	url = https://github.com/cran/MR.RGM
 [submodule "MRCE"]
 	path = MRCE
 	url = https://github.com/cran/MRCE
@@ -59348,6 +59351,9 @@
 [submodule "tsne"]
 	path = tsne
 	url = https://github.com/cran/tsne
+[submodule "tsnet"]
+	path = tsnet
+	url = https://github.com/cran/tsnet
 [submodule "tsoutliers"]
 	path = tsoutliers
 	url = https://github.com/cran/tsoutliers
@@ -60191,6 +60197,9 @@
 [submodule "vaultr"]
 	path = vaultr
 	url = https://github.com/cran/vaultr
+[submodule "vaxpmx"]
+	path = vaxpmx
+	url = https://github.com/cran/vaxpmx
 [submodule "vccp"]
 	path = vccp
 	url = https://github.com/cran/vccp
