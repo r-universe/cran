@@ -314,6 +314,9 @@
 [submodule "ARIbrain"]
 	path = ARIbrain
 	url = https://github.com/cran/ARIbrain
+[submodule "ARMALSTM"]
+	path = ARMALSTM
+	url = https://github.com/cran/ARMALSTM
 [submodule "AROC"]
 	path = AROC
 	url = https://github.com/cran/AROC
@@ -3191,6 +3194,9 @@
 [submodule "Cubist"]
 	path = Cubist
 	url = https://github.com/cran/Cubist
+[submodule "CureAuxSP"]
+	path = CureAuxSP
+	url = https://github.com/cran/CureAuxSP
 [submodule "CureDepCens"]
 	path = CureDepCens
 	url = https://github.com/cran/CureDepCens
@@ -19016,6 +19022,9 @@
 [submodule "alakazam"]
 	path = alakazam
 	url = https://github.com/cran/alakazam
+[submodule "alarmdata"]
+	path = alarmdata
+	url = https://github.com/cran/alarmdata
 [submodule "albatross"]
 	path = albatross
 	url = https://github.com/cran/albatross
@@ -30158,6 +30167,9 @@
 [submodule "fdapaceShiny"]
 	path = fdapaceShiny
 	url = https://github.com/cran/fdapaceShiny
+[submodule "fdarep"]
+	path = fdarep
+	url = https://github.com/cran/fdarep
 [submodule "fdasrvf"]
 	path = fdasrvf
 	url = https://github.com/cran/fdasrvf
@@ -30623,6 +30635,9 @@
 [submodule "flan"]
 	path = flan
 	url = https://github.com/cran/flan
+[submodule "flap"]
+	path = flap
+	url = https://github.com/cran/flap
 [submodule "flare"]
 	path = flare
 	url = https://github.com/cran/flare
@@ -33113,6 +33128,9 @@
 [submodule "gibble"]
 	path = gibble
 	url = https://github.com/cran/gibble
+[submodule "gie"]
+	path = gie
+	url = https://github.com/cran/gie
 [submodule "gif"]
 	path = gif
 	url = https://github.com/cran/gif
@@ -34094,6 +34112,9 @@
 [submodule "gscounts"]
 	path = gscounts
 	url = https://github.com/cran/gscounts
+[submodule "gscramble"]
+	path = gscramble
+	url = https://github.com/cran/gscramble
 [submodule "gsdensity"]
 	path = gsdensity
 	url = https://github.com/cran/gsdensity
@@ -50627,6 +50648,9 @@
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/cran/rgl
+[submodule "rgl.cry"]
+	path = rgl.cry
+	url = https://github.com/cran/rgl.cry
 [submodule "rgl2gltf"]
 	path = rgl2gltf
 	url = https://github.com/cran/rgl2gltf
