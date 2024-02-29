@@ -15197,6 +15197,9 @@
 [submodule "SIMplyBee"]
 	path = SIMplyBee
 	url = https://github.com/cran/SIMplyBee
+[submodule "SINRELEF.LD"]
+	path = SINRELEF.LD
+	url = https://github.com/cran/SINRELEF.LD
 [submodule "SIPDIBGE"]
 	path = SIPDIBGE
 	url = https://github.com/cran/SIPDIBGE
@@ -18854,6 +18857,9 @@
 [submodule "agRee"]
 	path = agRee
 	url = https://github.com/cran/agRee
+[submodule "agcounts"]
+	path = agcounts
+	url = https://github.com/cran/agcounts
 [submodule "ageg"]
 	path = ageg
 	url = https://github.com/cran/ageg
@@ -23153,6 +23159,9 @@
 [submodule "choroplethrMaps"]
 	path = choroplethrMaps
 	url = https://github.com/cran/choroplethrMaps
+[submodule "chouca"]
+	path = chouca
+	url = https://github.com/cran/chouca
 [submodule "christmas"]
 	path = christmas
 	url = https://github.com/cran/christmas
@@ -45047,6 +45056,9 @@
 [submodule "paleoTS"]
 	path = paleoTS
 	url = https://github.com/cran/paleoTS
+[submodule "paleobioDB"]
+	path = paleobioDB
+	url = https://github.com/cran/paleobioDB
 [submodule "paleobuddy"]
 	path = paleobuddy
 	url = https://github.com/cran/paleobuddy
@@ -51143,6 +51155,9 @@
 [submodule "rmzqc"]
 	path = rmzqc
 	url = https://github.com/cran/rmzqc
+[submodule "rnaCrosslinkOO"]
+	path = rnaCrosslinkOO
+	url = https://github.com/cran/rnaCrosslinkOO
 [submodule "rnassqs"]
 	path = rnassqs
 	url = https://github.com/cran/rnassqs
