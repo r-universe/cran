@@ -8441,6 +8441,9 @@
 [submodule "LifemapR"]
 	path = LifemapR
 	url = https://github.com/cran/LifemapR
+[submodule "Lifertable"]
+	path = Lifertable
+	url = https://github.com/cran/Lifertable
 [submodule "LiftTest"]
 	path = LiftTest
 	url = https://github.com/cran/LiftTest
@@ -42275,9 +42278,9 @@
 [submodule "multilevelTools"]
 	path = multilevelTools
 	url = https://github.com/cran/multilevelTools
-[submodule "multilevelcoda"]
-	path = multilevelcoda
-	url = https://github.com/cran/multilevelcoda
+[submodule "multilevelmediation"]
+	path = multilevelmediation
+	url = https://github.com/cran/multilevelmediation
 [submodule "multilevelmod"]
 	path = multilevelmod
 	url = https://github.com/cran/multilevelmod
@@ -43604,6 +43607,9 @@
 [submodule "norm"]
 	path = norm
 	url = https://github.com/cran/norm
+[submodule "normaliseR"]
+	path = normaliseR
+	url = https://github.com/cran/normaliseR
 [submodule "normalize"]
 	path = normalize
 	url = https://github.com/cran/normalize
