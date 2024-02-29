@@ -7730,6 +7730,9 @@
 [submodule "JQL"]
 	path = JQL
 	url = https://github.com/cran/JQL
+[submodule "JSDNE"]
+	path = JSDNE
+	url = https://github.com/cran/JSDNE
 [submodule "JSM"]
 	path = JSM
 	url = https://github.com/cran/JSM
@@ -15800,6 +15803,9 @@
 [submodule "SemiPar"]
 	path = SemiPar
 	url = https://github.com/cran/SemiPar
+[submodule "SemiPar.depCens"]
+	path = SemiPar.depCens
+	url = https://github.com/cran/SemiPar.depCens
 [submodule "SenSpe"]
 	path = SenSpe
 	url = https://github.com/cran/SenSpe
@@ -27206,6 +27212,9 @@
 [submodule "dlib"]
 	path = dlib
 	url = https://github.com/cran/dlib
+[submodule "dlim"]
+	path = dlim
+	url = https://github.com/cran/dlim
 [submodule "dlm"]
 	path = dlm
 	url = https://github.com/cran/dlm
@@ -40271,6 +40280,9 @@
 [submodule "metaCluster"]
 	path = metaCluster
 	url = https://github.com/cran/metaCluster
+[submodule "metaConvert"]
+	path = metaConvert
+	url = https://github.com/cran/metaConvert
 [submodule "metaDigitise"]
 	path = metaDigitise
 	url = https://github.com/cran/metaDigitise
@@ -51566,6 +51578,9 @@
 [submodule "roxytest"]
 	path = roxytest
 	url = https://github.com/cran/roxytest
+[submodule "roxytypes"]
+	path = roxytypes
+	url = https://github.com/cran/roxytypes
 [submodule "rpact"]
 	path = rpact
 	url = https://github.com/cran/rpact
@@ -55637,6 +55652,9 @@
 [submodule "specr"]
 	path = specr
 	url = https://github.com/cran/specr
+[submodule "specs"]
+	path = specs
+	url = https://github.com/cran/specs
 [submodule "spectacles"]
 	path = spectacles
 	url = https://github.com/cran/spectacles
