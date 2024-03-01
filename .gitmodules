@@ -1892,9 +1892,6 @@
 [submodule "CADFtest"]
 	path = CADFtest
 	url = https://github.com/cran/CADFtest
-[submodule "CADStat"]
-	path = CADStat
-	url = https://github.com/cran/CADStat
 [submodule "CAGR"]
 	path = CAGR
 	url = https://github.com/cran/CAGR
