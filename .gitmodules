@@ -5318,9 +5318,6 @@
 [submodule "FairMclus"]
 	path = FairMclus
 	url = https://github.com/cran/FairMclus
-[submodule "FamEvent"]
-	path = FamEvent
-	url = https://github.com/cran/FamEvent
 [submodule "Familias"]
 	path = Familias
 	url = https://github.com/cran/Familias
@@ -14966,9 +14963,6 @@
 [submodule "SCCI"]
 	path = SCCI
 	url = https://github.com/cran/SCCI
-[submodule "SCCS"]
-	path = SCCS
-	url = https://github.com/cran/SCCS
 [submodule "SCDB"]
 	path = SCDB
 	url = https://github.com/cran/SCDB
@@ -19850,9 +19844,6 @@
 [submodule "assertive.numbers"]
 	path = assertive.numbers
 	url = https://github.com/cran/assertive.numbers
-[submodule "assertive.reflection"]
-	path = assertive.reflection
-	url = https://github.com/cran/assertive.reflection
 [submodule "assertive.sets"]
 	path = assertive.sets
 	url = https://github.com/cran/assertive.sets
@@ -21584,9 +21575,6 @@
 [submodule "bmstdr"]
 	path = bmstdr
 	url = https://github.com/cran/bmstdr
-[submodule "bnClustOmics"]
-	path = bnClustOmics
-	url = https://github.com/cran/bnClustOmics
 [submodule "bndesr"]
 	path = bndesr
 	url = https://github.com/cran/bndesr
@@ -24956,9 +24944,6 @@
 [submodule "coxme"]
 	path = coxme
 	url = https://github.com/cran/coxme
-[submodule "coxphMIC"]
-	path = coxphMIC
-	url = https://github.com/cran/coxphMIC
 [submodule "coxphSGD"]
 	path = coxphSGD
 	url = https://github.com/cran/coxphSGD
@@ -41132,9 +41117,6 @@
 [submodule "mixpoissonreg"]
 	path = mixpoissonreg
 	url = https://github.com/cran/mixpoissonreg
-[submodule "mixreg"]
-	path = mixreg
-	url = https://github.com/cran/mixreg
 [submodule "mixsmsn"]
 	path = mixsmsn
 	url = https://github.com/cran/mixsmsn
@@ -51062,9 +51044,6 @@
 [submodule "rmake"]
 	path = rmake
 	url = https://github.com/cran/rmake
-[submodule "rmangal"]
-	path = rmangal
-	url = https://github.com/cran/rmangal
 [submodule "rmapshaper"]
 	path = rmapshaper
 	url = https://github.com/cran/rmapshaper
