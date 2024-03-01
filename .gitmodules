@@ -10829,6 +10829,9 @@
 [submodule "OmicsPLS"]
 	path = OmicsPLS
 	url = https://github.com/cran/OmicsPLS
+[submodule "OmicsQC"]
+	path = OmicsQC
+	url = https://github.com/cran/OmicsQC
 [submodule "Omisc"]
 	path = Omisc
 	url = https://github.com/cran/Omisc
@@ -17228,6 +17231,9 @@
 [submodule "TestingSimilarity"]
 	path = TestingSimilarity
 	url = https://github.com/cran/TestingSimilarity
+[submodule "TestsSymmetry"]
+	path = TestsSymmetry
+	url = https://github.com/cran/TestsSymmetry
 [submodule "Tex4exams"]
 	path = Tex4exams
 	url = https://github.com/cran/Tex4exams
@@ -32993,6 +32999,9 @@
 [submodule "ggroups"]
 	path = ggroups
 	url = https://github.com/cran/ggroups
+[submodule "ggsankeyfier"]
+	path = ggsankeyfier
+	url = https://github.com/cran/ggsankeyfier
 [submodule "ggsci"]
 	path = ggsci
 	url = https://github.com/cran/ggsci
@@ -52874,6 +52883,9 @@
 [submodule "scbursts"]
 	path = scbursts
 	url = https://github.com/cran/scbursts
+[submodule "sccca"]
+	path = sccca
+	url = https://github.com/cran/sccca
 [submodule "scclust"]
 	path = scclust
 	url = https://github.com/cran/scclust
