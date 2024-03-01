@@ -34379,6 +34379,9 @@
 [submodule "hablar"]
 	path = hablar
 	url = https://github.com/cran/hablar
+[submodule "habtools"]
+	path = habtools
+	url = https://github.com/cran/habtools
 [submodule "hackeRnews"]
 	path = hackeRnews
 	url = https://github.com/cran/hackeRnews
