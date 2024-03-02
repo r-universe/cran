@@ -4832,9 +4832,6 @@
 [submodule "Evacluster"]
 	path = Evacluster
 	url = https://github.com/cran/Evacluster
-[submodule "EvalEst"]
-	path = EvalEst
-	url = https://github.com/cran/EvalEst
 [submodule "EvaluateCore"]
 	path = EvaluateCore
 	url = https://github.com/cran/EvaluateCore
@@ -27641,9 +27638,6 @@
 [submodule "dsdp"]
 	path = dsdp
 	url = https://github.com/cran/dsdp
-[submodule "dse"]
-	path = dse
-	url = https://github.com/cran/dse
 [submodule "dsem"]
 	path = dsem
 	url = https://github.com/cran/dsem
@@ -28469,9 +28463,6 @@
 [submodule "eiCircles"]
 	path = eiCircles
 	url = https://github.com/cran/eiCircles
-[submodule "eiCompare"]
-	path = eiCompare
-	url = https://github.com/cran/eiCompare
 [submodule "eiExpand"]
 	path = eiExpand
 	url = https://github.com/cran/eiExpand
@@ -57131,12 +57122,6 @@
 [submodule "survivalROC"]
 	path = survivalROC
 	url = https://github.com/cran/survivalROC
-[submodule "survivalSL"]
-	path = survivalSL
-	url = https://github.com/cran/survivalSL
-[submodule "survivalmodels"]
-	path = survivalmodels
-	url = https://github.com/cran/survivalmodels
 [submodule "survivalsvm"]
 	path = survivalsvm
 	url = https://github.com/cran/survivalsvm
