@@ -32255,6 +32255,9 @@
 [submodule "gensvm"]
 	path = gensvm
 	url = https://github.com/cran/gensvm
+[submodule "geoAr"]
+	path = geoAr
+	url = https://github.com/cran/geoAr
 [submodule "geoBayes"]
 	path = geoBayes
 	url = https://github.com/cran/geoBayes
