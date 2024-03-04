@@ -5816,9 +5816,6 @@
 [submodule "GENEAread"]
 	path = GENEAread
 	url = https://github.com/cran/GENEAread
-[submodule "GENEAsphere"]
-	path = GENEAsphere
-	url = https://github.com/cran/GENEAsphere
 [submodule "GENLIB"]
 	path = GENLIB
 	url = https://github.com/cran/GENLIB
@@ -39443,9 +39440,6 @@
 [submodule "manet"]
 	path = manet
 	url = https://github.com/cran/manet
-[submodule "mangoTraining"]
-	path = mangoTraining
-	url = https://github.com/cran/mangoTraining
 [submodule "manhattanly"]
 	path = manhattanly
 	url = https://github.com/cran/manhattanly
