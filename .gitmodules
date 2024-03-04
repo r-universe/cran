@@ -27347,9 +27347,6 @@
 [submodule "docore"]
 	path = docore
 	url = https://github.com/cran/docore
-[submodule "docreview"]
-	path = docreview
-	url = https://github.com/cran/docreview
 [submodule "docstring"]
 	path = docstring
 	url = https://github.com/cran/docstring
@@ -35147,9 +35144,6 @@
 [submodule "hpiR"]
 	path = hpiR
 	url = https://github.com/cran/hpiR
-[submodule "hpoPlot"]
-	path = hpoPlot
-	url = https://github.com/cran/hpoPlot
 [submodule "hqmisc"]
 	path = hqmisc
 	url = https://github.com/cran/hqmisc
