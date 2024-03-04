@@ -4478,6 +4478,9 @@
 [submodule "EMbC"]
 	path = EMbC
 	url = https://github.com/cran/EMbC
+[submodule "EMgaussian"]
+	path = EMgaussian
+	url = https://github.com/cran/EMgaussian
 [submodule "EMpeaksR"]
 	path = EMpeaksR
 	url = https://github.com/cran/EMpeaksR
@@ -5849,6 +5852,9 @@
 [submodule "GFDmcv"]
 	path = GFDmcv
 	url = https://github.com/cran/GFDmcv
+[submodule "GFDrmst"]
+	path = GFDrmst
+	url = https://github.com/cran/GFDrmst
 [submodule "GFDsurv"]
 	path = GFDsurv
 	url = https://github.com/cran/GFDsurv
@@ -11336,6 +11342,9 @@
 [submodule "PMCMRplus"]
 	path = PMCMRplus
 	url = https://github.com/cran/PMCMRplus
+[submodule "PMEvapotranspiration"]
+	path = PMEvapotranspiration
+	url = https://github.com/cran/PMEvapotranspiration
 [submodule "PMwR"]
 	path = PMwR
 	url = https://github.com/cran/PMwR
@@ -16727,6 +16736,9 @@
 [submodule "SystemicR"]
 	path = SystemicR
 	url = https://github.com/cran/SystemicR
+[submodule "T2DFitTailor"]
+	path = T2DFitTailor
+	url = https://github.com/cran/T2DFitTailor
 [submodule "T2EQ"]
 	path = T2EQ
 	url = https://github.com/cran/T2EQ
@@ -33023,6 +33035,9 @@
 [submodule "ggsci"]
 	path = ggsci
 	url = https://github.com/cran/ggsci
+[submodule "ggscidca"]
+	path = ggscidca
+	url = https://github.com/cran/ggscidca
 [submodule "ggseas"]
 	path = ggseas
 	url = https://github.com/cran/ggseas
@@ -47747,6 +47762,9 @@
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/cran/prophet
+[submodule "proporz"]
+	path = proporz
+	url = https://github.com/cran/proporz
 [submodule "prospectr"]
 	path = prospectr
 	url = https://github.com/cran/prospectr
@@ -50579,6 +50597,9 @@
 [submodule "rex"]
 	path = rex
 	url = https://github.com/cran/rex
+[submodule "rexer"]
+	path = rexer
+	url = https://github.com/cran/rexer
 [submodule "rexpokit"]
 	path = rexpokit
 	url = https://github.com/cran/rexpokit
@@ -53312,6 +53333,9 @@
 [submodule "segregatr"]
 	path = segregatr
 	url = https://github.com/cran/segregatr
+[submodule "seguid"]
+	path = seguid
+	url = https://github.com/cran/seguid
 [submodule "sehrnett"]
 	path = sehrnett
 	url = https://github.com/cran/sehrnett
@@ -58592,6 +58616,9 @@
 [submodule "timedeppar"]
 	path = timedeppar
 	url = https://github.com/cran/timedeppar
+[submodule "timeless"]
+	path = timeless
+	url = https://github.com/cran/timeless
 [submodule "timelineS"]
 	path = timelineS
 	url = https://github.com/cran/timelineS
@@ -61598,6 +61625,9 @@
 [submodule "xegaPermGene"]
 	path = xegaPermGene
 	url = https://github.com/cran/xegaPermGene
+[submodule "xegaPopulation"]
+	path = xegaPopulation
+	url = https://github.com/cran/xegaPopulation
 [submodule "xegaSelectGene"]
 	path = xegaSelectGene
 	url = https://github.com/cran/xegaSelectGene
