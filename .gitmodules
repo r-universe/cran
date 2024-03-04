@@ -45047,6 +45047,9 @@
 [submodule "pagenum"]
 	path = pagenum
 	url = https://github.com/cran/pagenum
+[submodule "pageviews"]
+	path = pageviews
+	url = https://github.com/cran/pageviews
 [submodule "pagoda2"]
 	path = pagoda2
 	url = https://github.com/cran/pagoda2
