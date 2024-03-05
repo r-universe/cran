@@ -14711,6 +14711,9 @@
 [submodule "Rprofet"]
 	path = Rprofet
 	url = https://github.com/cran/Rprofet
+[submodule "Rquake"]
+	path = Rquake
+	url = https://github.com/cran/Rquake
 [submodule "Rquefts"]
 	path = Rquefts
 	url = https://github.com/cran/Rquefts
