@@ -30872,9 +30872,6 @@
 [submodule "fmdates"]
 	path = fmdates
 	url = https://github.com/cran/fmdates
-[submodule "fmdu"]
-	path = fmdu
-	url = https://github.com/cran/fmdu
 [submodule "fmeffects"]
 	path = fmeffects
 	url = https://github.com/cran/fmeffects
@@ -39557,9 +39554,6 @@
 [submodule "mapplots"]
 	path = mapplots
 	url = https://github.com/cran/mapplots
-[submodule "mappoly"]
-	path = mappoly
-	url = https://github.com/cran/mappoly
 [submodule "mappp"]
 	path = mappp
 	url = https://github.com/cran/mappp
