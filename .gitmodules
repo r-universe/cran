@@ -947,6 +947,9 @@
 [submodule "BETS"]
 	path = BETS
 	url = https://github.com/cran/BETS
+[submodule "BElikelihood"]
+	path = BElikelihood
+	url = https://github.com/cran/BElikelihood
 [submodule "BFF"]
 	path = BFF
 	url = https://github.com/cran/BFF
@@ -3008,6 +3011,9 @@
 [submodule "ConsReg"]
 	path = ConsReg
 	url = https://github.com/cran/ConsReg
+[submodule "ConsensusClustering"]
+	path = ConsensusClustering
+	url = https://github.com/cran/ConsensusClustering
 [submodule "ContRespPP"]
 	path = ContRespPP
 	url = https://github.com/cran/ContRespPP
@@ -4085,6 +4091,9 @@
 [submodule "DisaggregateTS"]
 	path = DisaggregateTS
 	url = https://github.com/cran/DisaggregateTS
+[submodule "DiscreteDatasets"]
+	path = DiscreteDatasets
+	url = https://github.com/cran/DiscreteDatasets
 [submodule "DiscreteFDR"]
 	path = DiscreteFDR
 	url = https://github.com/cran/DiscreteFDR
@@ -7856,6 +7865,9 @@
 [submodule "KONPsurv"]
 	path = KONPsurv
 	url = https://github.com/cran/KONPsurv
+[submodule "KOR.addrlink"]
+	path = KOR.addrlink
+	url = https://github.com/cran/KOR.addrlink
 [submodule "KPC"]
 	path = KPC
 	url = https://github.com/cran/KPC
@@ -19571,6 +19583,9 @@
 [submodule "arcgeocoder"]
 	path = arcgeocoder
 	url = https://github.com/cran/arcgeocoder
+[submodule "arcgis"]
+	path = arcgis
+	url = https://github.com/cran/arcgis
 [submodule "arcgislayers"]
 	path = arcgislayers
 	url = https://github.com/cran/arcgislayers
@@ -21680,6 +21695,9 @@
 [submodule "boostmtree"]
 	path = boostmtree
 	url = https://github.com/cran/boostmtree
+[submodule "boostrq"]
+	path = boostrq
+	url = https://github.com/cran/boostrq
 [submodule "boot"]
 	path = boot
 	url = https://github.com/cran/boot
@@ -23036,6 +23054,9 @@
 [submodule "chatgpt"]
 	path = chatgpt
 	url = https://github.com/cran/chatgpt
+[submodule "cheapr"]
+	path = cheapr
+	url = https://github.com/cran/cheapr
 [submodule "cheatsheet"]
 	path = cheatsheet
 	url = https://github.com/cran/cheatsheet
@@ -34763,6 +34784,9 @@
 [submodule "heterogen"]
 	path = heterogen
 	url = https://github.com/cran/heterogen
+[submodule "heterometa"]
+	path = heterometa
+	url = https://github.com/cran/heterometa
 [submodule "heteromixgm"]
 	path = heteromixgm
 	url = https://github.com/cran/heteromixgm
@@ -44513,6 +44537,9 @@
 [submodule "operators"]
 	path = operators
 	url = https://github.com/cran/operators
+[submodule "opinAr"]
+	path = opinAr
+	url = https://github.com/cran/opinAr
 [submodule "opitools"]
 	path = opitools
 	url = https://github.com/cran/opitools
@@ -46571,6 +46598,9 @@
 [submodule "play"]
 	path = play
 	url = https://github.com/cran/play
+[submodule "pldamixture"]
+	path = pldamixture
+	url = https://github.com/cran/pldamixture
 [submodule "plde"]
 	path = plde
 	url = https://github.com/cran/plde
@@ -48692,6 +48722,9 @@
 [submodule "quint"]
 	path = quint
 	url = https://github.com/cran/quint
+[submodule "quollr"]
+	path = quollr
+	url = https://github.com/cran/quollr
 [submodule "quoradsR"]
 	path = quoradsR
 	url = https://github.com/cran/quoradsR
@@ -49655,6 +49688,9 @@
 [submodule "rcorpora"]
 	path = rcorpora
 	url = https://github.com/cran/rcorpora
+[submodule "rcpptimer"]
+	path = rcpptimer
+	url = https://github.com/cran/rcpptimer
 [submodule "rcrimeanalysis"]
 	path = rcrimeanalysis
 	url = https://github.com/cran/rcrimeanalysis
@@ -57785,6 +57821,9 @@
 [submodule "teal.modules.clinical"]
 	path = teal.modules.clinical
 	url = https://github.com/cran/teal.modules.clinical
+[submodule "teal.modules.general"]
+	path = teal.modules.general
+	url = https://github.com/cran/teal.modules.general
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/cran/teal.reporter
@@ -58361,6 +58400,9 @@
 [submodule "tidyfast"]
 	path = tidyfast
 	url = https://github.com/cran/tidyfast
+[submodule "tidyfinance"]
+	path = tidyfinance
+	url = https://github.com/cran/tidyfinance
 [submodule "tidyfit"]
 	path = tidyfit
 	url = https://github.com/cran/tidyfit
