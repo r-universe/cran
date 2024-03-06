@@ -28445,6 +28445,9 @@
 [submodule "eff2"]
 	path = eff2
 	url = https://github.com/cran/eff2
+[submodule "effClust"]
+	path = effClust
+	url = https://github.com/cran/effClust
 [submodule "effectR"]
 	path = effectR
 	url = https://github.com/cran/effectR
