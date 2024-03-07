@@ -10019,6 +10019,9 @@
 [submodule "MultiBD"]
 	path = MultiBD
 	url = https://github.com/cran/MultiBD
+[submodule "MultiCOAP"]
+	path = MultiCOAP
+	url = https://github.com/cran/MultiCOAP
 [submodule "MultiClassROC"]
 	path = MultiClassROC
 	url = https://github.com/cran/MultiClassROC
@@ -35900,6 +35903,9 @@
 [submodule "ihpdr"]
 	path = ihpdr
 	url = https://github.com/cran/ihpdr
+[submodule "iimi"]
+	path = iimi
+	url = https://github.com/cran/iimi
 [submodule "ijtiff"]
 	path = ijtiff
 	url = https://github.com/cran/ijtiff
@@ -43640,6 +43646,9 @@
 [submodule "noisyr"]
 	path = noisyr
 	url = https://github.com/cran/noisyr
+[submodule "noisysbmGGM"]
+	path = noisysbmGGM
+	url = https://github.com/cran/noisysbmGGM
 [submodule "nolock"]
 	path = nolock
 	url = https://github.com/cran/nolock
@@ -49667,6 +49676,9 @@
 [submodule "rcdklibs"]
 	path = rcdklibs
 	url = https://github.com/cran/rcdklibs
+[submodule "rcens"]
+	path = rcens
+	url = https://github.com/cran/rcens
 [submodule "rchallenge"]
 	path = rchallenge
 	url = https://github.com/cran/rchallenge
