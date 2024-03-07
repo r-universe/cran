@@ -1982,6 +1982,9 @@
 [submodule "CBT"]
 	path = CBT
 	url = https://github.com/cran/CBT
+[submodule "CBnetworkMA"]
+	path = CBnetworkMA
+	url = https://github.com/cran/CBnetworkMA
 [submodule "CC"]
 	path = CC
 	url = https://github.com/cran/CC
@@ -41933,6 +41936,9 @@
 [submodule "movecost"]
 	path = movecost
 	url = https://github.com/cran/movecost
+[submodule "movegroup"]
+	path = movegroup
+	url = https://github.com/cran/movegroup
 [submodule "movementsync"]
 	path = movementsync
 	url = https://github.com/cran/movementsync
@@ -45152,6 +45158,9 @@
 [submodule "pald"]
 	path = pald
 	url = https://github.com/cran/pald
+[submodule "paleoDiv"]
+	path = paleoDiv
+	url = https://github.com/cran/paleoDiv
 [submodule "paleoTS"]
 	path = paleoTS
 	url = https://github.com/cran/paleoTS
@@ -47345,6 +47354,9 @@
 [submodule "prWarp"]
 	path = prWarp
 	url = https://github.com/cran/prWarp
+[submodule "praatpicture"]
+	path = praatpicture
+	url = https://github.com/cran/praatpicture
 [submodule "prabclus"]
 	path = prabclus
 	url = https://github.com/cran/prabclus
