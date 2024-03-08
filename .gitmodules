@@ -4262,6 +4262,9 @@
 [submodule "EAinference"]
 	path = EAinference
 	url = https://github.com/cran/EAinference
+[submodule "EBASE"]
+	path = EBASE
+	url = https://github.com/cran/EBASE
 [submodule "EBCHS"]
 	path = EBCHS
 	url = https://github.com/cran/EBCHS
@@ -17591,6 +17594,9 @@
 [submodule "UComp"]
 	path = UComp
 	url = https://github.com/cran/UComp
+[submodule "UHM"]
+	path = UHM
+	url = https://github.com/cran/UHM
 [submodule "UKB.COVID19"]
 	path = UKB.COVID19
 	url = https://github.com/cran/UKB.COVID19
@@ -21035,6 +21041,9 @@
 [submodule "biblionetwork"]
 	path = biblionetwork
 	url = https://github.com/cran/biblionetwork
+[submodule "bibliorefer"]
+	path = bibliorefer
+	url = https://github.com/cran/bibliorefer
 [submodule "biblioverlap"]
 	path = biblioverlap
 	url = https://github.com/cran/biblioverlap
@@ -26621,6 +26630,9 @@
 [submodule "detect"]
 	path = detect
 	url = https://github.com/cran/detect
+[submodule "detectR"]
+	path = detectR
+	url = https://github.com/cran/detectR
 [submodule "detectRUNS"]
 	path = detectRUNS
 	url = https://github.com/cran/detectRUNS
@@ -30503,6 +30515,9 @@
 [submodule "filling"]
 	path = filling
 	url = https://github.com/cran/filling
+[submodule "fillpattern"]
+	path = fillpattern
+	url = https://github.com/cran/fillpattern
 [submodule "fillr"]
 	path = fillr
 	url = https://github.com/cran/fillr
@@ -42464,6 +42479,9 @@
 [submodule "multipleNCC"]
 	path = multipleNCC
 	url = https://github.com/cran/multipleNCC
+[submodule "multipleOutcomes"]
+	path = multipleOutcomes
+	url = https://github.com/cran/multipleOutcomes
 [submodule "multiplestressR"]
 	path = multiplestressR
 	url = https://github.com/cran/multiplestressR
@@ -44327,6 +44345,9 @@
 [submodule "omnibus"]
 	path = omnibus
 	url = https://github.com/cran/omnibus
+[submodule "omock"]
+	path = omock
+	url = https://github.com/cran/omock
 [submodule "omopgenerics"]
 	path = omopgenerics
 	url = https://github.com/cran/omopgenerics
@@ -50921,6 +50942,9 @@
 [submodule "ricu"]
 	path = ricu
 	url = https://github.com/cran/ricu
+[submodule "rid"]
+	path = rid
+	url = https://github.com/cran/rid
 [submodule "ridge"]
 	path = ridge
 	url = https://github.com/cran/ridge
@@ -54413,6 +54437,9 @@
 [submodule "sim2Dpredictr"]
 	path = sim2Dpredictr
 	url = https://github.com/cran/sim2Dpredictr
+[submodule "simCAT"]
+	path = simCAT
+	url = https://github.com/cran/simCAT
 [submodule "simDAG"]
 	path = simDAG
 	url = https://github.com/cran/simDAG
