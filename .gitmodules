@@ -50807,9 +50807,6 @@
 [submodule "rglplus"]
 	path = rglplus
 	url = https://github.com/cran/rglplus
-[submodule "rglwidget"]
-	path = rglwidget
-	url = https://github.com/cran/rglwidget
 [submodule "rgm"]
 	path = rgm
 	url = https://github.com/cran/rgm
