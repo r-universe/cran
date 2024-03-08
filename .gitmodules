@@ -50201,9 +50201,6 @@
 [submodule "regexSelect"]
 	path = regexSelect
 	url = https://github.com/cran/regexSelect
-[submodule "regfilter"]
-	path = regfilter
-	url = https://github.com/cran/regfilter
 [submodule "reghelper"]
 	path = reghelper
 	url = https://github.com/cran/reghelper
