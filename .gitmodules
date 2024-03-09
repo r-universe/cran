@@ -44060,6 +44060,9 @@
 [submodule "nycflights13"]
 	path = nycflights13
 	url = https://github.com/cran/nycflights13
+[submodule "nycflights23"]
+	path = nycflights23
+	url = https://github.com/cran/nycflights23
 [submodule "nzelect"]
 	path = nzelect
 	url = https://github.com/cran/nzelect
