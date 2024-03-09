@@ -43370,6 +43370,9 @@
 [submodule "niaidMI"]
 	path = niaidMI
 	url = https://github.com/cran/niaidMI
+[submodule "niarules"]
+	path = niarules
+	url = https://github.com/cran/niarules
 [submodule "nic"]
 	path = nic
 	url = https://github.com/cran/nic
