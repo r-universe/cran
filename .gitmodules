@@ -9287,6 +9287,9 @@
 [submodule "MRmediation"]
 	path = MRmediation
 	url = https://github.com/cran/MRmediation
+[submodule "MSBStatsData"]
+	path = MSBStatsData
+	url = https://github.com/cran/MSBStatsData
 [submodule "MSCMT"]
 	path = MSCMT
 	url = https://github.com/cran/MSCMT
@@ -16220,6 +16223,9 @@
 [submodule "SoupX"]
 	path = SoupX
 	url = https://github.com/cran/SoupX
+[submodule "SouthParkRshiny"]
+	path = SouthParkRshiny
+	url = https://github.com/cran/SouthParkRshiny
 [submodule "SoyNAM"]
 	path = SoyNAM
 	url = https://github.com/cran/SoyNAM
@@ -20351,6 +20357,9 @@
 [submodule "bamp"]
 	path = bamp
 	url = https://github.com/cran/bamp
+[submodule "bandicoot"]
+	path = bandicoot
+	url = https://github.com/cran/bandicoot
 [submodule "bandit"]
 	path = bandit
 	url = https://github.com/cran/bandit
@@ -59573,6 +59582,9 @@
 [submodule "tsintermittent"]
 	path = tsintermittent
 	url = https://github.com/cran/tsintermittent
+[submodule "tsmethods"]
+	path = tsmethods
+	url = https://github.com/cran/tsmethods
 [submodule "tsmp"]
 	path = tsmp
 	url = https://github.com/cran/tsmp
