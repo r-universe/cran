@@ -6770,6 +6770,9 @@
 [submodule "HMB"]
 	path = HMB
 	url = https://github.com/cran/HMB
+[submodule "HMC"]
+	path = HMC
+	url = https://github.com/cran/HMC
 [submodule "HMDHFDplus"]
 	path = HMDHFDplus
 	url = https://github.com/cran/HMDHFDplus
@@ -41879,6 +41882,9 @@
 [submodule "moreparty"]
 	path = moreparty
 	url = https://github.com/cran/moreparty
+[submodule "morepls"]
+	path = morepls
+	url = https://github.com/cran/morepls
 [submodule "morestopwords"]
 	path = morestopwords
 	url = https://github.com/cran/morestopwords
