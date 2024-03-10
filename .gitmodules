@@ -6308,9 +6308,6 @@
 [submodule "GeNetIt"]
 	path = GeNetIt
 	url = https://github.com/cran/GeNetIt
-[submodule "GeSciLiVis"]
-	path = GeSciLiVis
-	url = https://github.com/cran/GeSciLiVis
 [submodule "GenAI"]
 	path = GenAI
 	url = https://github.com/cran/GenAI
@@ -44588,9 +44585,6 @@
 [submodule "openscoring"]
 	path = openscoring
 	url = https://github.com/cran/openscoring
-[submodule "opensensmapr"]
-	path = opensensmapr
-	url = https://github.com/cran/opensensmapr
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
@@ -61703,9 +61697,6 @@
 [submodule "xLLiM"]
 	path = xLLiM
 	url = https://github.com/cran/xLLiM
-[submodule "xQTLbiolinks"]
-	path = xQTLbiolinks
-	url = https://github.com/cran/xQTLbiolinks
 [submodule "xRing"]
 	path = xRing
 	url = https://github.com/cran/xRing
