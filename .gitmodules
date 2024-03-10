@@ -9668,9 +9668,6 @@
 [submodule "MetaLonDA"]
 	path = MetaLonDA
 	url = https://github.com/cran/MetaLonDA
-[submodule "MetaNet"]
-	path = MetaNet
-	url = https://github.com/cran/MetaNet
 [submodule "MetaSKAT"]
 	path = MetaSKAT
 	url = https://github.com/cran/MetaSKAT
@@ -14360,9 +14357,6 @@
 [submodule "RepoGenerator"]
 	path = RepoGenerator
 	url = https://github.com/cran/RepoGenerator
-[submodule "ReporterScore"]
-	path = ReporterScore
-	url = https://github.com/cran/ReporterScore
 [submodule "Require"]
 	path = Require
 	url = https://github.com/cran/Require
@@ -22070,9 +22064,6 @@
 [submodule "bsicons"]
 	path = bsicons
 	url = https://github.com/cran/bsicons
-[submodule "bsitar"]
-	path = bsitar
-	url = https://github.com/cran/bsitar
 [submodule "bskyr"]
 	path = bskyr
 	url = https://github.com/cran/bskyr
@@ -37694,9 +37685,6 @@
 [submodule "konfound"]
 	path = konfound
 	url = https://github.com/cran/konfound
-[submodule "konya"]
-	path = konya
-	url = https://github.com/cran/konya
 [submodule "kosel"]
 	path = kosel
 	url = https://github.com/cran/kosel
@@ -45761,15 +45749,9 @@
 [submodule "pct"]
 	path = pct
 	url = https://github.com/cran/pct
-[submodule "pctax"]
-	path = pctax
-	url = https://github.com/cran/pctax
 [submodule "pcts"]
 	path = pcts
 	url = https://github.com/cran/pcts
-[submodule "pcutils"]
-	path = pcutils
-	url = https://github.com/cran/pcutils
 [submodule "pcv"]
 	path = pcv
 	url = https://github.com/cran/pcv
@@ -46736,9 +46718,6 @@
 [submodule "plot3logit"]
 	path = plot3logit
 	url = https://github.com/cran/plot3logit
-[submodule "plot4fun"]
-	path = plot4fun
-	url = https://github.com/cran/plot4fun
 [submodule "plotBart"]
 	path = plotBart
 	url = https://github.com/cran/plotBart
