@@ -8522,6 +8522,9 @@
 [submodule "LipidMS"]
 	path = LipidMS
 	url = https://github.com/cran/LipidMS
+[submodule "LipinskiFilters"]
+	path = LipinskiFilters
+	url = https://github.com/cran/LipinskiFilters
 [submodule "Lmoments"]
 	path = Lmoments
 	url = https://github.com/cran/Lmoments
@@ -11210,6 +11213,9 @@
 [submodule "PDShiny"]
 	path = PDShiny
 	url = https://github.com/cran/PDShiny
+[submodule "PDXpower"]
+	path = PDXpower
+	url = https://github.com/cran/PDXpower
 [submodule "PDtoolkit"]
 	path = PDtoolkit
 	url = https://github.com/cran/PDtoolkit
