@@ -26951,6 +26951,9 @@
 [submodule "digitize"]
 	path = digitize
 	url = https://github.com/cran/digitize
+[submodule "dilp"]
+	path = dilp
+	url = https://github.com/cran/dilp
 [submodule "dimRed"]
 	path = dimRed
 	url = https://github.com/cran/dimRed
