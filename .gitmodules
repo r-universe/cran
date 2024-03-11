@@ -3551,9 +3551,6 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
-[submodule "DLSSM"]
-	path = DLSSM
-	url = https://github.com/cran/DLSSM
 [submodule "DMCfun"]
 	path = DMCfun
 	url = https://github.com/cran/DMCfun
@@ -29444,9 +29441,6 @@
 [submodule "exCon"]
 	path = exCon
 	url = https://github.com/cran/exCon
-[submodule "exDE"]
-	path = exDE
-	url = https://github.com/cran/exDE
 [submodule "exact.n"]
 	path = exact.n
 	url = https://github.com/cran/exact.n
@@ -40904,9 +40898,6 @@
 [submodule "mildsvm"]
 	path = mildsvm
 	url = https://github.com/cran/mildsvm
-[submodule "milorGWAS"]
-	path = milorGWAS
-	url = https://github.com/cran/milorGWAS
 [submodule "milr"]
 	path = milr
 	url = https://github.com/cran/milr
@@ -44078,9 +44069,6 @@
 [submodule "nzpullover"]
 	path = nzpullover
 	url = https://github.com/cran/nzpullover
-[submodule "o2geosocial"]
-	path = o2geosocial
-	url = https://github.com/cran/o2geosocial
 [submodule "o2plsda"]
 	path = o2plsda
 	url = https://github.com/cran/o2plsda
@@ -44324,9 +44312,6 @@
 [submodule "olctools"]
 	path = olctools
 	url = https://github.com/cran/olctools
-[submodule "oldbailey"]
-	path = oldbailey
-	url = https://github.com/cran/oldbailey
 [submodule "ollg"]
 	path = ollg
 	url = https://github.com/cran/ollg
@@ -45302,9 +45287,6 @@
 [submodule "pangaear"]
 	path = pangaear
 	url = https://github.com/cran/pangaear
-[submodule "panstarrs"]
-	path = panstarrs
-	url = https://github.com/cran/panstarrs
 [submodule "papaja"]
 	path = papaja
 	url = https://github.com/cran/papaja
