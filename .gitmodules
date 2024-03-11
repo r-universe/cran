@@ -51317,6 +51317,9 @@
 [submodule "rnaCrosslinkOO"]
 	path = rnaCrosslinkOO
 	url = https://github.com/cran/rnaCrosslinkOO
+[submodule "rnames"]
+	path = rnames
+	url = https://github.com/cran/rnames
 [submodule "rnassqs"]
 	path = rnassqs
 	url = https://github.com/cran/rnassqs
@@ -57209,6 +57212,9 @@
 [submodule "surveyexplorer"]
 	path = surveyexplorer
 	url = https://github.com/cran/surveyexplorer
+[submodule "surveygraph"]
+	path = surveygraph
+	url = https://github.com/cran/surveygraph
 [submodule "surveyplanning"]
 	path = surveyplanning
 	url = https://github.com/cran/surveyplanning
