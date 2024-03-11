@@ -9017,6 +9017,9 @@
 [submodule "MKdescr"]
 	path = MKdescr
 	url = https://github.com/cran/MKdescr
+[submodule "MKendall"]
+	path = MKendall
+	url = https://github.com/cran/MKendall
 [submodule "MKinfer"]
 	path = MKinfer
 	url = https://github.com/cran/MKinfer
@@ -27440,9 +27443,6 @@
 [submodule "documenter"]
 	path = documenter
 	url = https://github.com/cran/documenter
-[submodule "docxtools"]
-	path = docxtools
-	url = https://github.com/cran/docxtools
 [submodule "docxtractr"]
 	path = docxtractr
 	url = https://github.com/cran/docxtractr
@@ -35561,6 +35561,9 @@
 [submodule "iDINGO"]
 	path = iDINGO
 	url = https://github.com/cran/iDINGO
+[submodule "iDOS"]
+	path = iDOS
+	url = https://github.com/cran/iDOS
 [submodule "iDOVE"]
 	path = iDOVE
 	url = https://github.com/cran/iDOVE
@@ -36251,6 +36254,9 @@
 [submodule "infoDecompuTE"]
 	path = infoDecompuTE
 	url = https://github.com/cran/infoDecompuTE
+[submodule "infoelectoral"]
+	path = infoelectoral
+	url = https://github.com/cran/infoelectoral
 [submodule "informedSen"]
 	path = informedSen
 	url = https://github.com/cran/informedSen
@@ -38540,6 +38546,9 @@
 [submodule "linguisticsdown"]
 	path = linguisticsdown
 	url = https://github.com/cran/linguisticsdown
+[submodule "link"]
+	path = link
+	url = https://github.com/cran/link
 [submodule "link2GI"]
 	path = link2GI
 	url = https://github.com/cran/link2GI
@@ -62111,6 +62120,9 @@
 [submodule "zscorer"]
 	path = zscorer
 	url = https://github.com/cran/zscorer
+[submodule "zstdlite"]
+	path = zstdlite
+	url = https://github.com/cran/zstdlite
 [submodule "ztable"]
 	path = ztable
 	url = https://github.com/cran/ztable
