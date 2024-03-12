@@ -7550,6 +7550,9 @@
 [submodule "InjurySeverityScore"]
 	path = InjurySeverityScore
 	url = https://github.com/cran/InjurySeverityScore
+[submodule "Inquilab"]
+	path = Inquilab
+	url = https://github.com/cran/Inquilab
 [submodule "InspectChangepoint"]
 	path = InspectChangepoint
 	url = https://github.com/cran/InspectChangepoint
@@ -10955,6 +10958,9 @@
 [submodule "OptiSembleForecasting"]
 	path = OptiSembleForecasting
 	url = https://github.com/cran/OptiSembleForecasting
+[submodule "OptimModel"]
+	path = OptimModel
+	url = https://github.com/cran/OptimModel
 [submodule "OptimaRegion"]
 	path = OptimaRegion
 	url = https://github.com/cran/OptimaRegion
