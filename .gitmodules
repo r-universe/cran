@@ -2900,6 +2900,9 @@
 [submodule "CompDist"]
 	path = CompDist
 	url = https://github.com/cran/CompDist
+[submodule "CompGR"]
+	path = CompGR
+	url = https://github.com/cran/CompGR
 [submodule "CompModels"]
 	path = CompModels
 	url = https://github.com/cran/CompModels
@@ -3155,6 +3158,9 @@
 [submodule "CoxR2"]
 	path = CoxR2
 	url = https://github.com/cran/CoxR2
+[submodule "Coxmos"]
+	path = Coxmos
+	url = https://github.com/cran/Coxmos
 [submodule "CpGFilter"]
 	path = CpGFilter
 	url = https://github.com/cran/CpGFilter
@@ -5510,6 +5516,9 @@
 [submodule "FluMoDL"]
 	path = FluMoDL
 	url = https://github.com/cran/FluMoDL
+[submodule "Fluidigm"]
+	path = Fluidigm
+	url = https://github.com/cran/Fluidigm
 [submodule "FlyingR"]
 	path = FlyingR
 	url = https://github.com/cran/FlyingR
@@ -23648,6 +23657,9 @@
 [submodule "clusterHD"]
 	path = clusterHD
 	url = https://github.com/cran/clusterHD
+[submodule "clusterMI"]
+	path = clusterMI
+	url = https://github.com/cran/clusterMI
 [submodule "clusterRepro"]
 	path = clusterRepro
 	url = https://github.com/cran/clusterRepro
@@ -33422,6 +33434,9 @@
 [submodule "glmpca"]
 	path = glmpca
 	url = https://github.com/cran/glmpca
+[submodule "glmpermu"]
+	path = glmpermu
+	url = https://github.com/cran/glmpermu
 [submodule "glmtlp"]
 	path = glmtlp
 	url = https://github.com/cran/glmtlp
@@ -35354,6 +35369,9 @@
 [submodule "hwwntest"]
 	path = hwwntest
 	url = https://github.com/cran/hwwntest
+[submodule "hySAINT"]
+	path = hySAINT
+	url = https://github.com/cran/hySAINT
 [submodule "hySpc.testthat"]
 	path = hySpc.testthat
 	url = https://github.com/cran/hySpc.testthat
@@ -46196,6 +46214,9 @@
 [submodule "phm"]
 	path = phm
 	url = https://github.com/cran/phm
+[submodule "phoenix"]
+	path = phoenix
+	url = https://github.com/cran/phoenix
 [submodule "phonR"]
 	path = phonR
 	url = https://github.com/cran/phonR
@@ -53699,6 +53720,9 @@
 [submodule "sfc"]
 	path = sfc
 	url = https://github.com/cran/sfc
+[submodule "sfcentral"]
+	path = sfcentral
+	url = https://github.com/cran/sfcentral
 [submodule "sfcr"]
 	path = sfcr
 	url = https://github.com/cran/sfcr
@@ -61799,6 +61823,9 @@
 [submodule "xxIRT"]
 	path = xxIRT
 	url = https://github.com/cran/xxIRT
+[submodule "xxhashlite"]
+	path = xxhashlite
+	url = https://github.com/cran/xxhashlite
 [submodule "yaConsensus"]
 	path = yaConsensus
 	url = https://github.com/cran/yaConsensus
