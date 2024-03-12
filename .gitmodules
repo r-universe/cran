@@ -33389,6 +33389,9 @@
 [submodule "glmmrBase"]
 	path = glmmrBase
 	url = https://github.com/cran/glmmrBase
+[submodule "glmmrOptim"]
+	path = glmmrOptim
+	url = https://github.com/cran/glmmrOptim
 [submodule "glmnet"]
 	path = glmnet
 	url = https://github.com/cran/glmnet
