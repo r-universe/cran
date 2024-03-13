@@ -9629,6 +9629,9 @@
 [submodule "Mestim"]
 	path = Mestim
 	url = https://github.com/cran/Mestim
+[submodule "MetAlyzer"]
+	path = MetAlyzer
+	url = https://github.com/cran/MetAlyzer
 [submodule "MetBrewer"]
 	path = MetBrewer
 	url = https://github.com/cran/MetBrewer
@@ -24866,9 +24869,6 @@
 [submodule "countts"]
 	path = countts
 	url = https://github.com/cran/countts
-[submodule "coursekata"]
-	path = coursekata
-	url = https://github.com/cran/coursekata
 [submodule "covBM"]
 	path = covBM
 	url = https://github.com/cran/covBM
