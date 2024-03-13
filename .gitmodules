@@ -8555,6 +8555,9 @@
 [submodule "LogRegEquiv"]
 	path = LogRegEquiv
 	url = https://github.com/cran/LogRegEquiv
+[submodule "LogicForest"]
+	path = LogicForest
+	url = https://github.com/cran/LogicForest
 [submodule "LogicReg"]
 	path = LogicReg
 	url = https://github.com/cran/LogicReg
@@ -21611,6 +21614,9 @@
 [submodule "bnClustOmics"]
 	path = bnClustOmics
 	url = https://github.com/cran/bnClustOmics
+[submodule "bnclassify"]
+	path = bnclassify
+	url = https://github.com/cran/bnclassify
 [submodule "bndesr"]
 	path = bndesr
 	url = https://github.com/cran/bndesr
@@ -23348,6 +23354,9 @@
 [submodule "civis"]
 	path = civis
 	url = https://github.com/cran/civis
+[submodule "ciw"]
+	path = ciw
+	url = https://github.com/cran/ciw
 [submodule "cjar"]
 	path = cjar
 	url = https://github.com/cran/cjar
@@ -32072,6 +32081,9 @@
 [submodule "geeM"]
 	path = geeM
 	url = https://github.com/cran/geeM
+[submodule "geeVerse"]
+	path = geeVerse
+	url = https://github.com/cran/geeVerse
 [submodule "geeasy"]
 	path = geeasy
 	url = https://github.com/cran/geeasy
@@ -48833,6 +48845,9 @@
 [submodule "r2spss"]
 	path = r2spss
 	url = https://github.com/cran/r2spss
+[submodule "r2stl"]
+	path = r2stl
+	url = https://github.com/cran/r2stl
 [submodule "r2sundials"]
 	path = r2sundials
 	url = https://github.com/cran/r2sundials
@@ -50129,6 +50144,9 @@
 [submodule "reflimR"]
 	path = reflimR
 	url = https://github.com/cran/reflimR
+[submodule "reformulas"]
+	path = reformulas
+	url = https://github.com/cran/reformulas
 [submodule "refreg"]
 	path = refreg
 	url = https://github.com/cran/refreg
