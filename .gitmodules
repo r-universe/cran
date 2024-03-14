@@ -52841,6 +52841,9 @@
 [submodule "sc2sc"]
 	path = sc2sc
 	url = https://github.com/cran/sc2sc
+[submodule "scAnnotate"]
+	path = scAnnotate
+	url = https://github.com/cran/scAnnotate
 [submodule "scBSP"]
 	path = scBSP
 	url = https://github.com/cran/scBSP
