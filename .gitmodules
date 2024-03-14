@@ -8522,6 +8522,9 @@
 [submodule "LipidMS"]
 	path = LipidMS
 	url = https://github.com/cran/LipidMS
+[submodule "LipidomicsR"]
+	path = LipidomicsR
+	url = https://github.com/cran/LipidomicsR
 [submodule "LipinskiFilters"]
 	path = LipinskiFilters
 	url = https://github.com/cran/LipinskiFilters
@@ -20972,6 +20975,9 @@
 [submodule "bfw"]
 	path = bfw
 	url = https://github.com/cran/bfw
+[submodule "bgev"]
+	path = bgev
+	url = https://github.com/cran/bgev
 [submodule "bgeva"]
 	path = bgeva
 	url = https://github.com/cran/bgeva
@@ -25532,6 +25538,9 @@
 [submodule "cubing"]
 	path = cubing
 	url = https://github.com/cran/cubing
+[submodule "cucumber"]
+	path = cucumber
+	url = https://github.com/cran/cucumber
 [submodule "cuda.ml"]
 	path = cuda.ml
 	url = https://github.com/cran/cuda.ml
@@ -27344,6 +27353,9 @@
 [submodule "dng"]
 	path = dng
 	url = https://github.com/cran/dng
+[submodule "dnn"]
+	path = dnn
+	url = https://github.com/cran/dnn
 [submodule "dnr"]
 	path = dnr
 	url = https://github.com/cran/dnr
@@ -58271,6 +58283,9 @@
 [submodule "theft"]
 	path = theft
 	url = https://github.com/cran/theft
+[submodule "theftdlc"]
+	path = theftdlc
+	url = https://github.com/cran/theftdlc
 [submodule "theiaR"]
 	path = theiaR
 	url = https://github.com/cran/theiaR
