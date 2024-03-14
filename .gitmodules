@@ -4013,6 +4013,9 @@
 [submodule "DiPs"]
 	path = DiPs
 	url = https://github.com/cran/DiPs
+[submodule "DiSCos"]
+	path = DiSCos
+	url = https://github.com/cran/DiSCos
 [submodule "DiSSMod"]
 	path = DiSSMod
 	url = https://github.com/cran/DiSSMod
@@ -22358,6 +22361,9 @@
 [submodule "calmate"]
 	path = calmate
 	url = https://github.com/cran/calmate
+[submodule "calmr"]
+	path = calmr
+	url = https://github.com/cran/calmr
 [submodule "calpassapi"]
 	path = calpassapi
 	url = https://github.com/cran/calpassapi
@@ -25046,6 +25052,9 @@
 [submodule "cpmBigData"]
 	path = cpmBigData
 	url = https://github.com/cran/cpmBigData
+[submodule "cpmr"]
+	path = cpmr
+	url = https://github.com/cran/cpmr
 [submodule "cpop"]
 	path = cpop
 	url = https://github.com/cran/cpop
@@ -32702,6 +32711,9 @@
 [submodule "ggbreak"]
 	path = ggbreak
 	url = https://github.com/cran/ggbreak
+[submodule "ggbrick"]
+	path = ggbrick
+	url = https://github.com/cran/ggbrick
 [submodule "ggbuildr"]
 	path = ggbuildr
 	url = https://github.com/cran/ggbuildr
@@ -60047,6 +60059,9 @@
 [submodule "uotm"]
 	path = uotm
 	url = https://github.com/cran/uotm
+[submodule "updateme"]
+	path = updateme
+	url = https://github.com/cran/updateme
 [submodule "updater"]
 	path = updater
 	url = https://github.com/cran/updater
