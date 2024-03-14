@@ -2939,6 +2939,9 @@
 [submodule "Compositional"]
 	path = Compositional
 	url = https://github.com/cran/Compositional
+[submodule "CompositionalML"]
+	path = CompositionalML
+	url = https://github.com/cran/CompositionalML
 [submodule "CompoundEvents"]
 	path = CompoundEvents
 	url = https://github.com/cran/CompoundEvents
@@ -31754,6 +31757,9 @@
 [submodule "gam"]
 	path = gam
 	url = https://github.com/cran/gam
+[submodule "gam.hp"]
+	path = gam.hp
+	url = https://github.com/cran/gam.hp
 [submodule "gamCopula"]
 	path = gamCopula
 	url = https://github.com/cran/gamCopula
