@@ -27866,6 +27866,9 @@
 [submodule "dwp"]
 	path = dwp
 	url = https://github.com/cran/dwp
+[submodule "dySEM"]
+	path = dySEM
+	url = https://github.com/cran/dySEM
 [submodule "dyads"]
 	path = dyads
 	url = https://github.com/cran/dyads
@@ -45206,6 +45209,9 @@
 [submodule "paleotree"]
 	path = paleotree
 	url = https://github.com/cran/paleotree
+[submodule "palette"]
+	path = palette
+	url = https://github.com/cran/palette
 [submodule "paletteer"]
 	path = paletteer
 	url = https://github.com/cran/paletteer
@@ -45944,6 +45950,9 @@
 [submodule "pensim"]
 	path = pensim
 	url = https://github.com/cran/pensim
+[submodule "pensynth"]
+	path = pensynth
+	url = https://github.com/cran/pensynth
 [submodule "peopleanalytics"]
 	path = peopleanalytics
 	url = https://github.com/cran/peopleanalytics
@@ -51110,6 +51119,9 @@
 [submodule "rkvo"]
 	path = rkvo
 	url = https://github.com/cran/rkvo
+[submodule "rlandfire"]
+	path = rlandfire
+	url = https://github.com/cran/rlandfire
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/cran/rlang
