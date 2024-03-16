@@ -41069,6 +41069,9 @@
 [submodule "miselect"]
 	path = miselect
 	url = https://github.com/cran/miselect
+[submodule "misha"]
+	path = misha
+	url = https://github.com/cran/misha
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/cran/mispitools
@@ -60449,6 +60452,9 @@
 [submodule "vcfR"]
 	path = vcfR
 	url = https://github.com/cran/vcfR
+[submodule "vcfppR"]
+	path = vcfppR
+	url = https://github.com/cran/vcfppR
 [submodule "vcmeta"]
 	path = vcmeta
 	url = https://github.com/cran/vcmeta
