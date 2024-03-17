@@ -59531,6 +59531,9 @@
 [submodule "tsdisagg2"]
 	path = tsdisagg2
 	url = https://github.com/cran/tsdisagg2
+[submodule "tsdistributions"]
+	path = tsdistributions
+	url = https://github.com/cran/tsdistributions
 [submodule "tsensembler"]
 	path = tsensembler
 	url = https://github.com/cran/tsensembler
