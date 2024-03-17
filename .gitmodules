@@ -21581,6 +21581,9 @@
 [submodule "blsR"]
 	path = blsR
 	url = https://github.com/cran/blsR
+[submodule "blscrapeR"]
+	path = blscrapeR
+	url = https://github.com/cran/blscrapeR
 [submodule "bltm"]
 	path = bltm
 	url = https://github.com/cran/bltm
@@ -24410,6 +24413,9 @@
 [submodule "confSAM"]
 	path = confSAM
 	url = https://github.com/cran/confSAM
+[submodule "confcons"]
+	path = confcons
+	url = https://github.com/cran/confcons
 [submodule "confidence"]
 	path = confidence
 	url = https://github.com/cran/confidence
