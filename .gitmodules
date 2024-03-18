@@ -14798,9 +14798,6 @@
 [submodule "Rsymphony"]
 	path = Rsymphony
 	url = https://github.com/cran/Rsymphony
-[submodule "Rtapas"]
-	path = Rtapas
-	url = https://github.com/cran/Rtapas
 [submodule "Rtauchen"]
 	path = Rtauchen
 	url = https://github.com/cran/Rtauchen
@@ -62123,9 +62120,6 @@
 [submodule "zscorer"]
 	path = zscorer
 	url = https://github.com/cran/zscorer
-[submodule "zstdlite"]
-	path = zstdlite
-	url = https://github.com/cran/zstdlite
 [submodule "ztable"]
 	path = ztable
 	url = https://github.com/cran/ztable
