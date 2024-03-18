@@ -22496,6 +22496,9 @@
 [submodule "cards"]
 	path = cards
 	url = https://github.com/cran/cards
+[submodule "cardx"]
+	path = cardx
+	url = https://github.com/cran/cardx
 [submodule "care"]
 	path = care
 	url = https://github.com/cran/care
