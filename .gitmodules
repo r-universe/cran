@@ -36053,6 +36053,9 @@
 [submodule "immer"]
 	path = immer
 	url = https://github.com/cran/immer
+[submodule "immunarch"]
+	path = immunarch
+	url = https://github.com/cran/immunarch
 [submodule "immuneSIM"]
 	path = immuneSIM
 	url = https://github.com/cran/immuneSIM
