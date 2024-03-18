@@ -12398,6 +12398,9 @@
 [submodule "QSARdata"]
 	path = QSARdata
 	url = https://github.com/cran/QSARdata
+[submodule "QTE.RD"]
+	path = QTE.RD
+	url = https://github.com/cran/QTE.RD
 [submodule "QTL.gCIMapping"]
 	path = QTL.gCIMapping
 	url = https://github.com/cran/QTL.gCIMapping
@@ -22931,6 +22934,9 @@
 [submodule "cepreader"]
 	path = cepreader
 	url = https://github.com/cran/cepreader
+[submodule "cepumd"]
+	path = cepumd
+	url = https://github.com/cran/cepumd
 [submodule "cequre"]
 	path = cequre
 	url = https://github.com/cran/cequre
@@ -53834,6 +53840,9 @@
 [submodule "sgPLS"]
 	path = sgPLS
 	url = https://github.com/cran/sgPLS
+[submodule "sgapi"]
+	path = sgapi
+	url = https://github.com/cran/sgapi
 [submodule "sgat"]
 	path = sgat
 	url = https://github.com/cran/sgat
@@ -58205,6 +58214,9 @@
 [submodule "textutils"]
 	path = textutils
 	url = https://github.com/cran/textutils
+[submodule "tf"]
+	path = tf
+	url = https://github.com/cran/tf
 [submodule "tfCox"]
 	path = tfCox
 	url = https://github.com/cran/tfCox
