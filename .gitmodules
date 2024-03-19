@@ -17540,6 +17540,9 @@
 [submodule "TukeyC"]
 	path = TukeyC
 	url = https://github.com/cran/TukeyC
+[submodule "TukeyGH77"]
+	path = TukeyGH77
+	url = https://github.com/cran/TukeyGH77
 [submodule "TukeyRegion"]
 	path = TukeyRegion
 	url = https://github.com/cran/TukeyRegion
@@ -45362,6 +45365,9 @@
 [submodule "parallelpam"]
 	path = parallelpam
 	url = https://github.com/cran/parallelpam
+[submodule "param2moment"]
+	path = param2moment
+	url = https://github.com/cran/param2moment
 [submodule "paramGUI"]
 	path = paramGUI
 	url = https://github.com/cran/paramGUI
@@ -58604,6 +58610,9 @@
 [submodule "tidyr"]
 	path = tidyr
 	url = https://github.com/cran/tidyr
+[submodule "tidyrates"]
+	path = tidyrates
+	url = https://github.com/cran/tidyrates
 [submodule "tidyrgee"]
 	path = tidyrgee
 	url = https://github.com/cran/tidyrgee
