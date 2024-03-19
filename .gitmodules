@@ -48617,9 +48617,6 @@
 [submodule "qtlnet"]
 	path = qtlnet
 	url = https://github.com/cran/qtlnet
-[submodule "qtlpoly"]
-	path = qtlpoly
-	url = https://github.com/cran/qtlpoly
 [submodule "qtwAcademic"]
 	path = qtwAcademic
 	url = https://github.com/cran/qtwAcademic
