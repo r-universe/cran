@@ -6755,9 +6755,6 @@
 [submodule "HLMdiag"]
 	path = HLMdiag
 	url = https://github.com/cran/HLMdiag
-[submodule "HLSM"]
-	path = HLSM
-	url = https://github.com/cran/HLSM
 [submodule "HMB"]
 	path = HMB
 	url = https://github.com/cran/HMB
