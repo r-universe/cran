@@ -5567,6 +5567,9 @@
 [submodule "FormShare"]
 	path = FormShare
 	url = https://github.com/cran/FormShare
+[submodule "FormulR"]
+	path = FormulR
+	url = https://github.com/cran/FormulR
 [submodule "Formula"]
 	path = Formula
 	url = https://github.com/cran/Formula
