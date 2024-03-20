@@ -61763,6 +61763,9 @@
 [submodule "xefun"]
 	path = xefun
 	url = https://github.com/cran/xefun
+[submodule "xega"]
+	path = xega
+	url = https://github.com/cran/xega
 [submodule "xegaBNF"]
 	path = xegaBNF
 	url = https://github.com/cran/xegaBNF
