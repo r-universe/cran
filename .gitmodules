@@ -15770,6 +15770,9 @@
 [submodule "ScatterDensity"]
 	path = ScatterDensity
 	url = https://github.com/cran/ScatterDensity
+[submodule "SchoolDataIT"]
+	path = SchoolDataIT
+	url = https://github.com/cran/SchoolDataIT
 [submodule "SciViews"]
 	path = SciViews
 	url = https://github.com/cran/SciViews
@@ -22688,6 +22691,9 @@
 [submodule "causalDisco"]
 	path = causalDisco
 	url = https://github.com/cran/causalDisco
+[submodule "causalHyperGraph"]
+	path = causalHyperGraph
+	url = https://github.com/cran/causalHyperGraph
 [submodule "causalOT"]
 	path = causalOT
 	url = https://github.com/cran/causalOT
@@ -27869,6 +27875,9 @@
 [submodule "dupNodes"]
 	path = dupNodes
 	url = https://github.com/cran/dupNodes
+[submodule "dupiR"]
+	path = dupiR
+	url = https://github.com/cran/dupiR
 [submodule "dupree"]
 	path = dupree
 	url = https://github.com/cran/dupree
@@ -29198,6 +29207,9 @@
 [submodule "escalation"]
 	path = escalation
 	url = https://github.com/cran/escalation
+[submodule "esci"]
+	path = esci
+	url = https://github.com/cran/esci
 [submodule "eseis"]
 	path = eseis
 	url = https://github.com/cran/eseis
@@ -47348,6 +47360,9 @@
 [submodule "powerMediation"]
 	path = powerMediation
 	url = https://github.com/cran/powerMediation
+[submodule "powerPLS"]
+	path = powerPLS
+	url = https://github.com/cran/powerPLS
 [submodule "powerSurvEpi"]
 	path = powerSurvEpi
 	url = https://github.com/cran/powerSurvEpi
