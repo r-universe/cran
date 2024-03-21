@@ -8552,6 +8552,9 @@
 [submodule "LocalControl"]
 	path = LocalControl
 	url = https://github.com/cran/LocalControl
+[submodule "LocalCop"]
+	path = LocalCop
+	url = https://github.com/cran/LocalCop
 [submodule "Lock5Data"]
 	path = Lock5Data
 	url = https://github.com/cran/Lock5Data
@@ -9362,6 +9365,9 @@
 [submodule "MSigSeg"]
 	path = MSigSeg
 	url = https://github.com/cran/MSigSeg
+[submodule "MSmix"]
+	path = MSmix
+	url = https://github.com/cran/MSmix
 [submodule "MSoutcomes"]
 	path = MSoutcomes
 	url = https://github.com/cran/MSoutcomes
@@ -26618,6 +26624,9 @@
 [submodule "designer"]
 	path = designer
 	url = https://github.com/cran/designer
+[submodule "designit"]
+	path = designit
+	url = https://github.com/cran/designit
 [submodule "designmatch"]
 	path = designmatch
 	url = https://github.com/cran/designmatch
@@ -32468,6 +32477,9 @@
 [submodule "geonetwork"]
 	path = geonetwork
 	url = https://github.com/cran/geonetwork
+[submodule "geoperu"]
+	path = geoperu
+	url = https://github.com/cran/geoperu
 [submodule "georefdatar"]
 	path = georefdatar
 	url = https://github.com/cran/georefdatar
@@ -42008,6 +42020,9 @@
 [submodule "mp"]
 	path = mp
 	url = https://github.com/cran/mp
+[submodule "mpae"]
+	path = mpae
+	url = https://github.com/cran/mpae
 [submodule "mpath"]
 	path = mpath
 	url = https://github.com/cran/mpath
@@ -53828,6 +53843,9 @@
 [submodule "sfinx"]
 	path = sfinx
 	url = https://github.com/cran/sfinx
+[submodule "sfislands"]
+	path = sfislands
+	url = https://github.com/cran/sfislands
 [submodule "sfnetworks"]
 	path = sfnetworks
 	url = https://github.com/cran/sfnetworks
@@ -55439,6 +55457,9 @@
 [submodule "sp23design"]
 	path = sp23design
 	url = https://github.com/cran/sp23design
+[submodule "spANOVA"]
+	path = spANOVA
+	url = https://github.com/cran/spANOVA
 [submodule "spAbundance"]
 	path = spAbundance
 	url = https://github.com/cran/spAbundance
@@ -58988,6 +59009,9 @@
 [submodule "tnl.Test"]
 	path = tnl.Test
 	url = https://github.com/cran/tnl.Test
+[submodule "tntpr"]
+	path = tntpr
+	url = https://github.com/cran/tntpr
 [submodule "toOrdinal"]
 	path = toOrdinal
 	url = https://github.com/cran/toOrdinal
