@@ -42266,6 +42266,9 @@
 [submodule "mstrio"]
 	path = mstrio
 	url = https://github.com/cran/mstrio
+[submodule "mstudentd"]
+	path = mstudentd
+	url = https://github.com/cran/mstudentd
 [submodule "msu"]
 	path = msu
 	url = https://github.com/cran/msu
