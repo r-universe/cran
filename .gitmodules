@@ -44102,6 +44102,9 @@
 [submodule "nutrition"]
 	path = nutrition
 	url = https://github.com/cran/nutrition
+[submodule "nuts"]
+	path = nuts
+	url = https://github.com/cran/nuts
 [submodule "nvctr"]
 	path = nvctr
 	url = https://github.com/cran/nvctr
@@ -59324,6 +59327,9 @@
 [submodule "trawl"]
 	path = trawl
 	url = https://github.com/cran/trawl
+[submodule "treasury"]
+	path = treasury
+	url = https://github.com/cran/treasury
 [submodule "treats"]
 	path = treats
 	url = https://github.com/cran/treats
