@@ -1259,9 +1259,6 @@
 [submodule "Barnard"]
 	path = Barnard
 	url = https://github.com/cran/Barnard
-[submodule "BartMixVs"]
-	path = BartMixVs
-	url = https://github.com/cran/BartMixVs
 [submodule "BaseSet"]
 	path = BaseSet
 	url = https://github.com/cran/BaseSet
@@ -8501,9 +8498,6 @@
 [submodule "LindleyPowerSeries"]
 	path = LindleyPowerSeries
 	url = https://github.com/cran/LindleyPowerSeries
-[submodule "LinearDetect"]
-	path = LinearDetect
-	url = https://github.com/cran/LinearDetect
 [submodule "LinearRegressionMDE"]
 	path = LinearRegressionMDE
 	url = https://github.com/cran/LinearRegressionMDE
@@ -10928,9 +10922,6 @@
 [submodule "OnomasticDiversity"]
 	path = OnomasticDiversity
 	url = https://github.com/cran/OnomasticDiversity
-[submodule "OpVaR"]
-	path = OpVaR
-	url = https://github.com/cran/OpVaR
 [submodule "OpenCL"]
 	path = OpenCL
 	url = https://github.com/cran/OpenCL
@@ -16076,9 +16067,6 @@
 [submodule "SimNPH"]
 	path = SimNPH
 	url = https://github.com/cran/SimNPH
-[submodule "SimRVPedigree"]
-	path = SimRVPedigree
-	url = https://github.com/cran/SimRVPedigree
 [submodule "SimReg"]
 	path = SimReg
 	url = https://github.com/cran/SimReg
@@ -16121,9 +16109,6 @@
 [submodule "SingleCaseES"]
 	path = SingleCaseES
 	url = https://github.com/cran/SingleCaseES
-[submodule "SitesInterest"]
-	path = SitesInterest
-	url = https://github.com/cran/SitesInterest
 [submodule "SixSigma"]
 	path = SixSigma
 	url = https://github.com/cran/SixSigma
@@ -45149,9 +45134,6 @@
 [submodule "packager"]
 	path = packager
 	url = https://github.com/cran/packager
-[submodule "packagetrackr"]
-	path = packagetrackr
-	url = https://github.com/cran/packagetrackr
 [submodule "packcircles"]
 	path = packcircles
 	url = https://github.com/cran/packcircles
@@ -48167,9 +48149,6 @@
 [submodule "ptest"]
 	path = ptest
 	url = https://github.com/cran/ptest
-[submodule "ptf"]
-	path = ptf
-	url = https://github.com/cran/ptf
 [submodule "ptinpoly"]
 	path = ptinpoly
 	url = https://github.com/cran/ptinpoly
