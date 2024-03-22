@@ -236,6 +236,9 @@
 [submodule "ANOM"]
 	path = ANOM
 	url = https://github.com/cran/ANOM
+[submodule "ANOPA"]
+	path = ANOPA
+	url = https://github.com/cran/ANOPA
 [submodule "ANOVAIREVA"]
 	path = ANOVAIREVA
 	url = https://github.com/cran/ANOVAIREVA
@@ -12782,6 +12785,9 @@
 [submodule "RCzechia"]
 	path = RCzechia
 	url = https://github.com/cran/RCzechia
+[submodule "RDHonest"]
+	path = RDHonest
+	url = https://github.com/cran/RDHonest
 [submodule "RDM"]
 	path = RDM
 	url = https://github.com/cran/RDM
@@ -15071,6 +15077,9 @@
 [submodule "SCVA"]
 	path = SCVA
 	url = https://github.com/cran/SCVA
+[submodule "SCdeconR"]
+	path = SCdeconR
+	url = https://github.com/cran/SCdeconR
 [submodule "SCperf"]
 	path = SCperf
 	url = https://github.com/cran/SCperf
@@ -17465,6 +17474,9 @@
 [submodule "TreeDist"]
 	path = TreeDist
 	url = https://github.com/cran/TreeDist
+[submodule "TreeMineR"]
+	path = TreeMineR
+	url = https://github.com/cran/TreeMineR
 [submodule "TreeSearch"]
 	path = TreeSearch
 	url = https://github.com/cran/TreeSearch
@@ -18449,6 +18461,9 @@
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cran/abmR
+[submodule "abn"]
+	path = abn
+	url = https://github.com/cran/abn
 [submodule "abnormality"]
 	path = abnormality
 	url = https://github.com/cran/abnormality
@@ -41648,6 +41663,9 @@
 [submodule "mobr"]
 	path = mobr
 	url = https://github.com/cran/mobr
+[submodule "mobsim"]
+	path = mobsim
+	url = https://github.com/cran/mobsim
 [submodule "mockery"]
 	path = mockery
 	url = https://github.com/cran/mockery
@@ -43838,6 +43856,9 @@
 [submodule "nortsTest"]
 	path = nortsTest
 	url = https://github.com/cran/nortsTest
+[submodule "nos"]
+	path = nos
+	url = https://github.com/cran/nos
 [submodule "nose"]
 	path = nose
 	url = https://github.com/cran/nose
