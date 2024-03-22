@@ -10892,6 +10892,9 @@
 [submodule "OncoBayes2"]
 	path = OncoBayes2
 	url = https://github.com/cran/OncoBayes2
+[submodule "OncoSubtype"]
+	path = OncoSubtype
+	url = https://github.com/cran/OncoSubtype
 [submodule "Oncotree"]
 	path = Oncotree
 	url = https://github.com/cran/Oncotree
