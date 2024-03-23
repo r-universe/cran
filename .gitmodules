@@ -3140,9 +3140,6 @@
 [submodule "CovTools"]
 	path = CovTools
 	url = https://github.com/cran/CovTools
-[submodule "Covid19Wastewater"]
-	path = Covid19Wastewater
-	url = https://github.com/cran/Covid19Wastewater
 [submodule "CovidMutations"]
 	path = CovidMutations
 	url = https://github.com/cran/CovidMutations
@@ -9107,9 +9104,6 @@
 [submodule "MM"]
 	path = MM
 	url = https://github.com/cran/MM
-[submodule "MM2S"]
-	path = MM2S
-	url = https://github.com/cran/MM2S
 [submodule "MM2Sdata"]
 	path = MM2Sdata
 	url = https://github.com/cran/MM2Sdata
@@ -26444,9 +26438,6 @@
 [submodule "deflist"]
 	path = deflist
 	url = https://github.com/cran/deflist
-[submodule "defm"]
-	path = defm
-	url = https://github.com/cran/defm
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
@@ -38432,9 +38423,6 @@
 [submodule "lhs"]
 	path = lhs
 	url = https://github.com/cran/lhs
-[submodule "liayson"]
-	path = liayson
-	url = https://github.com/cran/liayson
 [submodule "libbib"]
 	path = libbib
 	url = https://github.com/cran/libbib
@@ -39902,9 +39890,6 @@
 [submodule "matrans"]
 	path = matrans
 	url = https://github.com/cran/matrans
-[submodule "matric"]
-	path = matric
-	url = https://github.com/cran/matric
 [submodule "matricks"]
 	path = matricks
 	url = https://github.com/cran/matricks
@@ -42635,9 +42620,6 @@
 [submodule "musica"]
 	path = musica
 	url = https://github.com/cran/musica
-[submodule "mustashe"]
-	path = mustashe
-	url = https://github.com/cran/mustashe
 [submodule "mutSignatures"]
 	path = mutSignatures
 	url = https://github.com/cran/mutSignatures
