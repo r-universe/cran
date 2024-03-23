@@ -935,6 +935,9 @@
 [submodule "BEKKs"]
 	path = BEKKs
 	url = https://github.com/cran/BEKKs
+[submodule "BEND"]
+	path = BEND
+	url = https://github.com/cran/BEND
 [submodule "BENMMI"]
 	path = BENMMI
 	url = https://github.com/cran/BENMMI
@@ -2798,6 +2801,9 @@
 [submodule "CoClust"]
 	path = CoClust
 	url = https://github.com/cran/CoClust
+[submodule "CoDaImpact"]
+	path = CoDaImpact
+	url = https://github.com/cran/CoDaImpact
 [submodule "CoDiNA"]
 	path = CoDiNA
 	url = https://github.com/cran/CoDiNA
@@ -3776,6 +3782,9 @@
 [submodule "DTwrappers"]
 	path = DTwrappers
 	url = https://github.com/cran/DTwrappers
+[submodule "DTwrappers2"]
+	path = DTwrappers2
+	url = https://github.com/cran/DTwrappers2
 [submodule "DVHmetrics"]
 	path = DVHmetrics
 	url = https://github.com/cran/DVHmetrics
@@ -41798,6 +41807,9 @@
 [submodule "modopt.matlab"]
 	path = modopt.matlab
 	url = https://github.com/cran/modopt.matlab
+[submodule "modsem"]
+	path = modsem
+	url = https://github.com/cran/modsem
 [submodule "moduleColor"]
 	path = moduleColor
 	url = https://github.com/cran/moduleColor
@@ -56990,6 +57002,9 @@
 [submodule "styler"]
 	path = styler
 	url = https://github.com/cran/styler
+[submodule "stylest2"]
+	path = stylest2
+	url = https://github.com/cran/stylest2
 [submodule "stylo"]
 	path = stylo
 	url = https://github.com/cran/stylo
@@ -58046,6 +58061,9 @@
 [submodule "tensorEVD"]
 	path = tensorEVD
 	url = https://github.com/cran/tensorEVD
+[submodule "tensorMiss"]
+	path = tensorMiss
+	url = https://github.com/cran/tensorMiss
 [submodule "tensorTS"]
 	path = tensorTS
 	url = https://github.com/cran/tensorTS
@@ -59219,6 +59237,9 @@
 [submodule "trade"]
 	path = trade
 	url = https://github.com/cran/trade
+[submodule "tradepolicy"]
+	path = tradepolicy
+	url = https://github.com/cran/tradepolicy
 [submodule "tradestatistics"]
 	path = tradestatistics
 	url = https://github.com/cran/tradestatistics
@@ -60497,6 +60518,9 @@
 [submodule "varsExplore"]
 	path = varsExplore
 	url = https://github.com/cran/varsExplore
+[submodule "vartest"]
+	path = vartest
+	url = https://github.com/cran/vartest
 [submodule "varycoef"]
 	path = varycoef
 	url = https://github.com/cran/varycoef
