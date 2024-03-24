@@ -31712,9 +31712,6 @@
 [submodule "g.ridge"]
 	path = g.ridge
 	url = https://github.com/cran/g.ridge
-[submodule "g3viz"]
-	path = g3viz
-	url = https://github.com/cran/g3viz
 [submodule "gCat"]
 	path = gCat
 	url = https://github.com/cran/gCat
