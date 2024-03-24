@@ -2018,9 +2018,6 @@
 [submodule "CDMConnector"]
 	path = CDMConnector
 	url = https://github.com/cran/CDMConnector
-[submodule "CDNmoney"]
-	path = CDNmoney
-	url = https://github.com/cran/CDNmoney
 [submodule "CDSE"]
 	path = CDSE
 	url = https://github.com/cran/CDSE
@@ -6941,9 +6938,6 @@
 [submodule "HiClimR"]
 	path = HiClimR
 	url = https://github.com/cran/HiClimR
-[submodule "HiCseg"]
-	path = HiCseg
-	url = https://github.com/cran/HiCseg
 [submodule "HiDimDA"]
 	path = HiDimDA
 	url = https://github.com/cran/HiDimDA
@@ -41588,9 +41582,6 @@
 [submodule "mnlfa"]
 	path = mnlfa
 	url = https://github.com/cran/mnlfa
-[submodule "mnmer"]
-	path = mnmer
-	url = https://github.com/cran/mnmer
 [submodule "mnonr"]
 	path = mnonr
 	url = https://github.com/cran/mnonr
@@ -45140,9 +45131,6 @@
 [submodule "pacs"]
 	path = pacs
 	url = https://github.com/cran/pacs
-[submodule "pacviz"]
-	path = pacviz
-	url = https://github.com/cran/pacviz
 [submodule "padr"]
 	path = padr
 	url = https://github.com/cran/padr
@@ -45527,9 +45515,6 @@
 [submodule "path.chain"]
 	path = path.chain
 	url = https://github.com/cran/path.chain
-[submodule "pathdiagram"]
-	path = pathdiagram
-	url = https://github.com/cran/pathdiagram
 [submodule "pathfindR"]
 	path = pathfindR
 	url = https://github.com/cran/pathfindR
@@ -46739,9 +46724,6 @@
 [submodule "plot3Drgl"]
 	path = plot3Drgl
 	url = https://github.com/cran/plot3Drgl
-[submodule "plot3logit"]
-	path = plot3logit
-	url = https://github.com/cran/plot3logit
 [submodule "plot4fun"]
 	path = plot4fun
 	url = https://github.com/cran/plot4fun
@@ -46871,9 +46853,6 @@
 [submodule "plume"]
 	path = plume
 	url = https://github.com/cran/plume
-[submodule "pluralize"]
-	path = pluralize
-	url = https://github.com/cran/pluralize
 [submodule "pluscode"]
 	path = pluscode
 	url = https://github.com/cran/pluscode
@@ -53516,9 +53495,6 @@
 [submodule "semPower"]
 	path = semPower
 	url = https://github.com/cran/semPower
-[submodule "semTable"]
-	path = semTable
-	url = https://github.com/cran/semTable
 [submodule "semTests"]
 	path = semTests
 	url = https://github.com/cran/semTests
@@ -59960,9 +59936,6 @@
 [submodule "ukpolice"]
 	path = ukpolice
 	url = https://github.com/cran/ukpolice
-[submodule "ulid"]
-	path = ulid
-	url = https://github.com/cran/ulid
 [submodule "ulrb"]
 	path = ulrb
 	url = https://github.com/cran/ulrb
