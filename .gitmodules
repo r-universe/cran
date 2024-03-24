@@ -2837,9 +2837,6 @@
 [submodule "CodataGS"]
 	path = CodataGS
 	url = https://github.com/cran/CodataGS
-[submodule "CodeDepends"]
-	path = CodeDepends
-	url = https://github.com/cran/CodeDepends
 [submodule "CodelistGenerator"]
 	path = CodelistGenerator
 	url = https://github.com/cran/CodelistGenerator
@@ -9962,9 +9959,6 @@
 [submodule "MonoPoly"]
 	path = MonoPoly
 	url = https://github.com/cran/MonoPoly
-[submodule "MonotoneHazardRatio"]
-	path = MonotoneHazardRatio
-	url = https://github.com/cran/MonotoneHazardRatio
 [submodule "Monte.Carlo.se"]
 	path = Monte.Carlo.se
 	url = https://github.com/cran/Monte.Carlo.se
@@ -17891,9 +17885,6 @@
 [submodule "VarSelLCM"]
 	path = VarSelLCM
 	url = https://github.com/cran/VarSelLCM
-[submodule "VarfromPDB"]
-	path = VarfromPDB
-	url = https://github.com/cran/VarfromPDB
 [submodule "VariableScreening"]
 	path = VariableScreening
 	url = https://github.com/cran/VariableScreening
@@ -18266,9 +18257,6 @@
 [submodule "XML"]
 	path = XML
 	url = https://github.com/cran/XML
-[submodule "XML2R"]
-	path = XML2R
-	url = https://github.com/cran/XML2R
 [submodule "XNomial"]
 	path = XNomial
 	url = https://github.com/cran/XNomial
@@ -30116,9 +30104,6 @@
 [submodule "fastcpd"]
 	path = fastcpd
 	url = https://github.com/cran/fastcpd
-[submodule "fastdigest"]
-	path = fastdigest
-	url = https://github.com/cran/fastdigest
 [submodule "fasterElasticNet"]
 	path = fasterElasticNet
 	url = https://github.com/cran/fasterElasticNet
@@ -35102,9 +35087,6 @@
 [submodule "histoslider"]
 	path = histoslider
 	url = https://github.com/cran/histoslider
-[submodule "histry"]
-	path = histry
-	url = https://github.com/cran/histry
 [submodule "hitandrun"]
 	path = hitandrun
 	url = https://github.com/cran/hitandrun
@@ -35249,9 +35231,6 @@
 [submodule "howler"]
 	path = howler
 	url = https://github.com/cran/howler
-[submodule "howmany"]
-	path = howmany
-	url = https://github.com/cran/howmany
 [submodule "howzatR"]
 	path = howzatR
 	url = https://github.com/cran/howzatR
@@ -40229,9 +40208,6 @@
 [submodule "mdsr"]
 	path = mdsr
 	url = https://github.com/cran/mdsr
-[submodule "mdthemes"]
-	path = mdthemes
-	url = https://github.com/cran/mdthemes
 [submodule "mdw"]
 	path = mdw
 	url = https://github.com/cran/mdw
@@ -51704,9 +51680,6 @@
 [submodule "ropercenter"]
 	path = ropercenter
 	url = https://github.com/cran/ropercenter
-[submodule "roprov"]
-	path = roprov
-	url = https://github.com/cran/roprov
 [submodule "roptim"]
 	path = roptim
 	url = https://github.com/cran/roptim
@@ -54443,9 +54416,6 @@
 [submodule "sift"]
 	path = sift
 	url = https://github.com/cran/sift
-[submodule "siftr"]
-	path = siftr
-	url = https://github.com/cran/siftr
 [submodule "sig"]
 	path = sig
 	url = https://github.com/cran/sig
@@ -59897,9 +59867,6 @@
 [submodule "twosigma"]
 	path = twosigma
 	url = https://github.com/cran/twosigma
-[submodule "twostageTE"]
-	path = twostageTE
-	url = https://github.com/cran/twostageTE
 [submodule "twoway"]
 	path = twoway
 	url = https://github.com/cran/twoway
