@@ -20756,12 +20756,6 @@
 [submodule "bdc"]
 	path = bdc
 	url = https://github.com/cran/bdc
-[submodule "bdchecks"]
-	path = bdchecks
-	url = https://github.com/cran/bdchecks
-[submodule "bdclean"]
-	path = bdclean
-	url = https://github.com/cran/bdclean
 [submodule "bde"]
 	path = bde
 	url = https://github.com/cran/bde
