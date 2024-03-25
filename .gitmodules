@@ -11915,9 +11915,6 @@
 [submodule "PhotosynQ"]
 	path = PhotosynQ
 	url = https://github.com/cran/PhotosynQ
-[submodule "PhyInsight"]
-	path = PhyInsight
-	url = https://github.com/cran/PhyInsight
 [submodule "PhySortR"]
 	path = PhySortR
 	url = https://github.com/cran/PhySortR
@@ -12044,6 +12041,9 @@
 [submodule "PolyPatEx"]
 	path = PolyPatEx
 	url = https://github.com/cran/PolyPatEx
+[submodule "PolyTree"]
+	path = PolyTree
+	url = https://github.com/cran/PolyTree
 [submodule "PolyTrend"]
 	path = PolyTrend
 	url = https://github.com/cran/PolyTrend
@@ -16835,6 +16835,9 @@
 [submodule "TCIU"]
 	path = TCIU
 	url = https://github.com/cran/TCIU
+[submodule "TCPMOR"]
+	path = TCPMOR
+	url = https://github.com/cran/TCPMOR
 [submodule "TDA"]
 	path = TDA
 	url = https://github.com/cran/TDA
@@ -21371,6 +21374,9 @@
 [submodule "bionetdata"]
 	path = bionetdata
 	url = https://github.com/cran/bionetdata
+[submodule "biopixR"]
+	path = biopixR
+	url = https://github.com/cran/biopixR
 [submodule "bioregion"]
 	path = bioregion
 	url = https://github.com/cran/bioregion
@@ -23057,6 +23063,9 @@
 [submodule "changeRangeR"]
 	path = changeRangeR
 	url = https://github.com/cran/changeRangeR
+[submodule "changeS"]
+	path = changeS
+	url = https://github.com/cran/changeS
 [submodule "changepoint"]
 	path = changepoint
 	url = https://github.com/cran/changepoint
@@ -30992,6 +31001,9 @@
 [submodule "fmtr"]
 	path = fmtr
 	url = https://github.com/cran/fmtr
+[submodule "fmx"]
+	path = fmx
+	url = https://github.com/cran/fmx
 [submodule "fnets"]
 	path = fnets
 	url = https://github.com/cran/fnets
@@ -35915,6 +35927,9 @@
 [submodule "iemisctext"]
 	path = iemisctext
 	url = https://github.com/cran/iemisctext
+[submodule "ieugwasr"]
+	path = ieugwasr
+	url = https://github.com/cran/ieugwasr
 [submodule "ifCNVR"]
 	path = ifCNVR
 	url = https://github.com/cran/ifCNVR
