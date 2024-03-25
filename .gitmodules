@@ -57284,9 +57284,6 @@
 [submodule "surveyexplorer"]
 	path = surveyexplorer
 	url = https://github.com/cran/surveyexplorer
-[submodule "surveygraph"]
-	path = surveygraph
-	url = https://github.com/cran/surveygraph
 [submodule "surveyplanning"]
 	path = surveyplanning
 	url = https://github.com/cran/surveyplanning
