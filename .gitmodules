@@ -4220,6 +4220,9 @@
 [submodule "DtD"]
 	path = DtD
 	url = https://github.com/cran/DtD
+[submodule "Dtableone"]
+	path = Dtableone
+	url = https://github.com/cran/Dtableone
 [submodule "Durga"]
 	path = Durga
 	url = https://github.com/cran/Durga
@@ -31883,6 +31886,9 @@
 [submodule "gamlss.foreach"]
 	path = gamlss.foreach
 	url = https://github.com/cran/gamlss.foreach
+[submodule "gamlss.ggplots"]
+	path = gamlss.ggplots
+	url = https://github.com/cran/gamlss.ggplots
 [submodule "gamlss.inf"]
 	path = gamlss.inf
 	url = https://github.com/cran/gamlss.inf
