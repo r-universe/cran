@@ -12830,6 +12830,9 @@
 [submodule "REGENT"]
 	path = REGENT
 	url = https://github.com/cran/REGENT
+[submodule "REMLA"]
+	path = REMLA
+	url = https://github.com/cran/REMLA
 [submodule "REPLesentR"]
 	path = REPLesentR
 	url = https://github.com/cran/REPLesentR
@@ -29798,6 +29801,9 @@
 [submodule "fabMix"]
 	path = fabMix
 	url = https://github.com/cran/fabMix
+[submodule "fabPrediction"]
+	path = fabPrediction
+	url = https://github.com/cran/fabPrediction
 [submodule "fabR"]
 	path = fabR
 	url = https://github.com/cran/fabR
@@ -33413,6 +33419,9 @@
 [submodule "glm2"]
 	path = glm2
 	url = https://github.com/cran/glm2
+[submodule "glmMisrep"]
+	path = glmMisrep
+	url = https://github.com/cran/glmMisrep
 [submodule "glmbb"]
 	path = glmbb
 	url = https://github.com/cran/glmbb
