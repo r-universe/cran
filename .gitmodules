@@ -11909,6 +11909,9 @@
 [submodule "PhotosynQ"]
 	path = PhotosynQ
 	url = https://github.com/cran/PhotosynQ
+[submodule "PhyInsight"]
+	path = PhyInsight
+	url = https://github.com/cran/PhyInsight
 [submodule "PhySortR"]
 	path = PhySortR
 	url = https://github.com/cran/PhySortR
@@ -57293,6 +57296,9 @@
 [submodule "surveyexplorer"]
 	path = surveyexplorer
 	url = https://github.com/cran/surveyexplorer
+[submodule "surveygraph"]
+	path = surveygraph
+	url = https://github.com/cran/surveygraph
 [submodule "surveyplanning"]
 	path = surveyplanning
 	url = https://github.com/cran/surveyplanning
