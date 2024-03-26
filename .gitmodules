@@ -1103,9 +1103,6 @@
 [submodule "BOJ"]
 	path = BOJ
 	url = https://github.com/cran/BOJ
-[submodule "BOSO"]
-	path = BOSO
-	url = https://github.com/cran/BOSO
 [submodule "BOSSreg"]
 	path = BOSSreg
 	url = https://github.com/cran/BOSSreg
@@ -4940,9 +4937,6 @@
 [submodule "ExpGenetic"]
 	path = ExpGenetic
 	url = https://github.com/cran/ExpGenetic
-[submodule "ExpImage"]
-	path = ExpImage
-	url = https://github.com/cran/ExpImage
 [submodule "ExpRep"]
 	path = ExpRep
 	url = https://github.com/cran/ExpRep
@@ -8171,9 +8165,6 @@
 [submodule "LMfilteR"]
 	path = LMfilteR
 	url = https://github.com/cran/LMfilteR
-[submodule "LMoFit"]
-	path = LMoFit
-	url = https://github.com/cran/LMoFit
 [submodule "LNIRT"]
 	path = LNIRT
 	url = https://github.com/cran/LNIRT
@@ -10919,9 +10910,6 @@
 [submodule "OpenImageR"]
 	path = OpenImageR
 	url = https://github.com/cran/OpenImageR
-[submodule "OpenLand"]
-	path = OpenLand
-	url = https://github.com/cran/OpenLand
 [submodule "OpenML"]
 	path = OpenML
 	url = https://github.com/cran/OpenML
@@ -16424,9 +16412,6 @@
 [submodule "SportsTour"]
 	path = SportsTour
 	url = https://github.com/cran/SportsTour
-[submodule "SpotSampling"]
-	path = SpotSampling
-	url = https://github.com/cran/SpotSampling
 [submodule "SqlRender"]
 	path = SqlRender
 	url = https://github.com/cran/SqlRender
@@ -21311,9 +21296,6 @@
 [submodule "bioacoustics"]
 	path = bioacoustics
 	url = https://github.com/cran/bioacoustics
-[submodule "bioassays"]
-	path = bioassays
-	url = https://github.com/cran/bioassays
 [submodule "biobricks"]
 	path = biobricks
 	url = https://github.com/cran/biobricks
@@ -32879,9 +32861,6 @@
 [submodule "gghalves"]
 	path = gghalves
 	url = https://github.com/cran/gghalves
-[submodule "gghdr"]
-	path = gghdr
-	url = https://github.com/cran/gghdr
 [submodule "gghdx"]
 	path = gghdx
 	url = https://github.com/cran/gghdx
@@ -33386,9 +33365,6 @@
 [submodule "glamlasso"]
 	path = glamlasso
 	url = https://github.com/cran/glamlasso
-[submodule "glancedata"]
-	path = glancedata
-	url = https://github.com/cran/glancedata
 [submodule "glarma"]
 	path = glarma
 	url = https://github.com/cran/glarma
@@ -44138,6 +44114,9 @@
 [submodule "nzpullover"]
 	path = nzpullover
 	url = https://github.com/cran/nzpullover
+[submodule "o2geosocial"]
+	path = o2geosocial
+	url = https://github.com/cran/o2geosocial
 [submodule "o2plsda"]
 	path = o2plsda
 	url = https://github.com/cran/o2plsda
@@ -49232,9 +49211,6 @@
 [submodule "ra4bayesmeta"]
 	path = ra4bayesmeta
 	url = https://github.com/cran/ra4bayesmeta
-[submodule "rabhit"]
-	path = rabhit
-	url = https://github.com/cran/rabhit
 [submodule "rabi"]
 	path = rabi
 	url = https://github.com/cran/rabi
@@ -56135,9 +56111,6 @@
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
-[submodule "spqdep"]
-	path = spqdep
-	url = https://github.com/cran/spqdep
 [submodule "spray"]
 	path = spray
 	url = https://github.com/cran/spray
@@ -60872,9 +60845,6 @@
 [submodule "vlad"]
 	path = vlad
 	url = https://github.com/cran/vlad
-[submodule "vlda"]
-	path = vlda
-	url = https://github.com/cran/vlda
 [submodule "vmdTDNN"]
 	path = vmdTDNN
 	url = https://github.com/cran/vmdTDNN
