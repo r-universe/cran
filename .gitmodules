@@ -254,9 +254,6 @@
 [submodule "APCI"]
 	path = APCI
 	url = https://github.com/cran/APCI
-[submodule "APCalign"]
-	path = APCalign
-	url = https://github.com/cran/APCalign
 [submodule "APCanalysis"]
 	path = APCanalysis
 	url = https://github.com/cran/APCanalysis
@@ -641,12 +638,6 @@
 [submodule "ArDec"]
 	path = ArDec
 	url = https://github.com/cran/ArDec
-[submodule "ArchaeoChron"]
-	path = ArchaeoChron
-	url = https://github.com/cran/ArchaeoChron
-[submodule "ArchaeoPhases"]
-	path = ArchaeoPhases
-	url = https://github.com/cran/ArchaeoPhases
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
@@ -1280,9 +1271,6 @@
 [submodule "BatchJobs"]
 	path = BatchJobs
 	url = https://github.com/cran/BatchJobs
-[submodule "BayLum"]
-	path = BayLum
-	url = https://github.com/cran/BayLum
 [submodule "Bayenet"]
 	path = Bayenet
 	url = https://github.com/cran/Bayenet
