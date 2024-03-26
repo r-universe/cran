@@ -30794,6 +30794,9 @@
 [submodule "flexCWM"]
 	path = flexCWM
 	url = https://github.com/cran/flexCWM
+[submodule "flexOR"]
+	path = flexOR
+	url = https://github.com/cran/flexOR
 [submodule "flexclust"]
 	path = flexclust
 	url = https://github.com/cran/flexclust
@@ -46964,6 +46967,9 @@
 [submodule "pmxcode"]
 	path = pmxcode
 	url = https://github.com/cran/pmxcode
+[submodule "pmxcv"]
+	path = pmxcv
+	url = https://github.com/cran/pmxcv
 [submodule "pmxpartab"]
 	path = pmxpartab
 	url = https://github.com/cran/pmxpartab
@@ -52910,6 +52916,9 @@
 [submodule "sboost"]
 	path = sboost
 	url = https://github.com/cran/sboost
+[submodule "sbrl"]
+	path = sbrl
+	url = https://github.com/cran/sbrl
 [submodule "sbtools"]
 	path = sbtools
 	url = https://github.com/cran/sbtools
@@ -57440,6 +57449,9 @@
 [submodule "swaRm"]
 	path = swaRm
 	url = https://github.com/cran/swaRm
+[submodule "swaRmverse"]
+	path = swaRmverse
+	url = https://github.com/cran/swaRmverse
 [submodule "swag"]
 	path = swag
 	url = https://github.com/cran/swag
@@ -60512,6 +60524,9 @@
 [submodule "vaxpmx"]
 	path = vaxpmx
 	url = https://github.com/cran/vaxpmx
+[submodule "vcPB"]
+	path = vcPB
+	url = https://github.com/cran/vcPB
 [submodule "vccp"]
 	path = vccp
 	url = https://github.com/cran/vccp
