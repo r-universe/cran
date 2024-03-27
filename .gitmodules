@@ -3227,6 +3227,9 @@
 [submodule "CutpointsOEHR"]
 	path = CutpointsOEHR
 	url = https://github.com/cran/CutpointsOEHR
+[submodule "CvmortalityMult"]
+	path = CvmortalityMult
+	url = https://github.com/cran/CvmortalityMult
 [submodule "Cyclops"]
 	path = Cyclops
 	url = https://github.com/cran/Cyclops
@@ -7823,6 +7826,9 @@
 [submodule "KCSNBShiny"]
 	path = KCSNBShiny
 	url = https://github.com/cran/KCSNBShiny
+[submodule "KEPTED"]
+	path = KEPTED
+	url = https://github.com/cran/KEPTED
 [submodule "KERE"]
 	path = KERE
 	url = https://github.com/cran/KERE
@@ -10895,6 +10901,9 @@
 [submodule "OncoSubtype"]
 	path = OncoSubtype
 	url = https://github.com/cran/OncoSubtype
+[submodule "Oncofilterfast"]
+	path = Oncofilterfast
+	url = https://github.com/cran/Oncofilterfast
 [submodule "Oncotree"]
 	path = Oncotree
 	url = https://github.com/cran/Oncotree
@@ -25889,6 +25898,9 @@
 [submodule "daltoolbox"]
 	path = daltoolbox
 	url = https://github.com/cran/daltoolbox
+[submodule "daltoolboxdp"]
+	path = daltoolboxdp
+	url = https://github.com/cran/daltoolboxdp
 [submodule "dam"]
 	path = dam
 	url = https://github.com/cran/dam
@@ -35498,6 +35510,9 @@
 [submodule "hydraulics"]
 	path = hydraulics
 	url = https://github.com/cran/hydraulics
+[submodule "hydroDCindex"]
+	path = hydroDCindex
+	url = https://github.com/cran/hydroDCindex
 [submodule "hydroEvents"]
 	path = hydroEvents
 	url = https://github.com/cran/hydroEvents
@@ -46715,6 +46730,9 @@
 [submodule "plantecowrap"]
 	path = plantecowrap
 	url = https://github.com/cran/plantecowrap
+[submodule "plantphysioR"]
+	path = plantphysioR
+	url = https://github.com/cran/plantphysioR
 [submodule "plaqr"]
 	path = plaqr
 	url = https://github.com/cran/plaqr
