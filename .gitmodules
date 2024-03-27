@@ -42068,6 +42068,9 @@
 [submodule "mpindex"]
 	path = mpindex
 	url = https://github.com/cran/mpindex
+[submodule "mpitbR"]
+	path = mpitbR
+	url = https://github.com/cran/mpitbR
 [submodule "mplot"]
 	path = mplot
 	url = https://github.com/cran/mplot
