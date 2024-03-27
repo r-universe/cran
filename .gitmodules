@@ -6857,6 +6857,9 @@
 [submodule "HTSSIP"]
 	path = HTSSIP
 	url = https://github.com/cran/HTSSIP
+[submodule "HTSeed"]
+	path = HTSeed
+	url = https://github.com/cran/HTSeed
 [submodule "HTT"]
 	path = HTT
 	url = https://github.com/cran/HTT
@@ -49412,6 +49415,9 @@
 [submodule "random"]
 	path = random
 	url = https://github.com/cran/random
+[submodule "random.cdisc.data"]
+	path = random.cdisc.data
+	url = https://github.com/cran/random.cdisc.data
 [submodule "random.polychor.pa"]
 	path = random.polychor.pa
 	url = https://github.com/cran/random.polychor.pa
