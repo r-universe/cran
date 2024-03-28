@@ -7280,6 +7280,9 @@
 [submodule "ILSE"]
 	path = ILSE
 	url = https://github.com/cran/ILSE
+[submodule "ILSM"]
+	path = ILSM
+	url = https://github.com/cran/ILSM
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/cran/IMD
@@ -16736,6 +16739,9 @@
 [submodule "SurveyCC"]
 	path = SurveyCC
 	url = https://github.com/cran/SurveyCC
+[submodule "SurviMChd"]
+	path = SurviMChd
+	url = https://github.com/cran/SurviMChd
 [submodule "SurvivalClusteringTree"]
 	path = SurvivalClusteringTree
 	url = https://github.com/cran/SurvivalClusteringTree
@@ -53396,6 +53402,9 @@
 [submodule "sdpt3r"]
 	path = sdpt3r
 	url = https://github.com/cran/sdpt3r
+[submodule "sdrt"]
+	path = sdrt
+	url = https://github.com/cran/sdrt
 [submodule "sdtmval"]
 	path = sdtmval
 	url = https://github.com/cran/sdtmval
