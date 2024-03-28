@@ -11075,6 +11075,9 @@
 [submodule "PACVr"]
 	path = PACVr
 	url = https://github.com/cran/PACVr
+[submodule "PAFit"]
+	path = PAFit
+	url = https://github.com/cran/PAFit
 [submodule "PAGFL"]
 	path = PAGFL
 	url = https://github.com/cran/PAGFL
