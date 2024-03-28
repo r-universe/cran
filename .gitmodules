@@ -2900,6 +2900,9 @@
 [submodule "CompDist"]
 	path = CompDist
 	url = https://github.com/cran/CompDist
+[submodule "CompExpDes"]
+	path = CompExpDes
+	url = https://github.com/cran/CompExpDes
 [submodule "CompGR"]
 	path = CompGR
 	url = https://github.com/cran/CompGR
@@ -31934,6 +31937,9 @@
 [submodule "gamselBayes"]
 	path = gamselBayes
 	url = https://github.com/cran/gamselBayes
+[submodule "gamstransfer"]
+	path = gamstransfer
+	url = https://github.com/cran/gamstransfer
 [submodule "ganDataModel"]
 	path = ganDataModel
 	url = https://github.com/cran/ganDataModel
@@ -42611,6 +42617,9 @@
 [submodule "multivariance"]
 	path = multivariance
 	url = https://github.com/cran/multivariance
+[submodule "multivarious"]
+	path = multivarious
+	url = https://github.com/cran/multivarious
 [submodule "multivator"]
 	path = multivator
 	url = https://github.com/cran/multivator
