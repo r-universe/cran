@@ -1478,9 +1478,6 @@
 [submodule "BayesianLaterality"]
 	path = BayesianLaterality
 	url = https://github.com/cran/BayesianLaterality
-[submodule "BayesianMCPMod"]
-	path = BayesianMCPMod
-	url = https://github.com/cran/BayesianMCPMod
 [submodule "BayesianMediationA"]
 	path = BayesianMediationA
 	url = https://github.com/cran/BayesianMediationA
@@ -18479,9 +18476,6 @@
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cran/abmR
-[submodule "abn"]
-	path = abn
-	url = https://github.com/cran/abn
 [submodule "abnormality"]
 	path = abnormality
 	url = https://github.com/cran/abnormality
@@ -25325,9 +25319,6 @@
 [submodule "crosstalk"]
 	path = crosstalk
 	url = https://github.com/cran/crosstalk
-[submodule "crosstalkr"]
-	path = crosstalkr
-	url = https://github.com/cran/crosstalkr
 [submodule "crossurr"]
 	path = crossurr
 	url = https://github.com/cran/crossurr
