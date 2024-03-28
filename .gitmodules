@@ -44348,6 +44348,9 @@
 [submodule "odns"]
 	path = odns
 	url = https://github.com/cran/odns
+[submodule "odpc"]
+	path = odpc
+	url = https://github.com/cran/odpc
 [submodule "odr"]
 	path = odr
 	url = https://github.com/cran/odr
