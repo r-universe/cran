@@ -16799,9 +16799,6 @@
 [submodule "SystemicR"]
 	path = SystemicR
 	url = https://github.com/cran/SystemicR
-[submodule "T2DFitTailor"]
-	path = T2DFitTailor
-	url = https://github.com/cran/T2DFitTailor
 [submodule "T2EQ"]
 	path = T2EQ
 	url = https://github.com/cran/T2EQ
@@ -32696,9 +32693,6 @@
 [submodule "gfonts"]
 	path = gfonts
 	url = https://github.com/cran/gfonts
-[submodule "gfpop"]
-	path = gfpop
-	url = https://github.com/cran/gfpop
 [submodule "gg.gap"]
 	path = gg.gap
 	url = https://github.com/cran/gg.gap
