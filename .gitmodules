@@ -20834,6 +20834,9 @@
 [submodule "bdsmatrix"]
 	path = bdsmatrix
 	url = https://github.com/cran/bdsmatrix
+[submodule "bdsvd"]
+	path = bdsvd
+	url = https://github.com/cran/bdsvd
 [submodule "bdvis"]
 	path = bdvis
 	url = https://github.com/cran/bdvis
@@ -22799,6 +22802,9 @@
 [submodule "cccrm"]
 	path = cccrm
 	url = https://github.com/cran/cccrm
+[submodule "ccdR"]
+	path = ccdR
+	url = https://github.com/cran/ccdR
 [submodule "ccda"]
 	path = ccda
 	url = https://github.com/cran/ccda
@@ -46142,6 +46148,9 @@
 [submodule "permutes"]
 	path = permutes
 	url = https://github.com/cran/permutes
+[submodule "perplexR"]
+	path = perplexR
+	url = https://github.com/cran/perplexR
 [submodule "perry"]
 	path = perry
 	url = https://github.com/cran/perry
