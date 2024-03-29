@@ -37109,6 +37109,9 @@
 [submodule "jcext"]
 	path = jcext
 	url = https://github.com/cran/jcext
+[submodule "jcolors"]
+	path = jcolors
+	url = https://github.com/cran/jcolors
 [submodule "jcp"]
 	path = jcp
 	url = https://github.com/cran/jcp
