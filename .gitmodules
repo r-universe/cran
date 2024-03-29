@@ -2087,6 +2087,9 @@
 [submodule "CGPfunctions"]
 	path = CGPfunctions
 	url = https://github.com/cran/CGPfunctions
+[submodule "CGR"]
+	path = CGR
+	url = https://github.com/cran/CGR
 [submodule "CHEMIST"]
 	path = CHEMIST
 	url = https://github.com/cran/CHEMIST
@@ -59270,6 +59273,9 @@
 [submodule "tracee"]
 	path = tracee
 	url = https://github.com/cran/tracee
+[submodule "tracenma"]
+	path = tracenma
+	url = https://github.com/cran/tracenma
 [submodule "tracer"]
 	path = tracer
 	url = https://github.com/cran/tracer
@@ -59318,6 +59324,9 @@
 [submodule "traineR"]
 	path = traineR
 	url = https://github.com/cran/traineR
+[submodule "trainsplit"]
+	path = trainsplit
+	url = https://github.com/cran/trainsplit
 [submodule "traipse"]
 	path = traipse
 	url = https://github.com/cran/traipse
