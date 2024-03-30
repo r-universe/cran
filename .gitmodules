@@ -27416,9 +27416,6 @@
 [submodule "dndR"]
 	path = dndR
 	url = https://github.com/cran/dndR
-[submodule "dnet"]
-	path = dnet
-	url = https://github.com/cran/dnet
 [submodule "dng"]
 	path = dng
 	url = https://github.com/cran/dng
@@ -34331,9 +34328,6 @@
 [submodule "gscramble"]
 	path = gscramble
 	url = https://github.com/cran/gscramble
-[submodule "gsdensity"]
-	path = gsdensity
-	url = https://github.com/cran/gsdensity
 [submodule "gsheet"]
 	path = gsheet
 	url = https://github.com/cran/gsheet
