@@ -4532,6 +4532,9 @@
 [submodule "ER"]
 	path = ER
 	url = https://github.com/cran/ER
+[submodule "ERDbuilder"]
+	path = ERDbuilder
+	url = https://github.com/cran/ERDbuilder
 [submodule "ERP"]
 	path = ERP
 	url = https://github.com/cran/ERP
@@ -40379,6 +40382,9 @@
 [submodule "mefa4"]
 	path = mefa4
 	url = https://github.com/cran/mefa4
+[submodule "mefdind"]
+	path = mefdind
+	url = https://github.com/cran/mefdind
 [submodule "meifly"]
 	path = meifly
 	url = https://github.com/cran/meifly
