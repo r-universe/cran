@@ -34733,6 +34733,9 @@
 [submodule "hcandersenr"]
 	path = hcandersenr
 	url = https://github.com/cran/hcandersenr
+[submodule "hcci"]
+	path = hcci
+	url = https://github.com/cran/hcci
 [submodule "hce"]
 	path = hce
 	url = https://github.com/cran/hce
