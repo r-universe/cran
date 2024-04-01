@@ -50321,6 +50321,9 @@
 [submodule "refreshr"]
 	path = refreshr
 	url = https://github.com/cran/refreshr
+[submodule "refseqR"]
+	path = refseqR
+	url = https://github.com/cran/refseqR
 [submodule "refset"]
 	path = refset
 	url = https://github.com/cran/refset
