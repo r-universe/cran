@@ -17747,6 +17747,9 @@
 [submodule "UniversalCVI"]
 	path = UniversalCVI
 	url = https://github.com/cran/UniversalCVI
+[submodule "UpAndDownPlots"]
+	path = UpAndDownPlots
+	url = https://github.com/cran/UpAndDownPlots
 [submodule "UpDown"]
 	path = UpDown
 	url = https://github.com/cran/UpDown
@@ -23909,6 +23912,9 @@
 [submodule "cncaGUI"]
 	path = cncaGUI
 	url = https://github.com/cran/cncaGUI
+[submodule "cnmap"]
+	path = cnmap
+	url = https://github.com/cran/cnmap
 [submodule "cnum"]
 	path = cnum
 	url = https://github.com/cran/cnum
@@ -37766,6 +37772,9 @@
 [submodule "knn.covertree"]
 	path = knn.covertree
 	url = https://github.com/cran/knn.covertree
+[submodule "knnmi"]
+	path = knnmi
+	url = https://github.com/cran/knnmi
 [submodule "knnp"]
 	path = knnp
 	url = https://github.com/cran/knnp
@@ -46661,6 +46670,9 @@
 [submodule "pkdata"]
 	path = pkdata
 	url = https://github.com/cran/pkdata
+[submodule "pkgGraphR"]
+	path = pkgGraphR
+	url = https://github.com/cran/pkgGraphR
 [submodule "pkgKitten"]
 	path = pkgKitten
 	url = https://github.com/cran/pkgKitten
@@ -46982,6 +46994,9 @@
 [submodule "pluralize"]
 	path = pluralize
 	url = https://github.com/cran/pluralize
+[submodule "plusCode2"]
+	path = plusCode2
+	url = https://github.com/cran/plusCode2
 [submodule "pluscode"]
 	path = pluscode
 	url = https://github.com/cran/pluscode
