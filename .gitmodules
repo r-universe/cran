@@ -9968,9 +9968,6 @@
 [submodule "MonoInc"]
 	path = MonoInc
 	url = https://github.com/cran/MonoInc
-[submodule "MonoPhy"]
-	path = MonoPhy
-	url = https://github.com/cran/MonoPhy
 [submodule "MonoPoly"]
 	path = MonoPoly
 	url = https://github.com/cran/MonoPoly
@@ -13508,6 +13505,9 @@
 [submodule "RQEntangle"]
 	path = RQEntangle
 	url = https://github.com/cran/RQEntangle
+[submodule "RQdeltaCT"]
+	path = RQdeltaCT
+	url = https://github.com/cran/RQdeltaCT
 [submodule "RQuantLib"]
 	path = RQuantLib
 	url = https://github.com/cran/RQuantLib
@@ -24500,6 +24500,9 @@
 [submodule "configural"]
 	path = configural
 	url = https://github.com/cran/configural
+[submodule "confintROB"]
+	path = confintROB
+	url = https://github.com/cran/confintROB
 [submodule "confinterpret"]
 	path = confinterpret
 	url = https://github.com/cran/confinterpret
@@ -49241,6 +49244,9 @@
 [submodule "rQCC"]
 	path = rQCC
 	url = https://github.com/cran/rQCC
+[submodule "rQSAR"]
+	path = rQSAR
+	url = https://github.com/cran/rQSAR
 [submodule "rRAP"]
 	path = rRAP
 	url = https://github.com/cran/rRAP
@@ -52352,6 +52358,9 @@
 [submodule "rtop"]
 	path = rtop
 	url = https://github.com/cran/rtop
+[submodule "rtpcr"]
+	path = rtpcr
+	url = https://github.com/cran/rtpcr
 [submodule "rtrek"]
 	path = rtrek
 	url = https://github.com/cran/rtrek
