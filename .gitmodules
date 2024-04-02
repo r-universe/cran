@@ -53279,6 +53279,9 @@
 [submodule "scoringRules"]
 	path = scoringRules
 	url = https://github.com/cran/scoringRules
+[submodule "scoringTools"]
+	path = scoringTools
+	url = https://github.com/cran/scoringTools
 [submodule "scoringfunctions"]
 	path = scoringfunctions
 	url = https://github.com/cran/scoringfunctions
@@ -57038,6 +57041,9 @@
 [submodule "stringstatic"]
 	path = stringstatic
 	url = https://github.com/cran/stringstatic
+[submodule "stringx"]
+	path = stringx
+	url = https://github.com/cran/stringx
 [submodule "strip"]
 	path = strip
 	url = https://github.com/cran/strip
