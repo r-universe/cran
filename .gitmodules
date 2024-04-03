@@ -9233,9 +9233,6 @@
 [submodule "MPCI"]
 	path = MPCI
 	url = https://github.com/cran/MPCI
-[submodule "MPCR"]
-	path = MPCR
-	url = https://github.com/cran/MPCR
 [submodule "MPDiR"]
 	path = MPDiR
 	url = https://github.com/cran/MPDiR
@@ -40376,9 +40373,6 @@
 [submodule "meditations"]
 	path = meditations
 	url = https://github.com/cran/meditations
-[submodule "medrxivr"]
-	path = medrxivr
-	url = https://github.com/cran/medrxivr
 [submodule "meerva"]
 	path = meerva
 	url = https://github.com/cran/meerva
