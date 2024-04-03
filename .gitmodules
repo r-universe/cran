@@ -1661,6 +1661,9 @@
 [submodule "BioStatR"]
 	path = BioStatR
 	url = https://github.com/cran/BioStatR
+[submodule "BioTIMEr"]
+	path = BioTIMEr
+	url = https://github.com/cran/BioTIMEr
 [submodule "BioVenn"]
 	path = BioVenn
 	url = https://github.com/cran/BioVenn
@@ -3101,6 +3104,9 @@
 [submodule "Corbi"]
 	path = Corbi
 	url = https://github.com/cran/Corbi
+[submodule "CoreMicrobiomeR"]
+	path = CoreMicrobiomeR
+	url = https://github.com/cran/CoreMicrobiomeR
 [submodule "CornerstoneR"]
 	path = CornerstoneR
 	url = https://github.com/cran/CornerstoneR
@@ -4718,6 +4724,9 @@
 [submodule "EnergyOnlineCPM"]
 	path = EnergyOnlineCPM
 	url = https://github.com/cran/EnergyOnlineCPM
+[submodule "EngrEcon"]
+	path = EngrEcon
+	url = https://github.com/cran/EngrEcon
 [submodule "EngrExpt"]
 	path = EngrExpt
 	url = https://github.com/cran/EngrExpt
@@ -17402,6 +17411,9 @@
 [submodule "TimeVarConcurrentModel"]
 	path = TimeVarConcurrentModel
 	url = https://github.com/cran/TimeVarConcurrentModel
+[submodule "TimeVizPro"]
+	path = TimeVizPro
+	url = https://github.com/cran/TimeVizPro
 [submodule "Tinflex"]
 	path = Tinflex
 	url = https://github.com/cran/Tinflex
@@ -24062,6 +24074,9 @@
 [submodule "coga"]
 	path = coga
 	url = https://github.com/cran/coga
+[submodule "coglasso"]
+	path = coglasso
+	url = https://github.com/cran/coglasso
 [submodule "cogmapr"]
 	path = cogmapr
 	url = https://github.com/cran/cogmapr
@@ -30062,6 +30077,9 @@
 [submodule "fasano.franceschini.test"]
 	path = fasano.franceschini.test
 	url = https://github.com/cran/fasano.franceschini.test
+[submodule "fase"]
+	path = fase
+	url = https://github.com/cran/fase
 [submodule "fasjem"]
 	path = fasjem
 	url = https://github.com/cran/fasjem
@@ -41006,6 +41024,9 @@
 [submodule "midfieldr"]
 	path = midfieldr
 	url = https://github.com/cran/midfieldr
+[submodule "midi"]
+	path = midi
+	url = https://github.com/cran/midi
 [submodule "midrangeMCP"]
 	path = midrangeMCP
 	url = https://github.com/cran/midrangeMCP
@@ -48131,6 +48152,9 @@
 [submodule "psborrow"]
 	path = psborrow
 	url = https://github.com/cran/psborrow
+[submodule "psborrow2"]
+	path = psborrow2
+	url = https://github.com/cran/psborrow2
 [submodule "pscl"]
 	path = pscl
 	url = https://github.com/cran/pscl
@@ -53267,6 +53291,9 @@
 [submodule "scifigure"]
 	path = scifigure
 	url = https://github.com/cran/scifigure
+[submodule "scimo"]
+	path = scimo
+	url = https://github.com/cran/scimo
 [submodule "sciplot"]
 	path = sciplot
 	url = https://github.com/cran/sciplot
