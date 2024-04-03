@@ -9965,6 +9965,9 @@
 [submodule "MonoInc"]
 	path = MonoInc
 	url = https://github.com/cran/MonoInc
+[submodule "MonoPhy"]
+	path = MonoPhy
+	url = https://github.com/cran/MonoPhy
 [submodule "MonoPoly"]
 	path = MonoPoly
 	url = https://github.com/cran/MonoPoly
@@ -24419,6 +24422,9 @@
 [submodule "concordancer"]
 	path = concordancer
 	url = https://github.com/cran/concordancer
+[submodule "concrete"]
+	path = concrete
+	url = https://github.com/cran/concrete
 [submodule "concstats"]
 	path = concstats
 	url = https://github.com/cran/concstats
@@ -40373,6 +40379,9 @@
 [submodule "meditations"]
 	path = meditations
 	url = https://github.com/cran/meditations
+[submodule "medrxivr"]
+	path = medrxivr
+	url = https://github.com/cran/medrxivr
 [submodule "meerva"]
 	path = meerva
 	url = https://github.com/cran/meerva
