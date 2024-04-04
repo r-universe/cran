@@ -46634,6 +46634,9 @@
 [submodule "pipeliner"]
 	path = pipeliner
 	url = https://github.com/cran/pipeliner
+[submodule "pipenostics"]
+	path = pipenostics
+	url = https://github.com/cran/pipenostics
 [submodule "piqp"]
 	path = piqp
 	url = https://github.com/cran/piqp
