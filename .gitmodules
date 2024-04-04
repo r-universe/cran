@@ -6212,9 +6212,6 @@
 [submodule "GSMX"]
 	path = GSMX
 	url = https://github.com/cran/GSMX
-[submodule "GSNA"]
-	path = GSNA
-	url = https://github.com/cran/GSNA
 [submodule "GSODR"]
 	path = GSODR
 	url = https://github.com/cran/GSODR
@@ -61715,9 +61712,6 @@
 [submodule "wordPuzzleR"]
 	path = wordPuzzleR
 	url = https://github.com/cran/wordPuzzleR
-[submodule "wordbankr"]
-	path = wordbankr
-	url = https://github.com/cran/wordbankr
 [submodule "wordcloud"]
 	path = wordcloud
 	url = https://github.com/cran/wordcloud
