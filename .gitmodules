@@ -1934,6 +1934,9 @@
 [submodule "CARME"]
 	path = CARME
 	url = https://github.com/cran/CARME
+[submodule "CARMS"]
+	path = CARMS
+	url = https://github.com/cran/CARMS
 [submodule "CARRoT"]
 	path = CARRoT
 	url = https://github.com/cran/CARRoT
@@ -2027,6 +2030,9 @@
 [submodule "CDSS"]
 	path = CDSS
 	url = https://github.com/cran/CDSS
+[submodule "CDVI"]
+	path = CDVI
+	url = https://github.com/cran/CDVI
 [submodule "CDVineCopulaConditional"]
 	path = CDVineCopulaConditional
 	url = https://github.com/cran/CDVineCopulaConditional
@@ -8306,6 +8312,9 @@
 [submodule "LSDinterface"]
 	path = LSDinterface
 	url = https://github.com/cran/LSDinterface
+[submodule "LSDirf"]
+	path = LSDirf
+	url = https://github.com/cran/LSDirf
 [submodule "LSDsensitivity"]
 	path = LSDsensitivity
 	url = https://github.com/cran/LSDsensitivity
@@ -18359,6 +18368,9 @@
 [submodule "YaleToolkit"]
 	path = YaleToolkit
 	url = https://github.com/cran/YaleToolkit
+[submodule "YatchewTest"]
+	path = YatchewTest
+	url = https://github.com/cran/YatchewTest
 [submodule "YatesAlgo.FactorialExp.SR"]
 	path = YatesAlgo.FactorialExp.SR
 	url = https://github.com/cran/YatesAlgo.FactorialExp.SR
@@ -41516,6 +41528,9 @@
 [submodule "mlr3fairness"]
 	path = mlr3fairness
 	url = https://github.com/cran/mlr3fairness
+[submodule "mlr3fda"]
+	path = mlr3fda
+	url = https://github.com/cran/mlr3fda
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/cran/mlr3filters
@@ -46976,6 +46991,9 @@
 [submodule "plsgenomics"]
 	path = plsgenomics
 	url = https://github.com/cran/plsgenomics
+[submodule "plsmmLasso"]
+	path = plsmmLasso
+	url = https://github.com/cran/plsmmLasso
 [submodule "plsmod"]
 	path = plsmod
 	url = https://github.com/cran/plsmod
@@ -58268,6 +58286,9 @@
 [submodule "tester"]
 	path = tester
 	url = https://github.com/cran/tester
+[submodule "testex"]
+	path = testex
+	url = https://github.com/cran/testex
 [submodule "testforDEP"]
 	path = testforDEP
 	url = https://github.com/cran/testforDEP
