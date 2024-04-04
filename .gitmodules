@@ -3653,6 +3653,9 @@
 [submodule "DPQmpfr"]
 	path = DPQmpfr
 	url = https://github.com/cran/DPQmpfr
+[submodule "DPTM"]
+	path = DPTM
+	url = https://github.com/cran/DPTM
 [submodule "DPpack"]
 	path = DPpack
 	url = https://github.com/cran/DPpack
@@ -7595,6 +7598,9 @@
 [submodule "InspectChangepoint"]
 	path = InspectChangepoint
 	url = https://github.com/cran/InspectChangepoint
+[submodule "InsuSensCalc"]
+	path = InsuSensCalc
+	url = https://github.com/cran/InsuSensCalc
 [submodule "IntCal"]
 	path = IntCal
 	url = https://github.com/cran/IntCal
@@ -43883,6 +43889,9 @@
 [submodule "nonparametric.bayes"]
 	path = nonparametric.bayes
 	url = https://github.com/cran/nonparametric.bayes
+[submodule "nonprobsvy"]
+	path = nonprobsvy
+	url = https://github.com/cran/nonprobsvy
 [submodule "nopaco"]
 	path = nopaco
 	url = https://github.com/cran/nopaco
