@@ -12494,6 +12494,9 @@
 [submodule "Qindex"]
 	path = Qindex
 	url = https://github.com/cran/Qindex
+[submodule "Qindex.data"]
+	path = Qindex.data
+	url = https://github.com/cran/Qindex.data
 [submodule "QoLMiss"]
 	path = QoLMiss
 	url = https://github.com/cran/QoLMiss
@@ -16313,6 +16316,9 @@
 [submodule "SpTe2M"]
 	path = SpTe2M
 	url = https://github.com/cran/SpTe2M
+[submodule "SpaDES"]
+	path = SpaDES
+	url = https://github.com/cran/SpaDES
 [submodule "SpaDES.core"]
 	path = SpaDES.core
 	url = https://github.com/cran/SpaDES.core
@@ -17378,6 +17384,9 @@
 [submodule "Thermimage"]
 	path = Thermimage
 	url = https://github.com/cran/Thermimage
+[submodule "Thermistor"]
+	path = Thermistor
+	url = https://github.com/cran/Thermistor
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
 	url = https://github.com/cran/ThomasJeffersonUniv
@@ -23270,6 +23279,9 @@
 [submodule "childesr"]
 	path = childesr
 	url = https://github.com/cran/childesr
+[submodule "childfree"]
+	path = childfree
+	url = https://github.com/cran/childfree
 [submodule "childsds"]
 	path = childsds
 	url = https://github.com/cran/childsds
