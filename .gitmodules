@@ -6146,6 +6146,9 @@
 [submodule "GPoM"]
 	path = GPoM
 	url = https://github.com/cran/GPoM
+[submodule "GPvam"]
+	path = GPvam
+	url = https://github.com/cran/GPvam
 [submodule "GPvecchia"]
 	path = GPvecchia
 	url = https://github.com/cran/GPvecchia
@@ -6221,6 +6224,9 @@
 [submodule "GSMX"]
 	path = GSMX
 	url = https://github.com/cran/GSMX
+[submodule "GSNA"]
+	path = GSNA
+	url = https://github.com/cran/GSNA
 [submodule "GSODR"]
 	path = GSODR
 	url = https://github.com/cran/GSODR
@@ -14324,6 +14330,9 @@
 [submodule "ReadDIM"]
 	path = ReadDIM
 	url = https://github.com/cran/ReadDIM
+[submodule "RealVAMS"]
+	path = RealVAMS
+	url = https://github.com/cran/RealVAMS
 [submodule "Rearrangement"]
 	path = Rearrangement
 	url = https://github.com/cran/Rearrangement
@@ -22652,6 +22661,9 @@
 [submodule "caseMatch"]
 	path = caseMatch
 	url = https://github.com/cran/caseMatch
+[submodule "casebase"]
+	path = casebase
+	url = https://github.com/cran/casebase
 [submodule "cases"]
 	path = cases
 	url = https://github.com/cran/cases
@@ -32507,6 +32519,9 @@
 [submodule "geofacet"]
 	path = geofacet
 	url = https://github.com/cran/geofacet
+[submodule "geofd"]
+	path = geofd
+	url = https://github.com/cran/geofd
 [submodule "geofi"]
 	path = geofi
 	url = https://github.com/cran/geofi
@@ -41858,6 +41873,9 @@
 [submodule "modeltime"]
 	path = modeltime
 	url = https://github.com/cran/modeltime
+[submodule "modeltime.ensemble"]
+	path = modeltime.ensemble
+	url = https://github.com/cran/modeltime.ensemble
 [submodule "modeltime.resample"]
 	path = modeltime.resample
 	url = https://github.com/cran/modeltime.resample
@@ -42584,6 +42602,9 @@
 [submodule "multilevelTools"]
 	path = multilevelTools
 	url = https://github.com/cran/multilevelTools
+[submodule "multilevelcoda"]
+	path = multilevelcoda
+	url = https://github.com/cran/multilevelcoda
 [submodule "multilevelmediation"]
 	path = multilevelmediation
 	url = https://github.com/cran/multilevelmediation
@@ -61745,6 +61766,9 @@
 [submodule "wordPuzzleR"]
 	path = wordPuzzleR
 	url = https://github.com/cran/wordPuzzleR
+[submodule "wordbankr"]
+	path = wordbankr
+	url = https://github.com/cran/wordbankr
 [submodule "wordcloud"]
 	path = wordcloud
 	url = https://github.com/cran/wordcloud
