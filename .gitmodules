@@ -5891,6 +5891,9 @@
 [submodule "GEVcdn"]
 	path = GEVcdn
 	url = https://github.com/cran/GEVcdn
+[submodule "GEmetrics"]
+	path = GEmetrics
+	url = https://github.com/cran/GEmetrics
 [submodule "GFA"]
 	path = GFA
 	url = https://github.com/cran/GFA
@@ -29927,6 +29930,9 @@
 [submodule "fable.prophet"]
 	path = fable.prophet
 	url = https://github.com/cran/fable.prophet
+[submodule "fableCount"]
+	path = fableCount
+	url = https://github.com/cran/fableCount
 [submodule "fabletools"]
 	path = fabletools
 	url = https://github.com/cran/fabletools
