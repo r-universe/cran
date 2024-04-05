@@ -45149,9 +45149,6 @@
 [submodule "outcomerate"]
 	path = outcomerate
 	url = https://github.com/cran/outcomerate
-[submodule "outerbase"]
-	path = outerbase
-	url = https://github.com/cran/outerbase
 [submodule "outlierensembles"]
 	path = outlierensembles
 	url = https://github.com/cran/outlierensembles
