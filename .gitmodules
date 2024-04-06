@@ -40757,6 +40757,9 @@
 [submodule "meteR"]
 	path = meteR
 	url = https://github.com/cran/meteR
+[submodule "meteo"]
+	path = meteo
+	url = https://github.com/cran/meteo
 [submodule "meteoEVT"]
 	path = meteoEVT
 	url = https://github.com/cran/meteoEVT
@@ -43313,6 +43316,9 @@
 [submodule "netassoc"]
 	path = netassoc
 	url = https://github.com/cran/netassoc
+[submodule "netchain"]
+	path = netchain
+	url = https://github.com/cran/netchain
 [submodule "netcmc"]
 	path = netcmc
 	url = https://github.com/cran/netcmc
@@ -45158,6 +45164,9 @@
 [submodule "outcomerate"]
 	path = outcomerate
 	url = https://github.com/cran/outcomerate
+[submodule "outerbase"]
+	path = outerbase
+	url = https://github.com/cran/outerbase
 [submodule "outlierensembles"]
 	path = outlierensembles
 	url = https://github.com/cran/outlierensembles
@@ -50219,6 +50228,9 @@
 [submodule "readxlsb"]
 	path = readxlsb
 	url = https://github.com/cran/readxlsb
+[submodule "readysignal"]
+	path = readysignal
+	url = https://github.com/cran/readysignal
 [submodule "realTimeloads"]
 	path = realTimeloads
 	url = https://github.com/cran/realTimeloads
