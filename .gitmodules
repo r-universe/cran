@@ -45011,9 +45011,6 @@
 [submodule "oreo"]
 	path = oreo
 	url = https://github.com/cran/oreo
-[submodule "ores"]
-	path = ores
-	url = https://github.com/cran/ores
 [submodule "orf"]
 	path = orf
 	url = https://github.com/cran/orf
