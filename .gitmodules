@@ -20681,9 +20681,6 @@
 [submodule "bayesboot"]
 	path = bayesboot
 	url = https://github.com/cran/bayesboot
-[submodule "bayesbr"]
-	path = bayesbr
-	url = https://github.com/cran/bayesbr
 [submodule "bayescopulareg"]
 	path = bayescopulareg
 	url = https://github.com/cran/bayescopulareg
@@ -51623,9 +51620,6 @@
 [submodule "robcor"]
 	path = robcor
 	url = https://github.com/cran/robcor
-[submodule "robcp"]
-	path = robcp
-	url = https://github.com/cran/robcp
 [submodule "roben"]
 	path = roben
 	url = https://github.com/cran/roben
