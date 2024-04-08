@@ -9593,6 +9593,9 @@
 [submodule "MatSkew"]
 	path = MatSkew
 	url = https://github.com/cran/MatSkew
+[submodule "MatchGATE"]
+	path = MatchGATE
+	url = https://github.com/cran/MatchGATE
 [submodule "MatchIt"]
 	path = MatchIt
 	url = https://github.com/cran/MatchIt
@@ -32015,6 +32018,9 @@
 [submodule "gammSlice"]
 	path = gammSlice
 	url = https://github.com/cran/gammSlice
+[submodule "gamma"]
+	path = gamma
+	url = https://github.com/cran/gamma
 [submodule "gamreg"]
 	path = gamreg
 	url = https://github.com/cran/gamreg
@@ -34469,6 +34475,9 @@
 [submodule "gte"]
 	path = gte
 	url = https://github.com/cran/gte
+[submodule "gtexture"]
+	path = gtexture
+	url = https://github.com/cran/gtexture
 [submodule "gtfs2emis"]
 	path = gtfs2emis
 	url = https://github.com/cran/gtfs2emis
@@ -34814,6 +34823,9 @@
 [submodule "hda"]
 	path = hda
 	url = https://github.com/cran/hda
+[submodule "hdbayes"]
+	path = hdbayes
+	url = https://github.com/cran/hdbayes
 [submodule "hdbinseg"]
 	path = hdbinseg
 	url = https://github.com/cran/hdbinseg
@@ -42422,6 +42434,9 @@
 [submodule "mt"]
 	path = mt
 	url = https://github.com/cran/mt
+[submodule "mtanan"]
+	path = mtanan
+	url = https://github.com/cran/mtanan
 [submodule "mtb"]
 	path = mtb
 	url = https://github.com/cran/mtb
@@ -49379,6 +49394,9 @@
 [submodule "rTorch"]
 	path = rTorch
 	url = https://github.com/cran/rTorch
+[submodule "rTwig"]
+	path = rTwig
+	url = https://github.com/cran/rTwig
 [submodule "rUM"]
 	path = rUM
 	url = https://github.com/cran/rUM
@@ -56801,6 +56819,9 @@
 [submodule "stcov"]
 	path = stcov
 	url = https://github.com/cran/stcov
+[submodule "stcpR6"]
+	path = stcpR6
+	url = https://github.com/cran/stcpR6
 [submodule "stdReg"]
 	path = stdReg
 	url = https://github.com/cran/stdReg
@@ -60575,6 +60596,9 @@
 [submodule "validatetools"]
 	path = validatetools
 	url = https://github.com/cran/validatetools
+[submodule "validmind"]
+	path = validmind
+	url = https://github.com/cran/validmind
 [submodule "valmetrics"]
 	path = valmetrics
 	url = https://github.com/cran/valmetrics
