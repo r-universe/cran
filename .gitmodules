@@ -55466,9 +55466,6 @@
 [submodule "sns"]
 	path = sns
 	url = https://github.com/cran/sns
-[submodule "snvecR"]
-	path = snvecR
-	url = https://github.com/cran/snvecR
 [submodule "sobolnp"]
 	path = sobolnp
 	url = https://github.com/cran/sobolnp
