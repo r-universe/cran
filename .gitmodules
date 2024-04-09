@@ -38393,6 +38393,9 @@
 [submodule "leaftime"]
 	path = leaftime
 	url = https://github.com/cran/leaftime
+[submodule "leakyIV"]
+	path = leakyIV
+	url = https://github.com/cran/leakyIV
 [submodule "leanpubr"]
 	path = leanpubr
 	url = https://github.com/cran/leanpubr
@@ -41033,6 +41036,9 @@
 [submodule "micromodal"]
 	path = micromodal
 	url = https://github.com/cran/micromodal
+[submodule "micronutr"]
+	path = micronutr
+	url = https://github.com/cran/micronutr
 [submodule "micropan"]
 	path = micropan
 	url = https://github.com/cran/micropan
