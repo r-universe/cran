@@ -16745,6 +16745,9 @@
 [submodule "SurrogateOutcome"]
 	path = SurrogateOutcome
 	url = https://github.com/cran/SurrogateOutcome
+[submodule "SurrogateRank"]
+	path = SurrogateRank
+	url = https://github.com/cran/SurrogateRank
 [submodule "SurrogateRegression"]
 	path = SurrogateRegression
 	url = https://github.com/cran/SurrogateRegression
@@ -24398,6 +24401,9 @@
 [submodule "completejourney"]
 	path = completejourney
 	url = https://github.com/cran/completejourney
+[submodule "complex"]
+	path = complex
+	url = https://github.com/cran/complex
 [submodule "complexNet"]
 	path = complexNet
 	url = https://github.com/cran/complexNet
@@ -46055,6 +46061,9 @@
 [submodule "pedFamilias"]
 	path = pedFamilias
 	url = https://github.com/cran/pedFamilias
+[submodule "pedMermaid"]
+	path = pedMermaid
+	url = https://github.com/cran/pedMermaid
 [submodule "pedSimulate"]
 	path = pedSimulate
 	url = https://github.com/cran/pedSimulate
