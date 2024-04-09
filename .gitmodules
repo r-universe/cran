@@ -37772,6 +37772,9 @@
 [submodule "klausuR"]
 	path = klausuR
 	url = https://github.com/cran/klausuR
+[submodule "kldest"]
+	path = kldest
+	url = https://github.com/cran/kldest
 [submodule "kldtools"]
 	path = kldtools
 	url = https://github.com/cran/kldtools
@@ -53900,9 +53903,6 @@
 [submodule "sentometrics"]
 	path = sentometrics
 	url = https://github.com/cran/sentometrics
-[submodule "sentopics"]
-	path = sentopics
-	url = https://github.com/cran/sentopics
 [submodule "sentryR"]
 	path = sentryR
 	url = https://github.com/cran/sentryR
@@ -55319,9 +55319,6 @@
 [submodule "smidm"]
 	path = smidm
 	url = https://github.com/cran/smidm
-[submodule "smile"]
-	path = smile
-	url = https://github.com/cran/smile
 [submodule "smirnov"]
 	path = smirnov
 	url = https://github.com/cran/smirnov
@@ -55934,6 +55931,9 @@
 [submodule "spathial"]
 	path = spathial
 	url = https://github.com/cran/spathial
+[submodule "spaths"]
+	path = spaths
+	url = https://github.com/cran/spaths
 [submodule "spatial"]
 	path = spatial
 	url = https://github.com/cran/spatial
