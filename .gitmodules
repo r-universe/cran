@@ -44222,6 +44222,9 @@
 [submodule "ntdr"]
 	path = ntdr
 	url = https://github.com/cran/ntdr
+[submodule "ntranova"]
+	path = ntranova
+	url = https://github.com/cran/ntranova
 [submodule "ntsDists"]
 	path = ntsDists
 	url = https://github.com/cran/ntsDists
@@ -55817,6 +55820,9 @@
 [submodule "sparseBC"]
 	path = sparseBC
 	url = https://github.com/cran/sparseBC
+[submodule "sparseCov"]
+	path = sparseCov
+	url = https://github.com/cran/sparseCov
 [submodule "sparseDFM"]
 	path = sparseDFM
 	url = https://github.com/cran/sparseDFM
