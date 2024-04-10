@@ -48839,6 +48839,9 @@
 [submodule "quadcleanR"]
 	path = quadcleanR
 	url = https://github.com/cran/quadcleanR
+[submodule "quadform"]
+	path = quadform
+	url = https://github.com/cran/quadform
 [submodule "quadmatrix"]
 	path = quadmatrix
 	url = https://github.com/cran/quadmatrix
