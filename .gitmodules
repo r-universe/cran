@@ -4166,9 +4166,6 @@
 [submodule "DiversificationR"]
 	path = DiversificationR
 	url = https://github.com/cran/DiversificationR
-[submodule "DiversityOccupancy"]
-	path = DiversityOccupancy
-	url = https://github.com/cran/DiversityOccupancy
 [submodule "DoE.MIParray"]
 	path = DoE.MIParray
 	url = https://github.com/cran/DoE.MIParray
@@ -6287,9 +6284,6 @@
 [submodule "GWLelast"]
 	path = GWLelast
 	url = https://github.com/cran/GWLelast
-[submodule "GWPR.light"]
-	path = GWPR.light
-	url = https://github.com/cran/GWPR.light
 [submodule "GWRLASSO"]
 	path = GWRLASSO
 	url = https://github.com/cran/GWRLASSO
@@ -15167,9 +15161,6 @@
 [submodule "SDLfilter"]
 	path = SDLfilter
 	url = https://github.com/cran/SDLfilter
-[submodule "SDMPlay"]
-	path = SDMPlay
-	url = https://github.com/cran/SDMPlay
 [submodule "SDMtune"]
 	path = SDMtune
 	url = https://github.com/cran/SDMtune
@@ -16646,9 +16637,6 @@
 [submodule "StratifiedRF"]
 	path = StratifiedRF
 	url = https://github.com/cran/StratifiedRF
-[submodule "StratifiedSampling"]
-	path = StratifiedSampling
-	url = https://github.com/cran/StratifiedSampling
 [submodule "StratigrapheR"]
 	path = StratigrapheR
 	url = https://github.com/cran/StratigrapheR
@@ -38483,9 +38471,6 @@
 [submodule "leptokurticMixture"]
 	path = leptokurticMixture
 	url = https://github.com/cran/leptokurticMixture
-[submodule "leri"]
-	path = leri
-	url = https://github.com/cran/leri
 [submodule "lero.lero"]
 	path = lero.lero
 	url = https://github.com/cran/lero.lero
@@ -42281,9 +42266,6 @@
 [submodule "mreg"]
 	path = mreg
 	url = https://github.com/cran/mreg
-[submodule "mregions"]
-	path = mregions
-	url = https://github.com/cran/mregions
 [submodule "mrf"]
 	path = mrf
 	url = https://github.com/cran/mrf
@@ -44636,9 +44618,6 @@
 [submodule "onemap"]
 	path = onemap
 	url = https://github.com/cran/onemap
-[submodule "onemapsgapi"]
-	path = onemapsgapi
-	url = https://github.com/cran/onemapsgapi
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/cran/onetime
@@ -51071,9 +51050,6 @@
 [submodule "rgeopat2"]
 	path = rgeopat2
 	url = https://github.com/cran/rgeopat2
-[submodule "rgeoprofile"]
-	path = rgeoprofile
-	url = https://github.com/cran/rgeoprofile
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cran/rgexf
@@ -53540,9 +53516,6 @@
 [submodule "sdm"]
 	path = sdm
 	url = https://github.com/cran/sdm
-[submodule "sdmApp"]
-	path = sdmApp
-	url = https://github.com/cran/sdmApp
 [submodule "sdmTMB"]
 	path = sdmTMB
 	url = https://github.com/cran/sdmTMB
@@ -54905,9 +54878,6 @@
 [submodule "simplermarkdown"]
 	path = simplermarkdown
 	url = https://github.com/cran/simplermarkdown
-[submodule "simplevis"]
-	path = simplevis
-	url = https://github.com/cran/simplevis
 [submodule "simplexreg"]
 	path = simplexreg
 	url = https://github.com/cran/simplexreg
@@ -55268,9 +55238,6 @@
 [submodule "smam"]
 	path = smam
 	url = https://github.com/cran/smam
-[submodule "smapr"]
-	path = smapr
-	url = https://github.com/cran/smapr
 [submodule "smartDesign"]
 	path = smartDesign
 	url = https://github.com/cran/smartDesign
@@ -57236,9 +57203,6 @@
 [submodule "submax"]
 	path = submax
 	url = https://github.com/cran/submax
-[submodule "subniche"]
-	path = subniche
-	url = https://github.com/cran/subniche
 [submodule "subplex"]
 	path = subplex
 	url = https://github.com/cran/subplex
@@ -58220,9 +58184,6 @@
 [submodule "telegram.bot"]
 	path = telegram.bot
 	url = https://github.com/cran/telegram.bot
-[submodule "telemac"]
-	path = telemac
-	url = https://github.com/cran/telemac
 [submodule "telemetR"]
 	path = telemetR
 	url = https://github.com/cran/telemetR
@@ -61667,9 +61628,6 @@
 [submodule "whomds"]
 	path = whomds
 	url = https://github.com/cran/whomds
-[submodule "wiad"]
-	path = wiad
-	url = https://github.com/cran/wiad
 [submodule "widals"]
 	path = widals
 	url = https://github.com/cran/widals
