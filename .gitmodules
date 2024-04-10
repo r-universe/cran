@@ -5438,6 +5438,9 @@
 [submodule "FedData"]
 	path = FedData
 	url = https://github.com/cran/FedData
+[submodule "FedIRT"]
+	path = FedIRT
+	url = https://github.com/cran/FedIRT
 [submodule "FeedbackTS"]
 	path = FeedbackTS
 	url = https://github.com/cran/FeedbackTS
@@ -6728,6 +6731,9 @@
 [submodule "HDTSA"]
 	path = HDTSA
 	url = https://github.com/cran/HDTSA
+[submodule "HDXBoxeR"]
+	path = HDXBoxeR
+	url = https://github.com/cran/HDXBoxeR
 [submodule "HDclassif"]
 	path = HDclassif
 	url = https://github.com/cran/HDclassif
@@ -7418,6 +7424,9 @@
 [submodule "IRISSeismic"]
 	path = IRISSeismic
 	url = https://github.com/cran/IRISSeismic
+[submodule "IRR2FPR"]
+	path = IRR2FPR
+	url = https://github.com/cran/IRR2FPR
 [submodule "IRTBEMM"]
 	path = IRTBEMM
 	url = https://github.com/cran/IRTBEMM
@@ -16223,6 +16232,9 @@
 [submodule "SmarterPoland"]
 	path = SmarterPoland
 	url = https://github.com/cran/SmarterPoland
+[submodule "SmoothHazard"]
+	path = SmoothHazard
+	url = https://github.com/cran/SmoothHazard
 [submodule "SmoothTensor"]
 	path = SmoothTensor
 	url = https://github.com/cran/SmoothTensor
@@ -18188,6 +18200,9 @@
 [submodule "WaverideR"]
 	path = WaverideR
 	url = https://github.com/cran/WaverideR
+[submodule "WayFindR"]
+	path = WayFindR
+	url = https://github.com/cran/WayFindR
 [submodule "Wcompo"]
 	path = Wcompo
 	url = https://github.com/cran/Wcompo
@@ -35765,6 +35780,9 @@
 [submodule "iNEXT.3D"]
 	path = iNEXT.3D
 	url = https://github.com/cran/iNEXT.3D
+[submodule "iNEXT.4steps"]
+	path = iNEXT.4steps
+	url = https://github.com/cran/iNEXT.4steps
 [submodule "iNEXT.beta3D"]
 	path = iNEXT.beta3D
 	url = https://github.com/cran/iNEXT.beta3D
@@ -57470,6 +57488,9 @@
 [submodule "surveyCV"]
 	path = surveyCV
 	url = https://github.com/cran/surveyCV
+[submodule "surveyPrev"]
+	path = surveyPrev
+	url = https://github.com/cran/surveyPrev
 [submodule "surveybootstrap"]
 	path = surveybootstrap
 	url = https://github.com/cran/surveybootstrap
