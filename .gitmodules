@@ -39800,6 +39800,9 @@
 [submodule "mapme.biodiversity"]
 	path = mapme.biodiversity
 	url = https://github.com/cran/mapme.biodiversity
+[submodule "mapmisc"]
+	path = mapmisc
+	url = https://github.com/cran/mapmisc
 [submodule "mapping"]
 	path = mapping
 	url = https://github.com/cran/mapping
@@ -53888,6 +53891,9 @@
 [submodule "sentometrics"]
 	path = sentometrics
 	url = https://github.com/cran/sentometrics
+[submodule "sentopics"]
+	path = sentopics
+	url = https://github.com/cran/sentopics
 [submodule "sentryR"]
 	path = sentryR
 	url = https://github.com/cran/sentryR
@@ -55298,6 +55304,9 @@
 [submodule "smidm"]
 	path = smidm
 	url = https://github.com/cran/smidm
+[submodule "smile"]
+	path = smile
+	url = https://github.com/cran/smile
 [submodule "smirnov"]
 	path = smirnov
 	url = https://github.com/cran/smirnov
