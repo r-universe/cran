@@ -398,6 +398,9 @@
 [submodule "AccelStab"]
 	path = AccelStab
 	url = https://github.com/cran/AccelStab
+[submodule "AcceptReject"]
+	path = AcceptReject
+	url = https://github.com/cran/AcceptReject
 [submodule "AcceptanceSampling"]
 	path = AcceptanceSampling
 	url = https://github.com/cran/AcceptanceSampling
