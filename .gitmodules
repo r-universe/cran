@@ -15050,6 +15050,9 @@
 [submodule "SBCK"]
 	path = SBCK
 	url = https://github.com/cran/SBCK
+[submodule "SBI"]
+	path = SBI
+	url = https://github.com/cran/SBI
 [submodule "SBICgraph"]
 	path = SBICgraph
 	url = https://github.com/cran/SBICgraph
@@ -19235,6 +19238,9 @@
 [submodule "aliases2entrez"]
 	path = aliases2entrez
 	url = https://github.com/cran/aliases2entrez
+[submodule "alien"]
+	path = alien
+	url = https://github.com/cran/alien
 [submodule "align"]
 	path = align
 	url = https://github.com/cran/align
@@ -54104,6 +54110,9 @@
 [submodule "sgat"]
 	path = sgat
 	url = https://github.com/cran/sgat
+[submodule "sgboost"]
+	path = sgboost
+	url = https://github.com/cran/sgboost
 [submodule "sgd"]
 	path = sgd
 	url = https://github.com/cran/sgd
