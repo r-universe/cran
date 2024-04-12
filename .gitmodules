@@ -4262,9 +4262,6 @@
 [submodule "DynForest"]
 	path = DynForest
 	url = https://github.com/cran/DynForest
-[submodule "DynNom"]
-	path = DynNom
-	url = https://github.com/cran/DynNom
 [submodule "DynTxRegime"]
 	path = DynTxRegime
 	url = https://github.com/cran/DynTxRegime
@@ -7712,9 +7709,6 @@
 [submodule "IsoCor"]
 	path = IsoCor
 	url = https://github.com/cran/IsoCor
-[submodule "IsoGene"]
-	path = IsoGene
-	url = https://github.com/cran/IsoGene
 [submodule "IsoMemo"]
 	path = IsoMemo
 	url = https://github.com/cran/IsoMemo
@@ -19979,27 +19973,9 @@
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/cran/assertions
-[submodule "assertive.base"]
-	path = assertive.base
-	url = https://github.com/cran/assertive.base
-[submodule "assertive.files"]
-	path = assertive.files
-	url = https://github.com/cran/assertive.files
-[submodule "assertive.matrices"]
-	path = assertive.matrices
-	url = https://github.com/cran/assertive.matrices
-[submodule "assertive.models"]
-	path = assertive.models
-	url = https://github.com/cran/assertive.models
-[submodule "assertive.numbers"]
-	path = assertive.numbers
-	url = https://github.com/cran/assertive.numbers
 [submodule "assertive.reflection"]
 	path = assertive.reflection
 	url = https://github.com/cran/assertive.reflection
-[submodule "assertive.sets"]
-	path = assertive.sets
-	url = https://github.com/cran/assertive.sets
 [submodule "assertr"]
 	path = assertr
 	url = https://github.com/cran/assertr
@@ -23771,9 +23747,6 @@
 [submodule "clustAnalytics"]
 	path = clustAnalytics
 	url = https://github.com/cran/clustAnalytics
-[submodule "clustDRM"]
-	path = clustDRM
-	url = https://github.com/cran/clustDRM
 [submodule "clustEff"]
 	path = clustEff
 	url = https://github.com/cran/clustEff
@@ -27194,9 +27167,6 @@
 [submodule "discreteRV"]
 	path = discreteRV
 	url = https://github.com/cran/discreteRV
-[submodule "discretecdAlgorithm"]
-	path = discretecdAlgorithm
-	url = https://github.com/cran/discretecdAlgorithm
 [submodule "discretefit"]
 	path = discretefit
 	url = https://github.com/cran/discretefit
@@ -27635,9 +27605,6 @@
 [submodule "dotsViolin"]
 	path = dotsViolin
 	url = https://github.com/cran/dotsViolin
-[submodule "dotwhisker"]
-	path = dotwhisker
-	url = https://github.com/cran/dotwhisker
 [submodule "doubcens"]
 	path = doubcens
 	url = https://github.com/cran/doubcens
@@ -28628,9 +28595,6 @@
 [submodule "effsize"]
 	path = effsize
 	url = https://github.com/cran/effsize
-[submodule "efreadr"]
-	path = efreadr
-	url = https://github.com/cran/efreadr
 [submodule "ega"]
 	path = ega
 	url = https://github.com/cran/ega
@@ -28970,9 +28934,6 @@
 [submodule "ensr"]
 	path = ensr
 	url = https://github.com/cran/ensr
-[submodule "ensurer"]
-	path = ensurer
-	url = https://github.com/cran/ensurer
 [submodule "entropart"]
 	path = entropart
 	url = https://github.com/cran/entropart
@@ -37874,9 +37835,6 @@
 [submodule "komaletter"]
 	path = komaletter
 	url = https://github.com/cran/komaletter
-[submodule "konfound"]
-	path = konfound
-	url = https://github.com/cran/konfound
 [submodule "konya"]
 	path = konya
 	url = https://github.com/cran/konya
@@ -39884,9 +39842,6 @@
 [submodule "marginalizedRisk"]
 	path = marginalizedRisk
 	url = https://github.com/cran/marginalizedRisk
-[submodule "margins"]
-	path = margins
-	url = https://github.com/cran/margins
 [submodule "marima"]
 	path = marima
 	url = https://github.com/cran/marima
@@ -40901,9 +40856,6 @@
 [submodule "mhtboot"]
 	path = mhtboot
 	url = https://github.com/cran/mhtboot
-[submodule "mhurdle"]
-	path = mhurdle
-	url = https://github.com/cran/mhurdle
 [submodule "mi"]
 	path = mi
 	url = https://github.com/cran/mi
@@ -47690,9 +47642,6 @@
 [submodule "predictNMB"]
 	path = predictNMB
 	url = https://github.com/cran/predictNMB
-[submodule "prediction"]
-	path = prediction
-	url = https://github.com/cran/prediction
 [submodule "predictionInterval"]
 	path = predictionInterval
 	url = https://github.com/cran/predictionInterval
@@ -53981,9 +53930,6 @@
 [submodule "sets"]
 	path = sets
 	url = https://github.com/cran/sets
-[submodule "setter"]
-	path = setter
-	url = https://github.com/cran/setter
 [submodule "settings"]
 	path = settings
 	url = https://github.com/cran/settings
@@ -55847,9 +55793,6 @@
 [submodule "sparseSVM"]
 	path = sparseSVM
 	url = https://github.com/cran/sparseSVM
-[submodule "sparsebnUtils"]
-	path = sparsebnUtils
-	url = https://github.com/cran/sparsebnUtils
 [submodule "sparsediscrim"]
 	path = sparsediscrim
 	url = https://github.com/cran/sparsediscrim
