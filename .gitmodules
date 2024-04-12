@@ -3506,6 +3506,9 @@
 [submodule "DIDmultiplegtDYN"]
 	path = DIDmultiplegtDYN
 	url = https://github.com/cran/DIDmultiplegtDYN
+[submodule "DIFM"]
+	path = DIFM
+	url = https://github.com/cran/DIFM
 [submodule "DIFboost"]
 	path = DIFboost
 	url = https://github.com/cran/DIFboost
@@ -55364,6 +55367,9 @@
 [submodule "smpic"]
 	path = smpic
 	url = https://github.com/cran/smpic
+[submodule "smplot2"]
+	path = smplot2
+	url = https://github.com/cran/smplot2
 [submodule "sms"]
 	path = sms
 	url = https://github.com/cran/sms
