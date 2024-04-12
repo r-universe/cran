@@ -16589,9 +16589,6 @@
 [submodule "SteinIV"]
 	path = SteinIV
 	url = https://github.com/cran/SteinIV
-[submodule "SteinerNet"]
-	path = SteinerNet
-	url = https://github.com/cran/SteinerNet
 [submodule "StemAnalysis"]
 	path = StemAnalysis
 	url = https://github.com/cran/StemAnalysis
@@ -18005,9 +18002,6 @@
 [submodule "VertexSimilarity"]
 	path = VertexSimilarity
 	url = https://github.com/cran/VertexSimilarity
-[submodule "VertexSort"]
-	path = VertexSort
-	url = https://github.com/cran/VertexSort
 [submodule "VeryLargeIntegers"]
 	path = VeryLargeIntegers
 	url = https://github.com/cran/VeryLargeIntegers
@@ -20504,9 +20498,6 @@
 [submodule "bark"]
 	path = bark
 	url = https://github.com/cran/bark
-[submodule "bartBMA"]
-	path = bartBMA
-	url = https://github.com/cran/bartBMA
 [submodule "bartCause"]
 	path = bartCause
 	url = https://github.com/cran/bartCause
@@ -30266,9 +30257,6 @@
 [submodule "fastlogitME"]
 	path = fastlogitME
 	url = https://github.com/cran/fastlogitME
-[submodule "fastlogranktest"]
-	path = fastlogranktest
-	url = https://github.com/cran/fastlogranktest
 [submodule "fastmap"]
 	path = fastmap
 	url = https://github.com/cran/fastmap
@@ -33869,9 +33857,6 @@
 [submodule "goldfish"]
 	path = goldfish
 	url = https://github.com/cran/goldfish
-[submodule "goldilocks"]
-	path = goldilocks
-	url = https://github.com/cran/goldilocks
 [submodule "golem"]
 	path = golem
 	url = https://github.com/cran/golem
@@ -40625,9 +40610,6 @@
 [submodule "metaMA"]
 	path = metaMA
 	url = https://github.com/cran/metaMA
-[submodule "metaRMST"]
-	path = metaRMST
-	url = https://github.com/cran/metaRMST
 [submodule "metaRNASeq"]
 	path = metaRNASeq
 	url = https://github.com/cran/metaRNASeq
@@ -42002,9 +41984,6 @@
 [submodule "molaR"]
 	path = molaR
 	url = https://github.com/cran/molaR
-[submodule "molnet"]
-	path = molnet
-	url = https://github.com/cran/molnet
 [submodule "mombf"]
 	path = mombf
 	url = https://github.com/cran/mombf
@@ -43361,9 +43340,6 @@
 [submodule "netcmc"]
 	path = netcmc
 	url = https://github.com/cran/netcmc
-[submodule "netcom"]
-	path = netcom
-	url = https://github.com/cran/netcom
 [submodule "netcontrol"]
 	path = netcontrol
 	url = https://github.com/cran/netcontrol
@@ -44483,9 +44459,6 @@
 [submodule "odeGUTS"]
 	path = odeGUTS
 	url = https://github.com/cran/odeGUTS
-[submodule "odeintr"]
-	path = odeintr
-	url = https://github.com/cran/odeintr
 [submodule "odetector"]
 	path = odetector
 	url = https://github.com/cran/odetector
@@ -61109,9 +61082,6 @@
 [submodule "vkR"]
 	path = vkR
 	url = https://github.com/cran/vkR
-[submodule "vlad"]
-	path = vlad
-	url = https://github.com/cran/vlad
 [submodule "vlda"]
 	path = vlda
 	url = https://github.com/cran/vlda
