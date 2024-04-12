@@ -10670,9 +10670,6 @@
 [submodule "NonProbEst"]
 	path = NonProbEst
 	url = https://github.com/cran/NonProbEst
-[submodule "NonlinearRDD"]
-	path = NonlinearRDD
-	url = https://github.com/cran/NonlinearRDD
 [submodule "NonlinearTSA"]
 	path = NonlinearTSA
 	url = https://github.com/cran/NonlinearTSA
@@ -16328,15 +16325,6 @@
 [submodule "SpTe2M"]
 	path = SpTe2M
 	url = https://github.com/cran/SpTe2M
-[submodule "SpaDES"]
-	path = SpaDES
-	url = https://github.com/cran/SpaDES
-[submodule "SpaDES.core"]
-	path = SpaDES.core
-	url = https://github.com/cran/SpaDES.core
-[submodule "SpaDES.tools"]
-	path = SpaDES.tools
-	url = https://github.com/cran/SpaDES.tools
 [submodule "SpaTopic"]
 	path = SpaTopic
 	url = https://github.com/cran/SpaTopic
@@ -27848,9 +27836,6 @@
 [submodule "dsem"]
 	path = dsem
 	url = https://github.com/cran/dsem
-[submodule "dsfa"]
-	path = dsfa
-	url = https://github.com/cran/dsfa
 [submodule "dsims"]
 	path = dsims
 	url = https://github.com/cran/dsims
@@ -30230,9 +30215,6 @@
 [submodule "fastcox"]
 	path = fastcox
 	url = https://github.com/cran/fastcox
-[submodule "fastcpd"]
-	path = fastcpd
-	url = https://github.com/cran/fastcpd
 [submodule "fastdigest"]
 	path = fastdigest
 	url = https://github.com/cran/fastdigest
@@ -44879,9 +44861,6 @@
 [submodule "optimalThreshold"]
 	path = optimalThreshold
 	url = https://github.com/cran/optimalThreshold
-[submodule "optimall"]
-	path = optimall
-	url = https://github.com/cran/optimall
 [submodule "optimbase"]
 	path = optimbase
 	url = https://github.com/cran/optimbase
@@ -50747,9 +50726,6 @@
 [submodule "reproducer"]
 	path = reproducer
 	url = https://github.com/cran/reproducer
-[submodule "reproducible"]
-	path = reproducible
-	url = https://github.com/cran/reproducible
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/cran/reproj
@@ -55718,9 +55694,6 @@
 [submodule "spNetwork"]
 	path = spNetwork
 	url = https://github.com/cran/spNetwork
-[submodule "spOccupancy"]
-	path = spOccupancy
-	url = https://github.com/cran/spOccupancy
 [submodule "spRingsteen"]
 	path = spRingsteen
 	url = https://github.com/cran/spRingsteen
