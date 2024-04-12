@@ -17459,6 +17459,9 @@
 [submodule "ToolsForCoDa"]
 	path = ToolsForCoDa
 	url = https://github.com/cran/ToolsForCoDa
+[submodule "Toothnroll"]
+	path = Toothnroll
+	url = https://github.com/cran/Toothnroll
 [submodule "TopDom"]
 	path = TopDom
 	url = https://github.com/cran/TopDom
@@ -19385,6 +19388,9 @@
 [submodule "ampir"]
 	path = ampir
 	url = https://github.com/cran/ampir
+[submodule "amregtest"]
+	path = amregtest
+	url = https://github.com/cran/amregtest
 [submodule "amt"]
 	path = amt
 	url = https://github.com/cran/amt
@@ -20240,6 +20246,9 @@
 [submodule "avocado"]
 	path = avocado
 	url = https://github.com/cran/avocado
+[submodule "avotrex"]
+	path = avotrex
+	url = https://github.com/cran/avotrex
 [submodule "aweSOM"]
 	path = aweSOM
 	url = https://github.com/cran/aweSOM
@@ -20537,6 +20546,9 @@
 [submodule "baskexact"]
 	path = baskexact
 	url = https://github.com/cran/baskexact
+[submodule "basksim"]
+	path = basksim
+	url = https://github.com/cran/basksim
 [submodule "batata"]
 	path = batata
 	url = https://github.com/cran/batata
@@ -34886,6 +34898,9 @@
 [submodule "heatwaveR"]
 	path = heatwaveR
 	url = https://github.com/cran/heatwaveR
+[submodule "heck"]
+	path = heck
+	url = https://github.com/cran/heck
 [submodule "heddlr"]
 	path = heddlr
 	url = https://github.com/cran/heddlr
@@ -50504,6 +50519,9 @@
 [submodule "relations"]
 	path = relations
 	url = https://github.com/cran/relations
+[submodule "relcircle"]
+	path = relcircle
+	url = https://github.com/cran/relcircle
 [submodule "reldist"]
 	path = reldist
 	url = https://github.com/cran/reldist
@@ -62243,6 +62261,9 @@
 [submodule "zendeskR"]
 	path = zendeskR
 	url = https://github.com/cran/zendeskR
+[submodule "zendown"]
+	path = zendown
+	url = https://github.com/cran/zendown
 [submodule "zenplots"]
 	path = zenplots
 	url = https://github.com/cran/zenplots
