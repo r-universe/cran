@@ -37850,6 +37850,9 @@
 [submodule "komaletter"]
 	path = komaletter
 	url = https://github.com/cran/komaletter
+[submodule "konfound"]
+	path = konfound
+	url = https://github.com/cran/konfound
 [submodule "konya"]
 	path = konya
 	url = https://github.com/cran/konya
