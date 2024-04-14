@@ -62339,9 +62339,6 @@
 [submodule "zendeskR"]
 	path = zendeskR
 	url = https://github.com/cran/zendeskR
-[submodule "zendown"]
-	path = zendown
-	url = https://github.com/cran/zendown
 [submodule "zenplots"]
 	path = zenplots
 	url = https://github.com/cran/zenplots
