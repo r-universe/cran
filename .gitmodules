@@ -45599,9 +45599,6 @@
 [submodule "parglm"]
 	path = parglm
 	url = https://github.com/cran/parglm
-[submodule "parlitools"]
-	path = parlitools
-	url = https://github.com/cran/parlitools
 [submodule "parma"]
 	path = parma
 	url = https://github.com/cran/parma
