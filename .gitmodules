@@ -11288,6 +11288,9 @@
 [submodule "PDShiny"]
 	path = PDShiny
 	url = https://github.com/cran/PDShiny
+[submodule "PDXpower"]
+	path = PDXpower
+	url = https://github.com/cran/PDXpower
 [submodule "PDtoolkit"]
 	path = PDtoolkit
 	url = https://github.com/cran/PDtoolkit
@@ -31448,6 +31451,9 @@
 [submodule "frailtySurv"]
 	path = frailtySurv
 	url = https://github.com/cran/frailtySurv
+[submodule "frailtypack"]
+	path = frailtypack
+	url = https://github.com/cran/frailtypack
 [submodule "frair"]
 	path = frair
 	url = https://github.com/cran/frair
@@ -32219,6 +32225,9 @@
 [submodule "gcxgclab"]
 	path = gcxgclab
 	url = https://github.com/cran/gcxgclab
+[submodule "gdalBindings"]
+	path = gdalBindings
+	url = https://github.com/cran/gdalBindings
 [submodule "gdalUtilities"]
 	path = gdalUtilities
 	url = https://github.com/cran/gdalUtilities
@@ -50459,6 +50468,9 @@
 [submodule "regRSM"]
 	path = regRSM
 	url = https://github.com/cran/regRSM
+[submodule "regcensus"]
+	path = regcensus
+	url = https://github.com/cran/regcensus
 [submodule "regclass"]
 	path = regclass
 	url = https://github.com/cran/regclass
