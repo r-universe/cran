@@ -32219,9 +32219,6 @@
 [submodule "gcxgclab"]
 	path = gcxgclab
 	url = https://github.com/cran/gcxgclab
-[submodule "gdalBindings"]
-	path = gdalBindings
-	url = https://github.com/cran/gdalBindings
 [submodule "gdalUtilities"]
 	path = gdalUtilities
 	url = https://github.com/cran/gdalUtilities
@@ -50462,9 +50459,6 @@
 [submodule "regRSM"]
 	path = regRSM
 	url = https://github.com/cran/regRSM
-[submodule "regcensus"]
-	path = regcensus
-	url = https://github.com/cran/regcensus
 [submodule "regclass"]
 	path = regclass
 	url = https://github.com/cran/regclass
