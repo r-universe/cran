@@ -4697,6 +4697,9 @@
 [submodule "EleChemr"]
 	path = EleChemr
 	url = https://github.com/cran/EleChemr
+[submodule "ElevDistr"]
+	path = ElevDistr
+	url = https://github.com/cran/ElevDistr
 [submodule "Elja"]
 	path = Elja
 	url = https://github.com/cran/Elja
@@ -39230,6 +39233,9 @@
 [submodule "longpower"]
 	path = longpower
 	url = https://github.com/cran/longpower
+[submodule "longreadvqs"]
+	path = longreadvqs
+	url = https://github.com/cran/longreadvqs
 [submodule "longsurr"]
 	path = longsurr
 	url = https://github.com/cran/longsurr
