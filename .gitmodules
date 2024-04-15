@@ -46499,6 +46499,9 @@
 [submodule "phonenumber"]
 	path = phonenumber
 	url = https://github.com/cran/phonenumber
+[submodule "phonfieldwork"]
+	path = phonfieldwork
+	url = https://github.com/cran/phonfieldwork
 [submodule "phonics"]
 	path = phonics
 	url = https://github.com/cran/phonics
