@@ -20522,6 +20522,9 @@
 [submodule "bartMachineJARs"]
 	path = bartMachineJARs
 	url = https://github.com/cran/bartMachineJARs
+[submodule "bartMan"]
+	path = bartMan
+	url = https://github.com/cran/bartMan
 [submodule "bartcs"]
 	path = bartcs
 	url = https://github.com/cran/bartcs
@@ -48833,6 +48836,9 @@
 [submodule "qtl2pleio"]
 	path = qtl2pleio
 	url = https://github.com/cran/qtl2pleio
+[submodule "qtlDesign"]
+	path = qtlDesign
+	url = https://github.com/cran/qtlDesign
 [submodule "qtlbook"]
 	path = qtlbook
 	url = https://github.com/cran/qtlbook
@@ -50309,6 +50315,9 @@
 [submodule "rebus.unicode"]
 	path = rebus.unicode
 	url = https://github.com/cran/rebus.unicode
+[submodule "recalibratiNN"]
+	path = recalibratiNN
+	url = https://github.com/cran/recalibratiNN
 [submodule "recapr"]
 	path = recapr
 	url = https://github.com/cran/recapr
@@ -62345,6 +62354,9 @@
 [submodule "zendeskR"]
 	path = zendeskR
 	url = https://github.com/cran/zendeskR
+[submodule "zendown"]
+	path = zendown
+	url = https://github.com/cran/zendown
 [submodule "zenplots"]
 	path = zenplots
 	url = https://github.com/cran/zenplots
