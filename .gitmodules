@@ -11735,6 +11735,9 @@
 [submodule "PWEALL"]
 	path = PWEALL
 	url = https://github.com/cran/PWEALL
+[submodule "PWEV"]
+	path = PWEV
+	url = https://github.com/cran/PWEV
 [submodule "PWEXP"]
 	path = PWEXP
 	url = https://github.com/cran/PWEXP
@@ -15617,6 +15620,9 @@
 [submodule "SPSP"]
 	path = SPSP
 	url = https://github.com/cran/SPSP
+[submodule "SPUTNIK"]
+	path = SPUTNIK
+	url = https://github.com/cran/SPUTNIK
 [submodule "SPYvsSPY"]
 	path = SPYvsSPY
 	url = https://github.com/cran/SPYvsSPY
@@ -43511,6 +43517,9 @@
 [submodule "newFocus"]
 	path = newFocus
 	url = https://github.com/cran/newFocus
+[submodule "newIMVC"]
+	path = newIMVC
+	url = https://github.com/cran/newIMVC
 [submodule "newTestSurvRec"]
 	path = newTestSurvRec
 	url = https://github.com/cran/newTestSurvRec
@@ -56051,6 +56060,9 @@
 [submodule "spatstat.sparse"]
 	path = spatstat.sparse
 	url = https://github.com/cran/spatstat.sparse
+[submodule "spatstat.univar"]
+	path = spatstat.univar
+	url = https://github.com/cran/spatstat.univar
 [submodule "spatstat.utils"]
 	path = spatstat.utils
 	url = https://github.com/cran/spatstat.utils
@@ -56528,6 +56540,9 @@
 [submodule "ssMousetrack"]
 	path = ssMousetrack
 	url = https://github.com/cran/ssMousetrack
+[submodule "ssMutPA"]
+	path = ssMutPA
+	url = https://github.com/cran/ssMutPA
 [submodule "ssaBSS"]
 	path = ssaBSS
 	url = https://github.com/cran/ssaBSS
