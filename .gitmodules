@@ -2861,6 +2861,9 @@
 [submodule "CohortAlgebra"]
 	path = CohortAlgebra
 	url = https://github.com/cran/CohortAlgebra
+[submodule "CohortCharacteristics"]
+	path = CohortCharacteristics
+	url = https://github.com/cran/CohortCharacteristics
 [submodule "CohortExplorer"]
 	path = CohortExplorer
 	url = https://github.com/cran/CohortExplorer
@@ -11837,6 +11840,9 @@
 [submodule "ParetoPosStable"]
 	path = ParetoPosStable
 	url = https://github.com/cran/ParetoPosStable
+[submodule "Paris2024Colours"]
+	path = Paris2024Colours
+	url = https://github.com/cran/Paris2024Colours
 [submodule "PartCensReg"]
 	path = PartCensReg
 	url = https://github.com/cran/PartCensReg
@@ -21827,6 +21833,9 @@
 [submodule "bold"]
 	path = bold
 	url = https://github.com/cran/bold
+[submodule "bolsec"]
+	path = bolsec
+	url = https://github.com/cran/bolsec
 [submodule "bondAnalyst"]
 	path = bondAnalyst
 	url = https://github.com/cran/bondAnalyst
