@@ -22628,6 +22628,9 @@
 [submodule "cardidates"]
 	path = cardidates
 	url = https://github.com/cran/cardidates
+[submodule "cardinalR"]
+	path = cardinalR
+	url = https://github.com/cran/cardinalR
 [submodule "cards"]
 	path = cards
 	url = https://github.com/cran/cards
@@ -43994,6 +43997,9 @@
 [submodule "nor1mix"]
 	path = nor1mix
 	url = https://github.com/cran/nor1mix
+[submodule "norMmix"]
+	path = norMmix
+	url = https://github.com/cran/norMmix
 [submodule "nord"]
 	path = nord
 	url = https://github.com/cran/nord
@@ -50276,6 +50282,9 @@
 [submodule "readxlsb"]
 	path = readxlsb
 	url = https://github.com/cran/readxlsb
+[submodule "ready4"]
+	path = ready4
+	url = https://github.com/cran/ready4
 [submodule "readysignal"]
 	path = readysignal
 	url = https://github.com/cran/readysignal
@@ -60836,6 +60845,9 @@
 [submodule "vectorbitops"]
 	path = vectorbitops
 	url = https://github.com/cran/vectorbitops
+[submodule "vectorsurvR"]
+	path = vectorsurvR
+	url = https://github.com/cran/vectorsurvR
 [submodule "vectorwavelet"]
 	path = vectorwavelet
 	url = https://github.com/cran/vectorwavelet
@@ -62297,6 +62309,9 @@
 [submodule "ympes"]
 	path = ympes
 	url = https://github.com/cran/ympes
+[submodule "yodel"]
+	path = yodel
+	url = https://github.com/cran/yodel
 [submodule "yorkr"]
 	path = yorkr
 	url = https://github.com/cran/yorkr
