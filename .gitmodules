@@ -33593,6 +33593,9 @@
 [submodule "glinternet"]
 	path = glinternet
 	url = https://github.com/cran/glinternet
+[submodule "glinvci"]
+	path = glinvci
+	url = https://github.com/cran/glinvci
 [submodule "gllm"]
 	path = gllm
 	url = https://github.com/cran/gllm
