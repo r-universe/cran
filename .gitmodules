@@ -17372,6 +17372,9 @@
 [submodule "TestGenerator"]
 	path = TestGenerator
 	url = https://github.com/cran/TestGenerator
+[submodule "TestIndVars"]
+	path = TestIndVars
+	url = https://github.com/cran/TestIndVars
 [submodule "TestScorer"]
 	path = TestScorer
 	url = https://github.com/cran/TestScorer
@@ -30713,6 +30716,9 @@
 [submodule "filterNHP"]
 	path = filterNHP
 	url = https://github.com/cran/filterNHP
+[submodule "filters"]
+	path = filters
+	url = https://github.com/cran/filters
 [submodule "finalfit"]
 	path = finalfit
 	url = https://github.com/cran/finalfit
@@ -32813,6 +32819,9 @@
 [submodule "gfpop"]
 	path = gfpop
 	url = https://github.com/cran/gfpop
+[submodule "gfunctions"]
+	path = gfunctions
+	url = https://github.com/cran/gfunctions
 [submodule "gg.gap"]
 	path = gg.gap
 	url = https://github.com/cran/gg.gap
@@ -39848,6 +39857,9 @@
 [submodule "mapmisc"]
 	path = mapmisc
 	url = https://github.com/cran/mapmisc
+[submodule "mapmixture"]
+	path = mapmixture
+	url = https://github.com/cran/mapmixture
 [submodule "mapping"]
 	path = mapping
 	url = https://github.com/cran/mapping
