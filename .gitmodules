@@ -3881,6 +3881,9 @@
 [submodule "DataMetProcess"]
 	path = DataMetProcess
 	url = https://github.com/cran/DataMetProcess
+[submodule "DataPackageR"]
+	path = DataPackageR
+	url = https://github.com/cran/DataPackageR
 [submodule "DataSetsUni"]
 	path = DataSetsUni
 	url = https://github.com/cran/DataSetsUni
@@ -33581,9 +33584,6 @@
 [submodule "glinternet"]
 	path = glinternet
 	url = https://github.com/cran/glinternet
-[submodule "glinvci"]
-	path = glinvci
-	url = https://github.com/cran/glinvci
 [submodule "gllm"]
 	path = gllm
 	url = https://github.com/cran/gllm
