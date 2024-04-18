@@ -1664,9 +1664,6 @@
 [submodule "BioStatR"]
 	path = BioStatR
 	url = https://github.com/cran/BioStatR
-[submodule "BioTIMEr"]
-	path = BioTIMEr
-	url = https://github.com/cran/BioTIMEr
 [submodule "BioVenn"]
 	path = BioVenn
 	url = https://github.com/cran/BioVenn
