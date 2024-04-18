@@ -38246,6 +38246,9 @@
 [submodule "latenetwork"]
 	path = latenetwork
 	url = https://github.com/cran/latenetwork
+[submodule "latentFactoR"]
+	path = latentFactoR
+	url = https://github.com/cran/latentFactoR
 [submodule "latentcor"]
 	path = latentcor
 	url = https://github.com/cran/latentcor
