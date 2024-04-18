@@ -86,6 +86,9 @@
 [submodule "ADGofTest"]
 	path = ADGofTest
 	url = https://github.com/cran/ADGofTest
+[submodule "ADLP"]
+	path = ADLP
+	url = https://github.com/cran/ADLP
 [submodule "ADMM"]
 	path = ADMM
 	url = https://github.com/cran/ADMM
@@ -335,6 +338,9 @@
 [submodule "ARTool"]
 	path = ARTool
 	url = https://github.com/cran/ARTool
+[submodule "ARUtools"]
+	path = ARUtools
+	url = https://github.com/cran/ARUtools
 [submodule "ARpLMEC"]
 	path = ARpLMEC
 	url = https://github.com/cran/ARpLMEC
@@ -2675,6 +2681,9 @@
 [submodule "CircStats"]
 	path = CircStats
 	url = https://github.com/cran/CircStats
+[submodule "CirceR"]
+	path = CirceR
+	url = https://github.com/cran/CirceR
 [submodule "CirclesIntersections"]
 	path = CirclesIntersections
 	url = https://github.com/cran/CirclesIntersections
@@ -4256,6 +4265,9 @@
 [submodule "Durga"]
 	path = Durga
 	url = https://github.com/cran/Durga
+[submodule "DyMEP"]
+	path = DyMEP
+	url = https://github.com/cran/DyMEP
 [submodule "DySS"]
 	path = DySS
 	url = https://github.com/cran/DySS
@@ -7652,6 +7664,9 @@
 [submodule "IntegratedMRF"]
 	path = IntegratedMRF
 	url = https://github.com/cran/IntegratedMRF
+[submodule "InterNL"]
+	path = InterNL
+	url = https://github.com/cran/InterNL
 [submodule "InterSIM"]
 	path = InterSIM
 	url = https://github.com/cran/InterSIM
@@ -18326,6 +18341,9 @@
 [submodule "WoodburyMatrix"]
 	path = WoodburyMatrix
 	url = https://github.com/cran/WoodburyMatrix
+[submodule "WordListsAnalytics"]
+	path = WordListsAnalytics
+	url = https://github.com/cran/WordListsAnalytics
 [submodule "WordOfMouth"]
 	path = WordOfMouth
 	url = https://github.com/cran/WordOfMouth
@@ -31826,6 +31844,9 @@
 [submodule "future.callr"]
 	path = future.callr
 	url = https://github.com/cran/future.callr
+[submodule "future.mirai"]
+	path = future.mirai
+	url = https://github.com/cran/future.mirai
 [submodule "future.tests"]
 	path = future.tests
 	url = https://github.com/cran/future.tests
@@ -32663,6 +32684,9 @@
 [submodule "geonetwork"]
 	path = geonetwork
 	url = https://github.com/cran/geonetwork
+[submodule "geonode4R"]
+	path = geonode4R
+	url = https://github.com/cran/geonode4R
 [submodule "geoperu"]
 	path = geoperu
 	url = https://github.com/cran/geoperu
@@ -39167,6 +39191,9 @@
 [submodule "logihist"]
 	path = logihist
 	url = https://github.com/cran/logihist
+[submodule "login"]
+	path = login
+	url = https://github.com/cran/login
 [submodule "logistf"]
 	path = logistf
 	url = https://github.com/cran/logistf
@@ -62147,6 +62174,9 @@
 [submodule "xkcdcolors"]
 	path = xkcdcolors
 	url = https://github.com/cran/xkcdcolors
+[submodule "xlcharts"]
+	path = xlcharts
+	url = https://github.com/cran/xlcharts
 [submodule "xlcutter"]
 	path = xlcutter
 	url = https://github.com/cran/xlcutter
