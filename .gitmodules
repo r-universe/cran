@@ -3203,6 +3203,9 @@
 [submodule "CropScapeR"]
 	path = CropScapeR
 	url = https://github.com/cran/CropScapeR
+[submodule "CropWaterBalance"]
+	path = CropWaterBalance
+	url = https://github.com/cran/CropWaterBalance
 [submodule "CrossCarry"]
 	path = CrossCarry
 	url = https://github.com/cran/CrossCarry
@@ -8837,6 +8840,9 @@
 [submodule "MCBackscattering"]
 	path = MCBackscattering
 	url = https://github.com/cran/MCBackscattering
+[submodule "MCCM"]
+	path = MCCM
+	url = https://github.com/cran/MCCM
 [submodule "MCDA"]
 	path = MCDA
 	url = https://github.com/cran/MCDA
@@ -9782,6 +9788,9 @@
 [submodule "MethComp"]
 	path = MethComp
 	url = https://github.com/cran/MethComp
+[submodule "MethEvolSIM"]
+	path = MethEvolSIM
+	url = https://github.com/cran/MethEvolSIM
 [submodule "MethodCompare"]
 	path = MethodCompare
 	url = https://github.com/cran/MethodCompare
@@ -20447,6 +20456,9 @@
 [submodule "baguette"]
 	path = baguette
 	url = https://github.com/cran/baguette
+[submodule "bagyo"]
+	path = bagyo
+	url = https://github.com/cran/bagyo
 [submodule "bahc"]
 	path = bahc
 	url = https://github.com/cran/bahc
@@ -36818,6 +36830,9 @@
 [submodule "ipeadatar"]
 	path = ipeadatar
 	url = https://github.com/cran/ipeadatar
+[submodule "ipeaplot"]
+	path = ipeaplot
+	url = https://github.com/cran/ipeaplot
 [submodule "iperform"]
 	path = iperform
 	url = https://github.com/cran/iperform
