@@ -56252,6 +56252,9 @@
 [submodule "sphereplot"]
 	path = sphereplot
 	url = https://github.com/cran/sphereplot
+[submodule "spheresmooth"]
+	path = spheresmooth
+	url = https://github.com/cran/spheresmooth
 [submodule "sphet"]
 	path = sphet
 	url = https://github.com/cran/sphet
