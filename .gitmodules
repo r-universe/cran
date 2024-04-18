@@ -49835,21 +49835,12 @@
 [submodule "rattle"]
 	path = rattle
 	url = https://github.com/cran/rattle
-[submodule "ravedash"]
-	path = ravedash
-	url = https://github.com/cran/ravedash
-[submodule "raveio"]
-	path = raveio
-	url = https://github.com/cran/raveio
 [submodule "ravelRy"]
 	path = ravelRy
 	url = https://github.com/cran/ravelRy
 [submodule "raven.rdf"]
 	path = raven.rdf
 	url = https://github.com/cran/raven.rdf
-[submodule "ravetools"]
-	path = ravetools
-	url = https://github.com/cran/ravetools
 [submodule "raw"]
 	path = raw
 	url = https://github.com/cran/raw
@@ -58676,9 +58667,6 @@
 [submodule "thredds"]
 	path = thredds
 	url = https://github.com/cran/thredds
-[submodule "threeBrain"]
-	path = threeBrain
-	url = https://github.com/cran/threeBrain
 [submodule "threejs"]
 	path = threejs
 	url = https://github.com/cran/threejs
