@@ -61358,9 +61358,6 @@
 [submodule "vwline"]
 	path = vwline
 	url = https://github.com/cran/vwline
-[submodule "vyos"]
-	path = vyos
-	url = https://github.com/cran/vyos
 [submodule "wCorr"]
 	path = wCorr
 	url = https://github.com/cran/wCorr
