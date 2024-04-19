@@ -1670,6 +1670,9 @@
 [submodule "BioStatR"]
 	path = BioStatR
 	url = https://github.com/cran/BioStatR
+[submodule "BioTIMEr"]
+	path = BioTIMEr
+	url = https://github.com/cran/BioTIMEr
 [submodule "BioVenn"]
 	path = BioVenn
 	url = https://github.com/cran/BioVenn
@@ -50948,6 +50951,9 @@
 [submodule "restoptr"]
 	path = restoptr
 	url = https://github.com/cran/restoptr
+[submodule "restorepoint"]
+	path = restorepoint
+	url = https://github.com/cran/restorepoint
 [submodule "restriktor"]
 	path = restriktor
 	url = https://github.com/cran/restriktor
