@@ -42068,9 +42068,6 @@
 [submodule "mokken"]
 	path = mokken
 	url = https://github.com/cran/mokken
-[submodule "moko"]
-	path = moko
-	url = https://github.com/cran/moko
 [submodule "molaR"]
 	path = molaR
 	url = https://github.com/cran/molaR
@@ -43439,9 +43436,6 @@
 [submodule "netdiffuseR"]
 	path = netdiffuseR
 	url = https://github.com/cran/netdiffuseR
-[submodule "netgen"]
-	path = netgen
-	url = https://github.com/cran/netgen
 [submodule "netgsa"]
 	path = netgsa
 	url = https://github.com/cran/netgsa
@@ -53135,9 +53129,6 @@
 [submodule "sasLM"]
 	path = sasLM
 	url = https://github.com/cran/sasLM
-[submodule "sasMap"]
-	path = sasMap
-	url = https://github.com/cran/sasMap
 [submodule "sasfunclust"]
 	path = sasfunclust
 	url = https://github.com/cran/sasfunclust
