@@ -3209,6 +3209,9 @@
 [submodule "CptNonPar"]
 	path = CptNonPar
 	url = https://github.com/cran/CptNonPar
+[submodule "CreditRisk"]
+	path = CreditRisk
+	url = https://github.com/cran/CreditRisk
 [submodule "Cronbach"]
 	path = Cronbach
 	url = https://github.com/cran/Cronbach
@@ -13991,6 +13994,9 @@
 [submodule "Rborist"]
 	path = Rborist
 	url = https://github.com/cran/Rborist
+[submodule "RbyExample"]
+	path = RbyExample
+	url = https://github.com/cran/RbyExample
 [submodule "Rcan"]
 	path = Rcan
 	url = https://github.com/cran/Rcan
@@ -23552,6 +23558,9 @@
 [submodule "cities"]
 	path = cities
 	url = https://github.com/cran/cities
+[submodule "citmre"]
+	path = citmre
+	url = https://github.com/cran/citmre
 [submodule "cito"]
 	path = cito
 	url = https://github.com/cran/cito
@@ -48509,6 +48518,9 @@
 [submodule "puniform"]
 	path = puniform
 	url = https://github.com/cran/puniform
+[submodule "puremoe"]
+	path = puremoe
+	url = https://github.com/cran/puremoe
 [submodule "pureseqtmr"]
 	path = pureseqtmr
 	url = https://github.com/cran/pureseqtmr
