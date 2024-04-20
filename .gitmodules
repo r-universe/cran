@@ -19178,9 +19178,6 @@
 [submodule "aides"]
 	path = aides
 	url = https://github.com/cran/aides
-[submodule "aifeducation"]
-	path = aifeducation
-	url = https://github.com/cran/aifeducation
 [submodule "aihuman"]
 	path = aihuman
 	url = https://github.com/cran/aihuman
@@ -25889,9 +25886,6 @@
 [submodule "cvwrapr"]
 	path = cvwrapr
 	url = https://github.com/cran/cvwrapr
-[submodule "cwbtools"]
-	path = cwbtools
-	url = https://github.com/cran/cwbtools
 [submodule "cwot"]
 	path = cwot
 	url = https://github.com/cran/cwot
@@ -58910,9 +58904,6 @@
 [submodule "tidyjson"]
 	path = tidyjson
 	url = https://github.com/cran/tidyjson
-[submodule "tidylda"]
-	path = tidylda
-	url = https://github.com/cran/tidylda
 [submodule "tidylo"]
 	path = tidylo
 	url = https://github.com/cran/tidylo
