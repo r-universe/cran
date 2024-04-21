@@ -61088,6 +61088,9 @@
 [submodule "virtuoso"]
 	path = virtuoso
 	url = https://github.com/cran/virtuoso
+[submodule "viruslearner"]
+	path = viruslearner
+	url = https://github.com/cran/viruslearner
 [submodule "virustotal"]
 	path = virustotal
 	url = https://github.com/cran/virustotal
