@@ -3014,6 +3014,9 @@
 [submodule "ConfZIC"]
 	path = ConfZIC
 	url = https://github.com/cran/ConfZIC
+[submodule "ConfidenceEllipse"]
+	path = ConfidenceEllipse
+	url = https://github.com/cran/ConfidenceEllipse
 [submodule "ConfigParser"]
 	path = ConfigParser
 	url = https://github.com/cran/ConfigParser
@@ -17615,6 +17618,9 @@
 [submodule "TreeMineR"]
 	path = TreeMineR
 	url = https://github.com/cran/TreeMineR
+[submodule "TreeRingShape"]
+	path = TreeRingShape
+	url = https://github.com/cran/TreeRingShape
 [submodule "TreeSearch"]
 	path = TreeSearch
 	url = https://github.com/cran/TreeSearch
@@ -17633,6 +17639,9 @@
 [submodule "TrendInTrend"]
 	path = TrendInTrend
 	url = https://github.com/cran/TrendInTrend
+[submodule "TrendLSW"]
+	path = TrendLSW
+	url = https://github.com/cran/TrendLSW
 [submodule "TrendSLR"]
 	path = TrendSLR
 	url = https://github.com/cran/TrendSLR
@@ -18062,6 +18071,9 @@
 [submodule "VetResearchLMM"]
 	path = VetResearchLMM
 	url = https://github.com/cran/VetResearchLMM
+[submodule "ViSe"]
+	path = ViSe
+	url = https://github.com/cran/ViSe
 [submodule "ViSiElse"]
 	path = ViSiElse
 	url = https://github.com/cran/ViSiElse
@@ -54797,6 +54809,9 @@
 [submodule "silicate"]
 	path = silicate
 	url = https://github.com/cran/silicate
+[submodule "sim.BA"]
+	path = sim.BA
+	url = https://github.com/cran/sim.BA
 [submodule "sim1000G"]
 	path = sim1000G
 	url = https://github.com/cran/sim1000G
