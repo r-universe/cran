@@ -11846,6 +11846,9 @@
 [submodule "PanelMatch"]
 	path = PanelMatch
 	url = https://github.com/cran/PanelMatch
+[submodule "PanelTM"]
+	path = PanelTM
+	url = https://github.com/cran/PanelTM
 [submodule "PantaRhei"]
 	path = PantaRhei
 	url = https://github.com/cran/PantaRhei
@@ -14957,6 +14960,9 @@
 [submodule "Rtwalk"]
 	path = Rtwalk
 	url = https://github.com/cran/Rtwalk
+[submodule "Rtwobitlib"]
+	path = Rtwobitlib
+	url = https://github.com/cran/Rtwobitlib
 [submodule "Runuran"]
 	path = Runuran
 	url = https://github.com/cran/Runuran
@@ -20609,6 +20615,9 @@
 [submodule "baseballr"]
 	path = baseballr
 	url = https://github.com/cran/baseballr
+[submodule "basecamb"]
+	path = basecamb
+	url = https://github.com/cran/basecamb
 [submodule "basedosdados"]
 	path = basedosdados
 	url = https://github.com/cran/basedosdados
@@ -27689,6 +27698,9 @@
 [submodule "donut"]
 	path = donut
 	url = https://github.com/cran/donut
+[submodule "donutsk"]
+	path = donutsk
+	url = https://github.com/cran/donutsk
 [submodule "doolkit"]
 	path = doolkit
 	url = https://github.com/cran/doolkit
@@ -27845,6 +27857,9 @@
 [submodule "drcarlate"]
 	path = drcarlate
 	url = https://github.com/cran/drcarlate
+[submodule "drclust"]
+	path = drclust
+	url = https://github.com/cran/drclust
 [submodule "drcte"]
 	path = drcte
 	url = https://github.com/cran/drcte
@@ -34619,6 +34634,9 @@
 [submodule "guardianapi"]
 	path = guardianapi
 	url = https://github.com/cran/guardianapi
+[submodule "guescini"]
+	path = guescini
+	url = https://github.com/cran/guescini
 [submodule "guess"]
 	path = guess
 	url = https://github.com/cran/guess
@@ -55265,6 +55283,9 @@
 [submodule "slasso"]
 	path = slasso
 	url = https://github.com/cran/slasso
+[submodule "slca"]
+	path = slca
+	url = https://github.com/cran/slca
 [submodule "slcm"]
 	path = slcm
 	url = https://github.com/cran/slcm
