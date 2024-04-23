@@ -33938,6 +33938,9 @@
 [submodule "gofar"]
 	path = gofar
 	url = https://github.com/cran/gofar
+[submodule "gofastr"]
+	path = gofastr
+	url = https://github.com/cran/gofastr
 [submodule "gofcat"]
 	path = gofcat
 	url = https://github.com/cran/gofcat
