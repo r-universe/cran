@@ -1451,6 +1451,9 @@
 [submodule "BayesSurvival"]
 	path = BayesSurvival
 	url = https://github.com/cran/BayesSurvival
+[submodule "BayesSurvive"]
+	path = BayesSurvive
+	url = https://github.com/cran/BayesSurvive
 [submodule "BayesTools"]
 	path = BayesTools
 	url = https://github.com/cran/BayesTools
@@ -4895,6 +4898,9 @@
 [submodule "Euclimatch"]
 	path = Euclimatch
 	url = https://github.com/cran/Euclimatch
+[submodule "Eunomia"]
+	path = Eunomia
+	url = https://github.com/cran/Eunomia
 [submodule "Euronext"]
 	path = Euronext
 	url = https://github.com/cran/Euronext
@@ -20744,6 +20750,9 @@
 [submodule "bayesMRM"]
 	path = bayesMRM
 	url = https://github.com/cran/bayesMRM
+[submodule "bayesMeanScale"]
+	path = bayesMeanScale
+	url = https://github.com/cran/bayesMeanScale
 [submodule "bayesMig"]
 	path = bayesMig
 	url = https://github.com/cran/bayesMig
@@ -45722,6 +45731,9 @@
 [submodule "parfm"]
 	path = parfm
 	url = https://github.com/cran/parfm
+[submodule "pargasite"]
+	path = pargasite
+	url = https://github.com/cran/pargasite
 [submodule "parglm"]
 	path = parglm
 	url = https://github.com/cran/parglm
@@ -50699,6 +50711,9 @@
 [submodule "reinsureR"]
 	path = reinsureR
 	url = https://github.com/cran/reinsureR
+[submodule "relMix"]
+	path = relMix
+	url = https://github.com/cran/relMix
 [submodule "relSim"]
 	path = relSim
 	url = https://github.com/cran/relSim
@@ -58601,6 +58616,9 @@
 [submodule "textrank"]
 	path = textrank
 	url = https://github.com/cran/textrank
+[submodule "textrar"]
+	path = textrar
+	url = https://github.com/cran/textrar
 [submodule "textrecipes"]
 	path = textrecipes
 	url = https://github.com/cran/textrecipes
