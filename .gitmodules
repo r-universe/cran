@@ -20888,6 +20888,9 @@
 [submodule "bbdetection"]
 	path = bbdetection
 	url = https://github.com/cran/bbdetection
+[submodule "bbk"]
+	path = bbk
+	url = https://github.com/cran/bbk
 [submodule "bbknnR"]
 	path = bbknnR
 	url = https://github.com/cran/bbknnR
