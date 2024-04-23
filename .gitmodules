@@ -707,9 +707,6 @@
 [submodule "AtmChile"]
 	path = AtmChile
 	url = https://github.com/cran/AtmChile
-[submodule "AugmenterR"]
-	path = AugmenterR
-	url = https://github.com/cran/AugmenterR
 [submodule "AurieLSHGaussian"]
 	path = AurieLSHGaussian
 	url = https://github.com/cran/AurieLSHGaussian
