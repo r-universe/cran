@@ -6626,6 +6626,9 @@
 [submodule "Greg"]
 	path = Greg
 	url = https://github.com/cran/Greg
+[submodule "GregoryQuadrature"]
+	path = GregoryQuadrature
+	url = https://github.com/cran/GregoryQuadrature
 [submodule "GreyModel"]
 	path = GreyModel
 	url = https://github.com/cran/GreyModel
@@ -11249,6 +11252,9 @@
 [submodule "PCAmixdata"]
 	path = PCAmixdata
 	url = https://github.com/cran/PCAmixdata
+[submodule "PCBS"]
+	path = PCBS
+	url = https://github.com/cran/PCBS
 [submodule "PCDimension"]
 	path = PCDimension
 	url = https://github.com/cran/PCDimension
@@ -14756,6 +14762,9 @@
 [submodule "RobPer"]
 	path = RobPer
 	url = https://github.com/cran/RobPer
+[submodule "RobRegression"]
+	path = RobRegression
+	url = https://github.com/cran/RobRegression
 [submodule "RobStatTM"]
 	path = RobStatTM
 	url = https://github.com/cran/RobStatTM
