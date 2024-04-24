@@ -2492,6 +2492,9 @@
 [submodule "CalSim"]
 	path = CalSim
 	url = https://github.com/cran/CalSim
+[submodule "CalcThemAll.PRM"]
+	path = CalcThemAll.PRM
+	url = https://github.com/cran/CalcThemAll.PRM
 [submodule "Calculator.LR.FNs"]
 	path = Calculator.LR.FNs
 	url = https://github.com/cran/Calculator.LR.FNs
@@ -15347,6 +15350,9 @@
 [submodule "SIAmodules"]
 	path = SIAmodules
 	url = https://github.com/cran/SIAmodules
+[submodule "SIAtools"]
+	path = SIAtools
+	url = https://github.com/cran/SIAtools
 [submodule "SIBER"]
 	path = SIBER
 	url = https://github.com/cran/SIBER
@@ -41759,6 +41765,9 @@
 [submodule "mlr3spatiotempcv"]
 	path = mlr3spatiotempcv
 	url = https://github.com/cran/mlr3spatiotempcv
+[submodule "mlr3summary"]
+	path = mlr3summary
+	url = https://github.com/cran/mlr3summary
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/cran/mlr3tuning
@@ -56585,6 +56594,9 @@
 [submodule "sqlstrings"]
 	path = sqlstrings
 	url = https://github.com/cran/sqlstrings
+[submodule "sqltargets"]
+	path = sqltargets
+	url = https://github.com/cran/sqltargets
 [submodule "squant"]
 	path = squant
 	url = https://github.com/cran/squant
@@ -60017,6 +60029,9 @@
 [submodule "tsfngm"]
 	path = tsfngm
 	url = https://github.com/cran/tsfngm
+[submodule "tsgarch"]
+	path = tsgarch
+	url = https://github.com/cran/tsgarch
 [submodule "tsiR"]
 	path = tsiR
 	url = https://github.com/cran/tsiR
