@@ -47111,6 +47111,9 @@
 [submodule "plotbb"]
 	path = plotbb
 	url = https://github.com/cran/plotbb
+[submodule "plotcli"]
+	path = plotcli
+	url = https://github.com/cran/plotcli
 [submodule "plotdap"]
 	path = plotdap
 	url = https://github.com/cran/plotdap
@@ -55289,6 +55292,9 @@
 [submodule "slanter"]
 	path = slanter
 	url = https://github.com/cran/slanter
+[submodule "slap"]
+	path = slap
+	url = https://github.com/cran/slap
 [submodule "slasso"]
 	path = slasso
 	url = https://github.com/cran/slasso
