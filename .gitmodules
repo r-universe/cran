@@ -10931,9 +10931,6 @@
 [submodule "Oarray"]
 	path = Oarray
 	url = https://github.com/cran/Oarray
-[submodule "OasisR"]
-	path = OasisR
-	url = https://github.com/cran/OasisR
 [submodule "Observation"]
 	path = Observation
 	url = https://github.com/cran/Observation
@@ -15959,9 +15956,6 @@
 [submodule "SegCorr"]
 	path = SegCorr
 	url = https://github.com/cran/SegCorr
-[submodule "SegEnvIneq"]
-	path = SegEnvIneq
-	url = https://github.com/cran/SegEnvIneq
 [submodule "Sejong"]
 	path = Sejong
 	url = https://github.com/cran/Sejong
@@ -51758,9 +51752,6 @@
 [submodule "rnndescent"]
 	path = rnndescent
 	url = https://github.com/cran/rnndescent
-[submodule "rnoaa"]
-	path = rnoaa
-	url = https://github.com/cran/rnoaa
 [submodule "rnpn"]
 	path = rnpn
 	url = https://github.com/cran/rnpn
@@ -53804,9 +53795,6 @@
 [submodule "seewave"]
 	path = seewave
 	url = https://github.com/cran/seewave
-[submodule "seg"]
-	path = seg
-	url = https://github.com/cran/seg
 [submodule "segMGarch"]
 	path = segMGarch
 	url = https://github.com/cran/segMGarch
@@ -61868,9 +61856,6 @@
 [submodule "wildrwolf"]
 	path = wildrwolf
 	url = https://github.com/cran/wildrwolf
-[submodule "wildviz"]
-	path = wildviz
-	url = https://github.com/cran/wildviz
 [submodule "wilson"]
 	path = wilson
 	url = https://github.com/cran/wilson
