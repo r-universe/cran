@@ -29489,6 +29489,9 @@
 [submodule "estimateW"]
 	path = estimateW
 	url = https://github.com/cran/estimateW
+[submodule "estimators"]
+	path = estimators
+	url = https://github.com/cran/estimators
 [submodule "estimatr"]
 	path = estimatr
 	url = https://github.com/cran/estimatr
