@@ -29555,9 +29555,6 @@
 [submodule "eulerr"]
 	path = eulerr
 	url = https://github.com/cran/eulerr
-[submodule "eummd"]
-	path = eummd
-	url = https://github.com/cran/eummd
 [submodule "eunis.habitats"]
 	path = eunis.habitats
 	url = https://github.com/cran/eunis.habitats
@@ -30776,9 +30773,6 @@
 [submodule "filesstrings"]
 	path = filesstrings
 	url = https://github.com/cran/filesstrings
-[submodule "filibustr"]
-	path = filibustr
-	url = https://github.com/cran/filibustr
 [submodule "filling"]
 	path = filling
 	url = https://github.com/cran/filling
