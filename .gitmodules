@@ -16451,6 +16451,9 @@
 [submodule "SpatEntropy"]
 	path = SpatEntropy
 	url = https://github.com/cran/SpatEntropy
+[submodule "SpatGC"]
+	path = SpatGC
+	url = https://github.com/cran/SpatGC
 [submodule "SpatGRID"]
 	path = SpatGRID
 	url = https://github.com/cran/SpatGRID
@@ -20048,6 +20051,9 @@
 [submodule "aslib"]
 	path = aslib
 	url = https://github.com/cran/aslib
+[submodule "asm"]
+	path = asm
+	url = https://github.com/cran/asm
 [submodule "asmbPLS"]
 	path = asmbPLS
 	url = https://github.com/cran/asmbPLS
@@ -21896,6 +21902,9 @@
 [submodule "bodycomp"]
 	path = bodycomp
 	url = https://github.com/cran/bodycomp
+[submodule "boggy"]
+	path = boggy
+	url = https://github.com/cran/boggy
 [submodule "boilerpipeR"]
 	path = boilerpipeR
 	url = https://github.com/cran/boilerpipeR
@@ -27269,6 +27278,9 @@
 [submodule "disaggregation"]
 	path = disaggregation
 	url = https://github.com/cran/disaggregation
+[submodule "disastr.api"]
+	path = disastr.api
+	url = https://github.com/cran/disastr.api
 [submodule "disbayes"]
 	path = disbayes
 	url = https://github.com/cran/disbayes
@@ -27767,6 +27779,9 @@
 [submodule "doubcens"]
 	path = doubcens
 	url = https://github.com/cran/doubcens
+[submodule "doublIn"]
+	path = doublIn
+	url = https://github.com/cran/doublIn
 [submodule "double.truncation"]
 	path = double.truncation
 	url = https://github.com/cran/double.truncation
@@ -29216,6 +29231,9 @@
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/cran/epigraphdb
+[submodule "epigrowthfit"]
+	path = epigrowthfit
+	url = https://github.com/cran/epigrowthfit
 [submodule "epikit"]
 	path = epikit
 	url = https://github.com/cran/epikit
@@ -49136,6 +49154,9 @@
 [submodule "quickNmix"]
 	path = quickNmix
 	url = https://github.com/cran/quickNmix
+[submodule "quickPWCR"]
+	path = quickPWCR
+	url = https://github.com/cran/quickPWCR
 [submodule "quickPlot"]
 	path = quickPlot
 	url = https://github.com/cran/quickPlot
