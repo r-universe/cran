@@ -8957,6 +8957,9 @@
 [submodule "MDFS"]
 	path = MDFS
 	url = https://github.com/cran/MDFS
+[submodule "MDMA"]
+	path = MDMA
+	url = https://github.com/cran/MDMA
 [submodule "MDMAPR"]
 	path = MDMAPR
 	url = https://github.com/cran/MDMAPR
