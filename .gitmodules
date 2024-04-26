@@ -51011,9 +51011,6 @@
 [submodule "resourcer"]
 	path = resourcer
 	url = https://github.com/cran/resourcer
-[submodule "respR"]
-	path = respR
-	url = https://github.com/cran/respR
 [submodule "respirometry"]
 	path = respirometry
 	url = https://github.com/cran/respirometry
