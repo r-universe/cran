@@ -16649,9 +16649,6 @@
 [submodule "StatRank"]
 	path = StatRank
 	url = https://github.com/cran/StatRank
-[submodule "StatTeacherAssistant"]
-	path = StatTeacherAssistant
-	url = https://github.com/cran/StatTeacherAssistant
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/cran/Statamarkdown
@@ -30692,9 +30689,6 @@
 [submodule "ffscrapr"]
 	path = ffscrapr
 	url = https://github.com/cran/ffscrapr
-[submodule "ffsimulator"]
-	path = ffsimulator
-	url = https://github.com/cran/ffsimulator
 [submodule "ffstream"]
 	path = ffstream
 	url = https://github.com/cran/ffstream
@@ -58331,9 +58325,6 @@
 [submodule "tea"]
 	path = tea
 	url = https://github.com/cran/tea
-[submodule "teachingApps"]
-	path = teachingApps
-	url = https://github.com/cran/teachingApps
 [submodule "teal"]
 	path = teal
 	url = https://github.com/cran/teal
