@@ -22376,6 +22376,9 @@
 [submodule "bulkAnalyseR"]
 	path = bulkAnalyseR
 	url = https://github.com/cran/bulkAnalyseR
+[submodule "bulkQC"]
+	path = bulkQC
+	url = https://github.com/cran/bulkQC
 [submodule "bulkreadr"]
 	path = bulkreadr
 	url = https://github.com/cran/bulkreadr
@@ -23321,6 +23324,9 @@
 [submodule "chatgpt"]
 	path = chatgpt
 	url = https://github.com/cran/chatgpt
+[submodule "chattr"]
+	path = chattr
+	url = https://github.com/cran/chattr
 [submodule "cheapr"]
 	path = cheapr
 	url = https://github.com/cran/cheapr
@@ -35042,6 +35048,9 @@
 [submodule "healthcare.antitrust"]
 	path = healthcare.antitrust
 	url = https://github.com/cran/healthcare.antitrust
+[submodule "healthdb"]
+	path = healthdb
+	url = https://github.com/cran/healthdb
 [submodule "healthfinance"]
 	path = healthfinance
 	url = https://github.com/cran/healthfinance
@@ -61412,6 +61421,9 @@
 [submodule "vvconverter"]
 	path = vvconverter
 	url = https://github.com/cran/vvconverter
+[submodule "vvdoctor"]
+	path = vvdoctor
+	url = https://github.com/cran/vvdoctor
 [submodule "vvfiller"]
 	path = vvfiller
 	url = https://github.com/cran/vvfiller
