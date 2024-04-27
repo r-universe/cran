@@ -959,6 +959,9 @@
 [submodule "BFF"]
 	path = BFF
 	url = https://github.com/cran/BFF
+[submodule "BFI"]
+	path = BFI
+	url = https://github.com/cran/BFI
 [submodule "BFS"]
 	path = BFS
 	url = https://github.com/cran/BFS
@@ -3368,6 +3371,9 @@
 [submodule "DBR"]
 	path = DBR
 	url = https://github.com/cran/DBR
+[submodule "DBTC"]
+	path = DBTC
+	url = https://github.com/cran/DBTC
 [submodule "DBfit"]
 	path = DBfit
 	url = https://github.com/cran/DBfit
@@ -40625,6 +40631,9 @@
 [submodule "meditations"]
 	path = meditations
 	url = https://github.com/cran/meditations
+[submodule "medparser"]
+	path = medparser
+	url = https://github.com/cran/medparser
 [submodule "medrxivr"]
 	path = medrxivr
 	url = https://github.com/cran/medrxivr
