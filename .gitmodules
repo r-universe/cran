@@ -5612,6 +5612,9 @@
 [submodule "FlyingR"]
 	path = FlyingR
 	url = https://github.com/cran/FlyingR
+[submodule "FnR"]
+	path = FnR
+	url = https://github.com/cran/FnR
 [submodule "FoReco"]
 	path = FoReco
 	url = https://github.com/cran/FoReco
@@ -18698,6 +18701,9 @@
 [submodule "accessibility"]
 	path = accessibility
 	url = https://github.com/cran/accessibility
+[submodule "accessr"]
+	path = accessr
+	url = https://github.com/cran/accessr
 [submodule "accessrmd"]
 	path = accessrmd
 	url = https://github.com/cran/accessrmd
@@ -22121,6 +22127,9 @@
 [submodule "braidrm"]
 	path = braidrm
 	url = https://github.com/cran/braidrm
+[submodule "braids"]
+	path = braids
+	url = https://github.com/cran/braids
 [submodule "brainGraph"]
 	path = brainGraph
 	url = https://github.com/cran/brainGraph
@@ -25640,6 +25649,9 @@
 [submodule "cryptography"]
 	path = cryptography
 	url = https://github.com/cran/cryptography
+[submodule "cryptorng"]
+	path = cryptorng
+	url = https://github.com/cran/cryptorng
 [submodule "cryptotrackr"]
 	path = cryptotrackr
 	url = https://github.com/cran/cryptotrackr
@@ -43166,6 +43178,9 @@
 [submodule "nFactors"]
 	path = nFactors
 	url = https://github.com/cran/nFactors
+[submodule "nFunNN"]
+	path = nFunNN
+	url = https://github.com/cran/nFunNN
 [submodule "nJira"]
 	path = nJira
 	url = https://github.com/cran/nJira
@@ -55202,6 +55217,9 @@
 [submodule "sistec"]
 	path = sistec
 	url = https://github.com/cran/sistec
+[submodule "sisti"]
+	path = sisti
+	url = https://github.com/cran/sisti
 [submodule "sistmr"]
 	path = sistmr
 	url = https://github.com/cran/sistmr
