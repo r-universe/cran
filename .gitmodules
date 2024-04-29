@@ -35453,6 +35453,9 @@
 [submodule "hmmTMB"]
 	path = hmmTMB
 	url = https://github.com/cran/hmmTMB
+[submodule "hmmm"]
+	path = hmmm
+	url = https://github.com/cran/hmmm
 [submodule "hmmr"]
 	path = hmmr
 	url = https://github.com/cran/hmmr
