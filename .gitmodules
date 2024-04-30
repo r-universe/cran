@@ -1649,6 +1649,9 @@
 [submodule "BioCircos"]
 	path = BioCircos
 	url = https://github.com/cran/BioCircos
+[submodule "BioCro"]
+	path = BioCro
+	url = https://github.com/cran/BioCro
 [submodule "BioInsight"]
 	path = BioInsight
 	url = https://github.com/cran/BioInsight
@@ -7955,6 +7958,9 @@
 [submodule "KMD"]
 	path = KMD
 	url = https://github.com/cran/KMD
+[submodule "KMLtoSHAPE"]
+	path = KMLtoSHAPE
+	url = https://github.com/cran/KMLtoSHAPE
 [submodule "KMsurv"]
 	path = KMsurv
 	url = https://github.com/cran/KMsurv
@@ -11588,6 +11594,9 @@
 [submodule "PPTcirc"]
 	path = PPTcirc
 	url = https://github.com/cran/PPTcirc
+[submodule "PPbigdata"]
+	path = PPbigdata
+	url = https://github.com/cran/PPbigdata
 [submodule "PPforest"]
 	path = PPforest
 	url = https://github.com/cran/PPforest
@@ -16082,6 +16091,9 @@
 [submodule "SeuratObject"]
 	path = SeuratObject
 	url = https://github.com/cran/SeuratObject
+[submodule "ShapDoE"]
+	path = ShapDoE
+	url = https://github.com/cran/ShapDoE
 [submodule "ShapeChange"]
 	path = ShapeChange
 	url = https://github.com/cran/ShapeChange
@@ -33983,6 +33995,9 @@
 [submodule "goalp"]
 	path = goalp
 	url = https://github.com/cran/goalp
+[submodule "goat"]
+	path = goat
+	url = https://github.com/cran/goat
 [submodule "goeveg"]
 	path = goeveg
 	url = https://github.com/cran/goeveg
@@ -46481,6 +46496,9 @@
 [submodule "pestr"]
 	path = pestr
 	url = https://github.com/cran/pestr
+[submodule "petersenlab"]
+	path = petersenlab
+	url = https://github.com/cran/petersenlab
 [submodule "petitr"]
 	path = petitr
 	url = https://github.com/cran/petitr
@@ -56834,6 +56852,9 @@
 [submodule "stabs"]
 	path = stabs
 	url = https://github.com/cran/stabs
+[submodule "stackgbm"]
+	path = stackgbm
+	url = https://github.com/cran/stackgbm
 [submodule "stacking"]
 	path = stacking
 	url = https://github.com/cran/stacking
