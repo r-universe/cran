@@ -1904,9 +1904,6 @@
 [submodule "CADFtest"]
 	path = CADFtest
 	url = https://github.com/cran/CADFtest
-[submodule "CADStat"]
-	path = CADStat
-	url = https://github.com/cran/CADStat
 [submodule "CAGR"]
 	path = CAGR
 	url = https://github.com/cran/CAGR
@@ -20111,9 +20108,6 @@
 [submodule "assertive.numbers"]
 	path = assertive.numbers
 	url = https://github.com/cran/assertive.numbers
-[submodule "assertive.reflection"]
-	path = assertive.reflection
-	url = https://github.com/cran/assertive.reflection
 [submodule "assertive.sets"]
 	path = assertive.sets
 	url = https://github.com/cran/assertive.sets
@@ -21866,9 +21860,6 @@
 [submodule "bmstdr"]
 	path = bmstdr
 	url = https://github.com/cran/bmstdr
-[submodule "bnClustOmics"]
-	path = bnClustOmics
-	url = https://github.com/cran/bnClustOmics
 [submodule "bnclassify"]
 	path = bnclassify
 	url = https://github.com/cran/bnclassify
@@ -25298,9 +25289,6 @@
 [submodule "coxme"]
 	path = coxme
 	url = https://github.com/cran/coxme
-[submodule "coxphMIC"]
-	path = coxphMIC
-	url = https://github.com/cran/coxphMIC
 [submodule "coxphSGD"]
 	path = coxphSGD
 	url = https://github.com/cran/coxphSGD
@@ -41612,9 +41600,6 @@
 [submodule "mixpoissonreg"]
 	path = mixpoissonreg
 	url = https://github.com/cran/mixpoissonreg
-[submodule "mixreg"]
-	path = mixreg
-	url = https://github.com/cran/mixreg
 [submodule "mixsmsn"]
 	path = mixsmsn
 	url = https://github.com/cran/mixsmsn
@@ -51638,9 +51623,6 @@
 [submodule "rmake"]
 	path = rmake
 	url = https://github.com/cran/rmake
-[submodule "rmangal"]
-	path = rmangal
-	url = https://github.com/cran/rmangal
 [submodule "rmapshaper"]
 	path = rmapshaper
 	url = https://github.com/cran/rmapshaper
