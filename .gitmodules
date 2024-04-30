@@ -24491,6 +24491,9 @@
 [submodule "communication"]
 	path = communication
 	url = https://github.com/cran/communication
+[submodule "comorbidPGS"]
+	path = comorbidPGS
+	url = https://github.com/cran/comorbidPGS
 [submodule "comorbidity"]
 	path = comorbidity
 	url = https://github.com/cran/comorbidity
@@ -26762,6 +26765,9 @@
 [submodule "dendextend"]
 	path = dendextend
 	url = https://github.com/cran/dendextend
+[submodule "dendroNetwork"]
+	path = dendroNetwork
+	url = https://github.com/cran/dendroNetwork
 [submodule "dendroTools"]
 	path = dendroTools
 	url = https://github.com/cran/dendroTools
@@ -31631,6 +31637,9 @@
 [submodule "freesurferformats"]
 	path = freesurferformats
 	url = https://github.com/cran/freesurferformats
+[submodule "freewall"]
+	path = freewall
+	url = https://github.com/cran/freewall
 [submodule "frenchCurve"]
 	path = frenchCurve
 	url = https://github.com/cran/frenchCurve
@@ -35198,9 +35207,6 @@
 [submodule "heuristicsmineR"]
 	path = heuristicsmineR
 	url = https://github.com/cran/heuristicsmineR
-[submodule "hexFinder"]
-	path = hexFinder
-	url = https://github.com/cran/hexFinder
 [submodule "hexSticker"]
 	path = hexSticker
 	url = https://github.com/cran/hexSticker
@@ -37706,6 +37712,9 @@
 [submodule "karel"]
 	path = karel
 	url = https://github.com/cran/karel
+[submodule "karlen"]
+	path = karlen
+	url = https://github.com/cran/karlen
 [submodule "karyotapR"]
 	path = karyotapR
 	url = https://github.com/cran/karyotapR
@@ -46208,6 +46217,9 @@
 [submodule "peacesciencer"]
 	path = peacesciencer
 	url = https://github.com/cran/peacesciencer
+[submodule "peacots"]
+	path = peacots
+	url = https://github.com/cran/peacots
 [submodule "peakRAM"]
 	path = peakRAM
 	url = https://github.com/cran/peakRAM
@@ -49964,6 +49976,9 @@
 [submodule "ratesci"]
 	path = ratesci
 	url = https://github.com/cran/ratesci
+[submodule "ratioOfQsprays"]
+	path = ratioOfQsprays
+	url = https://github.com/cran/ratioOfQsprays
 [submodule "rationalfun"]
 	path = rationalfun
 	url = https://github.com/cran/rationalfun
@@ -50291,9 +50306,6 @@
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/cran/rdryad
-[submodule "rdss"]
-	path = rdss
-	url = https://github.com/cran/rdss
 [submodule "rdtLite"]
 	path = rdtLite
 	url = https://github.com/cran/rdtLite
@@ -50621,9 +50633,6 @@
 [submodule "refreshr"]
 	path = refreshr
 	url = https://github.com/cran/refreshr
-[submodule "refseqR"]
-	path = refseqR
-	url = https://github.com/cran/refseqR
 [submodule "refset"]
 	path = refset
 	url = https://github.com/cran/refset
@@ -52955,6 +52964,9 @@
 [submodule "sac"]
 	path = sac
 	url = https://github.com/cran/sac
+[submodule "sacRebleu"]
+	path = sacRebleu
+	url = https://github.com/cran/sacRebleu
 [submodule "saccadr"]
 	path = saccadr
 	url = https://github.com/cran/saccadr
@@ -53474,6 +53486,9 @@
 [submodule "scdhlm"]
 	path = scdhlm
 	url = https://github.com/cran/scdhlm
+[submodule "scdtb"]
+	path = scdtb
+	url = https://github.com/cran/scdtb
 [submodule "scellpam"]
 	path = scellpam
 	url = https://github.com/cran/scellpam
