@@ -4922,9 +4922,6 @@
 [submodule "Evacluster"]
 	path = Evacluster
 	url = https://github.com/cran/Evacluster
-[submodule "EvalEst"]
-	path = EvalEst
-	url = https://github.com/cran/EvalEst
 [submodule "EvaluateCore"]
 	path = EvaluateCore
 	url = https://github.com/cran/EvaluateCore
@@ -28007,9 +28004,6 @@
 [submodule "dsdp"]
 	path = dsdp
 	url = https://github.com/cran/dsdp
-[submodule "dse"]
-	path = dse
-	url = https://github.com/cran/dse
 [submodule "dsem"]
 	path = dsem
 	url = https://github.com/cran/dsem
@@ -28844,9 +28838,6 @@
 [submodule "eiCircles"]
 	path = eiCircles
 	url = https://github.com/cran/eiCircles
-[submodule "eiCompare"]
-	path = eiCompare
-	url = https://github.com/cran/eiCompare
 [submodule "eiExpand"]
 	path = eiExpand
 	url = https://github.com/cran/eiExpand
@@ -35222,6 +35213,9 @@
 [submodule "heuristicsmineR"]
 	path = heuristicsmineR
 	url = https://github.com/cran/heuristicsmineR
+[submodule "hexFinder"]
+	path = hexFinder
+	url = https://github.com/cran/hexFinder
 [submodule "hexSticker"]
 	path = hexSticker
 	url = https://github.com/cran/hexSticker
@@ -50324,6 +50318,9 @@
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/cran/rdryad
+[submodule "rdss"]
+	path = rdss
+	url = https://github.com/cran/rdss
 [submodule "rdtLite"]
 	path = rdtLite
 	url = https://github.com/cran/rdtLite
@@ -50651,6 +50648,9 @@
 [submodule "refreshr"]
 	path = refreshr
 	url = https://github.com/cran/refreshr
+[submodule "refseqR"]
+	path = refseqR
+	url = https://github.com/cran/refseqR
 [submodule "refset"]
 	path = refset
 	url = https://github.com/cran/refset
