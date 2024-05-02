@@ -392,6 +392,9 @@
 [submodule "AWR.Kinesis"]
 	path = AWR.Kinesis
 	url = https://github.com/cran/AWR.Kinesis
+[submodule "AZIAD"]
+	path = AZIAD
+	url = https://github.com/cran/AZIAD
 [submodule "AalenJohansen"]
 	path = AalenJohansen
 	url = https://github.com/cran/AalenJohansen
@@ -5471,6 +5474,9 @@
 [submodule "FeaLect"]
 	path = FeaLect
 	url = https://github.com/cran/FeaLect
+[submodule "FeatureExtraction"]
+	path = FeatureExtraction
+	url = https://github.com/cran/FeatureExtraction
 [submodule "FeatureHashing"]
 	path = FeatureHashing
 	url = https://github.com/cran/FeatureHashing
@@ -15239,6 +15245,9 @@
 [submodule "SCpubr"]
 	path = SCpubr
 	url = https://github.com/cran/SCpubr
+[submodule "SCtools"]
+	path = SCtools
+	url = https://github.com/cran/SCtools
 [submodule "SDAR"]
 	path = SDAR
 	url = https://github.com/cran/SDAR
@@ -17207,6 +17216,9 @@
 [submodule "TSE"]
 	path = TSE
 	url = https://github.com/cran/TSE
+[submodule "TSEAL"]
+	path = TSEAL
+	url = https://github.com/cran/TSEAL
 [submodule "TSEind"]
 	path = TSEind
 	url = https://github.com/cran/TSEind
@@ -31379,6 +31391,9 @@
 [submodule "forensIT"]
 	path = forensIT
 	url = https://github.com/cran/forensIT
+[submodule "forensicolors"]
+	path = forensicolors
+	url = https://github.com/cran/forensicolors
 [submodule "forestControl"]
 	path = forestControl
 	url = https://github.com/cran/forestControl
@@ -42635,6 +42650,9 @@
 [submodule "mtanan"]
 	path = mtanan
 	url = https://github.com/cran/mtanan
+[submodule "mtarm"]
+	path = mtarm
+	url = https://github.com/cran/mtarm
 [submodule "mtb"]
 	path = mtb
 	url = https://github.com/cran/mtb
@@ -51428,6 +51446,9 @@
 [submodule "rifle"]
 	path = rifle
 	url = https://github.com/cran/rifle
+[submodule "rifreg"]
+	path = rifreg
+	url = https://github.com/cran/rifreg
 [submodule "rigr"]
 	path = rigr
 	url = https://github.com/cran/rigr
