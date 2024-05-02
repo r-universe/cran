@@ -54743,9 +54743,6 @@
 [submodule "shinyquiz"]
 	path = shinyquiz
 	url = https://github.com/cran/shinyquiz
-[submodule "shinyr"]
-	path = shinyr
-	url = https://github.com/cran/shinyr
 [submodule "shinyrecipes"]
 	path = shinyrecipes
 	url = https://github.com/cran/shinyrecipes
