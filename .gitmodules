@@ -44996,9 +44996,6 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
-[submodule "openscoring"]
-	path = openscoring
-	url = https://github.com/cran/openscoring
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
