@@ -1097,6 +1097,9 @@
 [submodule "BMTAR"]
 	path = BMTAR
 	url = https://github.com/cran/BMTAR
+[submodule "BMconcor"]
+	path = BMconcor
+	url = https://github.com/cran/BMconcor
 [submodule "BMisc"]
 	path = BMisc
 	url = https://github.com/cran/BMisc
@@ -4175,6 +4178,9 @@
 [submodule "DiscreteQvalue"]
 	path = DiscreteQvalue
 	url = https://github.com/cran/DiscreteQvalue
+[submodule "DiscreteTests"]
+	path = DiscreteTests
+	url = https://github.com/cran/DiscreteTests
 [submodule "DiscreteWeibull"]
 	path = DiscreteWeibull
 	url = https://github.com/cran/DiscreteWeibull
@@ -12791,6 +12797,9 @@
 [submodule "RATest"]
 	path = RATest
 	url = https://github.com/cran/RATest
+[submodule "RAZIAD"]
+	path = RAZIAD
+	url = https://github.com/cran/RAZIAD
 [submodule "RAdwords"]
 	path = RAdwords
 	url = https://github.com/cran/RAdwords
@@ -14207,6 +14216,9 @@
 [submodule "RcppBigIntAlgos"]
 	path = RcppBigIntAlgos
 	url = https://github.com/cran/RcppBigIntAlgos
+[submodule "RcppBlaze"]
+	path = RcppBlaze
+	url = https://github.com/cran/RcppBlaze
 [submodule "RcppCCTZ"]
 	path = RcppCCTZ
 	url = https://github.com/cran/RcppCCTZ
@@ -14795,6 +14807,9 @@
 [submodule "RobStatTM"]
 	path = RobStatTM
 	url = https://github.com/cran/RobStatTM
+[submodule "RobinCar"]
+	path = RobinCar
+	url = https://github.com/cran/RobinCar
 [submodule "RobinHood"]
 	path = RobinHood
 	url = https://github.com/cran/RobinHood
@@ -25511,6 +25526,9 @@
 [submodule "critpath"]
 	path = critpath
 	url = https://github.com/cran/critpath
+[submodule "crm12Comb"]
+	path = crm12Comb
+	url = https://github.com/cran/crm12Comb
 [submodule "crmPack"]
 	path = crmPack
 	url = https://github.com/cran/crmPack
@@ -25949,6 +25967,9 @@
 [submodule "cvar"]
 	path = cvar
 	url = https://github.com/cran/cvar
+[submodule "cvasi"]
+	path = cvasi
+	url = https://github.com/cran/cvasi
 [submodule "cvcrand"]
 	path = cvcrand
 	url = https://github.com/cran/cvcrand
@@ -35087,6 +35108,9 @@
 [submodule "healthdb"]
 	path = healthdb
 	url = https://github.com/cran/healthdb
+[submodule "healthequal"]
+	path = healthequal
+	url = https://github.com/cran/healthequal
 [submodule "healthfinance"]
 	path = healthfinance
 	url = https://github.com/cran/healthfinance
@@ -38291,6 +38315,9 @@
 [submodule "lamme"]
 	path = lamme
 	url = https://github.com/cran/lamme
+[submodule "lancor"]
+	path = lancor
+	url = https://github.com/cran/lancor
 [submodule "landest"]
 	path = landest
 	url = https://github.com/cran/landest
@@ -44756,6 +44783,9 @@
 [submodule "olctools"]
 	path = olctools
 	url = https://github.com/cran/olctools
+[submodule "ollamar"]
+	path = ollamar
+	url = https://github.com/cran/ollamar
 [submodule "ollg"]
 	path = ollg
 	url = https://github.com/cran/ollg
@@ -45716,6 +45746,9 @@
 [submodule "pangaear"]
 	path = pangaear
 	url = https://github.com/cran/pangaear
+[submodule "panstarrs"]
+	path = panstarrs
+	url = https://github.com/cran/panstarrs
 [submodule "papaja"]
 	path = papaja
 	url = https://github.com/cran/papaja
@@ -52484,6 +52517,9 @@
 [submodule "rsnell"]
 	path = rsnell
 	url = https://github.com/cran/rsnell
+[submodule "rsocialwatcher"]
+	path = rsocialwatcher
+	url = https://github.com/cran/rsocialwatcher
 [submodule "rsoi"]
 	path = rsoi
 	url = https://github.com/cran/rsoi
@@ -58016,6 +58052,9 @@
 [submodule "symbolicDA"]
 	path = symbolicDA
 	url = https://github.com/cran/symbolicDA
+[submodule "symbolicQspray"]
+	path = symbolicQspray
+	url = https://github.com/cran/symbolicQspray
 [submodule "symengine"]
 	path = symengine
 	url = https://github.com/cran/symengine
