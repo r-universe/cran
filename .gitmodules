@@ -8141,6 +8141,9 @@
 [submodule "LARisk"]
 	path = LARisk
 	url = https://github.com/cran/LARisk
+[submodule "LATERmodel"]
+	path = LATERmodel
+	url = https://github.com/cran/LATERmodel
 [submodule "LAWBL"]
 	path = LAWBL
 	url = https://github.com/cran/LAWBL
@@ -11609,9 +11612,6 @@
 [submodule "PQLseq"]
 	path = PQLseq
 	url = https://github.com/cran/PQLseq
-[submodule "PRANA"]
-	path = PRANA
-	url = https://github.com/cran/PRANA
 [submodule "PRDA"]
 	path = PRDA
 	url = https://github.com/cran/PRDA
@@ -16367,6 +16367,9 @@
 [submodule "SoftClustering"]
 	path = SoftClustering
 	url = https://github.com/cran/SoftClustering
+[submodule "SoilConservation"]
+	path = SoilConservation
+	url = https://github.com/cran/SoilConservation
 [submodule "SoilHyP"]
 	path = SoilHyP
 	url = https://github.com/cran/SoilHyP
@@ -20468,6 +20471,9 @@
 [submodule "b64"]
 	path = b64
 	url = https://github.com/cran/b64
+[submodule "bRacatus"]
+	path = bRacatus
+	url = https://github.com/cran/bRacatus
 [submodule "bReeze"]
 	path = bReeze
 	url = https://github.com/cran/bReeze
@@ -27656,9 +27662,6 @@
 [submodule "dmutate"]
 	path = dmutate
 	url = https://github.com/cran/dmutate
-[submodule "dnapath"]
-	path = dnapath
-	url = https://github.com/cran/dnapath
 [submodule "dndR"]
 	path = dndR
 	url = https://github.com/cran/dndR
@@ -33314,9 +33317,6 @@
 [submodule "ggparallel"]
 	path = ggparallel
 	url = https://github.com/cran/ggparallel
-[submodule "ggparliament"]
-	path = ggparliament
-	url = https://github.com/cran/ggparliament
 [submodule "ggparty"]
 	path = ggparty
 	url = https://github.com/cran/ggparty
