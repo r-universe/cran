@@ -32591,9 +32591,6 @@
 [submodule "genesysr"]
 	path = genesysr
 	url = https://github.com/cran/genesysr
-[submodule "genetic.algo.optimizeR"]
-	path = genetic.algo.optimizeR
-	url = https://github.com/cran/genetic.algo.optimizeR
 [submodule "geneticae"]
 	path = geneticae
 	url = https://github.com/cran/geneticae
