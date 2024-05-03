@@ -18665,6 +18665,9 @@
 [submodule "abjutils"]
 	path = abjutils
 	url = https://github.com/cran/abjutils
+[submodule "ablasso"]
+	path = ablasso
+	url = https://github.com/cran/ablasso
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cran/abmR
@@ -38801,6 +38804,9 @@
 [submodule "lidaRtRee"]
 	path = lidaRtRee
 	url = https://github.com/cran/lidaRtRee
+[submodule "lievens"]
+	path = lievens
+	url = https://github.com/cran/lievens
 [submodule "lifeR"]
 	path = lifeR
 	url = https://github.com/cran/lifeR
@@ -38906,6 +38912,9 @@
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/cran/linelist
+[submodule "linelistBayes"]
+	path = linelistBayes
+	url = https://github.com/cran/linelistBayes
 [submodule "linemap"]
 	path = linemap
 	url = https://github.com/cran/linemap
@@ -39302,6 +39311,9 @@
 [submodule "loggit"]
 	path = loggit
 	url = https://github.com/cran/loggit
+[submodule "loggit2"]
+	path = loggit2
+	url = https://github.com/cran/loggit2
 [submodule "logiBin"]
 	path = logiBin
 	url = https://github.com/cran/logiBin
@@ -50654,6 +50666,9 @@
 [submodule "refitME"]
 	path = refitME
 	url = https://github.com/cran/refitME
+[submodule "reflectR"]
+	path = reflectR
+	url = https://github.com/cran/reflectR
 [submodule "reflimR"]
 	path = reflimR
 	url = https://github.com/cran/reflimR
@@ -57380,6 +57395,9 @@
 [submodule "streambugs"]
 	path = streambugs
 	url = https://github.com/cran/streambugs
+[submodule "streetscape"]
+	path = streetscape
+	url = https://github.com/cran/streetscape
 [submodule "stressaddition"]
 	path = stressaddition
 	url = https://github.com/cran/stressaddition
