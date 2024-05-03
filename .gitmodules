@@ -539,9 +539,6 @@
 [submodule "Amelia"]
 	path = Amelia
 	url = https://github.com/cran/Amelia
-[submodule "AmericanCallOpt"]
-	path = AmericanCallOpt
-	url = https://github.com/cran/AmericanCallOpt
 [submodule "AmesHousing"]
 	path = AmesHousing
 	url = https://github.com/cran/AmesHousing
@@ -5525,9 +5522,6 @@
 [submodule "FinAna"]
 	path = FinAna
 	url = https://github.com/cran/FinAna
-[submodule "FinAsym"]
-	path = FinAsym
-	url = https://github.com/cran/FinAsym
 [submodule "FinCal"]
 	path = FinCal
 	url = https://github.com/cran/FinCal
@@ -5924,9 +5918,6 @@
 [submodule "GENEAread"]
 	path = GENEAread
 	url = https://github.com/cran/GENEAread
-[submodule "GENEAsphere"]
-	path = GENEAsphere
-	url = https://github.com/cran/GENEAsphere
 [submodule "GENLIB"]
 	path = GENLIB
 	url = https://github.com/cran/GENLIB
@@ -13403,9 +13394,6 @@
 [submodule "RNOmni"]
 	path = RNOmni
 	url = https://github.com/cran/RNOmni
-[submodule "RNaviCell"]
-	path = RNaviCell
-	url = https://github.com/cran/RNaviCell
 [submodule "RNeXML"]
 	path = RNeXML
 	url = https://github.com/cran/RNeXML
@@ -17129,9 +17117,6 @@
 [submodule "TML"]
 	path = TML
 	url = https://github.com/cran/TML
-[submodule "TMTI"]
-	path = TMTI
-	url = https://github.com/cran/TMTI
 [submodule "TNC"]
 	path = TNC
 	url = https://github.com/cran/TNC
@@ -27605,9 +27590,6 @@
 [submodule "diyar"]
 	path = diyar
 	url = https://github.com/cran/diyar
-[submodule "dkDNA"]
-	path = dkDNA
-	url = https://github.com/cran/dkDNA
 [submodule "dkanr"]
 	path = dkanr
 	url = https://github.com/cran/dkanr
@@ -27743,9 +27725,6 @@
 [submodule "docore"]
 	path = docore
 	url = https://github.com/cran/docore
-[submodule "docreview"]
-	path = docreview
-	url = https://github.com/cran/docreview
 [submodule "docstring"]
 	path = docstring
 	url = https://github.com/cran/docstring
@@ -37202,9 +37181,6 @@
 [submodule "isopam"]
 	path = isopam
 	url = https://github.com/cran/isopam
-[submodule "isopat"]
-	path = isopat
-	url = https://github.com/cran/isopat
 [submodule "isopleuros"]
 	path = isopleuros
 	url = https://github.com/cran/isopleuros
@@ -39956,9 +39932,6 @@
 [submodule "manet"]
 	path = manet
 	url = https://github.com/cran/manet
-[submodule "mangoTraining"]
-	path = mangoTraining
-	url = https://github.com/cran/mangoTraining
 [submodule "manhattanly"]
 	path = manhattanly
 	url = https://github.com/cran/manhattanly
@@ -45026,6 +44999,9 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
+[submodule "openscoring"]
+	path = openscoring
+	url = https://github.com/cran/openscoring
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
@@ -45182,9 +45158,6 @@
 [submodule "opusminer"]
 	path = opusminer
 	url = https://github.com/cran/opusminer
-[submodule "ora"]
-	path = ora
-	url = https://github.com/cran/ora
 [submodule "orbweaver"]
 	path = orbweaver
 	url = https://github.com/cran/orbweaver
@@ -51740,6 +51713,9 @@
 [submodule "rmdformats"]
 	path = rmdformats
 	url = https://github.com/cran/rmdformats
+[submodule "rmdl"]
+	path = rmdl
+	url = https://github.com/cran/rmdl
 [submodule "rmdpartials"]
 	path = rmdpartials
 	url = https://github.com/cran/rmdpartials
@@ -54776,6 +54752,9 @@
 [submodule "shinyquiz"]
 	path = shinyquiz
 	url = https://github.com/cran/shinyquiz
+[submodule "shinyr"]
+	path = shinyr
+	url = https://github.com/cran/shinyr
 [submodule "shinyrecipes"]
 	path = shinyrecipes
 	url = https://github.com/cran/shinyrecipes
