@@ -58142,6 +58142,9 @@
 [submodule "systemfonts"]
 	path = systemfonts
 	url = https://github.com/cran/systemfonts
+[submodule "systemicrisk"]
+	path = systemicrisk
+	url = https://github.com/cran/systemicrisk
 [submodule "syt"]
 	path = syt
 	url = https://github.com/cran/syt
