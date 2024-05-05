@@ -1592,6 +1592,9 @@
 [submodule "BiDimRegression"]
 	path = BiDimRegression
 	url = https://github.com/cran/BiDimRegression
+[submodule "BiSEp"]
+	path = BiSEp
+	url = https://github.com/cran/BiSEp
 [submodule "BiTrinA"]
 	path = BiTrinA
 	url = https://github.com/cran/BiTrinA
@@ -3503,6 +3506,9 @@
 [submodule "DFIT"]
 	path = DFIT
 	url = https://github.com/cran/DFIT
+[submodule "DGCA"]
+	path = DGCA
+	url = https://github.com/cran/DGCA
 [submodule "DGEAR"]
 	path = DGEAR
 	url = https://github.com/cran/DGEAR
@@ -8750,6 +8756,9 @@
 [submodule "MACER"]
 	path = MACER
 	url = https://github.com/cran/MACER
+[submodule "MACP"]
+	path = MACP
+	url = https://github.com/cran/MACP
 [submodule "MADPop"]
 	path = MADPop
 	url = https://github.com/cran/MADPop
@@ -11915,6 +11924,9 @@
 [submodule "PatientProfiles"]
 	path = PatientProfiles
 	url = https://github.com/cran/PatientProfiles
+[submodule "Patterns"]
+	path = Patterns
+	url = https://github.com/cran/Patterns
 [submodule "PdPDB"]
 	path = PdPDB
 	url = https://github.com/cran/PdPDB
@@ -32567,6 +32579,9 @@
 [submodule "geneSLOPE"]
 	path = geneSLOPE
 	url = https://github.com/cran/geneSLOPE
+[submodule "genekitr"]
+	path = genekitr
+	url = https://github.com/cran/genekitr
 [submodule "genemodel"]
 	path = genemodel
 	url = https://github.com/cran/genemodel
@@ -45587,6 +45602,9 @@
 [submodule "pagoda2"]
 	path = pagoda2
 	url = https://github.com/cran/pagoda2
+[submodule "pagoo"]
+	path = pagoo
+	url = https://github.com/cran/pagoo
 [submodule "painbow"]
 	path = painbow
 	url = https://github.com/cran/painbow
@@ -48590,6 +48608,9 @@
 [submodule "ptinpoly"]
 	path = ptinpoly
 	url = https://github.com/cran/ptinpoly
+[submodule "ptm"]
+	path = ptm
+	url = https://github.com/cran/ptm
 [submodule "ptmixed"]
 	path = ptmixed
 	url = https://github.com/cran/ptmixed
@@ -48647,6 +48668,9 @@
 [submodule "pulsar"]
 	path = pulsar
 	url = https://github.com/cran/pulsar
+[submodule "pulseTD"]
+	path = pulseTD
+	url = https://github.com/cran/pulseTD
 [submodule "pumilioR"]
 	path = pumilioR
 	url = https://github.com/cran/pumilioR
@@ -53552,6 +53576,9 @@
 [submodule "scenes"]
 	path = scenes
 	url = https://github.com/cran/scenes
+[submodule "scfetch"]
+	path = scfetch
+	url = https://github.com/cran/scfetch
 [submodule "scgwr"]
 	path = scgwr
 	url = https://github.com/cran/scgwr
@@ -59339,6 +59366,9 @@
 [submodule "tinyProject"]
 	path = tinyProject
 	url = https://github.com/cran/tinyProject
+[submodule "tinyarray"]
+	path = tinyarray
+	url = https://github.com/cran/tinyarray
 [submodule "tinycodet"]
 	path = tinycodet
 	url = https://github.com/cran/tinycodet
