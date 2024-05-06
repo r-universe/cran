@@ -18029,9 +18029,6 @@
 [submodule "VIC5"]
 	path = VIC5
 	url = https://github.com/cran/VIC5
-[submodule "VIGoR"]
-	path = VIGoR
-	url = https://github.com/cran/VIGoR
 [submodule "VIM"]
 	path = VIM
 	url = https://github.com/cran/VIM
