@@ -1592,6 +1592,9 @@
 [submodule "BiDimRegression"]
 	path = BiDimRegression
 	url = https://github.com/cran/BiDimRegression
+[submodule "BiObjClass"]
+	path = BiObjClass
+	url = https://github.com/cran/BiObjClass
 [submodule "BiSEp"]
 	path = BiSEp
 	url = https://github.com/cran/BiSEp
@@ -34220,6 +34223,9 @@
 [submodule "gptoolsStan"]
 	path = gptoolsStan
 	url = https://github.com/cran/gptoolsStan
+[submodule "gptr"]
+	path = gptr
+	url = https://github.com/cran/gptr
 [submodule "gptstudio"]
 	path = gptstudio
 	url = https://github.com/cran/gptstudio
@@ -43100,6 +43106,9 @@
 [submodule "mverse"]
 	path = mverse
 	url = https://github.com/cran/mverse
+[submodule "mvgam"]
+	path = mvgam
+	url = https://github.com/cran/mvgam
 [submodule "mvgb"]
 	path = mvgb
 	url = https://github.com/cran/mvgb
