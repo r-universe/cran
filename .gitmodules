@@ -38891,6 +38891,9 @@
 [submodule "lime"]
 	path = lime
 	url = https://github.com/cran/lime
+[submodule "limexhub"]
+	path = limexhub
+	url = https://github.com/cran/limexhub
 [submodule "liminal"]
 	path = liminal
 	url = https://github.com/cran/liminal
