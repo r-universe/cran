@@ -18032,6 +18032,9 @@
 [submodule "VIC5"]
 	path = VIC5
 	url = https://github.com/cran/VIC5
+[submodule "VIGoR"]
+	path = VIGoR
+	url = https://github.com/cran/VIGoR
 [submodule "VIM"]
 	path = VIM
 	url = https://github.com/cran/VIM
@@ -22646,6 +22649,9 @@
 [submodule "calidad"]
 	path = calidad
 	url = https://github.com/cran/calidad
+[submodule "callback"]
+	path = callback
+	url = https://github.com/cran/callback
 [submodule "callr"]
 	path = callr
 	url = https://github.com/cran/callr
@@ -23138,6 +23144,9 @@
 [submodule "ceRtainty"]
 	path = ceRtainty
 	url = https://github.com/cran/ceRtainty
+[submodule "ceas"]
+	path = ceas
+	url = https://github.com/cran/ceas
 [submodule "ceg"]
 	path = ceg
 	url = https://github.com/cran/ceg
@@ -31133,6 +31142,9 @@
 [submodule "flexiblas"]
 	path = flexiblas
 	url = https://github.com/cran/flexiblas
+[submodule "flexlsx"]
+	path = flexlsx
+	url = https://github.com/cran/flexlsx
 [submodule "flexmet"]
 	path = flexmet
 	url = https://github.com/cran/flexmet
@@ -33302,6 +33314,9 @@
 [submodule "ggmr"]
 	path = ggmr
 	url = https://github.com/cran/ggmr
+[submodule "ggmugs"]
+	path = ggmugs
+	url = https://github.com/cran/ggmugs
 [submodule "ggmuller"]
 	path = ggmuller
 	url = https://github.com/cran/ggmuller
@@ -39515,6 +39530,9 @@
 [submodule "lotri"]
 	path = lotri
 	url = https://github.com/cran/lotri
+[submodule "lotterybr"]
+	path = lotterybr
+	url = https://github.com/cran/lotterybr
 [submodule "lowmemtkmeans"]
 	path = lowmemtkmeans
 	url = https://github.com/cran/lowmemtkmeans
@@ -42140,6 +42158,9 @@
 [submodule "modelfree"]
 	path = modelfree
 	url = https://github.com/cran/modelfree
+[submodule "modelgrid"]
+	path = modelgrid
+	url = https://github.com/cran/modelgrid
 [submodule "modelimpact"]
 	path = modelimpact
 	url = https://github.com/cran/modelimpact
@@ -42341,6 +42362,9 @@
 [submodule "morphomap"]
 	path = morphomap
 	url = https://github.com/cran/morphomap
+[submodule "morrowplots"]
+	path = morrowplots
+	url = https://github.com/cran/morrowplots
 [submodule "morse"]
 	path = morse
 	url = https://github.com/cran/morse
@@ -48521,6 +48545,9 @@
 [submodule "psidread"]
 	path = psidread
 	url = https://github.com/cran/psidread
+[submodule "psm3mkv"]
+	path = psm3mkv
+	url = https://github.com/cran/psm3mkv
 [submodule "psmineR"]
 	path = psmineR
 	url = https://github.com/cran/psmineR
