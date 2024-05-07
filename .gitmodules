@@ -24143,6 +24143,9 @@
 [submodule "cmstatr"]
 	path = cmstatr
 	url = https://github.com/cran/cmstatr
+[submodule "cmstatrExt"]
+	path = cmstatrExt
+	url = https://github.com/cran/cmstatrExt
 [submodule "cmtest"]
 	path = cmtest
 	url = https://github.com/cran/cmtest
@@ -26570,6 +26573,9 @@
 [submodule "dde"]
 	path = dde
 	url = https://github.com/cran/dde
+[submodule "ddecompose"]
+	path = ddecompose
+	url = https://github.com/cran/ddecompose
 [submodule "ddi"]
 	path = ddi
 	url = https://github.com/cran/ddi
@@ -29894,9 +29900,6 @@
 [submodule "experimentr"]
 	path = experimentr
 	url = https://github.com/cran/experimentr
-[submodule "expertsurv"]
-	path = expertsurv
-	url = https://github.com/cran/expertsurv
 [submodule "expint"]
 	path = expint
 	url = https://github.com/cran/expint
@@ -39599,9 +39602,6 @@
 [submodule "lrmest"]
 	path = lrmest
 	url = https://github.com/cran/lrmest
-[submodule "lrstat"]
-	path = lrstat
-	url = https://github.com/cran/lrstat
 [submodule "lsa"]
 	path = lsa
 	url = https://github.com/cran/lsa
@@ -39743,6 +39743,9 @@
 [submodule "lwqs"]
 	path = lwqs
 	url = https://github.com/cran/lwqs
+[submodule "lzstring"]
+	path = lzstring
+	url = https://github.com/cran/lzstring
 [submodule "m2b"]
 	path = m2b
 	url = https://github.com/cran/m2b
