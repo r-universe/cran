@@ -16880,6 +16880,9 @@
 [submodule "SurvDisc"]
 	path = SurvDisc
 	url = https://github.com/cran/SurvDisc
+[submodule "SurvEval"]
+	path = SurvEval
+	url = https://github.com/cran/SurvEval
 [submodule "SurvHiDim"]
 	path = SurvHiDim
 	url = https://github.com/cran/SurvHiDim
