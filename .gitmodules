@@ -48011,9 +48011,6 @@
 [submodule "predictNMB"]
 	path = predictNMB
 	url = https://github.com/cran/predictNMB
-[submodule "prediction"]
-	path = prediction
-	url = https://github.com/cran/prediction
 [submodule "predictionInterval"]
 	path = predictionInterval
 	url = https://github.com/cran/predictionInterval
