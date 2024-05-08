@@ -20636,6 +20636,9 @@
 [submodule "bandsfdp"]
 	path = bandsfdp
 	url = https://github.com/cran/bandsfdp
+[submodule "banffIT"]
+	path = banffIT
+	url = https://github.com/cran/banffIT
 [submodule "bang"]
 	path = bang
 	url = https://github.com/cran/bang
@@ -44810,6 +44813,9 @@
 [submodule "offsetreg"]
 	path = offsetreg
 	url = https://github.com/cran/offsetreg
+[submodule "ofpetrial"]
+	path = ofpetrial
+	url = https://github.com/cran/ofpetrial
 [submodule "oglmx"]
 	path = oglmx
 	url = https://github.com/cran/oglmx
