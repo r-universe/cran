@@ -8864,6 +8864,9 @@
 [submodule "MBC"]
 	path = MBC
 	url = https://github.com/cran/MBC
+[submodule "MBCbook"]
+	path = MBCbook
+	url = https://github.com/cran/MBCbook
 [submodule "MBESS"]
 	path = MBESS
 	url = https://github.com/cran/MBESS
@@ -9125,6 +9128,9 @@
 [submodule "MIIVsem"]
 	path = MIIVsem
 	url = https://github.com/cran/MIIVsem
+[submodule "MIMER"]
+	path = MIMER
+	url = https://github.com/cran/MIMER
 [submodule "MIMSunit"]
 	path = MIMSunit
 	url = https://github.com/cran/MIMSunit
@@ -14579,6 +14585,9 @@
 [submodule "RevGadgets"]
 	path = RevGadgets
 	url = https://github.com/cran/RevGadgets
+[submodule "RevSD"]
+	path = RevSD
+	url = https://github.com/cran/RevSD
 [submodule "ReviewR"]
 	path = ReviewR
 	url = https://github.com/cran/ReviewR
@@ -43238,6 +43247,9 @@
 [submodule "mwshiny"]
 	path = mwshiny
 	url = https://github.com/cran/mwshiny
+[submodule "mxfda"]
+	path = mxfda
+	url = https://github.com/cran/mxfda
 [submodule "mxkssd"]
 	path = mxkssd
 	url = https://github.com/cran/mxkssd
@@ -50453,6 +50465,9 @@
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
+[submodule "read.dbc"]
+	path = read.dbc
+	url = https://github.com/cran/read.dbc
 [submodule "read.gb"]
 	path = read.gb
 	url = https://github.com/cran/read.gb
