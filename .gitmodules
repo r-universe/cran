@@ -38150,9 +38150,6 @@
 [submodule "konfound"]
 	path = konfound
 	url = https://github.com/cran/konfound
-[submodule "konya"]
-	path = konya
-	url = https://github.com/cran/konya
 [submodule "kosel"]
 	path = kosel
 	url = https://github.com/cran/kosel
@@ -48989,6 +48986,9 @@
 [submodule "qkerntool"]
 	path = qkerntool
 	url = https://github.com/cran/qkerntool
+[submodule "qlcMatrix"]
+	path = qlcMatrix
+	url = https://github.com/cran/qlcMatrix
 [submodule "qlcal"]
 	path = qlcal
 	url = https://github.com/cran/qlcal
