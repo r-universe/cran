@@ -41501,9 +41501,6 @@
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/cran/mirai
-[submodule "mirai.promises"]
-	path = mirai.promises
-	url = https://github.com/cran/mirai.promises
 [submodule "mirt"]
 	path = mirt
 	url = https://github.com/cran/mirt
