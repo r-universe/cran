@@ -4655,6 +4655,9 @@
 [submodule "EWSmethods"]
 	path = EWSmethods
 	url = https://github.com/cran/EWSmethods
+[submodule "EXPAR"]
+	path = EXPAR
+	url = https://github.com/cran/EXPAR
 [submodule "EXPARMA"]
 	path = EXPARMA
 	url = https://github.com/cran/EXPARMA
@@ -11783,6 +11786,9 @@
 [submodule "PTwins"]
 	path = PTwins
 	url = https://github.com/cran/PTwins
+[submodule "PUGMM"]
+	path = PUGMM
+	url = https://github.com/cran/PUGMM
 [submodule "PUMP"]
 	path = PUMP
 	url = https://github.com/cran/PUMP
@@ -22289,6 +22295,9 @@
 [submodule "brokenstick"]
 	path = brokenstick
 	url = https://github.com/cran/brokenstick
+[submodule "brolgar"]
+	path = brolgar
+	url = https://github.com/cran/brolgar
 [submodule "broman"]
 	path = broman
 	url = https://github.com/cran/broman
@@ -32558,6 +32567,9 @@
 [submodule "genCountR"]
 	path = genCountR
 	url = https://github.com/cran/genCountR
+[submodule "genMCMCDiag"]
+	path = genMCMCDiag
+	url = https://github.com/cran/genMCMCDiag
 [submodule "genSEIR"]
 	path = genSEIR
 	url = https://github.com/cran/genSEIR
@@ -35198,6 +35210,9 @@
 [submodule "heims"]
 	path = heims
 	url = https://github.com/cran/heims
+[submodule "heiscore"]
+	path = heiscore
+	url = https://github.com/cran/heiscore
 [submodule "helixvis"]
 	path = helixvis
 	url = https://github.com/cran/helixvis
@@ -59750,6 +59765,9 @@
 [submodule "tpr"]
 	path = tpr
 	url = https://github.com/cran/tpr
+[submodule "tpwb"]
+	path = tpwb
+	url = https://github.com/cran/tpwb
 [submodule "tqk"]
 	path = tqk
 	url = https://github.com/cran/tqk
