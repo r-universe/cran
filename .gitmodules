@@ -4607,6 +4607,9 @@
 [submodule "ERP"]
 	path = ERP
 	url = https://github.com/cran/ERP
+[submodule "ERPM"]
+	path = ERPM
+	url = https://github.com/cran/ERPM
 [submodule "ERPeq"]
 	path = ERPeq
 	url = https://github.com/cran/ERPeq
@@ -54839,6 +54842,9 @@
 [submodule "shinymeta"]
 	path = shinymeta
 	url = https://github.com/cran/shinymeta
+[submodule "shinymgr"]
+	path = shinymgr
+	url = https://github.com/cran/shinymgr
 [submodule "shinymodels"]
 	path = shinymodels
 	url = https://github.com/cran/shinymodels
