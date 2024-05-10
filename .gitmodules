@@ -22427,9 +22427,6 @@
 [submodule "bubblyr"]
 	path = bubblyr
 	url = https://github.com/cran/bubblyr
-[submodule "bucky"]
-	path = bucky
-	url = https://github.com/cran/bucky
 [submodule "buildmer"]
 	path = buildmer
 	url = https://github.com/cran/buildmer
