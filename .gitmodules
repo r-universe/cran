@@ -50138,9 +50138,6 @@
 [submodule "raws.profile"]
 	path = raws.profile
 	url = https://github.com/cran/raws.profile
-[submodule "raybevel"]
-	path = raybevel
-	url = https://github.com/cran/raybevel
 [submodule "rayimage"]
 	path = rayimage
 	url = https://github.com/cran/rayimage
