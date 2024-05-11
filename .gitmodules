@@ -18290,6 +18290,9 @@
 [submodule "WRestimates"]
 	path = WRestimates
 	url = https://github.com/cran/WRestimates
+[submodule "WSGeometry"]
+	path = WSGeometry
+	url = https://github.com/cran/WSGeometry
 [submodule "WVPlots"]
 	path = WVPlots
 	url = https://github.com/cran/WVPlots
@@ -21788,6 +21791,9 @@
 [submodule "blaise"]
 	path = blaise
 	url = https://github.com/cran/blaise
+[submodule "blandr"]
+	path = blandr
+	url = https://github.com/cran/blandr
 [submodule "blapsr"]
 	path = blapsr
 	url = https://github.com/cran/blapsr
@@ -22433,6 +22439,9 @@
 [submodule "bubblyr"]
 	path = bubblyr
 	url = https://github.com/cran/bubblyr
+[submodule "bucky"]
+	path = bucky
+	url = https://github.com/cran/bucky
 [submodule "buildmer"]
 	path = buildmer
 	url = https://github.com/cran/buildmer
