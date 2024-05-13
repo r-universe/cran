@@ -4931,6 +4931,9 @@
 [submodule "Eunomia"]
 	path = Eunomia
 	url = https://github.com/cran/Eunomia
+[submodule "Euronext"]
+	path = Euronext
+	url = https://github.com/cran/Euronext
 [submodule "EurosarcBayes"]
 	path = EurosarcBayes
 	url = https://github.com/cran/EurosarcBayes
@@ -20522,6 +20525,9 @@
 [submodule "baRcodeR"]
 	path = baRcodeR
 	url = https://github.com/cran/baRcodeR
+[submodule "baRulho"]
+	path = baRulho
+	url = https://github.com/cran/baRulho
 [submodule "babel"]
 	path = babel
 	url = https://github.com/cran/babel
@@ -52052,9 +52058,6 @@
 [submodule "robumeta"]
 	path = robumeta
 	url = https://github.com/cran/robumeta
-[submodule "robusTest"]
-	path = robusTest
-	url = https://github.com/cran/robusTest
 [submodule "robust"]
 	path = robust
 	url = https://github.com/cran/robust
@@ -59228,6 +59231,9 @@
 [submodule "tidyquery"]
 	path = tidyquery
 	url = https://github.com/cran/tidyquery
+[submodule "tidyqwi"]
+	path = tidyqwi
+	url = https://github.com/cran/tidyqwi
 [submodule "tidyr"]
 	path = tidyr
 	url = https://github.com/cran/tidyr
