@@ -3944,6 +3944,9 @@
 [submodule "DatastreamDSWS2R"]
 	path = DatastreamDSWS2R
 	url = https://github.com/cran/DatastreamDSWS2R
+[submodule "DatastreamR"]
+	path = DatastreamR
+	url = https://github.com/cran/DatastreamR
 [submodule "DateTimeRangePicker"]
 	path = DateTimeRangePicker
 	url = https://github.com/cran/DateTimeRangePicker
@@ -28925,6 +28928,9 @@
 [submodule "eicm"]
 	path = eicm
 	url = https://github.com/cran/eicm
+[submodule "eider"]
+	path = eider
+	url = https://github.com/cran/eider
 [submodule "eigenmodel"]
 	path = eigenmodel
 	url = https://github.com/cran/eigenmodel
@@ -30482,6 +30488,9 @@
 [submodule "fastkmedoids"]
 	path = fastkmedoids
 	url = https://github.com/cran/fastkmedoids
+[submodule "fastkqr"]
+	path = fastkqr
+	url = https://github.com/cran/fastkqr
 [submodule "fastliu"]
 	path = fastliu
 	url = https://github.com/cran/fastliu
@@ -33557,6 +33566,9 @@
 [submodule "ggsom"]
 	path = ggsom
 	url = https://github.com/cran/ggsom
+[submodule "ggspark"]
+	path = ggspark
+	url = https://github.com/cran/ggspark
 [submodule "ggspatial"]
 	path = ggspatial
 	url = https://github.com/cran/ggspatial
@@ -41327,6 +41339,9 @@
 [submodule "microcontax"]
 	path = microcontax
 	url = https://github.com/cran/microcontax
+[submodule "microdiluteR"]
+	path = microdiluteR
+	url = https://github.com/cran/microdiluteR
 [submodule "microeco"]
 	path = microeco
 	url = https://github.com/cran/microeco
@@ -49007,6 +49022,9 @@
 [submodule "qlcMatrix"]
 	path = qlcMatrix
 	url = https://github.com/cran/qlcMatrix
+[submodule "qlcVisualize"]
+	path = qlcVisualize
+	url = https://github.com/cran/qlcVisualize
 [submodule "qlcal"]
 	path = qlcal
 	url = https://github.com/cran/qlcal
@@ -52583,9 +52601,6 @@
 [submodule "rskey"]
 	path = rskey
 	url = https://github.com/cran/rskey
-[submodule "rsleep"]
-	path = rsleep
-	url = https://github.com/cran/rsleep
 [submodule "rslp"]
 	path = rslp
 	url = https://github.com/cran/rslp
