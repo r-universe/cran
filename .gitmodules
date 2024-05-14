@@ -3239,6 +3239,9 @@
 [submodule "CrossCarry"]
 	path = CrossCarry
 	url = https://github.com/cran/CrossCarry
+[submodule "CrossClustering"]
+	path = CrossClustering
+	url = https://github.com/cran/CrossClustering
 [submodule "CrossVA"]
 	path = CrossVA
 	url = https://github.com/cran/CrossVA
@@ -25397,6 +25400,9 @@
 [submodule "cpp11"]
 	path = cpp11
 	url = https://github.com/cran/cpp11
+[submodule "cpp11armadillo"]
+	path = cpp11armadillo
+	url = https://github.com/cran/cpp11armadillo
 [submodule "cppRouting"]
 	path = cppRouting
 	url = https://github.com/cran/cppRouting
@@ -25982,9 +25988,6 @@
 [submodule "cvar"]
 	path = cvar
 	url = https://github.com/cran/cvar
-[submodule "cvasi"]
-	path = cvasi
-	url = https://github.com/cran/cvasi
 [submodule "cvcrand"]
 	path = cvcrand
 	url = https://github.com/cran/cvcrand
@@ -31691,6 +31694,9 @@
 [submodule "freegroup"]
 	path = freegroup
 	url = https://github.com/cran/freegroup
+[submodule "freesurfer"]
+	path = freesurfer
+	url = https://github.com/cran/freesurfer
 [submodule "freesurferformats"]
 	path = freesurferformats
 	url = https://github.com/cran/freesurferformats
