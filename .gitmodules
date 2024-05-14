@@ -4484,9 +4484,6 @@
 [submodule "EL2Surv"]
 	path = EL2Surv
 	url = https://github.com/cran/EL2Surv
-[submodule "ELCIC"]
-	path = ELCIC
-	url = https://github.com/cran/ELCIC
 [submodule "ELISAtools"]
 	path = ELISAtools
 	url = https://github.com/cran/ELISAtools
@@ -5357,9 +5354,6 @@
 [submodule "FSAdata"]
 	path = FSAdata
 	url = https://github.com/cran/FSAdata
-[submodule "FSAtools"]
-	path = FSAtools
-	url = https://github.com/cran/FSAtools
 [submodule "FSDAM"]
 	path = FSDAM
 	url = https://github.com/cran/FSDAM
@@ -5903,6 +5897,9 @@
 [submodule "GDELTtools"]
 	path = GDELTtools
 	url = https://github.com/cran/GDELTtools
+[submodule "GDILM.SIR"]
+	path = GDILM.SIR
+	url = https://github.com/cran/GDILM.SIR
 [submodule "GDINA"]
 	path = GDINA
 	url = https://github.com/cran/GDINA
@@ -9473,9 +9470,6 @@
 [submodule "MSPRT"]
 	path = MSPRT
 	url = https://github.com/cran/MSPRT
-[submodule "MSQC"]
-	path = MSQC
-	url = https://github.com/cran/MSQC
 [submodule "MSRDT"]
 	path = MSRDT
 	url = https://github.com/cran/MSRDT
@@ -12122,9 +12116,6 @@
 [submodule "PlatformDesign"]
 	path = PlatformDesign
 	url = https://github.com/cran/PlatformDesign
-[submodule "Platypus"]
-	path = Platypus
-	url = https://github.com/cran/Platypus
 [submodule "PlayerRatings"]
 	path = PlayerRatings
 	url = https://github.com/cran/PlayerRatings
@@ -13403,9 +13394,6 @@
 [submodule "RNAseqQC"]
 	path = RNAseqQC
 	url = https://github.com/cran/RNAseqQC
-[submodule "RNAsmc"]
-	path = RNAsmc
-	url = https://github.com/cran/RNAsmc
 [submodule "RNCBIEUtilsLibs"]
 	path = RNCBIEUtilsLibs
 	url = https://github.com/cran/RNCBIEUtilsLibs
@@ -13670,9 +13658,6 @@
 [submodule "RRMLRfMC"]
 	path = RRMLRfMC
 	url = https://github.com/cran/RRMLRfMC
-[submodule "RRNA"]
-	path = RRNA
-	url = https://github.com/cran/RRNA
 [submodule "RRPP"]
 	path = RRPP
 	url = https://github.com/cran/RRPP
@@ -17876,9 +17861,6 @@
 [submodule "UPG"]
 	path = UPG
 	url = https://github.com/cran/UPG
-[submodule "UPMASK"]
-	path = UPMASK
-	url = https://github.com/cran/UPMASK
 [submodule "UPSvarApprox"]
 	path = UPSvarApprox
 	url = https://github.com/cran/UPSvarApprox
@@ -19430,9 +19412,6 @@
 [submodule "allofus"]
 	path = allofus
 	url = https://github.com/cran/allofus
-[submodule "allometric"]
-	path = allometric
-	url = https://github.com/cran/allometric
 [submodule "allomr"]
 	path = allomr
 	url = https://github.com/cran/allomr
@@ -19592,9 +19571,6 @@
 [submodule "analyzer"]
 	path = analyzer
 	url = https://github.com/cran/analyzer
-[submodule "anapuce"]
-	path = anapuce
-	url = https://github.com/cran/anapuce
 [submodule "and"]
 	path = and
 	url = https://github.com/cran/and
@@ -20006,9 +19982,6 @@
 [submodule "arm"]
 	path = arm
 	url = https://github.com/cran/arm
-[submodule "armada"]
-	path = armada
-	url = https://github.com/cran/armada
 [submodule "armspp"]
 	path = armspp
 	url = https://github.com/cran/armspp
@@ -22760,9 +22733,6 @@
 [submodule "canvasXpress.data"]
 	path = canvasXpress.data
 	url = https://github.com/cran/canvasXpress.data
-[submodule "cap"]
-	path = cap
-	url = https://github.com/cran/cap
 [submodule "cape"]
 	path = cape
 	url = https://github.com/cran/cape
@@ -22949,9 +22919,6 @@
 [submodule "catdata"]
 	path = catdata
 	url = https://github.com/cran/catdata
-[submodule "cate"]
-	path = cate
-	url = https://github.com/cran/cate
 [submodule "categoryEncodings"]
 	path = categoryEncodings
 	url = https://github.com/cran/categoryEncodings
@@ -23471,9 +23438,6 @@
 [submodule "chemdeg"]
 	path = chemdeg
 	url = https://github.com/cran/chemdeg
-[submodule "chemmodlab"]
-	path = chemmodlab
-	url = https://github.com/cran/chemmodlab
 [submodule "chemodiv"]
 	path = chemodiv
 	url = https://github.com/cran/chemodiv
@@ -24668,9 +24632,6 @@
 [submodule "compute.es"]
 	path = compute.es
 	url = https://github.com/cran/compute.es
-[submodule "comradesOO"]
-	path = comradesOO
-	url = https://github.com/cran/comradesOO
 [submodule "comsimitv"]
 	path = comsimitv
 	url = https://github.com/cran/comsimitv
@@ -26714,9 +26675,6 @@
 [submodule "decon"]
 	path = decon
 	url = https://github.com/cran/decon
-[submodule "deconstructSigs"]
-	path = deconstructSigs
-	url = https://github.com/cran/deconstructSigs
 [submodule "deconvolveR"]
 	path = deconvolveR
 	url = https://github.com/cran/deconvolveR
@@ -27842,6 +27800,9 @@
 [submodule "donutsk"]
 	path = donutsk
 	url = https://github.com/cran/donutsk
+[submodule "doofa"]
+	path = doofa
+	url = https://github.com/cran/doofa
 [submodule "doolkit"]
 	path = doolkit
 	url = https://github.com/cran/doolkit
@@ -29543,9 +29504,6 @@
 [submodule "esDesign"]
 	path = esDesign
 	url = https://github.com/cran/esDesign
-[submodule "esaBcv"]
-	path = esaBcv
-	url = https://github.com/cran/esaBcv
 [submodule "esaddle"]
 	path = esaddle
 	url = https://github.com/cran/esaddle
@@ -39362,9 +39320,6 @@
 [submodule "lodr"]
 	path = lodr
 	url = https://github.com/cran/lodr
-[submodule "loe"]
-	path = loe
-	url = https://github.com/cran/loe
 [submodule "loedata"]
 	path = loedata
 	url = https://github.com/cran/loedata
@@ -42944,9 +42899,6 @@
 [submodule "multigraphr"]
 	path = multigraphr
 	url = https://github.com/cran/multigraphr
-[submodule "multigroup"]
-	path = multigroup
-	url = https://github.com/cran/multigroup
 [submodule "multilaterals"]
 	path = multilaterals
 	url = https://github.com/cran/multilaterals
@@ -50675,6 +50627,9 @@
 [submodule "recexcavAAR"]
 	path = recexcavAAR
 	url = https://github.com/cran/recexcavAAR
+[submodule "rechaRge"]
+	path = rechaRge
+	url = https://github.com/cran/rechaRge
 [submodule "rechonest"]
 	path = rechonest
 	url = https://github.com/cran/rechonest
@@ -51944,9 +51899,6 @@
 [submodule "rmzqc"]
 	path = rmzqc
 	url = https://github.com/cran/rmzqc
-[submodule "rnaCrosslinkOO"]
-	path = rnaCrosslinkOO
-	url = https://github.com/cran/rnaCrosslinkOO
 [submodule "rnames"]
 	path = rnames
 	url = https://github.com/cran/rnames
@@ -62030,9 +61982,6 @@
 [submodule "wgaim"]
 	path = wgaim
 	url = https://github.com/cran/wgaim
-[submodule "wgeesel"]
-	path = wgeesel
-	url = https://github.com/cran/wgeesel
 [submodule "whSample"]
 	path = whSample
 	url = https://github.com/cran/whSample
