@@ -30482,6 +30482,9 @@
 [submodule "fastcmh"]
 	path = fastcmh
 	url = https://github.com/cran/fastcmh
+[submodule "fastcmprsk"]
+	path = fastcmprsk
+	url = https://github.com/cran/fastcmprsk
 [submodule "fastcox"]
 	path = fastcox
 	url = https://github.com/cran/fastcox
