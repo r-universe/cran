@@ -8876,6 +8876,9 @@
 [submodule "MBAnalysis"]
 	path = MBAnalysis
 	url = https://github.com/cran/MBAnalysis
+[submodule "MBBEFDLite"]
+	path = MBBEFDLite
+	url = https://github.com/cran/MBBEFDLite
 [submodule "MBC"]
 	path = MBC
 	url = https://github.com/cran/MBC
