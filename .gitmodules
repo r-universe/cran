@@ -9980,6 +9980,9 @@
 [submodule "MittagLeffleR"]
 	path = MittagLeffleR
 	url = https://github.com/cran/MittagLeffleR
+[submodule "MixAll"]
+	path = MixAll
+	url = https://github.com/cran/MixAll
 [submodule "MixGHD"]
 	path = MixGHD
 	url = https://github.com/cran/MixGHD
