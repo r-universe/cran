@@ -22862,9 +22862,6 @@
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/cran/cascadeSelect
-[submodule "caschrono"]
-	path = caschrono
-	url = https://github.com/cran/caschrono
 [submodule "cascsim"]
 	path = cascsim
 	url = https://github.com/cran/cascsim
