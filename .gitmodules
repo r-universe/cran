@@ -8453,6 +8453,9 @@
 [submodule "LTASR"]
 	path = LTASR
 	url = https://github.com/cran/LTASR
+[submodule "LTCDM"]
+	path = LTCDM
+	url = https://github.com/cran/LTCDM
 [submodule "LTFHPlus"]
 	path = LTFHPlus
 	url = https://github.com/cran/LTFHPlus
@@ -56897,6 +56900,9 @@
 [submodule "sra"]
 	path = sra
 	url = https://github.com/cran/sra
+[submodule "srcpkgs"]
+	path = srcpkgs
+	url = https://github.com/cran/srcpkgs
 [submodule "srcr"]
 	path = srcr
 	url = https://github.com/cran/srcr
@@ -60377,6 +60383,9 @@
 [submodule "tssim"]
 	path = tssim
 	url = https://github.com/cran/tssim
+[submodule "tstests"]
+	path = tstests
+	url = https://github.com/cran/tstests
 [submodule "tstools"]
 	path = tstools
 	url = https://github.com/cran/tstools
