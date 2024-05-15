@@ -19895,6 +19895,9 @@
 [submodule "arcgislayers"]
 	path = arcgislayers
 	url = https://github.com/cran/arcgislayers
+[submodule "arcgisplaces"]
+	path = arcgisplaces
+	url = https://github.com/cran/arcgisplaces
 [submodule "arcgisutils"]
 	path = arcgisutils
 	url = https://github.com/cran/arcgisutils
@@ -21659,6 +21662,9 @@
 [submodule "biolink"]
 	path = biolink
 	url = https://github.com/cran/biolink
+[submodule "biologicalActivityIndices"]
+	path = biologicalActivityIndices
+	url = https://github.com/cran/biologicalActivityIndices
 [submodule "biomartr"]
 	path = biomartr
 	url = https://github.com/cran/biomartr
@@ -41669,6 +41675,9 @@
 [submodule "misty"]
 	path = misty
 	url = https://github.com/cran/misty
+[submodule "misuvi"]
+	path = misuvi
+	url = https://github.com/cran/misuvi
 [submodule "mitml"]
 	path = mitml
 	url = https://github.com/cran/mitml
@@ -41837,6 +41846,9 @@
 [submodule "mlegp"]
 	path = mlegp
 	url = https://github.com/cran/mlegp
+[submodule "mlelod"]
+	path = mlelod
+	url = https://github.com/cran/mlelod
 [submodule "mlergm"]
 	path = mlergm
 	url = https://github.com/cran/mlergm
@@ -60128,6 +60140,9 @@
 [submodule "triangulr"]
 	path = triangulr
 	url = https://github.com/cran/triangulr
+[submodule "tricolore"]
+	path = tricolore
+	url = https://github.com/cran/tricolore
 [submodule "triebeard"]
 	path = triebeard
 	url = https://github.com/cran/triebeard
