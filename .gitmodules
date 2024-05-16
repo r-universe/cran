@@ -2036,6 +2036,9 @@
 [submodule "CDFt"]
 	path = CDFt
 	url = https://github.com/cran/CDFt
+[submodule "CDGHMM"]
+	path = CDGHMM
+	url = https://github.com/cran/CDGHMM
 [submodule "CDM"]
 	path = CDM
 	url = https://github.com/cran/CDM
@@ -2786,6 +2789,9 @@
 [submodule "ClusROC"]
 	path = ClusROC
 	url = https://github.com/cran/ClusROC
+[submodule "ClusTCR2"]
+	path = ClusTCR2
+	url = https://github.com/cran/ClusTCR2
 [submodule "ClusTorus"]
 	path = ClusTorus
 	url = https://github.com/cran/ClusTorus
@@ -6053,6 +6059,9 @@
 [submodule "GIGrvg"]
 	path = GIGrvg
 	url = https://github.com/cran/GIGrvg
+[submodule "GIMMEgVAR"]
+	path = GIMMEgVAR
+	url = https://github.com/cran/GIMMEgVAR
 [submodule "GISINTEGRATION"]
 	path = GISINTEGRATION
 	url = https://github.com/cran/GISINTEGRATION
@@ -12419,6 +12428,9 @@
 [submodule "ProfoundData"]
 	path = ProfoundData
 	url = https://github.com/cran/ProfoundData
+[submodule "ProgModule"]
+	path = ProgModule
+	url = https://github.com/cran/ProgModule
 [submodule "ProjectManagement"]
 	path = ProjectManagement
 	url = https://github.com/cran/ProjectManagement
@@ -15413,6 +15425,9 @@
 [submodule "SGP"]
 	path = SGP
 	url = https://github.com/cran/SGP
+[submodule "SGPR"]
+	path = SGPR
+	url = https://github.com/cran/SGPR
 [submodule "SGPdata"]
 	path = SGPdata
 	url = https://github.com/cran/SGPdata
@@ -15551,6 +15566,9 @@
 [submodule "SLPresElection"]
 	path = SLPresElection
 	url = https://github.com/cran/SLPresElection
+[submodule "SLSEdesign"]
+	path = SLSEdesign
+	url = https://github.com/cran/SLSEdesign
 [submodule "SLTCA"]
 	path = SLTCA
 	url = https://github.com/cran/SLTCA
@@ -16667,6 +16685,9 @@
 [submodule "SplitSoftening"]
 	path = SplitSoftening
 	url = https://github.com/cran/SplitSoftening
+[submodule "SplitSplitPlot"]
+	path = SplitSplitPlot
+	url = https://github.com/cran/SplitSplitPlot
 [submodule "SportsTour"]
 	path = SportsTour
 	url = https://github.com/cran/SportsTour
@@ -23780,6 +23801,9 @@
 [submodule "clarify"]
 	path = clarify
 	url = https://github.com/cran/clarify
+[submodule "clarkeTest"]
+	path = clarkeTest
+	url = https://github.com/cran/clarkeTest
 [submodule "class"]
 	path = class
 	url = https://github.com/cran/class
@@ -55556,6 +55580,9 @@
 [submodule "skimr"]
 	path = skimr
 	url = https://github.com/cran/skimr
+[submodule "skipTrack"]
+	path = skipTrack
+	url = https://github.com/cran/skipTrack
 [submodule "sklarsomega"]
 	path = sklarsomega
 	url = https://github.com/cran/sklarsomega
