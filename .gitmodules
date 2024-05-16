@@ -290,6 +290,9 @@
 [submodule "AQuadtree"]
 	path = AQuadtree
 	url = https://github.com/cran/AQuadtree
+[submodule "AQuality"]
+	path = AQuality
+	url = https://github.com/cran/AQuality
 [submodule "AR"]
 	path = AR
 	url = https://github.com/cran/AR
@@ -22526,6 +22529,9 @@
 [submodule "bupaverse"]
 	path = bupaverse
 	url = https://github.com/cran/bupaverse
+[submodule "burgle"]
+	path = burgle
+	url = https://github.com/cran/burgle
 [submodule "burnr"]
 	path = burnr
 	url = https://github.com/cran/burnr
@@ -31850,9 +31856,6 @@
 [submodule "fs"]
 	path = fs
 	url = https://github.com/cran/fs
-[submodule "fsMTS"]
-	path = fsMTS
-	url = https://github.com/cran/fsMTS
 [submodule "fsbrain"]
 	path = fsbrain
 	url = https://github.com/cran/fsbrain
@@ -62672,6 +62675,9 @@
 [submodule "xxIRT"]
 	path = xxIRT
 	url = https://github.com/cran/xxIRT
+[submodule "xxdi"]
+	path = xxdi
+	url = https://github.com/cran/xxdi
 [submodule "xxhashlite"]
 	path = xxhashlite
 	url = https://github.com/cran/xxhashlite
