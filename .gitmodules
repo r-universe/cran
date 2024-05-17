@@ -7166,9 +7166,6 @@
 [submodule "HyperbolicDist"]
 	path = HyperbolicDist
 	url = https://github.com/cran/HyperbolicDist
-[submodule "HypergeoMat"]
-	path = HypergeoMat
-	url = https://github.com/cran/HypergeoMat
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
@@ -12848,9 +12845,6 @@
 [submodule "RATest"]
 	path = RATest
 	url = https://github.com/cran/RATest
-[submodule "RAZIAD"]
-	path = RAZIAD
-	url = https://github.com/cran/RAZIAD
 [submodule "RAdwords"]
 	path = RAdwords
 	url = https://github.com/cran/RAdwords
@@ -15032,9 +15026,6 @@
 [submodule "Rsymphony"]
 	path = Rsymphony
 	url = https://github.com/cran/Rsymphony
-[submodule "Rtapas"]
-	path = Rtapas
-	url = https://github.com/cran/Rtapas
 [submodule "Rtauchen"]
 	path = Rtauchen
 	url = https://github.com/cran/Rtauchen
@@ -30845,9 +30836,6 @@
 [submodule "ff"]
 	path = ff
 	url = https://github.com/cran/ff
-[submodule "fflr"]
-	path = fflr
-	url = https://github.com/cran/fflr
 [submodule "ffmanova"]
 	path = ffmanova
 	url = https://github.com/cran/ffmanova
@@ -62933,9 +62921,6 @@
 [submodule "zscorer"]
 	path = zscorer
 	url = https://github.com/cran/zscorer
-[submodule "zstdlite"]
-	path = zstdlite
-	url = https://github.com/cran/zstdlite
 [submodule "ztable"]
 	path = ztable
 	url = https://github.com/cran/ztable
