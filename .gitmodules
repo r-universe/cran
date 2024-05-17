@@ -41294,6 +41294,9 @@
 [submodule "mgwnbr"]
 	path = mgwnbr
 	url = https://github.com/cran/mgwnbr
+[submodule "mgwrhw"]
+	path = mgwrhw
+	url = https://github.com/cran/mgwrhw
 [submodule "mgwrsar"]
 	path = mgwrsar
 	url = https://github.com/cran/mgwrsar
