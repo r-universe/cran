@@ -56501,6 +56501,9 @@
 [submodule "spbabel"]
 	path = spbabel
 	url = https://github.com/cran/spbabel
+[submodule "spbal"]
+	path = spbal
+	url = https://github.com/cran/spbal
 [submodule "spc"]
 	path = spc
 	url = https://github.com/cran/spc
@@ -57602,6 +57605,9 @@
 [submodule "stream"]
 	path = stream
 	url = https://github.com/cran/stream
+[submodule "streamConnect"]
+	path = streamConnect
+	url = https://github.com/cran/streamConnect
 [submodule "streamDAG"]
 	path = streamDAG
 	url = https://github.com/cran/streamDAG
