@@ -7994,6 +7994,9 @@
 [submodule "KMD"]
 	path = KMD
 	url = https://github.com/cran/KMD
+[submodule "KMEANS.KNN"]
+	path = KMEANS.KNN
+	url = https://github.com/cran/KMEANS.KNN
 [submodule "KMLtoSHAPE"]
 	path = KMLtoSHAPE
 	url = https://github.com/cran/KMLtoSHAPE
@@ -9647,6 +9650,9 @@
 [submodule "MajKMeans"]
 	path = MajKMeans
 	url = https://github.com/cran/MajKMeans
+[submodule "MajMinKmeans"]
+	path = MajMinKmeans
+	url = https://github.com/cran/MajMinKmeans
 [submodule "MakefileR"]
 	path = MakefileR
 	url = https://github.com/cran/MakefileR
@@ -21035,6 +21041,9 @@
 [submodule "bbmle"]
 	path = bbmle
 	url = https://github.com/cran/bbmle
+[submodule "bbnet"]
+	path = bbnet
+	url = https://github.com/cran/bbnet
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/cran/bbotk
@@ -22121,6 +22130,9 @@
 [submodule "bootstrapFP"]
 	path = bootstrapFP
 	url = https://github.com/cran/bootstrapFP
+[submodule "bootsurv"]
+	path = bootsurv
+	url = https://github.com/cran/bootsurv
 [submodule "bootwar"]
 	path = bootwar
 	url = https://github.com/cran/bootwar
@@ -25679,6 +25691,9 @@
 [submodule "crosshap"]
 	path = crosshap
 	url = https://github.com/cran/crosshap
+[submodule "crosslag"]
+	path = crosslag
+	url = https://github.com/cran/crosslag
 [submodule "crossmap"]
 	path = crossmap
 	url = https://github.com/cran/crossmap
@@ -39248,6 +39263,9 @@
 [submodule "lme4"]
 	path = lme4
 	url = https://github.com/cran/lme4
+[submodule "lme4breeding"]
+	path = lme4breeding
+	url = https://github.com/cran/lme4breeding
 [submodule "lmeInfo"]
 	path = lmeInfo
 	url = https://github.com/cran/lmeInfo
@@ -55778,6 +55796,9 @@
 [submodule "smirnov"]
 	path = smirnov
 	url = https://github.com/cran/smirnov
+[submodule "smlePH"]
+	path = smlePH
+	url = https://github.com/cran/smlePH
 [submodule "smlmkalman"]
 	path = smlmkalman
 	url = https://github.com/cran/smlmkalman
