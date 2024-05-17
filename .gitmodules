@@ -2735,6 +2735,9 @@
 [submodule "CleanBSequences"]
 	path = CleanBSequences
 	url = https://github.com/cran/CleanBSequences
+[submodule "CleaningValidation"]
+	path = CleaningValidation
+	url = https://github.com/cran/CleaningValidation
 [submodule "ClickClust"]
 	path = ClickClust
 	url = https://github.com/cran/ClickClust
