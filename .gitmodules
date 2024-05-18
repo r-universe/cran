@@ -7169,6 +7169,9 @@
 [submodule "HyperbolicDist"]
 	path = HyperbolicDist
 	url = https://github.com/cran/HyperbolicDist
+[submodule "HypergeoMat"]
+	path = HypergeoMat
+	url = https://github.com/cran/HypergeoMat
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
@@ -12854,6 +12857,9 @@
 [submodule "RATest"]
 	path = RATest
 	url = https://github.com/cran/RATest
+[submodule "RAZIAD"]
+	path = RAZIAD
+	url = https://github.com/cran/RAZIAD
 [submodule "RAdwords"]
 	path = RAdwords
 	url = https://github.com/cran/RAdwords
@@ -30854,6 +30860,9 @@
 [submodule "ff"]
 	path = ff
 	url = https://github.com/cran/ff
+[submodule "fflr"]
+	path = fflr
+	url = https://github.com/cran/fflr
 [submodule "ffmanova"]
 	path = ffmanova
 	url = https://github.com/cran/ffmanova
