@@ -50243,6 +50243,9 @@
 [submodule "raven.rdf"]
 	path = raven.rdf
 	url = https://github.com/cran/raven.rdf
+[submodule "ravetools"]
+	path = ravetools
+	url = https://github.com/cran/ravetools
 [submodule "raw"]
 	path = raw
 	url = https://github.com/cran/raw
