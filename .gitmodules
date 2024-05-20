@@ -12065,6 +12065,9 @@
 [submodule "PetfindeR"]
 	path = PetfindeR
 	url = https://github.com/cran/PetfindeR
+[submodule "PhViD"]
+	path = PhViD
+	url = https://github.com/cran/PhViD
 [submodule "PhageCocktail"]
 	path = PhageCocktail
 	url = https://github.com/cran/PhageCocktail
@@ -24734,6 +24737,9 @@
 [submodule "comstab"]
 	path = comstab
 	url = https://github.com/cran/comstab
+[submodule "comtradr"]
+	path = comtradr
+	url = https://github.com/cran/comtradr
 [submodule "con2aqi"]
 	path = con2aqi
 	url = https://github.com/cran/con2aqi
