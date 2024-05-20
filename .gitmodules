@@ -48980,9 +48980,6 @@
 [submodule "qGaussian"]
 	path = qGaussian
 	url = https://github.com/cran/qGaussian
-[submodule "qMRI"]
-	path = qMRI
-	url = https://github.com/cran/qMRI
 [submodule "qPCRhelper"]
 	path = qPCRhelper
 	url = https://github.com/cran/qPCRhelper
