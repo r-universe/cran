@@ -58484,6 +58484,9 @@
 [submodule "tabula"]
 	path = tabula
 	url = https://github.com/cran/tabula
+[submodule "tabulapdf"]
+	path = tabulapdf
+	url = https://github.com/cran/tabulapdf
 [submodule "tabularMLC"]
 	path = tabularMLC
 	url = https://github.com/cran/tabularMLC
