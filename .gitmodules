@@ -20723,6 +20723,9 @@
 [submodule "banxicoR"]
 	path = banxicoR
 	url = https://github.com/cran/banxicoR
+[submodule "baorista"]
+	path = baorista
+	url = https://github.com/cran/baorista
 [submodule "bapred"]
 	path = bapred
 	url = https://github.com/cran/bapred
