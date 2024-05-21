@@ -29510,6 +29510,9 @@
 [submodule "eq5d"]
 	path = eq5d
 	url = https://github.com/cran/eq5d
+[submodule "eq5dsuite"]
+	path = eq5dsuite
+	url = https://github.com/cran/eq5dsuite
 [submodule "equalCovs"]
 	path = equalCovs
 	url = https://github.com/cran/equalCovs
@@ -48062,6 +48065,9 @@
 [submodule "pqantimalarials"]
 	path = pqantimalarials
 	url = https://github.com/cran/pqantimalarials
+[submodule "pql"]
+	path = pql
+	url = https://github.com/cran/pql
 [submodule "pqrBayes"]
 	path = pqrBayes
 	url = https://github.com/cran/pqrBayes
@@ -51806,6 +51812,9 @@
 [submodule "rjdqa"]
 	path = rjdqa
 	url = https://github.com/cran/rjdqa
+[submodule "rjdworkspace"]
+	path = rjdworkspace
+	url = https://github.com/cran/rjdworkspace
 [submodule "rje"]
 	path = rje
 	url = https://github.com/cran/rje
@@ -53864,6 +53873,9 @@
 [submodule "scorecardModelUtils"]
 	path = scorecardModelUtils
 	url = https://github.com/cran/scorecardModelUtils
+[submodule "scorematchingad"]
+	path = scorematchingad
+	url = https://github.com/cran/scorematchingad
 [submodule "scorepeak"]
 	path = scorepeak
 	url = https://github.com/cran/scorepeak
