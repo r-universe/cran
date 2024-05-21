@@ -30992,6 +30992,9 @@
 [submodule "fillr"]
 	path = fillr
 	url = https://github.com/cran/fillr
+[submodule "filteRjsats"]
+	path = filteRjsats
+	url = https://github.com/cran/filteRjsats
 [submodule "filterNHP"]
 	path = filterNHP
 	url = https://github.com/cran/filterNHP
