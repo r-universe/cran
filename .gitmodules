@@ -6338,6 +6338,9 @@
 [submodule "GTDL"]
 	path = GTDL
 	url = https://github.com/cran/GTDL
+[submodule "GUEST"]
+	path = GUEST
+	url = https://github.com/cran/GUEST
 [submodule "GUIDE"]
 	path = GUIDE
 	url = https://github.com/cran/GUIDE
@@ -14816,6 +14819,9 @@
 [submodule "RnavGraphImageData"]
 	path = RnavGraphImageData
 	url = https://github.com/cran/RnavGraphImageData
+[submodule "Rnest"]
+	path = Rnest
+	url = https://github.com/cran/Rnest
 [submodule "Rnightly"]
 	path = Rnightly
 	url = https://github.com/cran/Rnightly
@@ -33263,6 +33269,9 @@
 [submodule "ggdark"]
 	path = ggdark
 	url = https://github.com/cran/ggdark
+[submodule "ggdaynight"]
+	path = ggdaynight
+	url = https://github.com/cran/ggdaynight
 [submodule "ggdemetra"]
 	path = ggdemetra
 	url = https://github.com/cran/ggdemetra
