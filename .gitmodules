@@ -43100,9 +43100,6 @@
 [submodule "multinets"]
 	path = multinets
 	url = https://github.com/cran/multinets
-[submodule "multinma"]
-	path = multinma
-	url = https://github.com/cran/multinma
 [submodule "multinomialLogitMix"]
 	path = multinomialLogitMix
 	url = https://github.com/cran/multinomialLogitMix
@@ -43376,9 +43373,6 @@
 [submodule "mwa"]
 	path = mwa
 	url = https://github.com/cran/mwa
-[submodule "mwcsr"]
-	path = mwcsr
-	url = https://github.com/cran/mwcsr
 [submodule "mwlaxeref"]
 	path = mwlaxeref
 	url = https://github.com/cran/mwlaxeref
