@@ -7850,6 +7850,9 @@
 [submodule "JCRImpactFactor"]
 	path = JCRImpactFactor
 	url = https://github.com/cran/JCRImpactFactor
+[submodule "JDCruncheR"]
+	path = JDCruncheR
+	url = https://github.com/cran/JDCruncheR
 [submodule "JFE"]
 	path = JFE
 	url = https://github.com/cran/JFE
@@ -9335,6 +9338,9 @@
 [submodule "MMeM"]
 	path = MMeM
 	url = https://github.com/cran/MMeM
+[submodule "MN"]
+	path = MN
+	url = https://github.com/cran/MN
 [submodule "MNARclust"]
 	path = MNARclust
 	url = https://github.com/cran/MNARclust
@@ -11276,9 +11282,6 @@
 [submodule "PAMpal"]
 	path = PAMpal
 	url = https://github.com/cran/PAMpal
-[submodule "PAMscapes"]
-	path = PAMscapes
-	url = https://github.com/cran/PAMscapes
 [submodule "PANACEA"]
 	path = PANACEA
 	url = https://github.com/cran/PANACEA
@@ -21137,6 +21140,9 @@
 [submodule "bdl"]
 	path = bdl
 	url = https://github.com/cran/bdl
+[submodule "bdlim"]
+	path = bdlim
+	url = https://github.com/cran/bdlim
 [submodule "bdlp"]
 	path = bdlp
 	url = https://github.com/cran/bdlp
@@ -21197,6 +21203,9 @@
 [submodule "beautier"]
 	path = beautier
 	url = https://github.com/cran/beautier
+[submodule "beaver"]
+	path = beaver
+	url = https://github.com/cran/beaver
 [submodule "bedr"]
 	path = bedr
 	url = https://github.com/cran/bedr
@@ -30548,6 +30557,9 @@
 [submodule "fastai"]
 	path = fastai
 	url = https://github.com/cran/fastai
+[submodule "fastbackward"]
+	path = fastbackward
+	url = https://github.com/cran/fastbackward
 [submodule "fastbeta"]
 	path = fastbeta
 	url = https://github.com/cran/fastbeta
@@ -46919,6 +46931,9 @@
 [submodule "phm"]
 	path = phm
 	url = https://github.com/cran/phm
+[submodule "phoenics"]
+	path = phoenics
+	url = https://github.com/cran/phoenics
 [submodule "phoenix"]
 	path = phoenix
 	url = https://github.com/cran/phoenix
