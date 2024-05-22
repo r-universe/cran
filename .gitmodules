@@ -40319,6 +40319,9 @@
 [submodule "marima"]
 	path = marima
 	url = https://github.com/cran/marima
+[submodule "mark"]
+	path = mark
+	url = https://github.com/cran/mark
 [submodule "markdown"]
 	path = markdown
 	url = https://github.com/cran/markdown
