@@ -2960,6 +2960,9 @@
 [submodule "CompGR"]
 	path = CompGR
 	url = https://github.com/cran/CompGR
+[submodule "CompMix"]
+	path = CompMix
+	url = https://github.com/cran/CompMix
 [submodule "CompModels"]
 	path = CompModels
 	url = https://github.com/cran/CompModels
@@ -41630,6 +41633,9 @@
 [submodule "minsample2"]
 	path = minsample2
 	url = https://github.com/cran/minsample2
+[submodule "minty"]
+	path = minty
+	url = https://github.com/cran/minty
 [submodule "mipfp"]
 	path = mipfp
 	url = https://github.com/cran/mipfp
