@@ -43433,6 +43433,9 @@
 [submodule "nabor"]
 	path = nabor
 	url = https://github.com/cran/nabor
+[submodule "nadiv"]
+	path = nadiv
+	url = https://github.com/cran/nadiv
 [submodule "naflex"]
 	path = naflex
 	url = https://github.com/cran/naflex
