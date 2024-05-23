@@ -4466,6 +4466,9 @@
 [submodule "EGAnet"]
 	path = EGAnet
 	url = https://github.com/cran/EGAnet
+[submodule "EGM"]
+	path = EGM
+	url = https://github.com/cran/EGM
 [submodule "EGRET"]
 	path = EGRET
 	url = https://github.com/cran/EGRET
@@ -30329,6 +30332,9 @@
 [submodule "factormodel"]
 	path = factormodel
 	url = https://github.com/cran/factormodel
+[submodule "factorplot"]
+	path = factorplot
+	url = https://github.com/cran/factorplot
 [submodule "factorstochvol"]
 	path = factorstochvol
 	url = https://github.com/cran/factorstochvol
@@ -34385,6 +34391,9 @@
 [submodule "gptzeror"]
 	path = gptzeror
 	url = https://github.com/cran/gptzeror
+[submodule "gpuR"]
+	path = gpuR
+	url = https://github.com/cran/gpuR
 [submodule "gpx"]
 	path = gpx
 	url = https://github.com/cran/gpx
@@ -38912,6 +38921,9 @@
 [submodule "lfmm"]
 	path = lfmm
 	url = https://github.com/cran/lfmm
+[submodule "lfproQC"]
+	path = lfproQC
+	url = https://github.com/cran/lfproQC
 [submodule "lfstat"]
 	path = lfstat
 	url = https://github.com/cran/lfstat
@@ -48374,6 +48386,9 @@
 [submodule "probout"]
 	path = probout
 	url = https://github.com/cran/probout
+[submodule "probstats4econ"]
+	path = probstats4econ
+	url = https://github.com/cran/probstats4econ
 [submodule "proccalibrad"]
 	path = proccalibrad
 	url = https://github.com/cran/proccalibrad
@@ -57335,6 +57350,9 @@
 [submodule "statswalesr"]
 	path = statswalesr
 	url = https://github.com/cran/statswalesr
+[submodule "stbl"]
+	path = stbl
+	url = https://github.com/cran/stbl
 [submodule "stcos"]
 	path = stcos
 	url = https://github.com/cran/stcos
