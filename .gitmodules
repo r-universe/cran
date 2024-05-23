@@ -302,9 +302,6 @@
 [submodule "ARCokrig"]
 	path = ARCokrig
 	url = https://github.com/cran/ARCokrig
-[submodule "ARDECO"]
-	path = ARDECO
-	url = https://github.com/cran/ARDECO
 [submodule "ARDL"]
 	path = ARDL
 	url = https://github.com/cran/ARDL
@@ -9863,6 +9860,9 @@
 [submodule "MetaLonDA"]
 	path = MetaLonDA
 	url = https://github.com/cran/MetaLonDA
+[submodule "MetaNLP"]
+	path = MetaNLP
+	url = https://github.com/cran/MetaNLP
 [submodule "MetaNet"]
 	path = MetaNet
 	url = https://github.com/cran/MetaNet
@@ -11267,6 +11267,9 @@
 [submodule "PAMpal"]
 	path = PAMpal
 	url = https://github.com/cran/PAMpal
+[submodule "PAMscapes"]
+	path = PAMscapes
+	url = https://github.com/cran/PAMscapes
 [submodule "PANACEA"]
 	path = PANACEA
 	url = https://github.com/cran/PANACEA
@@ -16448,6 +16451,9 @@
 [submodule "SoilConservation"]
 	path = SoilConservation
 	url = https://github.com/cran/SoilConservation
+[submodule "SoilFunctionality"]
+	path = SoilFunctionality
+	url = https://github.com/cran/SoilFunctionality
 [submodule "SoilHyP"]
 	path = SoilHyP
 	url = https://github.com/cran/SoilHyP
@@ -43079,6 +43085,9 @@
 [submodule "multinets"]
 	path = multinets
 	url = https://github.com/cran/multinets
+[submodule "multinma"]
+	path = multinma
+	url = https://github.com/cran/multinma
 [submodule "multinomialLogitMix"]
 	path = multinomialLogitMix
 	url = https://github.com/cran/multinomialLogitMix
@@ -43352,6 +43361,9 @@
 [submodule "mwa"]
 	path = mwa
 	url = https://github.com/cran/mwa
+[submodule "mwcsr"]
+	path = mwcsr
+	url = https://github.com/cran/mwcsr
 [submodule "mwlaxeref"]
 	path = mwlaxeref
 	url = https://github.com/cran/mwlaxeref
@@ -61349,6 +61361,9 @@
 [submodule "vein"]
 	path = vein
 	url = https://github.com/cran/vein
+[submodule "vek"]
+	path = vek
+	url = https://github.com/cran/vek
 [submodule "velociraptr"]
 	path = velociraptr
 	url = https://github.com/cran/velociraptr
