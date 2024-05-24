@@ -47870,6 +47870,9 @@
 [submodule "populationPDXdesign"]
 	path = populationPDXdesign
 	url = https://github.com/cran/populationPDXdesign
+[submodule "poputils"]
+	path = poputils
+	url = https://github.com/cran/poputils
 [submodule "porridge"]
 	path = porridge
 	url = https://github.com/cran/porridge
