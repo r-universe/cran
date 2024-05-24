@@ -302,6 +302,9 @@
 [submodule "ARCokrig"]
 	path = ARCokrig
 	url = https://github.com/cran/ARCokrig
+[submodule "ARDECO"]
+	path = ARDECO
+	url = https://github.com/cran/ARDECO
 [submodule "ARDL"]
 	path = ARDL
 	url = https://github.com/cran/ARDL
@@ -12113,9 +12116,6 @@
 [submodule "PhotosynQ"]
 	path = PhotosynQ
 	url = https://github.com/cran/PhotosynQ
-[submodule "PhyInsight"]
-	path = PhyInsight
-	url = https://github.com/cran/PhyInsight
 [submodule "PhySortR"]
 	path = PhySortR
 	url = https://github.com/cran/PhySortR
