@@ -19913,6 +19913,9 @@
 [submodule "arcgis"]
 	path = arcgis
 	url = https://github.com/cran/arcgis
+[submodule "arcgisgeocode"]
+	path = arcgisgeocode
+	url = https://github.com/cran/arcgisgeocode
 [submodule "arcgislayers"]
 	path = arcgislayers
 	url = https://github.com/cran/arcgislayers
@@ -37838,6 +37841,9 @@
 [submodule "k5"]
 	path = k5
 	url = https://github.com/cran/k5
+[submodule "kDGLM"]
+	path = kDGLM
+	url = https://github.com/cran/kDGLM
 [submodule "kNNvs"]
 	path = kNNvs
 	url = https://github.com/cran/kNNvs
@@ -45086,6 +45092,9 @@
 [submodule "onsvplot"]
 	path = onsvplot
 	url = https://github.com/cran/onsvplot
+[submodule "onsvtables"]
+	path = onsvtables
+	url = https://github.com/cran/onsvtables
 [submodule "ontoFAST"]
 	path = ontoFAST
 	url = https://github.com/cran/ontoFAST
