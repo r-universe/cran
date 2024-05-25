@@ -43694,6 +43694,9 @@
 [submodule "neonPlantEcology"]
 	path = neonPlantEcology
 	url = https://github.com/cran/neonPlantEcology
+[submodule "neonSoilFlux"]
+	path = neonSoilFlux
+	url = https://github.com/cran/neonSoilFlux
 [submodule "neonUtilities"]
 	path = neonUtilities
 	url = https://github.com/cran/neonUtilities
