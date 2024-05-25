@@ -42890,6 +42890,9 @@
 [submodule "mulSEM"]
 	path = mulSEM
 	url = https://github.com/cran/mulSEM
+[submodule "mulea"]
+	path = mulea
+	url = https://github.com/cran/mulea
 [submodule "mulgar"]
 	path = mulgar
 	url = https://github.com/cran/mulgar
@@ -60293,6 +60296,9 @@
 [submodule "tryCatchLog"]
 	path = tryCatchLog
 	url = https://github.com/cran/tryCatchLog
+[submodule "tryr"]
+	path = tryr
+	url = https://github.com/cran/tryr
 [submodule "tsBSS"]
 	path = tsBSS
 	url = https://github.com/cran/tsBSS
