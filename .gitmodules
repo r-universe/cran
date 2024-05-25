@@ -32987,9 +32987,6 @@
 [submodule "geosptdb"]
 	path = geosptdb
 	url = https://github.com/cran/geosptdb
-[submodule "geostan"]
-	path = geostan
-	url = https://github.com/cran/geostan
 [submodule "geostats"]
 	path = geostats
 	url = https://github.com/cran/geostats
