@@ -257,9 +257,6 @@
 [submodule "APCI"]
 	path = APCI
 	url = https://github.com/cran/APCI
-[submodule "APCalign"]
-	path = APCalign
-	url = https://github.com/cran/APCalign
 [submodule "APCanalysis"]
 	path = APCanalysis
 	url = https://github.com/cran/APCanalysis
@@ -653,12 +650,6 @@
 [submodule "ArDec"]
 	path = ArDec
 	url = https://github.com/cran/ArDec
-[submodule "ArchaeoChron"]
-	path = ArchaeoChron
-	url = https://github.com/cran/ArchaeoChron
-[submodule "ArchaeoPhases"]
-	path = ArchaeoPhases
-	url = https://github.com/cran/ArchaeoPhases
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
@@ -1295,9 +1286,6 @@
 [submodule "BatchJobs"]
 	path = BatchJobs
 	url = https://github.com/cran/BatchJobs
-[submodule "BayLum"]
-	path = BayLum
-	url = https://github.com/cran/BayLum
 [submodule "Bayenet"]
 	path = Bayenet
 	url = https://github.com/cran/Bayenet
@@ -16706,9 +16694,6 @@
 [submodule "SportsTour"]
 	path = SportsTour
 	url = https://github.com/cran/SportsTour
-[submodule "SpotSampling"]
-	path = SpotSampling
-	url = https://github.com/cran/SpotSampling
 [submodule "SqlRender"]
 	path = SqlRender
 	url = https://github.com/cran/SqlRender
@@ -21674,9 +21659,6 @@
 [submodule "bioacoustics"]
 	path = bioacoustics
 	url = https://github.com/cran/bioacoustics
-[submodule "bioassays"]
-	path = bioassays
-	url = https://github.com/cran/bioassays
 [submodule "biobricks"]
 	path = biobricks
 	url = https://github.com/cran/biobricks
@@ -33371,9 +33353,6 @@
 [submodule "gghalves"]
 	path = gghalves
 	url = https://github.com/cran/gghalves
-[submodule "gghdr"]
-	path = gghdr
-	url = https://github.com/cran/gghdr
 [submodule "gghdx"]
 	path = gghdx
 	url = https://github.com/cran/gghdx
@@ -33881,9 +33860,6 @@
 [submodule "glamlasso"]
 	path = glamlasso
 	url = https://github.com/cran/glamlasso
-[submodule "glancedata"]
-	path = glancedata
-	url = https://github.com/cran/glancedata
 [submodule "glarma"]
 	path = glarma
 	url = https://github.com/cran/glarma
@@ -49898,9 +49874,6 @@
 [submodule "ra4bayesmeta"]
 	path = ra4bayesmeta
 	url = https://github.com/cran/ra4bayesmeta
-[submodule "rabhit"]
-	path = rabhit
-	url = https://github.com/cran/rabhit
 [submodule "rabi"]
 	path = rabi
 	url = https://github.com/cran/rabi
@@ -56855,9 +56828,6 @@
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
-[submodule "spqdep"]
-	path = spqdep
-	url = https://github.com/cran/spqdep
 [submodule "spray"]
 	path = spray
 	url = https://github.com/cran/spray
@@ -61640,9 +61610,6 @@
 [submodule "vkR"]
 	path = vkR
 	url = https://github.com/cran/vkR
-[submodule "vlda"]
-	path = vlda
-	url = https://github.com/cran/vlda
 [submodule "vmdTDNN"]
 	path = vmdTDNN
 	url = https://github.com/cran/vmdTDNN
