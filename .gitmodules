@@ -11627,6 +11627,9 @@
 [submodule "PP"]
 	path = PP
 	url = https://github.com/cran/PP
+[submodule "PPCDT"]
+	path = PPCDT
+	url = https://github.com/cran/PPCDT
 [submodule "PPCI"]
 	path = PPCI
 	url = https://github.com/cran/PPCI
@@ -17960,6 +17963,9 @@
 [submodule "Umpire"]
 	path = Umpire
 	url = https://github.com/cran/Umpire
+[submodule "UnalR"]
+	path = UnalR
+	url = https://github.com/cran/UnalR
 [submodule "UncDecomp"]
 	path = UncDecomp
 	url = https://github.com/cran/UncDecomp
@@ -22166,6 +22172,9 @@
 [submodule "box"]
 	path = box
 	url = https://github.com/cran/box
+[submodule "box.linters"]
+	path = box.linters
+	url = https://github.com/cran/box.linters
 [submodule "boxcoxmix"]
 	path = boxcoxmix
 	url = https://github.com/cran/boxcoxmix
@@ -54398,6 +54407,9 @@
 [submodule "seqICP"]
 	path = seqICP
 	url = https://github.com/cran/seqICP
+[submodule "seqSHP"]
+	path = seqSHP
+	url = https://github.com/cran/seqSHP
 [submodule "seqest"]
 	path = seqest
 	url = https://github.com/cran/seqest
@@ -61736,6 +61748,9 @@
 [submodule "vsgoftest"]
 	path = vsgoftest
 	url = https://github.com/cran/vsgoftest
+[submodule "vsmi"]
+	path = vsmi
+	url = https://github.com/cran/vsmi
 [submodule "vsp"]
 	path = vsp
 	url = https://github.com/cran/vsp
