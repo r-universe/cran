@@ -11099,6 +11099,9 @@
 [submodule "OnomasticDiversity"]
 	path = OnomasticDiversity
 	url = https://github.com/cran/OnomasticDiversity
+[submodule "OpEnHiMR"]
+	path = OpEnHiMR
+	url = https://github.com/cran/OpEnHiMR
 [submodule "OpenCL"]
 	path = OpenCL
 	url = https://github.com/cran/OpenCL
@@ -11702,6 +11705,9 @@
 [submodule "PRISMAstatement"]
 	path = PRISMAstatement
 	url = https://github.com/cran/PRISMAstatement
+[submodule "PRNG"]
+	path = PRNG
+	url = https://github.com/cran/PRNG
 [submodule "PROBShiny"]
 	path = PROBShiny
 	url = https://github.com/cran/PROBShiny
@@ -17120,6 +17126,9 @@
 [submodule "TDPanalysis"]
 	path = TDPanalysis
 	url = https://github.com/cran/TDPanalysis
+[submodule "TDSTNN"]
+	path = TDSTNN
+	url = https://github.com/cran/TDSTNN
 [submodule "TDbook"]
 	path = TDbook
 	url = https://github.com/cran/TDbook
@@ -25331,6 +25340,9 @@
 [submodule "countts"]
 	path = countts
 	url = https://github.com/cran/countts
+[submodule "coursekata"]
+	path = coursekata
+	url = https://github.com/cran/coursekata
 [submodule "covBM"]
 	path = covBM
 	url = https://github.com/cran/covBM
@@ -29528,6 +29540,9 @@
 [submodule "equateMultiple"]
 	path = equateMultiple
 	url = https://github.com/cran/equateMultiple
+[submodule "equatiomatic"]
+	path = equatiomatic
+	url = https://github.com/cran/equatiomatic
 [submodule "equil2"]
 	path = equil2
 	url = https://github.com/cran/equil2
@@ -31025,6 +31040,9 @@
 [submodule "finch"]
 	path = finch
 	url = https://github.com/cran/finch
+[submodule "findGSEP"]
+	path = findGSEP
+	url = https://github.com/cran/findGSEP
 [submodule "findInFiles"]
 	path = findInFiles
 	url = https://github.com/cran/findInFiles
