@@ -42773,6 +42773,9 @@
 [submodule "msde"]
 	path = msde
 	url = https://github.com/cran/msde
+[submodule "msdrought"]
+	path = msdrought
+	url = https://github.com/cran/msdrought
 [submodule "mseapca"]
 	path = mseapca
 	url = https://github.com/cran/mseapca
