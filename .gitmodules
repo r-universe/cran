@@ -18764,9 +18764,6 @@
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cran/abmR
-[submodule "abn"]
-	path = abn
-	url = https://github.com/cran/abn
 [submodule "abnormality"]
 	path = abnormality
 	url = https://github.com/cran/abnormality
