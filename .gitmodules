@@ -5324,6 +5324,9 @@
 [submodule "FPCA3D"]
 	path = FPCA3D
 	url = https://github.com/cran/FPCA3D
+[submodule "FPCdpca"]
+	path = FPCdpca
+	url = https://github.com/cran/FPCdpca
 [submodule "FPDclustering"]
 	path = FPDclustering
 	url = https://github.com/cran/FPDclustering
@@ -6332,6 +6335,9 @@
 [submodule "GTDL"]
 	path = GTDL
 	url = https://github.com/cran/GTDL
+[submodule "GUD"]
+	path = GUD
+	url = https://github.com/cran/GUD
 [submodule "GUEST"]
 	path = GUEST
 	url = https://github.com/cran/GUEST
@@ -19430,6 +19436,9 @@
 [submodule "albopictus"]
 	path = albopictus
 	url = https://github.com/cran/albopictus
+[submodule "alcyon"]
+	path = alcyon
+	url = https://github.com/cran/alcyon
 [submodule "ald"]
 	path = ald
 	url = https://github.com/cran/ald
@@ -21998,6 +22007,9 @@
 [submodule "bmlm"]
 	path = bmlm
 	url = https://github.com/cran/bmlm
+[submodule "bmm"]
+	path = bmm
+	url = https://github.com/cran/bmm
 [submodule "bmp"]
 	path = bmp
 	url = https://github.com/cran/bmp
@@ -23441,6 +23453,9 @@
 [submodule "ch"]
 	path = ch
 	url = https://github.com/cran/ch
+[submodule "chainbinomial"]
+	path = chainbinomial
+	url = https://github.com/cran/chainbinomial
 [submodule "chameleon"]
 	path = chameleon
 	url = https://github.com/cran/chameleon
@@ -32780,6 +32795,9 @@
 [submodule "genetics"]
 	path = genetics
 	url = https://github.com/cran/genetics
+[submodule "genfrn"]
+	path = genfrn
+	url = https://github.com/cran/genfrn
 [submodule "genie"]
 	path = genie
 	url = https://github.com/cran/genie
@@ -35327,6 +35345,9 @@
 [submodule "heemod"]
 	path = heemod
 	url = https://github.com/cran/heemod
+[submodule "heimdall"]
+	path = heimdall
+	url = https://github.com/cran/heimdall
 [submodule "heims"]
 	path = heims
 	url = https://github.com/cran/heims
@@ -46298,6 +46319,9 @@
 [submodule "pbo"]
 	path = pbo
 	url = https://github.com/cran/pbo
+[submodule "pbox"]
+	path = pbox
+	url = https://github.com/cran/pbox
 [submodule "pbr"]
 	path = pbr
 	url = https://github.com/cran/pbr
@@ -57089,6 +57113,9 @@
 [submodule "sssc"]
 	path = sssc
 	url = https://github.com/cran/sssc
+[submodule "sstvars"]
+	path = sstvars
+	url = https://github.com/cran/sstvars
 [submodule "ssym"]
 	path = ssym
 	url = https://github.com/cran/ssym
@@ -58751,6 +58778,9 @@
 [submodule "telemetR"]
 	path = telemetR
 	url = https://github.com/cran/telemetR
+[submodule "telraamStats"]
+	path = telraamStats
+	url = https://github.com/cran/telraamStats
 [submodule "tempR"]
 	path = tempR
 	url = https://github.com/cran/tempR
