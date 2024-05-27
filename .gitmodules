@@ -12161,6 +12161,9 @@
 [submodule "Platypus"]
 	path = Platypus
 	url = https://github.com/cran/Platypus
+[submodule "PlayerChart"]
+	path = PlayerChart
+	url = https://github.com/cran/PlayerChart
 [submodule "PlayerRatings"]
 	path = PlayerRatings
 	url = https://github.com/cran/PlayerRatings
@@ -16451,6 +16454,9 @@
 [submodule "SoilConservation"]
 	path = SoilConservation
 	url = https://github.com/cran/SoilConservation
+[submodule "SoilFDA"]
+	path = SoilFDA
+	url = https://github.com/cran/SoilFDA
 [submodule "SoilFunctionality"]
 	path = SoilFunctionality
 	url = https://github.com/cran/SoilFunctionality
@@ -16514,6 +16520,9 @@
 [submodule "SpTe2M"]
 	path = SpTe2M
 	url = https://github.com/cran/SpTe2M
+[submodule "SpaCOAP"]
+	path = SpaCOAP
+	url = https://github.com/cran/SpaCOAP
 [submodule "SpaDES"]
 	path = SpaDES
 	url = https://github.com/cran/SpaDES
@@ -54599,6 +54608,9 @@
 [submodule "sgr"]
 	path = sgr
 	url = https://github.com/cran/sgr
+[submodule "sgraph"]
+	path = sgraph
+	url = https://github.com/cran/sgraph
 [submodule "sgs"]
 	path = sgs
 	url = https://github.com/cran/sgs
