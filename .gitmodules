@@ -18083,6 +18083,9 @@
 [submodule "VBV"]
 	path = VBV
 	url = https://github.com/cran/VBV
+[submodule "VBel"]
+	path = VBel
+	url = https://github.com/cran/VBel
 [submodule "VBsparsePCA"]
 	path = VBsparsePCA
 	url = https://github.com/cran/VBsparsePCA
@@ -24446,6 +24449,9 @@
 [submodule "coffee"]
 	path = coffee
 	url = https://github.com/cran/coffee
+[submodule "cofid"]
+	path = cofid
+	url = https://github.com/cran/cofid
 [submodule "coga"]
 	path = coga
 	url = https://github.com/cran/coga
@@ -29228,6 +29234,9 @@
 [submodule "emov"]
 	path = emov
 	url = https://github.com/cran/emov
+[submodule "emphatic"]
+	path = emphatic
+	url = https://github.com/cran/emphatic
 [submodule "empichar"]
 	path = empichar
 	url = https://github.com/cran/empichar
@@ -35297,6 +35306,9 @@
 [submodule "hds"]
 	path = hds
 	url = https://github.com/cran/hds
+[submodule "hdsvm"]
+	path = hdsvm
+	url = https://github.com/cran/hdsvm
 [submodule "headliner"]
 	path = headliner
 	url = https://github.com/cran/headliner
@@ -40403,6 +40415,9 @@
 [submodule "marqLevAlg"]
 	path = marqLevAlg
 	url = https://github.com/cran/marqLevAlg
+[submodule "marquee"]
+	path = marquee
+	url = https://github.com/cran/marquee
 [submodule "marradistrees"]
 	path = marradistrees
 	url = https://github.com/cran/marradistrees
