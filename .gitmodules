@@ -30758,9 +30758,6 @@
 [submodule "fdaMocca"]
 	path = fdaMocca
 	url = https://github.com/cran/fdaMocca
-[submodule "fdaPDE"]
-	path = fdaPDE
-	url = https://github.com/cran/fdaPDE
 [submodule "fdaPOIFD"]
 	path = fdaPOIFD
 	url = https://github.com/cran/fdaPOIFD
