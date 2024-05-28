@@ -251,6 +251,9 @@
 [submodule "ANOVAShiny2"]
 	path = ANOVAShiny2
 	url = https://github.com/cran/ANOVAShiny2
+[submodule "ANSM5"]
+	path = ANSM5
+	url = https://github.com/cran/ANSM5
 [submodule "AOV1R"]
 	path = AOV1R
 	url = https://github.com/cran/AOV1R
@@ -1040,6 +1043,9 @@
 [submodule "BKTR"]
 	path = BKTR
 	url = https://github.com/cran/BKTR
+[submodule "BLA"]
+	path = BLA
+	url = https://github.com/cran/BLA
 [submodule "BLCOP"]
 	path = BLCOP
 	url = https://github.com/cran/BLCOP
@@ -3533,6 +3539,9 @@
 [submodule "DGM"]
 	path = DGM
 	url = https://github.com/cran/DGM
+[submodule "DGP4LCF"]
+	path = DGP4LCF
+	url = https://github.com/cran/DGP4LCF
 [submodule "DHARMa"]
 	path = DHARMa
 	url = https://github.com/cran/DHARMa
@@ -25292,6 +25301,9 @@
 [submodule "cosa"]
 	path = cosa
 	url = https://github.com/cran/cosa
+[submodule "cosimmr"]
+	path = cosimmr
+	url = https://github.com/cran/cosimmr
 [submodule "cosinor"]
 	path = cosinor
 	url = https://github.com/cran/cosinor
@@ -45689,6 +45701,9 @@
 [submodule "outliers"]
 	path = outliers
 	url = https://github.com/cran/outliers
+[submodule "outliers.ts.oga"]
+	path = outliers.ts.oga
+	url = https://github.com/cran/outliers.ts.oga
 [submodule "outliertree"]
 	path = outliertree
 	url = https://github.com/cran/outliertree
