@@ -23969,6 +23969,9 @@
 [submodule "clime"]
 	path = clime
 	url = https://github.com/cran/clime
+[submodule "climenv"]
+	path = climenv
+	url = https://github.com/cran/climenv
 [submodule "climetrics"]
 	path = climetrics
 	url = https://github.com/cran/climetrics
@@ -25775,6 +25778,9 @@
 [submodule "crplyr"]
 	path = crplyr
 	url = https://github.com/cran/crplyr
+[submodule "crqa"]
+	path = crqa
+	url = https://github.com/cran/crqa
 [submodule "crrSC"]
 	path = crrSC
 	url = https://github.com/cran/crrSC
@@ -28748,6 +28754,9 @@
 [submodule "ecocbo"]
 	path = ecocbo
 	url = https://github.com/cran/ecocbo
+[submodule "ecochange"]
+	path = ecochange
+	url = https://github.com/cran/ecochange
 [submodule "ecocomDP"]
 	path = ecocomDP
 	url = https://github.com/cran/ecocomDP
@@ -32900,6 +32909,9 @@
 [submodule "geodaData"]
 	path = geodaData
 	url = https://github.com/cran/geodaData
+[submodule "geodata"]
+	path = geodata
+	url = https://github.com/cran/geodata
 [submodule "geodimension"]
 	path = geodimension
 	url = https://github.com/cran/geodimension
@@ -32930,6 +32942,9 @@
 [submodule "geogrid"]
 	path = geogrid
 	url = https://github.com/cran/geogrid
+[submodule "geohabnet"]
+	path = geohabnet
+	url = https://github.com/cran/geohabnet
 [submodule "geohashTools"]
 	path = geohashTools
 	url = https://github.com/cran/geohashTools
@@ -36935,6 +36950,9 @@
 [submodule "intRvals"]
 	path = intRvals
 	url = https://github.com/cran/intRvals
+[submodule "intSDM"]
+	path = intSDM
+	url = https://github.com/cran/intSDM
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cran/intamap
@@ -47681,6 +47699,9 @@
 [submodule "poisson.glm.mix"]
 	path = poisson.glm.mix
 	url = https://github.com/cran/poisson.glm.mix
+[submodule "poissonMT"]
+	path = poissonMT
+	url = https://github.com/cran/poissonMT
 [submodule "poissonreg"]
 	path = poissonreg
 	url = https://github.com/cran/poissonreg
@@ -49154,6 +49175,9 @@
 [submodule "qlcMatrix"]
 	path = qlcMatrix
 	url = https://github.com/cran/qlcMatrix
+[submodule "qlcVisualize"]
+	path = qlcVisualize
+	url = https://github.com/cran/qlcVisualize
 [submodule "qlcal"]
 	path = qlcal
 	url = https://github.com/cran/qlcal
@@ -52142,6 +52166,9 @@
 [submodule "robber"]
 	path = robber
 	url = https://github.com/cran/robber
+[submodule "robcbi"]
+	path = robcbi
+	url = https://github.com/cran/robcbi
 [submodule "robcor"]
 	path = robcor
 	url = https://github.com/cran/robcor
@@ -52151,6 +52178,9 @@
 [submodule "roben"]
 	path = roben
 	url = https://github.com/cran/roben
+[submodule "robeth"]
+	path = robeth
+	url = https://github.com/cran/robeth
 [submodule "robfilter"]
 	path = robfilter
 	url = https://github.com/cran/robfilter
