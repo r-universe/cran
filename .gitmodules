@@ -2480,6 +2480,9 @@
 [submodule "CVrisk"]
 	path = CVrisk
 	url = https://github.com/cran/CVrisk
+[submodule "CWT"]
+	path = CWT
+	url = https://github.com/cran/CWT
 [submodule "CaDENCE"]
 	path = CaDENCE
 	url = https://github.com/cran/CaDENCE
@@ -33371,6 +33374,9 @@
 [submodule "ggfortify"]
 	path = ggfortify
 	url = https://github.com/cran/ggfortify
+[submodule "ggfoundry"]
+	path = ggfoundry
+	url = https://github.com/cran/ggfoundry
 [submodule "ggfun"]
 	path = ggfun
 	url = https://github.com/cran/ggfun
@@ -35282,6 +35288,9 @@
 [submodule "hdpca"]
 	path = hdpca
 	url = https://github.com/cran/hdpca
+[submodule "hdqr"]
+	path = hdqr
+	url = https://github.com/cran/hdqr
 [submodule "hdrcde"]
 	path = hdrcde
 	url = https://github.com/cran/hdrcde
@@ -44513,6 +44522,9 @@
 [submodule "np"]
 	path = np
 	url = https://github.com/cran/np
+[submodule "npDoseResponse"]
+	path = npDoseResponse
+	url = https://github.com/cran/npDoseResponse
 [submodule "npExact"]
 	path = npExact
 	url = https://github.com/cran/npExact
@@ -59945,6 +59957,9 @@
 [submodule "totalcensus"]
 	path = totalcensus
 	url = https://github.com/cran/totalcensus
+[submodule "touRnamentofchampions"]
+	path = touRnamentofchampions
+	url = https://github.com/cran/touRnamentofchampions
 [submodule "touch"]
 	path = touch
 	url = https://github.com/cran/touch
