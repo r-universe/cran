@@ -33152,9 +33152,6 @@
 [submodule "gfonts"]
 	path = gfonts
 	url = https://github.com/cran/gfonts
-[submodule "gfpop"]
-	path = gfpop
-	url = https://github.com/cran/gfpop
 [submodule "gfunctions"]
 	path = gfunctions
 	url = https://github.com/cran/gfunctions
