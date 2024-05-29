@@ -30782,6 +30782,9 @@
 [submodule "fdaMocca"]
 	path = fdaMocca
 	url = https://github.com/cran/fdaMocca
+[submodule "fdaPDE"]
+	path = fdaPDE
+	url = https://github.com/cran/fdaPDE
 [submodule "fdaPOIFD"]
 	path = fdaPOIFD
 	url = https://github.com/cran/fdaPOIFD
@@ -32207,9 +32210,6 @@
 [submodule "fwb"]
 	path = fwb
 	url = https://github.com/cran/fwb
-[submodule "fwildclusterboot"]
-	path = fwildclusterboot
-	url = https://github.com/cran/fwildclusterboot
 [submodule "fwlplot"]
 	path = fwlplot
 	url = https://github.com/cran/fwlplot
@@ -42233,9 +42233,6 @@
 [submodule "mmpca"]
 	path = mmpca
 	url = https://github.com/cran/mmpca
-[submodule "mmpf"]
-	path = mmpf
-	url = https://github.com/cran/mmpf
 [submodule "mmpp"]
 	path = mmpp
 	url = https://github.com/cran/mmpp
@@ -62354,9 +62351,6 @@
 [submodule "wildpoker"]
 	path = wildpoker
 	url = https://github.com/cran/wildpoker
-[submodule "wildrwolf"]
-	path = wildrwolf
-	url = https://github.com/cran/wildrwolf
 [submodule "wilson"]
 	path = wilson
 	url = https://github.com/cran/wilson
