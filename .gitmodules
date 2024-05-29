@@ -812,6 +812,9 @@
 [submodule "BAMMtools"]
 	path = BAMMtools
 	url = https://github.com/cran/BAMMtools
+[submodule "BANAM"]
+	path = BANAM
+	url = https://github.com/cran/BANAM
 [submodule "BANOVA"]
 	path = BANOVA
 	url = https://github.com/cran/BANOVA
@@ -3281,6 +3284,9 @@
 [submodule "CureDepCens"]
 	path = CureDepCens
 	url = https://github.com/cran/CureDepCens
+[submodule "CurricularAnalytics"]
+	path = CurricularAnalytics
+	url = https://github.com/cran/CurricularAnalytics
 [submodule "CustomDerivative"]
 	path = CustomDerivative
 	url = https://github.com/cran/CustomDerivative
@@ -36494,9 +36500,6 @@
 [submodule "iemiscdata"]
 	path = iemiscdata
 	url = https://github.com/cran/iemiscdata
-[submodule "iemisctext"]
-	path = iemisctext
-	url = https://github.com/cran/iemisctext
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/cran/ieugwasr
@@ -56357,6 +56360,9 @@
 [submodule "spaero"]
 	path = spaero
 	url = https://github.com/cran/spaero
+[submodule "spagmix"]
+	path = spagmix
+	url = https://github.com/cran/spagmix
 [submodule "spam"]
 	path = spam
 	url = https://github.com/cran/spam
