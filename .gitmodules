@@ -14705,6 +14705,9 @@
 [submodule "Rfit"]
 	path = Rfit
 	url = https://github.com/cran/Rfit
+[submodule "Rfmtool"]
+	path = Rfmtool
+	url = https://github.com/cran/Rfmtool
 [submodule "Rfolding"]
 	path = Rfolding
 	url = https://github.com/cran/Rfolding
@@ -18812,6 +18815,9 @@
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cran/abmR
+[submodule "abn"]
+	path = abn
+	url = https://github.com/cran/abn
 [submodule "abnormality"]
 	path = abnormality
 	url = https://github.com/cran/abnormality
