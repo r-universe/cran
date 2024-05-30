@@ -32213,6 +32213,9 @@
 [submodule "fwb"]
 	path = fwb
 	url = https://github.com/cran/fwb
+[submodule "fwildclusterboot"]
+	path = fwildclusterboot
+	url = https://github.com/cran/fwildclusterboot
 [submodule "fwlplot"]
 	path = fwlplot
 	url = https://github.com/cran/fwlplot
@@ -36491,6 +36494,15 @@
 [submodule "ieeeround"]
 	path = ieeeround
 	url = https://github.com/cran/ieeeround
+[submodule "iemisc"]
+	path = iemisc
+	url = https://github.com/cran/iemisc
+[submodule "iemiscdata"]
+	path = iemiscdata
+	url = https://github.com/cran/iemiscdata
+[submodule "iemisctext"]
+	path = iemisctext
+	url = https://github.com/cran/iemisctext
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/cran/ieugwasr
@@ -42227,6 +42239,9 @@
 [submodule "mmpca"]
 	path = mmpca
 	url = https://github.com/cran/mmpca
+[submodule "mmpf"]
+	path = mmpf
+	url = https://github.com/cran/mmpf
 [submodule "mmpp"]
 	path = mmpp
 	url = https://github.com/cran/mmpp
@@ -62351,6 +62366,9 @@
 [submodule "wildpoker"]
 	path = wildpoker
 	url = https://github.com/cran/wildpoker
+[submodule "wildrwolf"]
+	path = wildrwolf
+	url = https://github.com/cran/wildrwolf
 [submodule "wilson"]
 	path = wilson
 	url = https://github.com/cran/wilson
