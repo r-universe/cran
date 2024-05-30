@@ -36491,12 +36491,6 @@
 [submodule "ieeeround"]
 	path = ieeeround
 	url = https://github.com/cran/ieeeround
-[submodule "iemisc"]
-	path = iemisc
-	url = https://github.com/cran/iemisc
-[submodule "iemiscdata"]
-	path = iemiscdata
-	url = https://github.com/cran/iemiscdata
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/cran/ieugwasr
