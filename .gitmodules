@@ -3317,6 +3317,9 @@
 [submodule "D2MCS"]
 	path = D2MCS
 	url = https://github.com/cran/D2MCS
+[submodule "D3GB"]
+	path = D3GB
+	url = https://github.com/cran/D3GB
 [submodule "D3mirt"]
 	path = D3mirt
 	url = https://github.com/cran/D3mirt
@@ -4742,6 +4745,9 @@
 [submodule "Ecohydmod"]
 	path = Ecohydmod
 	url = https://github.com/cran/Ecohydmod
+[submodule "EconAndProdEfficiency"]
+	path = EconAndProdEfficiency
+	url = https://github.com/cran/EconAndProdEfficiency
 [submodule "EconDemand"]
 	path = EconDemand
 	url = https://github.com/cran/EconDemand
@@ -43568,6 +43574,9 @@
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/cran/nanonext
+[submodule "nanoparquet"]
+	path = nanoparquet
+	url = https://github.com/cran/nanoparquet
 [submodule "nanostringr"]
 	path = nanostringr
 	url = https://github.com/cran/nanostringr
@@ -49331,6 +49340,9 @@
 [submodule "qsimulatR"]
 	path = qsimulatR
 	url = https://github.com/cran/qsimulatR
+[submodule "qslice"]
+	path = qslice
+	url = https://github.com/cran/qslice
 [submodule "qsort"]
 	path = qsort
 	url = https://github.com/cran/qsort
@@ -49910,6 +49922,9 @@
 [submodule "rSCA"]
 	path = rSCA
 	url = https://github.com/cran/rSCA
+[submodule "rSDI"]
+	path = rSDI
+	url = https://github.com/cran/rSDI
 [submodule "rSEA"]
 	path = rSEA
 	url = https://github.com/cran/rSEA
