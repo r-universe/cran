@@ -25868,9 +25868,6 @@
 [submodule "cryptorng"]
 	path = cryptorng
 	url = https://github.com/cran/cryptorng
-[submodule "cryptotrackr"]
-	path = cryptotrackr
-	url = https://github.com/cran/cryptotrackr
 [submodule "cryptoverse"]
 	path = cryptoverse
 	url = https://github.com/cran/cryptoverse
@@ -51737,6 +51734,9 @@
 [submodule "ri2"]
 	path = ri2
 	url = https://github.com/cran/ri2
+[submodule "riAFTBART"]
+	path = riAFTBART
+	url = https://github.com/cran/riAFTBART
 [submodule "rib"]
 	path = rib
 	url = https://github.com/cran/rib
