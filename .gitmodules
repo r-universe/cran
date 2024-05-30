@@ -260,6 +260,9 @@
 [submodule "APCI"]
 	path = APCI
 	url = https://github.com/cran/APCI
+[submodule "APCalign"]
+	path = APCalign
+	url = https://github.com/cran/APCalign
 [submodule "APCanalysis"]
 	path = APCanalysis
 	url = https://github.com/cran/APCanalysis
@@ -12155,6 +12158,9 @@
 [submodule "PhysicalActivity"]
 	path = PhysicalActivity
 	url = https://github.com/cran/PhysicalActivity
+[submodule "PhytosanitaryCalculator"]
+	path = PhytosanitaryCalculator
+	url = https://github.com/cran/PhytosanitaryCalculator
 [submodule "PieGlyph"]
 	path = PieGlyph
 	url = https://github.com/cran/PieGlyph
