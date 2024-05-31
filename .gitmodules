@@ -47195,9 +47195,6 @@
 [submodule "piecepackr"]
 	path = piecepackr
 	url = https://github.com/cran/piecepackr
-[submodule "piecewiseSEM"]
-	path = piecewiseSEM
-	url = https://github.com/cran/piecewiseSEM
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/cran/piggyback
