@@ -41318,9 +41318,6 @@
 [submodule "metricminer"]
 	path = metricminer
 	url = https://github.com/cran/metricminer
-[submodule "metricsgraphics"]
-	path = metricsgraphics
-	url = https://github.com/cran/metricsgraphics
 [submodule "metrix"]
 	path = metrix
 	url = https://github.com/cran/metrix
@@ -54005,9 +54002,6 @@
 [submodule "scoringRules"]
 	path = scoringRules
 	url = https://github.com/cran/scoringRules
-[submodule "scoringTools"]
-	path = scoringTools
-	url = https://github.com/cran/scoringTools
 [submodule "scoringfunctions"]
 	path = scoringfunctions
 	url = https://github.com/cran/scoringfunctions
