@@ -9545,6 +9545,9 @@
 [submodule "MST"]
 	path = MST
 	url = https://github.com/cran/MST
+[submodule "MSTest"]
+	path = MSTest
+	url = https://github.com/cran/MSTest
 [submodule "MSbox"]
 	path = MSbox
 	url = https://github.com/cran/MSbox
@@ -12605,6 +12608,9 @@
 [submodule "QFRM"]
 	path = QFRM
 	url = https://github.com/cran/QFRM
+[submodule "QGA"]
+	path = QGA
+	url = https://github.com/cran/QGA
 [submodule "QGameTheory"]
 	path = QGameTheory
 	url = https://github.com/cran/QGameTheory
@@ -32948,6 +32954,9 @@
 [submodule "geoTS"]
 	path = geoTS
 	url = https://github.com/cran/geoTS
+[submodule "geoarrow"]
+	path = geoarrow
+	url = https://github.com/cran/geoarrow
 [submodule "geobr"]
 	path = geobr
 	url = https://github.com/cran/geobr
@@ -47105,6 +47114,9 @@
 [submodule "phyext2"]
 	path = phyext2
 	url = https://github.com/cran/phyext2
+[submodule "phylepic"]
+	path = phylepic
+	url = https://github.com/cran/phylepic
 [submodule "phylin"]
 	path = phylin
 	url = https://github.com/cran/phylin
@@ -56543,6 +56555,9 @@
 [submodule "sparsevb"]
 	path = sparsevb
 	url = https://github.com/cran/sparsevb
+[submodule "sparsevctrs"]
+	path = sparsevctrs
+	url = https://github.com/cran/sparsevctrs
 [submodule "sparsio"]
 	path = sparsio
 	url = https://github.com/cran/sparsio
