@@ -16106,9 +16106,15 @@
 [submodule "SeedCalc"]
 	path = SeedCalc
 	url = https://github.com/cran/SeedCalc
+[submodule "SeedImbibition"]
+	path = SeedImbibition
+	url = https://github.com/cran/SeedImbibition
 [submodule "SeedMatchR"]
 	path = SeedMatchR
 	url = https://github.com/cran/SeedMatchR
+[submodule "SeedVigorIndex"]
+	path = SeedVigorIndex
+	url = https://github.com/cran/SeedVigorIndex
 [submodule "SegCorr"]
 	path = SegCorr
 	url = https://github.com/cran/SegCorr
@@ -27824,6 +27830,9 @@
 [submodule "dlm"]
 	path = dlm
 	url = https://github.com/cran/dlm
+[submodule "dlmtree"]
+	path = dlmtree
+	url = https://github.com/cran/dlmtree
 [submodule "dlnm"]
 	path = dlnm
 	url = https://github.com/cran/dlnm
@@ -44735,6 +44744,9 @@
 [submodule "nse"]
 	path = nse
 	url = https://github.com/cran/nse
+[submodule "nseq"]
+	path = nseq
+	url = https://github.com/cran/nseq
 [submodule "nser"]
 	path = nser
 	url = https://github.com/cran/nser
@@ -63017,6 +63029,9 @@
 [submodule "zenplots"]
 	path = zenplots
 	url = https://github.com/cran/zenplots
+[submodule "zenstats"]
+	path = zenstats
+	url = https://github.com/cran/zenstats
 [submodule "zeroEQpart"]
 	path = zeroEQpart
 	url = https://github.com/cran/zeroEQpart
