@@ -24869,9 +24869,6 @@
 [submodule "concordancer"]
 	path = concordancer
 	url = https://github.com/cran/concordancer
-[submodule "concrete"]
-	path = concrete
-	url = https://github.com/cran/concrete
 [submodule "concstats"]
 	path = concstats
 	url = https://github.com/cran/concstats
