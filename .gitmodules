@@ -2894,9 +2894,6 @@
 [submodule "CohortAlgebra"]
 	path = CohortAlgebra
 	url = https://github.com/cran/CohortAlgebra
-[submodule "CohortCharacteristics"]
-	path = CohortCharacteristics
-	url = https://github.com/cran/CohortCharacteristics
 [submodule "CohortExplorer"]
 	path = CohortExplorer
 	url = https://github.com/cran/CohortExplorer
@@ -4310,9 +4307,6 @@
 [submodule "DrugSim2DR"]
 	path = DrugSim2DR
 	url = https://github.com/cran/DrugSim2DR
-[submodule "DrugUtilisation"]
-	path = DrugUtilisation
-	url = https://github.com/cran/DrugUtilisation
 [submodule "DstarM"]
 	path = DstarM
 	url = https://github.com/cran/DstarM
@@ -27320,9 +27314,6 @@
 [submodule "dhh"]
 	path = dhh
 	url = https://github.com/cran/dhh
-[submodule "dhis2r"]
-	path = dhis2r
-	url = https://github.com/cran/dhis2r
 [submodule "dhlabR"]
 	path = dhlabR
 	url = https://github.com/cran/dhlabR
@@ -41333,6 +41324,9 @@
 [submodule "metricminer"]
 	path = metricminer
 	url = https://github.com/cran/metricminer
+[submodule "metricsgraphics"]
+	path = metricsgraphics
+	url = https://github.com/cran/metricsgraphics
 [submodule "metrix"]
 	path = metrix
 	url = https://github.com/cran/metrix
@@ -47216,6 +47210,9 @@
 [submodule "piecepackr"]
 	path = piecepackr
 	url = https://github.com/cran/piecepackr
+[submodule "piecewiseSEM"]
+	path = piecewiseSEM
+	url = https://github.com/cran/piecewiseSEM
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/cran/piggyback
