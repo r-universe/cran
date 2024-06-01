@@ -2894,6 +2894,9 @@
 [submodule "CohortAlgebra"]
 	path = CohortAlgebra
 	url = https://github.com/cran/CohortAlgebra
+[submodule "CohortConstructor"]
+	path = CohortConstructor
+	url = https://github.com/cran/CohortConstructor
 [submodule "CohortExplorer"]
 	path = CohortExplorer
 	url = https://github.com/cran/CohortExplorer
@@ -6557,6 +6560,9 @@
 [submodule "GeodRegr"]
 	path = GeodRegr
 	url = https://github.com/cran/GeodRegr
+[submodule "GeomArchetypal"]
+	path = GeomArchetypal
+	url = https://github.com/cran/GeomArchetypal
 [submodule "GeomComb"]
 	path = GeomComb
 	url = https://github.com/cran/GeomComb
@@ -44180,6 +44186,9 @@
 [submodule "nixmass"]
 	path = nixmass
 	url = https://github.com/cran/nixmass
+[submodule "nixtlar"]
+	path = nixtlar
+	url = https://github.com/cran/nixtlar
 [submodule "njgeo"]
 	path = njgeo
 	url = https://github.com/cran/njgeo
@@ -53135,6 +53144,9 @@
 [submodule "ruminate"]
 	path = ruminate
 	url = https://github.com/cran/ruminate
+[submodule "runDRT"]
+	path = runDRT
+	url = https://github.com/cran/runDRT
 [submodule "runMCMCbtadjust"]
 	path = runMCMCbtadjust
 	url = https://github.com/cran/runMCMCbtadjust
@@ -60068,6 +60080,9 @@
 [submodule "tpfp"]
 	path = tpfp
 	url = https://github.com/cran/tpfp
+[submodule "tpm"]
+	path = tpm
+	url = https://github.com/cran/tpm
 [submodule "tpn"]
 	path = tpn
 	url = https://github.com/cran/tpn
