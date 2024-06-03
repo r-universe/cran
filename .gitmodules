@@ -6344,9 +6344,6 @@
 [submodule "GSMX"]
 	path = GSMX
 	url = https://github.com/cran/GSMX
-[submodule "GSNA"]
-	path = GSNA
-	url = https://github.com/cran/GSNA
 [submodule "GSODR"]
 	path = GSODR
 	url = https://github.com/cran/GSODR
@@ -32996,9 +32993,6 @@
 [submodule "geofacet"]
 	path = geofacet
 	url = https://github.com/cran/geofacet
-[submodule "geofd"]
-	path = geofd
-	url = https://github.com/cran/geofd
 [submodule "geofi"]
 	path = geofi
 	url = https://github.com/cran/geofi
@@ -40952,6 +40946,9 @@
 [submodule "medfate"]
 	path = medfate
 	url = https://github.com/cran/medfate
+[submodule "medfateland"]
+	path = medfateland
+	url = https://github.com/cran/medfateland
 [submodule "medflex"]
 	path = medflex
 	url = https://github.com/cran/medflex
@@ -42440,9 +42437,6 @@
 [submodule "modeltime"]
 	path = modeltime
 	url = https://github.com/cran/modeltime
-[submodule "modeltime.ensemble"]
-	path = modeltime.ensemble
-	url = https://github.com/cran/modeltime.ensemble
 [submodule "modeltime.resample"]
 	path = modeltime.resample
 	url = https://github.com/cran/modeltime.resample
@@ -43175,9 +43169,6 @@
 [submodule "multilevelTools"]
 	path = multilevelTools
 	url = https://github.com/cran/multilevelTools
-[submodule "multilevelcoda"]
-	path = multilevelcoda
-	url = https://github.com/cran/multilevelcoda
 [submodule "multilevelmediation"]
 	path = multilevelmediation
 	url = https://github.com/cran/multilevelmediation
@@ -62516,9 +62507,6 @@
 [submodule "wordPuzzleR"]
 	path = wordPuzzleR
 	url = https://github.com/cran/wordPuzzleR
-[submodule "wordbankr"]
-	path = wordbankr
-	url = https://github.com/cran/wordbankr
 [submodule "wordcloud"]
 	path = wordcloud
 	url = https://github.com/cran/wordcloud
