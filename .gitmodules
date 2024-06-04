@@ -43928,6 +43928,9 @@
 [submodule "netcmc"]
 	path = netcmc
 	url = https://github.com/cran/netcmc
+[submodule "netcom"]
+	path = netcom
+	url = https://github.com/cran/netcom
 [submodule "netcontrol"]
 	path = netcontrol
 	url = https://github.com/cran/netcontrol
