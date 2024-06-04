@@ -20729,6 +20729,9 @@
 [submodule "badger"]
 	path = badger
 	url = https://github.com/cran/badger
+[submodule "baf"]
+	path = baf
+	url = https://github.com/cran/baf
 [submodule "baffle"]
 	path = baffle
 	url = https://github.com/cran/baffle
@@ -38573,6 +38576,9 @@
 [submodule "lacunaritycovariance"]
 	path = lacunaritycovariance
 	url = https://github.com/cran/lacunaritycovariance
+[submodule "lacunr"]
+	path = lacunr
+	url = https://github.com/cran/lacunr
 [submodule "laeken"]
 	path = laeken
 	url = https://github.com/cran/laeken
@@ -53483,6 +53489,9 @@
 [submodule "saeMSPE"]
 	path = saeMSPE
 	url = https://github.com/cran/saeMSPE
+[submodule "saePseudo"]
+	path = saePseudo
+	url = https://github.com/cran/saePseudo
 [submodule "saeRobust"]
 	path = saeRobust
 	url = https://github.com/cran/saeRobust
@@ -61817,6 +61826,9 @@
 [submodule "vitae"]
 	path = vitae
 	url = https://github.com/cran/vitae
+[submodule "vital"]
+	path = vital
+	url = https://github.com/cran/vital
 [submodule "vitality"]
 	path = vitality
 	url = https://github.com/cran/vitality
