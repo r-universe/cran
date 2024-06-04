@@ -1652,6 +1652,9 @@
 [submodule "BinaryEMVS"]
 	path = BinaryEMVS
 	url = https://github.com/cran/BinaryEMVS
+[submodule "BinaryEPPM"]
+	path = BinaryEPPM
+	url = https://github.com/cran/BinaryEPPM
 [submodule "BinarybalancedCut"]
 	path = BinarybalancedCut
 	url = https://github.com/cran/BinarybalancedCut
@@ -36200,6 +36203,9 @@
 [submodule "hysteresis"]
 	path = hysteresis
 	url = https://github.com/cran/hysteresis
+[submodule "hytest"]
+	path = hytest
+	url = https://github.com/cran/hytest
 [submodule "i18n"]
 	path = i18n
 	url = https://github.com/cran/i18n
@@ -53795,6 +53801,9 @@
 [submodule "scCustomize"]
 	path = scCustomize
 	url = https://github.com/cran/scCustomize
+[submodule "scDECO"]
+	path = scDECO
+	url = https://github.com/cran/scDECO
 [submodule "scDHA"]
 	path = scDHA
 	url = https://github.com/cran/scDHA
@@ -58796,6 +58805,9 @@
 [submodule "tbd"]
 	path = tbd
 	url = https://github.com/cran/tbd
+[submodule "tbea"]
+	path = tbea
+	url = https://github.com/cran/tbea
 [submodule "tbl2xts"]
 	path = tbl2xts
 	url = https://github.com/cran/tbl2xts
