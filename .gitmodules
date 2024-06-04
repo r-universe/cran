@@ -2909,6 +2909,9 @@
 [submodule "CohortSurvival"]
 	path = CohortSurvival
 	url = https://github.com/cran/CohortSurvival
+[submodule "CohortSymmetry"]
+	path = CohortSymmetry
+	url = https://github.com/cran/CohortSymmetry
 [submodule "Coinprofile"]
 	path = Coinprofile
 	url = https://github.com/cran/Coinprofile
@@ -3674,6 +3677,9 @@
 [submodule "DNAmixturesLite"]
 	path = DNAmixturesLite
 	url = https://github.com/cran/DNAmixturesLite
+[submodule "DNAmotif"]
+	path = DNAmotif
+	url = https://github.com/cran/DNAmotif
 [submodule "DNAseqtest"]
 	path = DNAseqtest
 	url = https://github.com/cran/DNAseqtest
@@ -8534,6 +8540,9 @@
 [submodule "LaF"]
 	path = LaF
 	url = https://github.com/cran/LaF
+[submodule "LaMa"]
+	path = LaMa
+	url = https://github.com/cran/LaMa
 [submodule "LabApplStat"]
 	path = LabApplStat
 	url = https://github.com/cran/LabApplStat
@@ -12899,6 +12908,9 @@
 [submodule "RARfreq"]
 	path = RARfreq
 	url = https://github.com/cran/RARfreq
+[submodule "RARtrials"]
+	path = RARtrials
+	url = https://github.com/cran/RARtrials
 [submodule "RAT"]
 	path = RAT
 	url = https://github.com/cran/RAT
@@ -14060,6 +14072,9 @@
 [submodule "RandomForestsGLS"]
 	path = RandomForestsGLS
 	url = https://github.com/cran/RandomForestsGLS
+[submodule "RandomProjectionTest"]
+	path = RandomProjectionTest
+	url = https://github.com/cran/RandomProjectionTest
 [submodule "Randomuseragent"]
 	path = Randomuseragent
 	url = https://github.com/cran/Randomuseragent
@@ -20540,6 +20555,9 @@
 [submodule "autoshiny"]
 	path = autoshiny
 	url = https://github.com/cran/autoshiny
+[submodule "autostats"]
+	path = autostats
+	url = https://github.com/cran/autostats
 [submodule "autostsm"]
 	path = autostsm
 	url = https://github.com/cran/autostsm
@@ -20948,6 +20966,9 @@
 [submodule "bayesDccGarch"]
 	path = bayesDccGarch
 	url = https://github.com/cran/bayesDccGarch
+[submodule "bayesEO"]
+	path = bayesEO
+	url = https://github.com/cran/bayesEO
 [submodule "bayesGAM"]
 	path = bayesGAM
 	url = https://github.com/cran/bayesGAM
@@ -24458,6 +24479,9 @@
 [submodule "codetools"]
 	path = codetools
 	url = https://github.com/cran/codetools
+[submodule "codewhere"]
+	path = codewhere
+	url = https://github.com/cran/codewhere
 [submodule "codexcopd"]
 	path = codexcopd
 	url = https://github.com/cran/codexcopd
@@ -36602,6 +36626,9 @@
 [submodule "ijtiff"]
 	path = ijtiff
 	url = https://github.com/cran/ijtiff
+[submodule "ilabelled"]
+	path = ilabelled
+	url = https://github.com/cran/ilabelled
 [submodule "imabc"]
 	path = imabc
 	url = https://github.com/cran/imabc
@@ -40814,6 +40841,9 @@
 [submodule "mcr"]
 	path = mcr
 	url = https://github.com/cran/mcr
+[submodule "mcrPioda"]
+	path = mcrPioda
+	url = https://github.com/cran/mcrPioda
 [submodule "mcradds"]
 	path = mcradds
 	url = https://github.com/cran/mcradds
@@ -43883,9 +43913,6 @@
 [submodule "netassoc"]
 	path = netassoc
 	url = https://github.com/cran/netassoc
-[submodule "netchain"]
-	path = netchain
-	url = https://github.com/cran/netchain
 [submodule "netcmc"]
 	path = netcmc
 	url = https://github.com/cran/netcmc
@@ -45734,9 +45761,6 @@
 [submodule "outcomerate"]
 	path = outcomerate
 	url = https://github.com/cran/outcomerate
-[submodule "outerbase"]
-	path = outerbase
-	url = https://github.com/cran/outerbase
 [submodule "outlierensembles"]
 	path = outlierensembles
 	url = https://github.com/cran/outlierensembles
@@ -50858,9 +50882,6 @@
 [submodule "ready4"]
 	path = ready4
 	url = https://github.com/cran/ready4
-[submodule "readysignal"]
-	path = readysignal
-	url = https://github.com/cran/readysignal
 [submodule "realTimeloads"]
 	path = realTimeloads
 	url = https://github.com/cran/realTimeloads
@@ -53720,6 +53741,9 @@
 [submodule "sazedR"]
 	path = sazedR
 	url = https://github.com/cran/sazedR
+[submodule "sbd"]
+	path = sbd
+	url = https://github.com/cran/sbd
 [submodule "sbde"]
 	path = sbde
 	url = https://github.com/cran/sbde
@@ -56366,6 +56390,9 @@
 [submodule "spNNGP"]
 	path = spNNGP
 	url = https://github.com/cran/spNNGP
+[submodule "spNetwork"]
+	path = spNetwork
+	url = https://github.com/cran/spNetwork
 [submodule "spOccupancy"]
 	path = spOccupancy
 	url = https://github.com/cran/spOccupancy
@@ -61328,6 +61355,9 @@
 [submodule "valueEQ5D"]
 	path = valueEQ5D
 	url = https://github.com/cran/valueEQ5D
+[submodule "valueSetCompare"]
+	path = valueSetCompare
+	url = https://github.com/cran/valueSetCompare
 [submodule "valuemap"]
 	path = valuemap
 	url = https://github.com/cran/valuemap
