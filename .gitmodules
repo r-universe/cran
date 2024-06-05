@@ -191,6 +191,9 @@
 [submodule "ALEPlot"]
 	path = ALEPlot
 	url = https://github.com/cran/ALEPlot
+[submodule "ALFAM2"]
+	path = ALFAM2
+	url = https://github.com/cran/ALFAM2
 [submodule "ALS"]
 	path = ALS
 	url = https://github.com/cran/ALS
@@ -22901,6 +22904,9 @@
 [submodule "camtrapR"]
 	path = camtrapR
 	url = https://github.com/cran/camtrapR
+[submodule "camtrapdp"]
+	path = camtrapdp
+	url = https://github.com/cran/camtrapdp
 [submodule "canadamaps"]
 	path = canadamaps
 	url = https://github.com/cran/canadamaps
@@ -35381,18 +35387,12 @@
 [submodule "hdpca"]
 	path = hdpca
 	url = https://github.com/cran/hdpca
-[submodule "hdqr"]
-	path = hdqr
-	url = https://github.com/cran/hdqr
 [submodule "hdrcde"]
 	path = hdrcde
 	url = https://github.com/cran/hdrcde
 [submodule "hds"]
 	path = hds
 	url = https://github.com/cran/hds
-[submodule "hdsvm"]
-	path = hdsvm
-	url = https://github.com/cran/hdsvm
 [submodule "headliner"]
 	path = headliner
 	url = https://github.com/cran/headliner
@@ -38978,6 +38978,9 @@
 [submodule "lehdr"]
 	path = lehdr
 	url = https://github.com/cran/lehdr
+[submodule "lehuynh"]
+	path = lehuynh
+	url = https://github.com/cran/lehuynh
 [submodule "leiden"]
 	path = leiden
 	url = https://github.com/cran/leiden
