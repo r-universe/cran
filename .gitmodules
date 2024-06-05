@@ -18647,6 +18647,9 @@
 [submodule "XML"]
 	path = XML
 	url = https://github.com/cran/XML
+[submodule "XML2R"]
+	path = XML2R
+	url = https://github.com/cran/XML2R
 [submodule "XNomial"]
 	path = XNomial
 	url = https://github.com/cran/XNomial
