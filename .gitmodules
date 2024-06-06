@@ -11279,6 +11279,9 @@
 [submodule "Ostats"]
 	path = Ostats
 	url = https://github.com/cran/Ostats
+[submodule "OutliersLearn"]
+	path = OutliersLearn
+	url = https://github.com/cran/OutliersLearn
 [submodule "OutliersO3"]
 	path = OutliersO3
 	url = https://github.com/cran/OutliersO3
@@ -27080,6 +27083,9 @@
 [submodule "denguedatahub"]
 	path = denguedatahub
 	url = https://github.com/cran/denguedatahub
+[submodule "denim"]
+	path = denim
+	url = https://github.com/cran/denim
 [submodule "denoiSeq"]
 	path = denoiSeq
 	url = https://github.com/cran/denoiSeq
@@ -29591,6 +29597,9 @@
 [submodule "epiworldR"]
 	path = epiworldR
 	url = https://github.com/cran/epiworldR
+[submodule "epiworldRShiny"]
+	path = epiworldRShiny
+	url = https://github.com/cran/epiworldRShiny
 [submodule "eplusr"]
 	path = eplusr
 	url = https://github.com/cran/eplusr
@@ -33353,6 +33362,9 @@
 [submodule "ggarchery"]
 	path = ggarchery
 	url = https://github.com/cran/ggarchery
+[submodule "ggarrow"]
+	path = ggarrow
+	url = https://github.com/cran/ggarrow
 [submodule "ggautomap"]
 	path = ggautomap
 	url = https://github.com/cran/ggautomap
@@ -35387,12 +35399,18 @@
 [submodule "hdpca"]
 	path = hdpca
 	url = https://github.com/cran/hdpca
+[submodule "hdqr"]
+	path = hdqr
+	url = https://github.com/cran/hdqr
 [submodule "hdrcde"]
 	path = hdrcde
 	url = https://github.com/cran/hdrcde
 [submodule "hds"]
 	path = hds
 	url = https://github.com/cran/hds
+[submodule "hdsvm"]
+	path = hdsvm
+	url = https://github.com/cran/hdsvm
 [submodule "headliner"]
 	path = headliner
 	url = https://github.com/cran/headliner
@@ -46301,6 +46319,9 @@
 [submodule "password"]
 	path = password
 	url = https://github.com/cran/password
+[submodule "pastaPlot"]
+	path = pastaPlot
+	url = https://github.com/cran/pastaPlot
 [submodule "pastclim"]
 	path = pastclim
 	url = https://github.com/cran/pastclim
@@ -48590,6 +48611,9 @@
 [submodule "processx"]
 	path = processx
 	url = https://github.com/cran/processx
+[submodule "proclhmm"]
+	path = proclhmm
+	url = https://github.com/cran/proclhmm
 [submodule "procmaps"]
 	path = procmaps
 	url = https://github.com/cran/procmaps
