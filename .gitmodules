@@ -1682,6 +1682,9 @@
 [submodule "BioPETsurv"]
 	path = BioPETsurv
 	url = https://github.com/cran/BioPETsurv
+[submodule "BioPred"]
+	path = BioPred
+	url = https://github.com/cran/BioPred
 [submodule "BioProbability"]
 	path = BioProbability
 	url = https://github.com/cran/BioProbability
@@ -2843,6 +2846,9 @@
 [submodule "ClusterStability"]
 	path = ClusterStability
 	url = https://github.com/cran/ClusterStability
+[submodule "ClusterVAR"]
+	path = ClusterVAR
+	url = https://github.com/cran/ClusterVAR
 [submodule "ClusteredMutations"]
 	path = ClusteredMutations
 	url = https://github.com/cran/ClusteredMutations
@@ -7715,6 +7721,9 @@
 [submodule "IndexWizard"]
 	path = IndexWizard
 	url = https://github.com/cran/IndexWizard
+[submodule "Indicator"]
+	path = Indicator
+	url = https://github.com/cran/Indicator
 [submodule "InferenceSMR"]
 	path = InferenceSMR
 	url = https://github.com/cran/InferenceSMR
@@ -9104,6 +9113,9 @@
 [submodule "MEDseq"]
 	path = MEDseq
 	url = https://github.com/cran/MEDseq
+[submodule "MEFM"]
+	path = MEFM
+	url = https://github.com/cran/MEFM
 [submodule "MEGENA"]
 	path = MEGENA
 	url = https://github.com/cran/MEGENA
@@ -9269,6 +9281,9 @@
 [submodule "MLCM"]
 	path = MLCM
 	url = https://github.com/cran/MLCM
+[submodule "MLCOPULA"]
+	path = MLCOPULA
+	url = https://github.com/cran/MLCOPULA
 [submodule "MLDS"]
 	path = MLDS
 	url = https://github.com/cran/MLDS
@@ -9632,6 +9647,9 @@
 [submodule "MVA"]
 	path = MVA
 	url = https://github.com/cran/MVA
+[submodule "MVET"]
+	path = MVET
+	url = https://github.com/cran/MVET
 [submodule "MVLM"]
 	path = MVLM
 	url = https://github.com/cran/MVLM
@@ -36176,6 +36194,9 @@
 [submodule "hyfo"]
 	path = hyfo
 	url = https://github.com/cran/hyfo
+[submodule "hyper.fit"]
+	path = hyper.fit
+	url = https://github.com/cran/hyper.fit
 [submodule "hyper2"]
 	path = hyper2
 	url = https://github.com/cran/hyper2
@@ -36602,6 +36623,9 @@
 [submodule "ifctools"]
 	path = ifctools
 	url = https://github.com/cran/ifctools
+[submodule "ifo"]
+	path = ifo
+	url = https://github.com/cran/ifo
 [submodule "ifpd"]
 	path = ifpd
 	url = https://github.com/cran/ifpd
@@ -53027,6 +53051,9 @@
 [submodule "rsurface"]
 	path = rsurface
 	url = https://github.com/cran/rsurface
+[submodule "rsurv"]
+	path = rsurv
+	url = https://github.com/cran/rsurv
 [submodule "rsurveycto"]
 	path = rsurveycto
 	url = https://github.com/cran/rsurveycto
