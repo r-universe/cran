@@ -9914,6 +9914,9 @@
 [submodule "MetaCycle"]
 	path = MetaCycle
 	url = https://github.com/cran/MetaCycle
+[submodule "MetaHD"]
+	path = MetaHD
+	url = https://github.com/cran/MetaHD
 [submodule "MetaIntegration"]
 	path = MetaIntegration
 	url = https://github.com/cran/MetaIntegration
@@ -14117,6 +14120,9 @@
 [submodule "RankAggregator"]
 	path = RankAggregator
 	url = https://github.com/cran/RankAggregator
+[submodule "RankPCA"]
+	path = RankPCA
+	url = https://github.com/cran/RankPCA
 [submodule "RankResponse"]
 	path = RankResponse
 	url = https://github.com/cran/RankResponse
@@ -17186,6 +17192,9 @@
 [submodule "TBRDist"]
 	path = TBRDist
 	url = https://github.com/cran/TBRDist
+[submodule "TBox"]
+	path = TBox
+	url = https://github.com/cran/TBox
 [submodule "TCA"]
 	path = TCA
 	url = https://github.com/cran/TCA
@@ -17741,6 +17750,9 @@
 [submodule "Tides"]
 	path = Tides
 	url = https://github.com/cran/Tides
+[submodule "TidyConsultant"]
+	path = TidyConsultant
+	url = https://github.com/cran/TidyConsultant
 [submodule "TidyDensity"]
 	path = TidyDensity
 	url = https://github.com/cran/TidyDensity
@@ -19265,6 +19277,9 @@
 [submodule "adobeanalyticsr"]
 	path = adobeanalyticsr
 	url = https://github.com/cran/adobeanalyticsr
+[submodule "adoptr"]
+	path = adoptr
+	url = https://github.com/cran/adoptr
 [submodule "adproclus"]
 	path = adproclus
 	url = https://github.com/cran/adproclus
@@ -21386,6 +21401,9 @@
 [submodule "berryFunctions"]
 	path = berryFunctions
 	url = https://github.com/cran/berryFunctions
+[submodule "bespatial"]
+	path = bespatial
+	url = https://github.com/cran/bespatial
 [submodule "bestNormalize"]
 	path = bestNormalize
 	url = https://github.com/cran/bestNormalize
@@ -32285,6 +32303,9 @@
 [submodule "future.tests"]
 	path = future.tests
 	url = https://github.com/cran/future.tests
+[submodule "futureverse"]
+	path = futureverse
+	url = https://github.com/cran/futureverse
 [submodule "fuzzr"]
 	path = fuzzr
 	url = https://github.com/cran/fuzzr
@@ -44219,6 +44240,9 @@
 [submodule "nicheROVER"]
 	path = nicheROVER
 	url = https://github.com/cran/nicheROVER
+[submodule "nichetools"]
+	path = nichetools
+	url = https://github.com/cran/nichetools
 [submodule "nichevol"]
 	path = nichevol
 	url = https://github.com/cran/nichevol
@@ -49649,6 +49673,9 @@
 [submodule "quarto"]
 	path = quarto
 	url = https://github.com/cran/quarto
+[submodule "quaxnat"]
+	path = quaxnat
+	url = https://github.com/cran/quaxnat
 [submodule "queryparser"]
 	path = queryparser
 	url = https://github.com/cran/queryparser
@@ -62549,6 +62576,9 @@
 [submodule "wingen"]
 	path = wingen
 	url = https://github.com/cran/wingen
+[submodule "winputall"]
+	path = winputall
+	url = https://github.com/cran/winputall
 [submodule "wiqid"]
 	path = wiqid
 	url = https://github.com/cran/wiqid
