@@ -61451,9 +61451,6 @@
 [submodule "valr"]
 	path = valr
 	url = https://github.com/cran/valr
-[submodule "valse"]
-	path = valse
-	url = https://github.com/cran/valse
 [submodule "valueEQ5D"]
 	path = valueEQ5D
 	url = https://github.com/cran/valueEQ5D
