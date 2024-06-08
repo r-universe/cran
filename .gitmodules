@@ -56081,9 +56081,6 @@
 [submodule "smidm"]
 	path = smidm
 	url = https://github.com/cran/smidm
-[submodule "smile"]
-	path = smile
-	url = https://github.com/cran/smile
 [submodule "smirnov"]
 	path = smirnov
 	url = https://github.com/cran/smirnov
@@ -61451,6 +61448,9 @@
 [submodule "valr"]
 	path = valr
 	url = https://github.com/cran/valr
+[submodule "valse"]
+	path = valse
+	url = https://github.com/cran/valse
 [submodule "valueEQ5D"]
 	path = valueEQ5D
 	url = https://github.com/cran/valueEQ5D
