@@ -25973,6 +25973,9 @@
 [submodule "cryptorng"]
 	path = cryptorng
 	url = https://github.com/cran/cryptorng
+[submodule "cryptotrackr"]
+	path = cryptotrackr
+	url = https://github.com/cran/cryptotrackr
 [submodule "cryptoverse"]
 	path = cryptoverse
 	url = https://github.com/cran/cryptoverse
