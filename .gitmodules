@@ -7343,6 +7343,9 @@
 [submodule "ICglm"]
 	path = ICglm
 	url = https://github.com/cran/ICglm
+[submodule "ICompELM"]
+	path = ICompELM
+	url = https://github.com/cran/ICompELM
 [submodule "ICsurv"]
 	path = ICsurv
 	url = https://github.com/cran/ICsurv
@@ -12446,6 +12449,9 @@
 [submodule "PredictionR"]
 	path = PredictionR
 	url = https://github.com/cran/PredictionR
+[submodule "PredictorSelect"]
+	path = PredictorSelect
+	url = https://github.com/cran/PredictorSelect
 [submodule "PresenceAbsence"]
 	path = PresenceAbsence
 	url = https://github.com/cran/PresenceAbsence
@@ -20225,6 +20231,9 @@
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/cran/arrow
+[submodule "arrowheadr"]
+	path = arrowheadr
+	url = https://github.com/cran/arrowheadr
 [submodule "ars"]
 	path = ars
 	url = https://github.com/cran/ars
@@ -21212,6 +21221,9 @@
 [submodule "bcaboot"]
 	path = bcaboot
 	url = https://github.com/cran/bcaboot
+[submodule "bcc"]
+	path = bcc
+	url = https://github.com/cran/bcc
 [submodule "bccp"]
 	path = bccp
 	url = https://github.com/cran/bccp
@@ -35150,6 +35162,9 @@
 [submodule "gwrr"]
 	path = gwrr
 	url = https://github.com/cran/gwrr
+[submodule "gwzinbr"]
+	path = gwzinbr
+	url = https://github.com/cran/gwzinbr
 [submodule "gym"]
 	path = gym
 	url = https://github.com/cran/gym
@@ -36683,6 +36698,9 @@
 [submodule "igraphtosonia"]
 	path = igraphtosonia
 	url = https://github.com/cran/igraphtosonia
+[submodule "igraphwalshdata"]
+	path = igraphwalshdata
+	url = https://github.com/cran/igraphwalshdata
 [submodule "igrf"]
 	path = igrf
 	url = https://github.com/cran/igrf
@@ -38027,6 +38045,9 @@
 [submodule "jstable"]
 	path = jstable
 	url = https://github.com/cran/jstable
+[submodule "jstager"]
+	path = jstager
+	url = https://github.com/cran/jstager
 [submodule "jstor"]
 	path = jstor
 	url = https://github.com/cran/jstor
@@ -38663,6 +38684,9 @@
 [submodule "laketemps"]
 	path = laketemps
 	url = https://github.com/cran/laketemps
+[submodule "lakhesis"]
+	path = lakhesis
+	url = https://github.com/cran/lakhesis
 [submodule "lamW"]
 	path = lamW
 	url = https://github.com/cran/lamW
@@ -43832,6 +43856,9 @@
 [submodule "ncdf4.helpers"]
 	path = ncdf4.helpers
 	url = https://github.com/cran/ncdf4.helpers
+[submodule "ncdfCF"]
+	path = ncdfCF
+	url = https://github.com/cran/ncdfCF
 [submodule "ncdfgeom"]
 	path = ncdfgeom
 	url = https://github.com/cran/ncdfgeom
@@ -49376,6 +49403,9 @@
 [submodule "qkerntool"]
 	path = qkerntool
 	url = https://github.com/cran/qkerntool
+[submodule "qlcData"]
+	path = qlcData
+	url = https://github.com/cran/qlcData
 [submodule "qlcMatrix"]
 	path = qlcMatrix
 	url = https://github.com/cran/qlcMatrix
@@ -52964,6 +52994,9 @@
 [submodule "rsi"]
 	path = rsi
 	url = https://github.com/cran/rsi
+[submodule "rsides"]
+	path = rsides
+	url = https://github.com/cran/rsides
 [submodule "rsimsum"]
 	path = rsimsum
 	url = https://github.com/cran/rsimsum
