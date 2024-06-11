@@ -7853,9 +7853,6 @@
 [submodule "IsoCor"]
 	path = IsoCor
 	url = https://github.com/cran/IsoCor
-[submodule "IsoGene"]
-	path = IsoGene
-	url = https://github.com/cran/IsoGene
 [submodule "IsoMemo"]
 	path = IsoMemo
 	url = https://github.com/cran/IsoMemo
@@ -10868,9 +10865,6 @@
 [submodule "NonProbEst"]
 	path = NonProbEst
 	url = https://github.com/cran/NonProbEst
-[submodule "NonlinearRDD"]
-	path = NonlinearRDD
-	url = https://github.com/cran/NonlinearRDD
 [submodule "NonlinearTSA"]
 	path = NonlinearTSA
 	url = https://github.com/cran/NonlinearTSA
@@ -20354,24 +20348,6 @@
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/cran/assertions
-[submodule "assertive.base"]
-	path = assertive.base
-	url = https://github.com/cran/assertive.base
-[submodule "assertive.files"]
-	path = assertive.files
-	url = https://github.com/cran/assertive.files
-[submodule "assertive.matrices"]
-	path = assertive.matrices
-	url = https://github.com/cran/assertive.matrices
-[submodule "assertive.models"]
-	path = assertive.models
-	url = https://github.com/cran/assertive.models
-[submodule "assertive.numbers"]
-	path = assertive.numbers
-	url = https://github.com/cran/assertive.numbers
-[submodule "assertive.sets"]
-	path = assertive.sets
-	url = https://github.com/cran/assertive.sets
 [submodule "assertr"]
 	path = assertr
 	url = https://github.com/cran/assertr
@@ -24242,9 +24218,6 @@
 [submodule "clustAnalytics"]
 	path = clustAnalytics
 	url = https://github.com/cran/clustAnalytics
-[submodule "clustDRM"]
-	path = clustDRM
-	url = https://github.com/cran/clustDRM
 [submodule "clustEff"]
 	path = clustEff
 	url = https://github.com/cran/clustEff
@@ -27698,9 +27671,6 @@
 [submodule "discreteRV"]
 	path = discreteRV
 	url = https://github.com/cran/discreteRV
-[submodule "discretecdAlgorithm"]
-	path = discretecdAlgorithm
-	url = https://github.com/cran/discretecdAlgorithm
 [submodule "discretefit"]
 	path = discretefit
 	url = https://github.com/cran/discretefit
@@ -28346,9 +28316,6 @@
 [submodule "dsem"]
 	path = dsem
 	url = https://github.com/cran/dsem
-[submodule "dsfa"]
-	path = dsfa
-	url = https://github.com/cran/dsfa
 [submodule "dsims"]
 	path = dsims
 	url = https://github.com/cran/dsims
@@ -29138,9 +29105,6 @@
 [submodule "effsize"]
 	path = effsize
 	url = https://github.com/cran/effsize
-[submodule "efreadr"]
-	path = efreadr
-	url = https://github.com/cran/efreadr
 [submodule "ega"]
 	path = ega
 	url = https://github.com/cran/ega
@@ -29480,9 +29444,6 @@
 [submodule "ensr"]
 	path = ensr
 	url = https://github.com/cran/ensr
-[submodule "ensurer"]
-	path = ensurer
-	url = https://github.com/cran/ensurer
 [submodule "entropart"]
 	path = entropart
 	url = https://github.com/cran/entropart
@@ -40550,9 +40511,6 @@
 [submodule "marginalizedRisk"]
 	path = marginalizedRisk
 	url = https://github.com/cran/marginalizedRisk
-[submodule "margins"]
-	path = margins
-	url = https://github.com/cran/margins
 [submodule "marima"]
 	path = marima
 	url = https://github.com/cran/marima
@@ -41579,9 +41537,6 @@
 [submodule "mhtboot"]
 	path = mhtboot
 	url = https://github.com/cran/mhtboot
-[submodule "mhurdle"]
-	path = mhurdle
-	url = https://github.com/cran/mhurdle
 [submodule "mi"]
 	path = mi
 	url = https://github.com/cran/mi
@@ -54791,9 +54746,6 @@
 [submodule "sets"]
 	path = sets
 	url = https://github.com/cran/sets
-[submodule "setter"]
-	path = setter
-	url = https://github.com/cran/setter
 [submodule "settings"]
 	path = settings
 	url = https://github.com/cran/settings
@@ -56681,9 +56633,6 @@
 [submodule "sparseSVM"]
 	path = sparseSVM
 	url = https://github.com/cran/sparseSVM
-[submodule "sparsebnUtils"]
-	path = sparsebnUtils
-	url = https://github.com/cran/sparsebnUtils
 [submodule "sparsediscrim"]
 	path = sparsediscrim
 	url = https://github.com/cran/sparsediscrim
