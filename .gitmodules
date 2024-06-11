@@ -18161,6 +18161,9 @@
 [submodule "VAR.etp"]
 	path = VAR.etp
 	url = https://github.com/cran/VAR.etp
+[submodule "VAR.spec"]
+	path = VAR.spec
+	url = https://github.com/cran/VAR.spec
 [submodule "VARDetect"]
 	path = VARDetect
 	url = https://github.com/cran/VARDetect
@@ -21905,6 +21908,9 @@
 [submodule "birankr"]
 	path = birankr
 	url = https://github.com/cran/birankr
+[submodule "birdie"]
+	path = birdie
+	url = https://github.com/cran/birdie
 [submodule "birdring"]
 	path = birdring
 	url = https://github.com/cran/birdring
@@ -24638,6 +24644,9 @@
 [submodule "coloc"]
 	path = coloc
 	url = https://github.com/cran/coloc
+[submodule "colocPropTest"]
+	path = colocPropTest
+	url = https://github.com/cran/colocPropTest
 [submodule "colocalization"]
 	path = colocalization
 	url = https://github.com/cran/colocalization
@@ -40706,6 +40715,9 @@
 [submodule "mau"]
 	path = mau
 	url = https://github.com/cran/mau
+[submodule "mauricer"]
+	path = mauricer
+	url = https://github.com/cran/mauricer
 [submodule "maxLik"]
 	path = maxLik
 	url = https://github.com/cran/maxLik
@@ -48266,6 +48278,9 @@
 [submodule "ppgam"]
 	path = ppgam
 	url = https://github.com/cran/ppgam
+[submodule "ppgm"]
+	path = ppgm
+	url = https://github.com/cran/ppgm
 [submodule "ppgmmga"]
 	path = ppgmmga
 	url = https://github.com/cran/ppgmmga
