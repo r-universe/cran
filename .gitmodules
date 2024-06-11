@@ -16568,6 +16568,9 @@
 [submodule "SoilR"]
 	path = SoilR
 	url = https://github.com/cran/SoilR
+[submodule "SoilSaltIndex"]
+	path = SoilSaltIndex
+	url = https://github.com/cran/SoilSaltIndex
 [submodule "SoilTaxonomy"]
 	path = SoilTaxonomy
 	url = https://github.com/cran/SoilTaxonomy
@@ -23180,6 +23183,9 @@
 [submodule "catmaply"]
 	path = catmaply
 	url = https://github.com/cran/catmaply
+[submodule "catregs"]
+	path = catregs
+	url = https://github.com/cran/catregs
 [submodule "cats"]
 	path = cats
 	url = https://github.com/cran/cats
@@ -40928,6 +40934,9 @@
 [submodule "mcreplicate"]
 	path = mcreplicate
 	url = https://github.com/cran/mcreplicate
+[submodule "mcstatsim"]
+	path = mcstatsim
+	url = https://github.com/cran/mcstatsim
 [submodule "mctest"]
 	path = mctest
 	url = https://github.com/cran/mctest
@@ -44930,6 +44939,9 @@
 [submodule "numbat"]
 	path = numbat
 	url = https://github.com/cran/numbat
+[submodule "numberize"]
+	path = numberize
+	url = https://github.com/cran/numberize
 [submodule "numberofalleles"]
 	path = numberofalleles
 	url = https://github.com/cran/numberofalleles
