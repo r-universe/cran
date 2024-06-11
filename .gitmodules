@@ -43262,6 +43262,9 @@
 [submodule "multilevelTools"]
 	path = multilevelTools
 	url = https://github.com/cran/multilevelTools
+[submodule "multilevelcoda"]
+	path = multilevelcoda
+	url = https://github.com/cran/multilevelcoda
 [submodule "multilevelmediation"]
 	path = multilevelmediation
 	url = https://github.com/cran/multilevelmediation
