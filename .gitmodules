@@ -45524,6 +45524,9 @@
 [submodule "optextras"]
 	path = optextras
 	url = https://github.com/cran/optextras
+[submodule "optiSel"]
+	path = optiSel
+	url = https://github.com/cran/optiSel
 [submodule "optiSolve"]
 	path = optiSolve
 	url = https://github.com/cran/optiSolve
