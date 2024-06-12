@@ -11483,9 +11483,6 @@
 [submodule "PDShiny"]
 	path = PDShiny
 	url = https://github.com/cran/PDShiny
-[submodule "PDXpower"]
-	path = PDXpower
-	url = https://github.com/cran/PDXpower
 [submodule "PDtoolkit"]
 	path = PDtoolkit
 	url = https://github.com/cran/PDtoolkit
@@ -31940,9 +31937,6 @@
 [submodule "frailtySurv"]
 	path = frailtySurv
 	url = https://github.com/cran/frailtySurv
-[submodule "frailtypack"]
-	path = frailtypack
-	url = https://github.com/cran/frailtypack
 [submodule "frair"]
 	path = frair
 	url = https://github.com/cran/frair
