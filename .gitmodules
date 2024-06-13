@@ -17084,6 +17084,9 @@
 [submodule "SurveyCC"]
 	path = SurveyCC
 	url = https://github.com/cran/SurveyCC
+[submodule "SurveyDefense"]
+	path = SurveyDefense
+	url = https://github.com/cran/SurveyDefense
 [submodule "SurviMChd"]
 	path = SurviMChd
 	url = https://github.com/cran/SurviMChd
