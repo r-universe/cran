@@ -15134,6 +15134,9 @@
 [submodule "Rsymphony"]
 	path = Rsymphony
 	url = https://github.com/cran/Rsymphony
+[submodule "Rtapas"]
+	path = Rtapas
+	url = https://github.com/cran/Rtapas
 [submodule "Rtauchen"]
 	path = Rtauchen
 	url = https://github.com/cran/Rtauchen
@@ -36275,9 +36278,6 @@
 [submodule "iBreakDown"]
 	path = iBreakDown
 	url = https://github.com/cran/iBreakDown
-[submodule "iC10"]
-	path = iC10
-	url = https://github.com/cran/iC10
 [submodule "iC10TrainingData"]
 	path = iC10TrainingData
 	url = https://github.com/cran/iC10TrainingData
