@@ -18332,6 +18332,9 @@
 [submodule "VertexSimilarity"]
 	path = VertexSimilarity
 	url = https://github.com/cran/VertexSimilarity
+[submodule "VertexWiseR"]
+	path = VertexWiseR
+	url = https://github.com/cran/VertexWiseR
 [submodule "VeryLargeIntegers"]
 	path = VeryLargeIntegers
 	url = https://github.com/cran/VeryLargeIntegers
@@ -26162,6 +26165,9 @@
 [submodule "cumstats"]
 	path = cumstats
 	url = https://github.com/cran/cumstats
+[submodule "cumulcalib"]
+	path = cumulcalib
+	url = https://github.com/cran/cumulcalib
 [submodule "cumulocityr"]
 	path = cumulocityr
 	url = https://github.com/cran/cumulocityr
@@ -26582,6 +26588,9 @@
 [submodule "datadogr"]
 	path = datadogr
 	url = https://github.com/cran/datadogr
+[submodule "datadriftR"]
+	path = datadriftR
+	url = https://github.com/cran/datadriftR
 [submodule "dataframeexplorer"]
 	path = dataframeexplorer
 	url = https://github.com/cran/dataframeexplorer
@@ -46610,6 +46619,9 @@
 [submodule "pchc"]
 	path = pchc
 	url = https://github.com/cran/pchc
+[submodule "pci"]
+	path = pci
+	url = https://github.com/cran/pci
 [submodule "pcmabc"]
 	path = pcmabc
 	url = https://github.com/cran/pcmabc
@@ -53705,6 +53717,9 @@
 [submodule "samplingin"]
 	path = samplingin
 	url = https://github.com/cran/samplingin
+[submodule "samplrData"]
+	path = samplrData
+	url = https://github.com/cran/samplrData
 [submodule "sampsizeval"]
 	path = sampsizeval
 	url = https://github.com/cran/sampsizeval
@@ -53894,6 +53909,9 @@
 [submodule "scBio"]
 	path = scBio
 	url = https://github.com/cran/scBio
+[submodule "scCAN"]
+	path = scCAN
+	url = https://github.com/cran/scCAN
 [submodule "scCATCH"]
 	path = scCATCH
 	url = https://github.com/cran/scCATCH
@@ -58628,6 +58646,9 @@
 [submodule "synthesisr"]
 	path = synthesisr
 	url = https://github.com/cran/synthesisr
+[submodule "synthesizer"]
+	path = synthesizer
+	url = https://github.com/cran/synthesizer
 [submodule "synthpop"]
 	path = synthpop
 	url = https://github.com/cran/synthpop
