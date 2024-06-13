@@ -35372,6 +35372,9 @@
 [submodule "hdcate"]
 	path = hdcate
 	url = https://github.com/cran/hdcate
+[submodule "hdcuremodels"]
+	path = hdcuremodels
+	url = https://github.com/cran/hdcuremodels
 [submodule "hdd"]
 	path = hdd
 	url = https://github.com/cran/hdd
@@ -40508,6 +40511,9 @@
 [submodule "marginalizedRisk"]
 	path = marginalizedRisk
 	url = https://github.com/cran/marginalizedRisk
+[submodule "margins"]
+	path = margins
+	url = https://github.com/cran/margins
 [submodule "marima"]
 	path = marima
 	url = https://github.com/cran/marima
@@ -54755,6 +54761,9 @@
 [submodule "settings"]
 	path = settings
 	url = https://github.com/cran/settings
+[submodule "settingsSync"]
+	path = settingsSync
+	url = https://github.com/cran/settingsSync
 [submodule "sevenbridges2"]
 	path = sevenbridges2
 	url = https://github.com/cran/sevenbridges2
