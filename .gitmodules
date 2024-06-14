@@ -5447,9 +5447,6 @@
 [submodule "FSelectorRcpp"]
 	path = FSelectorRcpp
 	url = https://github.com/cran/FSelectorRcpp
-[submodule "FSinR"]
-	path = FSinR
-	url = https://github.com/cran/FSinR
 [submodule "FUNTA"]
 	path = FUNTA
 	url = https://github.com/cran/FUNTA
@@ -10646,6 +10643,9 @@
 [submodule "NPP"]
 	path = NPP
 	url = https://github.com/cran/NPP
+[submodule "NPRED"]
+	path = NPRED
+	url = https://github.com/cran/NPRED
 [submodule "NPflow"]
 	path = NPflow
 	url = https://github.com/cran/NPflow
@@ -10922,6 +10922,9 @@
 [submodule "OBRE"]
 	path = OBRE
 	url = https://github.com/cran/OBRE
+[submodule "OBsMD"]
+	path = OBsMD
+	url = https://github.com/cran/OBsMD
 [submodule "OCA"]
 	path = OCA
 	url = https://github.com/cran/OCA
@@ -16964,9 +16967,6 @@
 [submodule "StrucDiv"]
 	path = StrucDiv
 	url = https://github.com/cran/StrucDiv
-[submodule "StructFDR"]
-	path = StructFDR
-	url = https://github.com/cran/StructFDR
 [submodule "StructuralDecompose"]
 	path = StructuralDecompose
 	url = https://github.com/cran/StructuralDecompose
@@ -19556,9 +19556,6 @@
 [submodule "albopictus"]
 	path = albopictus
 	url = https://github.com/cran/albopictus
-[submodule "alcyon"]
-	path = alcyon
-	url = https://github.com/cran/alcyon
 [submodule "ald"]
 	path = ald
 	url = https://github.com/cran/ald
@@ -21554,9 +21551,6 @@
 [submodule "biclustermd"]
 	path = biclustermd
 	url = https://github.com/cran/biclustermd
-[submodule "bidask"]
-	path = bidask
-	url = https://github.com/cran/bidask
 [submodule "bife"]
 	path = bife
 	url = https://github.com/cran/bife
@@ -21617,6 +21611,9 @@
 [submodule "biglm"]
 	path = biglm
 	url = https://github.com/cran/biglm
+[submodule "biglmm"]
+	path = biglmm
+	url = https://github.com/cran/biglmm
 [submodule "bigmatch"]
 	path = bigmatch
 	url = https://github.com/cran/bigmatch
@@ -29447,9 +29444,6 @@
 [submodule "ensembleMOS"]
 	path = ensembleMOS
 	url = https://github.com/cran/ensembleMOS
-[submodule "ensembleR"]
-	path = ensembleR
-	url = https://github.com/cran/ensembleR
 [submodule "ensembleTax"]
 	path = ensembleTax
 	url = https://github.com/cran/ensembleTax
@@ -36287,6 +36281,9 @@
 [submodule "iBreakDown"]
 	path = iBreakDown
 	url = https://github.com/cran/iBreakDown
+[submodule "iC10"]
+	path = iC10
+	url = https://github.com/cran/iC10
 [submodule "iC10TrainingData"]
 	path = iC10TrainingData
 	url = https://github.com/cran/iC10TrainingData
@@ -39224,9 +39221,6 @@
 [submodule "lifx"]
 	path = lifx
 	url = https://github.com/cran/lifx
-[submodule "liger"]
-	path = liger
-	url = https://github.com/cran/liger
 [submodule "lightgbm"]
 	path = lightgbm
 	url = https://github.com/cran/lightgbm
@@ -42362,6 +42356,9 @@
 [submodule "mmeln"]
 	path = mmeln
 	url = https://github.com/cran/mmeln
+[submodule "mmeta"]
+	path = mmeta
+	url = https://github.com/cran/mmeta
 [submodule "mmiCATs"]
 	path = mmiCATs
 	url = https://github.com/cran/mmiCATs
@@ -51431,6 +51428,9 @@
 [submodule "repana"]
 	path = repana
 	url = https://github.com/cran/repana
+[submodule "repeated"]
+	path = repeated
+	url = https://github.com/cran/repeated
 [submodule "repec"]
 	path = repec
 	url = https://github.com/cran/repec
@@ -54164,9 +54164,6 @@
 [submodule "scorecardModelUtils"]
 	path = scorecardModelUtils
 	url = https://github.com/cran/scorecardModelUtils
-[submodule "scorematchingad"]
-	path = scorematchingad
-	url = https://github.com/cran/scorematchingad
 [submodule "scorepeak"]
 	path = scorepeak
 	url = https://github.com/cran/scorepeak
@@ -56108,6 +56105,9 @@
 [submodule "smidm"]
 	path = smidm
 	url = https://github.com/cran/smidm
+[submodule "smile"]
+	path = smile
+	url = https://github.com/cran/smile
 [submodule "smirnov"]
 	path = smirnov
 	url = https://github.com/cran/smirnov
