@@ -12107,6 +12107,9 @@
 [submodule "PerFit"]
 	path = PerFit
 	url = https://github.com/cran/PerFit
+[submodule "PerMat"]
+	path = PerMat
+	url = https://github.com/cran/PerMat
 [submodule "Perc"]
 	path = Perc
 	url = https://github.com/cran/Perc
@@ -13754,6 +13757,9 @@
 [submodule "RPostgres"]
 	path = RPostgres
 	url = https://github.com/cran/RPostgres
+[submodule "RPregression"]
+	path = RPregression
+	url = https://github.com/cran/RPregression
 [submodule "RPresto"]
 	path = RPresto
 	url = https://github.com/cran/RPresto
