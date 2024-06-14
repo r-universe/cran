@@ -2189,6 +2189,9 @@
 [submodule "CITAN"]
 	path = CITAN
 	url = https://github.com/cran/CITAN
+[submodule "CITMIC"]
+	path = CITMIC
+	url = https://github.com/cran/CITMIC
 [submodule "CIfinder"]
 	path = CIfinder
 	url = https://github.com/cran/CIfinder
