@@ -8834,6 +8834,9 @@
 [submodule "M2SMJF"]
 	path = M2SMJF
 	url = https://github.com/cran/M2SMJF
+[submodule "M3"]
+	path = M3
+	url = https://github.com/cran/M3
 [submodule "M3JF"]
 	path = M3JF
 	url = https://github.com/cran/M3JF
@@ -29147,6 +29150,9 @@
 [submodule "ehelp"]
 	path = ehelp
 	url = https://github.com/cran/ehelp
+[submodule "ehymet"]
+	path = ehymet
+	url = https://github.com/cran/ehymet
 [submodule "ei"]
 	path = ei
 	url = https://github.com/cran/ei
@@ -46205,6 +46211,9 @@
 [submodule "parSim"]
 	path = parSim
 	url = https://github.com/cran/parSim
+[submodule "parTimeROC"]
+	path = parTimeROC
+	url = https://github.com/cran/parTimeROC
 [submodule "parabar"]
 	path = parabar
 	url = https://github.com/cran/parabar
@@ -52007,6 +52016,9 @@
 [submodule "rioja"]
 	path = rioja
 	url = https://github.com/cran/rioja
+[submodule "rioplot"]
+	path = rioplot
+	url = https://github.com/cran/rioplot
 [submodule "ripc"]
 	path = ripc
 	url = https://github.com/cran/ripc
@@ -54089,6 +54101,9 @@
 [submodule "scgwr"]
 	path = scgwr
 	url = https://github.com/cran/scgwr
+[submodule "sched"]
+	path = sched
+	url = https://github.com/cran/sched
 [submodule "schemr"]
 	path = schemr
 	url = https://github.com/cran/schemr
