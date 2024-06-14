@@ -43949,9 +43949,6 @@
 [submodule "neonstore"]
 	path = neonstore
 	url = https://github.com/cran/neonstore
-[submodule "neotoma2"]
-	path = neotoma2
-	url = https://github.com/cran/neotoma2
 [submodule "nephro"]
 	path = nephro
 	url = https://github.com/cran/nephro
