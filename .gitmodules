@@ -5450,6 +5450,9 @@
 [submodule "FSelectorRcpp"]
 	path = FSelectorRcpp
 	url = https://github.com/cran/FSelectorRcpp
+[submodule "FSinR"]
+	path = FSinR
+	url = https://github.com/cran/FSinR
 [submodule "FUNTA"]
 	path = FUNTA
 	url = https://github.com/cran/FUNTA
@@ -16979,6 +16982,9 @@
 [submodule "StrucDiv"]
 	path = StrucDiv
 	url = https://github.com/cran/StrucDiv
+[submodule "StructFDR"]
+	path = StructFDR
+	url = https://github.com/cran/StructFDR
 [submodule "StructuralDecompose"]
 	path = StructuralDecompose
 	url = https://github.com/cran/StructuralDecompose
@@ -19568,6 +19574,9 @@
 [submodule "albopictus"]
 	path = albopictus
 	url = https://github.com/cran/albopictus
+[submodule "alcyon"]
+	path = alcyon
+	url = https://github.com/cran/alcyon
 [submodule "ald"]
 	path = ald
 	url = https://github.com/cran/ald
@@ -21563,6 +21572,9 @@
 [submodule "biclustermd"]
 	path = biclustermd
 	url = https://github.com/cran/biclustermd
+[submodule "bidask"]
+	path = bidask
+	url = https://github.com/cran/bidask
 [submodule "bife"]
 	path = bife
 	url = https://github.com/cran/bife
@@ -29459,6 +29471,9 @@
 [submodule "ensembleMOS"]
 	path = ensembleMOS
 	url = https://github.com/cran/ensembleMOS
+[submodule "ensembleR"]
+	path = ensembleR
+	url = https://github.com/cran/ensembleR
 [submodule "ensembleTax"]
 	path = ensembleTax
 	url = https://github.com/cran/ensembleTax
@@ -39236,6 +39251,9 @@
 [submodule "lifx"]
 	path = lifx
 	url = https://github.com/cran/lifx
+[submodule "liger"]
+	path = liger
+	url = https://github.com/cran/liger
 [submodule "lightgbm"]
 	path = lightgbm
 	url = https://github.com/cran/lightgbm
@@ -41480,6 +41498,9 @@
 [submodule "mev"]
 	path = mev
 	url = https://github.com/cran/mev
+[submodule "mevr"]
+	path = mevr
+	url = https://github.com/cran/mevr
 [submodule "mewAvg"]
 	path = mewAvg
 	url = https://github.com/cran/mewAvg
@@ -43958,6 +43979,9 @@
 [submodule "neonstore"]
 	path = neonstore
 	url = https://github.com/cran/neonstore
+[submodule "neotoma2"]
+	path = neotoma2
+	url = https://github.com/cran/neotoma2
 [submodule "nephro"]
 	path = nephro
 	url = https://github.com/cran/nephro
@@ -51632,9 +51656,6 @@
 [submodule "restoptr"]
 	path = restoptr
 	url = https://github.com/cran/restoptr
-[submodule "restorepoint"]
-	path = restorepoint
-	url = https://github.com/cran/restorepoint
 [submodule "restriktor"]
 	path = restriktor
 	url = https://github.com/cran/restriktor
@@ -54185,6 +54206,9 @@
 [submodule "scorecardModelUtils"]
 	path = scorecardModelUtils
 	url = https://github.com/cran/scorecardModelUtils
+[submodule "scorematchingad"]
+	path = scorematchingad
+	url = https://github.com/cran/scorematchingad
 [submodule "scorepeak"]
 	path = scorepeak
 	url = https://github.com/cran/scorepeak
@@ -59075,6 +59099,9 @@
 [submodule "telemetR"]
 	path = telemetR
 	url = https://github.com/cran/telemetR
+[submodule "telescope"]
+	path = telescope
+	url = https://github.com/cran/telescope
 [submodule "telraamStats"]
 	path = telraamStats
 	url = https://github.com/cran/telraamStats
