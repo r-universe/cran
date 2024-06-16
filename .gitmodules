@@ -659,6 +659,9 @@
 [submodule "ArDec"]
 	path = ArDec
 	url = https://github.com/cran/ArDec
+[submodule "ArchaeoPhases"]
+	path = ArchaeoPhases
+	url = https://github.com/cran/ArchaeoPhases
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
@@ -1301,6 +1304,9 @@
 [submodule "BatchJobs"]
 	path = BatchJobs
 	url = https://github.com/cran/BatchJobs
+[submodule "BayLum"]
+	path = BayLum
+	url = https://github.com/cran/BayLum
 [submodule "Bayenet"]
 	path = Bayenet
 	url = https://github.com/cran/Bayenet
@@ -4562,9 +4568,6 @@
 [submodule "EMAS"]
 	path = EMAS
 	url = https://github.com/cran/EMAS
-[submodule "EMAtools"]
-	path = EMAtools
-	url = https://github.com/cran/EMAtools
 [submodule "EMCluster"]
 	path = EMCluster
 	url = https://github.com/cran/EMCluster
@@ -16463,9 +16466,6 @@
 [submodule "SimVitD"]
 	path = SimVitD
 	url = https://github.com/cran/SimVitD
-[submodule "SimilaR"]
-	path = SimilaR
-	url = https://github.com/cran/SimilaR
 [submodule "SimilarityMeasures"]
 	path = SimilarityMeasures
 	url = https://github.com/cran/SimilarityMeasures
@@ -33905,6 +33905,9 @@
 [submodule "ggtibble"]
 	path = ggtibble
 	url = https://github.com/cran/ggtibble
+[submodule "ggtikz"]
+	path = ggtikz
+	url = https://github.com/cran/ggtikz
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/cran/ggtrace
@@ -61211,9 +61214,6 @@
 [submodule "uniset"]
 	path = uniset
 	url = https://github.com/cran/uniset
-[submodule "uniswappeR"]
-	path = uniswappeR
-	url = https://github.com/cran/uniswappeR
 [submodule "unitedR"]
 	path = unitedR
 	url = https://github.com/cran/unitedR
