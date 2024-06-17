@@ -41594,6 +41594,9 @@
 [submodule "mhtboot"]
 	path = mhtboot
 	url = https://github.com/cran/mhtboot
+[submodule "mhurdle"]
+	path = mhurdle
+	url = https://github.com/cran/mhurdle
 [submodule "mi"]
 	path = mi
 	url = https://github.com/cran/mi
