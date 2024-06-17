@@ -19211,6 +19211,9 @@
 [submodule "adehabitatMA"]
 	path = adehabitatMA
 	url = https://github.com/cran/adehabitatMA
+[submodule "adelie"]
+	path = adelie
+	url = https://github.com/cran/adelie
 [submodule "adephylo"]
 	path = adephylo
 	url = https://github.com/cran/adephylo
@@ -22235,6 +22238,9 @@
 [submodule "bonsai"]
 	path = bonsai
 	url = https://github.com/cran/bonsai
+[submodule "bonsaiforest"]
+	path = bonsaiforest
+	url = https://github.com/cran/bonsaiforest
 [submodule "boodist"]
 	path = boodist
 	url = https://github.com/cran/boodist
@@ -24044,6 +24050,9 @@
 [submodule "cleandata"]
 	path = cleandata
 	url = https://github.com/cran/cleandata
+[submodule "cleanepi"]
+	path = cleanepi
+	url = https://github.com/cran/cleanepi
 [submodule "cleaner"]
 	path = cleaner
 	url = https://github.com/cran/cleaner
@@ -24218,6 +24227,9 @@
 [submodule "clr"]
 	path = clr
 	url = https://github.com/cran/clr
+[submodule "clrng"]
+	path = clrng
+	url = https://github.com/cran/clrng
 [submodule "clttools"]
 	path = clttools
 	url = https://github.com/cran/clttools
@@ -30389,6 +30401,9 @@
 [submodule "fBonds"]
 	path = fBonds
 	url = https://github.com/cran/fBonds
+[submodule "fCWTr"]
+	path = fCWTr
+	url = https://github.com/cran/fCWTr
 [submodule "fCopulae"]
 	path = fCopulae
 	url = https://github.com/cran/fCopulae
@@ -33140,6 +33155,9 @@
 [submodule "geometry"]
 	path = geometry
 	url = https://github.com/cran/geometry
+[submodule "geommc"]
+	path = geommc
+	url = https://github.com/cran/geommc
 [submodule "geomod"]
 	path = geomod
 	url = https://github.com/cran/geomod
@@ -61133,12 +61151,18 @@
 [submodule "ukpolice"]
 	path = ukpolice
 	url = https://github.com/cran/ukpolice
+[submodule "ulex"]
+	path = ulex
+	url = https://github.com/cran/ulex
 [submodule "ulid"]
 	path = ulid
 	url = https://github.com/cran/ulid
 [submodule "ulrb"]
 	path = ulrb
 	url = https://github.com/cran/ulrb
+[submodule "ultrapolaRplot"]
+	path = ultrapolaRplot
+	url = https://github.com/cran/ultrapolaRplot
 [submodule "umap"]
 	path = umap
 	url = https://github.com/cran/umap
