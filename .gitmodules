@@ -3590,6 +3590,9 @@
 [submodule "DICOMread"]
 	path = DICOMread
 	url = https://github.com/cran/DICOMread
+[submodule "DIDHAD"]
+	path = DIDHAD
+	url = https://github.com/cran/DIDHAD
 [submodule "DIDmultiplegt"]
 	path = DIDmultiplegt
 	url = https://github.com/cran/DIDmultiplegt
