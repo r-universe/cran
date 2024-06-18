@@ -4037,6 +4037,9 @@
 [submodule "DeductiveR"]
 	path = DeductiveR
 	url = https://github.com/cran/DeductiveR
+[submodule "DeepLearningCausal"]
+	path = DeepLearningCausal
+	url = https://github.com/cran/DeepLearningCausal
 [submodule "Delaporte"]
 	path = Delaporte
 	url = https://github.com/cran/Delaporte
@@ -13847,6 +13850,9 @@
 [submodule "RSAGA"]
 	path = RSAGA
 	url = https://github.com/cran/RSAGA
+[submodule "RSAtools"]
+	path = RSAtools
+	url = https://github.com/cran/RSAtools
 [submodule "RSBJson"]
 	path = RSBJson
 	url = https://github.com/cran/RSBJson
@@ -21356,6 +21362,9 @@
 [submodule "bedr"]
 	path = bedr
 	url = https://github.com/cran/bedr
+[submodule "beeca"]
+	path = beeca
+	url = https://github.com/cran/beeca
 [submodule "beepr"]
 	path = beepr
 	url = https://github.com/cran/beepr
@@ -23963,6 +23972,9 @@
 [submodule "ciu"]
 	path = ciu
 	url = https://github.com/cran/ciu
+[submodule "ciuupi"]
+	path = ciuupi
+	url = https://github.com/cran/ciuupi
 [submodule "ciuupi2"]
 	path = ciuupi2
 	url = https://github.com/cran/ciuupi2
@@ -28751,6 +28763,9 @@
 [submodule "easyNCDF"]
 	path = easyNCDF
 	url = https://github.com/cran/easyNCDF
+[submodule "easyORtables"]
+	path = easyORtables
+	url = https://github.com/cran/easyORtables
 [submodule "easyPSID"]
 	path = easyPSID
 	url = https://github.com/cran/easyPSID
@@ -34322,6 +34337,9 @@
 [submodule "gmapsdistance"]
 	path = gmapsdistance
 	url = https://github.com/cran/gmapsdistance
+[submodule "gmfamm"]
+	path = gmfamm
+	url = https://github.com/cran/gmfamm
 [submodule "gmfd"]
 	path = gmfd
 	url = https://github.com/cran/gmfd
@@ -41720,6 +41738,9 @@
 [submodule "microcontax"]
 	path = microcontax
 	url = https://github.com/cran/microcontax
+[submodule "microdatasus"]
+	path = microdatasus
+	url = https://github.com/cran/microdatasus
 [submodule "microdiluteR"]
 	path = microdiluteR
 	url = https://github.com/cran/microdiluteR
@@ -47771,6 +47792,9 @@
 [submodule "plotmo"]
 	path = plotmo
 	url = https://github.com/cran/plotmo
+[submodule "plotor"]
+	path = plotor
+	url = https://github.com/cran/plotor
 [submodule "plotpc"]
 	path = plotpc
 	url = https://github.com/cran/plotpc
@@ -51209,6 +51233,9 @@
 [submodule "redistmetrics"]
 	path = redistmetrics
 	url = https://github.com/cran/redistmetrics
+[submodule "redistverse"]
+	path = redistverse
+	url = https://github.com/cran/redistverse
 [submodule "redland"]
 	path = redland
 	url = https://github.com/cran/redland
@@ -56936,6 +56963,9 @@
 [submodule "spdynmod"]
 	path = spdynmod
 	url = https://github.com/cran/spdynmod
+[submodule "speakeasyR"]
+	path = speakeasyR
+	url = https://github.com/cran/speakeasyR
 [submodule "speakr"]
 	path = speakr
 	url = https://github.com/cran/speakr
@@ -62756,6 +62786,9 @@
 [submodule "wordler"]
 	path = wordler
 	url = https://github.com/cran/wordler
+[submodule "wordmap"]
+	path = wordmap
+	url = https://github.com/cran/wordmap
 [submodule "wordnet"]
 	path = wordnet
 	url = https://github.com/cran/wordnet
