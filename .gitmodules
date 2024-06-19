@@ -48002,6 +48002,9 @@
 [submodule "portvine"]
 	path = portvine
 	url = https://github.com/cran/portvine
+[submodule "poset"]
+	path = poset
+	url = https://github.com/cran/poset
 [submodule "posologyr"]
 	path = posologyr
 	url = https://github.com/cran/posologyr
