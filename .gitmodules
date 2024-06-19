@@ -434,6 +434,9 @@
 [submodule "ActFrag"]
 	path = ActFrag
 	url = https://github.com/cran/ActFrag
+[submodule "ActiSleep"]
+	path = ActiSleep
+	url = https://github.com/cran/ActiSleep
 [submodule "ActiveDriver"]
 	path = ActiveDriver
 	url = https://github.com/cran/ActiveDriver
