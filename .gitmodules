@@ -56651,9 +56651,6 @@
 [submodule "spdynmod"]
 	path = spdynmod
 	url = https://github.com/cran/spdynmod
-[submodule "speakeasyR"]
-	path = speakeasyR
-	url = https://github.com/cran/speakeasyR
 [submodule "speakr"]
 	path = speakr
 	url = https://github.com/cran/speakr
