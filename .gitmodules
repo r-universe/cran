@@ -1844,6 +1844,9 @@
 [submodule "Branching"]
 	path = Branching
 	url = https://github.com/cran/Branching
+[submodule "BrazilCrime"]
+	path = BrazilCrime
+	url = https://github.com/cran/BrazilCrime
 [submodule "BrazilMet"]
 	path = BrazilMet
 	url = https://github.com/cran/BrazilMet
@@ -3068,6 +3071,9 @@
 [submodule "ConsensusClustering"]
 	path = ConsensusClustering
 	url = https://github.com/cran/ConsensusClustering
+[submodule "ConsensusOPLS"]
+	path = ConsensusOPLS
+	url = https://github.com/cran/ConsensusOPLS
 [submodule "ContRespPP"]
 	path = ContRespPP
 	url = https://github.com/cran/ContRespPP
@@ -7610,6 +7616,9 @@
 [submodule "Immigrate"]
 	path = Immigrate
 	url = https://github.com/cran/Immigrate
+[submodule "Imneuron"]
+	path = Imneuron
+	url = https://github.com/cran/Imneuron
 [submodule "ImpShrinkage"]
 	path = ImpShrinkage
 	url = https://github.com/cran/ImpShrinkage
@@ -21218,6 +21227,9 @@
 [submodule "beastier"]
 	path = beastier
 	url = https://github.com/cran/beastier
+[submodule "beastt"]
+	path = beastt
+	url = https://github.com/cran/beastt
 [submodule "beautier"]
 	path = beautier
 	url = https://github.com/cran/beautier
@@ -25832,6 +25844,9 @@
 [submodule "crsuggest"]
 	path = crsuggest
 	url = https://github.com/cran/crsuggest
+[submodule "crt2power"]
+	path = crt2power
+	url = https://github.com/cran/crt2power
 [submodule "crul"]
 	path = crul
 	url = https://github.com/cran/crul
@@ -48491,6 +48506,9 @@
 [submodule "probout"]
 	path = probout
 	url = https://github.com/cran/probout
+[submodule "probs"]
+	path = probs
+	url = https://github.com/cran/probs
 [submodule "probstats4econ"]
 	path = probstats4econ
 	url = https://github.com/cran/probstats4econ
@@ -53114,6 +53132,9 @@
 [submodule "rusda"]
 	path = rusda
 	url = https://github.com/cran/rusda
+[submodule "rush"]
+	path = rush
+	url = https://github.com/cran/rush
 [submodule "rusk"]
 	path = rusk
 	url = https://github.com/cran/rusk
@@ -54371,6 +54392,9 @@
 [submodule "semlbci"]
 	path = semlbci
 	url = https://github.com/cran/semlbci
+[submodule "semlrtp"]
+	path = semlrtp
+	url = https://github.com/cran/semlrtp
 [submodule "semmcci"]
 	path = semmcci
 	url = https://github.com/cran/semmcci
