@@ -10220,6 +10220,9 @@
 [submodule "MultOrdRS"]
 	path = MultOrdRS
 	url = https://github.com/cran/MultOrdRS
+[submodule "MultRegCMP"]
+	path = MultRegCMP
+	url = https://github.com/cran/MultRegCMP
 [submodule "MultSurvTests"]
 	path = MultSurvTests
 	url = https://github.com/cran/MultSurvTests
@@ -48470,6 +48473,9 @@
 [submodule "prioritylasso"]
 	path = prioritylasso
 	url = https://github.com/cran/prioritylasso
+[submodule "priorsense"]
+	path = priorsense
+	url = https://github.com/cran/priorsense
 [submodule "prism"]
 	path = prism
 	url = https://github.com/cran/prism
@@ -59702,6 +59708,9 @@
 [submodule "tinylabels"]
 	path = tinylabels
 	url = https://github.com/cran/tinylabels
+[submodule "tinyplot"]
+	path = tinyplot
+	url = https://github.com/cran/tinyplot
 [submodule "tinyscholar"]
 	path = tinyscholar
 	url = https://github.com/cran/tinyscholar
