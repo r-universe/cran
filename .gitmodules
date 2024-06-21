@@ -34268,9 +34268,6 @@
 [submodule "gofar"]
 	path = gofar
 	url = https://github.com/cran/gofar
-[submodule "gofastr"]
-	path = gofastr
-	url = https://github.com/cran/gofastr
 [submodule "gofcat"]
 	path = gofcat
 	url = https://github.com/cran/gofcat
@@ -61373,6 +61370,9 @@
 [submodule "vars"]
 	path = vars
 	url = https://github.com/cran/vars
+[submodule "varsExplore"]
+	path = varsExplore
+	url = https://github.com/cran/varsExplore
 [submodule "vartest"]
 	path = vartest
 	url = https://github.com/cran/vartest
