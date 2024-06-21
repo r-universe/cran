@@ -16598,6 +16598,9 @@
 [submodule "SpatEntropy"]
 	path = SpatEntropy
 	url = https://github.com/cran/SpatEntropy
+[submodule "SpatFD"]
+	path = SpatFD
+	url = https://github.com/cran/SpatFD
 [submodule "SpatGC"]
 	path = SpatGC
 	url = https://github.com/cran/SpatGC
