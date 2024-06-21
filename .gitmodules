@@ -53069,6 +53069,9 @@
 [submodule "rtrends"]
 	path = rtrends
 	url = https://github.com/cran/rtrends
+[submodule "rtrim"]
+	path = rtrim
+	url = https://github.com/cran/rtrim
 [submodule "rtry"]
 	path = rtry
 	url = https://github.com/cran/rtry
