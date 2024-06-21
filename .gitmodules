@@ -5651,6 +5651,9 @@
 [submodule "FlowScreen"]
 	path = FlowScreen
 	url = https://github.com/cran/FlowScreen
+[submodule "FlowerMate"]
+	path = FlowerMate
+	url = https://github.com/cran/FlowerMate
 [submodule "FluMoDL"]
 	path = FluMoDL
 	url = https://github.com/cran/FluMoDL
@@ -28637,6 +28640,9 @@
 [submodule "easyVerification"]
 	path = easyVerification
 	url = https://github.com/cran/easyVerification
+[submodule "easyWechat"]
+	path = easyWechat
+	url = https://github.com/cran/easyWechat
 [submodule "easyalluvial"]
 	path = easyalluvial
 	url = https://github.com/cran/easyalluvial
@@ -28679,6 +28685,9 @@
 [submodule "easystats"]
 	path = easystats
 	url = https://github.com/cran/easystats
+[submodule "easysurv"]
+	path = easysurv
+	url = https://github.com/cran/easysurv
 [submodule "eat"]
 	path = eat
 	url = https://github.com/cran/eat
@@ -35270,6 +35279,9 @@
 [submodule "hclust1d"]
 	path = hclust1d
 	url = https://github.com/cran/hclust1d
+[submodule "hclusteasy"]
+	path = hclusteasy
+	url = https://github.com/cran/hclusteasy
 [submodule "hctrial"]
 	path = hctrial
 	url = https://github.com/cran/hctrial
@@ -36917,6 +36929,9 @@
 [submodule "infoelectoral"]
 	path = infoelectoral
 	url = https://github.com/cran/infoelectoral
+[submodule "informativeSCI"]
+	path = informativeSCI
+	url = https://github.com/cran/informativeSCI
 [submodule "informedSen"]
 	path = informedSen
 	url = https://github.com/cran/informedSen
@@ -54947,6 +54962,9 @@
 [submodule "shinyLP"]
 	path = shinyLP
 	url = https://github.com/cran/shinyLP
+[submodule "shinyLottie"]
+	path = shinyLottie
+	url = https://github.com/cran/shinyLottie
 [submodule "shinyML"]
 	path = shinyML
 	url = https://github.com/cran/shinyML
@@ -57605,6 +57623,9 @@
 [submodule "stmgui"]
 	path = stmgui
 	url = https://github.com/cran/stmgui
+[submodule "stminsights"]
+	path = stminsights
+	url = https://github.com/cran/stminsights
 [submodule "stoRy"]
 	path = stoRy
 	url = https://github.com/cran/stoRy
