@@ -25778,6 +25778,9 @@
 [submodule "crossmap"]
 	path = crossmap
 	url = https://github.com/cran/crossmap
+[submodule "crossmatch"]
+	path = crossmatch
+	url = https://github.com/cran/crossmatch
 [submodule "crossnma"]
 	path = crossnma
 	url = https://github.com/cran/crossnma
@@ -41651,6 +41654,9 @@
 [submodule "mildsvm"]
 	path = mildsvm
 	url = https://github.com/cran/mildsvm
+[submodule "milorGWAS"]
+	path = milorGWAS
+	url = https://github.com/cran/milorGWAS
 [submodule "milr"]
 	path = milr
 	url = https://github.com/cran/milr
