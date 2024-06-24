@@ -1955,9 +1955,6 @@
 [submodule "CARRoT"]
 	path = CARRoT
 	url = https://github.com/cran/CARRoT
-[submodule "CARlasso"]
-	path = CARlasso
-	url = https://github.com/cran/CARlasso
 [submodule "CASCORE"]
 	path = CASCORE
 	url = https://github.com/cran/CASCORE
@@ -7961,6 +7958,9 @@
 [submodule "JuliaConnectoR"]
 	path = JuliaConnectoR
 	url = https://github.com/cran/JuliaConnectoR
+[submodule "JuliaFormulae"]
+	path = JuliaFormulae
+	url = https://github.com/cran/JuliaFormulae
 [submodule "JustifyAlpha"]
 	path = JustifyAlpha
 	url = https://github.com/cran/JustifyAlpha
@@ -15089,6 +15089,9 @@
 [submodule "Rtropical"]
 	path = Rtropical
 	url = https://github.com/cran/Rtropical
+[submodule "RtsEva"]
+	path = RtsEva
+	url = https://github.com/cran/RtsEva
 [submodule "Rtsne"]
 	path = Rtsne
 	url = https://github.com/cran/Rtsne
@@ -20474,9 +20477,6 @@
 [submodule "autoTS"]
 	path = autoTS
 	url = https://github.com/cran/autoTS
-[submodule "autocart"]
-	path = autocart
-	url = https://github.com/cran/autocart
 [submodule "autocogs"]
 	path = autocogs
 	url = https://github.com/cran/autocogs
@@ -24113,9 +24113,6 @@
 [submodule "clr"]
 	path = clr
 	url = https://github.com/cran/clr
-[submodule "clrng"]
-	path = clrng
-	url = https://github.com/cran/clrng
 [submodule "clttools"]
 	path = clttools
 	url = https://github.com/cran/clttools
@@ -31832,9 +31829,6 @@
 [submodule "fractD"]
 	path = fractD
 	url = https://github.com/cran/fractD
-[submodule "fractalRegression"]
-	path = fractalRegression
-	url = https://github.com/cran/fractalRegression
 [submodule "fractaldim"]
 	path = fractaldim
 	url = https://github.com/cran/fractaldim
@@ -36677,6 +36671,9 @@
 [submodule "imagine"]
 	path = imagine
 	url = https://github.com/cran/imagine
+[submodule "imanr"]
+	path = imanr
+	url = https://github.com/cran/imanr
 [submodule "imbalance"]
 	path = imbalance
 	url = https://github.com/cran/imbalance
@@ -37691,6 +37688,9 @@
 [submodule "jarbes"]
 	path = jarbes
 	url = https://github.com/cran/jarbes
+[submodule "jcalendaR"]
+	path = jcalendaR
+	url = https://github.com/cran/jcalendaR
 [submodule "jcext"]
 	path = jcext
 	url = https://github.com/cran/jcext
@@ -41729,6 +41729,9 @@
 [submodule "miniUI"]
 	path = miniUI
 	url = https://github.com/cran/miniUI
+[submodule "minic"]
+	path = minic
+	url = https://github.com/cran/minic
 [submodule "minidown"]
 	path = minidown
 	url = https://github.com/cran/minidown
@@ -42200,9 +42203,6 @@
 [submodule "mlrpro"]
 	path = mlrpro
 	url = https://github.com/cran/mlrpro
-[submodule "mlrv"]
-	path = mlrv
-	url = https://github.com/cran/mlrv
 [submodule "mlsbm"]
 	path = mlsbm
 	url = https://github.com/cran/mlsbm
@@ -45782,6 +45782,9 @@
 [submodule "overture"]
 	path = overture
 	url = https://github.com/cran/overture
+[submodule "overturemapsr"]
+	path = overturemapsr
+	url = https://github.com/cran/overturemapsr
 [submodule "overviewR"]
 	path = overviewR
 	url = https://github.com/cran/overviewR
@@ -53168,9 +53171,6 @@
 [submodule "rusk"]
 	path = rusk
 	url = https://github.com/cran/rusk
-[submodule "rusquant"]
-	path = rusquant
-	url = https://github.com/cran/rusquant
 [submodule "rust"]
 	path = rust
 	url = https://github.com/cran/rust
@@ -53501,6 +53501,9 @@
 [submodule "sahpm"]
 	path = sahpm
 	url = https://github.com/cran/sahpm
+[submodule "salad"]
+	path = salad
+	url = https://github.com/cran/salad
 [submodule "salesforcer"]
 	path = salesforcer
 	url = https://github.com/cran/salesforcer
@@ -54548,9 +54551,6 @@
 [submodule "seqSHP"]
 	path = seqSHP
 	url = https://github.com/cran/seqSHP
-[submodule "seqest"]
-	path = seqest
-	url = https://github.com/cran/seqest
 [submodule "seqgendiff"]
 	path = seqgendiff
 	url = https://github.com/cran/seqgendiff
@@ -61685,9 +61685,6 @@
 [submodule "visOmopResults"]
 	path = visOmopResults
 	url = https://github.com/cran/visOmopResults
-[submodule "visR"]
-	path = visR
-	url = https://github.com/cran/visR
 [submodule "visStatistics"]
 	path = visStatistics
 	url = https://github.com/cran/visStatistics
