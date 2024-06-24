@@ -25937,6 +25937,9 @@
 [submodule "csppData"]
 	path = csppData
 	url = https://github.com/cran/csppData
+[submodule "csquares"]
+	path = csquares
+	url = https://github.com/cran/csquares
 [submodule "csranks"]
 	path = csranks
 	url = https://github.com/cran/csranks
@@ -26138,6 +26141,9 @@
 [submodule "custom.gauss.quad"]
 	path = custom.gauss.quad
 	url = https://github.com/cran/custom.gauss.quad
+[submodule "customiser"]
+	path = customiser
+	url = https://github.com/cran/customiser
 [submodule "customizedTraining"]
 	path = customizedTraining
 	url = https://github.com/cran/customizedTraining
@@ -26432,6 +26438,9 @@
 [submodule "dartR.popgen"]
 	path = dartR.popgen
 	url = https://github.com/cran/dartR.popgen
+[submodule "dartR.sexlinked"]
+	path = dartR.sexlinked
+	url = https://github.com/cran/dartR.sexlinked
 [submodule "dartR.sim"]
 	path = dartR.sim
 	url = https://github.com/cran/dartR.sim
@@ -33110,6 +33119,9 @@
 [submodule "gepaf"]
 	path = gepaf
 	url = https://github.com/cran/gepaf
+[submodule "geppe"]
+	path = geppe
+	url = https://github.com/cran/geppe
 [submodule "gerbil"]
 	path = gerbil
 	url = https://github.com/cran/gerbil
@@ -36953,6 +36965,9 @@
 [submodule "inlabru"]
 	path = inlabru
 	url = https://github.com/cran/inlabru
+[submodule "inlamemi"]
+	path = inlamemi
+	url = https://github.com/cran/inlamemi
 [submodule "inlcolor"]
 	path = inlcolor
 	url = https://github.com/cran/inlcolor
@@ -38669,6 +38684,9 @@
 [submodule "latenetwork"]
 	path = latenetwork
 	url = https://github.com/cran/latenetwork
+[submodule "latent2likert"]
+	path = latent2likert
+	url = https://github.com/cran/latent2likert
 [submodule "latentFactoR"]
 	path = latentFactoR
 	url = https://github.com/cran/latentFactoR
@@ -49406,6 +49424,9 @@
 [submodule "qte"]
 	path = qte
 	url = https://github.com/cran/qte
+[submodule "qtkit"]
+	path = qtkit
+	url = https://github.com/cran/qtkit
 [submodule "qtl"]
 	path = qtl
 	url = https://github.com/cran/qtl
@@ -50537,6 +50558,9 @@
 [submodule "rcartocolor"]
 	path = rcartocolor
 	url = https://github.com/cran/rcartocolor
+[submodule "rcausim"]
+	path = rcausim
+	url = https://github.com/cran/rcausim
 [submodule "rcbalance"]
 	path = rcbalance
 	url = https://github.com/cran/rcbalance
@@ -60287,6 +60311,12 @@
 [submodule "treeshap"]
 	path = treeshap
 	url = https://github.com/cran/treeshap
+[submodule "treesitter"]
+	path = treesitter
+	url = https://github.com/cran/treesitter
+[submodule "treesitter.r"]
+	path = treesitter.r
+	url = https://github.com/cran/treesitter.r
 [submodule "treesliceR"]
 	path = treesliceR
 	url = https://github.com/cran/treesliceR
