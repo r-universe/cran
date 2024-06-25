@@ -1169,6 +1169,9 @@
 [submodule "BRVM"]
 	path = BRVM
 	url = https://github.com/cran/BRVM
+[submodule "BRcal"]
+	path = BRcal
+	url = https://github.com/cran/BRcal
 [submodule "BRugs"]
 	path = BRugs
 	url = https://github.com/cran/BRugs
@@ -5504,6 +5507,9 @@
 [submodule "FastRWeb"]
 	path = FastRWeb
 	url = https://github.com/cran/FastRWeb
+[submodule "FastRet"]
+	path = FastRet
+	url = https://github.com/cran/FastRet
 [submodule "FastSF"]
 	path = FastSF
 	url = https://github.com/cran/FastSF
@@ -13682,6 +13688,9 @@
 [submodule "RPhosFate"]
 	path = RPhosFate
 	url = https://github.com/cran/RPhosFate
+[submodule "RPointCloud"]
+	path = RPointCloud
+	url = https://github.com/cran/RPointCloud
 [submodule "RPostgreSQL"]
 	path = RPostgreSQL
 	url = https://github.com/cran/RPostgreSQL
@@ -20648,6 +20657,9 @@
 [submodule "babelwhale"]
 	path = babelwhale
 	url = https://github.com/cran/babelwhale
+[submodule "babette"]
+	path = babette
+	url = https://github.com/cran/babette
 [submodule "babynames"]
 	path = babynames
 	url = https://github.com/cran/babynames
@@ -22571,6 +22583,9 @@
 [submodule "bsvars"]
 	path = bsvars
 	url = https://github.com/cran/bsvars
+[submodule "bsynth"]
+	path = bsynth
+	url = https://github.com/cran/bsynth
 [submodule "btb"]
 	path = btb
 	url = https://github.com/cran/btb
@@ -42989,6 +43004,9 @@
 [submodule "msos"]
 	path = msos
 	url = https://github.com/cran/msos
+[submodule "mssearchr"]
+	path = mssearchr
+	url = https://github.com/cran/mssearchr
 [submodule "mstDIF"]
 	path = mstDIF
 	url = https://github.com/cran/mstDIF
@@ -47186,6 +47204,9 @@
 [submodule "phylometrics"]
 	path = phylometrics
 	url = https://github.com/cran/phylometrics
+[submodule "phylopairs"]
+	path = phylopairs
+	url = https://github.com/cran/phylopairs
 [submodule "phylopath"]
 	path = phylopath
 	url = https://github.com/cran/phylopath
