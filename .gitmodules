@@ -2234,6 +2234,9 @@
 [submodule "CMFsurrogate"]
 	path = CMFsurrogate
 	url = https://github.com/cran/CMFsurrogate
+[submodule "CMGFM"]
+	path = CMGFM
+	url = https://github.com/cran/CMGFM
 [submodule "CMHNPA"]
 	path = CMHNPA
 	url = https://github.com/cran/CMHNPA
@@ -5039,6 +5042,9 @@
 [submodule "ExactCIone"]
 	path = ExactCIone
 	url = https://github.com/cran/ExactCIone
+[submodule "ExactCox"]
+	path = ExactCox
+	url = https://github.com/cran/ExactCox
 [submodule "ExactMed"]
 	path = ExactMed
 	url = https://github.com/cran/ExactMed
@@ -14762,6 +14768,9 @@
 [submodule "Risk"]
 	path = Risk
 	url = https://github.com/cran/Risk
+[submodule "RiskMap"]
+	path = RiskMap
+	url = https://github.com/cran/RiskMap
 [submodule "RiskPortfolios"]
 	path = RiskPortfolios
 	url = https://github.com/cran/RiskPortfolios
@@ -15461,6 +15470,9 @@
 [submodule "SFS"]
 	path = SFS
 	url = https://github.com/cran/SFS
+[submodule "SFSI"]
+	path = SFSI
+	url = https://github.com/cran/SFSI
 [submodule "SFtools"]
 	path = SFtools
 	url = https://github.com/cran/SFtools
@@ -18320,6 +18332,9 @@
 [submodule "VoxR"]
 	path = VoxR
 	url = https://github.com/cran/VoxR
+[submodule "VsusP"]
+	path = VsusP
+	url = https://github.com/cran/VsusP
 [submodule "VulnToolkit"]
 	path = VulnToolkit
 	url = https://github.com/cran/VulnToolkit
@@ -20534,6 +20549,9 @@
 [submodule "autothresholdr"]
 	path = autothresholdr
 	url = https://github.com/cran/autothresholdr
+[submodule "autovi"]
+	path = autovi
+	url = https://github.com/cran/autovi
 [submodule "av"]
 	path = av
 	url = https://github.com/cran/av
@@ -41246,6 +41264,9 @@
 [submodule "metadat"]
 	path = metadat
 	url = https://github.com/cran/metadat
+[submodule "metadeconfoundR"]
+	path = metadeconfoundR
+	url = https://github.com/cran/metadeconfoundR
 [submodule "metadynminer"]
 	path = metadynminer
 	url = https://github.com/cran/metadynminer
@@ -57170,6 +57191,9 @@
 [submodule "srcr"]
 	path = srcr
 	url = https://github.com/cran/srcr
+[submodule "sreg"]
+	path = sreg
+	url = https://github.com/cran/sreg
 [submodule "sregsurvey"]
 	path = sregsurvey
 	url = https://github.com/cran/sregsurvey
@@ -57644,6 +57668,9 @@
 [submodule "stfit"]
 	path = stfit
 	url = https://github.com/cran/stfit
+[submodule "stgam"]
+	path = stgam
+	url = https://github.com/cran/stgam
 [submodule "sticky"]
 	path = sticky
 	url = https://github.com/cran/sticky
