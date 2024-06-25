@@ -1955,6 +1955,9 @@
 [submodule "CARRoT"]
 	path = CARRoT
 	url = https://github.com/cran/CARRoT
+[submodule "CARlasso"]
+	path = CARlasso
+	url = https://github.com/cran/CARlasso
 [submodule "CASCORE"]
 	path = CASCORE
 	url = https://github.com/cran/CASCORE
@@ -20477,6 +20480,9 @@
 [submodule "autoTS"]
 	path = autoTS
 	url = https://github.com/cran/autoTS
+[submodule "autocart"]
+	path = autocart
+	url = https://github.com/cran/autocart
 [submodule "autocogs"]
 	path = autocogs
 	url = https://github.com/cran/autocogs
@@ -24113,6 +24119,9 @@
 [submodule "clr"]
 	path = clr
 	url = https://github.com/cran/clr
+[submodule "clrng"]
+	path = clrng
+	url = https://github.com/cran/clrng
 [submodule "clttools"]
 	path = clttools
 	url = https://github.com/cran/clttools
@@ -31838,6 +31847,9 @@
 [submodule "fractD"]
 	path = fractD
 	url = https://github.com/cran/fractD
+[submodule "fractalRegression"]
+	path = fractalRegression
+	url = https://github.com/cran/fractalRegression
 [submodule "fractaldim"]
 	path = fractaldim
 	url = https://github.com/cran/fractaldim
@@ -42221,6 +42233,9 @@
 [submodule "mlrpro"]
 	path = mlrpro
 	url = https://github.com/cran/mlrpro
+[submodule "mlrv"]
+	path = mlrv
+	url = https://github.com/cran/mlrv
 [submodule "mlsbm"]
 	path = mlsbm
 	url = https://github.com/cran/mlsbm
@@ -54575,6 +54590,9 @@
 [submodule "seqSHP"]
 	path = seqSHP
 	url = https://github.com/cran/seqSHP
+[submodule "seqest"]
+	path = seqest
+	url = https://github.com/cran/seqest
 [submodule "seqgendiff"]
 	path = seqgendiff
 	url = https://github.com/cran/seqgendiff
@@ -61715,6 +61733,9 @@
 [submodule "visOmopResults"]
 	path = visOmopResults
 	url = https://github.com/cran/visOmopResults
+[submodule "visR"]
+	path = visR
+	url = https://github.com/cran/visR
 [submodule "visStatistics"]
 	path = visStatistics
 	url = https://github.com/cran/visStatistics
