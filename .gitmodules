@@ -24080,6 +24080,9 @@
 [submodule "clinfun"]
 	path = clinfun
 	url = https://github.com/cran/clinfun
+[submodule "clinicalomicsdbR"]
+	path = clinicalomicsdbR
+	url = https://github.com/cran/clinicalomicsdbR
 [submodule "clinicalsignificance"]
 	path = clinicalsignificance
 	url = https://github.com/cran/clinicalsignificance
@@ -30044,6 +30047,9 @@
 [submodule "ewoc"]
 	path = ewoc
 	url = https://github.com/cran/ewoc
+[submodule "ewp"]
+	path = ewp
+	url = https://github.com/cran/ewp
 [submodule "exCon"]
 	path = exCon
 	url = https://github.com/cran/exCon
@@ -31997,6 +32003,9 @@
 [submodule "frequentistSSD"]
 	path = frequentistSSD
 	url = https://github.com/cran/frequentistSSD
+[submodule "frequentistSSDBinary"]
+	path = frequentistSSDBinary
+	url = https://github.com/cran/frequentistSSDBinary
 [submodule "fresh"]
 	path = fresh
 	url = https://github.com/cran/fresh
@@ -32498,6 +32507,9 @@
 [submodule "gamlssbssn"]
 	path = gamlssbssn
 	url = https://github.com/cran/gamlssbssn
+[submodule "gamlssx"]
+	path = gamlssx
+	url = https://github.com/cran/gamlssx
 [submodule "gamm4"]
 	path = gamm4
 	url = https://github.com/cran/gamm4
@@ -43904,6 +43916,9 @@
 [submodule "neo4r"]
 	path = neo4r
 	url = https://github.com/cran/neo4r
+[submodule "neodistr"]
+	path = neodistr
+	url = https://github.com/cran/neodistr
 [submodule "neojags"]
 	path = neojags
 	url = https://github.com/cran/neojags
@@ -50891,6 +50906,9 @@
 [submodule "readit"]
 	path = readit
 	url = https://github.com/cran/readit
+[submodule "readme2vignette"]
+	path = readme2vignette
+	url = https://github.com/cran/readme2vignette
 [submodule "readmet"]
 	path = readmet
 	url = https://github.com/cran/readmet
