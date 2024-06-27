@@ -20948,6 +20948,9 @@
 [submodule "bayesCT"]
 	path = bayesCT
 	url = https://github.com/cran/bayesCT
+[submodule "bayesCureRateModel"]
+	path = bayesCureRateModel
+	url = https://github.com/cran/bayesCureRateModel
 [submodule "bayesDP"]
 	path = bayesDP
 	url = https://github.com/cran/bayesDP
@@ -42299,6 +42302,9 @@
 [submodule "mltools"]
 	path = mltools
 	url = https://github.com/cran/mltools
+[submodule "mlts"]
+	path = mlts
+	url = https://github.com/cran/mlts
 [submodule "mlxR"]
 	path = mlxR
 	url = https://github.com/cran/mlxR
