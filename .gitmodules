@@ -9407,9 +9407,6 @@
 [submodule "MPCI"]
 	path = MPCI
 	url = https://github.com/cran/MPCI
-[submodule "MPCR"]
-	path = MPCR
-	url = https://github.com/cran/MPCR
 [submodule "MPDiR"]
 	path = MPDiR
 	url = https://github.com/cran/MPDiR
