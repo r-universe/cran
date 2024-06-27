@@ -8573,6 +8573,9 @@
 [submodule "LassoSIR"]
 	path = LassoSIR
 	url = https://github.com/cran/LassoSIR
+[submodule "LatentBMA"]
+	path = LatentBMA
+	url = https://github.com/cran/LatentBMA
 [submodule "Laterality"]
 	path = Laterality
 	url = https://github.com/cran/Laterality
@@ -31910,6 +31913,9 @@
 [submodule "frailtySurv"]
 	path = frailtySurv
 	url = https://github.com/cran/frailtySurv
+[submodule "frailtypack"]
+	path = frailtypack
+	url = https://github.com/cran/frailtypack
 [submodule "frair"]
 	path = frair
 	url = https://github.com/cran/frair
@@ -34703,6 +34709,9 @@
 [submodule "greeks"]
 	path = greeks
 	url = https://github.com/cran/greeks
+[submodule "greenR"]
+	path = greenR
+	url = https://github.com/cran/greenR
 [submodule "greenclust"]
 	path = greenclust
 	url = https://github.com/cran/greenclust
@@ -55625,6 +55634,9 @@
 [submodule "simplermarkdown"]
 	path = simplermarkdown
 	url = https://github.com/cran/simplermarkdown
+[submodule "simpletex"]
+	path = simpletex
+	url = https://github.com/cran/simpletex
 [submodule "simplexreg"]
 	path = simplexreg
 	url = https://github.com/cran/simplexreg
