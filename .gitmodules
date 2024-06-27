@@ -18359,9 +18359,6 @@
 [submodule "WARN"]
 	path = WARN
 	url = https://github.com/cran/WARN
-[submodule "WASP"]
-	path = WASP
-	url = https://github.com/cran/WASP
 [submodule "WCE"]
 	path = WCE
 	url = https://github.com/cran/WCE
