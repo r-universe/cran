@@ -41327,9 +41327,6 @@
 [submodule "metainc"]
 	path = metainc
 	url = https://github.com/cran/metainc
-[submodule "metajam"]
-	path = metajam
-	url = https://github.com/cran/metajam
 [submodule "metalite"]
 	path = metalite
 	url = https://github.com/cran/metalite
