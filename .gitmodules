@@ -18359,6 +18359,9 @@
 [submodule "WARN"]
 	path = WARN
 	url = https://github.com/cran/WARN
+[submodule "WASP"]
+	path = WASP
+	url = https://github.com/cran/WASP
 [submodule "WCE"]
 	path = WCE
 	url = https://github.com/cran/WCE
@@ -26918,6 +26921,9 @@
 [submodule "decompr"]
 	path = decompr
 	url = https://github.com/cran/decompr
+[submodule "decon"]
+	path = decon
+	url = https://github.com/cran/decon
 [submodule "deconstructSigs"]
 	path = deconstructSigs
 	url = https://github.com/cran/deconstructSigs
@@ -39917,6 +39923,9 @@
 [submodule "lpl"]
 	path = lpl
 	url = https://github.com/cran/lpl
+[submodule "lpme"]
+	path = lpme
+	url = https://github.com/cran/lpme
 [submodule "lpridge"]
 	path = lpridge
 	url = https://github.com/cran/lpridge
@@ -58583,6 +58592,9 @@
 [submodule "synthACS"]
 	path = synthACS
 	url = https://github.com/cran/synthACS
+[submodule "synthesis"]
+	path = synthesis
+	url = https://github.com/cran/synthesis
 [submodule "synthesisr"]
 	path = synthesisr
 	url = https://github.com/cran/synthesisr
