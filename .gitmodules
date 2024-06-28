@@ -2933,6 +2933,9 @@
 [submodule "CombinePortfolio"]
 	path = CombinePortfolio
 	url = https://github.com/cran/CombinePortfolio
+[submodule "CommEcol"]
+	path = CommEcol
+	url = https://github.com/cran/CommEcol
 [submodule "CommKern"]
 	path = CommKern
 	url = https://github.com/cran/CommKern
@@ -8750,6 +8753,9 @@
 [submodule "LogicReg"]
 	path = LogicReg
 	url = https://github.com/cran/LogicReg
+[submodule "LogisticCopula"]
+	path = LogisticCopula
+	url = https://github.com/cran/LogisticCopula
 [submodule "LogisticCurveFitting"]
 	path = LogisticCurveFitting
 	url = https://github.com/cran/LogisticCurveFitting
@@ -29504,6 +29510,9 @@
 [submodule "epiCleanr"]
 	path = epiCleanr
 	url = https://github.com/cran/epiCleanr
+[submodule "epiCo"]
+	path = epiCo
+	url = https://github.com/cran/epiCo
 [submodule "epiDisplay"]
 	path = epiDisplay
 	url = https://github.com/cran/epiDisplay
@@ -29996,6 +30005,9 @@
 [submodule "evir"]
 	path = evir
 	url = https://github.com/cran/evir
+[submodule "evitaicossa"]
+	path = evitaicossa
+	url = https://github.com/cran/evitaicossa
 [submodule "evmix"]
 	path = evmix
 	url = https://github.com/cran/evmix
@@ -32126,6 +32138,9 @@
 [submodule "fullROC"]
 	path = fullROC
 	url = https://github.com/cran/fullROC
+[submodule "fullRankMatrix"]
+	path = fullRankMatrix
+	url = https://github.com/cran/fullRankMatrix
 [submodule "fullfact"]
 	path = fullfact
 	url = https://github.com/cran/fullfact
@@ -33497,6 +33512,9 @@
 [submodule "gggenes"]
 	path = gggenes
 	url = https://github.com/cran/gggenes
+[submodule "gggenomes"]
+	path = gggenomes
+	url = https://github.com/cran/gggenomes
 [submodule "ggghost"]
 	path = ggghost
 	url = https://github.com/cran/ggghost
@@ -41504,6 +41522,9 @@
 [submodule "mggd"]
 	path = mggd
 	url = https://github.com/cran/mggd
+[submodule "mgi.report.reader"]
+	path = mgi.report.reader
+	url = https://github.com/cran/mgi.report.reader
 [submodule "mglasso"]
 	path = mglasso
 	url = https://github.com/cran/mglasso
@@ -48197,6 +48218,9 @@
 [submodule "powdist"]
 	path = powdist
 	url = https://github.com/cran/powdist
+[submodule "poweRbal"]
+	path = poweRbal
+	url = https://github.com/cran/poweRbal
 [submodule "poweRlaw"]
 	path = poweRlaw
 	url = https://github.com/cran/poweRlaw
@@ -50378,6 +50402,9 @@
 [submodule "rapidraker"]
 	path = rapidraker
 	url = https://github.com/cran/rapidraker
+[submodule "rapidsplithalf"]
+	path = rapidsplithalf
+	url = https://github.com/cran/rapidsplithalf
 [submodule "rapidxmlr"]
 	path = rapidxmlr
 	url = https://github.com/cran/rapidxmlr
