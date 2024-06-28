@@ -19802,18 +19802,6 @@
 [submodule "anscombiser"]
 	path = anscombiser
 	url = https://github.com/cran/anscombiser
-[submodule "antaresEditObject"]
-	path = antaresEditObject
-	url = https://github.com/cran/antaresEditObject
-[submodule "antaresProcessing"]
-	path = antaresProcessing
-	url = https://github.com/cran/antaresProcessing
-[submodule "antaresRead"]
-	path = antaresRead
-	url = https://github.com/cran/antaresRead
-[submodule "antaresViz"]
-	path = antaresViz
-	url = https://github.com/cran/antaresViz
 [submodule "anthro"]
 	path = anthro
 	url = https://github.com/cran/anthro
