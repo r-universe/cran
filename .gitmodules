@@ -23051,6 +23051,9 @@
 [submodule "cartographer"]
 	path = cartographer
 	url = https://github.com/cran/cartographer
+[submodule "cartographr"]
+	path = cartographr
+	url = https://github.com/cran/cartographr
 [submodule "cartography"]
 	path = cartography
 	url = https://github.com/cran/cartography
@@ -23918,6 +23921,9 @@
 [submodule "clam"]
 	path = clam
 	url = https://github.com/cran/clam
+[submodule "clap"]
+	path = clap
+	url = https://github.com/cran/clap
 [submodule "clarabel"]
 	path = clarabel
 	url = https://github.com/cran/clarabel
@@ -25133,6 +25139,9 @@
 [submodule "convergEU"]
 	path = convergEU
 	url = https://github.com/cran/convergEU
+[submodule "convertBCD"]
+	path = convertBCD
+	url = https://github.com/cran/convertBCD
 [submodule "convertbonds"]
 	path = convertbonds
 	url = https://github.com/cran/convertbonds
@@ -45788,6 +45797,9 @@
 [submodule "oskeyring"]
 	path = oskeyring
 	url = https://github.com/cran/oskeyring
+[submodule "osmapiR"]
+	path = osmapiR
+	url = https://github.com/cran/osmapiR
 [submodule "osmclass"]
 	path = osmclass
 	url = https://github.com/cran/osmclass
