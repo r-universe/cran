@@ -45623,9 +45623,6 @@
 [submodule "opusminer"]
 	path = opusminer
 	url = https://github.com/cran/opusminer
-[submodule "orbweaver"]
-	path = orbweaver
-	url = https://github.com/cran/orbweaver
 [submodule "orca"]
 	path = orca
 	url = https://github.com/cran/orca
