@@ -19808,6 +19808,18 @@
 [submodule "anscombiser"]
 	path = anscombiser
 	url = https://github.com/cran/anscombiser
+[submodule "antaresEditObject"]
+	path = antaresEditObject
+	url = https://github.com/cran/antaresEditObject
+[submodule "antaresProcessing"]
+	path = antaresProcessing
+	url = https://github.com/cran/antaresProcessing
+[submodule "antaresRead"]
+	path = antaresRead
+	url = https://github.com/cran/antaresRead
+[submodule "antaresViz"]
+	path = antaresViz
+	url = https://github.com/cran/antaresViz
 [submodule "anthro"]
 	path = anthro
 	url = https://github.com/cran/anthro
@@ -41333,6 +41345,9 @@
 [submodule "metainc"]
 	path = metainc
 	url = https://github.com/cran/metainc
+[submodule "metajam"]
+	path = metajam
+	url = https://github.com/cran/metajam
 [submodule "metalite"]
 	path = metalite
 	url = https://github.com/cran/metalite
@@ -45635,6 +45650,9 @@
 [submodule "opusminer"]
 	path = opusminer
 	url = https://github.com/cran/opusminer
+[submodule "orbweaver"]
+	path = orbweaver
+	url = https://github.com/cran/orbweaver
 [submodule "orca"]
 	path = orca
 	url = https://github.com/cran/orca
