@@ -11441,6 +11441,9 @@
 [submodule "PDShiny"]
 	path = PDShiny
 	url = https://github.com/cran/PDShiny
+[submodule "PDXpower"]
+	path = PDXpower
+	url = https://github.com/cran/PDXpower
 [submodule "PDtoolkit"]
 	path = PDtoolkit
 	url = https://github.com/cran/PDtoolkit
