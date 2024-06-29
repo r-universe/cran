@@ -35609,9 +35609,6 @@
 [submodule "heuristicsmineR"]
 	path = heuristicsmineR
 	url = https://github.com/cran/heuristicsmineR
-[submodule "hexFinder"]
-	path = hexFinder
-	url = https://github.com/cran/hexFinder
 [submodule "hexSticker"]
 	path = hexSticker
 	url = https://github.com/cran/hexSticker
@@ -50849,9 +50846,6 @@
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/cran/rdryad
-[submodule "rdss"]
-	path = rdss
-	url = https://github.com/cran/rdss
 [submodule "rdtLite"]
 	path = rdtLite
 	url = https://github.com/cran/rdtLite
