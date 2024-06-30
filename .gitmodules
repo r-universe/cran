@@ -30650,6 +30650,9 @@
 [submodule "fastJT"]
 	path = fastJT
 	url = https://github.com/cran/fastJT
+[submodule "fastLaplace"]
+	path = fastLaplace
+	url = https://github.com/cran/fastLaplace
 [submodule "fastLink"]
 	path = fastLink
 	url = https://github.com/cran/fastLink
@@ -43643,9 +43646,6 @@
 [submodule "mxnorm"]
 	path = mxnorm
 	url = https://github.com/cran/mxnorm
-[submodule "mxsem"]
-	path = mxsem
-	url = https://github.com/cran/mxsem
 [submodule "myCRAN"]
 	path = myCRAN
 	url = https://github.com/cran/myCRAN
@@ -45851,6 +45851,9 @@
 [submodule "otrimle"]
 	path = otrimle
 	url = https://github.com/cran/otrimle
+[submodule "otsad"]
+	path = otsad
+	url = https://github.com/cran/otsad
 [submodule "otsfeatures"]
 	path = otsfeatures
 	url = https://github.com/cran/otsfeatures
