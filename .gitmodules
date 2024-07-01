@@ -4505,6 +4505,9 @@
 [submodule "EIAapi"]
 	path = EIAapi
 	url = https://github.com/cran/EIAapi
+[submodule "EIEntropy"]
+	path = EIEntropy
+	url = https://github.com/cran/EIEntropy
 [submodule "EIX"]
 	path = EIX
 	url = https://github.com/cran/EIX
@@ -8456,6 +8459,9 @@
 [submodule "LSE"]
 	path = LSE
 	url = https://github.com/cran/LSE
+[submodule "LSEbootLS"]
+	path = LSEbootLS
+	url = https://github.com/cran/LSEbootLS
 [submodule "LSMRealOptions"]
 	path = LSMRealOptions
 	url = https://github.com/cran/LSMRealOptions
@@ -42206,9 +42212,6 @@
 [submodule "mlmtools"]
 	path = mlmtools
 	url = https://github.com/cran/mlmtools
-[submodule "mlmts"]
-	path = mlmts
-	url = https://github.com/cran/mlmts
 [submodule "mlogit"]
 	path = mlogit
 	url = https://github.com/cran/mlogit
@@ -45647,6 +45650,9 @@
 [submodule "opusminer"]
 	path = opusminer
 	url = https://github.com/cran/opusminer
+[submodule "orbital"]
+	path = orbital
+	url = https://github.com/cran/orbital
 [submodule "orbweaver"]
 	path = orbweaver
 	url = https://github.com/cran/orbweaver
@@ -49694,9 +49700,6 @@
 [submodule "quantregRanger"]
 	path = quantregRanger
 	url = https://github.com/cran/quantregRanger
-[submodule "quantspec"]
-	path = quantspec
-	url = https://github.com/cran/quantspec
 [submodule "quarks"]
 	path = quarks
 	url = https://github.com/cran/quarks
@@ -58877,9 +58880,6 @@
 [submodule "taxlist"]
 	path = taxlist
 	url = https://github.com/cran/taxlist
-[submodule "taxonbridge"]
-	path = taxonbridge
-	url = https://github.com/cran/taxonbridge
 [submodule "taxonomizr"]
 	path = taxonomizr
 	url = https://github.com/cran/taxonomizr
