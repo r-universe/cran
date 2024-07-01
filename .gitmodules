@@ -43646,6 +43646,9 @@
 [submodule "mxnorm"]
 	path = mxnorm
 	url = https://github.com/cran/mxnorm
+[submodule "mxsem"]
+	path = mxsem
+	url = https://github.com/cran/mxsem
 [submodule "myCRAN"]
 	path = myCRAN
 	url = https://github.com/cran/myCRAN
@@ -45488,9 +45491,6 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
-[submodule "openscoring"]
-	path = openscoring
-	url = https://github.com/cran/openscoring
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
@@ -55295,9 +55295,6 @@
 [submodule "shinyquiz"]
 	path = shinyquiz
 	url = https://github.com/cran/shinyquiz
-[submodule "shinyr"]
-	path = shinyr
-	url = https://github.com/cran/shinyr
 [submodule "shinyrecipes"]
 	path = shinyrecipes
 	url = https://github.com/cran/shinyrecipes
