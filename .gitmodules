@@ -55556,6 +55556,9 @@
 [submodule "simctest"]
 	path = simctest
 	url = https://github.com/cran/simctest
+[submodule "simdata"]
+	path = simdata
+	url = https://github.com/cran/simdata
 [submodule "simdd"]
 	path = simdd
 	url = https://github.com/cran/simdd
@@ -62042,6 +62045,9 @@
 [submodule "vsd"]
 	path = vsd
 	url = https://github.com/cran/vsd
+[submodule "vse4ts"]
+	path = vse4ts
+	url = https://github.com/cran/vse4ts
 [submodule "vsgoftest"]
 	path = vsgoftest
 	url = https://github.com/cran/vsgoftest
