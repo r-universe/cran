@@ -19997,6 +19997,9 @@
 [submodule "apyramid"]
 	path = apyramid
 	url = https://github.com/cran/apyramid
+[submodule "aqfig"]
+	path = aqfig
+	url = https://github.com/cran/aqfig
 [submodule "aqp"]
 	path = aqp
 	url = https://github.com/cran/aqp
@@ -28886,6 +28889,9 @@
 [submodule "ecocomDP"]
 	path = ecocomDP
 	url = https://github.com/cran/ecocomDP
+[submodule "ecode"]
+	path = ecode
+	url = https://github.com/cran/ecode
 [submodule "ecodist"]
 	path = ecodist
 	url = https://github.com/cran/ecodist
@@ -58115,6 +58121,9 @@
 [submodule "suncalc"]
 	path = suncalc
 	url = https://github.com/cran/suncalc
+[submodule "sundialr"]
+	path = sundialr
+	url = https://github.com/cran/sundialr
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/cran/suntools
