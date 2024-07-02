@@ -11714,9 +11714,6 @@
 [submodule "PQLseq"]
 	path = PQLseq
 	url = https://github.com/cran/PQLseq
-[submodule "PRANA"]
-	path = PRANA
-	url = https://github.com/cran/PRANA
 [submodule "PRDA"]
 	path = PRDA
 	url = https://github.com/cran/PRDA
@@ -17297,9 +17294,6 @@
 [submodule "TML"]
 	path = TML
 	url = https://github.com/cran/TML
-[submodule "TMTI"]
-	path = TMTI
-	url = https://github.com/cran/TMTI
 [submodule "TNC"]
 	path = TNC
 	url = https://github.com/cran/TNC
@@ -27962,9 +27956,6 @@
 [submodule "dmutate"]
 	path = dmutate
 	url = https://github.com/cran/dmutate
-[submodule "dnapath"]
-	path = dnapath
-	url = https://github.com/cran/dnapath
 [submodule "dndR"]
 	path = dndR
 	url = https://github.com/cran/dndR
@@ -32942,9 +32933,6 @@
 [submodule "genesysr"]
 	path = genesysr
 	url = https://github.com/cran/genesysr
-[submodule "genetic.algo.optimizeR"]
-	path = genetic.algo.optimizeR
-	url = https://github.com/cran/genetic.algo.optimizeR
 [submodule "geneticae"]
 	path = geneticae
 	url = https://github.com/cran/geneticae
@@ -33683,9 +33671,6 @@
 [submodule "ggparallel"]
 	path = ggparallel
 	url = https://github.com/cran/ggparallel
-[submodule "ggparliament"]
-	path = ggparliament
-	url = https://github.com/cran/ggparliament
 [submodule "ggparty"]
 	path = ggparty
 	url = https://github.com/cran/ggparty
