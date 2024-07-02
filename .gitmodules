@@ -3647,9 +3647,6 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
-[submodule "DMCfun"]
-	path = DMCfun
-	url = https://github.com/cran/DMCfun
 [submodule "DMMF"]
 	path = DMMF
 	url = https://github.com/cran/DMMF
@@ -5312,9 +5309,6 @@
 [submodule "FLR"]
 	path = FLR
 	url = https://github.com/cran/FLR
-[submodule "FLSSS"]
-	path = FLSSS
-	url = https://github.com/cran/FLSSS
 [submodule "FMAT"]
 	path = FMAT
 	url = https://github.com/cran/FMAT
@@ -26114,9 +26108,6 @@
 [submodule "cuRe"]
 	path = cuRe
 	url = https://github.com/cran/cuRe
-[submodule "cubar"]
-	path = cubar
-	url = https://github.com/cran/cubar
 [submodule "cubature"]
 	path = cubature
 	url = https://github.com/cran/cubature
@@ -36554,6 +36545,9 @@
 [submodule "icosa"]
 	path = icosa
 	url = https://github.com/cran/icosa
+[submodule "icpack"]
+	path = icpack
+	url = https://github.com/cran/icpack
 [submodule "icpsrdata"]
 	path = icpsrdata
 	url = https://github.com/cran/icpsrdata
@@ -46793,9 +46787,6 @@
 [submodule "pedigreemm"]
 	path = pedigreemm
 	url = https://github.com/cran/pedigreemm
-[submodule "pedmod"]
-	path = pedmod
-	url = https://github.com/cran/pedmod
 [submodule "pedmut"]
 	path = pedmut
 	url = https://github.com/cran/pedmut
@@ -54077,9 +54068,6 @@
 [submodule "scdtb"]
 	path = scdtb
 	url = https://github.com/cran/scdtb
-[submodule "scellpam"]
-	path = scellpam
-	url = https://github.com/cran/scellpam
 [submodule "scenes"]
 	path = scenes
 	url = https://github.com/cran/scenes
@@ -58127,9 +58115,6 @@
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/cran/suntools
-[submodule "supc"]
-	path = supc
-	url = https://github.com/cran/supc
 [submodule "supclust"]
 	path = supclust
 	url = https://github.com/cran/supclust
@@ -61094,6 +61079,9 @@
 [submodule "unbalhaar"]
 	path = unbalhaar
 	url = https://github.com/cran/unbalhaar
+[submodule "uncertainUCDP"]
+	path = uncertainUCDP
+	url = https://github.com/cran/uncertainUCDP
 [submodule "uncertainty"]
 	path = uncertainty
 	url = https://github.com/cran/uncertainty
@@ -63014,9 +63002,6 @@
 [submodule "xrf"]
 	path = xrf
 	url = https://github.com/cran/xrf
-[submodule "xrnet"]
-	path = xrnet
-	url = https://github.com/cran/xrnet
 [submodule "xslt"]
 	path = xslt
 	url = https://github.com/cran/xslt
