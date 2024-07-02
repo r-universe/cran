@@ -1991,6 +1991,9 @@
 [submodule "CBCgrps"]
 	path = CBCgrps
 	url = https://github.com/cran/CBCgrps
+[submodule "CBPE"]
+	path = CBPE
+	url = https://github.com/cran/CBPE
 [submodule "CBPS"]
 	path = CBPS
 	url = https://github.com/cran/CBPS
@@ -2339,6 +2342,9 @@
 [submodule "CPC"]
 	path = CPC
 	url = https://github.com/cran/CPC
+[submodule "CPCAT"]
+	path = CPCAT
+	url = https://github.com/cran/CPCAT
 [submodule "CPE"]
 	path = CPE
 	url = https://github.com/cran/CPE
@@ -11708,6 +11714,9 @@
 [submodule "PQLseq"]
 	path = PQLseq
 	url = https://github.com/cran/PQLseq
+[submodule "PRA"]
+	path = PRA
+	url = https://github.com/cran/PRA
 [submodule "PRDA"]
 	path = PRDA
 	url = https://github.com/cran/PRDA
@@ -37847,6 +37856,9 @@
 [submodule "jlctree"]
 	path = jlctree
 	url = https://github.com/cran/jlctree
+[submodule "jlme"]
+	path = jlme
+	url = https://github.com/cran/jlme
 [submodule "jlmerclusterperm"]
 	path = jlmerclusterperm
 	url = https://github.com/cran/jlmerclusterperm
@@ -40712,6 +40724,9 @@
 [submodule "matrixdist"]
 	path = matrixdist
 	url = https://github.com/cran/matrixdist
+[submodule "matrixmodp"]
+	path = matrixmodp
+	url = https://github.com/cran/matrixmodp
 [submodule "matrixprofiler"]
 	path = matrixprofiler
 	url = https://github.com/cran/matrixprofiler
@@ -40826,6 +40841,9 @@
 [submodule "mcMST"]
 	path = mcMST
 	url = https://github.com/cran/mcMST
+[submodule "mcODE"]
+	path = mcODE
+	url = https://github.com/cran/mcODE
 [submodule "mcStats"]
 	path = mcStats
 	url = https://github.com/cran/mcStats
@@ -48281,6 +48299,9 @@
 [submodule "powerpkg"]
 	path = powerpkg
 	url = https://github.com/cran/powerpkg
+[submodule "ppRank"]
+	path = ppRank
+	url = https://github.com/cran/ppRank
 [submodule "ppRep"]
 	path = ppRep
 	url = https://github.com/cran/ppRep
@@ -62684,6 +62705,9 @@
 [submodule "workloopR"]
 	path = workloopR
 	url = https://github.com/cran/workloopR
+[submodule "worldbank"]
+	path = worldbank
+	url = https://github.com/cran/worldbank
 [submodule "worldfootballR"]
 	path = worldfootballR
 	url = https://github.com/cran/worldfootballR
