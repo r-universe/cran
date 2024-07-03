@@ -54086,6 +54086,9 @@
 [submodule "scdtb"]
 	path = scdtb
 	url = https://github.com/cran/scdtb
+[submodule "scellpam"]
+	path = scellpam
+	url = https://github.com/cran/scellpam
 [submodule "scenes"]
 	path = scenes
 	url = https://github.com/cran/scenes
