@@ -15545,6 +15545,9 @@
 [submodule "SIHR"]
 	path = SIHR
 	url = https://github.com/cran/SIHR
+[submodule "SILFS"]
+	path = SILFS
+	url = https://github.com/cran/SILFS
 [submodule "SILGGM"]
 	path = SILGGM
 	url = https://github.com/cran/SILGGM
@@ -28268,6 +28271,9 @@
 [submodule "droll"]
 	path = droll
 	url = https://github.com/cran/droll
+[submodule "dropR"]
+	path = dropR
+	url = https://github.com/cran/dropR
 [submodule "dropout"]
 	path = dropout
 	url = https://github.com/cran/dropout
