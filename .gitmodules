@@ -3539,9 +3539,6 @@
 [submodule "DFIT"]
 	path = DFIT
 	url = https://github.com/cran/DFIT
-[submodule "DGCA"]
-	path = DGCA
-	url = https://github.com/cran/DGCA
 [submodule "DGEAR"]
 	path = DGEAR
 	url = https://github.com/cran/DGEAR
@@ -3653,6 +3650,9 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
+[submodule "DMCfun"]
+	path = DMCfun
+	url = https://github.com/cran/DMCfun
 [submodule "DMMF"]
 	path = DMMF
 	url = https://github.com/cran/DMMF
@@ -5315,6 +5315,9 @@
 [submodule "FLR"]
 	path = FLR
 	url = https://github.com/cran/FLR
+[submodule "FLSSS"]
+	path = FLSSS
+	url = https://github.com/cran/FLSSS
 [submodule "FMAT"]
 	path = FMAT
 	url = https://github.com/cran/FMAT
@@ -8828,9 +8831,6 @@
 [submodule "MACER"]
 	path = MACER
 	url = https://github.com/cran/MACER
-[submodule "MACP"]
-	path = MACP
-	url = https://github.com/cran/MACP
 [submodule "MADPop"]
 	path = MADPop
 	url = https://github.com/cran/MADPop
@@ -26117,6 +26117,9 @@
 [submodule "cuRe"]
 	path = cuRe
 	url = https://github.com/cran/cuRe
+[submodule "cubar"]
+	path = cubar
+	url = https://github.com/cran/cubar
 [submodule "cubature"]
 	path = cubature
 	url = https://github.com/cran/cubature
@@ -46082,9 +46085,6 @@
 [submodule "pagoda2"]
 	path = pagoda2
 	url = https://github.com/cran/pagoda2
-[submodule "pagoo"]
-	path = pagoo
-	url = https://github.com/cran/pagoo
 [submodule "painbow"]
 	path = painbow
 	url = https://github.com/cran/painbow
@@ -46805,6 +46805,9 @@
 [submodule "pedigreemm"]
 	path = pedigreemm
 	url = https://github.com/cran/pedigreemm
+[submodule "pedmod"]
+	path = pedmod
+	url = https://github.com/cran/pedmod
 [submodule "pedmut"]
 	path = pedmut
 	url = https://github.com/cran/pedmut
@@ -49163,9 +49166,6 @@
 [submodule "pulsar"]
 	path = pulsar
 	url = https://github.com/cran/pulsar
-[submodule "pulseTD"]
-	path = pulseTD
-	url = https://github.com/cran/pulseTD
 [submodule "pumilioR"]
 	path = pumilioR
 	url = https://github.com/cran/pumilioR
@@ -54092,9 +54092,6 @@
 [submodule "scenes"]
 	path = scenes
 	url = https://github.com/cran/scenes
-[submodule "scfetch"]
-	path = scfetch
-	url = https://github.com/cran/scfetch
 [submodule "scgwr"]
 	path = scgwr
 	url = https://github.com/cran/scgwr
@@ -58136,6 +58133,9 @@
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/cran/suntools
+[submodule "supc"]
+	path = supc
+	url = https://github.com/cran/supc
 [submodule "supclust"]
 	path = supclust
 	url = https://github.com/cran/supclust
@@ -63026,6 +63026,9 @@
 [submodule "xrf"]
 	path = xrf
 	url = https://github.com/cran/xrf
+[submodule "xrnet"]
+	path = xrnet
+	url = https://github.com/cran/xrnet
 [submodule "xslt"]
 	path = xslt
 	url = https://github.com/cran/xslt
