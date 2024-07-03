@@ -44168,6 +44168,9 @@
 [submodule "neuroim"]
 	path = neuroim
 	url = https://github.com/cran/neuroim
+[submodule "neuroimaGene"]
+	path = neuroimaGene
+	url = https://github.com/cran/neuroimaGene
 [submodule "neuromplex"]
 	path = neuromplex
 	url = https://github.com/cran/neuromplex
@@ -44672,6 +44675,9 @@
 [submodule "nonprobsvy"]
 	path = nonprobsvy
 	url = https://github.com/cran/nonprobsvy
+[submodule "nonsmooth"]
+	path = nonsmooth
+	url = https://github.com/cran/nonsmooth
 [submodule "nopaco"]
 	path = nopaco
 	url = https://github.com/cran/nopaco
@@ -44945,6 +44951,9 @@
 [submodule "ntranova"]
 	path = ntranova
 	url = https://github.com/cran/ntranova
+[submodule "ntsDatasets"]
+	path = ntsDatasets
+	url = https://github.com/cran/ntsDatasets
 [submodule "ntsDists"]
 	path = ntsDists
 	url = https://github.com/cran/ntsDists
@@ -52313,6 +52322,9 @@
 [submodule "rmsfuns"]
 	path = rmsfuns
 	url = https://github.com/cran/rmsfuns
+[submodule "rmstBayespara"]
+	path = rmstBayespara
+	url = https://github.com/cran/rmstBayespara
 [submodule "rmstcompsens"]
 	path = rmstcompsens
 	url = https://github.com/cran/rmstcompsens
