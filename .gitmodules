@@ -59,6 +59,9 @@
 [submodule "ACNE"]
 	path = ACNE
 	url = https://github.com/cran/ACNE
+[submodule "ACSSpack"]
+	path = ACSSpack
+	url = https://github.com/cran/ACSSpack
 [submodule "ACSWR"]
 	path = ACSWR
 	url = https://github.com/cran/ACSWR
@@ -5318,6 +5321,9 @@
 [submodule "FLSSS"]
 	path = FLSSS
 	url = https://github.com/cran/FLSSS
+[submodule "FLightR"]
+	path = FLightR
+	url = https://github.com/cran/FLightR
 [submodule "FMAT"]
 	path = FMAT
 	url = https://github.com/cran/FMAT
@@ -8672,6 +8678,9 @@
 [submodule "LiftTest"]
 	path = LiftTest
 	url = https://github.com/cran/LiftTest
+[submodule "LightLogR"]
+	path = LightLogR
+	url = https://github.com/cran/LightLogR
 [submodule "LightningR"]
 	path = LightningR
 	url = https://github.com/cran/LightningR
@@ -23870,6 +23879,9 @@
 [submodule "circacompare"]
 	path = circacompare
 	url = https://github.com/cran/circacompare
+[submodule "circhelp"]
+	path = circhelp
+	url = https://github.com/cran/circhelp
 [submodule "circle"]
 	path = circle
 	url = https://github.com/cran/circle
@@ -26123,6 +26135,9 @@
 [submodule "ctv"]
 	path = ctv
 	url = https://github.com/cran/ctv
+[submodule "ctxR"]
+	path = ctxR
+	url = https://github.com/cran/ctxR
 [submodule "cuRe"]
 	path = cuRe
 	url = https://github.com/cran/cuRe
