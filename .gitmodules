@@ -15767,6 +15767,9 @@
 [submodule "SOMbrero"]
 	path = SOMbrero
 	url = https://github.com/cran/SOMbrero
+[submodule "SOMnmR"]
+	path = SOMnmR
+	url = https://github.com/cran/SOMnmR
 [submodule "SOP"]
 	path = SOP
 	url = https://github.com/cran/SOP
@@ -47858,6 +47861,9 @@
 [submodule "pmetar"]
 	path = pmetar
 	url = https://github.com/cran/pmetar
+[submodule "pmev"]
+	path = pmev
+	url = https://github.com/cran/pmev
 [submodule "pmhtutorial"]
 	path = pmhtutorial
 	url = https://github.com/cran/pmhtutorial
