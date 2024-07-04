@@ -14693,6 +14693,9 @@
 [submodule "RestoreNet"]
 	path = RestoreNet
 	url = https://github.com/cran/RestoreNet
+[submodule "ReturnCurves"]
+	path = ReturnCurves
+	url = https://github.com/cran/ReturnCurves
 [submodule "RevEcoR"]
 	path = RevEcoR
 	url = https://github.com/cran/RevEcoR
