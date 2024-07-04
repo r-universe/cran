@@ -35705,6 +35705,9 @@
 [submodule "hidecan"]
 	path = hidecan
 	url = https://github.com/cran/hidecan
+[submodule "hidradenitis"]
+	path = hidradenitis
+	url = https://github.com/cran/hidradenitis
 [submodule "hierBipartite"]
 	path = hierBipartite
 	url = https://github.com/cran/hierBipartite
