@@ -305,6 +305,9 @@
 [submodule "ARCokrig"]
 	path = ARCokrig
 	url = https://github.com/cran/ARCokrig
+[submodule "ARDECO"]
+	path = ARDECO
+	url = https://github.com/cran/ARDECO
 [submodule "ARDL"]
 	path = ARDL
 	url = https://github.com/cran/ARDL
