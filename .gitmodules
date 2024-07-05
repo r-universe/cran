@@ -19772,6 +19772,9 @@
 [submodule "anesrake"]
 	path = anesrake
 	url = https://github.com/cran/anesrake
+[submodule "angstromATE"]
+	path = angstromATE
+	url = https://github.com/cran/angstromATE
 [submodule "angstroms"]
 	path = angstroms
 	url = https://github.com/cran/angstroms
@@ -62027,9 +62030,6 @@
 [submodule "voiceR"]
 	path = voiceR
 	url = https://github.com/cran/voiceR
-[submodule "vol2birdR"]
-	path = vol2birdR
-	url = https://github.com/cran/vol2birdR
 [submodule "volatilityTrader"]
 	path = volatilityTrader
 	url = https://github.com/cran/volatilityTrader
@@ -62195,6 +62195,9 @@
 [submodule "wPerm"]
 	path = wPerm
 	url = https://github.com/cran/wPerm
+[submodule "wTO"]
+	path = wTO
+	url = https://github.com/cran/wTO
 [submodule "wacolors"]
 	path = wacolors
 	url = https://github.com/cran/wacolors
