@@ -30218,9 +30218,6 @@
 [submodule "experimentr"]
 	path = experimentr
 	url = https://github.com/cran/experimentr
-[submodule "expertsurv"]
-	path = expertsurv
-	url = https://github.com/cran/expertsurv
 [submodule "expint"]
 	path = expint
 	url = https://github.com/cran/expint
