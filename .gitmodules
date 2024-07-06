@@ -29327,6 +29327,9 @@
 [submodule "emBayes"]
 	path = emBayes
 	url = https://github.com/cran/emBayes
+[submodule "emIRT"]
+	path = emIRT
+	url = https://github.com/cran/emIRT
 [submodule "emailjsr"]
 	path = emailjsr
 	url = https://github.com/cran/emailjsr
