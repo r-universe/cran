@@ -11459,9 +11459,6 @@
 [submodule "PDShiny"]
 	path = PDShiny
 	url = https://github.com/cran/PDShiny
-[submodule "PDXpower"]
-	path = PDXpower
-	url = https://github.com/cran/PDXpower
 [submodule "PDtoolkit"]
 	path = PDtoolkit
 	url = https://github.com/cran/PDtoolkit
@@ -21797,9 +21794,6 @@
 [submodule "bioPN"]
 	path = bioPN
 	url = https://github.com/cran/bioPN
-[submodule "bioRad"]
-	path = bioRad
-	url = https://github.com/cran/bioRad
 [submodule "bioSNR"]
 	path = bioSNR
 	url = https://github.com/cran/bioSNR
@@ -31976,9 +31970,6 @@
 [submodule "frailtySurv"]
 	path = frailtySurv
 	url = https://github.com/cran/frailtySurv
-[submodule "frailtypack"]
-	path = frailtypack
-	url = https://github.com/cran/frailtypack
 [submodule "frair"]
 	path = frair
 	url = https://github.com/cran/frair
@@ -36209,9 +36200,6 @@
 [submodule "hyd1d"]
 	path = hyd1d
 	url = https://github.com/cran/hyd1d
-[submodule "hydflood"]
-	path = hydflood
-	url = https://github.com/cran/hydflood
 [submodule "hydra"]
 	path = hydra
 	url = https://github.com/cran/hydra
@@ -41735,9 +41723,6 @@
 [submodule "microcontax"]
 	path = microcontax
 	url = https://github.com/cran/microcontax
-[submodule "microdatasus"]
-	path = microdatasus
-	url = https://github.com/cran/microdatasus
 [submodule "microdiluteR"]
 	path = microdiluteR
 	url = https://github.com/cran/microdiluteR
@@ -50957,9 +50942,6 @@
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
-[submodule "read.dbc"]
-	path = read.dbc
-	url = https://github.com/cran/read.dbc
 [submodule "read.gb"]
 	path = read.gb
 	url = https://github.com/cran/read.gb
@@ -62027,6 +62009,9 @@
 [submodule "voiceR"]
 	path = voiceR
 	url = https://github.com/cran/voiceR
+[submodule "vol2birdR"]
+	path = vol2birdR
+	url = https://github.com/cran/vol2birdR
 [submodule "volatilityTrader"]
 	path = volatilityTrader
 	url = https://github.com/cran/volatilityTrader
