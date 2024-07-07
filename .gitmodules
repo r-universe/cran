@@ -31973,6 +31973,9 @@
 [submodule "frailtySurv"]
 	path = frailtySurv
 	url = https://github.com/cran/frailtySurv
+[submodule "frailtypack"]
+	path = frailtypack
+	url = https://github.com/cran/frailtypack
 [submodule "frair"]
 	path = frair
 	url = https://github.com/cran/frair
