@@ -1259,6 +1259,9 @@
 [submodule "BaM"]
 	path = BaM
 	url = https://github.com/cran/BaM
+[submodule "BaSTA"]
+	path = BaSTA
+	url = https://github.com/cran/BaSTA
 [submodule "BaSkePro"]
 	path = BaSkePro
 	url = https://github.com/cran/BaSkePro
