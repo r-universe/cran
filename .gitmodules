@@ -11378,6 +11378,9 @@
 [submodule "PCADSC"]
 	path = PCADSC
 	url = https://github.com/cran/PCADSC
+[submodule "PCAPAM50"]
+	path = PCAPAM50
+	url = https://github.com/cran/PCAPAM50
 [submodule "PCAmatchR"]
 	path = PCAmatchR
 	url = https://github.com/cran/PCAmatchR
@@ -14546,6 +14549,9 @@
 [submodule "Rduinoiot"]
 	path = Rduinoiot
 	url = https://github.com/cran/Rduinoiot
+[submodule "Rdune"]
+	path = Rdune
+	url = https://github.com/cran/Rdune
 [submodule "ReAD"]
 	path = ReAD
 	url = https://github.com/cran/ReAD
@@ -19298,6 +19304,9 @@
 [submodule "aedseo"]
 	path = aedseo
 	url = https://github.com/cran/aedseo
+[submodule "aelab"]
+	path = aelab
+	url = https://github.com/cran/aelab
 [submodule "afc"]
 	path = afc
 	url = https://github.com/cran/afc
@@ -42347,6 +42356,9 @@
 [submodule "mlr3summary"]
 	path = mlr3summary
 	url = https://github.com/cran/mlr3summary
+[submodule "mlr3torch"]
+	path = mlr3torch
+	url = https://github.com/cran/mlr3torch
 [submodule "mlr3tuning"]
 	path = mlr3tuning
 	url = https://github.com/cran/mlr3tuning
