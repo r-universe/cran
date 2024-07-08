@@ -11459,6 +11459,9 @@
 [submodule "PDShiny"]
 	path = PDShiny
 	url = https://github.com/cran/PDShiny
+[submodule "PDXpower"]
+	path = PDXpower
+	url = https://github.com/cran/PDXpower
 [submodule "PDtoolkit"]
 	path = PDtoolkit
 	url = https://github.com/cran/PDtoolkit
@@ -21794,6 +21797,9 @@
 [submodule "bioPN"]
 	path = bioPN
 	url = https://github.com/cran/bioPN
+[submodule "bioRad"]
+	path = bioRad
+	url = https://github.com/cran/bioRad
 [submodule "bioSNR"]
 	path = bioSNR
 	url = https://github.com/cran/bioSNR
@@ -25595,6 +25601,9 @@
 [submodule "covsim"]
 	path = covsim
 	url = https://github.com/cran/covsim
+[submodule "covtracer"]
+	path = covtracer
+	url = https://github.com/cran/covtracer
 [submodule "cowbell"]
 	path = cowbell
 	url = https://github.com/cran/cowbell
@@ -36206,6 +36215,9 @@
 [submodule "hyd1d"]
 	path = hyd1d
 	url = https://github.com/cran/hyd1d
+[submodule "hydflood"]
+	path = hydflood
+	url = https://github.com/cran/hydflood
 [submodule "hydra"]
 	path = hydra
 	url = https://github.com/cran/hydra
@@ -41729,6 +41741,9 @@
 [submodule "microcontax"]
 	path = microcontax
 	url = https://github.com/cran/microcontax
+[submodule "microdatasus"]
+	path = microdatasus
+	url = https://github.com/cran/microdatasus
 [submodule "microdiluteR"]
 	path = microdiluteR
 	url = https://github.com/cran/microdiluteR
@@ -50948,6 +50963,9 @@
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
+[submodule "read.dbc"]
+	path = read.dbc
+	url = https://github.com/cran/read.dbc
 [submodule "read.gb"]
 	path = read.gb
 	url = https://github.com/cran/read.gb
@@ -52166,6 +52184,9 @@
 [submodule "rkafkajars"]
 	path = rkafkajars
 	url = https://github.com/cran/rkafkajars
+[submodule "rkriging"]
+	path = rkriging
+	url = https://github.com/cran/rkriging
 [submodule "rkt"]
 	path = rkt
 	url = https://github.com/cran/rkt
@@ -58931,6 +58952,9 @@
 [submodule "taxlist"]
 	path = taxlist
 	url = https://github.com/cran/taxlist
+[submodule "taxnames"]
+	path = taxnames
+	url = https://github.com/cran/taxnames
 [submodule "taxonbridge"]
 	path = taxonbridge
 	url = https://github.com/cran/taxonbridge
@@ -60401,6 +60425,9 @@
 [submodule "translated"]
 	path = translated
 	url = https://github.com/cran/translated
+[submodule "translit.uk"]
+	path = translit.uk
+	url = https://github.com/cran/translit.uk
 [submodule "transmdl"]
 	path = transmdl
 	url = https://github.com/cran/transmdl
