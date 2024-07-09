@@ -5189,6 +5189,9 @@
 [submodule "FAdist"]
 	path = FAdist
 	url = https://github.com/cran/FAdist
+[submodule "FAfA"]
+	path = FAfA
+	url = https://github.com/cran/FAfA
 [submodule "FAmle"]
 	path = FAmle
 	url = https://github.com/cran/FAmle
@@ -5444,6 +5447,9 @@
 [submodule "FUNTA"]
 	path = FUNTA
 	url = https://github.com/cran/FUNTA
+[submodule "FVDDPpkg"]
+	path = FVDDPpkg
+	url = https://github.com/cran/FVDDPpkg
 [submodule "FWDselect"]
 	path = FWDselect
 	url = https://github.com/cran/FWDselect
@@ -5534,6 +5540,9 @@
 [submodule "FastStepGraph"]
 	path = FastStepGraph
 	url = https://github.com/cran/FastStepGraph
+[submodule "FastUtils"]
+	path = FastUtils
+	url = https://github.com/cran/FastUtils
 [submodule "FatTailsR"]
 	path = FatTailsR
 	url = https://github.com/cran/FatTailsR
@@ -18782,6 +18791,9 @@
 [submodule "aIc"]
 	path = aIc
 	url = https://github.com/cran/aIc
+[submodule "aLBI"]
+	path = aLBI
+	url = https://github.com/cran/aLBI
 [submodule "aLFQ"]
 	path = aLFQ
 	url = https://github.com/cran/aLFQ
@@ -22217,6 +22229,9 @@
 [submodule "bookdown"]
 	path = bookdown
 	url = https://github.com/cran/bookdown
+[submodule "boomer"]
+	path = boomer
+	url = https://github.com/cran/boomer
 [submodule "boostingDEA"]
 	path = boostingDEA
 	url = https://github.com/cran/boostingDEA
@@ -26516,6 +26531,9 @@
 [submodule "danstat"]
 	path = danstat
 	url = https://github.com/cran/danstat
+[submodule "dapper"]
+	path = dapper
+	url = https://github.com/cran/dapper
 [submodule "daqapo"]
 	path = daqapo
 	url = https://github.com/cran/daqapo
@@ -26987,6 +27005,9 @@
 [submodule "decorators"]
 	path = decorators
 	url = https://github.com/cran/decorators
+[submodule "decp"]
+	path = decp
+	url = https://github.com/cran/decp
 [submodule "deducorrect"]
 	path = deducorrect
 	url = https://github.com/cran/deducorrect
@@ -34094,6 +34115,9 @@
 [submodule "gkmSVM"]
 	path = gkmSVM
 	url = https://github.com/cran/gkmSVM
+[submodule "glam"]
+	path = glam
+	url = https://github.com/cran/glam
 [submodule "glamlasso"]
 	path = glamlasso
 	url = https://github.com/cran/glamlasso
@@ -46028,6 +46052,9 @@
 [submodule "pCalibrate"]
 	path = pCalibrate
 	url = https://github.com/cran/pCalibrate
+[submodule "pEPA"]
+	path = pEPA
+	url = https://github.com/cran/pEPA
 [submodule "pGPx"]
 	path = pGPx
 	url = https://github.com/cran/pGPx
@@ -46325,6 +46352,9 @@
 [submodule "param2moment"]
 	path = param2moment
 	url = https://github.com/cran/param2moment
+[submodule "paramDemo"]
+	path = paramDemo
+	url = https://github.com/cran/paramDemo
 [submodule "paramGUI"]
 	path = paramGUI
 	url = https://github.com/cran/paramGUI
@@ -50441,6 +50471,9 @@
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/cran/ranger
+[submodule "rank"]
+	path = rank
+	url = https://github.com/cran/rank
 [submodule "rankCorr"]
 	path = rankCorr
 	url = https://github.com/cran/rankCorr
@@ -56453,6 +56486,9 @@
 [submodule "soma"]
 	path = soma
 	url = https://github.com/cran/soma
+[submodule "somaticflags"]
+	path = somaticflags
+	url = https://github.com/cran/somaticflags
 [submodule "someMTP"]
 	path = someMTP
 	url = https://github.com/cran/someMTP
@@ -58703,6 +58739,9 @@
 [submodule "synthpop"]
 	path = synthpop
 	url = https://github.com/cran/synthpop
+[submodule "syrup"]
+	path = syrup
+	url = https://github.com/cran/syrup
 [submodule "sys"]
 	path = sys
 	url = https://github.com/cran/sys
