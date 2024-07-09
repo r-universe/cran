@@ -5954,6 +5954,9 @@
 [submodule "GDELTtools"]
 	path = GDELTtools
 	url = https://github.com/cran/GDELTtools
+[submodule "GDILM.ME"]
+	path = GDILM.ME
+	url = https://github.com/cran/GDILM.ME
 [submodule "GDILM.SIR"]
 	path = GDILM.SIR
 	url = https://github.com/cran/GDILM.SIR
@@ -43817,6 +43820,9 @@
 [submodule "nasaweather"]
 	path = nasaweather
 	url = https://github.com/cran/nasaweather
+[submodule "nascaR.data"]
+	path = nascaR.data
+	url = https://github.com/cran/nascaR.data
 [submodule "naspaclust"]
 	path = naspaclust
 	url = https://github.com/cran/naspaclust
