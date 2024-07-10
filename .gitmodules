@@ -12584,6 +12584,9 @@
 [submodule "PupillometryR"]
 	path = PupillometryR
 	url = https://github.com/cran/PupillometryR
+[submodule "PurpleAir"]
+	path = PurpleAir
+	url = https://github.com/cran/PurpleAir
 [submodule "Pursuit"]
 	path = Pursuit
 	url = https://github.com/cran/Pursuit
@@ -19757,6 +19760,9 @@
 [submodule "amregtest"]
 	path = amregtest
 	url = https://github.com/cran/amregtest
+[submodule "amscorer"]
+	path = amscorer
+	url = https://github.com/cran/amscorer
 [submodule "amt"]
 	path = amt
 	url = https://github.com/cran/amt
@@ -23666,6 +23672,9 @@
 [submodule "checkdown"]
 	path = checkdown
 	url = https://github.com/cran/checkdown
+[submodule "checked"]
+	path = checked
+	url = https://github.com/cran/checked
 [submodule "checker"]
 	path = checker
 	url = https://github.com/cran/checker
@@ -30176,6 +30185,9 @@
 [submodule "exams"]
 	path = exams
 	url = https://github.com/cran/exams
+[submodule "exams.forge"]
+	path = exams.forge
+	url = https://github.com/cran/exams.forge
 [submodule "exams.mylearn"]
 	path = exams.mylearn
 	url = https://github.com/cran/exams.mylearn
