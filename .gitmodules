@@ -5534,6 +5534,9 @@
 [submodule "FastRWeb"]
 	path = FastRWeb
 	url = https://github.com/cran/FastRWeb
+[submodule "FastRet"]
+	path = FastRet
+	url = https://github.com/cran/FastRet
 [submodule "FastSF"]
 	path = FastSF
 	url = https://github.com/cran/FastSF
@@ -10142,6 +10145,9 @@
 [submodule "MoTBFs"]
 	path = MoTBFs
 	url = https://github.com/cran/MoTBFs
+[submodule "MobileTrigger"]
+	path = MobileTrigger
+	url = https://github.com/cran/MobileTrigger
 [submodule "ModEstM"]
 	path = ModEstM
 	url = https://github.com/cran/ModEstM
@@ -16292,6 +16298,9 @@
 [submodule "ShapePattern"]
 	path = ShapePattern
 	url = https://github.com/cran/ShapePattern
+[submodule "ShapeRotator"]
+	path = ShapeRotator
+	url = https://github.com/cran/ShapeRotator
 [submodule "ShapeSelectForest"]
 	path = ShapeSelectForest
 	url = https://github.com/cran/ShapeSelectForest
@@ -50057,6 +50066,9 @@
 [submodule "rDEA"]
 	path = rDEA
 	url = https://github.com/cran/rDEA
+[submodule "rDNAse"]
+	path = rDNAse
+	url = https://github.com/cran/rDNAse
 [submodule "rDataPipeline"]
 	path = rDataPipeline
 	url = https://github.com/cran/rDataPipeline
