@@ -52865,9 +52865,6 @@
 [submodule "rpca"]
 	path = rpca
 	url = https://github.com/cran/rpca
-[submodule "rpdo"]
-	path = rpdo
-	url = https://github.com/cran/rpdo
 [submodule "rpf"]
 	path = rpf
 	url = https://github.com/cran/rpf
