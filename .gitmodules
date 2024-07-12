@@ -18434,6 +18434,9 @@
 [submodule "WEGE"]
 	path = WEGE
 	url = https://github.com/cran/WEGE
+[submodule "WES"]
+	path = WES
+	url = https://github.com/cran/WES
 [submodule "WGCNA"]
 	path = WGCNA
 	url = https://github.com/cran/WGCNA
@@ -54455,6 +54458,9 @@
 [submodule "sdrt"]
 	path = sdrt
 	url = https://github.com/cran/sdrt
+[submodule "sdtmchecks"]
+	path = sdtmchecks
+	url = https://github.com/cran/sdtmchecks
 [submodule "sdtmval"]
 	path = sdtmval
 	url = https://github.com/cran/sdtmval
@@ -59741,6 +59747,9 @@
 [submodule "tidygapminder"]
 	path = tidygapminder
 	url = https://github.com/cran/tidygapminder
+[submodule "tidygate"]
+	path = tidygate
+	url = https://github.com/cran/tidygate
 [submodule "tidygenomics"]
 	path = tidygenomics
 	url = https://github.com/cran/tidygenomics
