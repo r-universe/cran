@@ -2366,6 +2366,9 @@
 [submodule "CPP"]
 	path = CPP
 	url = https://github.com/cran/CPP
+[submodule "CPoptim"]
+	path = CPoptim
+	url = https://github.com/cran/CPoptim
 [submodule "CPsurv"]
 	path = CPsurv
 	url = https://github.com/cran/CPsurv
@@ -28079,6 +28082,9 @@
 [submodule "dockerfiler"]
 	path = dockerfiler
 	url = https://github.com/cran/dockerfiler
+[submodule "docket"]
+	path = docket
+	url = https://github.com/cran/docket
 [submodule "docknitr"]
 	path = docknitr
 	url = https://github.com/cran/docknitr
@@ -28319,6 +28325,9 @@
 [submodule "drgee"]
 	path = drgee
 	url = https://github.com/cran/drgee
+[submodule "drglm"]
+	path = drglm
+	url = https://github.com/cran/drglm
 [submodule "drhur"]
 	path = drhur
 	url = https://github.com/cran/drhur
@@ -41291,6 +41300,9 @@
 [submodule "mergen"]
 	path = mergen
 	url = https://github.com/cran/mergen
+[submodule "mergenstudio"]
+	path = mergenstudio
+	url = https://github.com/cran/mergenstudio
 [submodule "mergingTools"]
 	path = mergingTools
 	url = https://github.com/cran/mergingTools
@@ -53789,6 +53801,9 @@
 [submodule "sampbias"]
 	path = sampbias
 	url = https://github.com/cran/sampbias
+[submodule "sampcompR"]
+	path = sampcompR
+	url = https://github.com/cran/sampcompR
 [submodule "sampleSelection"]
 	path = sampleSelection
 	url = https://github.com/cran/sampleSelection
