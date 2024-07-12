@@ -15389,6 +15389,9 @@
 [submodule "SCINA"]
 	path = SCINA
 	url = https://github.com/cran/SCINA
+[submodule "SCIntRuler"]
+	path = SCIntRuler
+	url = https://github.com/cran/SCIntRuler
 [submodule "SCMA"]
 	path = SCMA
 	url = https://github.com/cran/SCMA
@@ -16529,6 +16532,9 @@
 [submodule "SmarterPoland"]
 	path = SmarterPoland
 	url = https://github.com/cran/SmarterPoland
+[submodule "SmithWilsonYieldCurve"]
+	path = SmithWilsonYieldCurve
+	url = https://github.com/cran/SmithWilsonYieldCurve
 [submodule "SmoothHazard"]
 	path = SmoothHazard
 	url = https://github.com/cran/SmoothHazard
@@ -34592,6 +34598,9 @@
 [submodule "govdown"]
 	path = govdown
 	url = https://github.com/cran/govdown
+[submodule "governor"]
+	path = governor
+	url = https://github.com/cran/governor
 [submodule "govinfoR"]
 	path = govinfoR
 	url = https://github.com/cran/govinfoR
