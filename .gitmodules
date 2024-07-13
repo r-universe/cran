@@ -34727,6 +34727,9 @@
 [submodule "graphicalExtremes"]
 	path = graphicalExtremes
 	url = https://github.com/cran/graphicalExtremes
+[submodule "graphicalMCP"]
+	path = graphicalMCP
+	url = https://github.com/cran/graphicalMCP
 [submodule "graphicalVAR"]
 	path = graphicalVAR
 	url = https://github.com/cran/graphicalVAR
