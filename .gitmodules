@@ -7160,6 +7160,9 @@
 [submodule "HomomorphicEncryption"]
 	path = HomomorphicEncryption
 	url = https://github.com/cran/HomomorphicEncryption
+[submodule "HonestDiD"]
+	path = HonestDiD
+	url = https://github.com/cran/HonestDiD
 [submodule "HospitalNetwork"]
 	path = HospitalNetwork
 	url = https://github.com/cran/HospitalNetwork
@@ -24188,6 +24191,9 @@
 [submodule "clordr"]
 	path = clordr
 	url = https://github.com/cran/clordr
+[submodule "closeloop"]
+	path = closeloop
+	url = https://github.com/cran/closeloop
 [submodule "cloudUtil"]
 	path = cloudUtil
 	url = https://github.com/cran/cloudUtil
@@ -35579,6 +35585,9 @@
 [submodule "heddlr"]
 	path = heddlr
 	url = https://github.com/cran/heddlr
+[submodule "hedgedrf"]
+	path = hedgedrf
+	url = https://github.com/cran/hedgedrf
 [submodule "hedgehog"]
 	path = hedgehog
 	url = https://github.com/cran/hedgehog
@@ -36431,6 +36440,9 @@
 [submodule "iNZightTools"]
 	path = iNZightTools
 	url = https://github.com/cran/iNZightTools
+[submodule "iPRISM"]
+	path = iPRISM
+	url = https://github.com/cran/iPRISM
 [submodule "iRafNet"]
 	path = iRafNet
 	url = https://github.com/cran/iRafNet
@@ -42692,6 +42704,9 @@
 [submodule "modifiedmk"]
 	path = modifiedmk
 	url = https://github.com/cran/modifiedmk
+[submodule "modisfast"]
+	path = modisfast
+	url = https://github.com/cran/modisfast
 [submodule "modmarg"]
 	path = modmarg
 	url = https://github.com/cran/modmarg
