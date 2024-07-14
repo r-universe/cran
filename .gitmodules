@@ -848,6 +848,9 @@
 [submodule "BAT"]
 	path = BAT
 	url = https://github.com/cran/BAT
+[submodule "BATSS"]
+	path = BATSS
+	url = https://github.com/cran/BATSS
 [submodule "BAYSTAR"]
 	path = BAYSTAR
 	url = https://github.com/cran/BAYSTAR
@@ -2645,6 +2648,9 @@
 [submodule "ChainLadder"]
 	path = ChainLadder
 	url = https://github.com/cran/ChainLadder
+[submodule "ChangePointTaylor"]
+	path = ChangePointTaylor
+	url = https://github.com/cran/ChangePointTaylor
 [submodule "ChangepointTesting"]
 	path = ChangepointTesting
 	url = https://github.com/cran/ChangepointTesting
@@ -4472,6 +4478,9 @@
 [submodule "EEMDlstm"]
 	path = EEMDlstm
 	url = https://github.com/cran/EEMDlstm
+[submodule "EEML"]
+	path = EEML
+	url = https://github.com/cran/EEML
 [submodule "EESPCA"]
 	path = EESPCA
 	url = https://github.com/cran/EESPCA
@@ -41846,6 +41855,9 @@
 [submodule "mifa"]
 	path = mifa
 	url = https://github.com/cran/mifa
+[submodule "mig"]
+	path = mig
+	url = https://github.com/cran/mig
 [submodule "migest"]
 	path = migest
 	url = https://github.com/cran/migest
@@ -63353,6 +63365,9 @@
 [submodule "zipfextR"]
 	path = zipfextR
 	url = https://github.com/cran/zipfextR
+[submodule "zippeR"]
+	path = zippeR
+	url = https://github.com/cran/zippeR
 [submodule "zipsae"]
 	path = zipsae
 	url = https://github.com/cran/zipsae
