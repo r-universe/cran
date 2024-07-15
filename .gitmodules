@@ -35960,6 +35960,9 @@
 [submodule "hockeystick"]
 	path = hockeystick
 	url = https://github.com/cran/hockeystick
+[submodule "holi"]
+	path = holi
+	url = https://github.com/cran/holi
 [submodule "holiglm"]
 	path = holiglm
 	url = https://github.com/cran/holiglm
