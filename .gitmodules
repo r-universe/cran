@@ -10412,9 +10412,6 @@
 [submodule "NADA2"]
 	path = NADA2
 	url = https://github.com/cran/NADA2
-[submodule "NADIA"]
-	path = NADIA
-	url = https://github.com/cran/NADIA
 [submodule "NAEPirtparams"]
 	path = NAEPirtparams
 	url = https://github.com/cran/NAEPirtparams
@@ -18152,9 +18149,6 @@
 [submodule "V8"]
 	path = V8
 	url = https://github.com/cran/V8
-[submodule "VAJointSurv"]
-	path = VAJointSurv
-	url = https://github.com/cran/VAJointSurv
 [submodule "VALERIE"]
 	path = VALERIE
 	url = https://github.com/cran/VALERIE
@@ -40847,9 +40841,6 @@
 [submodule "maxnet"]
 	path = maxnet
 	url = https://github.com/cran/maxnet
-[submodule "maxnodf"]
-	path = maxnodf
-	url = https://github.com/cran/maxnodf
 [submodule "maxstat"]
 	path = maxstat
 	url = https://github.com/cran/maxstat
@@ -45683,9 +45674,6 @@
 [submodule "optim.functions"]
 	path = optim.functions
 	url = https://github.com/cran/optim.functions
-[submodule "optimCheck"]
-	path = optimCheck
-	url = https://github.com/cran/optimCheck
 [submodule "optimLanduse"]
 	path = optimLanduse
 	url = https://github.com/cran/optimLanduse
