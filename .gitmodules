@@ -5228,9 +5228,6 @@
 [submodule "FCPS"]
 	path = FCPS
 	url = https://github.com/cran/FCPS
-[submodule "FCSlib"]
-	path = FCSlib
-	url = https://github.com/cran/FCSlib
 [submodule "FCVAR"]
 	path = FCVAR
 	url = https://github.com/cran/FCVAR
@@ -9740,9 +9737,6 @@
 [submodule "ManlyMix"]
 	path = ManlyMix
 	url = https://github.com/cran/ManlyMix
-[submodule "MantaID"]
-	path = MantaID
-	url = https://github.com/cran/MantaID
 [submodule "ManyTests"]
 	path = ManyTests
 	url = https://github.com/cran/ManyTests
@@ -63188,9 +63182,6 @@
 [submodule "yardstick"]
 	path = yardstick
 	url = https://github.com/cran/yardstick
-[submodule "yarr"]
-	path = yarr
-	url = https://github.com/cran/yarr
 [submodule "yarrr"]
 	path = yarrr
 	url = https://github.com/cran/yarrr
