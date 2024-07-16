@@ -10409,6 +10409,9 @@
 [submodule "NADA2"]
 	path = NADA2
 	url = https://github.com/cran/NADA2
+[submodule "NADIA"]
+	path = NADIA
+	url = https://github.com/cran/NADIA
 [submodule "NAEPirtparams"]
 	path = NAEPirtparams
 	url = https://github.com/cran/NAEPirtparams
@@ -18143,6 +18146,9 @@
 [submodule "V8"]
 	path = V8
 	url = https://github.com/cran/V8
+[submodule "VAJointSurv"]
+	path = VAJointSurv
+	url = https://github.com/cran/VAJointSurv
 [submodule "VALERIE"]
 	path = VALERIE
 	url = https://github.com/cran/VALERIE
@@ -34796,9 +34802,6 @@
 [submodule "greeks"]
 	path = greeks
 	url = https://github.com/cran/greeks
-[submodule "greenR"]
-	path = greenR
-	url = https://github.com/cran/greenR
 [submodule "greenclust"]
 	path = greenclust
 	url = https://github.com/cran/greenclust
@@ -36590,24 +36593,12 @@
 [submodule "icesDatras"]
 	path = icesDatras
 	url = https://github.com/cran/icesDatras
-[submodule "icesDatsu"]
-	path = icesDatsu
-	url = https://github.com/cran/icesDatsu
-[submodule "icesDatsuQC"]
-	path = icesDatsuQC
-	url = https://github.com/cran/icesDatsuQC
 [submodule "icesSAG"]
 	path = icesSAG
 	url = https://github.com/cran/icesSAG
-[submodule "icesSD"]
-	path = icesSD
-	url = https://github.com/cran/icesSD
 [submodule "icesTAF"]
 	path = icesTAF
 	url = https://github.com/cran/icesTAF
-[submodule "icesVMS"]
-	path = icesVMS
-	url = https://github.com/cran/icesVMS
 [submodule "icesVocab"]
 	path = icesVocab
 	url = https://github.com/cran/icesVocab
@@ -40832,6 +40823,9 @@
 [submodule "maxnet"]
 	path = maxnet
 	url = https://github.com/cran/maxnet
+[submodule "maxnodf"]
+	path = maxnodf
+	url = https://github.com/cran/maxnodf
 [submodule "maxstat"]
 	path = maxstat
 	url = https://github.com/cran/maxstat
@@ -45665,6 +45659,9 @@
 [submodule "optim.functions"]
 	path = optim.functions
 	url = https://github.com/cran/optim.functions
+[submodule "optimCheck"]
+	path = optimCheck
+	url = https://github.com/cran/optimCheck
 [submodule "optimLanduse"]
 	path = optimLanduse
 	url = https://github.com/cran/optimLanduse
@@ -59006,9 +59003,6 @@
 [submodule "taxonomizr"]
 	path = taxonomizr
 	url = https://github.com/cran/taxonomizr
-[submodule "taxotools"]
-	path = taxotools
-	url = https://github.com/cran/taxotools
 [submodule "tayloRswift"]
 	path = tayloRswift
 	url = https://github.com/cran/tayloRswift
@@ -62024,9 +62018,6 @@
 [submodule "visualize"]
 	path = visualize
 	url = https://github.com/cran/visualize
-[submodule "visualpred"]
-	path = visualpred
-	url = https://github.com/cran/visualpred
 [submodule "visvow"]
 	path = visvow
 	url = https://github.com/cran/visvow
@@ -62651,9 +62642,6 @@
 [submodule "wikilake"]
 	path = wikilake
 	url = https://github.com/cran/wikilake
-[submodule "wikiprofiler"]
-	path = wikiprofiler
-	url = https://github.com/cran/wikiprofiler
 [submodule "wikitaxa"]
 	path = wikitaxa
 	url = https://github.com/cran/wikitaxa
