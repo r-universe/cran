@@ -29822,9 +29822,6 @@
 [submodule "erp.easy"]
 	path = erp.easy
 	url = https://github.com/cran/erp.easy
-[submodule "err"]
-	path = err
-	url = https://github.com/cran/err
 [submodule "errorist"]
 	path = errorist
 	url = https://github.com/cran/errorist
