@@ -19376,9 +19376,6 @@
 [submodule "agena.ai"]
 	path = agena.ai
 	url = https://github.com/cran/agena.ai
-[submodule "ageutils"]
-	path = ageutils
-	url = https://github.com/cran/ageutils
 [submodule "agfh"]
 	path = agfh
 	url = https://github.com/cran/agfh
@@ -34754,9 +34751,6 @@
 [submodule "grateful"]
 	path = grateful
 	url = https://github.com/cran/grateful
-[submodule "grates"]
-	path = grates
-	url = https://github.com/cran/grates
 [submodule "gratia"]
 	path = gratia
 	url = https://github.com/cran/gratia
@@ -36992,12 +36986,6 @@
 [submodule "incgraph"]
 	path = incgraph
 	url = https://github.com/cran/incgraph
-[submodule "incidence"]
-	path = incidence
-	url = https://github.com/cran/incidence
-[submodule "incidence2"]
-	path = incidence2
-	url = https://github.com/cran/incidence2
 [submodule "incidental"]
 	path = incidental
 	url = https://github.com/cran/incidental
@@ -63242,9 +63230,6 @@
 [submodule "ymlthis"]
 	path = ymlthis
 	url = https://github.com/cran/ymlthis
-[submodule "ympes"]
-	path = ympes
-	url = https://github.com/cran/ympes
 [submodule "yodel"]
 	path = yodel
 	url = https://github.com/cran/yodel
