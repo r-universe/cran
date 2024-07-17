@@ -5228,6 +5228,9 @@
 [submodule "FCPS"]
 	path = FCPS
 	url = https://github.com/cran/FCPS
+[submodule "FCSlib"]
+	path = FCSlib
+	url = https://github.com/cran/FCSlib
 [submodule "FCVAR"]
 	path = FCVAR
 	url = https://github.com/cran/FCVAR
@@ -9737,6 +9740,9 @@
 [submodule "ManlyMix"]
 	path = ManlyMix
 	url = https://github.com/cran/ManlyMix
+[submodule "MantaID"]
+	path = MantaID
+	url = https://github.com/cran/MantaID
 [submodule "ManyTests"]
 	path = ManyTests
 	url = https://github.com/cran/ManyTests
@@ -12134,9 +12140,6 @@
 [submodule "PetfindeR"]
 	path = PetfindeR
 	url = https://github.com/cran/PetfindeR
-[submodule "PhViD"]
-	path = PhViD
-	url = https://github.com/cran/PhViD
 [submodule "PhageCocktail"]
 	path = PhageCocktail
 	url = https://github.com/cran/PhageCocktail
@@ -30959,9 +30962,6 @@
 [submodule "fdacluster"]
 	path = fdacluster
 	url = https://github.com/cran/fdacluster
-[submodule "fdaconcur"]
-	path = fdaconcur
-	url = https://github.com/cran/fdaconcur
 [submodule "fdadensity"]
 	path = fdadensity
 	url = https://github.com/cran/fdadensity
@@ -34796,6 +34796,9 @@
 [submodule "greeks"]
 	path = greeks
 	url = https://github.com/cran/greeks
+[submodule "greenR"]
+	path = greenR
+	url = https://github.com/cran/greenR
 [submodule "greenclust"]
 	path = greenclust
 	url = https://github.com/cran/greenclust
@@ -36587,12 +36590,24 @@
 [submodule "icesDatras"]
 	path = icesDatras
 	url = https://github.com/cran/icesDatras
+[submodule "icesDatsu"]
+	path = icesDatsu
+	url = https://github.com/cran/icesDatsu
+[submodule "icesDatsuQC"]
+	path = icesDatsuQC
+	url = https://github.com/cran/icesDatsuQC
 [submodule "icesSAG"]
 	path = icesSAG
 	url = https://github.com/cran/icesSAG
+[submodule "icesSD"]
+	path = icesSD
+	url = https://github.com/cran/icesSD
 [submodule "icesTAF"]
 	path = icesTAF
 	url = https://github.com/cran/icesTAF
+[submodule "icesVMS"]
+	path = icesVMS
+	url = https://github.com/cran/icesVMS
 [submodule "icesVocab"]
 	path = icesVocab
 	url = https://github.com/cran/icesVocab
@@ -38411,9 +38426,6 @@
 [submodule "kisopenapi"]
 	path = kisopenapi
 	url = https://github.com/cran/kisopenapi
-[submodule "kissmig"]
-	path = kissmig
-	url = https://github.com/cran/kissmig
 [submodule "kit"]
 	path = kit
 	url = https://github.com/cran/kit
@@ -59000,6 +59012,9 @@
 [submodule "taxonomizr"]
 	path = taxonomizr
 	url = https://github.com/cran/taxonomizr
+[submodule "taxotools"]
+	path = taxotools
+	url = https://github.com/cran/taxotools
 [submodule "tayloRswift"]
 	path = tayloRswift
 	url = https://github.com/cran/tayloRswift
@@ -62015,6 +62030,9 @@
 [submodule "visualize"]
 	path = visualize
 	url = https://github.com/cran/visualize
+[submodule "visualpred"]
+	path = visualpred
+	url = https://github.com/cran/visualpred
 [submodule "visvow"]
 	path = visvow
 	url = https://github.com/cran/visvow
@@ -62639,6 +62657,9 @@
 [submodule "wikilake"]
 	path = wikilake
 	url = https://github.com/cran/wikilake
+[submodule "wikiprofiler"]
+	path = wikiprofiler
+	url = https://github.com/cran/wikiprofiler
 [submodule "wikitaxa"]
 	path = wikitaxa
 	url = https://github.com/cran/wikitaxa
@@ -63185,6 +63206,9 @@
 [submodule "yardstick"]
 	path = yardstick
 	url = https://github.com/cran/yardstick
+[submodule "yarr"]
+	path = yarr
+	url = https://github.com/cran/yarr
 [submodule "yarrr"]
 	path = yarrr
 	url = https://github.com/cran/yarrr
