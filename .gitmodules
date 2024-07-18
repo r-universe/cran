@@ -20033,6 +20033,9 @@
 [submodule "apsimx"]
 	path = apsimx
 	url = https://github.com/cran/apsimx
+[submodule "apt"]
+	path = apt
+	url = https://github.com/cran/apt
 [submodule "apyramid"]
 	path = apyramid
 	url = https://github.com/cran/apyramid
@@ -29777,6 +29780,9 @@
 [submodule "ercv"]
 	path = ercv
 	url = https://github.com/cran/ercv
+[submodule "erer"]
+	path = erer
+	url = https://github.com/cran/erer
 [submodule "erfe"]
 	path = erfe
 	url = https://github.com/cran/erfe
@@ -30956,6 +30962,9 @@
 [submodule "fdacluster"]
 	path = fdacluster
 	url = https://github.com/cran/fdacluster
+[submodule "fdaconcur"]
+	path = fdaconcur
+	url = https://github.com/cran/fdaconcur
 [submodule "fdadensity"]
 	path = fdadensity
 	url = https://github.com/cran/fdadensity
@@ -38420,6 +38429,9 @@
 [submodule "kisopenapi"]
 	path = kisopenapi
 	url = https://github.com/cran/kisopenapi
+[submodule "kissmig"]
+	path = kissmig
+	url = https://github.com/cran/kissmig
 [submodule "kit"]
 	path = kit
 	url = https://github.com/cran/kit
