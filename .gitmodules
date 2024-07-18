@@ -19106,6 +19106,9 @@
 [submodule "adaptsmoFMRI"]
 	path = adaptsmoFMRI
 	url = https://github.com/cran/adaptsmoFMRI
+[submodule "adass"]
+	path = adass
+	url = https://github.com/cran/adass
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/cran/adbcdrivermanager
