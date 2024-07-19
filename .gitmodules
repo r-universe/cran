@@ -4709,6 +4709,9 @@
 [submodule "EWGoF"]
 	path = EWGoF
 	url = https://github.com/cran/EWGoF
+[submodule "EWOC.Comb"]
+	path = EWOC.Comb
+	url = https://github.com/cran/EWOC.Comb
 [submodule "EWS"]
 	path = EWS
 	url = https://github.com/cran/EWS
@@ -8381,6 +8384,9 @@
 [submodule "LMN"]
 	path = LMN
 	url = https://github.com/cran/LMN
+[submodule "LMPdata"]
+	path = LMPdata
+	url = https://github.com/cran/LMPdata
 [submodule "LMest"]
 	path = LMest
 	url = https://github.com/cran/LMest
@@ -10346,6 +10352,9 @@
 [submodule "MultiVarSel"]
 	path = MultiVarSel
 	url = https://github.com/cran/MultiVarSel
+[submodule "Multiaovbay"]
+	path = Multiaovbay
+	url = https://github.com/cran/Multiaovbay
 [submodule "MultinomialCI"]
 	path = MultinomialCI
 	url = https://github.com/cran/MultinomialCI
@@ -11219,6 +11228,9 @@
 [submodule "OptSig"]
 	path = OptSig
 	url = https://github.com/cran/OptSig
+[submodule "OptiSembleForecasting"]
+	path = OptiSembleForecasting
+	url = https://github.com/cran/OptiSembleForecasting
 [submodule "OptimModel"]
 	path = OptimModel
 	url = https://github.com/cran/OptimModel
@@ -25226,6 +25238,9 @@
 [submodule "cookies"]
 	path = cookies
 	url = https://github.com/cran/cookies
+[submodule "cooltools"]
+	path = cooltools
+	url = https://github.com/cran/cooltools
 [submodule "coop"]
 	path = coop
 	url = https://github.com/cran/coop
@@ -31220,9 +31235,6 @@
 [submodule "fillr"]
 	path = fillr
 	url = https://github.com/cran/fillr
-[submodule "filteRjsats"]
-	path = filteRjsats
-	url = https://github.com/cran/filteRjsats
 [submodule "filterNHP"]
 	path = filterNHP
 	url = https://github.com/cran/filterNHP
@@ -42860,6 +42872,9 @@
 [submodule "morrowplots"]
 	path = morrowplots
 	url = https://github.com/cran/morrowplots
+[submodule "morse"]
+	path = morse
+	url = https://github.com/cran/morse
 [submodule "mort"]
 	path = mort
 	url = https://github.com/cran/mort
@@ -47456,6 +47471,9 @@
 [submodule "piecemaker"]
 	path = piecemaker
 	url = https://github.com/cran/piecemaker
+[submodule "piecenorms"]
+	path = piecenorms
+	url = https://github.com/cran/piecenorms
 [submodule "piecepackr"]
 	path = piecepackr
 	url = https://github.com/cran/piecepackr
@@ -59693,6 +59711,9 @@
 [submodule "tidydatatutor"]
 	path = tidydatatutor
 	url = https://github.com/cran/tidydatatutor
+[submodule "tidydelta"]
+	path = tidydelta
+	url = https://github.com/cran/tidydelta
 [submodule "tidydice"]
 	path = tidydice
 	url = https://github.com/cran/tidydice
