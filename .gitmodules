@@ -42674,6 +42674,9 @@
 [submodule "modeltime"]
 	path = modeltime
 	url = https://github.com/cran/modeltime
+[submodule "modeltime.ensemble"]
+	path = modeltime.ensemble
+	url = https://github.com/cran/modeltime.ensemble
 [submodule "modeltime.resample"]
 	path = modeltime.resample
 	url = https://github.com/cran/modeltime.resample
