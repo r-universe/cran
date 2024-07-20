@@ -31223,6 +31223,9 @@
 [submodule "filesstrings"]
 	path = filesstrings
 	url = https://github.com/cran/filesstrings
+[submodule "filibustr"]
+	path = filibustr
+	url = https://github.com/cran/filibustr
 [submodule "filling"]
 	path = filling
 	url = https://github.com/cran/filling
@@ -36707,6 +36710,12 @@
 [submodule "ieeeround"]
 	path = ieeeround
 	url = https://github.com/cran/ieeeround
+[submodule "iemisc"]
+	path = iemisc
+	url = https://github.com/cran/iemisc
+[submodule "iemiscdata"]
+	path = iemiscdata
+	url = https://github.com/cran/iemiscdata
 [submodule "iemisctext"]
 	path = iemisctext
 	url = https://github.com/cran/iemisctext
