@@ -8696,9 +8696,6 @@
 [submodule "LifeTables"]
 	path = LifeTables
 	url = https://github.com/cran/LifeTables
-[submodule "LifemapR"]
-	path = LifemapR
-	url = https://github.com/cran/LifemapR
 [submodule "Lifertable"]
 	path = Lifertable
 	url = https://github.com/cran/Lifertable
@@ -14729,6 +14726,9 @@
 [submodule "RestoreNet"]
 	path = RestoreNet
 	url = https://github.com/cran/RestoreNet
+[submodule "ResultModelManager"]
+	path = ResultModelManager
+	url = https://github.com/cran/ResultModelManager
 [submodule "ReturnCurves"]
 	path = ReturnCurves
 	url = https://github.com/cran/ReturnCurves
@@ -23501,6 +23501,9 @@
 [submodule "centiserve"]
 	path = centiserve
 	url = https://github.com/cran/centiserve
+[submodule "centr"]
+	path = centr
+	url = https://github.com/cran/centr
 [submodule "centrifugeR"]
 	path = centrifugeR
 	url = https://github.com/cran/centrifugeR
@@ -33269,6 +33272,9 @@
 [submodule "geotools"]
 	path = geotools
 	url = https://github.com/cran/geotools
+[submodule "geotoolsR"]
+	path = geotoolsR
+	url = https://github.com/cran/geotoolsR
 [submodule "geotopbricks"]
 	path = geotopbricks
 	url = https://github.com/cran/geotopbricks
@@ -37091,6 +37097,9 @@
 [submodule "inferr"]
 	path = inferr
 	url = https://github.com/cran/inferr
+[submodule "infiltrodiscR"]
+	path = infiltrodiscR
+	url = https://github.com/cran/infiltrodiscR
 [submodule "infinitefactor"]
 	path = infinitefactor
 	url = https://github.com/cran/infinitefactor
@@ -59363,6 +59372,9 @@
 [submodule "testtwice"]
 	path = testtwice
 	url = https://github.com/cran/testtwice
+[submodule "tetRys"]
+	path = tetRys
+	url = https://github.com/cran/tetRys
 [submodule "tetraclasse"]
 	path = tetraclasse
 	url = https://github.com/cran/tetraclasse
