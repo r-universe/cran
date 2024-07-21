@@ -2312,6 +2312,9 @@
 [submodule "COMIX"]
 	path = COMIX
 	url = https://github.com/cran/COMIX
+[submodule "COMMA"]
+	path = COMMA
+	url = https://github.com/cran/COMMA
 [submodule "COMPoissonReg"]
 	path = COMPoissonReg
 	url = https://github.com/cran/COMPoissonReg
@@ -9299,6 +9302,9 @@
 [submodule "MLDataR"]
 	path = MLDataR
 	url = https://github.com/cran/MLDataR
+[submodule "MLE"]
+	path = MLE
+	url = https://github.com/cran/MLE
 [submodule "MLEce"]
 	path = MLEce
 	url = https://github.com/cran/MLEce
@@ -13589,6 +13595,9 @@
 [submodule "ROCpsych"]
 	path = ROCpsych
 	url = https://github.com/cran/ROCpsych
+[submodule "ROCsurf"]
+	path = ROCsurf
+	url = https://github.com/cran/ROCsurf
 [submodule "RODBC"]
 	path = RODBC
 	url = https://github.com/cran/RODBC
@@ -17012,6 +17021,9 @@
 [submodule "SuessR"]
 	path = SuessR
 	url = https://github.com/cran/SuessR
+[submodule "SumcaVer1"]
+	path = SumcaVer1
+	url = https://github.com/cran/SumcaVer1
 [submodule "SummaryLasso"]
 	path = SummaryLasso
 	url = https://github.com/cran/SummaryLasso
@@ -22202,6 +22214,9 @@
 [submodule "bodycomp"]
 	path = bodycomp
 	url = https://github.com/cran/bodycomp
+[submodule "bodycompref"]
+	path = bodycompref
+	url = https://github.com/cran/bodycompref
 [submodule "boggy"]
 	path = boggy
 	url = https://github.com/cran/boggy
@@ -38588,6 +38603,9 @@
 [submodule "kosis"]
 	path = kosis
 	url = https://github.com/cran/kosis
+[submodule "kpcaIG"]
+	path = kpcaIG
+	url = https://github.com/cran/kpcaIG
 [submodule "kpcalg"]
 	path = kpcalg
 	url = https://github.com/cran/kpcalg
@@ -41891,6 +41909,9 @@
 [submodule "milr"]
 	path = milr
 	url = https://github.com/cran/milr
+[submodule "mimdo"]
+	path = mimdo
+	url = https://github.com/cran/mimdo
 [submodule "mime"]
 	path = mime
 	url = https://github.com/cran/mime
@@ -41954,6 +41975,9 @@
 [submodule "minimap"]
 	path = minimap
 	url = https://github.com/cran/minimap
+[submodule "minimapR"]
+	path = minimapR
+	url = https://github.com/cran/minimapR
 [submodule "minimax"]
 	path = minimax
 	url = https://github.com/cran/minimax
@@ -42581,6 +42605,9 @@
 [submodule "mobsim"]
 	path = mobsim
 	url = https://github.com/cran/mobsim
+[submodule "moc.gapbk"]
+	path = moc.gapbk
+	url = https://github.com/cran/moc.gapbk
 [submodule "mockery"]
 	path = mockery
 	url = https://github.com/cran/mockery
@@ -48062,6 +48089,9 @@
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/cran/polaroid
+[submodule "poldis"]
+	path = poldis
+	url = https://github.com/cran/poldis
 [submodule "policytree"]
 	path = policytree
 	url = https://github.com/cran/policytree
@@ -48533,9 +48563,6 @@
 [submodule "precmed"]
 	path = precmed
 	url = https://github.com/cran/precmed
-[submodule "precommit"]
-	path = precommit
-	url = https://github.com/cran/precommit
 [submodule "precondition"]
 	path = precondition
 	url = https://github.com/cran/precondition
@@ -60536,6 +60563,9 @@
 [submodule "trawl"]
 	path = trawl
 	url = https://github.com/cran/trawl
+[submodule "trdist"]
+	path = trdist
+	url = https://github.com/cran/trdist
 [submodule "treasury"]
 	path = treasury
 	url = https://github.com/cran/treasury
