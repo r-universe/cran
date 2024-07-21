@@ -54911,6 +54911,9 @@
 [submodule "serieslcb"]
 	path = serieslcb
 	url = https://github.com/cran/serieslcb
+[submodule "serocalculator"]
+	path = serocalculator
+	url = https://github.com/cran/serocalculator
 [submodule "serp"]
 	path = serp
 	url = https://github.com/cran/serp
