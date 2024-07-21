@@ -43727,9 +43727,6 @@
 [submodule "mwa"]
 	path = mwa
 	url = https://github.com/cran/mwa
-[submodule "mwcsr"]
-	path = mwcsr
-	url = https://github.com/cran/mwcsr
 [submodule "mwlaxeref"]
 	path = mwlaxeref
 	url = https://github.com/cran/mwlaxeref
