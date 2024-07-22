@@ -8696,6 +8696,9 @@
 [submodule "LifeTables"]
 	path = LifeTables
 	url = https://github.com/cran/LifeTables
+[submodule "LifemapR"]
+	path = LifemapR
+	url = https://github.com/cran/LifemapR
 [submodule "Lifertable"]
 	path = Lifertable
 	url = https://github.com/cran/Lifertable
@@ -48572,6 +48575,9 @@
 [submodule "precmed"]
 	path = precmed
 	url = https://github.com/cran/precmed
+[submodule "precommit"]
+	path = precommit
+	url = https://github.com/cran/precommit
 [submodule "precondition"]
 	path = precondition
 	url = https://github.com/cran/precondition
