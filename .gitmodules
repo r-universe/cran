@@ -57488,6 +57488,9 @@
 [submodule "ssd4mosaic"]
 	path = ssd4mosaic
 	url = https://github.com/cran/ssd4mosaic
+[submodule "ssdGSA"]
+	path = ssdGSA
+	url = https://github.com/cran/ssdGSA
 [submodule "ssddata"]
 	path = ssddata
 	url = https://github.com/cran/ssddata
