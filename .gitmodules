@@ -37205,9 +37205,6 @@
 [submodule "insectDisease"]
 	path = insectDisease
 	url = https://github.com/cran/insectDisease
-[submodule "insee"]
-	path = insee
-	url = https://github.com/cran/insee
 [submodule "insight"]
 	path = insight
 	url = https://github.com/cran/insight
