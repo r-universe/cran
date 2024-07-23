@@ -17000,6 +17000,9 @@
 [submodule "StructureMC"]
 	path = StructureMC
 	url = https://github.com/cran/StructureMC
+[submodule "StuteTest"]
+	path = StuteTest
+	url = https://github.com/cran/StuteTest
 [submodule "SuRF.vs"]
 	path = SuRF.vs
 	url = https://github.com/cran/SuRF.vs
@@ -19556,6 +19559,9 @@
 [submodule "ajv"]
 	path = ajv
 	url = https://github.com/cran/ajv
+[submodule "aka"]
+	path = aka
+	url = https://github.com/cran/aka
 [submodule "akc"]
 	path = akc
 	url = https://github.com/cran/akc
@@ -22682,6 +22688,9 @@
 [submodule "bsub"]
 	path = bsub
 	url = https://github.com/cran/bsub
+[submodule "bsvarSIGNs"]
+	path = bsvarSIGNs
+	url = https://github.com/cran/bsvarSIGNs
 [submodule "bsvars"]
 	path = bsvars
 	url = https://github.com/cran/bsvars
@@ -37205,6 +37214,9 @@
 [submodule "insectDisease"]
 	path = insectDisease
 	url = https://github.com/cran/insectDisease
+[submodule "insee"]
+	path = insee
+	url = https://github.com/cran/insee
 [submodule "insight"]
 	path = insight
 	url = https://github.com/cran/insight
@@ -46562,6 +46574,9 @@
 [submodule "pastaPlot"]
 	path = pastaPlot
 	url = https://github.com/cran/pastaPlot
+[submodule "pastboon"]
+	path = pastboon
+	url = https://github.com/cran/pastboon
 [submodule "pastclim"]
 	path = pastclim
 	url = https://github.com/cran/pastclim
@@ -59258,6 +59273,9 @@
 [submodule "tenispolaR"]
 	path = tenispolaR
 	url = https://github.com/cran/tenispolaR
+[submodule "tenm"]
+	path = tenm
+	url = https://github.com/cran/tenm
 [submodule "tensor"]
 	path = tensor
 	url = https://github.com/cran/tensor
@@ -60782,6 +60800,9 @@
 [submodule "trtf"]
 	path = trtf
 	url = https://github.com/cran/trtf
+[submodule "trud"]
+	path = trud
+	url = https://github.com/cran/trud
 [submodule "truelies"]
 	path = truelies
 	url = https://github.com/cran/truelies
