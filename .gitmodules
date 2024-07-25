@@ -44348,6 +44348,9 @@
 [submodule "newsmd"]
 	path = newsmd
 	url = https://github.com/cran/newsmd
+[submodule "nextGenShinyApps"]
+	path = nextGenShinyApps
+	url = https://github.com/cran/nextGenShinyApps
 [submodule "nexus"]
 	path = nexus
 	url = https://github.com/cran/nexus
@@ -49925,6 +49928,9 @@
 [submodule "quickcheck"]
 	path = quickcheck
 	url = https://github.com/cran/quickcheck
+[submodule "quickcode"]
+	path = quickcode
+	url = https://github.com/cran/quickcode
 [submodule "quickmatch"]
 	path = quickmatch
 	url = https://github.com/cran/quickmatch
@@ -49982,6 +49988,9 @@
 [submodule "r02pro"]
 	path = r02pro
 	url = https://github.com/cran/r02pro
+[submodule "r2country"]
+	path = r2country
+	url = https://github.com/cran/r2country
 [submodule "r2d2"]
 	path = r2d2
 	url = https://github.com/cran/r2d2
@@ -50024,12 +50033,18 @@
 [submodule "r2redux"]
 	path = r2redux
 	url = https://github.com/cran/r2redux
+[submodule "r2resize"]
+	path = r2resize
+	url = https://github.com/cran/r2resize
 [submodule "r2rtf"]
 	path = r2rtf
 	url = https://github.com/cran/r2rtf
 [submodule "r2shortcode"]
 	path = r2shortcode
 	url = https://github.com/cran/r2shortcode
+[submodule "r2social"]
+	path = r2social
+	url = https://github.com/cran/r2social
 [submodule "r2spss"]
 	path = r2spss
 	url = https://github.com/cran/r2spss
@@ -58760,6 +58775,9 @@
 [submodule "symSEM"]
 	path = symSEM
 	url = https://github.com/cran/symSEM
+[submodule "symbol.equation.gpt"]
+	path = symbol.equation.gpt
+	url = https://github.com/cran/symbol.equation.gpt
 [submodule "symbolicDA"]
 	path = symbolicDA
 	url = https://github.com/cran/symbolicDA
