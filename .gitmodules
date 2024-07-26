@@ -24152,9 +24152,6 @@
 [submodule "clime"]
 	path = clime
 	url = https://github.com/cran/clime
-[submodule "climenv"]
-	path = climenv
-	url = https://github.com/cran/climenv
 [submodule "climetrics"]
 	path = climetrics
 	url = https://github.com/cran/climetrics
@@ -37256,9 +37253,6 @@
 [submodule "intRvals"]
 	path = intRvals
 	url = https://github.com/cran/intRvals
-[submodule "intSDM"]
-	path = intSDM
-	url = https://github.com/cran/intSDM
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cran/intamap
@@ -48098,9 +48092,6 @@
 [submodule "poisson.glm.mix"]
 	path = poisson.glm.mix
 	url = https://github.com/cran/poisson.glm.mix
-[submodule "poissonMT"]
-	path = poissonMT
-	url = https://github.com/cran/poissonMT
 [submodule "poissonreg"]
 	path = poissonreg
 	url = https://github.com/cran/poissonreg
@@ -52583,18 +52574,12 @@
 [submodule "robber"]
 	path = robber
 	url = https://github.com/cran/robber
-[submodule "robcbi"]
-	path = robcbi
-	url = https://github.com/cran/robcbi
 [submodule "robcor"]
 	path = robcor
 	url = https://github.com/cran/robcor
 [submodule "roben"]
 	path = roben
 	url = https://github.com/cran/roben
-[submodule "robeth"]
-	path = robeth
-	url = https://github.com/cran/robeth
 [submodule "robfilter"]
 	path = robfilter
 	url = https://github.com/cran/robfilter
