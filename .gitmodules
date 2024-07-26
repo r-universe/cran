@@ -20456,9 +20456,6 @@
 [submodule "asymptor"]
 	path = asymptor
 	url = https://github.com/cran/asymptor
-[submodule "async"]
-	path = async
-	url = https://github.com/cran/async
 [submodule "atRisk"]
 	path = atRisk
 	url = https://github.com/cran/atRisk
@@ -45050,9 +45047,6 @@
 [submodule "nser"]
 	path = nser
 	url = https://github.com/cran/nser
-[submodule "nseval"]
-	path = nseval
-	url = https://github.com/cran/nseval
 [submodule "nsga2R"]
 	path = nsga2R
 	url = https://github.com/cran/nsga2R
