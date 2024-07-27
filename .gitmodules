@@ -455,6 +455,9 @@
 [submodule "AcuityView"]
 	path = AcuityView
 	url = https://github.com/cran/AcuityView
+[submodule "AdIsMF"]
+	path = AdIsMF
+	url = https://github.com/cran/AdIsMF
 [submodule "AdMit"]
 	path = AdMit
 	url = https://github.com/cran/AdMit
@@ -4820,6 +4823,9 @@
 [submodule "EleChemr"]
 	path = EleChemr
 	url = https://github.com/cran/EleChemr
+[submodule "ElectDecomp"]
+	path = ElectDecomp
+	url = https://github.com/cran/ElectDecomp
 [submodule "ElevDistr"]
 	path = ElevDistr
 	url = https://github.com/cran/ElevDistr
@@ -6947,6 +6953,9 @@
 [submodule "HKprocess"]
 	path = HKprocess
 	url = https://github.com/cran/HKprocess
+[submodule "HLAtools"]
+	path = HLAtools
+	url = https://github.com/cran/HLAtools
 [submodule "HLMdiag"]
 	path = HLMdiag
 	url = https://github.com/cran/HLMdiag
@@ -10034,6 +10043,9 @@
 [submodule "MicroNiche"]
 	path = MicroNiche
 	url = https://github.com/cran/MicroNiche
+[submodule "MicroSEC"]
+	path = MicroSEC
+	url = https://github.com/cran/MicroSEC
 [submodule "MicrobiomeStat"]
 	path = MicrobiomeStat
 	url = https://github.com/cran/MicrobiomeStat
@@ -15089,9 +15101,6 @@
 [submodule "Rramas"]
 	path = Rramas
 	url = https://github.com/cran/Rramas
-[submodule "Rraven"]
-	path = Rraven
-	url = https://github.com/cran/Rraven
 [submodule "Rrdap"]
 	path = Rrdap
 	url = https://github.com/cran/Rrdap
@@ -15530,6 +15539,9 @@
 [submodule "SEset"]
 	path = SEset
 	url = https://github.com/cran/SEset
+[submodule "SFPL"]
+	path = SFPL
+	url = https://github.com/cran/SFPL
 [submodule "SFS"]
 	path = SFS
 	url = https://github.com/cran/SFS
@@ -16109,6 +16121,9 @@
 [submodule "SampleSize4ClinicalTrials"]
 	path = SampleSize4ClinicalTrials
 	url = https://github.com/cran/SampleSize4ClinicalTrials
+[submodule "SampleSizeDiagnostics"]
+	path = SampleSizeDiagnostics
+	url = https://github.com/cran/SampleSizeDiagnostics
 [submodule "SampleSizeMeans"]
 	path = SampleSizeMeans
 	url = https://github.com/cran/SampleSizeMeans
@@ -23627,9 +23642,6 @@
 [submodule "chandwich"]
 	path = chandwich
 	url = https://github.com/cran/chandwich
-[submodule "changeRangeR"]
-	path = changeRangeR
-	url = https://github.com/cran/changeRangeR
 [submodule "changeS"]
 	path = changeS
 	url = https://github.com/cran/changeS
@@ -37175,9 +37187,6 @@
 [submodule "inlcolor"]
 	path = inlcolor
 	url = https://github.com/cran/inlcolor
-[submodule "inldata"]
-	path = inldata
-	url = https://github.com/cran/inldata
 [submodule "inline"]
 	path = inline
 	url = https://github.com/cran/inline
@@ -45377,9 +45386,6 @@
 [submodule "ohtadstats"]
 	path = ohtadstats
 	url = https://github.com/cran/ohtadstats
-[submodule "ohun"]
-	path = ohun
-	url = https://github.com/cran/ohun
 [submodule "oii"]
 	path = oii
 	url = https://github.com/cran/oii
@@ -62393,9 +62399,6 @@
 [submodule "warabandi"]
 	path = warabandi
 	url = https://github.com/cran/warabandi
-[submodule "warbleR"]
-	path = warbleR
-	url = https://github.com/cran/warbleR
 [submodule "warp"]
 	path = warp
 	url = https://github.com/cran/warp
@@ -62525,6 +62528,9 @@
 [submodule "wearables"]
 	path = wearables
 	url = https://github.com/cran/wearables
+[submodule "weatherOz"]
+	path = weatherOz
+	url = https://github.com/cran/weatherOz
 [submodule "weatherindices"]
 	path = weatherindices
 	url = https://github.com/cran/weatherindices
