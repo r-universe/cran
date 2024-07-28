@@ -7235,6 +7235,9 @@
 [submodule "HyperbolicDist"]
 	path = HyperbolicDist
 	url = https://github.com/cran/HyperbolicDist
+[submodule "HypergeoMat"]
+	path = HypergeoMat
+	url = https://github.com/cran/HypergeoMat
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
