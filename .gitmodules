@@ -380,6 +380,9 @@
 [submodule "ATNr"]
 	path = ATNr
 	url = https://github.com/cran/ATNr
+[submodule "ATQ"]
+	path = ATQ
+	url = https://github.com/cran/ATQ
 [submodule "ATR"]
 	path = ATR
 	url = https://github.com/cran/ATR
@@ -938,6 +941,9 @@
 [submodule "BEACH"]
 	path = BEACH
 	url = https://github.com/cran/BEACH
+[submodule "BEAMR"]
+	path = BEAMR
+	url = https://github.com/cran/BEAMR
 [submodule "BED"]
 	path = BED
 	url = https://github.com/cran/BED
@@ -11033,6 +11039,9 @@
 [submodule "ORION"]
 	path = ORION
 	url = https://github.com/cran/ORION
+[submodule "ORIONZ.G"]
+	path = ORIONZ.G
+	url = https://github.com/cran/ORIONZ.G
 [submodule "ORKM"]
 	path = ORKM
 	url = https://github.com/cran/ORKM
@@ -11768,6 +11777,9 @@
 [submodule "PRA"]
 	path = PRA
 	url = https://github.com/cran/PRA
+[submodule "PRANA"]
+	path = PRANA
+	url = https://github.com/cran/PRANA
 [submodule "PRDA"]
 	path = PRDA
 	url = https://github.com/cran/PRDA
@@ -15101,6 +15113,9 @@
 [submodule "Rramas"]
 	path = Rramas
 	url = https://github.com/cran/Rramas
+[submodule "Rraven"]
+	path = Rraven
+	url = https://github.com/cran/Rraven
 [submodule "Rrdap"]
 	path = Rrdap
 	url = https://github.com/cran/Rrdap
@@ -20471,6 +20486,9 @@
 [submodule "asymptor"]
 	path = asymptor
 	url = https://github.com/cran/asymptor
+[submodule "async"]
+	path = async
+	url = https://github.com/cran/async
 [submodule "atRisk"]
 	path = atRisk
 	url = https://github.com/cran/atRisk
@@ -20816,6 +20834,9 @@
 [submodule "bagged.outliertrees"]
 	path = bagged.outliertrees
 	url = https://github.com/cran/bagged.outliertrees
+[submodule "baggingbwsel"]
+	path = baggingbwsel
+	url = https://github.com/cran/baggingbwsel
 [submodule "baggr"]
 	path = baggr
 	url = https://github.com/cran/baggr
@@ -22961,6 +22982,9 @@
 [submodule "callback"]
 	path = callback
 	url = https://github.com/cran/callback
+[submodule "callme"]
+	path = callme
+	url = https://github.com/cran/callme
 [submodule "callr"]
 	path = callr
 	url = https://github.com/cran/callr
@@ -23642,6 +23666,9 @@
 [submodule "chandwich"]
 	path = chandwich
 	url = https://github.com/cran/chandwich
+[submodule "changeRangeR"]
+	path = changeRangeR
+	url = https://github.com/cran/changeRangeR
 [submodule "changeS"]
 	path = changeS
 	url = https://github.com/cran/changeS
@@ -24527,6 +24554,9 @@
 [submodule "coconots"]
 	path = coconots
 	url = https://github.com/cran/coconots
+[submodule "cocons"]
+	path = cocons
+	url = https://github.com/cran/cocons
 [submodule "cocor"]
 	path = cocor
 	url = https://github.com/cran/cocor
@@ -32426,9 +32456,6 @@
 [submodule "fwb"]
 	path = fwb
 	url = https://github.com/cran/fwb
-[submodule "fwildclusterboot"]
-	path = fwildclusterboot
-	url = https://github.com/cran/fwildclusterboot
 [submodule "fwlplot"]
 	path = fwlplot
 	url = https://github.com/cran/fwlplot
@@ -33932,6 +33959,9 @@
 [submodule "ggsignif"]
 	path = ggsignif
 	url = https://github.com/cran/ggsignif
+[submodule "ggsmc"]
+	path = ggsmc
+	url = https://github.com/cran/ggsmc
 [submodule "ggsoccer"]
 	path = ggsoccer
 	url = https://github.com/cran/ggsoccer
@@ -36794,6 +36824,9 @@
 [submodule "igoR"]
 	path = igoR
 	url = https://github.com/cran/igoR
+[submodule "igr"]
+	path = igr
+	url = https://github.com/cran/igr
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/cran/igraph
@@ -37187,6 +37220,9 @@
 [submodule "inlcolor"]
 	path = inlcolor
 	url = https://github.com/cran/inlcolor
+[submodule "inldata"]
+	path = inldata
+	url = https://github.com/cran/inldata
 [submodule "inline"]
 	path = inline
 	url = https://github.com/cran/inline
@@ -42563,9 +42599,6 @@
 [submodule "mmpca"]
 	path = mmpca
 	url = https://github.com/cran/mmpca
-[submodule "mmpf"]
-	path = mmpf
-	url = https://github.com/cran/mmpf
 [submodule "mmpp"]
 	path = mmpp
 	url = https://github.com/cran/mmpp
@@ -44696,6 +44729,9 @@
 [submodule "nnt"]
 	path = nnt
 	url = https://github.com/cran/nnt
+[submodule "nntmvn"]
+	path = nntmvn
+	url = https://github.com/cran/nntmvn
 [submodule "noaaoceans"]
 	path = noaaoceans
 	url = https://github.com/cran/noaaoceans
@@ -45056,6 +45092,9 @@
 [submodule "nser"]
 	path = nser
 	url = https://github.com/cran/nser
+[submodule "nseval"]
+	path = nseval
+	url = https://github.com/cran/nseval
 [submodule "nsga2R"]
 	path = nsga2R
 	url = https://github.com/cran/nsga2R
@@ -45386,6 +45425,9 @@
 [submodule "ohtadstats"]
 	path = ohtadstats
 	url = https://github.com/cran/ohtadstats
+[submodule "ohun"]
+	path = ohun
+	url = https://github.com/cran/ohun
 [submodule "oii"]
 	path = oii
 	url = https://github.com/cran/oii
@@ -53009,6 +53051,9 @@
 [submodule "rqPen"]
 	path = rqPen
 	url = https://github.com/cran/rqPen
+[submodule "rqcanon"]
+	path = rqcanon
+	url = https://github.com/cran/rqcanon
 [submodule "rqdatatable"]
 	path = rqdatatable
 	url = https://github.com/cran/rqdatatable
@@ -60314,6 +60359,9 @@
 [submodule "topicdoc"]
 	path = topicdoc
 	url = https://github.com/cran/topicdoc
+[submodule "topiclabels"]
+	path = topiclabels
+	url = https://github.com/cran/topiclabels
 [submodule "topicmodels"]
 	path = topicmodels
 	url = https://github.com/cran/topicmodels
@@ -61217,6 +61265,9 @@
 [submodule "ucie"]
 	path = ucie
 	url = https://github.com/cran/ucie
+[submodule "ucimlrepo"]
+	path = ucimlrepo
+	url = https://github.com/cran/ucimlrepo
 [submodule "uclust"]
 	path = uclust
 	url = https://github.com/cran/uclust
@@ -62399,6 +62450,9 @@
 [submodule "warabandi"]
 	path = warabandi
 	url = https://github.com/cran/warabandi
+[submodule "warbleR"]
+	path = warbleR
+	url = https://github.com/cran/warbleR
 [submodule "warp"]
 	path = warp
 	url = https://github.com/cran/warp
@@ -62765,9 +62819,6 @@
 [submodule "wildpoker"]
 	path = wildpoker
 	url = https://github.com/cran/wildpoker
-[submodule "wildrwolf"]
-	path = wildrwolf
-	url = https://github.com/cran/wildrwolf
 [submodule "wilson"]
 	path = wilson
 	url = https://github.com/cran/wilson
@@ -62819,6 +62870,9 @@
 [submodule "wmm"]
 	path = wmm
 	url = https://github.com/cran/wmm
+[submodule "wmwm"]
+	path = wmwm
+	url = https://github.com/cran/wmwm
 [submodule "wmwpow"]
 	path = wmwpow
 	url = https://github.com/cran/wmwpow
