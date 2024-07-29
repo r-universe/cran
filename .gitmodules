@@ -7427,6 +7427,9 @@
 [submodule "IDSL.UFAx"]
 	path = IDSL.UFAx
 	url = https://github.com/cran/IDSL.UFAx
+[submodule "IDSpatialStats"]
+	path = IDSpatialStats
+	url = https://github.com/cran/IDSpatialStats
 [submodule "IDetect"]
 	path = IDetect
 	url = https://github.com/cran/IDetect
@@ -25445,6 +25448,9 @@
 [submodule "corrDNA"]
 	path = corrDNA
 	url = https://github.com/cran/corrDNA
+[submodule "corrMCT"]
+	path = corrMCT
+	url = https://github.com/cran/corrMCT
 [submodule "corrViz"]
 	path = corrViz
 	url = https://github.com/cran/corrViz
@@ -41432,6 +41438,9 @@
 [submodule "metaGE"]
 	path = metaGE
 	url = https://github.com/cran/metaGE
+[submodule "metaHelper"]
+	path = metaHelper
+	url = https://github.com/cran/metaHelper
 [submodule "metaLik"]
 	path = metaLik
 	url = https://github.com/cran/metaLik
@@ -42911,6 +42920,9 @@
 [submodule "monreg"]
 	path = monreg
 	url = https://github.com/cran/monreg
+[submodule "moocore"]
+	path = moocore
+	url = https://github.com/cran/moocore
 [submodule "moodef"]
 	path = moodef
 	url = https://github.com/cran/moodef
@@ -45326,6 +45338,9 @@
 [submodule "ocs4R"]
 	path = ocs4R
 	url = https://github.com/cran/ocs4R
+[submodule "octopucs"]
+	path = octopucs
+	url = https://github.com/cran/octopucs
 [submodule "octopus"]
 	path = octopus
 	url = https://github.com/cran/octopus
@@ -53192,9 +53207,6 @@
 [submodule "rsf"]
 	path = rsf
 	url = https://github.com/cran/rsf
-[submodule "rsgeo"]
-	path = rsgeo
-	url = https://github.com/cran/rsgeo
 [submodule "rshift"]
 	path = rshift
 	url = https://github.com/cran/rshift
