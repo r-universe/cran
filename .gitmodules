@@ -11312,6 +11312,9 @@
 [submodule "OrgMassSpecR"]
 	path = OrgMassSpecR
 	url = https://github.com/cran/OrgMassSpecR
+[submodule "OrigamiPlot"]
+	path = OrigamiPlot
+	url = https://github.com/cran/OrigamiPlot
 [submodule "OrthoPanels"]
 	path = OrthoPanels
 	url = https://github.com/cran/OrthoPanels
@@ -24734,6 +24737,9 @@
 [submodule "collections"]
 	path = collections
 	url = https://github.com/cran/collections
+[submodule "collegeScorecard"]
+	path = collegeScorecard
+	url = https://github.com/cran/collegeScorecard
 [submodule "collidr"]
 	path = collidr
 	url = https://github.com/cran/collidr
