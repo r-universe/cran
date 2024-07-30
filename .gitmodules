@@ -9992,9 +9992,6 @@
 [submodule "MetabolomicsBasics"]
 	path = MetabolomicsBasics
 	url = https://github.com/cran/MetabolomicsBasics
-[submodule "MetaculR"]
-	path = MetaculR
-	url = https://github.com/cran/MetaculR
 [submodule "MethComp"]
 	path = MethComp
 	url = https://github.com/cran/MethComp
@@ -11558,6 +11555,9 @@
 [submodule "PFIM"]
 	path = PFIM
 	url = https://github.com/cran/PFIM
+[submodule "PFLR"]
+	path = PFLR
+	url = https://github.com/cran/PFLR
 [submodule "PGEE"]
 	path = PGEE
 	url = https://github.com/cran/PGEE
@@ -19403,9 +19403,6 @@
 [submodule "affinitymatrix"]
 	path = affinitymatrix
 	url = https://github.com/cran/affinitymatrix
-[submodule "affluenceIndex"]
-	path = affluenceIndex
-	url = https://github.com/cran/affluenceIndex
 [submodule "afmToolkit"]
 	path = afmToolkit
 	url = https://github.com/cran/afmToolkit
@@ -46217,6 +46214,9 @@
 [submodule "pa"]
 	path = pa
 	url = https://github.com/cran/pa
+[submodule "paar"]
+	path = paar
+	url = https://github.com/cran/paar
 [submodule "pack"]
 	path = pack
 	url = https://github.com/cran/pack
@@ -53210,6 +53210,9 @@
 [submodule "rsf"]
 	path = rsf
 	url = https://github.com/cran/rsf
+[submodule "rsgeo"]
+	path = rsgeo
+	url = https://github.com/cran/rsgeo
 [submodule "rshift"]
 	path = rshift
 	url = https://github.com/cran/rshift
