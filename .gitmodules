@@ -41657,9 +41657,6 @@
 [submodule "metricminer"]
 	path = metricminer
 	url = https://github.com/cran/metricminer
-[submodule "metricsgraphics"]
-	path = metricsgraphics
-	url = https://github.com/cran/metricsgraphics
 [submodule "metrix"]
 	path = metrix
 	url = https://github.com/cran/metrix
