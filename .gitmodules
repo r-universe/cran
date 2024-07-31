@@ -25205,6 +25205,9 @@
 [submodule "conserveR"]
 	path = conserveR
 	url = https://github.com/cran/conserveR
+[submodule "consibiocloudclient"]
+	path = consibiocloudclient
+	url = https://github.com/cran/consibiocloudclient
 [submodule "consolechoice"]
 	path = consolechoice
 	url = https://github.com/cran/consolechoice
@@ -27536,9 +27539,6 @@
 [submodule "dhh"]
 	path = dhh
 	url = https://github.com/cran/dhh
-[submodule "dhis2r"]
-	path = dhis2r
-	url = https://github.com/cran/dhis2r
 [submodule "dhlabR"]
 	path = dhlabR
 	url = https://github.com/cran/dhlabR
@@ -36473,6 +36473,9 @@
 [submodule "iClick"]
 	path = iClick
 	url = https://github.com/cran/iClick
+[submodule "iClusterVB"]
+	path = iClusterVB
+	url = https://github.com/cran/iClusterVB
 [submodule "iDINGO"]
 	path = iDINGO
 	url = https://github.com/cran/iDINGO
@@ -42209,6 +42212,9 @@
 [submodule "mixKernel"]
 	path = mixKernel
 	url = https://github.com/cran/mixKernel
+[submodule "mixOofA"]
+	path = mixOofA
+	url = https://github.com/cran/mixOofA
 [submodule "mixPHM"]
 	path = mixPHM
 	url = https://github.com/cran/mixPHM
@@ -44240,9 +44246,6 @@
 [submodule "netcontrol"]
 	path = netcontrol
 	url = https://github.com/cran/netcontrol
-[submodule "netcox"]
-	path = netcox
-	url = https://github.com/cran/netcox
 [submodule "netdiffuseR"]
 	path = netdiffuseR
 	url = https://github.com/cran/netdiffuseR
@@ -56246,9 +56249,6 @@
 [submodule "sloop"]
 	path = sloop
 	url = https://github.com/cran/sloop
-[submodule "slopeOP"]
-	path = slopeOP
-	url = https://github.com/cran/slopeOP
 [submodule "slouch"]
 	path = slouch
 	url = https://github.com/cran/slouch
@@ -58307,9 +58307,6 @@
 [submodule "subscreen"]
 	path = subscreen
 	url = https://github.com/cran/subscreen
-[submodule "subselect"]
-	path = subselect
-	url = https://github.com/cran/subselect
 [submodule "subsemble"]
 	path = subsemble
 	url = https://github.com/cran/subsemble
