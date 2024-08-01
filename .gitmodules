@@ -359,6 +359,9 @@
 [submodule "ASMap"]
 	path = ASMap
 	url = https://github.com/cran/ASMap
+[submodule "ASMbook"]
+	path = ASMbook
+	url = https://github.com/cran/ASMbook
 [submodule "ASRgenomics"]
 	path = ASRgenomics
 	url = https://github.com/cran/ASRgenomics
@@ -18089,6 +18092,9 @@
 [submodule "UComp"]
 	path = UComp
 	url = https://github.com/cran/UComp
+[submodule "UEI"]
+	path = UEI
+	url = https://github.com/cran/UEI
 [submodule "UHM"]
 	path = UHM
 	url = https://github.com/cran/UHM
@@ -18671,6 +18677,9 @@
 [submodule "WhatsR"]
 	path = WhatsR
 	url = https://github.com/cran/WhatsR
+[submodule "WhiteLabRt"]
+	path = WhiteLabRt
+	url = https://github.com/cran/WhiteLabRt
 [submodule "WhiteStripe"]
 	path = WhiteStripe
 	url = https://github.com/cran/WhiteStripe
@@ -19763,6 +19772,9 @@
 [submodule "altmeta"]
 	path = altmeta
 	url = https://github.com/cran/altmeta
+[submodule "amVennDiagram5"]
+	path = amVennDiagram5
+	url = https://github.com/cran/amVennDiagram5
 [submodule "amanida"]
 	path = amanida
 	url = https://github.com/cran/amanida
@@ -31892,6 +31904,9 @@
 [submodule "forestecology"]
 	path = forestecology
 	url = https://github.com/cran/forestecology
+[submodule "forested"]
+	path = forested
+	url = https://github.com/cran/forested
 [submodule "forestinventory"]
 	path = forestinventory
 	url = https://github.com/cran/forestinventory
@@ -35894,6 +35909,9 @@
 [submodule "highlighter"]
 	path = highlighter
 	url = https://github.com/cran/highlighter
+[submodule "highlightr"]
+	path = highlightr
+	url = https://github.com/cran/highlightr
 [submodule "highmean"]
 	path = highmean
 	url = https://github.com/cran/highmean
@@ -40619,6 +40637,9 @@
 [submodule "mapfit"]
 	path = mapfit
 	url = https://github.com/cran/mapfit
+[submodule "mapgl"]
+	path = mapgl
+	url = https://github.com/cran/mapgl
 [submodule "mapi"]
 	path = mapi
 	url = https://github.com/cran/mapi
@@ -44504,6 +44525,9 @@
 [submodule "nifti.io"]
 	path = nifti.io
 	url = https://github.com/cran/nifti.io
+[submodule "nifti.pbcor"]
+	path = nifti.pbcor
+	url = https://github.com/cran/nifti.pbcor
 [submodule "nilde"]
 	path = nilde
 	url = https://github.com/cran/nilde
@@ -46703,6 +46727,9 @@
 [submodule "patternator"]
 	path = patternator
 	url = https://github.com/cran/patternator
+[submodule "patterncausality"]
+	path = patterncausality
+	url = https://github.com/cran/patterncausality
 [submodule "patternize"]
 	path = patternize
 	url = https://github.com/cran/patternize
@@ -48503,6 +48530,9 @@
 [submodule "powerMediation"]
 	path = powerMediation
 	url = https://github.com/cran/powerMediation
+[submodule "powerNLSEM"]
+	path = powerNLSEM
+	url = https://github.com/cran/powerNLSEM
 [submodule "powerPLS"]
 	path = powerPLS
 	url = https://github.com/cran/powerPLS
@@ -51875,6 +51905,9 @@
 [submodule "result"]
 	path = result
 	url = https://github.com/cran/result
+[submodule "resultant"]
+	path = resultant
+	url = https://github.com/cran/resultant
 [submodule "resumer"]
 	path = resumer
 	url = https://github.com/cran/resumer
@@ -52445,6 +52478,9 @@
 [submodule "rma.exact"]
 	path = rma.exact
 	url = https://github.com/cran/rma.exact
+[submodule "rmacrostrat"]
+	path = rmacrostrat
+	url = https://github.com/cran/rmacrostrat
 [submodule "rmake"]
 	path = rmake
 	url = https://github.com/cran/rmake
