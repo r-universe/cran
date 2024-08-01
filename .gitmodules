@@ -31016,6 +31016,9 @@
 [submodule "fcirt"]
 	path = fcirt
 	url = https://github.com/cran/fcirt
+[submodule "fcl"]
+	path = fcl
+	url = https://github.com/cran/fcl
 [submodule "fclust"]
 	path = fclust
 	url = https://github.com/cran/fclust
@@ -37259,6 +37262,9 @@
 [submodule "inlcolor"]
 	path = inlcolor
 	url = https://github.com/cran/inlcolor
+[submodule "inldata"]
+	path = inldata
+	url = https://github.com/cran/inldata
 [submodule "inline"]
 	path = inline
 	url = https://github.com/cran/inline
@@ -63440,6 +63446,9 @@
 [submodule "yll"]
 	path = yll
 	url = https://github.com/cran/yll
+[submodule "ymd"]
+	path = ymd
+	url = https://github.com/cran/ymd
 [submodule "ymlthis"]
 	path = ymlthis
 	url = https://github.com/cran/ymlthis
