@@ -329,9 +329,6 @@
 [submodule "ARMALSTM"]
 	path = ARMALSTM
 	url = https://github.com/cran/ARMALSTM
-[submodule "AROC"]
-	path = AROC
-	url = https://github.com/cran/AROC
 [submodule "ARPALData"]
 	path = ARPALData
 	url = https://github.com/cran/ARPALData
