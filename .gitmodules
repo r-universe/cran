@@ -5627,6 +5627,9 @@
 [submodule "FieldSimR"]
 	path = FieldSimR
 	url = https://github.com/cran/FieldSimR
+[submodule "FilmsGmooG"]
+	path = FilmsGmooG
+	url = https://github.com/cran/FilmsGmooG
 [submodule "FinAna"]
 	path = FinAna
 	url = https://github.com/cran/FinAna
@@ -10727,6 +10730,9 @@
 [submodule "NVCSSL"]
 	path = NVCSSL
 	url = https://github.com/cran/NVCSSL
+[submodule "NaileR"]
+	path = NaileR
+	url = https://github.com/cran/NaileR
 [submodule "NameNeedle"]
 	path = NameNeedle
 	url = https://github.com/cran/NameNeedle
@@ -26396,6 +26402,9 @@
 [submodule "cvGEE"]
 	path = cvGEE
 	url = https://github.com/cran/cvGEE
+[submodule "cvLM"]
+	path = cvLM
+	url = https://github.com/cran/cvLM
 [submodule "cvTools"]
 	path = cvTools
 	url = https://github.com/cran/cvTools
@@ -31406,6 +31415,9 @@
 [submodule "finreportr"]
 	path = finreportr
 	url = https://github.com/cran/finreportr
+[submodule "fio"]
+	path = fio
+	url = https://github.com/cran/fio
 [submodule "fipio"]
 	path = fipio
 	url = https://github.com/cran/fipio
@@ -37379,6 +37391,9 @@
 [submodule "interep"]
 	path = interep
 	url = https://github.com/cran/interep
+[submodule "interfacer"]
+	path = interfacer
+	url = https://github.com/cran/interfacer
 [submodule "interflex"]
 	path = interflex
 	url = https://github.com/cran/interflex
@@ -39221,6 +39236,9 @@
 [submodule "leanpubr"]
 	path = leanpubr
 	url = https://github.com/cran/leanpubr
+[submodule "leapgp"]
+	path = leapgp
+	url = https://github.com/cran/leapgp
 [submodule "leapp"]
 	path = leapp
 	url = https://github.com/cran/leapp
@@ -40454,6 +40472,9 @@
 [submodule "madsim"]
 	path = madsim
 	url = https://github.com/cran/madsim
+[submodule "maestro"]
+	path = maestro
+	url = https://github.com/cran/maestro
 [submodule "magclass"]
 	path = magclass
 	url = https://github.com/cran/magclass
@@ -42977,6 +42998,9 @@
 [submodule "mopac"]
 	path = mopac
 	url = https://github.com/cran/mopac
+[submodule "moranajp"]
+	path = moranajp
+	url = https://github.com/cran/moranajp
 [submodule "moreparty"]
 	path = moreparty
 	url = https://github.com/cran/moreparty
@@ -46163,6 +46187,9 @@
 [submodule "overture"]
 	path = overture
 	url = https://github.com/cran/overture
+[submodule "overtureR"]
+	path = overtureR
+	url = https://github.com/cran/overtureR
 [submodule "overturemapsr"]
 	path = overturemapsr
 	url = https://github.com/cran/overturemapsr
@@ -54002,6 +54029,9 @@
 [submodule "samplingin"]
 	path = samplingin
 	url = https://github.com/cran/samplingin
+[submodule "samplr"]
+	path = samplr
+	url = https://github.com/cran/samplr
 [submodule "samplrData"]
 	path = samplrData
 	url = https://github.com/cran/samplrData
