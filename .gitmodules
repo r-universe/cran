@@ -329,6 +329,9 @@
 [submodule "ARMALSTM"]
 	path = ARMALSTM
 	url = https://github.com/cran/ARMALSTM
+[submodule "AROC"]
+	path = AROC
+	url = https://github.com/cran/AROC
 [submodule "ARPALData"]
 	path = ARPALData
 	url = https://github.com/cran/ARPALData
@@ -31415,9 +31418,6 @@
 [submodule "finreportr"]
 	path = finreportr
 	url = https://github.com/cran/finreportr
-[submodule "fio"]
-	path = fio
-	url = https://github.com/cran/fio
 [submodule "fipio"]
 	path = fipio
 	url = https://github.com/cran/fipio
@@ -37271,9 +37271,6 @@
 [submodule "inlcolor"]
 	path = inlcolor
 	url = https://github.com/cran/inlcolor
-[submodule "inldata"]
-	path = inldata
-	url = https://github.com/cran/inldata
 [submodule "inline"]
 	path = inline
 	url = https://github.com/cran/inline
