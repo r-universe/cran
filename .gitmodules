@@ -31418,6 +31418,9 @@
 [submodule "finreportr"]
 	path = finreportr
 	url = https://github.com/cran/finreportr
+[submodule "fio"]
+	path = fio
+	url = https://github.com/cran/fio
 [submodule "fipio"]
 	path = fipio
 	url = https://github.com/cran/fipio
@@ -35633,18 +35636,12 @@
 [submodule "hdpca"]
 	path = hdpca
 	url = https://github.com/cran/hdpca
-[submodule "hdqr"]
-	path = hdqr
-	url = https://github.com/cran/hdqr
 [submodule "hdrcde"]
 	path = hdrcde
 	url = https://github.com/cran/hdrcde
 [submodule "hds"]
 	path = hds
 	url = https://github.com/cran/hds
-[submodule "hdsvm"]
-	path = hdsvm
-	url = https://github.com/cran/hdsvm
 [submodule "headliner"]
 	path = headliner
 	url = https://github.com/cran/headliner
@@ -61823,9 +61820,6 @@
 [submodule "valr"]
 	path = valr
 	url = https://github.com/cran/valr
-[submodule "valse"]
-	path = valse
-	url = https://github.com/cran/valse
 [submodule "valueEQ5D"]
 	path = valueEQ5D
 	url = https://github.com/cran/valueEQ5D
