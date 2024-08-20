@@ -33230,6 +33230,9 @@
 [submodule "geodiv"]
 	path = geodiv
 	url = https://github.com/cran/geodiv
+[submodule "geodl"]
+	path = geodl
+	url = https://github.com/cran/geodl
 [submodule "geodrawr"]
 	path = geodrawr
 	url = https://github.com/cran/geodrawr
@@ -36692,6 +36695,9 @@
 [submodule "icdGLM"]
 	path = icdGLM
 	url = https://github.com/cran/icdGLM
+[submodule "icdcomorbid"]
+	path = icdcomorbid
+	url = https://github.com/cran/icdcomorbid
 [submodule "icdpicr"]
 	path = icdpicr
 	url = https://github.com/cran/icdpicr
@@ -39665,6 +39671,9 @@
 [submodule "lite"]
 	path = lite
 	url = https://github.com/cran/lite
+[submodule "litedown"]
+	path = litedown
+	url = https://github.com/cran/litedown
 [submodule "liteq"]
 	path = liteq
 	url = https://github.com/cran/liteq
@@ -44084,6 +44093,9 @@
 [submodule "nblR"]
 	path = nblR
 	url = https://github.com/cran/nblR
+[submodule "nbody"]
+	path = nbody
+	url = https://github.com/cran/nbody
 [submodule "nbpMatching"]
 	path = nbpMatching
 	url = https://github.com/cran/nbpMatching
@@ -58640,6 +58652,9 @@
 [submodule "survivalMPLdc"]
 	path = survivalMPLdc
 	url = https://github.com/cran/survivalMPLdc
+[submodule "survivalPLANN"]
+	path = survivalPLANN
+	url = https://github.com/cran/survivalPLANN
 [submodule "survivalREC"]
 	path = survivalREC
 	url = https://github.com/cran/survivalREC
@@ -58763,6 +58778,9 @@
 [submodule "svyVGAM"]
 	path = svyVGAM
 	url = https://github.com/cran/svyVGAM
+[submodule "svycdiff"]
+	path = svycdiff
+	url = https://github.com/cran/svycdiff
 [submodule "svydiags"]
 	path = svydiags
 	url = https://github.com/cran/svydiags
