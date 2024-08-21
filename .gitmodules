@@ -62198,9 +62198,6 @@
 [submodule "visOmopResults"]
 	path = visOmopResults
 	url = https://github.com/cran/visOmopResults
-[submodule "visR"]
-	path = visR
-	url = https://github.com/cran/visR
 [submodule "visStatistics"]
 	path = visStatistics
 	url = https://github.com/cran/visStatistics
