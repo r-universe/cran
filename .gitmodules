@@ -9635,6 +9635,9 @@
 [submodule "MSigSeg"]
 	path = MSigSeg
 	url = https://github.com/cran/MSigSeg
+[submodule "MSinference"]
+	path = MSinference
+	url = https://github.com/cran/MSinference
 [submodule "MSmix"]
 	path = MSmix
 	url = https://github.com/cran/MSmix
@@ -18518,6 +18521,9 @@
 [submodule "WGScan"]
 	path = WGScan
 	url = https://github.com/cran/WGScan
+[submodule "WH"]
+	path = WH
+	url = https://github.com/cran/WH
 [submodule "WINS"]
 	path = WINS
 	url = https://github.com/cran/WINS
@@ -23537,6 +23543,9 @@
 [submodule "cellranger"]
 	path = cellranger
 	url = https://github.com/cran/cellranger
+[submodule "celltrackR"]
+	path = celltrackR
+	url = https://github.com/cran/celltrackR
 [submodule "cem"]
 	path = cem
 	url = https://github.com/cran/cem
@@ -37346,6 +37355,9 @@
 [submodule "intRvals"]
 	path = intRvals
 	url = https://github.com/cran/intRvals
+[submodule "intSDM"]
+	path = intSDM
+	url = https://github.com/cran/intSDM
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cran/intamap
@@ -40559,6 +40571,9 @@
 [submodule "malani"]
 	path = malani
 	url = https://github.com/cran/malani
+[submodule "malariaAtlas"]
+	path = malariaAtlas
+	url = https://github.com/cran/malariaAtlas
 [submodule "malaytextr"]
 	path = malaytextr
 	url = https://github.com/cran/malaytextr
@@ -44807,6 +44822,9 @@
 [submodule "nntmvn"]
 	path = nntmvn
 	url = https://github.com/cran/nntmvn
+[submodule "noaaoceans"]
+	path = noaaoceans
+	url = https://github.com/cran/noaaoceans
 [submodule "noaastormevents"]
 	path = noaastormevents
 	url = https://github.com/cran/noaastormevents
@@ -45410,6 +45428,9 @@
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/cran/odbc
+[submodule "odbr"]
+	path = odbr
+	url = https://github.com/cran/odbr
 [submodule "oddnet"]
 	path = oddnet
 	url = https://github.com/cran/oddnet
@@ -46103,6 +46124,9 @@
 [submodule "osrmr"]
 	path = osrmr
 	url = https://github.com/cran/osrmr
+[submodule "otargen"]
+	path = otargen
+	url = https://github.com/cran/otargen
 [submodule "otinference"]
 	path = otinference
 	url = https://github.com/cran/otinference
@@ -49286,6 +49310,9 @@
 [submodule "psica"]
 	path = psica
 	url = https://github.com/cran/psica
+[submodule "psidR"]
+	path = psidR
+	url = https://github.com/cran/psidR
 [submodule "psidread"]
 	path = psidread
 	url = https://github.com/cran/psidread
@@ -50363,9 +50390,6 @@
 [submodule "rPBK"]
 	path = rPBK
 	url = https://github.com/cran/rPBK
-[submodule "rPDBapi"]
-	path = rPDBapi
-	url = https://github.com/cran/rPDBapi
 [submodule "rPackedBar"]
 	path = rPackedBar
 	url = https://github.com/cran/rPackedBar
@@ -51299,6 +51323,9 @@
 [submodule "readxlsb"]
 	path = readxlsb
 	url = https://github.com/cran/readxlsb
+[submodule "ready4"]
+	path = ready4
+	url = https://github.com/cran/ready4
 [submodule "realTimeloads"]
 	path = realTimeloads
 	url = https://github.com/cran/realTimeloads
@@ -57446,9 +57473,6 @@
 [submodule "spotidy"]
 	path = spotidy
 	url = https://github.com/cran/spotidy
-[submodule "spotifyr"]
-	path = spotifyr
-	url = https://github.com/cran/spotifyr
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
