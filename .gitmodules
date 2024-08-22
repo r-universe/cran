@@ -27425,6 +27425,9 @@
 [submodule "desla"]
 	path = desla
 	url = https://github.com/cran/desla
+[submodule "despair"]
+	path = despair
+	url = https://github.com/cran/despair
 [submodule "desplot"]
 	path = desplot
 	url = https://github.com/cran/desplot
