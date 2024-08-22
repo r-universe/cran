@@ -12635,9 +12635,6 @@
 [submodule "PubMedWordcloud"]
 	path = PubMedWordcloud
 	url = https://github.com/cran/PubMedWordcloud
-[submodule "PublicWorksFinanceIT"]
-	path = PublicWorksFinanceIT
-	url = https://github.com/cran/PublicWorksFinanceIT
 [submodule "PublicationBias"]
 	path = PublicationBias
 	url = https://github.com/cran/PublicationBias
@@ -50399,6 +50396,9 @@
 [submodule "rPBK"]
 	path = rPBK
 	url = https://github.com/cran/rPBK
+[submodule "rPDBapi"]
+	path = rPDBapi
+	url = https://github.com/cran/rPDBapi
 [submodule "rPackedBar"]
 	path = rPackedBar
 	url = https://github.com/cran/rPackedBar
@@ -57479,6 +57479,9 @@
 [submodule "spotidy"]
 	path = spotidy
 	url = https://github.com/cran/spotidy
+[submodule "spotifyr"]
+	path = spotifyr
+	url = https://github.com/cran/spotifyr
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
