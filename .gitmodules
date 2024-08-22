@@ -1982,9 +1982,6 @@
 [submodule "CARRoT"]
 	path = CARRoT
 	url = https://github.com/cran/CARRoT
-[submodule "CARlasso"]
-	path = CARlasso
-	url = https://github.com/cran/CARlasso
 [submodule "CASCORE"]
 	path = CASCORE
 	url = https://github.com/cran/CASCORE
@@ -3602,6 +3599,9 @@
 [submodule "DHS.rates"]
 	path = DHS.rates
 	url = https://github.com/cran/DHS.rates
+[submodule "DICEM"]
+	path = DICEM
+	url = https://github.com/cran/DICEM
 [submodule "DICOMread"]
 	path = DICOMread
 	url = https://github.com/cran/DICOMread
@@ -10262,6 +10262,9 @@
 [submodule "Morpho"]
 	path = Morpho
 	url = https://github.com/cran/Morpho
+[submodule "MorphoRegions"]
+	path = MorphoRegions
+	url = https://github.com/cran/MorphoRegions
 [submodule "MorphoTools2"]
 	path = MorphoTools2
 	url = https://github.com/cran/MorphoTools2
@@ -19355,6 +19358,9 @@
 [submodule "admiralophtha"]
 	path = admiralophtha
 	url = https://github.com/cran/admiralophtha
+[submodule "admiralpeds"]
+	path = admiralpeds
+	url = https://github.com/cran/admiralpeds
 [submodule "admiralvaccine"]
 	path = admiralvaccine
 	url = https://github.com/cran/admiralvaccine
@@ -20306,6 +20312,9 @@
 [submodule "arm"]
 	path = arm
 	url = https://github.com/cran/arm
+[submodule "armadillo"]
+	path = armadillo
+	url = https://github.com/cran/armadillo
 [submodule "armspp"]
 	path = armspp
 	url = https://github.com/cran/armspp
@@ -20663,9 +20672,6 @@
 [submodule "autoTS"]
 	path = autoTS
 	url = https://github.com/cran/autoTS
-[submodule "autocart"]
-	path = autocart
-	url = https://github.com/cran/autocart
 [submodule "autocogs"]
 	path = autocogs
 	url = https://github.com/cran/autocogs
@@ -32096,9 +32102,6 @@
 [submodule "fractD"]
 	path = fractD
 	url = https://github.com/cran/fractD
-[submodule "fractalRegression"]
-	path = fractalRegression
-	url = https://github.com/cran/fractalRegression
 [submodule "fractaldim"]
 	path = fractaldim
 	url = https://github.com/cran/fractaldim
@@ -35915,6 +35918,9 @@
 [submodule "highcharter"]
 	path = highcharter
 	url = https://github.com/cran/highcharter
+[submodule "highd2means"]
+	path = highd2means
+	url = https://github.com/cran/highd2means
 [submodule "highfrequency"]
 	path = highfrequency
 	url = https://github.com/cran/highfrequency
@@ -45779,6 +45785,9 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
+[submodule "openscoring"]
+	path = openscoring
+	url = https://github.com/cran/openscoring
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
@@ -55028,9 +55037,6 @@
 [submodule "seqSHP"]
 	path = seqSHP
 	url = https://github.com/cran/seqSHP
-[submodule "seqest"]
-	path = seqest
-	url = https://github.com/cran/seqest
 [submodule "seqgendiff"]
 	path = seqgendiff
 	url = https://github.com/cran/seqgendiff
