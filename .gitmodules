@@ -17018,6 +17018,9 @@
 [submodule "StrainRanking"]
 	path = StrainRanking
 	url = https://github.com/cran/StrainRanking
+[submodule "StratPal"]
+	path = StratPal
+	url = https://github.com/cran/StratPal
 [submodule "StratSel"]
 	path = StratSel
 	url = https://github.com/cran/StratSel
@@ -22064,9 +22067,6 @@
 [submodule "bit64"]
 	path = bit64
 	url = https://github.com/cran/bit64
-[submodule "bite"]
-	path = bite
-	url = https://github.com/cran/bite
 [submodule "bitmexr"]
 	path = bitmexr
 	url = https://github.com/cran/bitmexr
@@ -40826,6 +40826,9 @@
 [submodule "markovmix"]
 	path = markovmix
 	url = https://github.com/cran/markovmix
+[submodule "marlod"]
+	path = marlod
+	url = https://github.com/cran/marlod
 [submodule "marmap"]
 	path = marmap
 	url = https://github.com/cran/marmap
@@ -40853,6 +40856,9 @@
 [submodule "maskRangeR"]
 	path = maskRangeR
 	url = https://github.com/cran/maskRangeR
+[submodule "maskr"]
+	path = maskr
+	url = https://github.com/cran/maskr
 [submodule "masscor"]
 	path = masscor
 	url = https://github.com/cran/masscor
@@ -48947,6 +48953,9 @@
 [submodule "prioGene"]
 	path = prioGene
 	url = https://github.com/cran/prioGene
+[submodule "prior3D"]
+	path = prior3D
+	url = https://github.com/cran/prior3D
 [submodule "priorCON"]
 	path = priorCON
 	url = https://github.com/cran/priorCON
@@ -49145,6 +49154,9 @@
 [submodule "prompter"]
 	path = prompter
 	url = https://github.com/cran/prompter
+[submodule "promptr"]
+	path = promptr
+	url = https://github.com/cran/promptr
 [submodule "promr"]
 	path = promr
 	url = https://github.com/cran/promr
@@ -50564,6 +50576,9 @@
 [submodule "radsafer"]
 	path = radsafer
 	url = https://github.com/cran/radsafer
+[submodule "raem"]
+	path = raem
+	url = https://github.com/cran/raem
 [submodule "rafalib"]
 	path = rafalib
 	url = https://github.com/cran/rafalib
@@ -55817,6 +55832,9 @@
 [submodule "silicate"]
 	path = silicate
 	url = https://github.com/cran/silicate
+[submodule "silp"]
+	path = silp
+	url = https://github.com/cran/silp
 [submodule "sim.BA"]
 	path = sim.BA
 	url = https://github.com/cran/sim.BA
@@ -56456,6 +56474,9 @@
 [submodule "smile"]
 	path = smile
 	url = https://github.com/cran/smile
+[submodule "smiles"]
+	path = smiles
+	url = https://github.com/cran/smiles
 [submodule "smirnov"]
 	path = smirnov
 	url = https://github.com/cran/smirnov
@@ -57536,9 +57557,6 @@
 [submodule "spsurvey"]
 	path = spsurvey
 	url = https://github.com/cran/spsurvey
-[submodule "spt"]
-	path = spt
-	url = https://github.com/cran/spt
 [submodule "sptotal"]
 	path = sptotal
 	url = https://github.com/cran/sptotal
@@ -62969,6 +62987,9 @@
 [submodule "wiqid"]
 	path = wiqid
 	url = https://github.com/cran/wiqid
+[submodule "wishmom"]
+	path = wishmom
+	url = https://github.com/cran/wishmom
 [submodule "withdots"]
 	path = withdots
 	url = https://github.com/cran/withdots
