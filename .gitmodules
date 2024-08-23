@@ -3047,6 +3047,9 @@
 [submodule "CompoundEvents"]
 	path = CompoundEvents
 	url = https://github.com/cran/CompoundEvents
+[submodule "ComradesM"]
+	path = ComradesM
+	url = https://github.com/cran/ComradesM
 [submodule "ConConPiWiFun"]
 	path = ConConPiWiFun
 	url = https://github.com/cran/ConConPiWiFun
