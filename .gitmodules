@@ -11069,6 +11069,9 @@
 [submodule "ORKM"]
 	path = ORKM
 	url = https://github.com/cran/ORKM
+[submodule "ORTH.Ord"]
+	path = ORTH.Ord
+	url = https://github.com/cran/ORTH.Ord
 [submodule "ORTSC"]
 	path = ORTSC
 	url = https://github.com/cran/ORTSC
@@ -12329,6 +12332,9 @@
 [submodule "PoSI"]
 	path = PoSI
 	url = https://github.com/cran/PoSI
+[submodule "PoSIAdjRSquared"]
+	path = PoSIAdjRSquared
+	url = https://github.com/cran/PoSIAdjRSquared
 [submodule "PogromcyDanych"]
 	path = PogromcyDanych
 	url = https://github.com/cran/PogromcyDanych
@@ -18095,6 +18101,9 @@
 [submodule "UBL"]
 	path = UBL
 	url = https://github.com/cran/UBL
+[submodule "UBStats"]
+	path = UBStats
+	url = https://github.com/cran/UBStats
 [submodule "UBayFS"]
 	path = UBayFS
 	url = https://github.com/cran/UBayFS
@@ -20984,6 +20993,9 @@
 [submodule "bark"]
 	path = bark
 	url = https://github.com/cran/bark
+[submodule "barrks"]
+	path = barrks
+	url = https://github.com/cran/barrks
 [submodule "bartCause"]
 	path = bartCause
 	url = https://github.com/cran/bartCause
@@ -27647,6 +27659,9 @@
 [submodule "did2s"]
 	path = did2s
 	url = https://github.com/cran/did2s
+[submodule "didec"]
+	path = didec
+	url = https://github.com/cran/didec
 [submodule "didimputation"]
 	path = didimputation
 	url = https://github.com/cran/didimputation
@@ -31808,6 +31823,9 @@
 [submodule "fnets"]
 	path = fnets
 	url = https://github.com/cran/fnets
+[submodule "fntl"]
+	path = fntl
+	url = https://github.com/cran/fntl
 [submodule "focusedMDS"]
 	path = focusedMDS
 	url = https://github.com/cran/focusedMDS
@@ -33011,6 +33029,9 @@
 [submodule "gelnet"]
 	path = gelnet
 	url = https://github.com/cran/gelnet
+[submodule "gemini.R"]
+	path = gemini.R
+	url = https://github.com/cran/gemini.R
 [submodule "gemma2"]
 	path = gemma2
 	url = https://github.com/cran/gemma2
@@ -33233,6 +33254,9 @@
 [submodule "geodata"]
 	path = geodata
 	url = https://github.com/cran/geodata
+[submodule "geodetector"]
+	path = geodetector
+	url = https://github.com/cran/geodetector
 [submodule "geodimension"]
 	path = geodimension
 	url = https://github.com/cran/geodimension
@@ -36254,6 +36278,9 @@
 [submodule "htmlwidgets"]
 	path = htmlwidgets
 	url = https://github.com/cran/htmlwidgets
+[submodule "htrSPRanalysis"]
+	path = htrSPRanalysis
+	url = https://github.com/cran/htrSPRanalysis
 [submodule "hts"]
 	path = hts
 	url = https://github.com/cran/hts
@@ -47300,6 +47327,9 @@
 [submodule "perspectev"]
 	path = perspectev
 	url = https://github.com/cran/perspectev
+[submodule "persval"]
+	path = persval
+	url = https://github.com/cran/persval
 [submodule "perturbR"]
 	path = perturbR
 	url = https://github.com/cran/perturbR
@@ -50129,6 +50159,9 @@
 [submodule "qvcalc"]
 	path = qvcalc
 	url = https://github.com/cran/qvcalc
+[submodule "qvirus"]
+	path = qvirus
+	url = https://github.com/cran/qvirus
 [submodule "qwalkr"]
 	path = qwalkr
 	url = https://github.com/cran/qwalkr
@@ -55277,6 +55310,9 @@
 [submodule "shadowtext"]
 	path = shadowtext
 	url = https://github.com/cran/shadowtext
+[submodule "shannon"]
+	path = shannon
+	url = https://github.com/cran/shannon
 [submodule "shape"]
 	path = shape
 	url = https://github.com/cran/shape
@@ -60038,6 +60074,9 @@
 [submodule "tidymodels"]
 	path = tidymodels
 	url = https://github.com/cran/tidymodels
+[submodule "tidymodlr"]
+	path = tidymodlr
+	url = https://github.com/cran/tidymodlr
 [submodule "tidymv"]
 	path = tidymv
 	url = https://github.com/cran/tidymv
@@ -61109,6 +61148,9 @@
 [submodule "tsgarch"]
 	path = tsgarch
 	url = https://github.com/cran/tsgarch
+[submodule "tsgc"]
+	path = tsgc
+	url = https://github.com/cran/tsgc
 [submodule "tsiR"]
 	path = tsiR
 	url = https://github.com/cran/tsiR
