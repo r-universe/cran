@@ -22325,9 +22325,6 @@
 [submodule "bolasso"]
 	path = bolasso
 	url = https://github.com/cran/bolasso
-[submodule "bold"]
-	path = bold
-	url = https://github.com/cran/bold
 [submodule "bolsec"]
 	path = bolsec
 	url = https://github.com/cran/bolsec
