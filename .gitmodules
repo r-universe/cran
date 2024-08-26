@@ -39059,6 +39059,9 @@
 [submodule "latex2exp"]
 	path = latex2exp
 	url = https://github.com/cran/latex2exp
+[submodule "latexSymb"]
+	path = latexSymb
+	url = https://github.com/cran/latexSymb
 [submodule "latexdiffr"]
 	path = latexdiffr
 	url = https://github.com/cran/latexdiffr
@@ -46163,6 +46166,9 @@
 [submodule "osrmr"]
 	path = osrmr
 	url = https://github.com/cran/osrmr
+[submodule "osum"]
+	path = osum
+	url = https://github.com/cran/osum
 [submodule "otargen"]
 	path = otargen
 	url = https://github.com/cran/otargen
@@ -50378,6 +50384,9 @@
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/cran/rJava
+[submodule "rJavaEnv"]
+	path = rJavaEnv
+	url = https://github.com/cran/rJavaEnv
 [submodule "rKIN"]
 	path = rKIN
 	url = https://github.com/cran/rKIN
@@ -52988,6 +52997,9 @@
 [submodule "rollmatch"]
 	path = rollmatch
 	url = https://github.com/cran/rollmatch
+[submodule "rollup"]
+	path = rollup
+	url = https://github.com/cran/rollup
 [submodule "roloc"]
 	path = roloc
 	url = https://github.com/cran/roloc
