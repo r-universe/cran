@@ -4001,6 +4001,9 @@
 [submodule "DataSpaceR"]
 	path = DataSpaceR
 	url = https://github.com/cran/DataSpaceR
+[submodule "DataSum"]
+	path = DataSum
+	url = https://github.com/cran/DataSum
 [submodule "DataVisualizations"]
 	path = DataVisualizations
 	url = https://github.com/cran/DataVisualizations
@@ -18575,6 +18578,9 @@
 [submodule "WMWssp"]
 	path = WMWssp
 	url = https://github.com/cran/WMWssp
+[submodule "WOAkMedoids"]
+	path = WOAkMedoids
+	url = https://github.com/cran/WOAkMedoids
 [submodule "WOTPLY"]
 	path = WOTPLY
 	url = https://github.com/cran/WOTPLY
@@ -22847,6 +22853,9 @@
 [submodule "bullishTrader"]
 	path = bullishTrader
 	url = https://github.com/cran/bullishTrader
+[submodule "bullseye"]
+	path = bullseye
+	url = https://github.com/cran/bullseye
 [submodule "bullwhipgame"]
 	path = bullwhipgame
 	url = https://github.com/cran/bullwhipgame
@@ -23144,6 +23153,9 @@
 [submodule "caper"]
 	path = caper
 	url = https://github.com/cran/caper
+[submodule "capesData"]
+	path = capesData
+	url = https://github.com/cran/capesData
 [submodule "capitalR"]
 	path = capitalR
 	url = https://github.com/cran/capitalR
@@ -30272,6 +30284,9 @@
 [submodule "evolMap"]
 	path = evolMap
 	url = https://github.com/cran/evolMap
+[submodule "evola"]
+	path = evola
+	url = https://github.com/cran/evola
 [submodule "evolqg"]
 	path = evolqg
 	url = https://github.com/cran/evolqg
@@ -36869,6 +36884,9 @@
 [submodule "idiogramFISH"]
 	path = idiogramFISH
 	url = https://github.com/cran/idiogramFISH
+[submodule "idiolect"]
+	path = idiolect
+	url = https://github.com/cran/idiolect
 [submodule "idm"]
 	path = idm
 	url = https://github.com/cran/idm
