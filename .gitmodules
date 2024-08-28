@@ -2846,6 +2846,9 @@
 [submodule "ClustImpute"]
 	path = ClustImpute
 	url = https://github.com/cran/ClustImpute
+[submodule "ClustMC"]
+	path = ClustMC
+	url = https://github.com/cran/ClustMC
 [submodule "ClustOfVar"]
 	path = ClustOfVar
 	url = https://github.com/cran/ClustOfVar
@@ -6620,6 +6623,9 @@
 [submodule "GeomComb"]
 	path = GeomComb
 	url = https://github.com/cran/GeomComb
+[submodule "GephiForR"]
+	path = GephiForR
+	url = https://github.com/cran/GephiForR
 [submodule "GerminaR"]
 	path = GerminaR
 	url = https://github.com/cran/GerminaR
@@ -6725,6 +6731,9 @@
 [submodule "GoodmanKruskal"]
 	path = GoodmanKruskal
 	url = https://github.com/cran/GoodmanKruskal
+[submodule "Goodreader"]
+	path = Goodreader
+	url = https://github.com/cran/Goodreader
 [submodule "GoogleImage2Array"]
 	path = GoogleImage2Array
 	url = https://github.com/cran/GoogleImage2Array
@@ -14411,6 +14420,9 @@
 [submodule "RcppBDT"]
 	path = RcppBDT
 	url = https://github.com/cran/RcppBDT
+[submodule "RcppBessel"]
+	path = RcppBessel
+	url = https://github.com/cran/RcppBessel
 [submodule "RcppBigIntAlgos"]
 	path = RcppBigIntAlgos
 	url = https://github.com/cran/RcppBigIntAlgos
@@ -30833,9 +30845,6 @@
 [submodule "fastJT"]
 	path = fastJT
 	url = https://github.com/cran/fastJT
-[submodule "fastLaplace"]
-	path = fastLaplace
-	url = https://github.com/cran/fastLaplace
 [submodule "fastLink"]
 	path = fastLink
 	url = https://github.com/cran/fastLink
@@ -31745,6 +31754,9 @@
 [submodule "flux"]
 	path = flux
 	url = https://github.com/cran/flux
+[submodule "fluxible"]
+	path = fluxible
+	url = https://github.com/cran/fluxible
 [submodule "fluxweb"]
 	path = fluxweb
 	url = https://github.com/cran/fluxweb
@@ -38486,6 +38498,9 @@
 [submodule "kernscr"]
 	path = kernscr
 	url = https://github.com/cran/kernscr
+[submodule "kerntools"]
+	path = kerntools
+	url = https://github.com/cran/kerntools
 [submodule "kesernetwork"]
 	path = kesernetwork
 	url = https://github.com/cran/kesernetwork
@@ -46166,9 +46181,6 @@
 [submodule "otrimle"]
 	path = otrimle
 	url = https://github.com/cran/otrimle
-[submodule "otsad"]
-	path = otsad
-	url = https://github.com/cran/otsad
 [submodule "otsfeatures"]
 	path = otsfeatures
 	url = https://github.com/cran/otsfeatures
