@@ -1415,6 +1415,9 @@
 [submodule "BayesMallows"]
 	path = BayesMallows
 	url = https://github.com/cran/BayesMallows
+[submodule "BayesMassBal"]
+	path = BayesMassBal
+	url = https://github.com/cran/BayesMassBal
 [submodule "BayesMixSurv"]
 	path = BayesMixSurv
 	url = https://github.com/cran/BayesMixSurv
@@ -3134,6 +3137,9 @@
 [submodule "ContaminatedMixt"]
 	path = ContaminatedMixt
 	url = https://github.com/cran/ContaminatedMixt
+[submodule "ContourFunctions"]
+	path = ContourFunctions
+	url = https://github.com/cran/ContourFunctions
 [submodule "ConvergenceClubs"]
 	path = ConvergenceClubs
 	url = https://github.com/cran/ConvergenceClubs
@@ -4460,6 +4466,9 @@
 [submodule "ECoL"]
 	path = ECoL
 	url = https://github.com/cran/ECoL
+[submodule "EDA"]
+	path = EDA
+	url = https://github.com/cran/EDA
 [submodule "EDCimport"]
 	path = EDCimport
 	url = https://github.com/cran/EDCimport
@@ -5666,6 +5675,9 @@
 [submodule "FishPhyloMaker"]
 	path = FishPhyloMaker
 	url = https://github.com/cran/FishPhyloMaker
+[submodule "FishProxCompAnalyzer"]
+	path = FishProxCompAnalyzer
+	url = https://github.com/cran/FishProxCompAnalyzer
 [submodule "FishResp"]
 	path = FishResp
 	url = https://github.com/cran/FishResp
@@ -7025,6 +7037,9 @@
 [submodule "HRW"]
 	path = HRW
 	url = https://github.com/cran/HRW
+[submodule "HS"]
+	path = HS
+	url = https://github.com/cran/HS
 [submodule "HSAUR"]
 	path = HSAUR
 	url = https://github.com/cran/HSAUR
@@ -7409,6 +7424,9 @@
 [submodule "IDPmisc"]
 	path = IDPmisc
 	url = https://github.com/cran/IDPmisc
+[submodule "IDSA"]
+	path = IDSA
+	url = https://github.com/cran/IDSA
 [submodule "IDSL.CSA"]
 	path = IDSL.CSA
 	url = https://github.com/cran/IDSL.CSA
@@ -7553,6 +7571,9 @@
 [submodule "IPCWK"]
 	path = IPCWK
 	url = https://github.com/cran/IPCWK
+[submodule "IPDFileCheck"]
+	path = IPDFileCheck
+	url = https://github.com/cran/IPDFileCheck
 [submodule "IPDfromKM"]
 	path = IPDfromKM
 	url = https://github.com/cran/IPDfromKM
@@ -7673,6 +7694,9 @@
 [submodule "IgAScores"]
 	path = IgAScores
 	url = https://github.com/cran/IgAScores
+[submodule "IgorR"]
+	path = IgorR
+	url = https://github.com/cran/IgorR
 [submodule "ImCluster"]
 	path = ImCluster
 	url = https://github.com/cran/ImCluster
@@ -9848,6 +9872,9 @@
 [submodule "MatrixExtra"]
 	path = MatrixExtra
 	url = https://github.com/cran/MatrixExtra
+[submodule "MatrixHMM"]
+	path = MatrixHMM
+	url = https://github.com/cran/MatrixHMM
 [submodule "MatrixLDA"]
 	path = MatrixLDA
 	url = https://github.com/cran/MatrixLDA
@@ -20879,6 +20906,9 @@
 [submodule "baffle"]
 	path = baffle
 	url = https://github.com/cran/baffle
+[submodule "bage"]
+	path = bage
+	url = https://github.com/cran/bage
 [submodule "bagged.outliertrees"]
 	path = bagged.outliertrees
 	url = https://github.com/cran/bagged.outliertrees
@@ -26972,6 +27002,9 @@
 [submodule "dbstats"]
 	path = dbstats
 	url = https://github.com/cran/dbstats
+[submodule "dbw"]
+	path = dbw
+	url = https://github.com/cran/dbw
 [submodule "dbx"]
 	path = dbx
 	url = https://github.com/cran/dbx
@@ -35807,6 +35840,9 @@
 [submodule "hetsurr"]
 	path = hetsurr
 	url = https://github.com/cran/hetsurr
+[submodule "hetsurrSurv"]
+	path = hetsurrSurv
+	url = https://github.com/cran/hetsurrSurv
 [submodule "hett"]
 	path = hett
 	url = https://github.com/cran/hett
@@ -44447,6 +44483,9 @@
 [submodule "neuralnet"]
 	path = neuralnet
 	url = https://github.com/cran/neuralnet
+[submodule "neuroUp"]
+	path = neuroUp
+	url = https://github.com/cran/neuroUp
 [submodule "neurobase"]
 	path = neurobase
 	url = https://github.com/cran/neurobase
@@ -50546,6 +50585,9 @@
 [submodule "rWishart"]
 	path = rWishart
 	url = https://github.com/cran/rWishart
+[submodule "rYWAASB"]
+	path = rYWAASB
+	url = https://github.com/cran/rYWAASB
 [submodule "rYoutheria"]
 	path = rYoutheria
 	url = https://github.com/cran/rYoutheria
@@ -55436,6 +55478,9 @@
 [submodule "shiny.telemetry"]
 	path = shiny.telemetry
 	url = https://github.com/cran/shiny.telemetry
+[submodule "shiny.worker"]
+	path = shiny.worker
+	url = https://github.com/cran/shiny.worker
 [submodule "shinyAce"]
 	path = shinyAce
 	url = https://github.com/cran/shinyAce
@@ -59900,6 +59945,9 @@
 [submodule "tibblify"]
 	path = tibblify
 	url = https://github.com/cran/tibblify
+[submodule "tican"]
+	path = tican
+	url = https://github.com/cran/tican
 [submodule "tictactoe"]
 	path = tictactoe
 	url = https://github.com/cran/tictactoe
@@ -62309,6 +62357,9 @@
 [submodule "visachartR"]
 	path = visachartR
 	url = https://github.com/cran/visachartR
+[submodule "visae"]
+	path = visae
+	url = https://github.com/cran/visae
 [submodule "viscomp"]
 	path = viscomp
 	url = https://github.com/cran/viscomp
