@@ -518,6 +518,9 @@
 [submodule "AhoCorasickTrie"]
 	path = AhoCorasickTrie
 	url = https://github.com/cran/AhoCorasickTrie
+[submodule "AirExposure"]
+	path = AirExposure
+	url = https://github.com/cran/AirExposure
 [submodule "AirMonitor"]
 	path = AirMonitor
 	url = https://github.com/cran/AirMonitor
@@ -8879,6 +8882,9 @@
 [submodule "LoopRig"]
 	path = LoopRig
 	url = https://github.com/cran/LoopRig
+[submodule "LorMe"]
+	path = LorMe
+	url = https://github.com/cran/LorMe
 [submodule "LorenzRegression"]
 	path = LorenzRegression
 	url = https://github.com/cran/LorenzRegression
@@ -8936,6 +8942,9 @@
 [submodule "MAKL"]
 	path = MAKL
 	url = https://github.com/cran/MAKL
+[submodule "MALDIcellassay"]
+	path = MALDIcellassay
+	url = https://github.com/cran/MALDIcellassay
 [submodule "MALDIquant"]
 	path = MALDIquant
 	url = https://github.com/cran/MALDIquant
@@ -31172,6 +31181,9 @@
 [submodule "fddm"]
 	path = fddm
 	url = https://github.com/cran/fddm
+[submodule "fdesigns"]
+	path = fdesigns
+	url = https://github.com/cran/fdesigns
 [submodule "fdicdata"]
 	path = fdicdata
 	url = https://github.com/cran/fdicdata
@@ -42239,6 +42251,9 @@
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/cran/mirai
+[submodule "mirrorselect"]
+	path = mirrorselect
+	url = https://github.com/cran/mirrorselect
 [submodule "mirt"]
 	path = mirt
 	url = https://github.com/cran/mirt
@@ -60314,6 +60329,9 @@
 [submodule "timeDate"]
 	path = timeDate
 	url = https://github.com/cran/timeDate
+[submodule "timeEL"]
+	path = timeEL
+	url = https://github.com/cran/timeEL
 [submodule "timeLineGraphics"]
 	path = timeLineGraphics
 	url = https://github.com/cran/timeLineGraphics
@@ -60383,6 +60401,9 @@
 [submodule "tinter"]
 	path = tinter
 	url = https://github.com/cran/tinter
+[submodule "tintin"]
+	path = tintin
+	url = https://github.com/cran/tintin
 [submodule "tinyProject"]
 	path = tinyProject
 	url = https://github.com/cran/tinyProject
