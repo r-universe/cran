@@ -30611,9 +30611,6 @@
 [submodule "fBonds"]
 	path = fBonds
 	url = https://github.com/cran/fBonds
-[submodule "fCWTr"]
-	path = fCWTr
-	url = https://github.com/cran/fCWTr
 [submodule "fCopulae"]
 	path = fCopulae
 	url = https://github.com/cran/fCopulae
@@ -59381,9 +59378,6 @@
 [submodule "taxnames"]
 	path = taxnames
 	url = https://github.com/cran/taxnames
-[submodule "taxonbridge"]
-	path = taxonbridge
-	url = https://github.com/cran/taxonbridge
 [submodule "taxonomizr"]
 	path = taxonomizr
 	url = https://github.com/cran/taxonomizr
