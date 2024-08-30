@@ -20024,6 +20024,9 @@
 [submodule "anscombiser"]
 	path = anscombiser
 	url = https://github.com/cran/anscombiser
+[submodule "antaresRead"]
+	path = antaresRead
+	url = https://github.com/cran/antaresRead
 [submodule "anthro"]
 	path = anthro
 	url = https://github.com/cran/anthro
