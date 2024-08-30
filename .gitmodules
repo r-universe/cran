@@ -31787,6 +31787,9 @@
 [submodule "flowchart"]
 	path = flowchart
 	url = https://github.com/cran/flowchart
+[submodule "flowmapper"]
+	path = flowmapper
+	url = https://github.com/cran/flowmapper
 [submodule "flowml"]
 	path = flowml
 	url = https://github.com/cran/flowml
@@ -34043,6 +34046,9 @@
 [submodule "ggrepel"]
 	path = ggrepel
 	url = https://github.com/cran/ggrepel
+[submodule "ggreveal"]
+	path = ggreveal
+	url = https://github.com/cran/ggreveal
 [submodule "ggridges"]
 	path = ggridges
 	url = https://github.com/cran/ggridges
@@ -49463,6 +49469,9 @@
 [submodule "pstest"]
 	path = pstest
 	url = https://github.com/cran/pstest
+[submodule "psvmSDR"]
+	path = psvmSDR
+	url = https://github.com/cran/psvmSDR
 [submodule "psy"]
 	path = psy
 	url = https://github.com/cran/psy
