@@ -17171,6 +17171,9 @@
 [submodule "SuppDists"]
 	path = SuppDists
 	url = https://github.com/cran/SuppDists
+[submodule "SurfRough"]
+	path = SurfRough
+	url = https://github.com/cran/SurfRough
 [submodule "SurfaceTortoise"]
 	path = SurfaceTortoise
 	url = https://github.com/cran/SurfaceTortoise
@@ -28361,6 +28364,9 @@
 [submodule "dotsViolin"]
 	path = dotsViolin
 	url = https://github.com/cran/dotsViolin
+[submodule "dotty"]
+	path = dotty
+	url = https://github.com/cran/dotty
 [submodule "dotwhisker"]
 	path = dotwhisker
 	url = https://github.com/cran/dotwhisker
@@ -36278,6 +36284,9 @@
 [submodule "hrt"]
 	path = hrt
 	url = https://github.com/cran/hrt
+[submodule "hrtlFMC"]
+	path = hrtlFMC
+	url = https://github.com/cran/hrtlFMC
 [submodule "hscovar"]
 	path = hscovar
 	url = https://github.com/cran/hscovar
@@ -37187,6 +37196,9 @@
 [submodule "imputeLCMD"]
 	path = imputeLCMD
 	url = https://github.com/cran/imputeLCMD
+[submodule "imputeMissings"]
+	path = imputeMissings
+	url = https://github.com/cran/imputeMissings
 [submodule "imputeMulti"]
 	path = imputeMulti
 	url = https://github.com/cran/imputeMulti
@@ -38735,6 +38747,9 @@
 [submodule "kmeRs"]
 	path = kmeRs
 	url = https://github.com/cran/kmeRs
+[submodule "kmeRtone"]
+	path = kmeRtone
+	url = https://github.com/cran/kmeRtone
 [submodule "kmed"]
 	path = kmed
 	url = https://github.com/cran/kmed
@@ -42188,6 +42203,9 @@
 [submodule "minerva"]
 	path = minerva
 	url = https://github.com/cran/minerva
+[submodule "minesweeper"]
+	path = minesweeper
+	url = https://github.com/cran/minesweeper
 [submodule "miniCRAN"]
 	path = miniCRAN
 	url = https://github.com/cran/miniCRAN
@@ -54797,6 +54815,9 @@
 [submodule "sdrt"]
 	path = sdrt
 	url = https://github.com/cran/sdrt
+[submodule "sdsfun"]
+	path = sdsfun
+	url = https://github.com/cran/sdsfun
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/cran/sdtmchecks
