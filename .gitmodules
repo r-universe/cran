@@ -3698,9 +3698,6 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
-[submodule "DMCfun"]
-	path = DMCfun
-	url = https://github.com/cran/DMCfun
 [submodule "DMMF"]
 	path = DMMF
 	url = https://github.com/cran/DMMF
@@ -47228,9 +47225,6 @@
 [submodule "pedigreemm"]
 	path = pedigreemm
 	url = https://github.com/cran/pedigreemm
-[submodule "pedmod"]
-	path = pedmod
-	url = https://github.com/cran/pedmod
 [submodule "pedmut"]
 	path = pedmut
 	url = https://github.com/cran/pedmut
@@ -58637,9 +58631,6 @@
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/cran/suntools
-[submodule "supc"]
-	path = supc
-	url = https://github.com/cran/supc
 [submodule "supclust"]
 	path = supclust
 	url = https://github.com/cran/supclust
