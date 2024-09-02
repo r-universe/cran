@@ -8354,6 +8354,9 @@
 [submodule "LDAvis"]
 	path = LDAvis
 	url = https://github.com/cran/LDAvis
+[submodule "LDLcalc"]
+	path = LDLcalc
+	url = https://github.com/cran/LDLcalc
 [submodule "LDM"]
 	path = LDM
 	url = https://github.com/cran/LDM
@@ -8459,6 +8462,9 @@
 [submodule "LOGAN"]
 	path = LOGAN
 	url = https://github.com/cran/LOGAN
+[submodule "LOGANTree"]
+	path = LOGANTree
+	url = https://github.com/cran/LOGANTree
 [submodule "LOMAR"]
 	path = LOMAR
 	url = https://github.com/cran/LOMAR
@@ -17984,6 +17990,9 @@
 [submodule "Tratamentos.ad"]
 	path = Tratamentos.ad
 	url = https://github.com/cran/Tratamentos.ad
+[submodule "TreatmentPatterns"]
+	path = TreatmentPatterns
+	url = https://github.com/cran/TreatmentPatterns
 [submodule "TreatmentSelection"]
 	path = TreatmentSelection
 	url = https://github.com/cran/TreatmentSelection
@@ -35312,21 +35321,12 @@
 [submodule "gtexture"]
 	path = gtexture
 	url = https://github.com/cran/gtexture
-[submodule "gtfs2emis"]
-	path = gtfs2emis
-	url = https://github.com/cran/gtfs2emis
-[submodule "gtfs2gps"]
-	path = gtfs2gps
-	url = https://github.com/cran/gtfs2gps
 [submodule "gtfsio"]
 	path = gtfsio
 	url = https://github.com/cran/gtfsio
 [submodule "gtfsrouter"]
 	path = gtfsrouter
 	url = https://github.com/cran/gtfsrouter
-[submodule "gtfstools"]
-	path = gtfstools
-	url = https://github.com/cran/gtfstools
 [submodule "gtheory"]
 	path = gtheory
 	url = https://github.com/cran/gtheory
