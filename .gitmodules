@@ -58421,9 +58421,6 @@
 [submodule "stream"]
 	path = stream
 	url = https://github.com/cran/stream
-[submodule "streamConnect"]
-	path = streamConnect
-	url = https://github.com/cran/streamConnect
 [submodule "streamDAG"]
 	path = streamDAG
 	url = https://github.com/cran/streamDAG
