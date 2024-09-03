@@ -4439,6 +4439,9 @@
 [submodule "EBPRS"]
 	path = EBPRS
 	url = https://github.com/cran/EBPRS
+[submodule "EBcoBART"]
+	path = EBcoBART
+	url = https://github.com/cran/EBcoBART
 [submodule "EBglmnet"]
 	path = EBglmnet
 	url = https://github.com/cran/EBglmnet
@@ -4682,6 +4685,12 @@
 [submodule "EQL"]
 	path = EQL
 	url = https://github.com/cran/EQL
+[submodule "EQUALSTATS"]
+	path = EQUALSTATS
+	url = https://github.com/cran/EQUALSTATS
+[submodule "EQUALrepeat"]
+	path = EQUALrepeat
+	url = https://github.com/cran/EQUALrepeat
 [submodule "EQUIVNONINF"]
 	path = EQUIVNONINF
 	url = https://github.com/cran/EQUIVNONINF
@@ -6626,6 +6635,9 @@
 [submodule "GeoRange"]
 	path = GeoRange
 	url = https://github.com/cran/GeoRange
+[submodule "GeoThinneR"]
+	path = GeoThinneR
+	url = https://github.com/cran/GeoThinneR
 [submodule "GeoWeightedModel"]
 	path = GeoWeightedModel
 	url = https://github.com/cran/GeoWeightedModel
@@ -6722,6 +6734,9 @@
 [submodule "Gmisc"]
 	path = Gmisc
 	url = https://github.com/cran/Gmisc
+[submodule "GmooG"]
+	path = GmooG
+	url = https://github.com/cran/GmooG
 [submodule "GmptzCurve"]
 	path = GmptzCurve
 	url = https://github.com/cran/GmptzCurve
@@ -12848,6 +12863,9 @@
 [submodule "QuESTr"]
 	path = QuESTr
 	url = https://github.com/cran/QuESTr
+[submodule "QuICSeedR"]
+	path = QuICSeedR
+	url = https://github.com/cran/QuICSeedR
 [submodule "QuadRoot"]
 	path = QuadRoot
 	url = https://github.com/cran/QuadRoot
@@ -17675,6 +17693,9 @@
 [submodule "TVMM"]
 	path = TVMM
 	url = https://github.com/cran/TVMM
+[submodule "TWW"]
+	path = TWW
+	url = https://github.com/cran/TWW
 [submodule "Taba"]
 	path = Taba
 	url = https://github.com/cran/Taba
@@ -22502,6 +22523,9 @@
 [submodule "box.linters"]
 	path = box.linters
 	url = https://github.com/cran/box.linters
+[submodule "box.lsp"]
+	path = box.lsp
+	url = https://github.com/cran/box.lsp
 [submodule "boxcoxmix"]
 	path = boxcoxmix
 	url = https://github.com/cran/boxcoxmix
@@ -23444,6 +23468,9 @@
 [submodule "cbass"]
 	path = cbass
 	url = https://github.com/cran/cbass
+[submodule "cbbinom"]
+	path = cbbinom
+	url = https://github.com/cran/cbbinom
 [submodule "cbcTools"]
 	path = cbcTools
 	url = https://github.com/cran/cbcTools
@@ -28409,6 +28436,9 @@
 [submodule "dparser"]
 	path = dparser
 	url = https://github.com/cran/dparser
+[submodule "dpasurv"]
+	path = dpasurv
+	url = https://github.com/cran/dpasurv
 [submodule "dpcc"]
 	path = dpcc
 	url = https://github.com/cran/dpcc
@@ -28865,6 +28895,9 @@
 [submodule "eCV"]
 	path = eCV
 	url = https://github.com/cran/eCV
+[submodule "eCerto"]
+	path = eCerto
+	url = https://github.com/cran/eCerto
 [submodule "eChem"]
 	path = eChem
 	url = https://github.com/cran/eChem
@@ -37211,6 +37244,9 @@
 [submodule "imsig"]
 	path = imsig
 	url = https://github.com/cran/imsig
+[submodule "imt"]
+	path = imt
+	url = https://github.com/cran/imt
 [submodule "in2extRemes"]
 	path = in2extRemes
 	url = https://github.com/cran/in2extRemes
@@ -41114,6 +41150,9 @@
 [submodule "maxnodf"]
 	path = maxnodf
 	url = https://github.com/cran/maxnodf
+[submodule "maxstablePCA"]
+	path = maxstablePCA
+	url = https://github.com/cran/maxstablePCA
 [submodule "maxstat"]
 	path = maxstat
 	url = https://github.com/cran/maxstat
@@ -42050,9 +42089,6 @@
 [submodule "microcontax"]
 	path = microcontax
 	url = https://github.com/cran/microcontax
-[submodule "microdatasus"]
-	path = microdatasus
-	url = https://github.com/cran/microdatasus
 [submodule "microdiluteR"]
 	path = microdiluteR
 	url = https://github.com/cran/microdiluteR
@@ -46514,6 +46550,9 @@
 [submodule "pak"]
 	path = pak
 	url = https://github.com/cran/pak
+[submodule "pakret"]
+	path = pakret
+	url = https://github.com/cran/pakret
 [submodule "palaeoSig"]
 	path = palaeoSig
 	url = https://github.com/cran/palaeoSig
@@ -51341,6 +51380,9 @@
 [submodule "rdwplus"]
 	path = rdwplus
 	url = https://github.com/cran/rdwplus
+[submodule "re"]
+	path = re
+	url = https://github.com/cran/re
 [submodule "re2"]
 	path = re2
 	url = https://github.com/cran/re2
@@ -52403,6 +52445,9 @@
 [submodule "ribd"]
 	path = ribd
 	url = https://github.com/cran/ribd
+[submodule "rice"]
+	path = rice
+	url = https://github.com/cran/rice
 [submodule "ricegeneann"]
 	path = ricegeneann
 	url = https://github.com/cran/ricegeneann
@@ -53111,6 +53156,9 @@
 [submodule "ropendata"]
 	path = ropendata
 	url = https://github.com/cran/ropendata
+[submodule "ropenmeteo"]
+	path = ropenmeteo
+	url = https://github.com/cran/ropenmeteo
 [submodule "ropensecretsapi"]
 	path = ropensecretsapi
 	url = https://github.com/cran/ropensecretsapi
@@ -53783,9 +53831,6 @@
 [submodule "runstats"]
 	path = runstats
 	url = https://github.com/cran/runstats
-[submodule "rusda"]
-	path = rusda
-	url = https://github.com/cran/rusda
 [submodule "rush"]
 	path = rush
 	url = https://github.com/cran/rush
@@ -58490,6 +58535,9 @@
 [submodule "striprtf"]
 	path = striprtf
 	url = https://github.com/cran/striprtf
+[submodule "strs"]
+	path = strs
+	url = https://github.com/cran/strs
 [submodule "strucchange"]
 	path = strucchange
 	url = https://github.com/cran/strucchange
@@ -63122,6 +63170,9 @@
 [submodule "winputall"]
 	path = winputall
 	url = https://github.com/cran/winputall
+[submodule "wintime"]
+	path = wintime
+	url = https://github.com/cran/wintime
 [submodule "wiqid"]
 	path = wiqid
 	url = https://github.com/cran/wiqid
