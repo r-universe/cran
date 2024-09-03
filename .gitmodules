@@ -6626,6 +6626,9 @@
 [submodule "GeoAdjust"]
 	path = GeoAdjust
 	url = https://github.com/cran/GeoAdjust
+[submodule "GeoFIS"]
+	path = GeoFIS
+	url = https://github.com/cran/GeoFIS
 [submodule "GeoModels"]
 	path = GeoModels
 	url = https://github.com/cran/GeoModels
@@ -31916,9 +31919,6 @@
 [submodule "fnets"]
 	path = fnets
 	url = https://github.com/cran/fnets
-[submodule "fntl"]
-	path = fntl
-	url = https://github.com/cran/fntl
 [submodule "focusedMDS"]
 	path = focusedMDS
 	url = https://github.com/cran/focusedMDS
