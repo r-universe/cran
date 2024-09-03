@@ -3107,6 +3107,9 @@
 [submodule "ConfusionTableR"]
 	path = ConfusionTableR
 	url = https://github.com/cran/ConfusionTableR
+[submodule "CongressData"]
+	path = CongressData
+	url = https://github.com/cran/CongressData
 [submodule "CongreveLamsdell2016"]
 	path = CongreveLamsdell2016
 	url = https://github.com/cran/CongreveLamsdell2016
@@ -12596,6 +12599,9 @@
 [submodule "ProSGPV"]
 	path = ProSGPV
 	url = https://github.com/cran/ProSGPV
+[submodule "ProSportsDraftData"]
+	path = ProSportsDraftData
+	url = https://github.com/cran/ProSportsDraftData
 [submodule "ProTrackR"]
 	path = ProTrackR
 	url = https://github.com/cran/ProTrackR
@@ -14123,6 +14129,9 @@
 [submodule "RWDataPlyr"]
 	path = RWDataPlyr
 	url = https://github.com/cran/RWDataPlyr
+[submodule "RWNN"]
+	path = RWNN
+	url = https://github.com/cran/RWNN
 [submodule "RWeka"]
 	path = RWeka
 	url = https://github.com/cran/RWeka
@@ -24368,6 +24377,9 @@
 [submodule "clintools"]
 	path = clintools
 	url = https://github.com/cran/clintools
+[submodule "clintrialx"]
+	path = clintrialx
+	url = https://github.com/cran/clintrialx
 [submodule "cliot"]
 	path = cliot
 	url = https://github.com/cran/cliot
@@ -29807,6 +29819,9 @@
 [submodule "eodhd"]
 	path = eodhd
 	url = https://github.com/cran/eodhd
+[submodule "eodhdR2"]
+	path = eodhdR2
+	url = https://github.com/cran/eodhdR2
 [submodule "eoffice"]
 	path = eoffice
 	url = https://github.com/cran/eoffice
@@ -39992,6 +40007,9 @@
 [submodule "lnmCluster"]
 	path = lnmCluster
 	url = https://github.com/cran/lnmCluster
+[submodule "lnmixsurv"]
+	path = lnmixsurv
+	url = https://github.com/cran/lnmixsurv
 [submodule "loa"]
 	path = loa
 	url = https://github.com/cran/loa
@@ -54863,6 +54881,9 @@
 [submodule "sdsfun"]
 	path = sdsfun
 	url = https://github.com/cran/sdsfun
+[submodule "sdtm.oak"]
+	path = sdtm.oak
+	url = https://github.com/cran/sdtm.oak
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/cran/sdtmchecks
