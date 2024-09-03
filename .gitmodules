@@ -260,6 +260,9 @@
 [submodule "AOV1R"]
 	path = AOV1R
 	url = https://github.com/cran/AOV1R
+[submodule "AOboot"]
+	path = AOboot
+	url = https://github.com/cran/AOboot
 [submodule "APCI"]
 	path = APCI
 	url = https://github.com/cran/APCI
@@ -5015,6 +5018,9 @@
 [submodule "EquiSurv"]
 	path = EquiSurv
 	url = https://github.com/cran/EquiSurv
+[submodule "EquiTrends"]
+	path = EquiTrends
+	url = https://github.com/cran/EquiTrends
 [submodule "EstCRM"]
 	path = EstCRM
 	url = https://github.com/cran/EstCRM
@@ -9458,6 +9464,9 @@
 [submodule "MMDvariance"]
 	path = MMDvariance
 	url = https://github.com/cran/MMDvariance
+[submodule "MMGFM"]
+	path = MMGFM
+	url = https://github.com/cran/MMGFM
 [submodule "MMINP"]
 	path = MMINP
 	url = https://github.com/cran/MMINP
@@ -12170,6 +12179,9 @@
 [submodule "Partiallyoverlapping"]
 	path = Partiallyoverlapping
 	url = https://github.com/cran/Partiallyoverlapping
+[submodule "PathwaySpace"]
+	path = PathwaySpace
+	url = https://github.com/cran/PathwaySpace
 [submodule "PatientProfiles"]
 	path = PatientProfiles
 	url = https://github.com/cran/PatientProfiles
@@ -18851,6 +18863,9 @@
 [submodule "XBRL"]
 	path = XBRL
 	url = https://github.com/cran/XBRL
+[submodule "XDNUTS"]
+	path = XDNUTS
+	url = https://github.com/cran/XDNUTS
 [submodule "XICOR"]
 	path = XICOR
 	url = https://github.com/cran/XICOR
@@ -43400,6 +43415,9 @@
 [submodule "mreg"]
 	path = mreg
 	url = https://github.com/cran/mreg
+[submodule "mregions2"]
+	path = mregions2
+	url = https://github.com/cran/mregions2
 [submodule "mrf"]
 	path = mrf
 	url = https://github.com/cran/mrf
@@ -48575,6 +48593,9 @@
 [submodule "poolVIM"]
 	path = poolVIM
 	url = https://github.com/cran/poolVIM
+[submodule "pooledpeaks"]
+	path = pooledpeaks
+	url = https://github.com/cran/pooledpeaks
 [submodule "poolfstat"]
 	path = poolfstat
 	url = https://github.com/cran/poolfstat
@@ -63074,6 +63095,9 @@
 [submodule "wgaim"]
 	path = wgaim
 	url = https://github.com/cran/wgaim
+[submodule "wget"]
+	path = wget
+	url = https://github.com/cran/wget
 [submodule "whSample"]
 	path = whSample
 	url = https://github.com/cran/whSample
