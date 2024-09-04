@@ -6551,6 +6551,9 @@
 [submodule "GeNetIt"]
 	path = GeNetIt
 	url = https://github.com/cran/GeNetIt
+[submodule "GeRnika"]
+	path = GeRnika
+	url = https://github.com/cran/GeRnika
 [submodule "GenAI"]
 	path = GenAI
 	url = https://github.com/cran/GenAI
@@ -25943,6 +25946,9 @@
 [submodule "cpp11armadillo"]
 	path = cpp11armadillo
 	url = https://github.com/cran/cpp11armadillo
+[submodule "cpp11eigen"]
+	path = cpp11eigen
+	url = https://github.com/cran/cpp11eigen
 [submodule "cppRouting"]
 	path = cppRouting
 	url = https://github.com/cran/cppRouting
