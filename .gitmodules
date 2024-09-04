@@ -29831,9 +29831,6 @@
 [submodule "eoa3"]
 	path = eoa3
 	url = https://github.com/cran/eoa3
-[submodule "eodhd"]
-	path = eodhd
-	url = https://github.com/cran/eodhd
 [submodule "eodhdR2"]
 	path = eodhdR2
 	url = https://github.com/cran/eodhdR2
@@ -36542,9 +36539,6 @@
 [submodule "hyd1d"]
 	path = hyd1d
 	url = https://github.com/cran/hyd1d
-[submodule "hydflood"]
-	path = hydflood
-	url = https://github.com/cran/hydflood
 [submodule "hydra"]
 	path = hydra
 	url = https://github.com/cran/hydra
@@ -51458,9 +51452,6 @@
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
-[submodule "read.dbc"]
-	path = read.dbc
-	url = https://github.com/cran/read.dbc
 [submodule "read.gb"]
 	path = read.gb
 	url = https://github.com/cran/read.gb
