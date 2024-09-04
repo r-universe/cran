@@ -6311,6 +6311,9 @@
 [submodule "GPCMlasso"]
 	path = GPCMlasso
 	url = https://github.com/cran/GPCMlasso
+[submodule "GPEMR"]
+	path = GPEMR
+	url = https://github.com/cran/GPEMR
 [submodule "GPFDA"]
 	path = GPFDA
 	url = https://github.com/cran/GPFDA
@@ -21311,9 +21314,6 @@
 [submodule "bayesianETAS"]
 	path = bayesianETAS
 	url = https://github.com/cran/bayesianETAS
-[submodule "bayesianVARs"]
-	path = bayesianVARs
-	url = https://github.com/cran/bayesianVARs
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cran/bayeslm
@@ -22103,6 +22103,9 @@
 [submodule "biostat3"]
 	path = biostat3
 	url = https://github.com/cran/biostat3
+[submodule "biostats101"]
+	path = biostats101
+	url = https://github.com/cran/biostats101
 [submodule "biotic"]
 	path = biotic
 	url = https://github.com/cran/biotic
@@ -31088,6 +31091,9 @@
 [submodule "fastnet"]
 	path = fastnet
 	url = https://github.com/cran/fastnet
+[submodule "fastpng"]
+	path = fastpng
+	url = https://github.com/cran/fastpng
 [submodule "fastpos"]
 	path = fastpos
 	url = https://github.com/cran/fastpos
@@ -32675,6 +32681,9 @@
 [submodule "g.ridge"]
 	path = g.ridge
 	url = https://github.com/cran/g.ridge
+[submodule "g3viz"]
+	path = g3viz
+	url = https://github.com/cran/g3viz
 [submodule "gCat"]
 	path = gCat
 	url = https://github.com/cran/gCat
@@ -42644,6 +42653,9 @@
 [submodule "mlma"]
 	path = mlma
 	url = https://github.com/cran/mlma
+[submodule "mlmc"]
+	path = mlmc
+	url = https://github.com/cran/mlmc
 [submodule "mlmhelpr"]
 	path = mlmhelpr
 	url = https://github.com/cran/mlmhelpr
@@ -42746,6 +42758,9 @@
 [submodule "mlr3summary"]
 	path = mlr3summary
 	url = https://github.com/cran/mlr3summary
+[submodule "mlr3superlearner"]
+	path = mlr3superlearner
+	url = https://github.com/cran/mlr3superlearner
 [submodule "mlr3torch"]
 	path = mlr3torch
 	url = https://github.com/cran/mlr3torch
@@ -46673,6 +46688,9 @@
 [submodule "pan"]
 	path = pan
 	url = https://github.com/cran/pan
+[submodule "pandemics"]
+	path = pandemics
+	url = https://github.com/cran/pandemics
 [submodule "pander"]
 	path = pander
 	url = https://github.com/cran/pander
