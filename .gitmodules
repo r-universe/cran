@@ -182,6 +182,9 @@
 [submodule "AID"]
 	path = AID
 	url = https://github.com/cran/AID
+[submodule "AIFFtools"]
+	path = AIFFtools
+	url = https://github.com/cran/AIFFtools
 [submodule "AIPW"]
 	path = AIPW
 	url = https://github.com/cran/AIPW
@@ -6707,6 +6710,9 @@
 [submodule "GhostKnockoff"]
 	path = GhostKnockoff
 	url = https://github.com/cran/GhostKnockoff
+[submodule "GiANT"]
+	path = GiANT
+	url = https://github.com/cran/GiANT
 [submodule "GiNA"]
 	path = GiNA
 	url = https://github.com/cran/GiNA
@@ -7568,6 +7574,9 @@
 [submodule "INCATome"]
 	path = INCATome
 	url = https://github.com/cran/INCATome
+[submodule "INFOSET"]
+	path = INFOSET
+	url = https://github.com/cran/INFOSET
 [submodule "INLABMA"]
 	path = INLABMA
 	url = https://github.com/cran/INLABMA
@@ -17189,6 +17198,9 @@
 [submodule "SupMZ"]
 	path = SupMZ
 	url = https://github.com/cran/SupMZ
+[submodule "SuperCell"]
+	path = SuperCell
+	url = https://github.com/cran/SuperCell
 [submodule "SuperExactTest"]
 	path = SuperExactTest
 	url = https://github.com/cran/SuperExactTest
@@ -29048,6 +29060,9 @@
 [submodule "easybgm"]
 	path = easybgm
 	url = https://github.com/cran/easybgm
+[submodule "easybio"]
+	path = easybio
+	url = https://github.com/cran/easybio
 [submodule "easycensus"]
 	path = easycensus
 	url = https://github.com/cran/easycensus
@@ -29288,6 +29303,9 @@
 [submodule "ecpc"]
 	path = ecpc
 	url = https://github.com/cran/ecpc
+[submodule "ecpdist"]
+	path = ecpdist
+	url = https://github.com/cran/ecpdist
 [submodule "ecr"]
 	path = ecr
 	url = https://github.com/cran/ecr
@@ -31862,6 +31880,9 @@
 [submodule "flowchart"]
 	path = flowchart
 	url = https://github.com/cran/flowchart
+[submodule "flowmapblue"]
+	path = flowmapblue
+	url = https://github.com/cran/flowmapblue
 [submodule "flowmapper"]
 	path = flowmapper
 	url = https://github.com/cran/flowmapper
@@ -33422,6 +33443,12 @@
 [submodule "geohashTools"]
 	path = geohashTools
 	url = https://github.com/cran/geohashTools
+[submodule "geoheatmap"]
+	path = geoheatmap
+	url = https://github.com/cran/geoheatmap
+[submodule "geoidep"]
+	path = geoidep
+	url = https://github.com/cran/geoidep
 [submodule "geojson"]
 	path = geojson
 	url = https://github.com/cran/geojson
@@ -34265,6 +34292,9 @@
 [submodule "ggvis"]
 	path = ggvis
 	url = https://github.com/cran/ggvis
+[submodule "ggvolcano"]
+	path = ggvolcano
+	url = https://github.com/cran/ggvolcano
 [submodule "ggwordcloud"]
 	path = ggwordcloud
 	url = https://github.com/cran/ggwordcloud
@@ -35744,6 +35774,9 @@
 [submodule "hda"]
 	path = hda
 	url = https://github.com/cran/hda
+[submodule "hdar"]
+	path = hdar
+	url = https://github.com/cran/hdar
 [submodule "hdbayes"]
 	path = hdbayes
 	url = https://github.com/cran/hdbayes
@@ -36773,6 +36806,9 @@
 [submodule "iTOP"]
 	path = iTOP
 	url = https://github.com/cran/iTOP
+[submodule "iTOS"]
+	path = iTOS
+	url = https://github.com/cran/iTOS
 [submodule "iTensor"]
 	path = iTensor
 	url = https://github.com/cran/iTensor
@@ -42869,6 +42905,9 @@
 [submodule "mmibain"]
 	path = mmibain
 	url = https://github.com/cran/mmibain
+[submodule "mmints"]
+	path = mmints
+	url = https://github.com/cran/mmints
 [submodule "mmirestriktor"]
 	path = mmirestriktor
 	url = https://github.com/cran/mmirestriktor
@@ -47207,6 +47246,9 @@
 [submodule "pcv"]
 	path = pcv
 	url = https://github.com/cran/pcv
+[submodule "pcvr"]
+	path = pcvr
+	url = https://github.com/cran/pcvr
 [submodule "pdR"]
 	path = pdR
 	url = https://github.com/cran/pdR
@@ -57986,6 +58028,9 @@
 [submodule "sstvars"]
 	path = sstvars
 	url = https://github.com/cran/sstvars
+[submodule "ssw"]
+	path = ssw
+	url = https://github.com/cran/ssw
 [submodule "ssym"]
 	path = ssym
 	url = https://github.com/cran/ssym
@@ -61586,6 +61631,9 @@
 [submodule "twn"]
 	path = twn
 	url = https://github.com/cran/twn
+[submodule "twoStageDesignTMLE"]
+	path = twoStageDesignTMLE
+	url = https://github.com/cran/twoStageDesignTMLE
 [submodule "twopartm"]
 	path = twopartm
 	url = https://github.com/cran/twopartm
