@@ -10268,9 +10268,6 @@
 [submodule "ModStatR"]
 	path = ModStatR
 	url = https://github.com/cran/ModStatR
-[submodule "ModTools"]
-	path = ModTools
-	url = https://github.com/cran/ModTools
 [submodule "Modalclust"]
 	path = Modalclust
 	url = https://github.com/cran/Modalclust
@@ -12497,9 +12494,6 @@
 [submodule "PopGenReport"]
 	path = PopGenReport
 	url = https://github.com/cran/PopGenReport
-[submodule "PopVar"]
-	path = PopVar
-	url = https://github.com/cran/PopVar
 [submodule "PopulationGrowthR"]
 	path = PopulationGrowthR
 	url = https://github.com/cran/PopulationGrowthR
@@ -21317,6 +21311,9 @@
 [submodule "bayesianETAS"]
 	path = bayesianETAS
 	url = https://github.com/cran/bayesianETAS
+[submodule "bayesianVARs"]
+	path = bayesianVARs
+	url = https://github.com/cran/bayesianVARs
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cran/bayeslm
@@ -21713,9 +21710,6 @@
 [submodule "bgeva"]
 	path = bgeva
 	url = https://github.com/cran/bgeva
-[submodule "bggAnalytics"]
-	path = bggAnalytics
-	url = https://github.com/cran/bggAnalytics
 [submodule "bggum"]
 	path = bggum
 	url = https://github.com/cran/bggum
@@ -26048,9 +26042,6 @@
 [submodule "credule"]
 	path = credule
 	url = https://github.com/cran/credule
-[submodule "cregg"]
-	path = cregg
-	url = https://github.com/cran/cregg
 [submodule "crew"]
 	path = crew
 	url = https://github.com/cran/crew
@@ -31958,6 +31949,9 @@
 [submodule "fnets"]
 	path = fnets
 	url = https://github.com/cran/fnets
+[submodule "fntl"]
+	path = fntl
+	url = https://github.com/cran/fntl
 [submodule "focusedMDS"]
 	path = focusedMDS
 	url = https://github.com/cran/focusedMDS
