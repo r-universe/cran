@@ -10808,9 +10808,6 @@
 [submodule "NVCSSL"]
 	path = NVCSSL
 	url = https://github.com/cran/NVCSSL
-[submodule "NaileR"]
-	path = NaileR
-	url = https://github.com/cran/NaileR
 [submodule "NameNeedle"]
 	path = NameNeedle
 	url = https://github.com/cran/NameNeedle
