@@ -5891,6 +5891,9 @@
 [submodule "FuzzyDBScan"]
 	path = FuzzyDBScan
 	url = https://github.com/cran/FuzzyDBScan
+[submodule "FuzzyImputationTest"]
+	path = FuzzyImputationTest
+	url = https://github.com/cran/FuzzyImputationTest
 [submodule "FuzzyLP"]
 	path = FuzzyLP
 	url = https://github.com/cran/FuzzyLP
@@ -14777,6 +14780,9 @@
 [submodule "Redmonder"]
 	path = Redmonder
 	url = https://github.com/cran/Redmonder
+[submodule "RefBasedMI"]
+	path = RefBasedMI
+	url = https://github.com/cran/RefBasedMI
 [submodule "RefManageR"]
 	path = RefManageR
 	url = https://github.com/cran/RefManageR
@@ -31274,9 +31280,6 @@
 [submodule "fdesigns"]
 	path = fdesigns
 	url = https://github.com/cran/fdesigns
-[submodule "fdicdata"]
-	path = fdicdata
-	url = https://github.com/cran/fdicdata
 [submodule "fdm2id"]
 	path = fdm2id
 	url = https://github.com/cran/fdm2id
@@ -39053,6 +39056,9 @@
 [submodule "laGP"]
 	path = laGP
 	url = https://github.com/cran/laGP
+[submodule "lab2clean"]
+	path = lab2clean
+	url = https://github.com/cran/lab2clean
 [submodule "labNorm"]
 	path = labNorm
 	url = https://github.com/cran/labNorm
@@ -47375,6 +47381,9 @@
 [submodule "pedtools"]
 	path = pedtools
 	url = https://github.com/cran/pedtools
+[submodule "pedtricks"]
+	path = pedtricks
+	url = https://github.com/cran/pedtricks
 [submodule "peermodels"]
 	path = peermodels
 	url = https://github.com/cran/peermodels
@@ -50171,9 +50180,6 @@
 [submodule "qtlhot"]
 	path = qtlhot
 	url = https://github.com/cran/qtlhot
-[submodule "qtlmt"]
-	path = qtlmt
-	url = https://github.com/cran/qtlmt
 [submodule "qtlnet"]
 	path = qtlnet
 	url = https://github.com/cran/qtlnet
@@ -62099,6 +62105,9 @@
 [submodule "vaccine"]
 	path = vaccine
 	url = https://github.com/cran/vaccine
+[submodule "vachette"]
+	path = vachette
+	url = https://github.com/cran/vachette
 [submodule "vacuum"]
 	path = vacuum
 	url = https://github.com/cran/vacuum
