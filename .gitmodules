@@ -12530,6 +12530,9 @@
 [submodule "PottsUtils"]
 	path = PottsUtils
 	url = https://github.com/cran/PottsUtils
+[submodule "PoweREST"]
+	path = PoweREST
+	url = https://github.com/cran/PoweREST
 [submodule "Power2Stage"]
 	path = Power2Stage
 	url = https://github.com/cran/Power2Stage
@@ -20069,6 +20072,9 @@
 [submodule "anocva"]
 	path = anocva
 	url = https://github.com/cran/anocva
+[submodule "anoint"]
+	path = anoint
+	url = https://github.com/cran/anoint
 [submodule "anomalize"]
 	path = anomalize
 	url = https://github.com/cran/anomalize
@@ -33128,6 +33134,9 @@
 [submodule "gdtools"]
 	path = gdtools
 	url = https://github.com/cran/gdtools
+[submodule "gdverse"]
+	path = gdverse
+	url = https://github.com/cran/gdverse
 [submodule "gdxdt"]
 	path = gdxdt
 	url = https://github.com/cran/gdxdt
@@ -35642,6 +35651,9 @@
 [submodule "handwriter"]
 	path = handwriter
 	url = https://github.com/cran/handwriter
+[submodule "handwriterApp"]
+	path = handwriterApp
+	url = https://github.com/cran/handwriterApp
 [submodule "handyFunctions"]
 	path = handyFunctions
 	url = https://github.com/cran/handyFunctions
