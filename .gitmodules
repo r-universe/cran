@@ -6641,6 +6641,9 @@
 [submodule "GeneticSubsetter"]
 	path = GeneticSubsetter
 	url = https://github.com/cran/GeneticSubsetter
+[submodule "GenoPop"]
+	path = GenoPop
+	url = https://github.com/cran/GenoPop
 [submodule "GenoScan"]
 	path = GenoScan
 	url = https://github.com/cran/GenoScan
@@ -6650,6 +6653,9 @@
 [submodule "GenomeAdmixR"]
 	path = GenomeAdmixR
 	url = https://github.com/cran/GenomeAdmixR
+[submodule "GenomicSig"]
+	path = GenomicSig
+	url = https://github.com/cran/GenomicSig
 [submodule "GenomicTools.fileHandler"]
 	path = GenomicTools.fileHandler
 	url = https://github.com/cran/GenomicTools.fileHandler
@@ -10934,6 +10940,9 @@
 [submodule "NetworkToolbox"]
 	path = NetworkToolbox
 	url = https://github.com/cran/NetworkToolbox
+[submodule "NeuralEstimators"]
+	path = NeuralEstimators
+	url = https://github.com/cran/NeuralEstimators
 [submodule "NeuralNetTools"]
 	path = NeuralNetTools
 	url = https://github.com/cran/NeuralNetTools
@@ -13535,6 +13544,9 @@
 [submodule "RJafroc"]
 	path = RJafroc
 	url = https://github.com/cran/RJafroc
+[submodule "RJalaliDate"]
+	path = RJalaliDate
+	url = https://github.com/cran/RJalaliDate
 [submodule "RJcluster"]
 	path = RJcluster
 	url = https://github.com/cran/RJcluster
@@ -13649,6 +13661,9 @@
 [submodule "RMVL"]
 	path = RMVL
 	url = https://github.com/cran/RMVL
+[submodule "RMX"]
+	path = RMX
+	url = https://github.com/cran/RMX
 [submodule "RMaCzek"]
 	path = RMaCzek
 	url = https://github.com/cran/RMaCzek
@@ -25643,6 +25658,9 @@
 [submodule "corpcor"]
 	path = corpcor
 	url = https://github.com/cran/corpcor
+[submodule "corpmetrics"]
+	path = corpmetrics
+	url = https://github.com/cran/corpmetrics
 [submodule "corpora"]
 	path = corpora
 	url = https://github.com/cran/corpora
@@ -32021,6 +32039,9 @@
 [submodule "foghorn"]
 	path = foghorn
 	url = https://github.com/cran/foghorn
+[submodule "folda"]
+	path = folda
+	url = https://github.com/cran/folda
 [submodule "folders"]
 	path = folders
 	url = https://github.com/cran/folders
@@ -43187,6 +43208,9 @@
 [submodule "modgetxl"]
 	path = modgetxl
 	url = https://github.com/cran/modgetxl
+[submodule "modgo"]
+	path = modgo
+	url = https://github.com/cran/modgo
 [submodule "modi"]
 	path = modi
 	url = https://github.com/cran/modi
