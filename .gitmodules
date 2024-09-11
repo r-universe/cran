@@ -6548,6 +6548,9 @@
 [submodule "Gammareg"]
 	path = Gammareg
 	url = https://github.com/cran/Gammareg
+[submodule "GauPro"]
+	path = GauPro
+	url = https://github.com/cran/GauPro
 [submodule "GaussSuppression"]
 	path = GaussSuppression
 	url = https://github.com/cran/GaussSuppression
@@ -25139,6 +25142,9 @@
 [submodule "compareMCMCs"]
 	path = compareMCMCs
 	url = https://github.com/cran/compareMCMCs
+[submodule "comparer"]
+	path = comparer
+	url = https://github.com/cran/comparer
 [submodule "comparison"]
 	path = comparison
 	url = https://github.com/cran/comparison
@@ -42632,6 +42638,9 @@
 [submodule "mixmeta"]
 	path = mixmeta
 	url = https://github.com/cran/mixmeta
+[submodule "mixopt"]
+	path = mixopt
+	url = https://github.com/cran/mixopt
 [submodule "mixpoissonreg"]
 	path = mixpoissonreg
 	url = https://github.com/cran/mixpoissonreg
