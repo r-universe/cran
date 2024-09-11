@@ -29042,6 +29042,9 @@
 [submodule "earthtones"]
 	path = earthtones
 	url = https://github.com/cran/earthtones
+[submodule "easy.glmnet"]
+	path = easy.glmnet
+	url = https://github.com/cran/easy.glmnet
 [submodule "easy.utils"]
 	path = easy.utils
 	url = https://github.com/cran/easy.utils
@@ -35972,9 +35975,6 @@
 [submodule "helloJavaWorld"]
 	path = helloJavaWorld
 	url = https://github.com/cran/helloJavaWorld
-[submodule "hellorust"]
-	path = hellorust
-	url = https://github.com/cran/hellorust
 [submodule "helminthR"]
 	path = helminthR
 	url = https://github.com/cran/helminthR
@@ -60584,9 +60584,6 @@
 [submodule "timedeppar"]
 	path = timedeppar
 	url = https://github.com/cran/timedeppar
-[submodule "timeless"]
-	path = timeless
-	url = https://github.com/cran/timeless
 [submodule "timelineS"]
 	path = timelineS
 	url = https://github.com/cran/timelineS
