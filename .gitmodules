@@ -662,6 +662,9 @@
 [submodule "AppliedPredictiveModeling"]
 	path = AppliedPredictiveModeling
 	url = https://github.com/cran/AppliedPredictiveModeling
+[submodule "AquaAnalytix"]
+	path = AquaAnalytix
+	url = https://github.com/cran/AquaAnalytix
 [submodule "AquaBEHER"]
 	path = AquaBEHER
 	url = https://github.com/cran/AquaBEHER
@@ -20435,6 +20438,9 @@
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/cran/arkhe
+[submodule "arlclustering"]
+	path = arlclustering
+	url = https://github.com/cran/arlclustering
 [submodule "arm"]
 	path = arm
 	url = https://github.com/cran/arm
@@ -28847,6 +28853,9 @@
 [submodule "dyads"]
 	path = dyads
 	url = https://github.com/cran/dyads
+[submodule "dycdtools"]
+	path = dycdtools
+	url = https://github.com/cran/dycdtools
 [submodule "dydea"]
 	path = dydea
 	url = https://github.com/cran/dydea
@@ -52280,6 +52289,9 @@
 [submodule "responsePatterns"]
 	path = responsePatterns
 	url = https://github.com/cran/responsePatterns
+[submodule "resquin"]
+	path = resquin
+	url = https://github.com/cran/resquin
 [submodule "restatapi"]
 	path = restatapi
 	url = https://github.com/cran/restatapi
@@ -58976,6 +58988,9 @@
 [submodule "survRM2perm"]
 	path = survRM2perm
 	url = https://github.com/cran/survRM2perm
+[submodule "survSAKK"]
+	path = survSAKK
+	url = https://github.com/cran/survSAKK
 [submodule "survSNP"]
 	path = survSNP
 	url = https://github.com/cran/survSNP
