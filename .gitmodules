@@ -8540,6 +8540,9 @@
 [submodule "LPCM"]
 	path = LPCM
 	url = https://github.com/cran/LPCM
+[submodule "LPDynR"]
+	path = LPDynR
+	url = https://github.com/cran/LPDynR
 [submodule "LPGraph"]
 	path = LPGraph
 	url = https://github.com/cran/LPGraph
@@ -9626,6 +9629,9 @@
 [submodule "MRFcov"]
 	path = MRFcov
 	url = https://github.com/cran/MRFcov
+[submodule "MRG"]
+	path = MRG
+	url = https://github.com/cran/MRG
 [submodule "MRHawkes"]
 	path = MRHawkes
 	url = https://github.com/cran/MRHawkes
@@ -24212,6 +24218,9 @@
 [submodule "circumplex"]
 	path = circumplex
 	url = https://github.com/cran/circumplex
+[submodule "cirls"]
+	path = cirls
+	url = https://github.com/cran/cirls
 [submodule "cit"]
 	path = cit
 	url = https://github.com/cran/cit
@@ -25604,6 +25613,9 @@
 [submodule "corazon"]
 	path = corazon
 	url = https://github.com/cran/corazon
+[submodule "corbouli"]
+	path = corbouli
+	url = https://github.com/cran/corbouli
 [submodule "corclass"]
 	path = corclass
 	url = https://github.com/cran/corclass
@@ -31166,6 +31178,9 @@
 [submodule "fastnet"]
 	path = fastnet
 	url = https://github.com/cran/fastnet
+[submodule "fastplyr"]
+	path = fastplyr
+	url = https://github.com/cran/fastplyr
 [submodule "fastpng"]
 	path = fastpng
 	url = https://github.com/cran/fastpng
@@ -36005,6 +36020,9 @@
 [submodule "helloJavaWorld"]
 	path = helloJavaWorld
 	url = https://github.com/cran/helloJavaWorld
+[submodule "hellorust"]
+	path = hellorust
+	url = https://github.com/cran/hellorust
 [submodule "helminthR"]
 	path = helminthR
 	url = https://github.com/cran/helminthR
@@ -37571,6 +37589,9 @@
 [submodule "inlcolor"]
 	path = inlcolor
 	url = https://github.com/cran/inlcolor
+[submodule "inldata"]
+	path = inldata
+	url = https://github.com/cran/inldata
 [submodule "inline"]
 	path = inline
 	url = https://github.com/cran/inline
@@ -39371,6 +39392,9 @@
 [submodule "lavaanPlot"]
 	path = lavaanPlot
 	url = https://github.com/cran/lavaanPlot
+[submodule "lavaangui"]
+	path = lavaangui
+	url = https://github.com/cran/lavaangui
 [submodule "lavacreg"]
 	path = lavacreg
 	url = https://github.com/cran/lavacreg
@@ -45194,6 +45218,9 @@
 [submodule "nodiv"]
 	path = nodiv
 	url = https://github.com/cran/nodiv
+[submodule "noegletalR"]
+	path = noegletalR
+	url = https://github.com/cran/noegletalR
 [submodule "nofrills"]
 	path = nofrills
 	url = https://github.com/cran/nofrills
@@ -57836,6 +57863,9 @@
 [submodule "splus2R"]
 	path = splus2R
 	url = https://github.com/cran/splus2R
+[submodule "splusTimeDate"]
+	path = splusTimeDate
+	url = https://github.com/cran/splusTimeDate
 [submodule "splutil"]
 	path = splutil
 	url = https://github.com/cran/splutil
@@ -58949,6 +58979,9 @@
 [submodule "surface"]
 	path = surface
 	url = https://github.com/cran/surface
+[submodule "surreal"]
+	path = surreal
+	url = https://github.com/cran/surreal
 [submodule "surrosurv"]
 	path = surrosurv
 	url = https://github.com/cran/surrosurv
@@ -60335,6 +60368,9 @@
 [submodule "tidycomm"]
 	path = tidycomm
 	url = https://github.com/cran/tidycomm
+[submodule "tidycountries"]
+	path = tidycountries
+	url = https://github.com/cran/tidycountries
 [submodule "tidycwl"]
 	path = tidycwl
 	url = https://github.com/cran/tidycwl
@@ -60623,6 +60659,9 @@
 [submodule "timedeppar"]
 	path = timedeppar
 	url = https://github.com/cran/timedeppar
+[submodule "timeless"]
+	path = timeless
+	url = https://github.com/cran/timeless
 [submodule "timelineS"]
 	path = timelineS
 	url = https://github.com/cran/timelineS
@@ -63101,6 +63140,9 @@
 [submodule "wcox"]
 	path = wcox
 	url = https://github.com/cran/wcox
+[submodule "wdi2"]
+	path = wdi2
+	url = https://github.com/cran/wdi2
 [submodule "wdm"]
 	path = wdm
 	url = https://github.com/cran/wdm
@@ -63404,6 +63446,9 @@
 [submodule "withdots"]
 	path = withdots
 	url = https://github.com/cran/withdots
+[submodule "wither"]
+	path = wither
+	url = https://github.com/cran/wither
 [submodule "withr"]
 	path = withr
 	url = https://github.com/cran/withr
