@@ -3566,6 +3566,9 @@
 [submodule "DEGRE"]
 	path = DEGRE
 	url = https://github.com/cran/DEGRE
+[submodule "DEHOGT"]
+	path = DEHOGT
+	url = https://github.com/cran/DEHOGT
 [submodule "DELTD"]
 	path = DELTD
 	url = https://github.com/cran/DELTD
@@ -4271,6 +4274,9 @@
 [submodule "DiscreteDatasets"]
 	path = DiscreteDatasets
 	url = https://github.com/cran/DiscreteDatasets
+[submodule "DiscreteDists"]
+	path = DiscreteDists
+	url = https://github.com/cran/DiscreteDists
 [submodule "DiscreteFDR"]
 	path = DiscreteFDR
 	url = https://github.com/cran/DiscreteFDR
@@ -5297,9 +5303,6 @@
 [submodule "FCPS"]
 	path = FCPS
 	url = https://github.com/cran/FCPS
-[submodule "FCSlib"]
-	path = FCSlib
-	url = https://github.com/cran/FCSlib
 [submodule "FCVAR"]
 	path = FCVAR
 	url = https://github.com/cran/FCVAR
@@ -20114,6 +20117,9 @@
 [submodule "anomaly"]
 	path = anomaly
 	url = https://github.com/cran/anomaly
+[submodule "anomo"]
+	path = anomo
+	url = https://github.com/cran/anomo
 [submodule "anovir"]
 	path = anovir
 	url = https://github.com/cran/anovir
@@ -28142,6 +28148,9 @@
 [submodule "distfree.cr"]
 	path = distfree.cr
 	url = https://github.com/cran/distfree.cr
+[submodule "distfromq"]
+	path = distfromq
+	url = https://github.com/cran/distfromq
 [submodule "distill"]
 	path = distill
 	url = https://github.com/cran/distill
@@ -28514,6 +28523,9 @@
 [submodule "doubt"]
 	path = doubt
 	url = https://github.com/cran/doubt
+[submodule "douconca"]
+	path = douconca
+	url = https://github.com/cran/douconca
 [submodule "doudpackage"]
 	path = doudpackage
 	url = https://github.com/cran/doudpackage
@@ -28718,6 +28730,9 @@
 [submodule "dslabs"]
 	path = dslabs
 	url = https://github.com/cran/dslabs
+[submodule "dsld"]
+	path = dsld
+	url = https://github.com/cran/dsld
 [submodule "dslice"]
 	path = dslice
 	url = https://github.com/cran/dslice
@@ -35204,9 +35219,6 @@
 [submodule "greeks"]
 	path = greeks
 	url = https://github.com/cran/greeks
-[submodule "greenR"]
-	path = greenR
-	url = https://github.com/cran/greenR
 [submodule "greenclust"]
 	path = greenclust
 	url = https://github.com/cran/greenclust
@@ -35930,6 +35942,9 @@
 [submodule "headliner"]
 	path = headliner
 	url = https://github.com/cran/headliner
+[submodule "healthatlas"]
+	path = healthatlas
+	url = https://github.com/cran/healthatlas
 [submodule "healthcare.antitrust"]
 	path = healthcare.antitrust
 	url = https://github.com/cran/healthcare.antitrust
@@ -37028,24 +37043,12 @@
 [submodule "icesDatras"]
 	path = icesDatras
 	url = https://github.com/cran/icesDatras
-[submodule "icesDatsu"]
-	path = icesDatsu
-	url = https://github.com/cran/icesDatsu
-[submodule "icesDatsuQC"]
-	path = icesDatsuQC
-	url = https://github.com/cran/icesDatsuQC
 [submodule "icesSAG"]
 	path = icesSAG
 	url = https://github.com/cran/icesSAG
-[submodule "icesSD"]
-	path = icesSD
-	url = https://github.com/cran/icesSD
 [submodule "icesTAF"]
 	path = icesTAF
 	url = https://github.com/cran/icesTAF
-[submodule "icesVMS"]
-	path = icesVMS
-	url = https://github.com/cran/icesVMS
 [submodule "icesVocab"]
 	path = icesVocab
 	url = https://github.com/cran/icesVocab
@@ -42428,6 +42431,9 @@
 [submodule "miniGUI"]
 	path = miniGUI
 	url = https://github.com/cran/miniGUI
+[submodule "miniLNM"]
+	path = miniLNM
+	url = https://github.com/cran/miniLNM
 [submodule "miniMeta"]
 	path = miniMeta
 	url = https://github.com/cran/miniMeta
@@ -48947,6 +48953,9 @@
 [submodule "poweRlaw"]
 	path = poweRlaw
 	url = https://github.com/cran/poweRlaw
+[submodule "power.transform"]
+	path = power.transform
+	url = https://github.com/cran/power.transform
 [submodule "powerCompRisk"]
 	path = powerCompRisk
 	url = https://github.com/cran/powerCompRisk
@@ -55568,6 +55577,9 @@
 [submodule "sfcr"]
 	path = sfcr
 	url = https://github.com/cran/sfcr
+[submodule "sfcurve"]
+	path = sfcurve
+	url = https://github.com/cran/sfcurve
 [submodule "sfd"]
 	path = sfd
 	url = https://github.com/cran/sfd
@@ -58433,6 +58445,9 @@
 [submodule "stdReg"]
 	path = stdReg
 	url = https://github.com/cran/stdReg
+[submodule "stdReg2"]
+	path = stdReg2
+	url = https://github.com/cran/stdReg2
 [submodule "stddiff"]
 	path = stddiff
 	url = https://github.com/cran/stddiff
@@ -59684,9 +59699,6 @@
 [submodule "taxonomizr"]
 	path = taxonomizr
 	url = https://github.com/cran/taxonomizr
-[submodule "taxotools"]
-	path = taxotools
-	url = https://github.com/cran/taxotools
 [submodule "tayloRswift"]
 	path = tayloRswift
 	url = https://github.com/cran/tayloRswift
@@ -60644,6 +60656,9 @@
 [submodule "timeSeries"]
 	path = timeSeries
 	url = https://github.com/cran/timeSeries
+[submodule "timeSeriesDataSets"]
+	path = timeSeriesDataSets
+	url = https://github.com/cran/timeSeriesDataSets
 [submodule "timechange"]
 	path = timechange
 	url = https://github.com/cran/timechange
@@ -62741,9 +62756,6 @@
 [submodule "visualize"]
 	path = visualize
 	url = https://github.com/cran/visualize
-[submodule "visualpred"]
-	path = visualpred
-	url = https://github.com/cran/visualpred
 [submodule "visvow"]
 	path = visvow
 	url = https://github.com/cran/visvow
@@ -63935,9 +63947,6 @@
 [submodule "yardstick"]
 	path = yardstick
 	url = https://github.com/cran/yardstick
-[submodule "yarr"]
-	path = yarr
-	url = https://github.com/cran/yarr
 [submodule "yarrr"]
 	path = yarrr
 	url = https://github.com/cran/yarrr
