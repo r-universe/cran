@@ -51743,6 +51743,9 @@
 [submodule "realtest"]
 	path = realtest
 	url = https://github.com/cran/realtest
+[submodule "ream"]
+	path = ream
+	url = https://github.com/cran/ream
 [submodule "reappraised"]
 	path = reappraised
 	url = https://github.com/cran/reappraised
