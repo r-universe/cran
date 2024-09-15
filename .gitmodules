@@ -2960,6 +2960,9 @@
 [submodule "CohortExplorer"]
 	path = CohortExplorer
 	url = https://github.com/cran/CohortExplorer
+[submodule "CohortGenerator"]
+	path = CohortGenerator
+	url = https://github.com/cran/CohortGenerator
 [submodule "CohortPlat"]
 	path = CohortPlat
 	url = https://github.com/cran/CohortPlat
@@ -12776,6 +12779,9 @@
 [submodule "PxWebApiData"]
 	path = PxWebApiData
 	url = https://github.com/cran/PxWebApiData
+[submodule "PytrendsLongitudinalR"]
+	path = PytrendsLongitudinalR
+	url = https://github.com/cran/PytrendsLongitudinalR
 [submodule "Q2q"]
 	path = Q2q
 	url = https://github.com/cran/Q2q
@@ -14291,6 +14297,9 @@
 [submodule "RandomProjectionTest"]
 	path = RandomProjectionTest
 	url = https://github.com/cran/RandomProjectionTest
+[submodule "RandomWalker"]
+	path = RandomWalker
+	url = https://github.com/cran/RandomWalker
 [submodule "Randomuseragent"]
 	path = Randomuseragent
 	url = https://github.com/cran/Randomuseragent
@@ -17546,6 +17555,9 @@
 [submodule "TLCAR"]
 	path = TLCAR
 	url = https://github.com/cran/TLCAR
+[submodule "TLIC"]
+	path = TLIC
+	url = https://github.com/cran/TLIC
 [submodule "TLMoments"]
 	path = TLMoments
 	url = https://github.com/cran/TLMoments
@@ -19613,6 +19625,9 @@
 [submodule "afthd"]
 	path = afthd
 	url = https://github.com/cran/afthd
+[submodule "aftsem"]
+	path = aftsem
+	url = https://github.com/cran/aftsem
 [submodule "afttest"]
 	path = afttest
 	url = https://github.com/cran/afttest
@@ -23255,6 +23270,9 @@
 [submodule "cancerGI"]
 	path = cancerGI
 	url = https://github.com/cran/cancerGI
+[submodule "cancerR"]
+	path = cancerR
+	url = https://github.com/cran/cancerR
 [submodule "cancerscreening"]
 	path = cancerscreening
 	url = https://github.com/cran/cancerscreening
@@ -30113,6 +30131,9 @@
 [submodule "equatiomatic"]
 	path = equatiomatic
 	url = https://github.com/cran/equatiomatic
+[submodule "equiBSPD"]
+	path = equiBSPD
+	url = https://github.com/cran/equiBSPD
 [submodule "equil2"]
 	path = equil2
 	url = https://github.com/cran/equil2
@@ -32984,6 +33005,9 @@
 [submodule "gamma"]
 	path = gamma
 	url = https://github.com/cran/gamma
+[submodule "gammi"]
+	path = gammi
+	url = https://github.com/cran/gammi
 [submodule "gamreg"]
 	path = gamreg
 	url = https://github.com/cran/gamreg
@@ -33824,6 +33848,9 @@
 [submodule "ggVennDiagram"]
 	path = ggVennDiagram
 	url = https://github.com/cran/ggVennDiagram
+[submodule "ggalign"]
+	path = ggalign
+	url = https://github.com/cran/ggalign
 [submodule "ggaligner"]
 	path = ggaligner
 	url = https://github.com/cran/ggaligner
@@ -39374,6 +39401,9 @@
 [submodule "lavaan"]
 	path = lavaan
 	url = https://github.com/cran/lavaan
+[submodule "lavaan.printer"]
+	path = lavaan.printer
+	url = https://github.com/cran/lavaan.printer
 [submodule "lavaan.shiny"]
 	path = lavaan.shiny
 	url = https://github.com/cran/lavaan.shiny
@@ -44153,6 +44183,9 @@
 [submodule "mvcauchy"]
 	path = mvcauchy
 	url = https://github.com/cran/mvcauchy
+[submodule "mvcor"]
+	path = mvcor
+	url = https://github.com/cran/mvcor
 [submodule "mvctm"]
 	path = mvctm
 	url = https://github.com/cran/mvctm
@@ -57680,6 +57713,9 @@
 [submodule "spectralAnalysis"]
 	path = spectralAnalysis
 	url = https://github.com/cran/spectralAnalysis
+[submodule "spectralAnomaly"]
+	path = spectralAnomaly
+	url = https://github.com/cran/spectralAnomaly
 [submodule "spectralGP"]
 	path = spectralGP
 	url = https://github.com/cran/spectralGP
