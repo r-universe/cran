@@ -27815,9 +27815,6 @@
 [submodule "diaplt"]
 	path = diaplt
 	url = https://github.com/cran/diaplt
-[submodule "diathor"]
-	path = diathor
-	url = https://github.com/cran/diathor
 [submodule "dibble"]
 	path = dibble
 	url = https://github.com/cran/dibble
