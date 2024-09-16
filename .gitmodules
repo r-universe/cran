@@ -10496,9 +10496,6 @@
 [submodule "MultiVarSel"]
 	path = MultiVarSel
 	url = https://github.com/cran/MultiVarSel
-[submodule "Multiaovbay"]
-	path = Multiaovbay
-	url = https://github.com/cran/Multiaovbay
 [submodule "MultinomialCI"]
 	path = MultinomialCI
 	url = https://github.com/cran/MultinomialCI
@@ -11384,9 +11381,6 @@
 [submodule "OptSig"]
 	path = OptSig
 	url = https://github.com/cran/OptSig
-[submodule "OptiSembleForecasting"]
-	path = OptiSembleForecasting
-	url = https://github.com/cran/OptiSembleForecasting
 [submodule "OptimModel"]
 	path = OptimModel
 	url = https://github.com/cran/OptimModel
@@ -43421,9 +43415,6 @@
 [submodule "morrowplots"]
 	path = morrowplots
 	url = https://github.com/cran/morrowplots
-[submodule "morse"]
-	path = morse
-	url = https://github.com/cran/morse
 [submodule "mort"]
 	path = mort
 	url = https://github.com/cran/mort
