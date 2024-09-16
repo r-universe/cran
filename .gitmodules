@@ -9698,6 +9698,9 @@
 [submodule "MSGARCHelm"]
 	path = MSGARCHelm
 	url = https://github.com/cran/MSGARCHelm
+[submodule "MSIMST"]
+	path = MSIMST
+	url = https://github.com/cran/MSIMST
 [submodule "MSML"]
 	path = MSML
 	url = https://github.com/cran/MSML
@@ -9785,6 +9788,9 @@
 [submodule "MUS"]
 	path = MUS
 	url = https://github.com/cran/MUS
+[submodule "MUVR2"]
+	path = MUVR2
+	url = https://github.com/cran/MUVR2
 [submodule "MVA"]
 	path = MVA
 	url = https://github.com/cran/MVA
@@ -12605,6 +12611,9 @@
 [submodule "PredPsych"]
 	path = PredPsych
 	url = https://github.com/cran/PredPsych
+[submodule "PredTest"]
+	path = PredTest
+	url = https://github.com/cran/PredTest
 [submodule "PredictABEL"]
 	path = PredictABEL
 	url = https://github.com/cran/PredictABEL
@@ -13058,6 +13067,9 @@
 [submodule "R4CouchDB"]
 	path = R4CouchDB
 	url = https://github.com/cran/R4CouchDB
+[submodule "R4HCR"]
+	path = R4HCR
+	url = https://github.com/cran/R4HCR
 [submodule "R6"]
 	path = R6
 	url = https://github.com/cran/R6
@@ -27827,6 +27839,9 @@
 [submodule "diaplt"]
 	path = diaplt
 	url = https://github.com/cran/diaplt
+[submodule "diathor"]
+	path = diathor
+	url = https://github.com/cran/diathor
 [submodule "dibble"]
 	path = dibble
 	url = https://github.com/cran/dibble
@@ -28514,9 +28529,6 @@
 [submodule "dotty"]
 	path = dotty
 	url = https://github.com/cran/dotty
-[submodule "dotwhisker"]
-	path = dotwhisker
-	url = https://github.com/cran/dotwhisker
 [submodule "doubcens"]
 	path = doubcens
 	url = https://github.com/cran/doubcens
@@ -28787,6 +28799,9 @@
 [submodule "dti"]
 	path = dti
 	url = https://github.com/cran/dti
+[submodule "dtmapi"]
+	path = dtmapi
+	url = https://github.com/cran/dtmapi
 [submodule "dtp"]
 	path = dtp
 	url = https://github.com/cran/dtp
@@ -32012,15 +32027,9 @@
 [submodule "fma"]
 	path = fma
 	url = https://github.com/cran/fma
-[submodule "fmbasics"]
-	path = fmbasics
-	url = https://github.com/cran/fmbasics
 [submodule "fmcmc"]
 	path = fmcmc
 	url = https://github.com/cran/fmcmc
-[submodule "fmdates"]
-	path = fmdates
-	url = https://github.com/cran/fmdates
 [submodule "fmdu"]
 	path = fmdu
 	url = https://github.com/cran/fmdu
@@ -42287,6 +42296,9 @@
 [submodule "microbial"]
 	path = microbial
 	url = https://github.com/cran/microbial
+[submodule "microbiomeMQC"]
+	path = microbiomeMQC
+	url = https://github.com/cran/microbiomeMQC
 [submodule "microclass"]
 	path = microclass
 	url = https://github.com/cran/microclass
@@ -52034,6 +52046,9 @@
 [submodule "regrap"]
 	path = regrap
 	url = https://github.com/cran/regrap
+[submodule "regreplaceR"]
+	path = regreplaceR
+	url = https://github.com/cran/regreplaceR
 [submodule "regress"]
 	path = regress
 	url = https://github.com/cran/regress
@@ -56168,6 +56183,9 @@
 [submodule "shrinkTVP"]
 	path = shrinkTVP
 	url = https://github.com/cran/shrinkTVP
+[submodule "shrinkTVPVAR"]
+	path = shrinkTVPVAR
+	url = https://github.com/cran/shrinkTVPVAR
 [submodule "shroomDK"]
 	path = shroomDK
 	url = https://github.com/cran/shroomDK
@@ -57158,6 +57176,9 @@
 [submodule "solaR"]
 	path = solaR
 	url = https://github.com/cran/solaR
+[submodule "solaR2"]
+	path = solaR2
+	url = https://github.com/cran/solaR2
 [submodule "solarPos"]
 	path = solarPos
 	url = https://github.com/cran/solarPos
