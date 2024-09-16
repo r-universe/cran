@@ -3722,6 +3722,9 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
+[submodule "DMCfun"]
+	path = DMCfun
+	url = https://github.com/cran/DMCfun
 [submodule "DMMF"]
 	path = DMMF
 	url = https://github.com/cran/DMMF
