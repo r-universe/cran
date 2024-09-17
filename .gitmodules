@@ -18677,6 +18677,9 @@
 [submodule "WASP"]
 	path = WASP
 	url = https://github.com/cran/WASP
+[submodule "WAnova"]
+	path = WAnova
+	url = https://github.com/cran/WAnova
 [submodule "WCE"]
 	path = WCE
 	url = https://github.com/cran/WCE
@@ -23369,6 +23372,9 @@
 [submodule "card"]
 	path = card
 	url = https://github.com/cran/card
+[submodule "card.pro"]
+	path = card.pro
+	url = https://github.com/cran/card.pro
 [submodule "cardidates"]
 	path = cardidates
 	url = https://github.com/cran/cardidates
@@ -25079,6 +25085,9 @@
 [submodule "colorr"]
 	path = colorr
 	url = https://github.com/cran/colorr
+[submodule "colorrepel"]
+	path = colorrepel
+	url = https://github.com/cran/colorrepel
 [submodule "colors3d"]
 	path = colors3d
 	url = https://github.com/cran/colors3d
@@ -46490,6 +46499,9 @@
 [submodule "orsk"]
 	path = orsk
 	url = https://github.com/cran/orsk
+[submodule "orthGS"]
+	path = orthGS
+	url = https://github.com/cran/orthGS
 [submodule "orthoDr"]
 	path = orthoDr
 	url = https://github.com/cran/orthoDr
@@ -46580,6 +46592,9 @@
 [submodule "ouch"]
 	path = ouch
 	url = https://github.com/cran/ouch
+[submodule "ouladFormat"]
+	path = ouladFormat
+	url = https://github.com/cran/ouladFormat
 [submodule "outForest"]
 	path = outForest
 	url = https://github.com/cran/outForest
@@ -51707,6 +51722,9 @@
 [submodule "readJDX"]
 	path = readJDX
 	url = https://github.com/cran/readJDX
+[submodule "readMDTable"]
+	path = readMDTable
+	url = https://github.com/cran/readMDTable
 [submodule "readMLData"]
 	path = readMLData
 	url = https://github.com/cran/readMLData
@@ -55832,6 +55850,9 @@
 [submodule "shiny.blueprint"]
 	path = shiny.blueprint
 	url = https://github.com/cran/shiny.blueprint
+[submodule "shiny.destroy"]
+	path = shiny.destroy
+	url = https://github.com/cran/shiny.destroy
 [submodule "shiny.emptystate"]
 	path = shiny.emptystate
 	url = https://github.com/cran/shiny.emptystate
@@ -58862,6 +58883,9 @@
 [submodule "strvalidator"]
 	path = strvalidator
 	url = https://github.com/cran/strvalidator
+[submodule "sts"]
+	path = sts
+	url = https://github.com/cran/sts
 [submodule "stuart"]
 	path = stuart
 	url = https://github.com/cran/stuart
