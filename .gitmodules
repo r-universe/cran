@@ -2978,6 +2978,9 @@
 [submodule "Coinprofile"]
 	path = Coinprofile
 	url = https://github.com/cran/Coinprofile
+[submodule "ColOpenData"]
+	path = ColOpenData
+	url = https://github.com/cran/ColOpenData
 [submodule "CollapseLevels"]
 	path = CollapseLevels
 	url = https://github.com/cran/CollapseLevels
@@ -3590,6 +3593,9 @@
 [submodule "DES"]
 	path = DES
 	url = https://github.com/cran/DES
+[submodule "DEXiR"]
+	path = DEXiR
+	url = https://github.com/cran/DEXiR
 [submodule "DEoptim"]
 	path = DEoptim
 	url = https://github.com/cran/DEoptim
@@ -8102,6 +8108,9 @@
 [submodule "JacobiEigen"]
 	path = JacobiEigen
 	url = https://github.com/cran/JacobiEigen
+[submodule "Jacquard"]
+	path = Jacquard
+	url = https://github.com/cran/Jacquard
 [submodule "JamendoR"]
 	path = JamendoR
 	url = https://github.com/cran/JamendoR
@@ -26588,6 +26597,9 @@
 [submodule "cureplots"]
 	path = cureplots
 	url = https://github.com/cran/cureplots
+[submodule "curesurv"]
+	path = curesurv
+	url = https://github.com/cran/curesurv
 [submodule "curl"]
 	path = curl
 	url = https://github.com/cran/curl
@@ -46844,6 +46856,9 @@
 [submodule "pald"]
 	path = pald
 	url = https://github.com/cran/pald
+[submodule "paleoAM"]
+	path = paleoAM
+	url = https://github.com/cran/paleoAM
 [submodule "paleoDiv"]
 	path = paleoDiv
 	url = https://github.com/cran/paleoDiv
@@ -46985,6 +47000,9 @@
 [submodule "paradox"]
 	path = paradox
 	url = https://github.com/cran/paradox
+[submodule "parafac4microbiome"]
+	path = parafac4microbiome
+	url = https://github.com/cran/parafac4microbiome
 [submodule "parallelDist"]
 	path = parallelDist
 	url = https://github.com/cran/parallelDist
