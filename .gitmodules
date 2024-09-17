@@ -28544,6 +28544,9 @@
 [submodule "dotty"]
 	path = dotty
 	url = https://github.com/cran/dotty
+[submodule "dotwhisker"]
+	path = dotwhisker
+	url = https://github.com/cran/dotwhisker
 [submodule "doubcens"]
 	path = doubcens
 	url = https://github.com/cran/doubcens
@@ -32042,6 +32045,9 @@
 [submodule "fma"]
 	path = fma
 	url = https://github.com/cran/fma
+[submodule "fmbasics"]
+	path = fmbasics
+	url = https://github.com/cran/fmbasics
 [submodule "fmcmc"]
 	path = fmcmc
 	url = https://github.com/cran/fmcmc
