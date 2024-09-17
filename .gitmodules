@@ -1952,6 +1952,9 @@
 [submodule "CADFtest"]
 	path = CADFtest
 	url = https://github.com/cran/CADFtest
+[submodule "CAESAR.Suite"]
+	path = CAESAR.Suite
+	url = https://github.com/cran/CAESAR.Suite
 [submodule "CAGR"]
 	path = CAGR
 	url = https://github.com/cran/CAGR
@@ -6209,6 +6212,9 @@
 [submodule "GISSB"]
 	path = GISSB
 	url = https://github.com/cran/GISSB
+[submodule "GISTools"]
+	path = GISTools
+	url = https://github.com/cran/GISTools
 [submodule "GInSARCorW"]
 	path = GInSARCorW
 	url = https://github.com/cran/GInSARCorW
@@ -15722,6 +15728,9 @@
 [submodule "SEMID"]
 	path = SEMID
 	url = https://github.com/cran/SEMID
+[submodule "SEMdeep"]
+	path = SEMdeep
+	url = https://github.com/cran/SEMdeep
 [submodule "SEMgraph"]
 	path = SEMgraph
 	url = https://github.com/cran/SEMgraph
@@ -16295,6 +16304,9 @@
 [submodule "SVDNF"]
 	path = SVDNF
 	url = https://github.com/cran/SVDNF
+[submodule "SVMD"]
+	path = SVMD
+	url = https://github.com/cran/SVMD
 [submodule "SVMMaj"]
 	path = SVMMaj
 	url = https://github.com/cran/SVMMaj
@@ -28820,6 +28832,9 @@
 [submodule "dtrackr"]
 	path = dtrackr
 	url = https://github.com/cran/dtrackr
+[submodule "dtreg"]
+	path = dtreg
+	url = https://github.com/cran/dtreg
 [submodule "dtt"]
 	path = dtt
 	url = https://github.com/cran/dtt
@@ -31604,9 +31619,6 @@
 [submodule "filesstrings"]
 	path = filesstrings
 	url = https://github.com/cran/filesstrings
-[submodule "filibustr"]
-	path = filibustr
-	url = https://github.com/cran/filibustr
 [submodule "filling"]
 	path = filling
 	url = https://github.com/cran/filling
@@ -37166,9 +37178,9 @@
 [submodule "ieeeround"]
 	path = ieeeround
 	url = https://github.com/cran/ieeeround
-[submodule "iemisc"]
-	path = iemisc
-	url = https://github.com/cran/iemisc
+[submodule "ieegio"]
+	path = ieegio
+	url = https://github.com/cran/ieegio
 [submodule "iemiscdata"]
 	path = iemiscdata
 	url = https://github.com/cran/iemiscdata
@@ -50270,6 +50282,9 @@
 [submodule "qs"]
 	path = qs
 	url = https://github.com/cran/qs
+[submodule "qs2"]
+	path = qs2
+	url = https://github.com/cran/qs2
 [submodule "qsimulatR"]
 	path = qsimulatR
 	url = https://github.com/cran/qsimulatR
@@ -54104,6 +54119,9 @@
 [submodule "rusk"]
 	path = rusk
 	url = https://github.com/cran/rusk
+[submodule "rusquant"]
+	path = rusquant
+	url = https://github.com/cran/rusquant
 [submodule "rust"]
 	path = rust
 	url = https://github.com/cran/rust
