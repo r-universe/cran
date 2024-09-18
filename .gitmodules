@@ -44039,6 +44039,9 @@
 [submodule "multimark"]
 	path = multimark
 	url = https://github.com/cran/multimark
+[submodule "multimedia"]
+	path = multimedia
+	url = https://github.com/cran/multimedia
 [submodule "multimix"]
 	path = multimix
 	url = https://github.com/cran/multimix
@@ -58808,6 +58811,9 @@
 [submodule "stratification"]
 	path = stratification
 	url = https://github.com/cran/stratification
+[submodule "stratifiedyh"]
+	path = stratifiedyh
+	url = https://github.com/cran/stratifiedyh
 [submodule "stratifyR"]
 	path = stratifyR
 	url = https://github.com/cran/stratifyR
