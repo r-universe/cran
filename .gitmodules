@@ -6083,6 +6083,9 @@
 [submodule "GEC"]
 	path = GEC
 	url = https://github.com/cran/GEC
+[submodule "GECal"]
+	path = GECal
+	url = https://github.com/cran/GECal
 [submodule "GEEaSPU"]
 	path = GEEaSPU
 	url = https://github.com/cran/GEEaSPU
@@ -6695,9 +6698,6 @@
 [submodule "GeoRange"]
 	path = GeoRange
 	url = https://github.com/cran/GeoRange
-[submodule "GeoThinneR"]
-	path = GeoThinneR
-	url = https://github.com/cran/GeoThinneR
 [submodule "GeoWeightedModel"]
 	path = GeoWeightedModel
 	url = https://github.com/cran/GeoWeightedModel
@@ -11765,6 +11765,9 @@
 [submodule "PKPDsim"]
 	path = PKPDsim
 	url = https://github.com/cran/PKPDsim
+[submodule "PKbioanalysis"]
+	path = PKbioanalysis
+	url = https://github.com/cran/PKbioanalysis
 [submodule "PKconverter"]
 	path = PKconverter
 	url = https://github.com/cran/PKconverter
@@ -26354,6 +26357,9 @@
 [submodule "crul"]
 	path = crul
 	url = https://github.com/cran/crul
+[submodule "crumble"]
+	path = crumble
+	url = https://github.com/cran/crumble
 [submodule "crunch"]
 	path = crunch
 	url = https://github.com/cran/crunch
@@ -29465,6 +29471,9 @@
 [submodule "eda4treeR"]
 	path = eda4treeR
 	url = https://github.com/cran/eda4treeR
+[submodule "edbuildmapr"]
+	path = edbuildmapr
+	url = https://github.com/cran/edbuildmapr
 [submodule "edcpR"]
 	path = edcpR
 	url = https://github.com/cran/edcpR
@@ -36809,6 +36818,9 @@
 [submodule "hypergeo"]
 	path = hypergeo
 	url = https://github.com/cran/hypergeo
+[submodule "hypergeo2"]
+	path = hypergeo2
+	url = https://github.com/cran/hypergeo2
 [submodule "hyperoverlap"]
 	path = hyperoverlap
 	url = https://github.com/cran/hyperoverlap
@@ -57518,9 +57530,6 @@
 [submodule "sparseFLMM"]
 	path = sparseFLMM
 	url = https://github.com/cran/sparseFLMM
-[submodule "sparseGAM"]
-	path = sparseGAM
-	url = https://github.com/cran/sparseGAM
 [submodule "sparseHessianFD"]
 	path = sparseHessianFD
 	url = https://github.com/cran/sparseHessianFD
