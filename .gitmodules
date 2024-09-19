@@ -6698,6 +6698,9 @@
 [submodule "GeoRange"]
 	path = GeoRange
 	url = https://github.com/cran/GeoRange
+[submodule "GeoThinneR"]
+	path = GeoThinneR
+	url = https://github.com/cran/GeoThinneR
 [submodule "GeoWeightedModel"]
 	path = GeoWeightedModel
 	url = https://github.com/cran/GeoWeightedModel
@@ -32174,9 +32177,6 @@
 [submodule "foodwebWrapper"]
 	path = foodwebWrapper
 	url = https://github.com/cran/foodwebWrapper
-[submodule "foolbox"]
-	path = foolbox
-	url = https://github.com/cran/foolbox
 [submodule "footBayes"]
 	path = footBayes
 	url = https://github.com/cran/footBayes
@@ -54284,9 +54284,6 @@
 [submodule "rwisp"]
 	path = rwisp
 	url = https://github.com/cran/rwisp
-[submodule "rworkflows"]
-	path = rworkflows
-	url = https://github.com/cran/rworkflows
 [submodule "rworldmap"]
 	path = rworldmap
 	url = https://github.com/cran/rworldmap
@@ -57557,6 +57554,9 @@
 [submodule "sparseFLMM"]
 	path = sparseFLMM
 	url = https://github.com/cran/sparseFLMM
+[submodule "sparseGAM"]
+	path = sparseGAM
+	url = https://github.com/cran/sparseGAM
 [submodule "sparseHessianFD"]
 	path = sparseHessianFD
 	url = https://github.com/cran/sparseHessianFD
