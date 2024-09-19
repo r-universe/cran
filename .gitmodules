@@ -6869,6 +6869,9 @@
 [submodule "GreyModel"]
 	path = GreyModel
 	url = https://github.com/cran/GreyModel
+[submodule "GreyZones"]
+	path = GreyZones
+	url = https://github.com/cran/GreyZones
 [submodule "Greymodels"]
 	path = Greymodels
 	url = https://github.com/cran/Greymodels
@@ -9923,6 +9926,9 @@
 [submodule "Mapinguari"]
 	path = Mapinguari
 	url = https://github.com/cran/Mapinguari
+[submodule "MapperAlgo"]
+	path = MapperAlgo
+	url = https://github.com/cran/MapperAlgo
 [submodule "MarZIC"]
 	path = MarZIC
 	url = https://github.com/cran/MarZIC
@@ -15611,6 +15617,9 @@
 [submodule "SCEnt"]
 	path = SCEnt
 	url = https://github.com/cran/SCEnt
+[submodule "SCFMonitor"]
+	path = SCFMonitor
+	url = https://github.com/cran/SCFMonitor
 [submodule "SCGLR"]
 	path = SCGLR
 	url = https://github.com/cran/SCGLR
@@ -29696,6 +29705,9 @@
 [submodule "eks"]
 	path = eks
 	url = https://github.com/cran/eks
+[submodule "elaborator"]
+	path = elaborator
+	url = https://github.com/cran/elaborator
 [submodule "elasdics"]
 	path = elasdics
 	url = https://github.com/cran/elasdics
@@ -34415,6 +34427,9 @@
 [submodule "ggswissmaps"]
 	path = ggswissmaps
 	url = https://github.com/cran/ggswissmaps
+[submodule "ggtangle"]
+	path = ggtangle
+	url = https://github.com/cran/ggtangle
 [submodule "ggtea"]
 	path = ggtea
 	url = https://github.com/cran/ggtea
@@ -36665,6 +36680,9 @@
 [submodule "httr2"]
 	path = httr2
 	url = https://github.com/cran/httr2
+[submodule "hubUtils"]
+	path = hubUtils
+	url = https://github.com/cran/hubUtils
 [submodule "hubeau"]
 	path = hubeau
 	url = https://github.com/cran/hubeau
@@ -43478,6 +43496,9 @@
 [submodule "morrowplots"]
 	path = morrowplots
 	url = https://github.com/cran/morrowplots
+[submodule "morse"]
+	path = morse
+	url = https://github.com/cran/morse
 [submodule "mort"]
 	path = mort
 	url = https://github.com/cran/mort
@@ -54659,6 +54680,9 @@
 [submodule "saros"]
 	path = saros
 	url = https://github.com/cran/saros
+[submodule "saros.base"]
+	path = saros.base
+	url = https://github.com/cran/saros.base
 [submodule "sarp.snowprofile"]
 	path = sarp.snowprofile
 	url = https://github.com/cran/sarp.snowprofile
