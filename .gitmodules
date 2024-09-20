@@ -4952,6 +4952,9 @@
 [submodule "EngrExpt"]
 	path = EngrExpt
 	url = https://github.com/cran/EngrExpt
+[submodule "EnrichDO"]
+	path = EnrichDO
+	url = https://github.com/cran/EnrichDO
 [submodule "EnrichIntersect"]
 	path = EnrichIntersect
 	url = https://github.com/cran/EnrichIntersect
@@ -12047,6 +12050,9 @@
 [submodule "PSGoft"]
 	path = PSGoft
 	url = https://github.com/cran/PSGoft
+[submodule "PSIM"]
+	path = PSIM
+	url = https://github.com/cran/PSIM
 [submodule "PSIndependenceTest"]
 	path = PSIndependenceTest
 	url = https://github.com/cran/PSIndependenceTest
@@ -14153,6 +14159,9 @@
 [submodule "RSqlParser"]
 	path = RSqlParser
 	url = https://github.com/cran/RSqlParser
+[submodule "RSquaredMI"]
+	path = RSquaredMI
+	url = https://github.com/cran/RSquaredMI
 [submodule "RStata"]
 	path = RStata
 	url = https://github.com/cran/RStata
@@ -14897,6 +14906,9 @@
 [submodule "Relectoral"]
 	path = Relectoral
 	url = https://github.com/cran/Relectoral
+[submodule "ReliaGrowR"]
+	path = ReliaGrowR
+	url = https://github.com/cran/ReliaGrowR
 [submodule "ReliabilityTheory"]
 	path = ReliabilityTheory
 	url = https://github.com/cran/ReliabilityTheory
@@ -35594,6 +35606,9 @@
 [submodule "gte"]
 	path = gte
 	url = https://github.com/cran/gte
+[submodule "gtexr"]
+	path = gtexr
+	url = https://github.com/cran/gtexr
 [submodule "gtexture"]
 	path = gtexture
 	url = https://github.com/cran/gtexture
@@ -48704,6 +48719,9 @@
 [submodule "podcleaner"]
 	path = podcleaner
 	url = https://github.com/cran/podcleaner
+[submodule "poems"]
+	path = poems
+	url = https://github.com/cran/poems
 [submodule "pogit"]
 	path = pogit
 	url = https://github.com/cran/pogit
@@ -55049,6 +55067,9 @@
 [submodule "scorecardModelUtils"]
 	path = scorecardModelUtils
 	url = https://github.com/cran/scorecardModelUtils
+[submodule "scoredec"]
+	path = scoredec
+	url = https://github.com/cran/scoredec
 [submodule "scorematchingad"]
 	path = scorematchingad
 	url = https://github.com/cran/scorematchingad
@@ -58010,6 +58031,9 @@
 [submodule "splusTimeDate"]
 	path = splusTimeDate
 	url = https://github.com/cran/splusTimeDate
+[submodule "splusTimeSeries"]
+	path = splusTimeSeries
+	url = https://github.com/cran/splusTimeSeries
 [submodule "splutil"]
 	path = splutil
 	url = https://github.com/cran/splutil
@@ -58514,6 +58538,9 @@
 [submodule "statgenSTA"]
 	path = statgenSTA
 	url = https://github.com/cran/statgenSTA
+[submodule "staticryptR"]
+	path = staticryptR
+	url = https://github.com/cran/staticryptR
 [submodule "stationaRy"]
 	path = stationaRy
 	url = https://github.com/cran/stationaRy
