@@ -38966,6 +38966,9 @@
 [submodule "kgrams"]
 	path = kgrams
 	url = https://github.com/cran/kgrams
+[submodule "kgraph"]
+	path = kgraph
+	url = https://github.com/cran/kgraph
 [submodule "kgschart"]
 	path = kgschart
 	url = https://github.com/cran/kgschart
