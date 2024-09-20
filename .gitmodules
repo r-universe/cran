@@ -22493,6 +22493,9 @@
 [submodule "bmstdr"]
 	path = bmstdr
 	url = https://github.com/cran/bmstdr
+[submodule "bnRep"]
+	path = bnRep
+	url = https://github.com/cran/bnRep
 [submodule "bnclassify"]
 	path = bnclassify
 	url = https://github.com/cran/bnclassify
@@ -25592,6 +25595,9 @@
 [submodule "convergEU"]
 	path = convergEU
 	url = https://github.com/cran/convergEU
+[submodule "conversim"]
+	path = conversim
+	url = https://github.com/cran/conversim
 [submodule "convertBCD"]
 	path = convertBCD
 	url = https://github.com/cran/convertBCD
@@ -30236,6 +30242,9 @@
 [submodule "erah"]
 	path = erah
 	url = https://github.com/cran/erah
+[submodule "eratosthenes"]
+	path = eratosthenes
+	url = https://github.com/cran/eratosthenes
 [submodule "erboost"]
 	path = erboost
 	url = https://github.com/cran/erboost
@@ -35417,6 +35426,9 @@
 [submodule "gromovlab"]
 	path = gromovlab
 	url = https://github.com/cran/gromovlab
+[submodule "groqR"]
+	path = groqR
+	url = https://github.com/cran/groqR
 [submodule "groundhog"]
 	path = groundhog
 	url = https://github.com/cran/groundhog
@@ -43445,6 +43457,9 @@
 [submodule "monographaR"]
 	path = monographaR
 	url = https://github.com/cran/monographaR
+[submodule "monolix2rx"]
+	path = monolix2rx
+	url = https://github.com/cran/monolix2rx
 [submodule "monomvn"]
 	path = monomvn
 	url = https://github.com/cran/monomvn
@@ -55772,6 +55787,9 @@
 [submodule "sftrack"]
 	path = sftrack
 	url = https://github.com/cran/sftrack
+[submodule "sg"]
+	path = sg
+	url = https://github.com/cran/sg
 [submodule "sgPLS"]
 	path = sgPLS
 	url = https://github.com/cran/sgPLS
@@ -61943,6 +61961,9 @@
 [submodule "twilio"]
 	path = twilio
 	url = https://github.com/cran/twilio
+[submodule "twingp"]
+	path = twingp
+	url = https://github.com/cran/twingp
 [submodule "twinning"]
 	path = twinning
 	url = https://github.com/cran/twinning
