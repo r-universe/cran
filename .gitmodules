@@ -54347,18 +54347,12 @@
 [submodule "rxode2"]
 	path = rxode2
 	url = https://github.com/cran/rxode2
-[submodule "rxode2et"]
-	path = rxode2et
-	url = https://github.com/cran/rxode2et
 [submodule "rxode2ll"]
 	path = rxode2ll
 	url = https://github.com/cran/rxode2ll
 [submodule "rxode2parse"]
 	path = rxode2parse
 	url = https://github.com/cran/rxode2parse
-[submodule "rxode2random"]
-	path = rxode2random
-	url = https://github.com/cran/rxode2random
 [submodule "rxylib"]
 	path = rxylib
 	url = https://github.com/cran/rxylib
