@@ -32189,6 +32189,9 @@
 [submodule "foodwebWrapper"]
 	path = foodwebWrapper
 	url = https://github.com/cran/foodwebWrapper
+[submodule "foolbox"]
+	path = foolbox
+	url = https://github.com/cran/foolbox
 [submodule "footBayes"]
 	path = footBayes
 	url = https://github.com/cran/footBayes
@@ -54302,6 +54305,9 @@
 [submodule "rwisp"]
 	path = rwisp
 	url = https://github.com/cran/rwisp
+[submodule "rworkflows"]
+	path = rworkflows
+	url = https://github.com/cran/rworkflows
 [submodule "rworldmap"]
 	path = rworldmap
 	url = https://github.com/cran/rworldmap
