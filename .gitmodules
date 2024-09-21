@@ -25301,6 +25301,9 @@
 [submodule "complmrob"]
 	path = complmrob
 	url = https://github.com/cran/complmrob
+[submodule "compositeReliabilityInNestedDesigns"]
+	path = compositeReliabilityInNestedDesigns
+	url = https://github.com/cran/compositeReliabilityInNestedDesigns
 [submodule "compositions"]
 	path = compositions
 	url = https://github.com/cran/compositions
