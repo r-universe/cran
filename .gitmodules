@@ -63344,9 +63344,6 @@
 [submodule "wcox"]
 	path = wcox
 	url = https://github.com/cran/wcox
-[submodule "wdi2"]
-	path = wdi2
-	url = https://github.com/cran/wdi2
 [submodule "wdm"]
 	path = wdm
 	url = https://github.com/cran/wdm
