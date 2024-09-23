@@ -1970,9 +1970,6 @@
 [submodule "CALIBERrfimpute"]
 	path = CALIBERrfimpute
 	url = https://github.com/cran/CALIBERrfimpute
-[submodule "CAMAN"]
-	path = CAMAN
-	url = https://github.com/cran/CAMAN
 [submodule "CAMML"]
 	path = CAMML
 	url = https://github.com/cran/CAMML
@@ -2990,9 +2987,6 @@
 [submodule "ColorNameR"]
 	path = ColorNameR
 	url = https://github.com/cran/ColorNameR
-[submodule "Colossus"]
-	path = Colossus
-	url = https://github.com/cran/Colossus
 [submodule "ComICS"]
 	path = ComICS
 	url = https://github.com/cran/ComICS
@@ -7070,9 +7064,6 @@
 [submodule "HKRbook"]
 	path = HKRbook
 	url = https://github.com/cran/HKRbook
-[submodule "HKprocess"]
-	path = HKprocess
-	url = https://github.com/cran/HKprocess
 [submodule "HLAtools"]
 	path = HLAtools
 	url = https://github.com/cran/HLAtools
@@ -22148,9 +22139,6 @@
 [submodule "bioC.logs"]
 	path = bioC.logs
 	url = https://github.com/cran/bioC.logs
-[submodule "bioPN"]
-	path = bioPN
-	url = https://github.com/cran/bioPN
 [submodule "bioRad"]
 	path = bioRad
 	url = https://github.com/cran/bioRad
@@ -54353,9 +54341,6 @@
 [submodule "rxode2ll"]
 	path = rxode2ll
 	url = https://github.com/cran/rxode2ll
-[submodule "rxode2parse"]
-	path = rxode2parse
-	url = https://github.com/cran/rxode2parse
 [submodule "rxylib"]
 	path = rxylib
 	url = https://github.com/cran/rxylib
@@ -58403,9 +58388,6 @@
 [submodule "stabm"]
 	path = stabm
 	url = https://github.com/cran/stabm
-[submodule "stabreg"]
-	path = stabreg
-	url = https://github.com/cran/stabreg
 [submodule "stabs"]
 	path = stabs
 	url = https://github.com/cran/stabs
@@ -62330,9 +62312,6 @@
 [submodule "uroot"]
 	path = uroot
 	url = https://github.com/cran/uroot
-[submodule "ursa"]
-	path = ursa
-	url = https://github.com/cran/ursa
 [submodule "us.census.geoheader"]
 	path = us.census.geoheader
 	url = https://github.com/cran/us.census.geoheader
