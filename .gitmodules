@@ -1973,6 +1973,9 @@
 [submodule "CALIBERrfimpute"]
 	path = CALIBERrfimpute
 	url = https://github.com/cran/CALIBERrfimpute
+[submodule "CAMAN"]
+	path = CAMAN
+	url = https://github.com/cran/CAMAN
 [submodule "CAMML"]
 	path = CAMML
 	url = https://github.com/cran/CAMML
@@ -2990,6 +2993,9 @@
 [submodule "ColorNameR"]
 	path = ColorNameR
 	url = https://github.com/cran/ColorNameR
+[submodule "Colossus"]
+	path = Colossus
+	url = https://github.com/cran/Colossus
 [submodule "ComICS"]
 	path = ComICS
 	url = https://github.com/cran/ComICS
@@ -6245,6 +6251,9 @@
 [submodule "GLDreg"]
 	path = GLDreg
 	url = https://github.com/cran/GLDreg
+[submodule "GLIDE"]
+	path = GLIDE
+	url = https://github.com/cran/GLIDE
 [submodule "GLMMRR"]
 	path = GLMMRR
 	url = https://github.com/cran/GLMMRR
@@ -7070,6 +7079,9 @@
 [submodule "HKRbook"]
 	path = HKRbook
 	url = https://github.com/cran/HKRbook
+[submodule "HKprocess"]
+	path = HKprocess
+	url = https://github.com/cran/HKprocess
 [submodule "HLAtools"]
 	path = HLAtools
 	url = https://github.com/cran/HLAtools
@@ -16232,6 +16244,9 @@
 [submodule "SSIMmap"]
 	path = SSIMmap
 	url = https://github.com/cran/SSIMmap
+[submodule "SSLASSO"]
+	path = SSLASSO
+	url = https://github.com/cran/SSLASSO
 [submodule "SSLR"]
 	path = SSLR
 	url = https://github.com/cran/SSLR
@@ -18287,6 +18302,9 @@
 [submodule "TwoArmSurvSim"]
 	path = TwoArmSurvSim
 	url = https://github.com/cran/TwoArmSurvSim
+[submodule "TwoPhaseInd"]
+	path = TwoPhaseInd
+	url = https://github.com/cran/TwoPhaseInd
 [submodule "TwoSampleTest.HD"]
 	path = TwoSampleTest.HD
 	url = https://github.com/cran/TwoSampleTest.HD
@@ -21866,6 +21884,9 @@
 [submodule "bhmbasket"]
 	path = bhmbasket
 	url = https://github.com/cran/bhmbasket
+[submodule "bhpm"]
+	path = bhpm
+	url = https://github.com/cran/bhpm
 [submodule "biClassify"]
 	path = biClassify
 	url = https://github.com/cran/biClassify
@@ -22139,6 +22160,9 @@
 [submodule "bioC.logs"]
 	path = bioC.logs
 	url = https://github.com/cran/bioC.logs
+[submodule "bioPN"]
+	path = bioPN
+	url = https://github.com/cran/bioPN
 [submodule "bioRad"]
 	path = bioRad
 	url = https://github.com/cran/bioRad
@@ -39398,6 +39422,9 @@
 [submodule "landscapemetrics"]
 	path = landscapemetrics
 	url = https://github.com/cran/landscapemetrics
+[submodule "landscapetools"]
+	path = landscapetools
+	url = https://github.com/cran/landscapetools
 [submodule "landsepi"]
 	path = landsepi
 	url = https://github.com/cran/landsepi
@@ -39755,6 +39782,9 @@
 [submodule "leidenAlg"]
 	path = leidenAlg
 	url = https://github.com/cran/leidenAlg
+[submodule "leidenbase"]
+	path = leidenbase
+	url = https://github.com/cran/leidenbase
 [submodule "leiv"]
 	path = leiv
 	url = https://github.com/cran/leiv
@@ -44261,6 +44291,9 @@
 [submodule "mvMonitoring"]
 	path = mvMonitoring
 	url = https://github.com/cran/mvMonitoring
+[submodule "mvPot"]
+	path = mvPot
+	url = https://github.com/cran/mvPot
 [submodule "mvProbit"]
 	path = mvProbit
 	url = https://github.com/cran/mvProbit
@@ -45557,6 +45590,9 @@
 [submodule "npclust"]
 	path = npclust
 	url = https://github.com/cran/npclust
+[submodule "npcopTest"]
+	path = npcopTest
+	url = https://github.com/cran/npcopTest
 [submodule "npcp"]
 	path = npcp
 	url = https://github.com/cran/npcp
@@ -45812,6 +45848,9 @@
 [submodule "oaii"]
 	path = oaii
 	url = https://github.com/cran/oaii
+[submodule "oaqc"]
+	path = oaqc
+	url = https://github.com/cran/oaqc
 [submodule "oaxaca"]
 	path = oaxaca
 	url = https://github.com/cran/oaxaca
@@ -58388,6 +58427,9 @@
 [submodule "stabm"]
 	path = stabm
 	url = https://github.com/cran/stabm
+[submodule "stabreg"]
+	path = stabreg
+	url = https://github.com/cran/stabreg
 [submodule "stabs"]
 	path = stabs
 	url = https://github.com/cran/stabs
@@ -62312,6 +62354,9 @@
 [submodule "uroot"]
 	path = uroot
 	url = https://github.com/cran/uroot
+[submodule "ursa"]
+	path = ursa
+	url = https://github.com/cran/ursa
 [submodule "us.census.geoheader"]
 	path = us.census.geoheader
 	url = https://github.com/cran/us.census.geoheader
