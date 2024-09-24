@@ -6383,6 +6383,9 @@
 [submodule "GPSeqClus"]
 	path = GPSeqClus
 	url = https://github.com/cran/GPSeqClus
+[submodule "GPTreeO"]
+	path = GPTreeO
+	url = https://github.com/cran/GPTreeO
 [submodule "GPUmatrix"]
 	path = GPUmatrix
 	url = https://github.com/cran/GPUmatrix
@@ -17363,6 +17366,9 @@
 [submodule "SurvLong"]
 	path = SurvLong
 	url = https://github.com/cran/SurvLong
+[submodule "SurvMA"]
+	path = SurvMA
+	url = https://github.com/cran/SurvMA
 [submodule "SurvMI"]
 	path = SurvMI
 	url = https://github.com/cran/SurvMI
@@ -20753,9 +20759,6 @@
 [submodule "asymptor"]
 	path = asymptor
 	url = https://github.com/cran/asymptor
-[submodule "async"]
-	path = async
-	url = https://github.com/cran/async
 [submodule "atRisk"]
 	path = atRisk
 	url = https://github.com/cran/atRisk
@@ -23957,9 +23960,6 @@
 [submodule "chandwich"]
 	path = chandwich
 	url = https://github.com/cran/chandwich
-[submodule "changeRangeR"]
-	path = changeRangeR
-	url = https://github.com/cran/changeRangeR
 [submodule "changeS"]
 	path = changeS
 	url = https://github.com/cran/changeS
@@ -26039,6 +26039,9 @@
 [submodule "coxphf"]
 	path = coxphf
 	url = https://github.com/cran/coxphf
+[submodule "coxphm"]
+	path = coxphm
+	url = https://github.com/cran/coxphm
 [submodule "coxphw"]
 	path = coxphw
 	url = https://github.com/cran/coxphw
@@ -39752,9 +39755,6 @@
 [submodule "leidenAlg"]
 	path = leidenAlg
 	url = https://github.com/cran/leidenAlg
-[submodule "leidenbase"]
-	path = leidenbase
-	url = https://github.com/cran/leidenbase
 [submodule "leiv"]
 	path = leiv
 	url = https://github.com/cran/leiv
@@ -45680,9 +45680,6 @@
 [submodule "nser"]
 	path = nser
 	url = https://github.com/cran/nser
-[submodule "nseval"]
-	path = nseval
-	url = https://github.com/cran/nseval
 [submodule "nsga2R"]
 	path = nsga2R
 	url = https://github.com/cran/nsga2R
@@ -46316,6 +46313,9 @@
 [submodule "optR"]
 	path = optR
 	url = https://github.com/cran/optR
+[submodule "optRF"]
+	path = optRF
+	url = https://github.com/cran/optRF
 [submodule "optband"]
 	path = optband
 	url = https://github.com/cran/optband
@@ -53384,6 +53384,9 @@
 [submodule "robustX"]
 	path = robustX
 	url = https://github.com/cran/robustX
+[submodule "robustarima"]
+	path = robustarima
+	url = https://github.com/cran/robustarima
 [submodule "robustbase"]
 	path = robustbase
 	url = https://github.com/cran/robustbase
@@ -54038,6 +54041,9 @@
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/cran/rtables
+[submodule "rtabulator"]
+	path = rtabulator
+	url = https://github.com/cran/rtabulator
 [submodule "rtape"]
 	path = rtape
 	url = https://github.com/cran/rtape
