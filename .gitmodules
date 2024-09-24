@@ -37391,9 +37391,6 @@
 [submodule "image.binarization"]
 	path = image.binarization
 	url = https://github.com/cran/image.binarization
-[submodule "image.dlib"]
-	path = image.dlib
-	url = https://github.com/cran/image.dlib
 [submodule "image.libfacedetection"]
 	path = image.libfacedetection
 	url = https://github.com/cran/image.libfacedetection
