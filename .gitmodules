@@ -4571,6 +4571,9 @@
 [submodule "EFA.dimensions"]
 	path = EFA.dimensions
 	url = https://github.com/cran/EFA.dimensions
+[submodule "EFAfactors"]
+	path = EFAfactors
+	url = https://github.com/cran/EFAfactors
 [submodule "EFAtools"]
 	path = EFAtools
 	url = https://github.com/cran/EFAtools
@@ -8819,6 +8822,9 @@
 [submodule "LearnSL"]
 	path = LearnSL
 	url = https://github.com/cran/LearnSL
+[submodule "LearnVizLMM"]
+	path = LearnVizLMM
+	url = https://github.com/cran/LearnVizLMM
 [submodule "LearningRlab"]
 	path = LearningRlab
 	url = https://github.com/cran/LearningRlab
@@ -41315,6 +41321,9 @@
 [submodule "markovmix"]
 	path = markovmix
 	url = https://github.com/cran/markovmix
+[submodule "markowitz"]
+	path = markowitz
+	url = https://github.com/cran/markowitz
 [submodule "marlod"]
 	path = marlod
 	url = https://github.com/cran/marlod
@@ -53672,6 +53681,9 @@
 [submodule "roundhouse"]
 	path = roundhouse
 	url = https://github.com/cran/roundhouse
+[submodule "roundwork"]
+	path = roundwork
+	url = https://github.com/cran/roundwork
 [submodule "roundyh"]
 	path = roundyh
 	url = https://github.com/cran/roundyh
