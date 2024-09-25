@@ -7598,6 +7598,9 @@
 [submodule "IIVpredictor"]
 	path = IIVpredictor
 	url = https://github.com/cran/IIVpredictor
+[submodule "IJSE"]
+	path = IJSE
+	url = https://github.com/cran/IJSE
 [submodule "ILS"]
 	path = ILS
 	url = https://github.com/cran/ILS
@@ -16271,6 +16274,9 @@
 [submodule "SSNbayes"]
 	path = SSNbayes
 	url = https://github.com/cran/SSNbayes
+[submodule "SSNbler"]
+	path = SSNbler
+	url = https://github.com/cran/SSNbler
 [submodule "SSOSVM"]
 	path = SSOSVM
 	url = https://github.com/cran/SSOSVM
@@ -20594,6 +20600,9 @@
 [submodule "arrayhelpers"]
 	path = arrayhelpers
 	url = https://github.com/cran/arrayhelpers
+[submodule "arrg"]
+	path = arrg
+	url = https://github.com/cran/arrg
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/cran/arrow
@@ -21113,6 +21122,9 @@
 [submodule "backtest"]
 	path = backtest
 	url = https://github.com/cran/backtest
+[submodule "baclava"]
+	path = baclava
+	url = https://github.com/cran/baclava
 [submodule "bacondecomp"]
 	path = bacondecomp
 	url = https://github.com/cran/bacondecomp
@@ -41492,6 +41504,9 @@
 [submodule "maxLik"]
 	path = maxLik
 	url = https://github.com/cran/maxLik
+[submodule "maxaltall"]
+	path = maxaltall
+	url = https://github.com/cran/maxaltall
 [submodule "maxcombo"]
 	path = maxcombo
 	url = https://github.com/cran/maxcombo
@@ -53045,6 +53060,9 @@
 [submodule "rivr"]
 	path = rivr
 	url = https://github.com/cran/rivr
+[submodule "rix"]
+	path = rix
+	url = https://github.com/cran/rix
 [submodule "rjade"]
 	path = rjade
 	url = https://github.com/cran/rjade
@@ -64094,6 +64112,9 @@
 [submodule "xmlrpc2"]
 	path = xmlrpc2
 	url = https://github.com/cran/xmlrpc2
+[submodule "xmlwriter"]
+	path = xmlwriter
+	url = https://github.com/cran/xmlwriter
 [submodule "xmpdf"]
 	path = xmpdf
 	url = https://github.com/cran/xmpdf
