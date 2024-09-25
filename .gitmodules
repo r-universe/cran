@@ -2726,6 +2726,9 @@
 [submodule "ChessGmooG"]
 	path = ChessGmooG
 	url = https://github.com/cran/ChessGmooG
+[submodule "ChestVolume"]
+	path = ChestVolume
+	url = https://github.com/cran/ChestVolume
 [submodule "ChillModels"]
 	path = ChillModels
 	url = https://github.com/cran/ChillModels
@@ -28466,6 +28469,9 @@
 [submodule "do"]
 	path = do
 	url = https://github.com/cran/do
+[submodule "do3PCA"]
+	path = do3PCA
+	url = https://github.com/cran/do3PCA
 [submodule "doBy"]
 	path = doBy
 	url = https://github.com/cran/doBy
@@ -31412,6 +31418,9 @@
 [submodule "fctbases"]
 	path = fctbases
 	url = https://github.com/cran/fctbases
+[submodule "fctutils"]
+	path = fctutils
+	url = https://github.com/cran/fctutils
 [submodule "fcuk"]
 	path = fcuk
 	url = https://github.com/cran/fcuk
@@ -33608,6 +33617,9 @@
 [submodule "geocmeans"]
 	path = geocmeans
 	url = https://github.com/cran/geocmeans
+[submodule "geocomplexity"]
+	path = geocomplexity
+	url = https://github.com/cran/geocomplexity
 [submodule "geodaData"]
 	path = geodaData
 	url = https://github.com/cran/geodaData
@@ -46964,6 +46976,9 @@
 [submodule "paleomorph"]
 	path = paleomorph
 	url = https://github.com/cran/paleomorph
+[submodule "paleopop"]
+	path = paleopop
+	url = https://github.com/cran/paleopop
 [submodule "paleotree"]
 	path = paleotree
 	url = https://github.com/cran/paleotree
@@ -50612,6 +50627,9 @@
 [submodule "quaxnat"]
 	path = quaxnat
 	url = https://github.com/cran/quaxnat
+[submodule "queryBuilder"]
+	path = queryBuilder
+	url = https://github.com/cran/queryBuilder
 [submodule "queryparser"]
 	path = queryparser
 	url = https://github.com/cran/queryparser
