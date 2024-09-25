@@ -12272,6 +12272,9 @@
 [submodule "Partiallyoverlapping"]
 	path = Partiallyoverlapping
 	url = https://github.com/cran/Partiallyoverlapping
+[submodule "Path.Analysis"]
+	path = Path.Analysis
+	url = https://github.com/cran/Path.Analysis
 [submodule "PathwaySpace"]
 	path = PathwaySpace
 	url = https://github.com/cran/PathwaySpace
@@ -32708,6 +32711,9 @@
 [submodule "ftsspec"]
 	path = ftsspec
 	url = https://github.com/cran/ftsspec
+[submodule "fucom"]
+	path = fucom
+	url = https://github.com/cran/fucom
 [submodule "fude"]
 	path = fude
 	url = https://github.com/cran/fude
@@ -51164,6 +51170,9 @@
 [submodule "rafalib"]
 	path = rafalib
 	url = https://github.com/cran/rafalib
+[submodule "rafsi"]
+	path = rafsi
+	url = https://github.com/cran/rafsi
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/cran/ragg
