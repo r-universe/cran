@@ -23894,6 +23894,9 @@
 [submodule "censusr"]
 	path = censusr
 	url = https://github.com/cran/censusr
+[submodule "centerline"]
+	path = centerline
+	url = https://github.com/cran/centerline
 [submodule "centiserve"]
 	path = centiserve
 	url = https://github.com/cran/centiserve
@@ -30302,6 +30305,9 @@
 [submodule "ercv"]
 	path = ercv
 	url = https://github.com/cran/ercv
+[submodule "erer"]
+	path = erer
+	url = https://github.com/cran/erer
 [submodule "erfe"]
 	path = erfe
 	url = https://github.com/cran/erfe
@@ -33047,6 +33053,9 @@
 [submodule "galigor"]
 	path = galigor
 	url = https://github.com/cran/galigor
+[submodule "gallery"]
+	path = gallery
+	url = https://github.com/cran/gallery
 [submodule "galts"]
 	path = galts
 	url = https://github.com/cran/galts
@@ -56189,6 +56198,9 @@
 [submodule "shinyPredict"]
 	path = shinyPredict
 	url = https://github.com/cran/shinyPredict
+[submodule "shinyQueryBuilder"]
+	path = shinyQueryBuilder
+	url = https://github.com/cran/shinyQueryBuilder
 [submodule "shinyRGL"]
 	path = shinyRGL
 	url = https://github.com/cran/shinyRGL
