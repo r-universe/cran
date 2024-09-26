@@ -2075,6 +2075,9 @@
 [submodule "CCWeights"]
 	path = CCWeights
 	url = https://github.com/cran/CCWeights
+[submodule "CCd"]
+	path = CCd
+	url = https://github.com/cran/CCd
 [submodule "CDCPLACES"]
 	path = CDCPLACES
 	url = https://github.com/cran/CDCPLACES
@@ -41000,6 +41003,9 @@
 [submodule "maestro"]
 	path = maestro
 	url = https://github.com/cran/maestro
+[submodule "mafR"]
+	path = mafR
+	url = https://github.com/cran/mafR
 [submodule "magclass"]
 	path = magclass
 	url = https://github.com/cran/magclass
