@@ -11339,6 +11339,9 @@
 [submodule "OmnibusFisher"]
 	path = OmnibusFisher
 	url = https://github.com/cran/OmnibusFisher
+[submodule "OmopSketch"]
+	path = OmopSketch
+	url = https://github.com/cran/OmopSketch
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
@@ -27878,6 +27881,9 @@
 [submodule "dfphase1"]
 	path = dfphase1
 	url = https://github.com/cran/dfphase1
+[submodule "dfr"]
+	path = dfr
+	url = https://github.com/cran/dfr
 [submodule "dfrr"]
 	path = dfrr
 	url = https://github.com/cran/dfrr
@@ -36767,6 +36773,9 @@
 [submodule "httr2"]
 	path = httr2
 	url = https://github.com/cran/httr2
+[submodule "hubEnsembles"]
+	path = hubEnsembles
+	url = https://github.com/cran/hubEnsembles
 [submodule "hubUtils"]
 	path = hubUtils
 	url = https://github.com/cran/hubUtils
@@ -38963,6 +38972,9 @@
 [submodule "kernscr"]
 	path = kernscr
 	url = https://github.com/cran/kernscr
+[submodule "kernstadapt"]
+	path = kernstadapt
+	url = https://github.com/cran/kernstadapt
 [submodule "kerntools"]
 	path = kerntools
 	url = https://github.com/cran/kerntools
@@ -41717,6 +41729,9 @@
 [submodule "mcprofile"]
 	path = mcprofile
 	url = https://github.com/cran/mcprofile
+[submodule "mcprogress"]
+	path = mcprogress
+	url = https://github.com/cran/mcprogress
 [submodule "mcr"]
 	path = mcr
 	url = https://github.com/cran/mcr
@@ -47867,6 +47882,9 @@
 [submodule "permutes"]
 	path = permutes
 	url = https://github.com/cran/permutes
+[submodule "permutest"]
+	path = permutest
+	url = https://github.com/cran/permutest
 [submodule "perplexR"]
 	path = perplexR
 	url = https://github.com/cran/perplexR
