@@ -54005,9 +54005,6 @@
 [submodule "rsf"]
 	path = rsf
 	url = https://github.com/cran/rsf
-[submodule "rsgeo"]
-	path = rsgeo
-	url = https://github.com/cran/rsgeo
 [submodule "rshift"]
 	path = rshift
 	url = https://github.com/cran/rshift
