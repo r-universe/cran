@@ -4964,9 +4964,6 @@
 [submodule "EngrExpt"]
 	path = EngrExpt
 	url = https://github.com/cran/EngrExpt
-[submodule "EnrichDO"]
-	path = EnrichDO
-	url = https://github.com/cran/EnrichDO
 [submodule "EnrichIntersect"]
 	path = EnrichIntersect
 	url = https://github.com/cran/EnrichIntersect
@@ -10166,9 +10163,6 @@
 [submodule "MetabolomicsBasics"]
 	path = MetabolomicsBasics
 	url = https://github.com/cran/MetabolomicsBasics
-[submodule "MetaculR"]
-	path = MetaculR
-	url = https://github.com/cran/MetaculR
 [submodule "MethComp"]
 	path = MethComp
 	url = https://github.com/cran/MethComp
@@ -20240,6 +20234,9 @@
 [submodule "anscombiser"]
 	path = anscombiser
 	url = https://github.com/cran/anscombiser
+[submodule "antaresEditObject"]
+	path = antaresEditObject
+	url = https://github.com/cran/antaresEditObject
 [submodule "antaresRead"]
 	path = antaresRead
 	url = https://github.com/cran/antaresRead
@@ -43931,9 +43928,6 @@
 [submodule "msme"]
 	path = msme
 	url = https://github.com/cran/msme
-[submodule "msmtools"]
-	path = msmtools
-	url = https://github.com/cran/msmtools
 [submodule "msos"]
 	path = msos
 	url = https://github.com/cran/msos
