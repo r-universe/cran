@@ -13106,9 +13106,6 @@
 [submodule "R2ROC"]
 	path = R2ROC
 	url = https://github.com/cran/R2ROC
-[submodule "R2SWF"]
-	path = R2SWF
-	url = https://github.com/cran/R2SWF
 [submodule "R2WinBUGS"]
 	path = R2WinBUGS
 	url = https://github.com/cran/R2WinBUGS
@@ -14468,9 +14465,6 @@
 [submodule "Rcapture"]
 	path = Rcapture
 	url = https://github.com/cran/Rcapture
-[submodule "Rcatch22"]
-	path = Rcatch22
-	url = https://github.com/cran/Rcatch22
 [submodule "RcausalEGM"]
 	path = RcausalEGM
 	url = https://github.com/cran/RcausalEGM
@@ -33698,9 +33692,6 @@
 [submodule "geogrid"]
 	path = geogrid
 	url = https://github.com/cran/geogrid
-[submodule "geohabnet"]
-	path = geohabnet
-	url = https://github.com/cran/geohabnet
 [submodule "geohashTools"]
 	path = geohashTools
 	url = https://github.com/cran/geohashTools
@@ -43928,6 +43919,9 @@
 [submodule "msme"]
 	path = msme
 	url = https://github.com/cran/msme
+[submodule "msmtools"]
+	path = msmtools
+	url = https://github.com/cran/msmtools
 [submodule "msos"]
 	path = msos
 	url = https://github.com/cran/msos
@@ -60509,12 +60503,6 @@
 [submodule "thankr"]
 	path = thankr
 	url = https://github.com/cran/thankr
-[submodule "theft"]
-	path = theft
-	url = https://github.com/cran/theft
-[submodule "theftdlc"]
-	path = theftdlc
-	url = https://github.com/cran/theftdlc
 [submodule "theiaR"]
 	path = theiaR
 	url = https://github.com/cran/theiaR
