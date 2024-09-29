@@ -24719,9 +24719,6 @@
 [submodule "clusterability"]
 	path = clusterability
 	url = https://github.com/cran/clusterability
-[submodule "clusteredinterference"]
-	path = clusteredinterference
-	url = https://github.com/cran/clusteredinterference
 [submodule "clusterhap"]
 	path = clusterhap
 	url = https://github.com/cran/clusterhap
@@ -29273,9 +29270,6 @@
 [submodule "easyVerification"]
 	path = easyVerification
 	url = https://github.com/cran/easyVerification
-[submodule "easyWechat"]
-	path = easyWechat
-	url = https://github.com/cran/easyWechat
 [submodule "easyalluvial"]
 	path = easyalluvial
 	url = https://github.com/cran/easyalluvial
@@ -33917,12 +33911,6 @@
 [submodule "gfiUltra"]
 	path = gfiUltra
 	url = https://github.com/cran/gfiUltra
-[submodule "gfilmm"]
-	path = gfilmm
-	url = https://github.com/cran/gfilmm
-[submodule "gfilogisreg"]
-	path = gfilogisreg
-	url = https://github.com/cran/gfilogisreg
 [submodule "gfoRmula"]
 	path = gfoRmula
 	url = https://github.com/cran/gfoRmula
@@ -44897,9 +44885,6 @@
 [submodule "netcontrol"]
 	path = netcontrol
 	url = https://github.com/cran/netcontrol
-[submodule "netcox"]
-	path = netcox
-	url = https://github.com/cran/netcox
 [submodule "netdiffuseR"]
 	path = netdiffuseR
 	url = https://github.com/cran/netdiffuseR
@@ -57056,9 +57041,6 @@
 [submodule "sloop"]
 	path = sloop
 	url = https://github.com/cran/sloop
-[submodule "slopeOP"]
-	path = slopeOP
-	url = https://github.com/cran/slopeOP
 [submodule "slouch"]
 	path = slouch
 	url = https://github.com/cran/slouch
@@ -59147,9 +59129,6 @@
 [submodule "subscreen"]
 	path = subscreen
 	url = https://github.com/cran/subscreen
-[submodule "subselect"]
-	path = subselect
-	url = https://github.com/cran/subselect
 [submodule "subsemble"]
 	path = subsemble
 	url = https://github.com/cran/subsemble
