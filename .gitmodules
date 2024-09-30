@@ -689,6 +689,9 @@
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
+[submodule "Argentum"]
+	path = Argentum
+	url = https://github.com/cran/Argentum
 [submodule "AriGaMyANNSVR"]
 	path = AriGaMyANNSVR
 	url = https://github.com/cran/AriGaMyANNSVR
@@ -10169,6 +10172,9 @@
 [submodule "MethodCompare"]
 	path = MethodCompare
 	url = https://github.com/cran/MethodCompare
+[submodule "MethodOpt"]
+	path = MethodOpt
+	url = https://github.com/cran/MethodOpt
 [submodule "MetricGraph"]
 	path = MetricGraph
 	url = https://github.com/cran/MetricGraph
@@ -16331,6 +16337,9 @@
 [submodule "STGS"]
 	path = STGS
 	url = https://github.com/cran/STGS
+[submodule "STICr"]
+	path = STICr
+	url = https://github.com/cran/STICr
 [submodule "STMotif"]
 	path = STMotif
 	url = https://github.com/cran/STMotif
@@ -16931,6 +16940,9 @@
 [submodule "SpTe2M"]
 	path = SpTe2M
 	url = https://github.com/cran/SpTe2M
+[submodule "SpaCCI"]
+	path = SpaCCI
+	url = https://github.com/cran/SpaCCI
 [submodule "SpaCOAP"]
 	path = SpaCOAP
 	url = https://github.com/cran/SpaCOAP
@@ -46862,6 +46874,9 @@
 [submodule "pKSEA"]
 	path = pKSEA
 	url = https://github.com/cran/pKSEA
+[submodule "pMEM"]
+	path = pMEM
+	url = https://github.com/cran/pMEM
 [submodule "pRF"]
 	path = pRF
 	url = https://github.com/cran/pRF
@@ -62423,6 +62438,9 @@
 [submodule "usa"]
 	path = usa
 	url = https://github.com/cran/usa
+[submodule "usaidplot"]
+	path = usaidplot
+	url = https://github.com/cran/usaidplot
 [submodule "uscoauditlog"]
 	path = uscoauditlog
 	url = https://github.com/cran/uscoauditlog
