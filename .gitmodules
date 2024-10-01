@@ -18797,6 +18797,9 @@
 [submodule "WLreg"]
 	path = WLreg
 	url = https://github.com/cran/WLreg
+[submodule "WMWssp"]
+	path = WMWssp
+	url = https://github.com/cran/WMWssp
 [submodule "WOAkMedoids"]
 	path = WOAkMedoids
 	url = https://github.com/cran/WOAkMedoids
