@@ -2237,6 +2237,9 @@
 [submodule "CIplot"]
 	path = CIplot
 	url = https://github.com/cran/CIplot
+[submodule "CIpostSelect"]
+	path = CIpostSelect
+	url = https://github.com/cran/CIpostSelect
 [submodule "CJAMP"]
 	path = CJAMP
 	url = https://github.com/cran/CJAMP
@@ -7112,6 +7115,9 @@
 [submodule "HMMEsolver"]
 	path = HMMEsolver
 	url = https://github.com/cran/HMMEsolver
+[submodule "HMMcopula"]
+	path = HMMcopula
+	url = https://github.com/cran/HMMcopula
 [submodule "HMMextra0s"]
 	path = HMMextra0s
 	url = https://github.com/cran/HMMextra0s
@@ -10034,6 +10040,9 @@
 [submodule "MatrixModels"]
 	path = MatrixModels
 	url = https://github.com/cran/MatrixModels
+[submodule "MaxMC"]
+	path = MaxMC
+	url = https://github.com/cran/MaxMC
 [submodule "MaxPro"]
 	path = MaxPro
 	url = https://github.com/cran/MaxPro
@@ -27707,6 +27716,9 @@
 [submodule "denvax"]
 	path = denvax
 	url = https://github.com/cran/denvax
+[submodule "depCensoring"]
+	path = depCensoring
+	url = https://github.com/cran/depCensoring
 [submodule "depcache"]
 	path = depcache
 	url = https://github.com/cran/depcache
@@ -34109,6 +34121,9 @@
 [submodule "ggcleveland"]
 	path = ggcleveland
 	url = https://github.com/cran/ggcleveland
+[submodule "ggcompare"]
+	path = ggcompare
+	url = https://github.com/cran/ggcompare
 [submodule "ggcorrplot"]
 	path = ggcorrplot
 	url = https://github.com/cran/ggcorrplot
@@ -34592,6 +34607,9 @@
 [submodule "ggversa"]
 	path = ggversa
 	url = https://github.com/cran/ggversa
+[submodule "ggview"]
+	path = ggview
+	url = https://github.com/cran/ggview
 [submodule "ggvis"]
 	path = ggvis
 	url = https://github.com/cran/ggvis
@@ -41000,6 +41018,9 @@
 [submodule "maat"]
 	path = maat
 	url = https://github.com/cran/maat
+[submodule "mabacR"]
+	path = mabacR
+	url = https://github.com/cran/mabacR
 [submodule "mable"]
 	path = mable
 	url = https://github.com/cran/mable
@@ -42539,6 +42560,9 @@
 [submodule "microhaplot"]
 	path = microhaplot
 	url = https://github.com/cran/microhaplot
+[submodule "microinverterdata"]
+	path = microinverterdata
+	url = https://github.com/cran/microinverterdata
 [submodule "micromap"]
 	path = micromap
 	url = https://github.com/cran/micromap
@@ -42593,6 +42617,9 @@
 [submodule "midi"]
 	path = midi
 	url = https://github.com/cran/midi
+[submodule "midoc"]
+	path = midoc
+	url = https://github.com/cran/midoc
 [submodule "midrangeMCP"]
 	path = midrangeMCP
 	url = https://github.com/cran/midrangeMCP
@@ -58826,6 +58853,9 @@
 [submodule "stepSplitReg"]
 	path = stepSplitReg
 	url = https://github.com/cran/stepSplitReg
+[submodule "stepcount"]
+	path = stepcount
+	url = https://github.com/cran/stepcount
 [submodule "stepdownfdp"]
 	path = stepdownfdp
 	url = https://github.com/cran/stepdownfdp
