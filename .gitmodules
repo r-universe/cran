@@ -3086,6 +3086,9 @@
 [submodule "CompositionalML"]
 	path = CompositionalML
 	url = https://github.com/cran/CompositionalML
+[submodule "CompositionalRF"]
+	path = CompositionalRF
+	url = https://github.com/cran/CompositionalRF
 [submodule "CompoundEvents"]
 	path = CompoundEvents
 	url = https://github.com/cran/CompoundEvents
@@ -7757,6 +7760,9 @@
 [submodule "ISAT"]
 	path = ISAT
 	url = https://github.com/cran/ISAT
+[submodule "ISCA"]
+	path = ISCA
+	url = https://github.com/cran/ISCA
 [submodule "ISCO08ConveRsions"]
 	path = ISCO08ConveRsions
 	url = https://github.com/cran/ISCO08ConveRsions
@@ -16100,6 +16106,9 @@
 [submodule "SOMEnv"]
 	path = SOMEnv
 	url = https://github.com/cran/SOMEnv
+[submodule "SOMMD"]
+	path = SOMMD
+	url = https://github.com/cran/SOMMD
 [submodule "SOMbrero"]
 	path = SOMbrero
 	url = https://github.com/cran/SOMbrero
@@ -19355,6 +19364,9 @@
 [submodule "acnr"]
 	path = acnr
 	url = https://github.com/cran/acnr
+[submodule "acoRn"]
+	path = acoRn
+	url = https://github.com/cran/acoRn
 [submodule "acopula"]
 	path = acopula
 	url = https://github.com/cran/acopula
@@ -19838,6 +19850,9 @@
 [submodule "ahw"]
 	path = ahw
 	url = https://github.com/cran/ahw
+[submodule "ai"]
+	path = ai
+	url = https://github.com/cran/ai
 [submodule "aiRly"]
 	path = aiRly
 	url = https://github.com/cran/aiRly
@@ -20951,6 +20966,9 @@
 [submodule "autocogs"]
 	path = autocogs
 	url = https://github.com/cran/autocogs
+[submodule "autogam"]
+	path = autogam
+	url = https://github.com/cran/autogam
 [submodule "autoharp"]
 	path = autoharp
 	url = https://github.com/cran/autoharp
@@ -30218,6 +30236,9 @@
 [submodule "epiworldRShiny"]
 	path = epiworldRShiny
 	url = https://github.com/cran/epiworldRShiny
+[submodule "epizootic"]
+	path = epizootic
+	url = https://github.com/cran/epizootic
 [submodule "eplusr"]
 	path = eplusr
 	url = https://github.com/cran/eplusr
