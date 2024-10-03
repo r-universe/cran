@@ -5552,6 +5552,9 @@
 [submodule "FSelectorRcpp"]
 	path = FSelectorRcpp
 	url = https://github.com/cran/FSelectorRcpp
+[submodule "FTSgof"]
+	path = FTSgof
+	url = https://github.com/cran/FTSgof
 [submodule "FUNTA"]
 	path = FUNTA
 	url = https://github.com/cran/FUNTA
@@ -6161,6 +6164,9 @@
 [submodule "GFDrmst"]
 	path = GFDrmst
 	url = https://github.com/cran/GFDrmst
+[submodule "GFDrmtl"]
+	path = GFDrmtl
+	url = https://github.com/cran/GFDrmtl
 [submodule "GFDsurv"]
 	path = GFDsurv
 	url = https://github.com/cran/GFDsurv
@@ -12860,6 +12866,9 @@
 [submodule "Pursuit"]
 	path = Pursuit
 	url = https://github.com/cran/Pursuit
+[submodule "PvSTATEM"]
+	path = PvSTATEM
+	url = https://github.com/cran/PvSTATEM
 [submodule "PwrGSD"]
 	path = PwrGSD
 	url = https://github.com/cran/PwrGSD
@@ -13688,6 +13697,9 @@
 [submodule "RLogicalOps"]
 	path = RLogicalOps
 	url = https://github.com/cran/RLogicalOps
+[submodule "RLoptimal"]
+	path = RLoptimal
+	url = https://github.com/cran/RLoptimal
 [submodule "RLumCarlo"]
 	path = RLumCarlo
 	url = https://github.com/cran/RLumCarlo
@@ -25469,6 +25481,9 @@
 [submodule "condir"]
 	path = condir
 	url = https://github.com/cran/condir
+[submodule "conditionalProbNspades"]
+	path = conditionalProbNspades
+	url = https://github.com/cran/conditionalProbNspades
 [submodule "conditionz"]
 	path = conditionz
 	url = https://github.com/cran/conditionz
@@ -30899,6 +30914,9 @@
 [submodule "extras"]
 	path = extras
 	url = https://github.com/cran/extras
+[submodule "extrasteps"]
+	path = extrasteps
+	url = https://github.com/cran/extrasteps
 [submodule "extraterrestrial"]
 	path = extraterrestrial
 	url = https://github.com/cran/extraterrestrial
@@ -50957,6 +50975,9 @@
 [submodule "r6methods"]
 	path = r6methods
 	url = https://github.com/cran/r6methods
+[submodule "r6qualitytools"]
+	path = r6qualitytools
+	url = https://github.com/cran/r6qualitytools
 [submodule "rADA"]
 	path = rADA
 	url = https://github.com/cran/rADA
@@ -57659,6 +57680,9 @@
 [submodule "spRingsteen"]
 	path = spRingsteen
 	url = https://github.com/cran/spRingsteen
+[submodule "spStack"]
+	path = spStack
+	url = https://github.com/cran/spStack
 [submodule "spTDyn"]
 	path = spTDyn
 	url = https://github.com/cran/spTDyn
@@ -58583,6 +58607,9 @@
 [submodule "stabs"]
 	path = stabs
 	url = https://github.com/cran/stabs
+[submodule "staccuracy"]
+	path = staccuracy
+	url = https://github.com/cran/staccuracy
 [submodule "stackgbm"]
 	path = stackgbm
 	url = https://github.com/cran/stackgbm
