@@ -1259,6 +1259,9 @@
 [submodule "BTSR"]
 	path = BTSR
 	url = https://github.com/cran/BTSR
+[submodule "BTTL"]
+	path = BTTL
+	url = https://github.com/cran/BTTL
 [submodule "BTYD"]
 	path = BTYD
 	url = https://github.com/cran/BTYD
@@ -46421,6 +46424,9 @@
 [submodule "openalexR"]
 	path = openalexR
 	url = https://github.com/cran/openalexR
+[submodule "openappr"]
+	path = openappr
+	url = https://github.com/cran/openappr
 [submodule "openbankeR"]
 	path = openbankeR
 	url = https://github.com/cran/openbankeR
