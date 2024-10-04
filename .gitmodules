@@ -539,6 +539,9 @@
 [submodule "AlgebraicHaploPackage"]
 	path = AlgebraicHaploPackage
 	url = https://github.com/cran/AlgebraicHaploPackage
+[submodule "AlignLV"]
+	path = AlignLV
+	url = https://github.com/cran/AlignLV
 [submodule "AllMetrics"]
 	path = AllMetrics
 	url = https://github.com/cran/AllMetrics
@@ -9284,6 +9287,9 @@
 [submodule "MDBED"]
 	path = MDBED
 	url = https://github.com/cran/MDBED
+[submodule "MDDC"]
+	path = MDDC
+	url = https://github.com/cran/MDDC
 [submodule "MDEI"]
 	path = MDEI
 	url = https://github.com/cran/MDEI
@@ -30932,6 +30938,9 @@
 [submodule "extremefit"]
 	path = extremefit
 	url = https://github.com/cran/extremefit
+[submodule "extrememix"]
+	path = extrememix
+	url = https://github.com/cran/extrememix
 [submodule "extremevalues"]
 	path = extremevalues
 	url = https://github.com/cran/extremevalues
@@ -35111,6 +35120,9 @@
 [submodule "gofgamma"]
 	path = gofgamma
 	url = https://github.com/cran/gofgamma
+[submodule "gofreg"]
+	path = gofreg
+	url = https://github.com/cran/gofreg
 [submodule "goft"]
 	path = goft
 	url = https://github.com/cran/goft
@@ -41309,6 +41321,9 @@
 [submodule "mapmixture"]
 	path = mapmixture
 	url = https://github.com/cran/mapmixture
+[submodule "mappeR"]
+	path = mappeR
+	url = https://github.com/cran/mappeR
 [submodule "mapping"]
 	path = mapping
 	url = https://github.com/cran/mapping
