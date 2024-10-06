@@ -56552,6 +56552,9 @@
 [submodule "shrinkTVPVAR"]
 	path = shrinkTVPVAR
 	url = https://github.com/cran/shrinkTVPVAR
+[submodule "shrinkem"]
+	path = shrinkem
+	url = https://github.com/cran/shrinkem
 [submodule "shroomDK"]
 	path = shroomDK
 	url = https://github.com/cran/shroomDK
