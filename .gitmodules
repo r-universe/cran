@@ -2114,6 +2114,9 @@
 [submodule "CDatanet"]
 	path = CDatanet
 	url = https://github.com/cran/CDatanet
+[submodule "CDsampling"]
+	path = CDsampling
+	url = https://github.com/cran/CDsampling
 [submodule "CEC"]
 	path = CEC
 	url = https://github.com/cran/CEC
@@ -6527,6 +6530,9 @@
 [submodule "GTDL"]
 	path = GTDL
 	url = https://github.com/cran/GTDL
+[submodule "GTbasedIM"]
+	path = GTbasedIM
+	url = https://github.com/cran/GTbasedIM
 [submodule "GUD"]
 	path = GUD
 	url = https://github.com/cran/GUD
@@ -46196,6 +46202,9 @@
 [submodule "ofpetrial"]
 	path = ofpetrial
 	url = https://github.com/cran/ofpetrial
+[submodule "oglcnac"]
+	path = oglcnac
+	url = https://github.com/cran/oglcnac
 [submodule "oglmx"]
 	path = oglmx
 	url = https://github.com/cran/oglmx
@@ -46460,6 +46469,9 @@
 [submodule "opencv"]
 	path = opencv
 	url = https://github.com/cran/opencv
+[submodule "opendataformat"]
+	path = opendataformat
+	url = https://github.com/cran/opendataformat
 [submodule "opendatatoronto"]
 	path = opendatatoronto
 	url = https://github.com/cran/opendatatoronto
@@ -55892,6 +55904,9 @@
 [submodule "serocalculator"]
 	path = serocalculator
 	url = https://github.com/cran/serocalculator
+[submodule "serosv"]
+	path = serosv
+	url = https://github.com/cran/serosv
 [submodule "serp"]
 	path = serp
 	url = https://github.com/cran/serp
