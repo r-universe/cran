@@ -5510,6 +5510,9 @@
 [submodule "FRAPO"]
 	path = FRAPO
 	url = https://github.com/cran/FRAPO
+[submodule "FRB"]
+	path = FRB
+	url = https://github.com/cran/FRB
 [submodule "FRCC"]
 	path = FRCC
 	url = https://github.com/cran/FRCC
@@ -36269,6 +36272,9 @@
 [submodule "heck"]
 	path = heck
 	url = https://github.com/cran/heck
+[submodule "heckmanGE"]
+	path = heckmanGE
+	url = https://github.com/cran/heckmanGE
 [submodule "heddlr"]
 	path = heddlr
 	url = https://github.com/cran/heddlr
