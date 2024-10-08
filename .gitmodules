@@ -29261,6 +29261,9 @@
 [submodule "eDMA"]
 	path = eDMA
 	url = https://github.com/cran/eDMA
+[submodule "eDNAjoint"]
+	path = eDNAjoint
+	url = https://github.com/cran/eDNAjoint
 [submodule "eFRED"]
 	path = eFRED
 	url = https://github.com/cran/eFRED
@@ -58193,6 +58196,9 @@
 [submodule "sphereTessellation"]
 	path = sphereTessellation
 	url = https://github.com/cran/sphereTessellation
+[submodule "spheredata"]
+	path = spheredata
+	url = https://github.com/cran/spheredata
 [submodule "spherepc"]
 	path = spherepc
 	url = https://github.com/cran/spherepc
@@ -62177,6 +62183,9 @@
 [submodule "tvthemes"]
 	path = tvthemes
 	url = https://github.com/cran/tvthemes
+[submodule "tvtools"]
+	path = tvtools
+	url = https://github.com/cran/tvtools
 [submodule "twang"]
 	path = twang
 	url = https://github.com/cran/twang
@@ -62603,6 +62612,9 @@
 [submodule "usdata"]
 	path = usdata
 	url = https://github.com/cran/usdata
+[submodule "usdatasets"]
+	path = usdatasets
+	url = https://github.com/cran/usdatasets
 [submodule "usdm"]
 	path = usdm
 	url = https://github.com/cran/usdm
