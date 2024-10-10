@@ -2702,6 +2702,9 @@
 [submodule "Certara.R"]
 	path = Certara.R
 	url = https://github.com/cran/Certara.R
+[submodule "Certara.VPCResults"]
+	path = Certara.VPCResults
+	url = https://github.com/cran/Certara.VPCResults
 [submodule "ChainLadder"]
 	path = ChainLadder
 	url = https://github.com/cran/ChainLadder
@@ -13316,9 +13319,6 @@
 [submodule "RCMinification"]
 	path = RCMinification
 	url = https://github.com/cran/RCMinification
-[submodule "RCPA"]
-	path = RCPA
-	url = https://github.com/cran/RCPA
 [submodule "RCPA3"]
 	path = RCPA3
 	url = https://github.com/cran/RCPA3
@@ -13454,6 +13454,9 @@
 [submodule "REMLA"]
 	path = REMLA
 	url = https://github.com/cran/REMLA
+[submodule "REN"]
+	path = REN
+	url = https://github.com/cran/REN
 [submodule "REPLesentR"]
 	path = REPLesentR
 	url = https://github.com/cran/REPLesentR
@@ -21029,6 +21032,9 @@
 [submodule "automap"]
 	path = automap
 	url = https://github.com/cran/automap
+[submodule "autometric"]
+	path = autometric
+	url = https://github.com/cran/autometric
 [submodule "automl"]
 	path = automl
 	url = https://github.com/cran/automl
@@ -26702,6 +26708,9 @@
 [submodule "cuRe"]
 	path = cuRe
 	url = https://github.com/cran/cuRe
+[submodule "cuadramelo"]
+	path = cuadramelo
+	url = https://github.com/cran/cuadramelo
 [submodule "cubar"]
 	path = cubar
 	url = https://github.com/cran/cubar
@@ -33641,6 +33650,9 @@
 [submodule "genesysr"]
 	path = genesysr
 	url = https://github.com/cran/genesysr
+[submodule "genetic.algo.optimizeR"]
+	path = genetic.algo.optimizeR
+	url = https://github.com/cran/genetic.algo.optimizeR
 [submodule "geneticae"]
 	path = geneticae
 	url = https://github.com/cran/geneticae
@@ -33713,6 +33725,9 @@
 [submodule "gensvm"]
 	path = gensvm
 	url = https://github.com/cran/gensvm
+[submodule "genular"]
+	path = genular
+	url = https://github.com/cran/genular
 [submodule "geoAr"]
 	path = geoAr
 	url = https://github.com/cran/geoAr
@@ -33938,6 +33953,9 @@
 [submodule "gerbil"]
 	path = gerbil
 	url = https://github.com/cran/gerbil
+[submodule "gerefer"]
+	path = gerefer
+	url = https://github.com/cran/gerefer
 [submodule "germinationmetrics"]
 	path = germinationmetrics
 	url = https://github.com/cran/germinationmetrics
@@ -51992,6 +52010,9 @@
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/cran/rdryad
+[submodule "rdss"]
+	path = rdss
+	url = https://github.com/cran/rdss
 [submodule "rdtLite"]
 	path = rdtLite
 	url = https://github.com/cran/rdtLite
@@ -60911,6 +60932,9 @@
 [submodule "tidylda"]
 	path = tidylda
 	url = https://github.com/cran/tidylda
+[submodule "tidyllm"]
+	path = tidyllm
+	url = https://github.com/cran/tidyllm
 [submodule "tidylo"]
 	path = tidylo
 	url = https://github.com/cran/tidylo
