@@ -500,6 +500,9 @@
 [submodule "AdvancedBasketballStats"]
 	path = AdvancedBasketballStats
 	url = https://github.com/cran/AdvancedBasketballStats
+[submodule "AdverseEvents"]
+	path = AdverseEvents
+	url = https://github.com/cran/AdverseEvents
 [submodule "AeRobiology"]
 	path = AeRobiology
 	url = https://github.com/cran/AeRobiology
@@ -8357,6 +8360,9 @@
 [submodule "Keyboard"]
 	path = Keyboard
 	url = https://github.com/cran/Keyboard
+[submodule "Kifidi"]
+	path = Kifidi
+	url = https://github.com/cran/Kifidi
 [submodule "KinMixLite"]
 	path = KinMixLite
 	url = https://github.com/cran/KinMixLite
@@ -13319,6 +13325,9 @@
 [submodule "RCMinification"]
 	path = RCMinification
 	url = https://github.com/cran/RCMinification
+[submodule "RCPA"]
+	path = RCPA
+	url = https://github.com/cran/RCPA
 [submodule "RCPA3"]
 	path = RCPA3
 	url = https://github.com/cran/RCPA3
@@ -18866,6 +18875,9 @@
 [submodule "WPKDE"]
 	path = WPKDE
 	url = https://github.com/cran/WPKDE
+[submodule "WQM"]
+	path = WQM
+	url = https://github.com/cran/WQM
 [submodule "WR"]
 	path = WR
 	url = https://github.com/cran/WR
@@ -27140,6 +27152,9 @@
 [submodule "data.table"]
 	path = data.table
 	url = https://github.com/cran/data.table
+[submodule "data.table.threads"]
+	path = data.table.threads
+	url = https://github.com/cran/data.table.threads
 [submodule "data.tree"]
 	path = data.tree
 	url = https://github.com/cran/data.tree
@@ -44654,6 +44669,9 @@
 [submodule "myTAI"]
 	path = myTAI
 	url = https://github.com/cran/myTAI
+[submodule "mycaas"]
+	path = mycaas
+	url = https://github.com/cran/mycaas
 [submodule "mycobacrvR"]
 	path = mycobacrvR
 	url = https://github.com/cran/mycobacrvR
@@ -45170,6 +45188,9 @@
 [submodule "neutralitytestr"]
 	path = neutralitytestr
 	url = https://github.com/cran/neutralitytestr
+[submodule "neutrostat"]
+	path = neutrostat
+	url = https://github.com/cran/neutrostat
 [submodule "nevada"]
 	path = nevada
 	url = https://github.com/cran/nevada
@@ -46520,6 +46541,9 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
+[submodule "openrouteservice"]
+	path = openrouteservice
+	url = https://github.com/cran/openrouteservice
 [submodule "openscoring"]
 	path = openscoring
 	url = https://github.com/cran/openscoring
@@ -47027,6 +47051,9 @@
 [submodule "pMEM"]
 	path = pMEM
 	url = https://github.com/cran/pMEM
+[submodule "pPCA"]
+	path = pPCA
+	url = https://github.com/cran/pPCA
 [submodule "pRF"]
 	path = pRF
 	url = https://github.com/cran/pRF
@@ -48731,6 +48758,9 @@
 [submodule "plm"]
 	path = plm
 	url = https://github.com/cran/plm
+[submodule "plmmr"]
+	path = plmmr
+	url = https://github.com/cran/plmmr
 [submodule "pln"]
 	path = pln
 	url = https://github.com/cran/pln
@@ -50342,6 +50372,9 @@
 [submodule "pwr2ppl"]
 	path = pwr2ppl
 	url = https://github.com/cran/pwr2ppl
+[submodule "pwr4exp"]
+	path = pwr4exp
+	url = https://github.com/cran/pwr4exp
 [submodule "pwrAB"]
 	path = pwrAB
 	url = https://github.com/cran/pwrAB
@@ -53837,6 +53870,9 @@
 [submodule "rorqual.morpho"]
 	path = rorqual.morpho
 	url = https://github.com/cran/rorqual.morpho
+[submodule "roseRF"]
+	path = roseRF
+	url = https://github.com/cran/roseRF
 [submodule "rosetta"]
 	path = rosetta
 	url = https://github.com/cran/rosetta
@@ -54710,9 +54746,6 @@
 [submodule "sac"]
 	path = sac
 	url = https://github.com/cran/sac
-[submodule "sacRebleu"]
-	path = sacRebleu
-	url = https://github.com/cran/sacRebleu
 [submodule "saccadr"]
 	path = saccadr
 	url = https://github.com/cran/saccadr
@@ -54962,6 +54995,9 @@
 [submodule "sapfluxnetr"]
 	path = sapfluxnetr
 	url = https://github.com/cran/sapfluxnetr
+[submodule "sapo"]
+	path = sapo
+	url = https://github.com/cran/sapo
 [submodule "saqgetr"]
 	path = saqgetr
 	url = https://github.com/cran/saqgetr
@@ -61385,9 +61421,6 @@
 [submodule "togglr"]
 	path = togglr
 	url = https://github.com/cran/togglr
-[submodule "tok"]
-	path = tok
-	url = https://github.com/cran/tok
 [submodule "tokenbrowser"]
 	path = tokenbrowser
 	url = https://github.com/cran/tokenbrowser
