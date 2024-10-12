@@ -54746,6 +54746,9 @@
 [submodule "sac"]
 	path = sac
 	url = https://github.com/cran/sac
+[submodule "sacRebleu"]
+	path = sacRebleu
+	url = https://github.com/cran/sacRebleu
 [submodule "saccadr"]
 	path = saccadr
 	url = https://github.com/cran/saccadr
@@ -58001,6 +58004,9 @@
 [submodule "spatgraphs"]
 	path = spatgraphs
 	url = https://github.com/cran/spatgraphs
+[submodule "spathial"]
+	path = spathial
+	url = https://github.com/cran/spathial
 [submodule "spaths"]
 	path = spaths
 	url = https://github.com/cran/spaths
@@ -61418,6 +61424,9 @@
 [submodule "togglr"]
 	path = togglr
 	url = https://github.com/cran/togglr
+[submodule "tok"]
+	path = tok
+	url = https://github.com/cran/tok
 [submodule "tokenbrowser"]
 	path = tokenbrowser
 	url = https://github.com/cran/tokenbrowser
