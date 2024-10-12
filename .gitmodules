@@ -58001,9 +58001,6 @@
 [submodule "spatgraphs"]
 	path = spatgraphs
 	url = https://github.com/cran/spatgraphs
-[submodule "spathial"]
-	path = spathial
-	url = https://github.com/cran/spathial
 [submodule "spaths"]
 	path = spaths
 	url = https://github.com/cran/spaths
