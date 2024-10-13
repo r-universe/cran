@@ -28034,6 +28034,9 @@
 [submodule "dhh"]
 	path = dhh
 	url = https://github.com/cran/dhh
+[submodule "dhlabR"]
+	path = dhlabR
+	url = https://github.com/cran/dhlabR
 [submodule "dhsage"]
 	path = dhsage
 	url = https://github.com/cran/dhsage
@@ -43760,6 +43763,9 @@
 [submodule "morphemepiece.data"]
 	path = morphemepiece.data
 	url = https://github.com/cran/morphemepiece.data
+[submodule "morpheus"]
+	path = morpheus
+	url = https://github.com/cran/morpheus
 [submodule "morphomap"]
 	path = morphomap
 	url = https://github.com/cran/morphomap
@@ -44132,6 +44138,9 @@
 [submodule "mtlgmm"]
 	path = mtlgmm
 	url = https://github.com/cran/mtlgmm
+[submodule "mtscr"]
+	path = mtscr
+	url = https://github.com/cran/mtscr
 [submodule "mtsdi"]
 	path = mtsdi
 	url = https://github.com/cran/mtsdi
