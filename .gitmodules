@@ -11027,6 +11027,9 @@
 [submodule "NetRep"]
 	path = NetRep
 	url = https://github.com/cran/NetRep
+[submodule "NetSci"]
+	path = NetSci
+	url = https://github.com/cran/NetSci
 [submodule "NetSimR"]
 	path = NetSimR
 	url = https://github.com/cran/NetSimR
@@ -15713,6 +15716,9 @@
 [submodule "SCCS"]
 	path = SCCS
 	url = https://github.com/cran/SCCS
+[submodule "SCDA"]
+	path = SCDA
+	url = https://github.com/cran/SCDA
 [submodule "SCDB"]
 	path = SCDB
 	url = https://github.com/cran/SCDB
@@ -20537,9 +20543,6 @@
 [submodule "arcgislayers"]
 	path = arcgislayers
 	url = https://github.com/cran/arcgislayers
-[submodule "arcgisplaces"]
-	path = arcgisplaces
-	url = https://github.com/cran/arcgisplaces
 [submodule "arcgisutils"]
 	path = arcgisutils
 	url = https://github.com/cran/arcgisutils
@@ -43946,9 +43949,6 @@
 [submodule "mrMLM.GUI"]
 	path = mrMLM.GUI
 	url = https://github.com/cran/mrMLM.GUI
-[submodule "mra"]
-	path = mra
-	url = https://github.com/cran/mra
 [submodule "mratios"]
 	path = mratios
 	url = https://github.com/cran/mratios
@@ -60623,6 +60623,9 @@
 [submodule "textplot"]
 	path = textplot
 	url = https://github.com/cran/textplot
+[submodule "textpress"]
+	path = textpress
+	url = https://github.com/cran/textpress
 [submodule "textrank"]
 	path = textrank
 	url = https://github.com/cran/textrank
