@@ -20456,9 +20456,6 @@
 [submodule "appleadsR"]
 	path = appleadsR
 	url = https://github.com/cran/appleadsR
-[submodule "appler"]
-	path = appler
-	url = https://github.com/cran/appler
 [submodule "applicable"]
 	path = applicable
 	url = https://github.com/cran/applicable
@@ -24704,9 +24701,6 @@
 [submodule "clogitL1"]
 	path = clogitL1
 	url = https://github.com/cran/clogitL1
-[submodule "clogitLasso"]
-	path = clogitLasso
-	url = https://github.com/cran/clogitLasso
 [submodule "clogitboost"]
 	path = clogitboost
 	url = https://github.com/cran/clogitboost
@@ -30329,9 +30323,6 @@
 [submodule "epo"]
 	path = epo
 	url = https://github.com/cran/epo
-[submodule "epoc"]
-	path = epoc
-	url = https://github.com/cran/epoc
 [submodule "epocakir"]
 	path = epocakir
 	url = https://github.com/cran/epocakir
@@ -39653,9 +39644,6 @@
 [submodule "lassopv"]
 	path = lassopv
 	url = https://github.com/cran/lassopv
-[submodule "lassoshooting"]
-	path = lassoshooting
-	url = https://github.com/cran/lassoshooting
 [submodule "latcontrol"]
 	path = latcontrol
 	url = https://github.com/cran/latcontrol
@@ -51260,9 +51248,6 @@
 [submodule "rQSAR"]
 	path = rQSAR
 	url = https://github.com/cran/rQSAR
-[submodule "rRAP"]
-	path = rRAP
-	url = https://github.com/cran/rRAP
 [submodule "rSAFE"]
 	path = rSAFE
 	url = https://github.com/cran/rSAFE
