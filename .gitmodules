@@ -3632,6 +3632,9 @@
 [submodule "DEoptimR"]
 	path = DEoptimR
 	url = https://github.com/cran/DEoptimR
+[submodule "DEploid"]
+	path = DEploid
+	url = https://github.com/cran/DEploid
 [submodule "DFA"]
 	path = DFA
 	url = https://github.com/cran/DFA
@@ -6515,6 +6518,9 @@
 [submodule "GSED"]
 	path = GSED
 	url = https://github.com/cran/GSED
+[submodule "GSEMA"]
+	path = GSEMA
+	url = https://github.com/cran/GSEMA
 [submodule "GSM"]
 	path = GSM
 	url = https://github.com/cran/GSM
@@ -6611,9 +6617,6 @@
 [submodule "GWsignif"]
 	path = GWsignif
 	url = https://github.com/cran/GWsignif
-[submodule "GaMaBioMD"]
-	path = GaMaBioMD
-	url = https://github.com/cran/GaMaBioMD
 [submodule "GaSP"]
 	path = GaSP
 	url = https://github.com/cran/GaSP
@@ -19775,6 +19778,9 @@
 [submodule "afex"]
 	path = afex
 	url = https://github.com/cran/afex
+[submodule "affiner"]
+	path = affiner
+	url = https://github.com/cran/affiner
 [submodule "affinity"]
 	path = affinity
 	url = https://github.com/cran/affinity
@@ -21431,6 +21437,9 @@
 [submodule "batch"]
 	path = batch
 	url = https://github.com/cran/batch
+[submodule "batchLLM"]
+	path = batchLLM
+	url = https://github.com/cran/batchLLM
 [submodule "batchmeans"]
 	path = batchmeans
 	url = https://github.com/cran/batchmeans
@@ -24701,6 +24710,9 @@
 [submodule "clogitL1"]
 	path = clogitL1
 	url = https://github.com/cran/clogitL1
+[submodule "clogitLasso"]
+	path = clogitLasso
+	url = https://github.com/cran/clogitLasso
 [submodule "clogitboost"]
 	path = clogitboost
 	url = https://github.com/cran/clogitboost
@@ -24782,6 +24794,9 @@
 [submodule "clustNet"]
 	path = clustNet
 	url = https://github.com/cran/clustNet
+[submodule "clustTMB"]
+	path = clustTMB
+	url = https://github.com/cran/clustTMB
 [submodule "cluster"]
 	path = cluster
 	url = https://github.com/cran/cluster
@@ -27725,6 +27740,9 @@
 [submodule "dendroextras"]
 	path = dendroextras
 	url = https://github.com/cran/dendroextras
+[submodule "dendrometeR"]
+	path = dendrometeR
+	url = https://github.com/cran/dendrometeR
 [submodule "dendrometry"]
 	path = dendrometry
 	url = https://github.com/cran/dendrometry
@@ -30233,6 +30251,9 @@
 [submodule "epicasting"]
 	path = epicasting
 	url = https://github.com/cran/epicasting
+[submodule "epichains"]
+	path = epichains
+	url = https://github.com/cran/epichains
 [submodule "epicontacts"]
 	path = epicontacts
 	url = https://github.com/cran/epicontacts
@@ -30323,6 +30344,9 @@
 [submodule "epo"]
 	path = epo
 	url = https://github.com/cran/epo
+[submodule "epoc"]
+	path = epoc
+	url = https://github.com/cran/epoc
 [submodule "epocakir"]
 	path = epocakir
 	url = https://github.com/cran/epocakir
@@ -39302,6 +39326,9 @@
 [submodule "kmodR"]
 	path = kmodR
 	url = https://github.com/cran/kmodR
+[submodule "knfi"]
+	path = knfi
+	url = https://github.com/cran/knfi
 [submodule "knitLatex"]
 	path = knitLatex
 	url = https://github.com/cran/knitLatex
@@ -39644,6 +39671,9 @@
 [submodule "lassopv"]
 	path = lassopv
 	url = https://github.com/cran/lassopv
+[submodule "lassoshooting"]
+	path = lassoshooting
+	url = https://github.com/cran/lassoshooting
 [submodule "latcontrol"]
 	path = latcontrol
 	url = https://github.com/cran/latcontrol
@@ -48413,6 +48443,9 @@
 [submodule "phylotools"]
 	path = phylotools
 	url = https://github.com/cran/phylotools
+[submodule "phylotypr"]
+	path = phylotypr
+	url = https://github.com/cran/phylotypr
 [submodule "phylter"]
 	path = phylter
 	url = https://github.com/cran/phylter
@@ -51248,6 +51281,9 @@
 [submodule "rQSAR"]
 	path = rQSAR
 	url = https://github.com/cran/rQSAR
+[submodule "rRAP"]
+	path = rRAP
+	url = https://github.com/cran/rRAP
 [submodule "rSAFE"]
 	path = rSAFE
 	url = https://github.com/cran/rSAFE
@@ -54056,6 +54092,9 @@
 [submodule "rquery"]
 	path = rquery
 	url = https://github.com/cran/rquery
+[submodule "rquest"]
+	path = rquest
+	url = https://github.com/cran/rquest
 [submodule "rr"]
 	path = rr
 	url = https://github.com/cran/rr
@@ -60182,9 +60221,6 @@
 [submodule "taxalight"]
 	path = taxalight
 	url = https://github.com/cran/taxalight
-[submodule "taxize"]
-	path = taxize
-	url = https://github.com/cran/taxize
 [submodule "taxizedb"]
 	path = taxizedb
 	url = https://github.com/cran/taxizedb
@@ -61628,9 +61664,6 @@
 [submodule "traipse"]
 	path = traipse
 	url = https://github.com/cran/traipse
-[submodule "traits"]
-	path = traits
-	url = https://github.com/cran/traits
 [submodule "traitstrap"]
 	path = traitstrap
 	url = https://github.com/cran/traitstrap
@@ -62744,6 +62777,9 @@
 [submodule "utiml"]
 	path = utiml
 	url = https://github.com/cran/utiml
+[submodule "utsf"]
+	path = utsf
+	url = https://github.com/cran/utsf
 [submodule "uuid"]
 	path = uuid
 	url = https://github.com/cran/uuid
