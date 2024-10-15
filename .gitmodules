@@ -11402,6 +11402,9 @@
 [submodule "OmnibusFisher"]
 	path = OmnibusFisher
 	url = https://github.com/cran/OmnibusFisher
+[submodule "OmopSketch"]
+	path = OmopSketch
+	url = https://github.com/cran/OmopSketch
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
