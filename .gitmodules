@@ -8870,6 +8870,9 @@
 [submodule "LearnGeom"]
 	path = LearnGeom
 	url = https://github.com/cran/LearnGeom
+[submodule "LearnNonparam"]
+	path = LearnNonparam
+	url = https://github.com/cran/LearnNonparam
 [submodule "LearnPCA"]
 	path = LearnPCA
 	url = https://github.com/cran/LearnPCA
@@ -9332,6 +9335,9 @@
 [submodule "MDOLS"]
 	path = MDOLS
 	url = https://github.com/cran/MDOLS
+[submodule "MDPIexploreR"]
+	path = MDPIexploreR
+	url = https://github.com/cran/MDPIexploreR
 [submodule "MDPtoolbox"]
 	path = MDPtoolbox
 	url = https://github.com/cran/MDPtoolbox
@@ -35033,6 +35039,9 @@
 [submodule "glogis"]
 	path = glogis
 	url = https://github.com/cran/glogis
+[submodule "glossa"]
+	path = glossa
+	url = https://github.com/cran/glossa
 [submodule "glossary"]
 	path = glossary
 	url = https://github.com/cran/glossary
@@ -36725,6 +36734,9 @@
 [submodule "holland"]
 	path = holland
 	url = https://github.com/cran/holland
+[submodule "hollr"]
+	path = hollr
+	url = https://github.com/cran/hollr
 [submodule "holodeck"]
 	path = holodeck
 	url = https://github.com/cran/holodeck
@@ -59798,6 +59810,9 @@
 [submodule "svyVGAM"]
 	path = svyVGAM
 	url = https://github.com/cran/svyVGAM
+[submodule "svyVarSel"]
+	path = svyVarSel
+	url = https://github.com/cran/svyVarSel
 [submodule "svycdiff"]
 	path = svycdiff
 	url = https://github.com/cran/svycdiff
