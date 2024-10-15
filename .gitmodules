@@ -10181,9 +10181,6 @@
 [submodule "MetaIntegration"]
 	path = MetaIntegration
 	url = https://github.com/cran/MetaIntegration
-[submodule "MetaIntegrator"]
-	path = MetaIntegrator
-	url = https://github.com/cran/MetaIntegrator
 [submodule "MetaLandSim"]
 	path = MetaLandSim
 	url = https://github.com/cran/MetaLandSim
@@ -11399,9 +11396,6 @@
 [submodule "OmnibusFisher"]
 	path = OmnibusFisher
 	url = https://github.com/cran/OmnibusFisher
-[submodule "OmopSketch"]
-	path = OmopSketch
-	url = https://github.com/cran/OmopSketch
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
