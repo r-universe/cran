@@ -37490,9 +37490,6 @@
 [submodule "ieegio"]
 	path = ieegio
 	url = https://github.com/cran/ieegio
-[submodule "iemiscdata"]
-	path = iemiscdata
-	url = https://github.com/cran/iemiscdata
 [submodule "iemisctext"]
 	path = iemisctext
 	url = https://github.com/cran/iemisctext
