@@ -6617,6 +6617,9 @@
 [submodule "GWsignif"]
 	path = GWsignif
 	url = https://github.com/cran/GWsignif
+[submodule "GaMaBioMD"]
+	path = GaMaBioMD
+	url = https://github.com/cran/GaMaBioMD
 [submodule "GaSP"]
 	path = GaSP
 	url = https://github.com/cran/GaSP
@@ -20543,6 +20546,9 @@
 [submodule "arcgislayers"]
 	path = arcgislayers
 	url = https://github.com/cran/arcgislayers
+[submodule "arcgisplaces"]
+	path = arcgisplaces
+	url = https://github.com/cran/arcgisplaces
 [submodule "arcgisutils"]
 	path = arcgisutils
 	url = https://github.com/cran/arcgisutils
@@ -43946,6 +43952,9 @@
 [submodule "mrMLM.GUI"]
 	path = mrMLM.GUI
 	url = https://github.com/cran/mrMLM.GUI
+[submodule "mra"]
+	path = mra
+	url = https://github.com/cran/mra
 [submodule "mratios"]
 	path = mratios
 	url = https://github.com/cran/mratios
@@ -60218,6 +60227,9 @@
 [submodule "taxalight"]
 	path = taxalight
 	url = https://github.com/cran/taxalight
+[submodule "taxize"]
+	path = taxize
+	url = https://github.com/cran/taxize
 [submodule "taxizedb"]
 	path = taxizedb
 	url = https://github.com/cran/taxizedb
@@ -61664,6 +61676,9 @@
 [submodule "traipse"]
 	path = traipse
 	url = https://github.com/cran/traipse
+[submodule "traits"]
+	path = traits
+	url = https://github.com/cran/traits
 [submodule "traitstrap"]
 	path = traitstrap
 	url = https://github.com/cran/traitstrap
