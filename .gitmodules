@@ -200,6 +200,9 @@
 [submodule "ALFAM2"]
 	path = ALFAM2
 	url = https://github.com/cran/ALFAM2
+[submodule "ALLSPICER"]
+	path = ALLSPICER
+	url = https://github.com/cran/ALLSPICER
 [submodule "ALS"]
 	path = ALS
 	url = https://github.com/cran/ALS
@@ -7973,6 +7976,9 @@
 [submodule "InspectChangepoint"]
 	path = InspectChangepoint
 	url = https://github.com/cran/InspectChangepoint
+[submodule "InspectionPlanner"]
+	path = InspectionPlanner
+	url = https://github.com/cran/InspectionPlanner
 [submodule "InsuSensCalc"]
 	path = InsuSensCalc
 	url = https://github.com/cran/InsuSensCalc
@@ -10925,6 +10931,9 @@
 [submodule "NSO1212"]
 	path = NSO1212
 	url = https://github.com/cran/NSO1212
+[submodule "NSR"]
+	path = NSR
+	url = https://github.com/cran/NSR
 [submodule "NST"]
 	path = NST
 	url = https://github.com/cran/NST
@@ -23558,6 +23567,9 @@
 [submodule "carbondate"]
 	path = carbondate
 	url = https://github.com/cran/carbondate
+[submodule "carbonr"]
+	path = carbonr
+	url = https://github.com/cran/carbonr
 [submodule "carcass"]
 	path = carcass
 	url = https://github.com/cran/carcass
@@ -26738,6 +26750,9 @@
 [submodule "ctxR"]
 	path = ctxR
 	url = https://github.com/cran/ctxR
+[submodule "ctypesio"]
+	path = ctypesio
+	url = https://github.com/cran/ctypesio
 [submodule "cuRe"]
 	path = cuRe
 	url = https://github.com/cran/cuRe
@@ -26894,6 +26909,9 @@
 [submodule "cvcrand"]
 	path = cvcrand
 	url = https://github.com/cran/cvcrand
+[submodule "cvdprevent"]
+	path = cvdprevent
+	url = https://github.com/cran/cvdprevent
 [submodule "cvequality"]
 	path = cvequality
 	url = https://github.com/cran/cvequality
@@ -36743,6 +36761,9 @@
 [submodule "hollr"]
 	path = hollr
 	url = https://github.com/cran/hollr
+[submodule "holobiont"]
+	path = holobiont
+	url = https://github.com/cran/holobiont
 [submodule "holodeck"]
 	path = holodeck
 	url = https://github.com/cran/holodeck
@@ -39056,6 +39077,9 @@
 [submodule "kazaam"]
 	path = kazaam
 	url = https://github.com/cran/kazaam
+[submodule "kbal"]
+	path = kbal
+	url = https://github.com/cran/kbal
 [submodule "kcmeans"]
 	path = kcmeans
 	url = https://github.com/cran/kcmeans
@@ -44480,6 +44504,9 @@
 [submodule "multiwayvcov"]
 	path = multiwayvcov
 	url = https://github.com/cran/multiwayvcov
+[submodule "multpois"]
+	path = multpois
+	url = https://github.com/cran/multpois
 [submodule "multxpert"]
 	path = multxpert
 	url = https://github.com/cran/multxpert
@@ -64019,6 +64046,9 @@
 [submodule "winputall"]
 	path = winputall
 	url = https://github.com/cran/winputall
+[submodule "winr"]
+	path = winr
+	url = https://github.com/cran/winr
 [submodule "wintime"]
 	path = wintime
 	url = https://github.com/cran/wintime
