@@ -7010,6 +7010,9 @@
 [submodule "HCmodelSets"]
 	path = HCmodelSets
 	url = https://github.com/cran/HCmodelSets
+[submodule "HDANOVA"]
+	path = HDANOVA
+	url = https://github.com/cran/HDANOVA
 [submodule "HDBRR"]
 	path = HDBRR
 	url = https://github.com/cran/HDBRR
