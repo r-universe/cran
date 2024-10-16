@@ -29414,6 +29414,9 @@
 [submodule "easySdcTable"]
 	path = easySdcTable
 	url = https://github.com/cran/easySdcTable
+[submodule "easySimData"]
+	path = easySimData
+	url = https://github.com/cran/easySimData
 [submodule "easyVerification"]
 	path = easyVerification
 	url = https://github.com/cran/easyVerification
