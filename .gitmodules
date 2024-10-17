@@ -10364,6 +10364,9 @@
 [submodule "MixGHD"]
 	path = MixGHD
 	url = https://github.com/cran/MixGHD
+[submodule "MixLFA"]
+	path = MixLFA
+	url = https://github.com/cran/MixLFA
 [submodule "MixMatrix"]
 	path = MixMatrix
 	url = https://github.com/cran/MixMatrix
@@ -28130,6 +28133,9 @@
 [submodule "diceR"]
 	path = diceR
 	url = https://github.com/cran/diceR
+[submodule "diceplot"]
+	path = diceplot
+	url = https://github.com/cran/diceplot
 [submodule "dichromat"]
 	path = dichromat
 	url = https://github.com/cran/dichromat
