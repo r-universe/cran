@@ -8360,6 +8360,9 @@
 [submodule "Kendall"]
 	path = Kendall
 	url = https://github.com/cran/Kendall
+[submodule "Keng"]
+	path = Keng
+	url = https://github.com/cran/Keng
 [submodule "KernSmooth"]
 	path = KernSmooth
 	url = https://github.com/cran/KernSmooth
@@ -37799,6 +37802,9 @@
 [submodule "imt"]
 	path = imt
 	url = https://github.com/cran/imt
+[submodule "imuf"]
+	path = imuf
+	url = https://github.com/cran/imuf
 [submodule "in2extRemes"]
 	path = in2extRemes
 	url = https://github.com/cran/in2extRemes
