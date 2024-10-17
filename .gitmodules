@@ -13517,6 +13517,9 @@
 [submodule "RESI"]
 	path = RESI
 	url = https://github.com/cran/RESI
+[submodule "RESIDE"]
+	path = RESIDE
+	url = https://github.com/cran/RESIDE
 [submodule "RESS"]
 	path = RESS
 	url = https://github.com/cran/RESS
@@ -18083,6 +18086,9 @@
 [submodule "TensorTest2D"]
 	path = TensorTest2D
 	url = https://github.com/cran/TensorTest2D
+[submodule "TensorTools"]
+	path = TensorTools
+	url = https://github.com/cran/TensorTools
 [submodule "Ternary"]
 	path = Ternary
 	url = https://github.com/cran/Ternary
@@ -24464,6 +24470,9 @@
 [submodule "circlize"]
 	path = circlize
 	url = https://github.com/cran/circlize
+[submodule "circlus"]
+	path = circlus
+	url = https://github.com/cran/circlus
 [submodule "circular"]
 	path = circular
 	url = https://github.com/cran/circular
@@ -31085,6 +31094,9 @@
 [submodule "ezCutoffs"]
 	path = ezCutoffs
 	url = https://github.com/cran/ezCutoffs
+[submodule "ezECM"]
+	path = ezECM
+	url = https://github.com/cran/ezECM
 [submodule "ezEDA"]
 	path = ezEDA
 	url = https://github.com/cran/ezEDA
