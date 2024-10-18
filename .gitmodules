@@ -1172,9 +1172,6 @@
 [submodule "BOJ"]
 	path = BOJ
 	url = https://github.com/cran/BOJ
-[submodule "BOSO"]
-	path = BOSO
-	url = https://github.com/cran/BOSO
 [submodule "BOSSreg"]
 	path = BOSSreg
 	url = https://github.com/cran/BOSSreg
@@ -5702,9 +5699,6 @@
 [submodule "FeatureTerminatoR"]
 	path = FeatureTerminatoR
 	url = https://github.com/cran/FeatureTerminatoR
-[submodule "FedData"]
-	path = FedData
-	url = https://github.com/cran/FedData
 [submodule "FedIRT"]
 	path = FedIRT
 	url = https://github.com/cran/FedIRT
@@ -11642,9 +11636,6 @@
 [submodule "PANACEA"]
 	path = PANACEA
 	url = https://github.com/cran/PANACEA
-[submodule "PANPRSnext"]
-	path = PANPRSnext
-	url = https://github.com/cran/PANPRSnext
 [submodule "PAS"]
 	path = PAS
 	url = https://github.com/cran/PAS
@@ -12224,9 +12215,6 @@
 [submodule "PUMP"]
 	path = PUMP
 	url = https://github.com/cran/PUMP
-[submodule "PUPAIM"]
-	path = PUPAIM
-	url = https://github.com/cran/PUPAIM
 [submodule "PUPAK"]
 	path = PUPAK
 	url = https://github.com/cran/PUPAK
@@ -12263,9 +12251,6 @@
 [submodule "PaLMr"]
 	path = PaLMr
 	url = https://github.com/cran/PaLMr
-[submodule "PaRe"]
-	path = PaRe
-	url = https://github.com/cran/PaRe
 [submodule "Pade"]
 	path = Pade
 	url = https://github.com/cran/Pade
@@ -17396,9 +17381,6 @@
 [submodule "StroupGLMM"]
 	path = StroupGLMM
 	url = https://github.com/cran/StroupGLMM
-[submodule "StrucDiv"]
-	path = StrucDiv
-	url = https://github.com/cran/StrucDiv
 [submodule "StructuralDecompose"]
 	path = StructuralDecompose
 	url = https://github.com/cran/StructuralDecompose
@@ -18881,9 +18863,6 @@
 [submodule "WEGE"]
 	path = WEGE
 	url = https://github.com/cran/WEGE
-[submodule "WES"]
-	path = WES
-	url = https://github.com/cran/WES
 [submodule "WGCNA"]
 	path = WGCNA
 	url = https://github.com/cran/WGCNA
@@ -20402,9 +20381,6 @@
 [submodule "aod"]
 	path = aod
 	url = https://github.com/cran/aod
-[submodule "aods3"]
-	path = aods3
-	url = https://github.com/cran/aods3
 [submodule "aoos"]
 	path = aoos
 	url = https://github.com/cran/aoos
@@ -20564,9 +20540,6 @@
 [submodule "arcgeocoder"]
 	path = arcgeocoder
 	url = https://github.com/cran/arcgeocoder
-[submodule "arcgis"]
-	path = arcgis
-	url = https://github.com/cran/arcgis
 [submodule "arcgisgeocode"]
 	path = arcgisgeocode
 	url = https://github.com/cran/arcgisgeocode
@@ -25586,9 +25559,6 @@
 [submodule "conductor"]
 	path = conductor
 	url = https://github.com/cran/conductor
-[submodule "condusco"]
-	path = condusco
-	url = https://github.com/cran/condusco
 [submodule "condvis"]
 	path = condvis
 	url = https://github.com/cran/condvis
@@ -28289,9 +28259,6 @@
 [submodule "dipm"]
 	path = dipm
 	url = https://github.com/cran/dipm
-[submodule "diproperm"]
-	path = diproperm
-	url = https://github.com/cran/diproperm
 [submodule "dipsaus"]
 	path = dipsaus
 	url = https://github.com/cran/dipsaus
@@ -31430,9 +31397,6 @@
 [submodule "fastM"]
 	path = fastM
 	url = https://github.com/cran/fastM
-[submodule "fastMatMR"]
-	path = fastMatMR
-	url = https://github.com/cran/fastMatMR
 [submodule "fastNaiveBayes"]
 	path = fastNaiveBayes
 	url = https://github.com/cran/fastNaiveBayes
@@ -38261,9 +38225,6 @@
 [submodule "ionr"]
 	path = ionr
 	url = https://github.com/cran/ionr
-[submodule "iopspackage"]
-	path = iopspackage
-	url = https://github.com/cran/iopspackage
 [submodule "iopsych"]
 	path = iopsych
 	url = https://github.com/cran/iopsych
@@ -46193,9 +46154,6 @@
 [submodule "obsSens"]
 	path = obsSens
 	url = https://github.com/cran/obsSens
-[submodule "observer"]
-	path = observer
-	url = https://github.com/cran/observer
 [submodule "oc"]
 	path = oc
 	url = https://github.com/cran/oc
@@ -47171,9 +47129,6 @@
 [submodule "pack"]
 	path = pack
 	url = https://github.com/cran/pack
-[submodule "packDAMipd"]
-	path = packDAMipd
-	url = https://github.com/cran/packDAMipd
 [submodule "packHV"]
 	path = packHV
 	url = https://github.com/cran/packHV
@@ -55853,9 +55808,6 @@
 [submodule "semPower"]
 	path = semPower
 	url = https://github.com/cran/semPower
-[submodule "semTests"]
-	path = semTests
-	url = https://github.com/cran/semTests
 [submodule "semTools"]
 	path = semTools
 	url = https://github.com/cran/semTools
@@ -58982,9 +58934,6 @@
 [submodule "stationaRy"]
 	path = stationaRy
 	url = https://github.com/cran/stationaRy
-[submodule "stationery"]
-	path = stationery
-	url = https://github.com/cran/stationery
 [submodule "statip"]
 	path = statip
 	url = https://github.com/cran/statip
@@ -59732,9 +59681,6 @@
 [submodule "survival.svb"]
 	path = survival.svb
 	url = https://github.com/cran/survival.svb
-[submodule "survival666"]
-	path = survival666
-	url = https://github.com/cran/survival666
 [submodule "survivalAnalysis"]
 	path = survivalAnalysis
 	url = https://github.com/cran/survivalAnalysis
@@ -61880,9 +61826,6 @@
 [submodule "treebase"]
 	path = treebase
 	url = https://github.com/cran/treebase
-[submodule "treedata.table"]
-	path = treedata.table
-	url = https://github.com/cran/treedata.table
 [submodule "treedater"]
 	path = treedater
 	url = https://github.com/cran/treedater
