@@ -11237,6 +11237,9 @@
 [submodule "ODS"]
 	path = ODS
 	url = https://github.com/cran/ODS
+[submodule "ODT"]
+	path = ODT
+	url = https://github.com/cran/ODT
 [submodule "ODataQuery"]
 	path = ODataQuery
 	url = https://github.com/cran/ODataQuery
@@ -12542,6 +12545,9 @@
 [submodule "PlatformDesign"]
 	path = PlatformDesign
 	url = https://github.com/cran/PlatformDesign
+[submodule "Platypus"]
+	path = Platypus
+	url = https://github.com/cran/Platypus
 [submodule "PlayerChart"]
 	path = PlayerChart
 	url = https://github.com/cran/PlayerChart
@@ -35132,6 +35138,9 @@
 [submodule "gmpoly"]
 	path = gmpoly
 	url = https://github.com/cran/gmpoly
+[submodule "gmresls"]
+	path = gmresls
+	url = https://github.com/cran/gmresls
 [submodule "gms"]
 	path = gms
 	url = https://github.com/cran/gms
@@ -46520,6 +46529,9 @@
 [submodule "openEBGM"]
 	path = openEBGM
 	url = https://github.com/cran/openEBGM
+[submodule "openFDA"]
+	path = openFDA
+	url = https://github.com/cran/openFDA
 [submodule "openMSE"]
 	path = openMSE
 	url = https://github.com/cran/openMSE
@@ -48899,6 +48911,9 @@
 [submodule "plotscale"]
 	path = plotscale
 	url = https://github.com/cran/plotscale
+[submodule "plotscaper"]
+	path = plotscaper
+	url = https://github.com/cran/plotscaper
 [submodule "plotwidgets"]
 	path = plotwidgets
 	url = https://github.com/cran/plotwidgets
