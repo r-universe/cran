@@ -45635,9 +45635,6 @@
 [submodule "nntmvn"]
 	path = nntmvn
 	url = https://github.com/cran/nntmvn
-[submodule "noaaoceans"]
-	path = noaaoceans
-	url = https://github.com/cran/noaaoceans
 [submodule "noaastormevents"]
 	path = noaastormevents
 	url = https://github.com/cran/noaastormevents
@@ -46238,9 +46235,6 @@
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/cran/odbc
-[submodule "odbr"]
-	path = odbr
-	url = https://github.com/cran/odbr
 [submodule "oddnet"]
 	path = oddnet
 	url = https://github.com/cran/oddnet
@@ -50201,9 +50195,6 @@
 [submodule "psica"]
 	path = psica
 	url = https://github.com/cran/psica
-[submodule "psidR"]
-	path = psidR
-	url = https://github.com/cran/psidR
 [submodule "psidread"]
 	path = psidread
 	url = https://github.com/cran/psidread
