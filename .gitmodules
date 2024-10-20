@@ -58478,9 +58478,6 @@
 [submodule "spotidy"]
 	path = spotidy
 	url = https://github.com/cran/spotidy
-[submodule "spotifyr"]
-	path = spotifyr
-	url = https://github.com/cran/spotifyr
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
