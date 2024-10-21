@@ -8585,6 +8585,9 @@
 [submodule "LLM"]
 	path = LLM
 	url = https://github.com/cran/LLM
+[submodule "LLMR"]
+	path = LLMR
+	url = https://github.com/cran/LLMR
 [submodule "LLSR"]
 	path = LLSR
 	url = https://github.com/cran/LLSR
@@ -12626,6 +12629,9 @@
 [submodule "PolicyPortfolios"]
 	path = PolicyPortfolios
 	url = https://github.com/cran/PolicyPortfolios
+[submodule "Poly4AT"]
+	path = Poly4AT
+	url = https://github.com/cran/Poly4AT
 [submodule "PolyHaplotyper"]
 	path = PolyHaplotyper
 	url = https://github.com/cran/PolyHaplotyper
@@ -18638,6 +18644,9 @@
 [submodule "VDJgermlines"]
 	path = VDJgermlines
 	url = https://github.com/cran/VDJgermlines
+[submodule "VDPO"]
+	path = VDPO
+	url = https://github.com/cran/VDPO
 [submodule "VDSM"]
 	path = VDSM
 	url = https://github.com/cran/VDSM
@@ -23342,6 +23351,9 @@
 [submodule "cSEM"]
 	path = cSEM
 	url = https://github.com/cran/cSEM
+[submodule "cTMed"]
+	path = cTMed
+	url = https://github.com/cran/cTMed
 [submodule "cTOST"]
 	path = cTOST
 	url = https://github.com/cran/cTOST
@@ -27197,6 +27209,9 @@
 [submodule "data360r"]
 	path = data360r
 	url = https://github.com/cran/data360r
+[submodule "dataCompare"]
+	path = dataCompare
+	url = https://github.com/cran/dataCompare
 [submodule "dataCompareR"]
 	path = dataCompareR
 	url = https://github.com/cran/dataCompareR
@@ -30716,6 +30731,9 @@
 [submodule "evdbayes"]
 	path = evdbayes
 	url = https://github.com/cran/evdbayes
+[submodule "evenBreak"]
+	path = evenBreak
+	url = https://github.com/cran/evenBreak
 [submodule "event"]
 	path = event
 	url = https://github.com/cran/event
@@ -35579,6 +35597,9 @@
 [submodule "greencrab.toolkit"]
 	path = greencrab.toolkit
 	url = https://github.com/cran/greencrab.toolkit
+[submodule "greenfeedr"]
+	path = greenfeedr
+	url = https://github.com/cran/greenfeedr
 [submodule "gregRy"]
 	path = gregRy
 	url = https://github.com/cran/gregRy
@@ -48533,6 +48554,9 @@
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/cran/piggyback
+[submodule "pii"]
+	path = pii
+	url = https://github.com/cran/pii
 [submodule "pikchr"]
 	path = pikchr
 	url = https://github.com/cran/pikchr
@@ -52367,6 +52391,9 @@
 [submodule "reda"]
 	path = reda
 	url = https://github.com/cran/reda
+[submodule "redatam"]
+	path = redatam
+	url = https://github.com/cran/redatam
 [submodule "redbookperu"]
 	path = redbookperu
 	url = https://github.com/cran/redbookperu
@@ -61595,6 +61622,9 @@
 [submodule "tourr"]
 	path = tourr
 	url = https://github.com/cran/tourr
+[submodule "tower"]
+	path = tower
+	url = https://github.com/cran/tower
 [submodule "toweranNA"]
 	path = toweranNA
 	url = https://github.com/cran/toweranNA
@@ -61730,9 +61760,6 @@
 [submodule "tramvs"]
 	path = tramvs
 	url = https://github.com/cran/tramvs
-[submodule "tranSurv"]
-	path = tranSurv
-	url = https://github.com/cran/tranSurv
 [submodule "transPlotR"]
 	path = transPlotR
 	url = https://github.com/cran/transPlotR
