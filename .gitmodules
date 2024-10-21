@@ -12896,9 +12896,6 @@
 [submodule "PubMedWordcloud"]
 	path = PubMedWordcloud
 	url = https://github.com/cran/PubMedWordcloud
-[submodule "PublicWorksFinanceIT"]
-	path = PublicWorksFinanceIT
-	url = https://github.com/cran/PublicWorksFinanceIT
 [submodule "PublicationBias"]
 	path = PublicationBias
 	url = https://github.com/cran/PublicationBias
@@ -15593,9 +15590,6 @@
 [submodule "S7"]
 	path = S7
 	url = https://github.com/cran/S7
-[submodule "SACCR"]
-	path = SACCR
-	url = https://github.com/cran/SACCR
 [submodule "SADEG"]
 	path = SADEG
 	url = https://github.com/cran/SADEG
@@ -18269,9 +18263,6 @@
 [submodule "TrackReconstruction"]
 	path = TrackReconstruction
 	url = https://github.com/cran/TrackReconstruction
-[submodule "Trading"]
-	path = Trading
-	url = https://github.com/cran/Trading
 [submodule "TrafficBDE"]
 	path = TrafficBDE
 	url = https://github.com/cran/TrafficBDE
@@ -57248,9 +57239,6 @@
 [submodule "skylight"]
 	path = skylight
 	url = https://github.com/cran/skylight
-[submodule "skynet"]
-	path = skynet
-	url = https://github.com/cran/skynet
 [submodule "skyscapeR"]
 	path = skyscapeR
 	url = https://github.com/cran/skyscapeR
@@ -64310,9 +64298,6 @@
 [submodule "xSub"]
 	path = xSub
 	url = https://github.com/cran/xSub
-[submodule "xVA"]
-	path = xVA
-	url = https://github.com/cran/xVA
 [submodule "xadmix"]
 	path = xadmix
 	url = https://github.com/cran/xadmix
