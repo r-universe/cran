@@ -2396,6 +2396,9 @@
 [submodule "COVIDIBGE"]
 	path = COVIDIBGE
 	url = https://github.com/cran/COVIDIBGE
+[submodule "COveR"]
+	path = COveR
+	url = https://github.com/cran/COveR
 [submodule "CP"]
 	path = CP
 	url = https://github.com/cran/CP
@@ -9365,6 +9368,9 @@
 [submodule "MDplot"]
 	path = MDplot
 	url = https://github.com/cran/MDplot
+[submodule "MECfda"]
+	path = MECfda
+	url = https://github.com/cran/MECfda
 [submodule "MED"]
 	path = MED
 	url = https://github.com/cran/MED
@@ -11423,6 +11429,9 @@
 [submodule "OmopSketch"]
 	path = OmopSketch
 	url = https://github.com/cran/OmopSketch
+[submodule "OmopViewer"]
+	path = OmopViewer
+	url = https://github.com/cran/OmopViewer
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
@@ -19166,6 +19175,9 @@
 [submodule "XRSCC"]
 	path = XRSCC
 	url = https://github.com/cran/XRSCC
+[submodule "Xcertainty"]
+	path = Xcertainty
+	url = https://github.com/cran/Xcertainty
 [submodule "XiMpLe"]
 	path = XiMpLe
 	url = https://github.com/cran/XiMpLe
@@ -43946,6 +43958,9 @@
 [submodule "mpath"]
 	path = mpath
 	url = https://github.com/cran/mpath
+[submodule "mpathr"]
+	path = mpathr
+	url = https://github.com/cran/mpathr
 [submodule "mpathsenser"]
 	path = mpathsenser
 	url = https://github.com/cran/mpathsenser
@@ -49133,6 +49148,9 @@
 [submodule "poisson.glm.mix"]
 	path = poisson.glm.mix
 	url = https://github.com/cran/poisson.glm.mix
+[submodule "poissoned"]
+	path = poissoned
+	url = https://github.com/cran/poissoned
 [submodule "poissonreg"]
 	path = poissonreg
 	url = https://github.com/cran/poissonreg
@@ -55778,6 +55796,9 @@
 [submodule "segregatr"]
 	path = segregatr
 	url = https://github.com/cran/segregatr
+[submodule "segtest"]
+	path = segtest
+	url = https://github.com/cran/segtest
 [submodule "seguid"]
 	path = seguid
 	url = https://github.com/cran/seguid
@@ -58505,6 +58526,9 @@
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
+[submodule "spqdep"]
+	path = spqdep
+	url = https://github.com/cran/spqdep
 [submodule "spray"]
 	path = spray
 	url = https://github.com/cran/spray
@@ -58937,6 +58961,9 @@
 [submodule "statespacer"]
 	path = statespacer
 	url = https://github.com/cran/statespacer
+[submodule "statforbiology"]
+	path = statforbiology
+	url = https://github.com/cran/statforbiology
 [submodule "statgenGWAS"]
 	path = statgenGWAS
 	url = https://github.com/cran/statgenGWAS
