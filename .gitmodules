@@ -32303,6 +32303,9 @@
 [submodule "florabr"]
 	path = florabr
 	url = https://github.com/cran/florabr
+[submodule "flourishcharts"]
+	path = flourishcharts
+	url = https://github.com/cran/flourishcharts
 [submodule "flow"]
 	path = flow
 	url = https://github.com/cran/flow
