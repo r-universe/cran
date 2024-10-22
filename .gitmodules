@@ -34046,6 +34046,9 @@
 [submodule "gert"]
 	path = gert
 	url = https://github.com/cran/gert
+[submodule "gesca"]
+	path = gesca
+	url = https://github.com/cran/gesca
 [submodule "gesisdata"]
 	path = gesisdata
 	url = https://github.com/cran/gesisdata
