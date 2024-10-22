@@ -46337,6 +46337,9 @@
 [submodule "ofpetrial"]
 	path = ofpetrial
 	url = https://github.com/cran/ofpetrial
+[submodule "oglcnac"]
+	path = oglcnac
+	url = https://github.com/cran/oglcnac
 [submodule "oglmx"]
 	path = oglmx
 	url = https://github.com/cran/oglmx
@@ -61778,6 +61781,9 @@
 [submodule "tramvs"]
 	path = tramvs
 	url = https://github.com/cran/tramvs
+[submodule "tranSurv"]
+	path = tranSurv
+	url = https://github.com/cran/tranSurv
 [submodule "transPlotR"]
 	path = transPlotR
 	url = https://github.com/cran/transPlotR
