@@ -22475,9 +22475,6 @@
 [submodule "bit64"]
 	path = bit64
 	url = https://github.com/cran/bit64
-[submodule "bite"]
-	path = bite
-	url = https://github.com/cran/bite
 [submodule "bitmexr"]
 	path = bitmexr
 	url = https://github.com/cran/bitmexr
@@ -58574,9 +58571,6 @@
 [submodule "spsurvey"]
 	path = spsurvey
 	url = https://github.com/cran/spsurvey
-[submodule "spt"]
-	path = spt
-	url = https://github.com/cran/spt
 [submodule "sptotal"]
 	path = sptotal
 	url = https://github.com/cran/sptotal
