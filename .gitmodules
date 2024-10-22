@@ -16472,6 +16472,9 @@
 [submodule "SUMMER"]
 	path = SUMMER
 	url = https://github.com/cran/SUMMER
+[submodule "SUMO"]
+	path = SUMO
+	url = https://github.com/cran/SUMO
 [submodule "SUNGEO"]
 	path = SUNGEO
 	url = https://github.com/cran/SUNGEO
