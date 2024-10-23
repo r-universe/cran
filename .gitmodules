@@ -4523,6 +4523,9 @@
 [submodule "EBrank"]
 	path = EBrank
 	url = https://github.com/cran/EBrank
+[submodule "ECG"]
+	path = ECG
+	url = https://github.com/cran/ECG
 [submodule "ECGofTestDx"]
 	path = ECGofTestDx
 	url = https://github.com/cran/ECGofTestDx
@@ -8417,6 +8420,9 @@
 [submodule "Kpart"]
 	path = Kpart
 	url = https://github.com/cran/Kpart
+[submodule "KrakenR"]
+	path = KrakenR
+	url = https://github.com/cran/KrakenR
 [submodule "KraljicMatrix"]
 	path = KraljicMatrix
 	url = https://github.com/cran/KraljicMatrix
@@ -9677,6 +9683,9 @@
 [submodule "MNS"]
 	path = MNS
 	url = https://github.com/cran/MNS
+[submodule "MNormTest"]
+	path = MNormTest
+	url = https://github.com/cran/MNormTest
 [submodule "MOCCA"]
 	path = MOCCA
 	url = https://github.com/cran/MOCCA
@@ -9755,6 +9764,9 @@
 [submodule "MRCE"]
 	path = MRCE
 	url = https://github.com/cran/MRCE
+[submodule "MRCV"]
+	path = MRCV
+	url = https://github.com/cran/MRCV
 [submodule "MRFA"]
 	path = MRFA
 	url = https://github.com/cran/MRFA
@@ -10490,6 +10502,9 @@
 [submodule "MonoPoly"]
 	path = MonoPoly
 	url = https://github.com/cran/MonoPoly
+[submodule "MonotoneHazardRatio"]
+	path = MonotoneHazardRatio
+	url = https://github.com/cran/MonotoneHazardRatio
 [submodule "Monte.Carlo.se"]
 	path = Monte.Carlo.se
 	url = https://github.com/cran/Monte.Carlo.se
@@ -22148,6 +22163,9 @@
 [submodule "biglm"]
 	path = biglm
 	url = https://github.com/cran/biglm
+[submodule "biglmm"]
+	path = biglmm
+	url = https://github.com/cran/biglmm
 [submodule "bigmatch"]
 	path = bigmatch
 	url = https://github.com/cran/bigmatch
@@ -26300,6 +26318,9 @@
 [submodule "cpp11eigen"]
 	path = cpp11eigen
 	url = https://github.com/cran/cpp11eigen
+[submodule "cpp11tesseract"]
+	path = cpp11tesseract
+	url = https://github.com/cran/cpp11tesseract
 [submodule "cppRouting"]
 	path = cppRouting
 	url = https://github.com/cran/cppRouting
@@ -32348,6 +32369,9 @@
 [submodule "flux"]
 	path = flux
 	url = https://github.com/cran/flux
+[submodule "fluxfinder"]
+	path = fluxfinder
+	url = https://github.com/cran/fluxfinder
 [submodule "fluxible"]
 	path = fluxible
 	url = https://github.com/cran/fluxible
@@ -37427,6 +37451,9 @@
 [submodule "iccde"]
 	path = iccde
 	url = https://github.com/cran/iccde
+[submodule "iccmult"]
+	path = iccmult
+	url = https://github.com/cran/iccmult
 [submodule "icd.data"]
 	path = icd.data
 	url = https://github.com/cran/icd.data
