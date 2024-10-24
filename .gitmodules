@@ -1877,9 +1877,6 @@
 [submodule "BoundEdgeworth"]
 	path = BoundEdgeworth
 	url = https://github.com/cran/BoundEdgeworth
-[submodule "BoundaryStats"]
-	path = BoundaryStats
-	url = https://github.com/cran/BoundaryStats
 [submodule "BoutrosLab.plotting.general"]
 	path = BoutrosLab.plotting.general
 	url = https://github.com/cran/BoutrosLab.plotting.general
@@ -37487,6 +37484,9 @@
 [submodule "icesSAG"]
 	path = icesSAG
 	url = https://github.com/cran/icesSAG
+[submodule "icesSD"]
+	path = icesSD
+	url = https://github.com/cran/icesSD
 [submodule "icesTAF"]
 	path = icesTAF
 	url = https://github.com/cran/icesTAF
@@ -53126,9 +53126,6 @@
 [submodule "rgeoboundaries"]
 	path = rgeoboundaries
 	url = https://github.com/cran/rgeoboundaries
-[submodule "rgeoda"]
-	path = rgeoda
-	url = https://github.com/cran/rgeoda
 [submodule "rgeomstats"]
 	path = rgeomstats
 	url = https://github.com/cran/rgeomstats
@@ -58544,12 +58541,12 @@
 [submodule "spotidy"]
 	path = spotidy
 	url = https://github.com/cran/spotidy
+[submodule "spotifyr"]
+	path = spotifyr
+	url = https://github.com/cran/spotifyr
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
-[submodule "spqdep"]
-	path = spqdep
-	url = https://github.com/cran/spqdep
 [submodule "spray"]
 	path = spray
 	url = https://github.com/cran/spray
