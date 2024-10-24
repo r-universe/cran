@@ -353,6 +353,9 @@
 [submodule "ARTool"]
 	path = ARTool
 	url = https://github.com/cran/ARTool
+[submodule "ARTtransfer"]
+	path = ARTtransfer
+	url = https://github.com/cran/ARTtransfer
 [submodule "ARUtools"]
 	path = ARUtools
 	url = https://github.com/cran/ARUtools
@@ -776,6 +779,9 @@
 [submodule "AutoTransQF"]
 	path = AutoTransQF
 	url = https://github.com/cran/AutoTransQF
+[submodule "AutoWMM"]
+	path = AutoWMM
+	url = https://github.com/cran/AutoWMM
 [submodule "AutoWeatherIndices"]
 	path = AutoWeatherIndices
 	url = https://github.com/cran/AutoWeatherIndices
@@ -8201,6 +8207,9 @@
 [submodule "Jaya"]
 	path = Jaya
 	url = https://github.com/cran/Jaya
+[submodule "Jcvrisk"]
+	path = Jcvrisk
+	url = https://github.com/cran/Jcvrisk
 [submodule "Jdmbs"]
 	path = Jdmbs
 	url = https://github.com/cran/Jdmbs
@@ -10151,6 +10160,9 @@
 [submodule "MeTo"]
 	path = MeTo
 	url = https://github.com/cran/MeTo
+[submodule "MedDataSets"]
+	path = MedDataSets
+	url = https://github.com/cran/MedDataSets
 [submodule "MedDietCalc"]
 	path = MedDietCalc
 	url = https://github.com/cran/MedDietCalc
@@ -18830,6 +18842,9 @@
 [submodule "VisCollin"]
 	path = VisCollin
 	url = https://github.com/cran/VisCollin
+[submodule "VisCov"]
+	path = VisCov
+	url = https://github.com/cran/VisCov
 [submodule "VisitorCounts"]
 	path = VisitorCounts
 	url = https://github.com/cran/VisitorCounts
@@ -23684,6 +23699,9 @@
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/cran/cascadeSelect
+[submodule "cascadess"]
+	path = cascadess
+	url = https://github.com/cran/cascadess
 [submodule "cascsim"]
 	path = cascsim
 	url = https://github.com/cran/cascsim
@@ -38336,6 +38354,9 @@
 [submodule "ipcwswitch"]
 	path = ipcwswitch
 	url = https://github.com/cran/ipcwswitch
+[submodule "ipd"]
+	path = ipd
+	url = https://github.com/cran/ipd
 [submodule "ipdw"]
 	path = ipdw
 	url = https://github.com/cran/ipdw
@@ -41375,6 +41396,9 @@
 [submodule "maldipickr"]
 	path = maldipickr
 	url = https://github.com/cran/maldipickr
+[submodule "mall"]
+	path = mall
+	url = https://github.com/cran/mall
 [submodule "mallet"]
 	path = mallet
 	url = https://github.com/cran/mallet
@@ -49745,9 +49769,6 @@
 [submodule "prefeR"]
 	path = prefeR
 	url = https://github.com/cran/prefeR
-[submodule "preferably"]
-	path = preferably
-	url = https://github.com/cran/preferably
 [submodule "preference"]
 	path = preference
 	url = https://github.com/cran/preference
@@ -59513,6 +59534,9 @@
 [submodule "sugarbag"]
 	path = sugarbag
 	url = https://github.com/cran/sugarbag
+[submodule "sugarglider"]
+	path = sugarglider
+	url = https://github.com/cran/sugarglider
 [submodule "suggests"]
 	path = suggests
 	url = https://github.com/cran/suggests
