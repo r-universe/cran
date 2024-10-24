@@ -27380,9 +27380,6 @@
 [submodule "datefixR"]
 	path = datefixR
 	url = https://github.com/cran/datefixR
-[submodule "datelife"]
-	path = datelife
-	url = https://github.com/cran/datelife
 [submodule "daterangepicker"]
 	path = daterangepicker
 	url = https://github.com/cran/daterangepicker
@@ -32141,9 +32138,6 @@
 [submodule "fixedTimeEvents"]
 	path = fixedTimeEvents
 	url = https://github.com/cran/fixedTimeEvents
-[submodule "fixedincome"]
-	path = fixedincome
-	url = https://github.com/cran/fixedincome
 [submodule "fixedpointproperty"]
 	path = fixedpointproperty
 	url = https://github.com/cran/fixedpointproperty
@@ -51881,9 +51875,6 @@
 [submodule "rayvertex"]
 	path = rayvertex
 	url = https://github.com/cran/rayvertex
-[submodule "rb3"]
-	path = rb3
-	url = https://github.com/cran/rb3
 [submodule "rbacon"]
 	path = rbacon
 	url = https://github.com/cran/rbacon
@@ -52472,9 +52463,6 @@
 [submodule "ref.ICAR"]
 	path = ref.ICAR
 	url = https://github.com/cran/ref.ICAR
-[submodule "refdb"]
-	path = refdb
-	url = https://github.com/cran/refdb
 [submodule "refer"]
 	path = refer
 	url = https://github.com/cran/refer
