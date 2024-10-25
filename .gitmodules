@@ -22763,9 +22763,6 @@
 [submodule "bolasso"]
 	path = bolasso
 	url = https://github.com/cran/bolasso
-[submodule "bold"]
-	path = bold
-	url = https://github.com/cran/bold
 [submodule "bolsec"]
 	path = bolsec
 	url = https://github.com/cran/bolsec
@@ -37499,6 +37496,9 @@
 [submodule "icesDatras"]
 	path = icesDatras
 	url = https://github.com/cran/icesDatras
+[submodule "icesDatsu"]
+	path = icesDatsu
+	url = https://github.com/cran/icesDatsu
 [submodule "icesSAG"]
 	path = icesSAG
 	url = https://github.com/cran/icesSAG
