@@ -1883,6 +1883,9 @@
 [submodule "BoundEdgeworth"]
 	path = BoundEdgeworth
 	url = https://github.com/cran/BoundEdgeworth
+[submodule "BoundaryStats"]
+	path = BoundaryStats
+	url = https://github.com/cran/BoundaryStats
 [submodule "BoutrosLab.plotting.general"]
 	path = BoutrosLab.plotting.general
 	url = https://github.com/cran/BoutrosLab.plotting.general
@@ -49769,6 +49772,9 @@
 [submodule "prefeR"]
 	path = prefeR
 	url = https://github.com/cran/prefeR
+[submodule "preferably"]
+	path = preferably
+	url = https://github.com/cran/preferably
 [submodule "preference"]
 	path = preference
 	url = https://github.com/cran/preference
@@ -53147,6 +53153,9 @@
 [submodule "rgeoboundaries"]
 	path = rgeoboundaries
 	url = https://github.com/cran/rgeoboundaries
+[submodule "rgeoda"]
+	path = rgeoda
+	url = https://github.com/cran/rgeoda
 [submodule "rgeomstats"]
 	path = rgeomstats
 	url = https://github.com/cran/rgeomstats
@@ -58568,6 +58577,9 @@
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
+[submodule "spqdep"]
+	path = spqdep
+	url = https://github.com/cran/spqdep
 [submodule "spray"]
 	path = spray
 	url = https://github.com/cran/spray
