@@ -1448,9 +1448,6 @@
 [submodule "BayesMallows"]
 	path = BayesMallows
 	url = https://github.com/cran/BayesMallows
-[submodule "BayesMassBal"]
-	path = BayesMassBal
-	url = https://github.com/cran/BayesMassBal
 [submodule "BayesMixSurv"]
 	path = BayesMixSurv
 	url = https://github.com/cran/BayesMixSurv
@@ -4562,9 +4559,6 @@
 [submodule "ECoL"]
 	path = ECoL
 	url = https://github.com/cran/ECoL
-[submodule "EDA"]
-	path = EDA
-	url = https://github.com/cran/EDA
 [submodule "EDCimport"]
 	path = EDCimport
 	url = https://github.com/cran/EDCimport
@@ -7208,9 +7202,6 @@
 [submodule "HRW"]
 	path = HRW
 	url = https://github.com/cran/HRW
-[submodule "HS"]
-	path = HS
-	url = https://github.com/cran/HS
 [submodule "HSAUR"]
 	path = HSAUR
 	url = https://github.com/cran/HSAUR
@@ -7595,9 +7586,6 @@
 [submodule "IDPmisc"]
 	path = IDPmisc
 	url = https://github.com/cran/IDPmisc
-[submodule "IDSA"]
-	path = IDSA
-	url = https://github.com/cran/IDSA
 [submodule "IDSL.CSA"]
 	path = IDSL.CSA
 	url = https://github.com/cran/IDSL.CSA
@@ -7751,9 +7739,6 @@
 [submodule "IPCWK"]
 	path = IPCWK
 	url = https://github.com/cran/IPCWK
-[submodule "IPDFileCheck"]
-	path = IPDFileCheck
-	url = https://github.com/cran/IPDFileCheck
 [submodule "IPDfromKM"]
 	path = IPDfromKM
 	url = https://github.com/cran/IPDfromKM
@@ -56504,9 +56489,6 @@
 [submodule "shiny.telemetry"]
 	path = shiny.telemetry
 	url = https://github.com/cran/shiny.telemetry
-[submodule "shiny.worker"]
-	path = shiny.worker
-	url = https://github.com/cran/shiny.worker
 [submodule "shinyAce"]
 	path = shinyAce
 	url = https://github.com/cran/shinyAce
@@ -63476,9 +63458,6 @@
 [submodule "visachartR"]
 	path = visachartR
 	url = https://github.com/cran/visachartR
-[submodule "visae"]
-	path = visae
-	url = https://github.com/cran/visae
 [submodule "viscomp"]
 	path = viscomp
 	url = https://github.com/cran/viscomp
