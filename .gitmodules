@@ -995,9 +995,6 @@
 [submodule "BEND"]
 	path = BEND
 	url = https://github.com/cran/BEND
-[submodule "BENMMI"]
-	path = BENMMI
-	url = https://github.com/cran/BENMMI
 [submodule "BESTree"]
 	path = BESTree
 	url = https://github.com/cran/BESTree
