@@ -12845,6 +12845,9 @@
 [submodule "ProTrackR"]
 	path = ProTrackR
 	url = https://github.com/cran/ProTrackR
+[submodule "ProTrackR2"]
+	path = ProTrackR2
+	url = https://github.com/cran/ProTrackR2
 [submodule "ProbBayes"]
 	path = ProbBayes
 	url = https://github.com/cran/ProbBayes
@@ -16793,6 +16796,9 @@
 [submodule "ShinyTester"]
 	path = ShinyTester
 	url = https://github.com/cran/ShinyTester
+[submodule "ShinyWizard"]
+	path = ShinyWizard
+	url = https://github.com/cran/ShinyWizard
 [submodule "ShortForm"]
 	path = ShortForm
 	url = https://github.com/cran/ShortForm
@@ -22043,6 +22049,9 @@
 [submodule "bfp"]
 	path = bfp
 	url = https://github.com/cran/bfp
+[submodule "bfpwr"]
+	path = bfpwr
+	url = https://github.com/cran/bfpwr
 [submodule "bfsMaps"]
 	path = bfsMaps
 	url = https://github.com/cran/bfsMaps
@@ -24614,6 +24623,9 @@
 [submodule "classInt"]
 	path = classInt
 	url = https://github.com/cran/classInt
+[submodule "classicaltest"]
+	path = classicaltest
+	url = https://github.com/cran/classicaltest
 [submodule "classifierplots"]
 	path = classifierplots
 	url = https://github.com/cran/classifierplots
@@ -30197,6 +30209,9 @@
 [submodule "encryptr"]
 	path = encryptr
 	url = https://github.com/cran/encryptr
+[submodule "enderecobr"]
+	path = enderecobr
+	url = https://github.com/cran/enderecobr
 [submodule "endoSwitch"]
 	path = endoSwitch
 	url = https://github.com/cran/endoSwitch
@@ -31139,6 +31154,9 @@
 [submodule "eyelinker"]
 	path = eyelinker
 	url = https://github.com/cran/eyelinker
+[submodule "eyetools"]
+	path = eyetools
+	url = https://github.com/cran/eyetools
 [submodule "eyetrackingR"]
 	path = eyetrackingR
 	url = https://github.com/cran/eyetrackingR
@@ -31550,6 +31568,9 @@
 [submodule "fastcpd"]
 	path = fastcpd
 	url = https://github.com/cran/fastcpd
+[submodule "fastdid"]
+	path = fastdid
+	url = https://github.com/cran/fastdid
 [submodule "fastdigest"]
 	path = fastdigest
 	url = https://github.com/cran/fastdigest
@@ -34580,6 +34601,9 @@
 [submodule "ggpattern"]
 	path = ggpattern
 	url = https://github.com/cran/ggpattern
+[submodule "ggpca"]
+	path = ggpca
+	url = https://github.com/cran/ggpca
 [submodule "ggpcp"]
 	path = ggpcp
 	url = https://github.com/cran/ggpcp
@@ -37553,6 +37577,9 @@
 [submodule "icmm"]
 	path = icmm
 	url = https://github.com/cran/icmm
+[submodule "icmstate"]
+	path = icmstate
+	url = https://github.com/cran/icmstate
 [submodule "icosa"]
 	path = icosa
 	url = https://github.com/cran/icosa
@@ -43850,6 +43877,9 @@
 [submodule "monaco"]
 	path = monaco
 	url = https://github.com/cran/monaco
+[submodule "monad"]
+	path = monad
+	url = https://github.com/cran/monad
 [submodule "monashtipr"]
 	path = monashtipr
 	url = https://github.com/cran/monashtipr
@@ -48650,6 +48680,9 @@
 [submodule "picker"]
 	path = picker
 	url = https://github.com/cran/picker
+[submodule "picohdr"]
+	path = picohdr
+	url = https://github.com/cran/picohdr
 [submodule "pid"]
 	path = pid
 	url = https://github.com/cran/pid
@@ -49931,6 +49964,9 @@
 [submodule "prim"]
 	path = prim
 	url = https://github.com/cran/prim
+[submodule "primarycensored"]
+	path = primarycensored
+	url = https://github.com/cran/primarycensored
 [submodule "primate"]
 	path = primate
 	url = https://github.com/cran/primate
@@ -60356,6 +60392,9 @@
 [submodule "tangram.pipe"]
 	path = tangram.pipe
 	url = https://github.com/cran/tangram.pipe
+[submodule "tapLock"]
+	path = tapLock
+	url = https://github.com/cran/tapLock
 [submodule "tapkee"]
 	path = tapkee
 	url = https://github.com/cran/tapkee
