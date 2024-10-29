@@ -17810,6 +17810,9 @@
 [submodule "TML"]
 	path = TML
 	url = https://github.com/cran/TML
+[submodule "TMTI"]
+	path = TMTI
+	url = https://github.com/cran/TMTI
 [submodule "TNC"]
 	path = TNC
 	url = https://github.com/cran/TNC
@@ -28160,6 +28163,9 @@
 [submodule "dhh"]
 	path = dhh
 	url = https://github.com/cran/dhh
+[submodule "dhis2r"]
+	path = dhis2r
+	url = https://github.com/cran/dhis2r
 [submodule "dhlabR"]
 	path = dhlabR
 	url = https://github.com/cran/dhlabR
