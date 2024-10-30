@@ -12938,6 +12938,9 @@
 [submodule "PubMedWordcloud"]
 	path = PubMedWordcloud
 	url = https://github.com/cran/PubMedWordcloud
+[submodule "PublicWorksFinanceIT"]
+	path = PublicWorksFinanceIT
+	url = https://github.com/cran/PublicWorksFinanceIT
 [submodule "PublicationBias"]
 	path = PublicationBias
 	url = https://github.com/cran/PublicationBias
@@ -27014,9 +27017,6 @@
 [submodule "cvwrapr"]
 	path = cvwrapr
 	url = https://github.com/cran/cvwrapr
-[submodule "cwbtools"]
-	path = cwbtools
-	url = https://github.com/cran/cwbtools
 [submodule "cwot"]
 	path = cwot
 	url = https://github.com/cran/cwot
@@ -44873,6 +44873,9 @@
 [submodule "mwshiny"]
 	path = mwshiny
 	url = https://github.com/cran/mwshiny
+[submodule "mxcc"]
+	path = mxcc
+	url = https://github.com/cran/mxcc
 [submodule "mxfda"]
 	path = mxfda
 	url = https://github.com/cran/mxfda
@@ -52556,6 +52559,9 @@
 [submodule "redatam"]
 	path = redatam
 	url = https://github.com/cran/redatam
+[submodule "redatamx"]
+	path = redatamx
+	url = https://github.com/cran/redatamx
 [submodule "redbookperu"]
 	path = redbookperu
 	url = https://github.com/cran/redbookperu
@@ -60452,9 +60458,6 @@
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/cran/taxize
-[submodule "taxizedb"]
-	path = taxizedb
-	url = https://github.com/cran/taxizedb
 [submodule "taxlist"]
 	path = taxlist
 	url = https://github.com/cran/taxlist
