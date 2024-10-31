@@ -1967,6 +1967,9 @@
 [submodule "CACIMAR"]
 	path = CACIMAR
 	url = https://github.com/cran/CACIMAR
+[submodule "CADF"]
+	path = CADF
+	url = https://github.com/cran/CADF
 [submodule "CADFtest"]
 	path = CADFtest
 	url = https://github.com/cran/CADFtest
