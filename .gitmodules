@@ -1250,6 +1250,9 @@
 [submodule "BSSprep"]
 	path = BSSprep
 	url = https://github.com/cran/BSSprep
+[submodule "BSTZINB"]
+	path = BSTZINB
+	url = https://github.com/cran/BSTZINB
 [submodule "BSW"]
 	path = BSW
 	url = https://github.com/cran/BSW
@@ -8840,6 +8843,9 @@
 [submodule "LaplacesDemon"]
 	path = LaplacesDemon
 	url = https://github.com/cran/LaplacesDemon
+[submodule "Largevars"]
+	path = Largevars
+	url = https://github.com/cran/Largevars
 [submodule "LassoBacktracking"]
 	path = LassoBacktracking
 	url = https://github.com/cran/LassoBacktracking
@@ -17462,6 +17468,9 @@
 [submodule "SubtypeDrug"]
 	path = SubtypeDrug
 	url = https://github.com/cran/SubtypeDrug
+[submodule "SudokuDesigns"]
+	path = SudokuDesigns
+	url = https://github.com/cran/SudokuDesigns
 [submodule "SuessR"]
 	path = SuessR
 	url = https://github.com/cran/SuessR
@@ -27455,6 +27464,9 @@
 [submodule "dauphin"]
 	path = dauphin
 	url = https://github.com/cran/dauphin
+[submodule "dawaR"]
+	path = dawaR
+	url = https://github.com/cran/dawaR
 [submodule "dawai"]
 	path = dawai
 	url = https://github.com/cran/dawai
@@ -29090,6 +29102,9 @@
 [submodule "dsTidyverse"]
 	path = dsTidyverse
 	url = https://github.com/cran/dsTidyverse
+[submodule "dsTidyverseClient"]
+	path = dsTidyverseClient
+	url = https://github.com/cran/dsTidyverseClient
 [submodule "dsa"]
 	path = dsa
 	url = https://github.com/cran/dsa
@@ -38393,6 +38408,9 @@
 [submodule "ip2location"]
 	path = ip2location
 	url = https://github.com/cran/ip2location
+[submodule "ip2locationio"]
+	path = ip2locationio
+	url = https://github.com/cran/ip2locationio
 [submodule "ip2proxy"]
 	path = ip2proxy
 	url = https://github.com/cran/ip2proxy
@@ -41564,6 +41582,9 @@
 [submodule "mapi"]
 	path = mapi
 	url = https://github.com/cran/mapi
+[submodule "mapindiatools"]
+	path = mapindiatools
+	url = https://github.com/cran/mapindiatools
 [submodule "mapiso"]
 	path = mapiso
 	url = https://github.com/cran/mapiso
@@ -63248,6 +63269,9 @@
 [submodule "vcfppR"]
 	path = vcfppR
 	url = https://github.com/cran/vcfppR
+[submodule "vchartr"]
+	path = vchartr
+	url = https://github.com/cran/vchartr
 [submodule "vcmeta"]
 	path = vcmeta
 	url = https://github.com/cran/vcmeta
