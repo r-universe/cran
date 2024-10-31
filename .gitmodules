@@ -37937,9 +37937,6 @@
 [submodule "imt"]
 	path = imt
 	url = https://github.com/cran/imt
-[submodule "imuf"]
-	path = imuf
-	url = https://github.com/cran/imuf
 [submodule "in2extRemes"]
 	path = in2extRemes
 	url = https://github.com/cran/in2extRemes
