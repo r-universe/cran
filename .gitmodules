@@ -8537,9 +8537,6 @@
 [submodule "LDAvis"]
 	path = LDAvis
 	url = https://github.com/cran/LDAvis
-[submodule "LDLcalc"]
-	path = LDLcalc
-	url = https://github.com/cran/LDLcalc
 [submodule "LDM"]
 	path = LDM
 	url = https://github.com/cran/LDM
@@ -8648,9 +8645,6 @@
 [submodule "LOGAN"]
 	path = LOGAN
 	url = https://github.com/cran/LOGAN
-[submodule "LOGANTree"]
-	path = LOGANTree
-	url = https://github.com/cran/LOGANTree
 [submodule "LOMAR"]
 	path = LOMAR
 	url = https://github.com/cran/LOMAR
