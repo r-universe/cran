@@ -11321,6 +11321,9 @@
 [submodule "OPI"]
 	path = OPI
 	url = https://github.com/cran/OPI
+[submodule "OPSR"]
+	path = OPSR
+	url = https://github.com/cran/OPSR
 [submodule "OPTS"]
 	path = OPTS
 	url = https://github.com/cran/OPTS
@@ -16691,6 +16694,9 @@
 [submodule "SenTinMixt"]
 	path = SenTinMixt
 	url = https://github.com/cran/SenTinMixt
+[submodule "SensIAT"]
+	path = SensIAT
+	url = https://github.com/cran/SensIAT
 [submodule "SensMap"]
 	path = SensMap
 	url = https://github.com/cran/SensMap
@@ -17312,6 +17318,9 @@
 [submodule "StReg"]
 	path = StReg
 	url = https://github.com/cran/StReg
+[submodule "StabilityApp"]
+	path = StabilityApp
+	url = https://github.com/cran/StabilityApp
 [submodule "StabilizedRegression"]
 	path = StabilizedRegression
 	url = https://github.com/cran/StabilizedRegression
@@ -31673,6 +31682,9 @@
 [submodule "fauxpas"]
 	path = fauxpas
 	url = https://github.com/cran/fauxpas
+[submodule "favawesome"]
+	path = favawesome
+	url = https://github.com/cran/favawesome
 [submodule "faviconPlease"]
 	path = faviconPlease
 	url = https://github.com/cran/faviconPlease
@@ -35339,6 +35351,9 @@
 [submodule "gofCopula"]
 	path = gofCopula
 	url = https://github.com/cran/gofCopula
+[submodule "gofIG"]
+	path = gofIG
+	url = https://github.com/cran/gofIG
 [submodule "gofar"]
 	path = gofar
 	url = https://github.com/cran/gofar
@@ -40178,6 +40193,9 @@
 [submodule "lefko3"]
 	path = lefko3
 	url = https://github.com/cran/lefko3
+[submodule "legendry"]
+	path = legendry
+	url = https://github.com/cran/legendry
 [submodule "legion"]
 	path = legion
 	url = https://github.com/cran/legion
@@ -49604,6 +49622,9 @@
 [submodule "potential"]
 	path = potential
 	url = https://github.com/cran/potential
+[submodule "poth"]
+	path = poth
+	url = https://github.com/cran/poth
 [submodule "potions"]
 	path = potions
 	url = https://github.com/cran/potions
@@ -52175,6 +52196,9 @@
 [submodule "rcoder"]
 	path = rcoder
 	url = https://github.com/cran/rcoder
+[submodule "rcollectadhd"]
+	path = rcollectadhd
+	url = https://github.com/cran/rcollectadhd
 [submodule "rcolors"]
 	path = rcolors
 	url = https://github.com/cran/rcolors
@@ -58826,6 +58850,9 @@
 [submodule "srp"]
 	path = srp
 	url = https://github.com/cran/srp
+[submodule "srppp"]
+	path = srppp
+	url = https://github.com/cran/srppp
 [submodule "srt"]
 	path = srt
 	url = https://github.com/cran/srt
@@ -59876,6 +59903,9 @@
 [submodule "surveydata"]
 	path = surveydata
 	url = https://github.com/cran/surveydata
+[submodule "surveydown"]
+	path = surveydown
+	url = https://github.com/cran/surveydown
 [submodule "surveyexplorer"]
 	path = surveyexplorer
 	url = https://github.com/cran/surveyexplorer
