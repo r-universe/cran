@@ -36017,9 +36017,6 @@
 [submodule "gtexture"]
 	path = gtexture
 	url = https://github.com/cran/gtexture
-[submodule "gtfs2emis"]
-	path = gtfs2emis
-	url = https://github.com/cran/gtfs2emis
 [submodule "gtfs2gps"]
 	path = gtfs2gps
 	url = https://github.com/cran/gtfs2gps
