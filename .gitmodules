@@ -3161,6 +3161,9 @@
 [submodule "ConfIntVariance"]
 	path = ConfIntVariance
 	url = https://github.com/cran/ConfIntVariance
+[submodule "ConfMatrix"]
+	path = ConfMatrix
+	url = https://github.com/cran/ConfMatrix
 [submodule "ConfZIC"]
 	path = ConfZIC
 	url = https://github.com/cran/ConfZIC
@@ -12008,6 +12011,9 @@
 [submodule "POD"]
 	path = POD
 	url = https://github.com/cran/POD
+[submodule "PODES"]
+	path = PODES
+	url = https://github.com/cran/PODES
 [submodule "POET"]
 	path = POET
 	url = https://github.com/cran/POET
@@ -36251,6 +36257,9 @@
 [submodule "handwriterApp"]
 	path = handwriterApp
 	url = https://github.com/cran/handwriterApp
+[submodule "handwriterRF"]
+	path = handwriterRF
+	url = https://github.com/cran/handwriterRF
 [submodule "handyFunctions"]
 	path = handyFunctions
 	url = https://github.com/cran/handyFunctions
