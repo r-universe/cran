@@ -44807,9 +44807,6 @@
 [submodule "mvdalab"]
 	path = mvdalab
 	url = https://github.com/cran/mvdalab
-[submodule "mverse"]
-	path = mverse
-	url = https://github.com/cran/mverse
 [submodule "mvgam"]
 	path = mvgam
 	url = https://github.com/cran/mvgam
@@ -62243,6 +62240,9 @@
 [submodule "trtf"]
 	path = trtf
 	url = https://github.com/cran/trtf
+[submodule "trtswitch"]
+	path = trtswitch
+	url = https://github.com/cran/trtswitch
 [submodule "trud"]
 	path = trud
 	url = https://github.com/cran/trud
