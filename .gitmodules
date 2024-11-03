@@ -45428,9 +45428,6 @@
 [submodule "neuroblastoma"]
 	path = neuroblastoma
 	url = https://github.com/cran/neuroblastoma
-[submodule "neurocInstall"]
-	path = neurocInstall
-	url = https://github.com/cran/neurocInstall
 [submodule "neurohcp"]
 	path = neurohcp
 	url = https://github.com/cran/neurohcp
@@ -58391,6 +58388,9 @@
 [submodule "spcadjust"]
 	path = spcadjust
 	url = https://github.com/cran/spcadjust
+[submodule "spconf"]
+	path = spconf
+	url = https://github.com/cran/spconf
 [submodule "spcosa"]
 	path = spcosa
 	url = https://github.com/cran/spcosa
