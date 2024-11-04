@@ -22094,9 +22094,6 @@
 [submodule "bgeva"]
 	path = bgeva
 	url = https://github.com/cran/bgeva
-[submodule "bggAnalytics"]
-	path = bggAnalytics
-	url = https://github.com/cran/bggAnalytics
 [submodule "bggum"]
 	path = bggum
 	url = https://github.com/cran/bggum
@@ -26486,9 +26483,6 @@
 [submodule "credule"]
 	path = credule
 	url = https://github.com/cran/credule
-[submodule "cregg"]
-	path = cregg
-	url = https://github.com/cran/cregg
 [submodule "crew"]
 	path = crew
 	url = https://github.com/cran/crew
