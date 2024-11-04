@@ -4832,6 +4832,9 @@
 [submodule "ETLUtils"]
 	path = ETLUtils
 	url = https://github.com/cran/ETLUtils
+[submodule "ETRep"]
+	path = ETRep
+	url = https://github.com/cran/ETRep
 [submodule "EUfootball"]
 	path = EUfootball
 	url = https://github.com/cran/EUfootball
@@ -10940,6 +10943,9 @@
 [submodule "NPCox"]
 	path = NPCox
 	url = https://github.com/cran/NPCox
+[submodule "NPFD"]
+	path = NPFD
+	url = https://github.com/cran/NPFD
 [submodule "NPHMC"]
 	path = NPHMC
 	url = https://github.com/cran/NPHMC
@@ -21110,9 +21116,6 @@
 [submodule "autoFRK"]
 	path = autoFRK
 	url = https://github.com/cran/autoFRK
-[submodule "autoGO"]
-	path = autoGO
-	url = https://github.com/cran/autoGO
 [submodule "autoMFA"]
 	path = autoMFA
 	url = https://github.com/cran/autoMFA
@@ -22652,9 +22655,6 @@
 [submodule "blockForest"]
 	path = blockForest
 	url = https://github.com/cran/blockForest
-[submodule "blockTools"]
-	path = blockTools
-	url = https://github.com/cran/blockTools
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cran/blockcluster
@@ -27353,9 +27353,6 @@
 [submodule "datafsm"]
 	path = datafsm
 	url = https://github.com/cran/datafsm
-[submodule "datagovsgR"]
-	path = datagovsgR
-	url = https://github.com/cran/datagovsgR
 [submodule "datamods"]
 	path = datamods
 	url = https://github.com/cran/datamods
@@ -28961,6 +28958,9 @@
 [submodule "dpcc"]
 	path = dpcc
 	url = https://github.com/cran/dpcc
+[submodule "dpkg"]
+	path = dpkg
+	url = https://github.com/cran/dpkg
 [submodule "dplR"]
 	path = dplR
 	url = https://github.com/cran/dplR
@@ -30281,9 +30281,6 @@
 [submodule "enpls"]
 	path = enpls
 	url = https://github.com/cran/enpls
-[submodule "enrichR"]
-	path = enrichR
-	url = https://github.com/cran/enrichR
 [submodule "enrichwith"]
 	path = enrichwith
 	url = https://github.com/cran/enrichwith
@@ -38435,6 +38432,9 @@
 [submodule "ip2proxy"]
 	path = ip2proxy
 	url = https://github.com/cran/ip2proxy
+[submodule "ip2whois"]
+	path = ip2whois
+	url = https://github.com/cran/ip2whois
 [submodule "ipADMIXTURE"]
 	path = ipADMIXTURE
 	url = https://github.com/cran/ipADMIXTURE
@@ -42086,6 +42086,9 @@
 [submodule "mclustcomp"]
 	path = mclustcomp
 	url = https://github.com/cran/mclustcomp
+[submodule "mcmapper"]
+	path = mcmapper
+	url = https://github.com/cran/mcmapper
 [submodule "mcmc"]
 	path = mcmc
 	url = https://github.com/cran/mcmc
@@ -48848,6 +48851,9 @@
 [submodule "pixmap"]
 	path = pixmap
 	url = https://github.com/cran/pixmap
+[submodule "pk.unit.trans"]
+	path = pk.unit.trans
+	url = https://github.com/cran/pk.unit.trans
 [submodule "pk4adi"]
 	path = pk4adi
 	url = https://github.com/cran/pk4adi
@@ -53861,6 +53867,9 @@
 [submodule "rnndescent"]
 	path = rnndescent
 	url = https://github.com/cran/rnndescent
+[submodule "rnnmf"]
+	path = rnnmf
+	url = https://github.com/cran/rnnmf
 [submodule "rnpn"]
 	path = rnpn
 	url = https://github.com/cran/rnpn
@@ -56942,6 +56951,9 @@
 [submodule "siconvr"]
 	path = siconvr
 	url = https://github.com/cran/siconvr
+[submodule "sicure"]
+	path = sicure
+	url = https://github.com/cran/sicure
 [submodule "sidier"]
 	path = sidier
 	url = https://github.com/cran/sidier
