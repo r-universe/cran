@@ -29276,6 +29276,9 @@
 [submodule "dupree"]
 	path = dupree
 	url = https://github.com/cran/dupree
+[submodule "dverse"]
+	path = dverse
+	url = https://github.com/cran/dverse
 [submodule "dvir"]
 	path = dvir
 	url = https://github.com/cran/dvir
@@ -41210,6 +41213,9 @@
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/cran/lubridate
+[submodule "lubrilog"]
+	path = lubrilog
+	url = https://github.com/cran/lubrilog
 [submodule "luca"]
 	path = luca
 	url = https://github.com/cran/luca
