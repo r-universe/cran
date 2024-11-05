@@ -25130,6 +25130,9 @@
 [submodule "cocons"]
 	path = cocons
 	url = https://github.com/cran/cocons
+[submodule "cocoon"]
+	path = cocoon
+	url = https://github.com/cran/cocoon
 [submodule "cocor"]
 	path = cocor
 	url = https://github.com/cran/cocor
@@ -36386,6 +36389,9 @@
 [submodule "hdbayes"]
 	path = hdbayes
 	url = https://github.com/cran/hdbayes
+[submodule "hdbcp"]
+	path = hdbcp
+	url = https://github.com/cran/hdbcp
 [submodule "hdbinseg"]
 	path = hdbinseg
 	url = https://github.com/cran/hdbinseg
@@ -59672,6 +59678,9 @@
 [submodule "subrank"]
 	path = subrank
 	url = https://github.com/cran/subrank
+[submodule "subsampling"]
+	path = subsampling
+	url = https://github.com/cran/subsampling
 [submodule "subscore"]
 	path = subscore
 	url = https://github.com/cran/subscore
