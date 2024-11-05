@@ -3290,6 +3290,9 @@
 [submodule "CornerstoneR"]
 	path = CornerstoneR
 	url = https://github.com/cran/CornerstoneR
+[submodule "CoronaNetR"]
+	path = CoronaNetR
+	url = https://github.com/cran/CoronaNetR
 [submodule "CorrBin"]
 	path = CorrBin
 	url = https://github.com/cran/CorrBin
@@ -12131,6 +12134,9 @@
 [submodule "PRISMA2020"]
 	path = PRISMA2020
 	url = https://github.com/cran/PRISMA2020
+[submodule "PRISMAstatement"]
+	path = PRISMAstatement
+	url = https://github.com/cran/PRISMAstatement
 [submodule "PRNG"]
 	path = PRNG
 	url = https://github.com/cran/PRNG
@@ -16631,6 +16637,9 @@
 [submodule "SearchTrees"]
 	path = SearchTrees
 	url = https://github.com/cran/SearchTrees
+[submodule "SecDim"]
+	path = SecDim
+	url = https://github.com/cran/SecDim
 [submodule "SeedCalc"]
 	path = SeedCalc
 	url = https://github.com/cran/SeedCalc
@@ -18221,6 +18230,9 @@
 [submodule "Thermimage"]
 	path = Thermimage
 	url = https://github.com/cran/Thermimage
+[submodule "Thermistor"]
+	path = Thermistor
+	url = https://github.com/cran/Thermistor
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
 	url = https://github.com/cran/ThomasJeffersonUniv
@@ -21104,6 +21116,9 @@
 [submodule "autoFRK"]
 	path = autoFRK
 	url = https://github.com/cran/autoFRK
+[submodule "autoGO"]
+	path = autoGO
+	url = https://github.com/cran/autoGO
 [submodule "autoMFA"]
 	path = autoMFA
 	url = https://github.com/cran/autoMFA
@@ -22643,6 +22658,9 @@
 [submodule "blockForest"]
 	path = blockForest
 	url = https://github.com/cran/blockForest
+[submodule "blockTools"]
+	path = blockTools
+	url = https://github.com/cran/blockTools
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cran/blockcluster
@@ -23648,6 +23666,9 @@
 [submodule "carcass"]
 	path = carcass
 	url = https://github.com/cran/carcass
+[submodule "card"]
+	path = card
+	url = https://github.com/cran/card
 [submodule "card.pro"]
 	path = card.pro
 	url = https://github.com/cran/card.pro
@@ -23888,6 +23909,9 @@
 [submodule "cbinom"]
 	path = cbinom
 	url = https://github.com/cran/cbinom
+[submodule "cbioportalR"]
+	path = cbioportalR
+	url = https://github.com/cran/cbioportalR
 [submodule "cbl"]
 	path = cbl
 	url = https://github.com/cran/cbl
@@ -24911,6 +24935,9 @@
 [submodule "cluster.datasets"]
 	path = cluster.datasets
 	url = https://github.com/cran/cluster.datasets
+[submodule "clusterCons"]
+	path = clusterCons
+	url = https://github.com/cran/clusterCons
 [submodule "clusterCrit"]
 	path = clusterCrit
 	url = https://github.com/cran/clusterCrit
@@ -27332,6 +27359,9 @@
 [submodule "datafsm"]
 	path = datafsm
 	url = https://github.com/cran/datafsm
+[submodule "datagovsgR"]
+	path = datagovsgR
+	url = https://github.com/cran/datagovsgR
 [submodule "datamods"]
 	path = datamods
 	url = https://github.com/cran/datamods
@@ -30260,6 +30290,9 @@
 [submodule "enpls"]
 	path = enpls
 	url = https://github.com/cran/enpls
+[submodule "enrichR"]
+	path = enrichR
+	url = https://github.com/cran/enrichR
 [submodule "enrichwith"]
 	path = enrichwith
 	url = https://github.com/cran/enrichwith
@@ -36239,6 +36272,9 @@
 [submodule "hans"]
 	path = hans
 	url = https://github.com/cran/hans
+[submodule "hansard"]
+	path = hansard
+	url = https://github.com/cran/hansard
 [submodule "hapassoc"]
 	path = hapassoc
 	url = https://github.com/cran/hapassoc
@@ -37646,6 +37682,9 @@
 [submodule "idmc"]
 	path = idmc
 	url = https://github.com/cran/idmc
+[submodule "idmodelr"]
+	path = idmodelr
+	url = https://github.com/cran/idmodelr
 [submodule "idopNetwork"]
 	path = idopNetwork
 	url = https://github.com/cran/idopNetwork
@@ -41657,6 +41696,9 @@
 [submodule "mar1s"]
 	path = mar1s
 	url = https://github.com/cran/mar1s
+[submodule "maraca"]
+	path = maraca
+	url = https://github.com/cran/maraca
 [submodule "marble"]
 	path = marble
 	url = https://github.com/cran/marble
@@ -44783,6 +44825,9 @@
 [submodule "mvdalab"]
 	path = mvdalab
 	url = https://github.com/cran/mvdalab
+[submodule "mverse"]
+	path = mverse
+	url = https://github.com/cran/mverse
 [submodule "mvgam"]
 	path = mvgam
 	url = https://github.com/cran/mvgam
@@ -45404,6 +45449,9 @@
 [submodule "neuroblastoma"]
 	path = neuroblastoma
 	url = https://github.com/cran/neuroblastoma
+[submodule "neurocInstall"]
+	path = neurocInstall
+	url = https://github.com/cran/neurocInstall
 [submodule "neurohcp"]
 	path = neurohcp
 	url = https://github.com/cran/neurohcp
@@ -45416,6 +45464,9 @@
 [submodule "neuromplex"]
 	path = neuromplex
 	url = https://github.com/cran/neuromplex
+[submodule "neuronorm"]
+	path = neuronorm
+	url = https://github.com/cran/neuronorm
 [submodule "neutralitytestr"]
 	path = neutralitytestr
 	url = https://github.com/cran/neutralitytestr
@@ -46943,6 +46994,9 @@
 [submodule "orclus"]
 	path = orclus
 	url = https://github.com/cran/orclus
+[submodule "orcutt"]
+	path = orcutt
+	url = https://github.com/cran/orcutt
 [submodule "ordDisp"]
 	path = ordDisp
 	url = https://github.com/cran/ordDisp
@@ -48659,6 +48713,9 @@
 [submodule "phyreg"]
 	path = phyreg
 	url = https://github.com/cran/phyreg
+[submodule "physiology"]
+	path = physiology
+	url = https://github.com/cran/physiology
 [submodule "phytoclass"]
 	path = phytoclass
 	url = https://github.com/cran/phytoclass
@@ -48920,6 +48977,9 @@
 [submodule "plantecophys"]
 	path = plantecophys
 	url = https://github.com/cran/plantecophys
+[submodule "plantecowrap"]
+	path = plantecowrap
+	url = https://github.com/cran/plantecowrap
 [submodule "plantphysioR"]
 	path = plantphysioR
 	url = https://github.com/cran/plantphysioR
