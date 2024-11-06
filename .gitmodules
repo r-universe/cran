@@ -32,6 +32,9 @@
 [submodule "ABPS"]
 	path = ABPS
 	url = https://github.com/cran/ABPS
+[submodule "ABRSQOL"]
+	path = ABRSQOL
+	url = https://github.com/cran/ABRSQOL
 [submodule "ABSurvTDC"]
 	path = ABSurvTDC
 	url = https://github.com/cran/ABSurvTDC
@@ -11405,6 +11408,9 @@
 [submodule "Oarray"]
 	path = Oarray
 	url = https://github.com/cran/Oarray
+[submodule "OasisR"]
+	path = OasisR
+	url = https://github.com/cran/OasisR
 [submodule "Observation"]
 	path = Observation
 	url = https://github.com/cran/Observation
@@ -20471,6 +20477,9 @@
 [submodule "aod"]
 	path = aod
 	url = https://github.com/cran/aod
+[submodule "aods3"]
+	path = aods3
+	url = https://github.com/cran/aods3
 [submodule "aoos"]
 	path = aoos
 	url = https://github.com/cran/aoos
@@ -28637,6 +28646,9 @@
 [submodule "diveR"]
 	path = diveR
 	url = https://github.com/cran/diveR
+[submodule "divent"]
+	path = divent
+	url = https://github.com/cran/divent
 [submodule "diverge"]
 	path = diverge
 	url = https://github.com/cran/diverge
@@ -30977,6 +30989,9 @@
 [submodule "exams.mylearn"]
 	path = exams.mylearn
 	url = https://github.com/cran/exams.mylearn
+[submodule "exams2forms"]
+	path = exams2forms
+	url = https://github.com/cran/exams2forms
 [submodule "exams2learnr"]
 	path = exams2learnr
 	url = https://github.com/cran/exams2learnr
@@ -35513,6 +35528,9 @@
 [submodule "gpboost"]
 	path = gpboost
 	url = https://github.com/cran/gpboost
+[submodule "gpcp"]
+	path = gpcp
+	url = https://github.com/cran/gpcp
 [submodule "gpg"]
 	path = gpg
 	url = https://github.com/cran/gpg
@@ -36596,6 +36614,9 @@
 [submodule "hetGP"]
 	path = hetGP
 	url = https://github.com/cran/hetGP
+[submodule "heterocop"]
+	path = heterocop
+	url = https://github.com/cran/heterocop
 [submodule "heterogen"]
 	path = heterogen
 	url = https://github.com/cran/heterogen
@@ -38771,6 +38792,9 @@
 [submodule "itsmr"]
 	path = itsmr
 	url = https://github.com/cran/itsmr
+[submodule "iucnr"]
+	path = iucnr
+	url = https://github.com/cran/iucnr
 [submodule "ivDiag"]
 	path = ivDiag
 	url = https://github.com/cran/ivDiag
@@ -46250,6 +46274,9 @@
 [submodule "ntdr"]
 	path = ntdr
 	url = https://github.com/cran/ntdr
+[submodule "ntfy"]
+	path = ntfy
+	url = https://github.com/cran/ntfy
 [submodule "ntranova"]
 	path = ntranova
 	url = https://github.com/cran/ntranova
@@ -52031,6 +52058,9 @@
 [submodule "ratios"]
 	path = ratios
 	url = https://github.com/cran/ratios
+[submodule "ratlas"]
+	path = ratlas
+	url = https://github.com/cran/ratlas
 [submodule "rattle"]
 	path = rattle
 	url = https://github.com/cran/rattle
@@ -54713,6 +54743,9 @@
 [submodule "rtika"]
 	path = rtika
 	url = https://github.com/cran/rtika
+[submodule "rtiktoken"]
+	path = rtiktoken
+	url = https://github.com/cran/rtiktoken
 [submodule "rtip"]
 	path = rtip
 	url = https://github.com/cran/rtip
