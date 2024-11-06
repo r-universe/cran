@@ -11912,6 +11912,9 @@
 [submodule "PINstimation"]
 	path = PINstimation
 	url = https://github.com/cran/PINstimation
+[submodule "PJFM"]
+	path = PJFM
+	url = https://github.com/cran/PJFM
 [submodule "PK"]
 	path = PK
 	url = https://github.com/cran/PK
@@ -19880,6 +19883,9 @@
 [submodule "afc"]
 	path = afc
 	url = https://github.com/cran/afc
+[submodule "afcharts"]
+	path = afcharts
+	url = https://github.com/cran/afcharts
 [submodule "afcolours"]
 	path = afcolours
 	url = https://github.com/cran/afcolours
@@ -50477,6 +50483,9 @@
 [submodule "psica"]
 	path = psica
 	url = https://github.com/cran/psica
+[submodule "psidR"]
+	path = psidR
+	url = https://github.com/cran/psidR
 [submodule "psidread"]
 	path = psidread
 	url = https://github.com/cran/psidread
@@ -52109,6 +52118,9 @@
 [submodule "rbbnp"]
 	path = rbbnp
 	url = https://github.com/cran/rbbnp
+[submodule "rbc"]
+	path = rbc
+	url = https://github.com/cran/rbc
 [submodule "rbcb"]
 	path = rbcb
 	url = https://github.com/cran/rbcb
