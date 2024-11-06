@@ -2405,6 +2405,9 @@
 [submodule "COVIDIBGE"]
 	path = COVIDIBGE
 	url = https://github.com/cran/COVIDIBGE
+[submodule "COveR"]
+	path = COveR
+	url = https://github.com/cran/COveR
 [submodule "CP"]
 	path = CP
 	url = https://github.com/cran/CP
@@ -2459,6 +2462,9 @@
 [submodule "CREDS"]
 	path = CREDS
 	url = https://github.com/cran/CREDS
+[submodule "CRF"]
+	path = CRF
+	url = https://github.com/cran/CRF
 [submodule "CRM"]
 	path = CRM
 	url = https://github.com/cran/CRM
@@ -3275,6 +3281,9 @@
 [submodule "CorMID"]
 	path = CorMID
 	url = https://github.com/cran/CorMID
+[submodule "Corbi"]
+	path = Corbi
+	url = https://github.com/cran/Corbi
 [submodule "CoreMicrobiomeR"]
 	path = CoreMicrobiomeR
 	url = https://github.com/cran/CoreMicrobiomeR
@@ -5132,9 +5141,6 @@
 [submodule "Eunomia"]
 	path = Eunomia
 	url = https://github.com/cran/Eunomia
-[submodule "EurosarcBayes"]
-	path = EurosarcBayes
-	url = https://github.com/cran/EurosarcBayes
 [submodule "EvCombR"]
 	path = EvCombR
 	url = https://github.com/cran/EvCombR
@@ -6563,9 +6569,6 @@
 [submodule "GUEST"]
 	path = GUEST
 	url = https://github.com/cran/GUEST
-[submodule "GUIDE"]
-	path = GUIDE
-	url = https://github.com/cran/GUIDE
 [submodule "GUILDS"]
 	path = GUILDS
 	url = https://github.com/cran/GUILDS
@@ -9341,6 +9344,9 @@
 [submodule "MDEI"]
 	path = MDEI
 	url = https://github.com/cran/MDEI
+[submodule "MDFS"]
+	path = MDFS
+	url = https://github.com/cran/MDFS
 [submodule "MDMA"]
 	path = MDMA
 	url = https://github.com/cran/MDMA
@@ -9707,9 +9713,6 @@
 [submodule "MOQA"]
 	path = MOQA
 	url = https://github.com/cran/MOQA
-[submodule "MOSS"]
-	path = MOSS
-	url = https://github.com/cran/MOSS
 [submodule "MOST"]
 	path = MOST
 	url = https://github.com/cran/MOST
@@ -13283,6 +13286,9 @@
 [submodule "RADstackshelpR"]
 	path = RADstackshelpR
 	url = https://github.com/cran/RADstackshelpR
+[submodule "RAFS"]
+	path = RAFS
+	url = https://github.com/cran/RAFS
 [submodule "RAINBOWR"]
 	path = RAINBOWR
 	url = https://github.com/cran/RAINBOWR
@@ -28130,6 +28136,9 @@
 [submodule "dfphase1"]
 	path = dfphase1
 	url = https://github.com/cran/dfphase1
+[submodule "dfr"]
+	path = dfr
+	url = https://github.com/cran/dfr
 [submodule "dfrr"]
 	path = dfrr
 	url = https://github.com/cran/dfrr
@@ -31667,6 +31676,9 @@
 [submodule "fat2Lpoly"]
 	path = fat2Lpoly
 	url = https://github.com/cran/fat2Lpoly
+[submodule "faux"]
+	path = faux
+	url = https://github.com/cran/faux
 [submodule "fauxnaif"]
 	path = fauxnaif
 	url = https://github.com/cran/fauxnaif
@@ -38105,6 +38117,9 @@
 [submodule "infoDecompuTE"]
 	path = infoDecompuTE
 	url = https://github.com/cran/infoDecompuTE
+[submodule "infoelectoral"]
+	path = infoelectoral
+	url = https://github.com/cran/infoelectoral
 [submodule "informativeSCI"]
 	path = informativeSCI
 	url = https://github.com/cran/informativeSCI
@@ -56453,6 +56468,9 @@
 [submodule "sgraph"]
 	path = sgraph
 	url = https://github.com/cran/sgraph
+[submodule "sgs"]
+	path = sgs
+	url = https://github.com/cran/sgs
 [submodule "sgsR"]
 	path = sgsR
 	url = https://github.com/cran/sgsR
