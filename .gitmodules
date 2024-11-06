@@ -26378,9 +26378,6 @@
 [submodule "cpp11eigen"]
 	path = cpp11eigen
 	url = https://github.com/cran/cpp11eigen
-[submodule "cpp11tesseract"]
-	path = cpp11tesseract
-	url = https://github.com/cran/cpp11tesseract
 [submodule "cppRouting"]
 	path = cppRouting
 	url = https://github.com/cran/cppRouting
@@ -52628,9 +52625,6 @@
 [submodule "reda"]
 	path = reda
 	url = https://github.com/cran/reda
-[submodule "redatam"]
-	path = redatam
-	url = https://github.com/cran/redatam
 [submodule "redatamx"]
 	path = redatamx
 	url = https://github.com/cran/redatamx
