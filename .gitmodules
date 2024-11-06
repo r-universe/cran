@@ -4583,9 +4583,6 @@
 [submodule "EDOtrans"]
 	path = EDOtrans
 	url = https://github.com/cran/EDOtrans
-[submodule "EEAaq"]
-	path = EEAaq
-	url = https://github.com/cran/EEAaq
 [submodule "EEM"]
 	path = EEM
 	url = https://github.com/cran/EEM
