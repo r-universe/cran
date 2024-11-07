@@ -61157,6 +61157,9 @@
 [submodule "thredds"]
 	path = thredds
 	url = https://github.com/cran/thredds
+[submodule "threeBrain"]
+	path = threeBrain
+	url = https://github.com/cran/threeBrain
 [submodule "threejs"]
 	path = threejs
 	url = https://github.com/cran/threejs
@@ -63989,6 +63992,9 @@
 [submodule "washi"]
 	path = washi
 	url = https://github.com/cran/washi
+[submodule "washr"]
+	path = washr
+	url = https://github.com/cran/washr
 [submodule "waspasR"]
 	path = waspasR
 	url = https://github.com/cran/waspasR
