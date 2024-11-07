@@ -32465,9 +32465,6 @@
 [submodule "flowml"]
 	path = flowml
 	url = https://github.com/cran/flowml
-[submodule "flowr"]
-	path = flowr
-	url = https://github.com/cran/flowr
 [submodule "flps"]
 	path = flps
 	url = https://github.com/cran/flps
@@ -35432,9 +35429,6 @@
 [submodule "gontr"]
 	path = gontr
 	url = https://github.com/cran/gontr
-[submodule "good"]
-	path = good
-	url = https://github.com/cran/good
 [submodule "goodpractice"]
 	path = goodpractice
 	url = https://github.com/cran/goodpractice
@@ -47705,9 +47699,6 @@
 [submodule "paramlink2"]
 	path = paramlink2
 	url = https://github.com/cran/paramlink2
-[submodule "params"]
-	path = params
-	url = https://github.com/cran/params
 [submodule "paramsim"]
 	path = paramsim
 	url = https://github.com/cran/paramsim
@@ -60422,9 +60413,6 @@
 [submodule "table.express"]
 	path = table.express
 	url = https://github.com/cran/table.express
-[submodule "table.glue"]
-	path = table.glue
-	url = https://github.com/cran/table.glue
 [submodule "table1"]
 	path = table1
 	url = https://github.com/cran/table1
@@ -62117,9 +62105,6 @@
 [submodule "translate.logit"]
 	path = translate.logit
 	url = https://github.com/cran/translate.logit
-[submodule "translated"]
-	path = translated
-	url = https://github.com/cran/translated
 [submodule "translit.uk"]
 	path = translit.uk
 	url = https://github.com/cran/translit.uk
