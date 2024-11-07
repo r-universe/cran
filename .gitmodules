@@ -5144,6 +5144,9 @@
 [submodule "Eunomia"]
 	path = Eunomia
 	url = https://github.com/cran/Eunomia
+[submodule "EurosarcBayes"]
+	path = EurosarcBayes
+	url = https://github.com/cran/EurosarcBayes
 [submodule "EvCombR"]
 	path = EvCombR
 	url = https://github.com/cran/EvCombR
@@ -6572,6 +6575,9 @@
 [submodule "GUEST"]
 	path = GUEST
 	url = https://github.com/cran/GUEST
+[submodule "GUIDE"]
+	path = GUIDE
+	url = https://github.com/cran/GUIDE
 [submodule "GUILDS"]
 	path = GUILDS
 	url = https://github.com/cran/GUILDS
@@ -9716,6 +9722,9 @@
 [submodule "MOQA"]
 	path = MOQA
 	url = https://github.com/cran/MOQA
+[submodule "MOSS"]
+	path = MOSS
+	url = https://github.com/cran/MOSS
 [submodule "MOST"]
 	path = MOST
 	url = https://github.com/cran/MOST
@@ -26393,6 +26402,9 @@
 [submodule "cpp11eigen"]
 	path = cpp11eigen
 	url = https://github.com/cran/cpp11eigen
+[submodule "cpp11tesseract"]
+	path = cpp11tesseract
+	url = https://github.com/cran/cpp11tesseract
 [submodule "cppRouting"]
 	path = cppRouting
 	url = https://github.com/cran/cppRouting
@@ -52667,6 +52679,9 @@
 [submodule "reda"]
 	path = reda
 	url = https://github.com/cran/reda
+[submodule "redatam"]
+	path = redatam
+	url = https://github.com/cran/redatam
 [submodule "redatamx"]
 	path = redatamx
 	url = https://github.com/cran/redatamx
@@ -63683,6 +63698,9 @@
 [submodule "visualize"]
 	path = visualize
 	url = https://github.com/cran/visualize
+[submodule "visualpred"]
+	path = visualpred
+	url = https://github.com/cran/visualpred
 [submodule "visvow"]
 	path = visvow
 	url = https://github.com/cran/visvow
