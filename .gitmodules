@@ -51089,9 +51089,6 @@
 [submodule "qtlhot"]
 	path = qtlhot
 	url = https://github.com/cran/qtlhot
-[submodule "qtlmt"]
-	path = qtlmt
-	url = https://github.com/cran/qtlmt
 [submodule "qtlnet"]
 	path = qtlnet
 	url = https://github.com/cran/qtlnet
