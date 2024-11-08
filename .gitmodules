@@ -194,6 +194,9 @@
 [submodule "AIUQ"]
 	path = AIUQ
 	url = https://github.com/cran/AIUQ
+[submodule "AIscreenR"]
+	path = AIscreenR
+	url = https://github.com/cran/AIscreenR
 [submodule "ALDqr"]
 	path = ALDqr
 	url = https://github.com/cran/ALDqr
@@ -4001,6 +4004,9 @@
 [submodule "DTSEA"]
 	path = DTSEA
 	url = https://github.com/cran/DTSEA
+[submodule "DTSR"]
+	path = DTSR
+	url = https://github.com/cran/DTSR
 [submodule "DTSg"]
 	path = DTSg
 	url = https://github.com/cran/DTSg
@@ -5426,6 +5432,9 @@
 [submodule "FGLMtrunc"]
 	path = FGLMtrunc
 	url = https://github.com/cran/FGLMtrunc
+[submodule "FGRepo"]
+	path = FGRepo
+	url = https://github.com/cran/FGRepo
 [submodule "FGalgorithm"]
 	path = FGalgorithm
 	url = https://github.com/cran/FGalgorithm
@@ -7673,6 +7682,9 @@
 [submodule "ILS"]
 	path = ILS
 	url = https://github.com/cran/ILS
+[submodule "ILSAmerge"]
+	path = ILSAmerge
+	url = https://github.com/cran/ILSAmerge
 [submodule "ILSE"]
 	path = ILSE
 	url = https://github.com/cran/ILSE
@@ -16922,6 +16934,9 @@
 [submodule "SimNPH"]
 	path = SimNPH
 	url = https://github.com/cran/SimNPH
+[submodule "SimRDS"]
+	path = SimRDS
+	url = https://github.com/cran/SimRDS
 [submodule "SimReg"]
 	path = SimReg
 	url = https://github.com/cran/SimReg
@@ -30437,6 +30452,9 @@
 [submodule "epichains"]
 	path = epichains
 	url = https://github.com/cran/epichains
+[submodule "epicmodel"]
+	path = epicmodel
+	url = https://github.com/cran/epicmodel
 [submodule "epicontacts"]
 	path = epicontacts
 	url = https://github.com/cran/epicontacts
@@ -37763,6 +37781,9 @@
 [submodule "ifctools"]
 	path = ifctools
 	url = https://github.com/cran/ifctools
+[submodule "ife"]
+	path = ife
+	url = https://github.com/cran/ife
 [submodule "ifo"]
 	path = ifo
 	url = https://github.com/cran/ifo
@@ -38093,6 +38114,9 @@
 [submodule "industRial"]
 	path = industRial
 	url = https://github.com/cran/industRial
+[submodule "ineAtlas"]
+	path = ineAtlas
+	url = https://github.com/cran/ineAtlas
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cran/inegiR
@@ -40898,6 +40922,9 @@
 [submodule "loewesadditivity"]
 	path = loewesadditivity
 	url = https://github.com/cran/loewesadditivity
+[submodule "lofifonts"]
+	path = lofifonts
+	url = https://github.com/cran/lofifonts
 [submodule "log"]
 	path = log
 	url = https://github.com/cran/log
@@ -42677,6 +42704,9 @@
 [submodule "metasens"]
 	path = metasens
 	url = https://github.com/cran/metasens
+[submodule "metasnf"]
+	path = metasnf
+	url = https://github.com/cran/metasnf
 [submodule "metatest"]
 	path = metatest
 	url = https://github.com/cran/metatest
@@ -52691,6 +52721,9 @@
 [submodule "redcapAPI"]
 	path = redcapAPI
 	url = https://github.com/cran/redcapAPI
+[submodule "redcas"]
+	path = redcas
+	url = https://github.com/cran/redcas
 [submodule "reddPrec"]
 	path = reddPrec
 	url = https://github.com/cran/reddPrec
@@ -61409,6 +61442,9 @@
 [submodule "tidyplate"]
 	path = tidyplate
 	url = https://github.com/cran/tidyplate
+[submodule "tidyplots"]
+	path = tidyplots
+	url = https://github.com/cran/tidyplots
 [submodule "tidyplus"]
 	path = tidyplus
 	url = https://github.com/cran/tidyplus
