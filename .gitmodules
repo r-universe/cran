@@ -17888,9 +17888,6 @@
 [submodule "TOU"]
 	path = TOU
 	url = https://github.com/cran/TOU
-[submodule "TOmicsVis"]
-	path = TOmicsVis
-	url = https://github.com/cran/TOmicsVis
 [submodule "TP.idm"]
 	path = TP.idm
 	url = https://github.com/cran/TP.idm
