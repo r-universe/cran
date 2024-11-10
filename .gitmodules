@@ -61631,9 +61631,6 @@
 [submodule "timedeppar"]
 	path = timedeppar
 	url = https://github.com/cran/timedeppar
-[submodule "timeless"]
-	path = timeless
-	url = https://github.com/cran/timeless
 [submodule "timelineS"]
 	path = timelineS
 	url = https://github.com/cran/timelineS
