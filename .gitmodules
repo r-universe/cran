@@ -5717,6 +5717,9 @@
 [submodule "FeatureTerminatoR"]
 	path = FeatureTerminatoR
 	url = https://github.com/cran/FeatureTerminatoR
+[submodule "FedData"]
+	path = FedData
+	url = https://github.com/cran/FedData
 [submodule "FedIRT"]
 	path = FedIRT
 	url = https://github.com/cran/FedIRT
@@ -14492,6 +14495,9 @@
 [submodule "RadData"]
 	path = RadData
 	url = https://github.com/cran/RadData
+[submodule "RadEro"]
+	path = RadEro
+	url = https://github.com/cran/RadEro
 [submodule "RadOnc"]
 	path = RadOnc
 	url = https://github.com/cran/RadOnc
@@ -53669,6 +53675,9 @@
 [submodule "rjade"]
 	path = rjade
 	url = https://github.com/cran/rjade
+[submodule "rjaf"]
+	path = rjaf
+	url = https://github.com/cran/rjaf
 [submodule "rjags"]
 	path = rjags
 	url = https://github.com/cran/rjags
