@@ -16673,6 +16673,9 @@
 [submodule "SegCorr"]
 	path = SegCorr
 	url = https://github.com/cran/SegCorr
+[submodule "SegEnvIneq"]
+	path = SegEnvIneq
+	url = https://github.com/cran/SegEnvIneq
 [submodule "Sejong"]
 	path = Sejong
 	url = https://github.com/cran/Sejong
@@ -17888,6 +17891,9 @@
 [submodule "TOU"]
 	path = TOU
 	url = https://github.com/cran/TOU
+[submodule "TOmicsVis"]
+	path = TOmicsVis
+	url = https://github.com/cran/TOmicsVis
 [submodule "TP.idm"]
 	path = TP.idm
 	url = https://github.com/cran/TP.idm
@@ -39896,6 +39902,9 @@
 [submodule "lambdr"]
 	path = lambdr
 	url = https://github.com/cran/lambdr
+[submodule "laminr"]
+	path = laminr
+	url = https://github.com/cran/laminr
 [submodule "lamle"]
 	path = lamle
 	url = https://github.com/cran/lamle
@@ -41531,6 +41540,9 @@
 [submodule "maicChecks"]
 	path = maicChecks
 	url = https://github.com/cran/maicChecks
+[submodule "maicplus"]
+	path = maicplus
+	url = https://github.com/cran/maicplus
 [submodule "mailR"]
 	path = mailR
 	url = https://github.com/cran/mailR
