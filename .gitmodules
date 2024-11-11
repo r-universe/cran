@@ -32663,9 +32663,15 @@
 [submodule "forestHES"]
 	path = forestHES
 	url = https://github.com/cran/forestHES
+[submodule "forestPSD"]
+	path = forestPSD
+	url = https://github.com/cran/forestPSD
 [submodule "forestRK"]
 	path = forestRK
 	url = https://github.com/cran/forestRK
+[submodule "forestSAS"]
+	path = forestSAS
+	url = https://github.com/cran/forestSAS
 [submodule "forestat"]
 	path = forestat
 	url = https://github.com/cran/forestat
@@ -48677,6 +48683,9 @@
 [submodule "photobiologyWavebands"]
 	path = photobiologyWavebands
 	url = https://github.com/cran/photobiologyWavebands
+[submodule "photon"]
+	path = photon
+	url = https://github.com/cran/photon
 [submodule "photosynthesis"]
 	path = photosynthesis
 	url = https://github.com/cran/photosynthesis
@@ -55946,6 +55955,9 @@
 [submodule "sdwd"]
 	path = sdwd
 	url = https://github.com/cran/sdwd
+[submodule "seAMLess"]
+	path = seAMLess
+	url = https://github.com/cran/seAMLess
 [submodule "seacarb"]
 	path = seacarb
 	url = https://github.com/cran/seacarb
