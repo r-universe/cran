@@ -914,9 +914,6 @@
 [submodule "BBI"]
 	path = BBI
 	url = https://github.com/cran/BBI
-[submodule "BBSSL"]
-	path = BBSSL
-	url = https://github.com/cran/BBSSL
 [submodule "BBmisc"]
 	path = BBmisc
 	url = https://github.com/cran/BBmisc
@@ -4505,9 +4502,6 @@
 [submodule "DynaRankR"]
 	path = DynaRankR
 	url = https://github.com/cran/DynaRankR
-[submodule "DynamicGP"]
-	path = DynamicGP
-	url = https://github.com/cran/DynamicGP
 [submodule "DynareR"]
 	path = DynareR
 	url = https://github.com/cran/DynareR
@@ -4544,9 +4538,6 @@
 [submodule "EBcoBART"]
 	path = EBcoBART
 	url = https://github.com/cran/EBcoBART
-[submodule "EBglmnet"]
-	path = EBglmnet
-	url = https://github.com/cran/EBglmnet
 [submodule "EBrank"]
 	path = EBrank
 	url = https://github.com/cran/EBrank
@@ -4589,9 +4580,6 @@
 [submodule "EDIutils"]
 	path = EDIutils
 	url = https://github.com/cran/EDIutils
-[submodule "EDMeasure"]
-	path = EDMeasure
-	url = https://github.com/cran/EDMeasure
 [submodule "EDNE.EQ"]
 	path = EDNE.EQ
 	url = https://github.com/cran/EDNE.EQ
@@ -5474,9 +5462,6 @@
 [submodule "FLAME"]
 	path = FLAME
 	url = https://github.com/cran/FLAME
-[submodule "FLLat"]
-	path = FLLat
-	url = https://github.com/cran/FLLat
 [submodule "FLOPART"]
 	path = FLOPART
 	url = https://github.com/cran/FLOPART
@@ -8129,6 +8114,9 @@
 [submodule "JADE"]
 	path = JADE
 	url = https://github.com/cran/JADE
+[submodule "JAGStree"]
+	path = JAGStree
+	url = https://github.com/cran/JAGStree
 [submodule "JATSdecoder"]
 	path = JATSdecoder
 	url = https://github.com/cran/JATSdecoder
@@ -12335,6 +12323,12 @@
 [submodule "PairedData"]
 	path = PairedData
 	url = https://github.com/cran/PairedData
+[submodule "PakNAcc"]
+	path = PakNAcc
+	url = https://github.com/cran/PakNAcc
+[submodule "PakPC"]
+	path = PakPC
+	url = https://github.com/cran/PakPC
 [submodule "PakPC2017"]
 	path = PakPC2017
 	url = https://github.com/cran/PakPC2017
@@ -15230,9 +15224,6 @@
 [submodule "Rfssa"]
 	path = Rfssa
 	url = https://github.com/cran/Rfssa
-[submodule "Rgb"]
-	path = Rgb
-	url = https://github.com/cran/Rgb
 [submodule "Rgbp"]
 	path = Rgbp
 	url = https://github.com/cran/Rgbp
@@ -17783,9 +17774,6 @@
 [submodule "TDbook"]
 	path = TDbook
 	url = https://github.com/cran/TDbook
-[submodule "TDboost"]
-	path = TDboost
-	url = https://github.com/cran/TDboost
 [submodule "TE"]
 	path = TE
 	url = https://github.com/cran/TE
@@ -19220,9 +19208,6 @@
 [submodule "WormTensor"]
 	path = WormTensor
 	url = https://github.com/cran/WormTensor
-[submodule "WpProj"]
-	path = WpProj
-	url = https://github.com/cran/WpProj
 [submodule "WrensBookshelf"]
 	path = WrensBookshelf
 	url = https://github.com/cran/WrensBookshelf
@@ -20618,9 +20603,6 @@
 [submodule "apportion"]
 	path = apportion
 	url = https://github.com/cran/apportion
-[submodule "approxOT"]
-	path = approxOT
-	url = https://github.com/cran/approxOT
 [submodule "approximator"]
 	path = approximator
 	url = https://github.com/cran/approximator
@@ -25544,9 +25526,6 @@
 [submodule "comorosmaps"]
 	path = comorosmaps
 	url = https://github.com/cran/comorosmaps
-[submodule "compHclust"]
-	path = compHclust
-	url = https://github.com/cran/compHclust
 [submodule "comparator"]
 	path = comparator
 	url = https://github.com/cran/comparator
@@ -27977,9 +27956,6 @@
 [submodule "depigner"]
 	path = depigner
 	url = https://github.com/cran/depigner
-[submodule "depmix"]
-	path = depmix
-	url = https://github.com/cran/depmix
 [submodule "depmixS4"]
 	path = depmixS4
 	url = https://github.com/cran/depmixS4
@@ -28592,6 +28568,9 @@
 [submodule "distfree.cr"]
 	path = distfree.cr
 	url = https://github.com/cran/distfree.cr
+[submodule "distfreereg"]
+	path = distfreereg
+	url = https://github.com/cran/distfreereg
 [submodule "distfromq"]
 	path = distfromq
 	url = https://github.com/cran/distfromq
@@ -30629,9 +30608,6 @@
 [submodule "eratosthenes"]
 	path = eratosthenes
 	url = https://github.com/cran/eratosthenes
-[submodule "erboost"]
-	path = erboost
-	url = https://github.com/cran/erboost
 [submodule "ercv"]
 	path = ercv
 	url = https://github.com/cran/ercv
@@ -31655,9 +31631,6 @@
 [submodule "fastdid"]
 	path = fastdid
 	url = https://github.com/cran/fastdid
-[submodule "fastdigest"]
-	path = fastdigest
-	url = https://github.com/cran/fastdigest
 [submodule "fasterElasticNet"]
 	path = fasterElasticNet
 	url = https://github.com/cran/fasterElasticNet
@@ -37496,9 +37469,6 @@
 [submodule "iPRISM"]
 	path = iPRISM
 	url = https://github.com/cran/iPRISM
-[submodule "iRafNet"]
-	path = iRafNet
-	url = https://github.com/cran/iRafNet
 [submodule "iRegression"]
 	path = iRegression
 	url = https://github.com/cran/iRegression
@@ -37694,9 +37664,6 @@
 [submodule "icr"]
 	path = icr
 	url = https://github.com/cran/icr
-[submodule "icrf"]
-	path = icrf
-	url = https://github.com/cran/icrf
 [submodule "icsw"]
 	path = icsw
 	url = https://github.com/cran/icsw
@@ -37796,6 +37763,9 @@
 [submodule "ifs"]
 	path = ifs
 	url = https://github.com/cran/ifs
+[submodule "ig.degree.betweenness"]
+	path = ig.degree.betweenness
+	url = https://github.com/cran/ig.degree.betweenness
 [submodule "ig.vancouver.2014.topcolour"]
 	path = ig.vancouver.2014.topcolour
 	url = https://github.com/cran/ig.vancouver.2014.topcolour
@@ -38384,9 +38354,6 @@
 [submodule "interpolators"]
 	path = interpolators
 	url = https://github.com/cran/interpolators
-[submodule "interpret"]
-	path = interpret
-	url = https://github.com/cran/interpret
 [submodule "interpretCI"]
 	path = interpretCI
 	url = https://github.com/cran/interpretCI
@@ -39365,9 +39332,6 @@
 [submodule "kdml"]
 	path = kdml
 	url = https://github.com/cran/kdml
-[submodule "kdpee"]
-	path = kdpee
-	url = https://github.com/cran/kdpee
 [submodule "kdry"]
 	path = kdry
 	url = https://github.com/cran/kdry
@@ -50780,9 +50744,6 @@
 [submodule "pwrAB"]
 	path = pwrAB
 	url = https://github.com/cran/pwrAB
-[submodule "pwrFDR"]
-	path = pwrFDR
-	url = https://github.com/cran/pwrFDR
 [submodule "pwrRasch"]
 	path = pwrRasch
 	url = https://github.com/cran/pwrRasch
@@ -59540,9 +59501,6 @@
 [submodule "stochvol"]
 	path = stochvol
 	url = https://github.com/cran/stochvol
-[submodule "stochvolTMB"]
-	path = stochvolTMB
-	url = https://github.com/cran/stochvolTMB
 [submodule "stockAnalyst"]
 	path = stockAnalyst
 	url = https://github.com/cran/stockAnalyst
@@ -61931,9 +61889,6 @@
 [submodule "topicmodels.etm"]
 	path = topicmodels.etm
 	url = https://github.com/cran/topicmodels.etm
-[submodule "topmodel"]
-	path = topmodel
-	url = https://github.com/cran/topmodel
 [submodule "topoDistance"]
 	path = topoDistance
 	url = https://github.com/cran/topoDistance
