@@ -2231,6 +2231,9 @@
 [submodule "CIM"]
 	path = CIM
 	url = https://github.com/cran/CIM
+[submodule "CIMPLE"]
+	path = CIMPLE
+	url = https://github.com/cran/CIMPLE
 [submodule "CIMTx"]
 	path = CIMTx
 	url = https://github.com/cran/CIMTx
@@ -16004,6 +16007,9 @@
 [submodule "SEset"]
 	path = SEset
 	url = https://github.com/cran/SEset
+[submodule "SFM"]
+	path = SFM
+	url = https://github.com/cran/SFM
 [submodule "SFPL"]
 	path = SFPL
 	url = https://github.com/cran/SFPL
