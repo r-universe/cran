@@ -6563,6 +6563,9 @@
 [submodule "GTDL"]
 	path = GTDL
 	url = https://github.com/cran/GTDL
+[submodule "GTFSwizard"]
+	path = GTFSwizard
+	url = https://github.com/cran/GTFSwizard
 [submodule "GTbasedIM"]
 	path = GTbasedIM
 	url = https://github.com/cran/GTbasedIM
@@ -22079,6 +22082,9 @@
 [submodule "betareg"]
 	path = betareg
 	url = https://github.com/cran/betareg
+[submodule "betaselectr"]
+	path = betaselectr
+	url = https://github.com/cran/betaselectr
 [submodule "betategarch"]
 	path = betategarch
 	url = https://github.com/cran/betategarch
@@ -47651,6 +47657,9 @@
 [submodule "pangaear"]
 	path = pangaear
 	url = https://github.com/cran/pangaear
+[submodule "pannotator"]
+	path = pannotator
+	url = https://github.com/cran/pannotator
 [submodule "panstarrs"]
 	path = panstarrs
 	url = https://github.com/cran/panstarrs
@@ -56171,6 +56180,9 @@
 [submodule "semantic.dashboard"]
 	path = semantic.dashboard
 	url = https://github.com/cran/semantic.dashboard
+[submodule "semaphore"]
+	path = semaphore
+	url = https://github.com/cran/semaphore
 [submodule "semdrw"]
 	path = semdrw
 	url = https://github.com/cran/semdrw
