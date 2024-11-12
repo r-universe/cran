@@ -32711,6 +32711,9 @@
 [submodule "forestError"]
 	path = forestError
 	url = https://github.com/cran/forestError
+[submodule "forestGYM"]
+	path = forestGYM
+	url = https://github.com/cran/forestGYM
 [submodule "forestHES"]
 	path = forestHES
 	url = https://github.com/cran/forestHES
