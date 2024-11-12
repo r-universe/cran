@@ -1430,6 +1430,9 @@
 [submodule "BayesGOF"]
 	path = BayesGOF
 	url = https://github.com/cran/BayesGOF
+[submodule "BayesGP"]
+	path = BayesGP
+	url = https://github.com/cran/BayesGP
 [submodule "BayesGPfit"]
 	path = BayesGPfit
 	url = https://github.com/cran/BayesGPfit
@@ -18932,6 +18935,9 @@
 [submodule "VirtualPop"]
 	path = VirtualPop
 	url = https://github.com/cran/VirtualPop
+[submodule "Virusparies"]
+	path = Virusparies
+	url = https://github.com/cran/Virusparies
 [submodule "VisCollin"]
 	path = VisCollin
 	url = https://github.com/cran/VisCollin
@@ -23045,6 +23051,9 @@
 [submodule "bpgmm"]
 	path = bpgmm
 	url = https://github.com/cran/bpgmm
+[submodule "bplsr"]
+	path = bplsr
+	url = https://github.com/cran/bplsr
 [submodule "bpmnR"]
 	path = bpmnR
 	url = https://github.com/cran/bpmnR
@@ -31724,6 +31733,9 @@
 [submodule "fastmit"]
 	path = fastmit
 	url = https://github.com/cran/fastmit
+[submodule "fastml"]
+	path = fastml
+	url = https://github.com/cran/fastml
 [submodule "fastnet"]
 	path = fastnet
 	url = https://github.com/cran/fastnet
@@ -51671,6 +51683,9 @@
 [submodule "rNeighborQTL"]
 	path = rNeighborQTL
 	url = https://github.com/cran/rNeighborQTL
+[submodule "rOCEAN"]
+	path = rOCEAN
+	url = https://github.com/cran/rOCEAN
 [submodule "rODE"]
 	path = rODE
 	url = https://github.com/cran/rODE
@@ -61061,6 +61076,9 @@
 [submodule "text2vec"]
 	path = text2vec
 	url = https://github.com/cran/text2vec
+[submodule "textAnnotatoR"]
+	path = textAnnotatoR
+	url = https://github.com/cran/textAnnotatoR
 [submodule "textBoxPlacement"]
 	path = textBoxPlacement
 	url = https://github.com/cran/textBoxPlacement
