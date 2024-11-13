@@ -4583,9 +4583,6 @@
 [submodule "ECoL"]
 	path = ECoL
 	url = https://github.com/cran/ECoL
-[submodule "EDCimport"]
-	path = EDCimport
-	url = https://github.com/cran/EDCimport
 [submodule "EDFtest"]
 	path = EDFtest
 	url = https://github.com/cran/EDFtest
@@ -11498,9 +11495,6 @@
 [submodule "OmopSketch"]
 	path = OmopSketch
 	url = https://github.com/cran/OmopSketch
-[submodule "OmopViewer"]
-	path = OmopViewer
-	url = https://github.com/cran/OmopViewer
 [submodule "OnAge"]
 	path = OnAge
 	url = https://github.com/cran/OnAge
