@@ -2066,6 +2066,9 @@
 [submodule "CBPS"]
 	path = CBPS
 	url = https://github.com/cran/CBPS
+[submodule "CBRT"]
+	path = CBRT
+	url = https://github.com/cran/CBRT
 [submodule "CBSr"]
 	path = CBSr
 	url = https://github.com/cran/CBSr
@@ -12491,6 +12494,9 @@
 [submodule "PenIC"]
 	path = PenIC
 	url = https://github.com/cran/PenIC
+[submodule "PepMapViz"]
+	path = PepMapViz
+	url = https://github.com/cran/PepMapViz
 [submodule "PepSAVIms"]
 	path = PepSAVIms
 	url = https://github.com/cran/PepSAVIms
@@ -12647,6 +12653,9 @@
 [submodule "PlotContour"]
 	path = PlotContour
 	url = https://github.com/cran/PlotContour
+[submodule "PlotFTIR"]
+	path = PlotFTIR
+	url = https://github.com/cran/PlotFTIR
 [submodule "PlotPrjNetworks"]
 	path = PlotPrjNetworks
 	url = https://github.com/cran/PlotPrjNetworks
@@ -13481,6 +13490,9 @@
 [submodule "RClimacell"]
 	path = RClimacell
 	url = https://github.com/cran/RClimacell
+[submodule "RCognito"]
+	path = RCognito
+	url = https://github.com/cran/RCognito
 [submodule "RColetum"]
 	path = RColetum
 	url = https://github.com/cran/RColetum
@@ -23156,6 +23168,9 @@
 [submodule "brickset"]
 	path = brickset
 	url = https://github.com/cran/brickset
+[submodule "brickster"]
+	path = brickster
+	url = https://github.com/cran/brickster
 [submodule "bridgedist"]
 	path = bridgedist
 	url = https://github.com/cran/bridgedist
@@ -24563,6 +24578,9 @@
 [submodule "ciTools"]
 	path = ciTools
 	url = https://github.com/cran/ciTools
+[submodule "cia"]
+	path = cia
+	url = https://github.com/cran/cia
 [submodule "ciccr"]
 	path = ciccr
 	url = https://github.com/cran/ciccr
@@ -26462,6 +26480,9 @@
 [submodule "cppcheckR"]
 	path = cppcheckR
 	url = https://github.com/cran/cppcheckR
+[submodule "cppcontainers"]
+	path = cppcontainers
+	url = https://github.com/cran/cppcontainers
 [submodule "cppdoubles"]
 	path = cppdoubles
 	url = https://github.com/cran/cppdoubles
@@ -37001,6 +37022,9 @@
 [submodule "hms"]
 	path = hms
 	url = https://github.com/cran/hms
+[submodule "hmsidwR"]
+	path = hmsidwR
+	url = https://github.com/cran/hmsidwR
 [submodule "hmsr"]
 	path = hmsr
 	url = https://github.com/cran/hmsr
@@ -48815,6 +48839,9 @@
 [submodule "phylolm"]
 	path = phylolm
 	url = https://github.com/cran/phylolm
+[submodule "phylolm.hp"]
+	path = phylolm.hp
+	url = https://github.com/cran/phylolm.hp
 [submodule "phylometrics"]
 	path = phylometrics
 	url = https://github.com/cran/phylometrics
@@ -52400,6 +52427,9 @@
 [submodule "rcpptimer"]
 	path = rcpptimer
 	url = https://github.com/cran/rcpptimer
+[submodule "rcprd"]
+	path = rcprd
+	url = https://github.com/cran/rcprd
 [submodule "rcrimeanalysis"]
 	path = rcrimeanalysis
 	url = https://github.com/cran/rcrimeanalysis
@@ -56921,6 +56951,9 @@
 [submodule "shinyTree"]
 	path = shinyTree
 	url = https://github.com/cran/shinyTree
+[submodule "shinyWGD"]
+	path = shinyWGD
+	url = https://github.com/cran/shinyWGD
 [submodule "shinyWidgets"]
 	path = shinyWidgets
 	url = https://github.com/cran/shinyWidgets
