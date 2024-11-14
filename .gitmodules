@@ -37508,9 +37508,6 @@
 [submodule "iClick"]
 	path = iClick
 	url = https://github.com/cran/iClick
-[submodule "iClusterVB"]
-	path = iClusterVB
-	url = https://github.com/cran/iClusterVB
 [submodule "iDINGO"]
 	path = iDINGO
 	url = https://github.com/cran/iDINGO
