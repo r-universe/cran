@@ -6809,6 +6809,9 @@
 [submodule "GeoThinneR"]
 	path = GeoThinneR
 	url = https://github.com/cran/GeoThinneR
+[submodule "GeoTox"]
+	path = GeoTox
+	url = https://github.com/cran/GeoTox
 [submodule "GeoWeightedModel"]
 	path = GeoWeightedModel
 	url = https://github.com/cran/GeoWeightedModel
