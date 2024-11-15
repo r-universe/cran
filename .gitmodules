@@ -7205,6 +7205,9 @@
 [submodule "HMMEsolver"]
 	path = HMMEsolver
 	url = https://github.com/cran/HMMEsolver
+[submodule "HMMRel"]
+	path = HMMRel
+	url = https://github.com/cran/HMMRel
 [submodule "HMMcopula"]
 	path = HMMcopula
 	url = https://github.com/cran/HMMcopula
@@ -11375,6 +11378,9 @@
 [submodule "OPTS"]
 	path = OPTS
 	url = https://github.com/cran/OPTS
+[submodule "OPTeCD"]
+	path = OPTeCD
+	url = https://github.com/cran/OPTeCD
 [submodule "OPTtesting"]
 	path = OPTtesting
 	url = https://github.com/cran/OPTtesting
@@ -15197,6 +15203,9 @@
 [submodule "RepoGenerator"]
 	path = RepoGenerator
 	url = https://github.com/cran/RepoGenerator
+[submodule "ReportSubtotal"]
+	path = ReportSubtotal
+	url = https://github.com/cran/ReportSubtotal
 [submodule "ReporterScore"]
 	path = ReporterScore
 	url = https://github.com/cran/ReporterScore
@@ -45425,6 +45434,9 @@
 [submodule "nebula"]
 	path = nebula
 	url = https://github.com/cran/nebula
+[submodule "necountries"]
+	path = necountries
+	url = https://github.com/cran/necountries
 [submodule "needmining"]
 	path = needmining
 	url = https://github.com/cran/needmining
@@ -51413,6 +51425,9 @@
 [submodule "queueing"]
 	path = queueing
 	url = https://github.com/cran/queueing
+[submodule "quicR"]
+	path = quicR
+	url = https://github.com/cran/quicR
 [submodule "quickNmix"]
 	path = quickNmix
 	url = https://github.com/cran/quickNmix
@@ -64271,6 +64286,9 @@
 [submodule "wbacon"]
 	path = wbacon
 	url = https://github.com/cran/wbacon
+[submodule "wbids"]
+	path = wbids
+	url = https://github.com/cran/wbids
 [submodule "wbs"]
 	path = wbs
 	url = https://github.com/cran/wbs
