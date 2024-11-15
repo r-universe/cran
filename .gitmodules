@@ -1775,6 +1775,9 @@
 [submodule "Bioi"]
 	path = Bioi
 	url = https://github.com/cran/Bioi
+[submodule "Bios2cor"]
+	path = Bios2cor
+	url = https://github.com/cran/Bios2cor
 [submodule "Biostatistics"]
 	path = Biostatistics
 	url = https://github.com/cran/Biostatistics
@@ -7367,6 +7370,9 @@
 [submodule "HiDimDA"]
 	path = HiDimDA
 	url = https://github.com/cran/HiDimDA
+[submodule "HiGarrote"]
+	path = HiGarrote
+	url = https://github.com/cran/HiGarrote
 [submodule "HiResTEC"]
 	path = HiResTEC
 	url = https://github.com/cran/HiResTEC
@@ -8147,6 +8153,9 @@
 [submodule "JAGStree"]
 	path = JAGStree
 	url = https://github.com/cran/JAGStree
+[submodule "JANE"]
+	path = JANE
+	url = https://github.com/cran/JANE
 [submodule "JATSdecoder"]
 	path = JATSdecoder
 	url = https://github.com/cran/JATSdecoder
@@ -12515,6 +12524,9 @@
 [submodule "PerMat"]
 	path = PerMat
 	url = https://github.com/cran/PerMat
+[submodule "PerRegMod"]
+	path = PerRegMod
+	url = https://github.com/cran/PerRegMod
 [submodule "Perc"]
 	path = Perc
 	url = https://github.com/cran/Perc
@@ -15065,6 +15077,9 @@
 [submodule "ReMFPCA"]
 	path = ReMFPCA
 	url = https://github.com/cran/ReMFPCA
+[submodule "ReSurv"]
+	path = ReSurv
+	url = https://github.com/cran/ReSurv
 [submodule "ReacTran"]
 	path = ReacTran
 	url = https://github.com/cran/ReacTran
@@ -15125,6 +15140,9 @@
 [submodule "RegSDC"]
 	path = RegSDC
 	url = https://github.com/cran/RegSDC
+[submodule "RegrCoeffsExplorer"]
+	path = RegrCoeffsExplorer
+	url = https://github.com/cran/RegrCoeffsExplorer
 [submodule "RegressionFactory"]
 	path = RegressionFactory
 	url = https://github.com/cran/RegressionFactory
@@ -15494,6 +15512,9 @@
 [submodule "RobustLinearReg"]
 	path = RobustLinearReg
 	url = https://github.com/cran/RobustLinearReg
+[submodule "RobustPrediction"]
+	path = RobustPrediction
+	url = https://github.com/cran/RobustPrediction
 [submodule "RobustRankAggreg"]
 	path = RobustRankAggreg
 	url = https://github.com/cran/RobustRankAggreg
@@ -17843,6 +17864,9 @@
 [submodule "TExPosition"]
 	path = TExPosition
 	url = https://github.com/cran/TExPosition
+[submodule "TFM"]
+	path = TFM
+	url = https://github.com/cran/TFM
 [submodule "TFMPvalue"]
 	path = TFMPvalue
 	url = https://github.com/cran/TFMPvalue
@@ -18902,6 +18926,9 @@
 [submodule "Vdgraph"]
 	path = Vdgraph
 	url = https://github.com/cran/Vdgraph
+[submodule "VecDep"]
+	path = VecDep
+	url = https://github.com/cran/VecDep
 [submodule "VeccTMVN"]
 	path = VeccTMVN
 	url = https://github.com/cran/VeccTMVN
@@ -25082,6 +25109,9 @@
 [submodule "clustringr"]
 	path = clustringr
 	url = https://github.com/cran/clustringr
+[submodule "clustur"]
+	path = clustur
+	url = https://github.com/cran/clustur
 [submodule "clustvarsel"]
 	path = clustvarsel
 	url = https://github.com/cran/clustvarsel
@@ -32588,9 +32618,6 @@
 [submodule "fma"]
 	path = fma
 	url = https://github.com/cran/fma
-[submodule "fmbasics"]
-	path = fmbasics
-	url = https://github.com/cran/fmbasics
 [submodule "fmcmc"]
 	path = fmcmc
 	url = https://github.com/cran/fmcmc
@@ -41219,6 +41246,9 @@
 [submodule "lotterybr"]
 	path = lotterybr
 	url = https://github.com/cran/lotterybr
+[submodule "lovecraftr"]
+	path = lovecraftr
+	url = https://github.com/cran/lovecraftr
 [submodule "lowmemtkmeans"]
 	path = lowmemtkmeans
 	url = https://github.com/cran/lowmemtkmeans
@@ -41774,6 +41804,9 @@
 [submodule "mapi"]
 	path = mapi
 	url = https://github.com/cran/mapi
+[submodule "mapindia"]
+	path = mapindia
+	url = https://github.com/cran/mapindia
 [submodule "mapindiatools"]
 	path = mapindiatools
 	url = https://github.com/cran/mapindiatools
@@ -49904,6 +49937,9 @@
 [submodule "powerpkg"]
 	path = powerpkg
 	url = https://github.com/cran/powerpkg
+[submodule "powertools"]
+	path = powertools
+	url = https://github.com/cran/powertools
 [submodule "ppRank"]
 	path = ppRank
 	url = https://github.com/cran/ppRank
@@ -56894,6 +56930,9 @@
 [submodule "shinyMergely"]
 	path = shinyMergely
 	url = https://github.com/cran/shinyMergely
+[submodule "shinyMixR"]
+	path = shinyMixR
+	url = https://github.com/cran/shinyMixR
 [submodule "shinyMobile"]
 	path = shinyMobile
 	url = https://github.com/cran/shinyMobile
@@ -57629,6 +57668,9 @@
 [submodule "sits"]
 	path = sits
 	url = https://github.com/cran/sits
+[submodule "sivirep"]
+	path = sivirep
+	url = https://github.com/cran/sivirep
 [submodule "sivs"]
 	path = sivs
 	url = https://github.com/cran/sivs
@@ -63854,6 +63896,9 @@
 [submodule "visualpred"]
 	path = visualpred
 	url = https://github.com/cran/visualpred
+[submodule "visvaR"]
+	path = visvaR
+	url = https://github.com/cran/visvaR
 [submodule "visvow"]
 	path = visvow
 	url = https://github.com/cran/visvow
