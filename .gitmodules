@@ -29975,9 +29975,6 @@
 [submodule "eda4treeR"]
 	path = eda4treeR
 	url = https://github.com/cran/eda4treeR
-[submodule "edbuildmapr"]
-	path = edbuildmapr
-	url = https://github.com/cran/edbuildmapr
 [submodule "edcpR"]
 	path = edcpR
 	url = https://github.com/cran/edcpR
