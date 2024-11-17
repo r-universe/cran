@@ -58499,9 +58499,6 @@
 [submodule "sparseFLMM"]
 	path = sparseFLMM
 	url = https://github.com/cran/sparseFLMM
-[submodule "sparseGAM"]
-	path = sparseGAM
-	url = https://github.com/cran/sparseGAM
 [submodule "sparseHessianFD"]
 	path = sparseHessianFD
 	url = https://github.com/cran/sparseHessianFD
