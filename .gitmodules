@@ -7277,9 +7277,6 @@
 [submodule "HTSCluster"]
 	path = HTSCluster
 	url = https://github.com/cran/HTSCluster
-[submodule "HTSSIP"]
-	path = HTSSIP
-	url = https://github.com/cran/HTSSIP
 [submodule "HTSeed"]
 	path = HTSeed
 	url = https://github.com/cran/HTSeed
@@ -16160,9 +16157,6 @@
 [submodule "SIPETool"]
 	path = SIPETool
 	url = https://github.com/cran/SIPETool
-[submodule "SIPmg"]
-	path = SIPmg
-	url = https://github.com/cran/SIPmg
 [submodule "SIRE"]
 	path = SIRE
 	url = https://github.com/cran/SIRE
@@ -28322,9 +28316,6 @@
 [submodule "dhh"]
 	path = dhh
 	url = https://github.com/cran/dhh
-[submodule "dhis2r"]
-	path = dhis2r
-	url = https://github.com/cran/dhis2r
 [submodule "dhlabR"]
 	path = dhlabR
 	url = https://github.com/cran/dhlabR
@@ -48263,9 +48254,6 @@
 [submodule "pcsstools"]
 	path = pcsstools
 	url = https://github.com/cran/pcsstools
-[submodule "pct"]
-	path = pct
-	url = https://github.com/cran/pct
 [submodule "pctax"]
 	path = pctax
 	url = https://github.com/cran/pctax
@@ -49475,9 +49463,6 @@
 [submodule "pmhtutorial"]
 	path = pmhtutorial
 	url = https://github.com/cran/pmhtutorial
-[submodule "pmlbr"]
-	path = pmlbr
-	url = https://github.com/cran/pmlbr
 [submodule "pmledecon"]
 	path = pmledecon
 	url = https://github.com/cran/pmledecon
