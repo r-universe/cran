@@ -32714,9 +32714,6 @@
 [submodule "foodwebWrapper"]
 	path = foodwebWrapper
 	url = https://github.com/cran/foodwebWrapper
-[submodule "foolbox"]
-	path = foolbox
-	url = https://github.com/cran/foolbox
 [submodule "footBayes"]
 	path = footBayes
 	url = https://github.com/cran/footBayes
