@@ -2645,6 +2645,9 @@
 [submodule "Canopy"]
 	path = Canopy
 	url = https://github.com/cran/Canopy
+[submodule "CareDensity"]
+	path = CareDensity
+	url = https://github.com/cran/CareDensity
 [submodule "CarletonStats"]
 	path = CarletonStats
 	url = https://github.com/cran/CarletonStats
@@ -22190,6 +22193,9 @@
 [submodule "bfast"]
 	path = bfast
 	url = https://github.com/cran/bfast
+[submodule "bfboinet"]
+	path = bfboinet
+	url = https://github.com/cran/bfboinet
 [submodule "bfp"]
 	path = bfp
 	url = https://github.com/cran/bfp
@@ -30086,6 +30092,9 @@
 [submodule "effectR"]
 	path = effectR
 	url = https://github.com/cran/effectR
+[submodule "effectplots"]
+	path = effectplots
+	url = https://github.com/cran/effectplots
 [submodule "effects"]
 	path = effects
 	url = https://github.com/cran/effects
@@ -62687,6 +62696,9 @@
 [submodule "tsintermittent"]
 	path = tsintermittent
 	url = https://github.com/cran/tsintermittent
+[submodule "tsmarch"]
+	path = tsmarch
+	url = https://github.com/cran/tsmarch
 [submodule "tsmethods"]
 	path = tsmethods
 	url = https://github.com/cran/tsmethods
