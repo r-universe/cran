@@ -10037,9 +10037,6 @@
 [submodule "MWright"]
 	path = MWright
 	url = https://github.com/cran/MWright
-[submodule "MXM"]
-	path = MXM
-	url = https://github.com/cran/MXM
 [submodule "MaOEA"]
 	path = MaOEA
 	url = https://github.com/cran/MaOEA
@@ -11696,6 +11693,9 @@
 [submodule "Ostats"]
 	path = Ostats
 	url = https://github.com/cran/Ostats
+[submodule "OutSeekR"]
+	path = OutSeekR
+	url = https://github.com/cran/OutSeekR
 [submodule "OutliersLearn"]
 	path = OutliersLearn
 	url = https://github.com/cran/OutliersLearn
@@ -20267,9 +20267,6 @@
 [submodule "alfred"]
 	path = alfred
 	url = https://github.com/cran/alfred
-[submodule "algaeClassify"]
-	path = algaeClassify
-	url = https://github.com/cran/algaeClassify
 [submodule "algo"]
 	path = algo
 	url = https://github.com/cran/algo
@@ -27959,6 +27956,9 @@
 [submodule "degross"]
 	path = degross
 	url = https://github.com/cran/degross
+[submodule "deident"]
+	path = deident
+	url = https://github.com/cran/deident
 [submodule "dejaVu"]
 	path = dejaVu
 	url = https://github.com/cran/dejaVu
@@ -42851,9 +42851,6 @@
 [submodule "metatools"]
 	path = metatools
 	url = https://github.com/cran/metatools
-[submodule "metaumbrella"]
-	path = metaumbrella
-	url = https://github.com/cran/metaumbrella
 [submodule "metavcov"]
 	path = metavcov
 	url = https://github.com/cran/metavcov
@@ -44723,6 +44720,9 @@
 [submodule "multiDimBio"]
 	path = multiDimBio
 	url = https://github.com/cran/multiDimBio
+[submodule "multiDoE"]
+	path = multiDoE
+	url = https://github.com/cran/multiDoE
 [submodule "multiFANOVA"]
 	path = multiFANOVA
 	url = https://github.com/cran/multiFANOVA
@@ -56675,9 +56675,6 @@
 [submodule "sgPLS"]
 	path = sgPLS
 	url = https://github.com/cran/sgPLS
-[submodule "sgapi"]
-	path = sgapi
-	url = https://github.com/cran/sgapi
 [submodule "sgat"]
 	path = sgat
 	url = https://github.com/cran/sgat
@@ -64499,6 +64496,9 @@
 [submodule "when"]
 	path = when
 	url = https://github.com/cran/when
+[submodule "where"]
+	path = where
+	url = https://github.com/cran/where
 [submodule "whereami"]
 	path = whereami
 	url = https://github.com/cran/whereami
