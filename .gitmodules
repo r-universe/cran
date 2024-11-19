@@ -2525,6 +2525,9 @@
 [submodule "CSMES"]
 	path = CSMES
 	url = https://github.com/cran/CSMES
+[submodule "CSTE"]
+	path = CSTE
+	url = https://github.com/cran/CSTE
 [submodule "CSTools"]
 	path = CSTools
 	url = https://github.com/cran/CSTools
@@ -6521,6 +6524,9 @@
 [submodule "GRIDCOPULA"]
 	path = GRIDCOPULA
 	url = https://github.com/cran/GRIDCOPULA
+[submodule "GRIN2"]
+	path = GRIN2
+	url = https://github.com/cran/GRIN2
 [submodule "GRNNs"]
 	path = GRNNs
 	url = https://github.com/cran/GRNNs
@@ -8627,6 +8633,9 @@
 [submodule "LFDREmpiricalBayes"]
 	path = LFDREmpiricalBayes
 	url = https://github.com/cran/LFDREmpiricalBayes
+[submodule "LFM"]
+	path = LFM
+	url = https://github.com/cran/LFM
 [submodule "LGDtoolkit"]
 	path = LGDtoolkit
 	url = https://github.com/cran/LGDtoolkit
@@ -29825,6 +29834,9 @@
 [submodule "ecce"]
 	path = ecce
 	url = https://github.com/cran/ecce
+[submodule "ecdata"]
+	path = ecdata
+	url = https://github.com/cran/ecdata
 [submodule "ecdfHT"]
 	path = ecdfHT
 	url = https://github.com/cran/ecdfHT
@@ -32813,6 +32825,9 @@
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cran/forestdata
+[submodule "forestdynR"]
+	path = forestdynR
+	url = https://github.com/cran/forestdynR
 [submodule "forestecology"]
 	path = forestecology
 	url = https://github.com/cran/forestecology
@@ -45125,6 +45140,9 @@
 [submodule "mvtsplot"]
 	path = mvtsplot
 	url = https://github.com/cran/mvtsplot
+[submodule "mvvg"]
+	path = mvvg
+	url = https://github.com/cran/mvvg
 [submodule "mwTensor"]
 	path = mwTensor
 	url = https://github.com/cran/mwTensor
@@ -50663,6 +50681,9 @@
 [submodule "pseudo"]
 	path = pseudo
 	url = https://github.com/cran/pseudo
+[submodule "pseudobibeR"]
+	path = pseudobibeR
+	url = https://github.com/cran/pseudobibeR
 [submodule "pseudohouseholds"]
 	path = pseudohouseholds
 	url = https://github.com/cran/pseudohouseholds
@@ -60746,6 +60767,9 @@
 [submodule "takos"]
 	path = takos
 	url = https://github.com/cran/takos
+[submodule "talkr"]
+	path = talkr
+	url = https://github.com/cran/talkr
 [submodule "tame"]
 	path = tame
 	url = https://github.com/cran/tame
