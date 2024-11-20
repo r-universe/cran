@@ -24215,6 +24215,9 @@
 [submodule "celltrackR"]
 	path = celltrackR
 	url = https://github.com/cran/celltrackR
+[submodule "cellularautomata"]
+	path = cellularautomata
+	url = https://github.com/cran/cellularautomata
 [submodule "cem"]
 	path = cem
 	url = https://github.com/cran/cem
@@ -34346,6 +34349,9 @@
 [submodule "gerbil"]
 	path = gerbil
 	url = https://github.com/cran/gerbil
+[submodule "gerda"]
+	path = gerda
+	url = https://github.com/cran/gerda
 [submodule "gerefer"]
 	path = gerefer
 	url = https://github.com/cran/gerefer
@@ -51431,6 +51437,9 @@
 [submodule "quantregRanger"]
 	path = quantregRanger
 	url = https://github.com/cran/quantregRanger
+[submodule "quantsig"]
+	path = quantsig
+	url = https://github.com/cran/quantsig
 [submodule "quantspec"]
 	path = quantspec
 	url = https://github.com/cran/quantspec
@@ -55505,6 +55514,9 @@
 [submodule "sampleVADIR"]
 	path = sampleVADIR
 	url = https://github.com/cran/sampleVADIR
+[submodule "sampledatasets"]
+	path = sampledatasets
+	url = https://github.com/cran/sampledatasets
 [submodule "sampler"]
 	path = sampler
 	url = https://github.com/cran/sampler
