@@ -1763,6 +1763,9 @@
 [submodule "BioVenn"]
 	path = BioVenn
 	url = https://github.com/cran/BioVenn
+[submodule "BioVizSeq"]
+	path = BioVizSeq
+	url = https://github.com/cran/BioVizSeq
 [submodule "BiocManager"]
 	path = BiocManager
 	url = https://github.com/cran/BiocManager
@@ -9302,12 +9305,6 @@
 [submodule "MBMethPred"]
 	path = MBMethPred
 	url = https://github.com/cran/MBMethPred
-[submodule "MBNMAdose"]
-	path = MBNMAdose
-	url = https://github.com/cran/MBNMAdose
-[submodule "MBNMAtime"]
-	path = MBNMAtime
-	url = https://github.com/cran/MBNMAtime
 [submodule "MBSGS"]
 	path = MBSGS
 	url = https://github.com/cran/MBSGS
@@ -11582,6 +11579,9 @@
 [submodule "OpEnHiMR"]
 	path = OpEnHiMR
 	url = https://github.com/cran/OpEnHiMR
+[submodule "OpeNoise"]
+	path = OpeNoise
+	url = https://github.com/cran/OpeNoise
 [submodule "OpenCL"]
 	path = OpenCL
 	url = https://github.com/cran/OpenCL
@@ -15236,9 +15236,6 @@
 [submodule "ResPBIBD"]
 	path = ResPBIBD
 	url = https://github.com/cran/ResPBIBD
-[submodule "ResearchAssociate"]
-	path = ResearchAssociate
-	url = https://github.com/cran/ResearchAssociate
 [submodule "ResidentialEnergyConsumption"]
 	path = ResidentialEnergyConsumption
 	url = https://github.com/cran/ResidentialEnergyConsumption
@@ -16640,6 +16637,9 @@
 [submodule "SVDNF"]
 	path = SVDNF
 	url = https://github.com/cran/SVDNF
+[submodule "SVEMnet"]
+	path = SVEMnet
+	url = https://github.com/cran/SVEMnet
 [submodule "SVMD"]
 	path = SVMD
 	url = https://github.com/cran/SVMD
@@ -41495,6 +41495,9 @@
 [submodule "lvplot"]
 	path = lvplot
 	url = https://github.com/cran/lvplot
+[submodule "lwc2022"]
+	path = lwc2022
+	url = https://github.com/cran/lwc2022
 [submodule "lwgeom"]
 	path = lwgeom
 	url = https://github.com/cran/lwgeom
@@ -50675,6 +50678,9 @@
 [submodule "psborrow2"]
 	path = psborrow2
 	url = https://github.com/cran/psborrow2
+[submodule "psc"]
+	path = psc
+	url = https://github.com/cran/psc
 [submodule "pscl"]
 	path = pscl
 	url = https://github.com/cran/pscl
