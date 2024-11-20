@@ -2747,6 +2747,9 @@
 [submodule "Certara.R"]
 	path = Certara.R
 	url = https://github.com/cran/Certara.R
+[submodule "Certara.RsNLME"]
+	path = Certara.RsNLME
+	url = https://github.com/cran/Certara.RsNLME
 [submodule "Certara.VPCResults"]
 	path = Certara.VPCResults
 	url = https://github.com/cran/Certara.VPCResults
