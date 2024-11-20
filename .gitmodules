@@ -10046,6 +10046,9 @@
 [submodule "MWright"]
 	path = MWright
 	url = https://github.com/cran/MWright
+[submodule "MXM"]
+	path = MXM
+	url = https://github.com/cran/MXM
 [submodule "MaOEA"]
 	path = MaOEA
 	url = https://github.com/cran/MaOEA
@@ -20276,6 +20279,9 @@
 [submodule "alfred"]
 	path = alfred
 	url = https://github.com/cran/alfred
+[submodule "algaeClassify"]
+	path = algaeClassify
+	url = https://github.com/cran/algaeClassify
 [submodule "algo"]
 	path = algo
 	url = https://github.com/cran/algo
@@ -42866,6 +42872,9 @@
 [submodule "metatools"]
 	path = metatools
 	url = https://github.com/cran/metatools
+[submodule "metaumbrella"]
+	path = metaumbrella
+	url = https://github.com/cran/metaumbrella
 [submodule "metavcov"]
 	path = metavcov
 	url = https://github.com/cran/metavcov
@@ -56696,6 +56705,9 @@
 [submodule "sgPLS"]
 	path = sgPLS
 	url = https://github.com/cran/sgPLS
+[submodule "sgapi"]
+	path = sgapi
+	url = https://github.com/cran/sgapi
 [submodule "sgat"]
 	path = sgat
 	url = https://github.com/cran/sgat
