@@ -18413,6 +18413,9 @@
 [submodule "TidyMultiqc"]
 	path = TidyMultiqc
 	url = https://github.com/cran/TidyMultiqc
+[submodule "TimeDepFrail"]
+	path = TimeDepFrail
+	url = https://github.com/cran/TimeDepFrail
 [submodule "TimeVTree"]
 	path = TimeVTree
 	url = https://github.com/cran/TimeVTree
@@ -24587,6 +24590,9 @@
 [submodule "cholera"]
 	path = cholera
 	url = https://github.com/cran/cholera
+[submodule "chooseGCM"]
+	path = chooseGCM
+	url = https://github.com/cran/chooseGCM
 [submodule "choosepc"]
 	path = choosepc
 	url = https://github.com/cran/choosepc
@@ -25442,6 +25448,9 @@
 [submodule "cognitoR"]
 	path = cognitoR
 	url = https://github.com/cran/cognitoR
+[submodule "cohetsurr"]
+	path = cohetsurr
+	url = https://github.com/cran/cohetsurr
 [submodule "cohortBuilder"]
 	path = cohortBuilder
 	url = https://github.com/cran/cohortBuilder
@@ -26399,6 +26408,9 @@
 [submodule "covafillr"]
 	path = covafillr
 	url = https://github.com/cran/covafillr
+[submodule "covalchemy"]
+	path = covalchemy
+	url = https://github.com/cran/covalchemy
 [submodule "covatest"]
 	path = covatest
 	url = https://github.com/cran/covatest
@@ -27521,9 +27533,6 @@
 [submodule "datacleanr"]
 	path = datacleanr
 	url = https://github.com/cran/datacleanr
-[submodule "datacutr"]
-	path = datacutr
-	url = https://github.com/cran/datacutr
 [submodule "datadictionary"]
 	path = datadictionary
 	url = https://github.com/cran/datadictionary
@@ -31019,6 +31028,9 @@
 [submodule "eva"]
 	path = eva
 	url = https://github.com/cran/eva
+[submodule "eva3dm"]
+	path = eva3dm
+	url = https://github.com/cran/eva3dm
 [submodule "evabic"]
 	path = evabic
 	url = https://github.com/cran/evabic
@@ -39554,6 +39566,9 @@
 [submodule "kendallRandomWalks"]
 	path = kendallRandomWalks
 	url = https://github.com/cran/kendallRandomWalks
+[submodule "kendallknight"]
+	path = kendallknight
+	url = https://github.com/cran/kendallknight
 [submodule "kequate"]
 	path = kequate
 	url = https://github.com/cran/kequate
@@ -42080,6 +42095,9 @@
 [submodule "matchMulti"]
 	path = matchMulti
 	url = https://github.com/cran/matchMulti
+[submodule "matchedcc"]
+	path = matchedcc
+	url = https://github.com/cran/matchedcc
 [submodule "matchingMarkets"]
 	path = matchingMarkets
 	url = https://github.com/cran/matchingMarkets
@@ -43721,6 +43739,9 @@
 [submodule "mlmpower"]
 	path = mlmpower
 	url = https://github.com/cran/mlmpower
+[submodule "mlms"]
+	path = mlms
+	url = https://github.com/cran/mlms
 [submodule "mlmtools"]
 	path = mlmtools
 	url = https://github.com/cran/mlmtools
@@ -54566,6 +54587,9 @@
 [submodule "roxut"]
 	path = roxut
 	url = https://github.com/cran/roxut
+[submodule "roxy.shinylive"]
+	path = roxy.shinylive
+	url = https://github.com/cran/roxy.shinylive
 [submodule "roxygen2"]
 	path = roxygen2
 	url = https://github.com/cran/roxygen2
@@ -56051,6 +56075,9 @@
 [submodule "scout"]
 	path = scout
 	url = https://github.com/cran/scout
+[submodule "scoutbaR"]
+	path = scoutbaR
+	url = https://github.com/cran/scoutbaR
 [submodule "scperturbR"]
 	path = scperturbR
 	url = https://github.com/cran/scperturbR
@@ -62384,6 +62411,9 @@
 [submodule "tranSurv"]
 	path = tranSurv
 	url = https://github.com/cran/tranSurv
+[submodule "transDA"]
+	path = transDA
+	url = https://github.com/cran/transDA
 [submodule "transPlotR"]
 	path = transPlotR
 	url = https://github.com/cran/transPlotR
@@ -65132,6 +65162,9 @@
 [submodule "xpose.nlmixr2"]
 	path = xpose.nlmixr2
 	url = https://github.com/cran/xpose.nlmixr2
+[submodule "xpose.xtras"]
+	path = xpose.xtras
+	url = https://github.com/cran/xpose.xtras
 [submodule "xpose4"]
 	path = xpose4
 	url = https://github.com/cran/xpose4
