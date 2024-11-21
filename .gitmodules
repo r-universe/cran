@@ -644,6 +644,9 @@
 [submodule "AnnuityRIR"]
 	path = AnnuityRIR
 	url = https://github.com/cran/AnnuityRIR
+[submodule "AnomalyScore"]
+	path = AnomalyScore
+	url = https://github.com/cran/AnomalyScore
 [submodule "AntAngioCOOL"]
 	path = AntAngioCOOL
 	url = https://github.com/cran/AntAngioCOOL
@@ -2570,6 +2573,9 @@
 [submodule "CTTinShiny"]
 	path = CTTinShiny
 	url = https://github.com/cran/CTTinShiny
+[submodule "CTTvis"]
+	path = CTTvis
+	url = https://github.com/cran/CTTvis
 [submodule "CTxCC"]
 	path = CTxCC
 	url = https://github.com/cran/CTxCC
@@ -11717,6 +11723,9 @@
 [submodule "OutSeekR"]
 	path = OutSeekR
 	url = https://github.com/cran/OutSeekR
+[submodule "OutcomeWeights"]
+	path = OutcomeWeights
+	url = https://github.com/cran/OutcomeWeights
 [submodule "OutliersLearn"]
 	path = OutliersLearn
 	url = https://github.com/cran/OutliersLearn
@@ -24722,6 +24731,9 @@
 [submodule "cirls"]
 	path = cirls
 	url = https://github.com/cran/cirls
+[submodule "cisp"]
+	path = cisp
+	url = https://github.com/cran/cisp
 [submodule "cit"]
 	path = cit
 	url = https://github.com/cran/cit
@@ -25967,6 +25979,9 @@
 [submodule "consortr"]
 	path = consortr
 	url = https://github.com/cran/consortr
+[submodule "consrq"]
+	path = consrq
+	url = https://github.com/cran/consrq
 [submodule "constants"]
 	path = constants
 	url = https://github.com/cran/constants
@@ -32081,9 +32096,6 @@
 [submodule "fedmatch"]
 	path = fedmatch
 	url = https://github.com/cran/fedmatch
-[submodule "fedregs"]
-	path = fedregs
-	url = https://github.com/cran/fedregs
 [submodule "fedstatAPIr"]
 	path = fedstatAPIr
 	url = https://github.com/cran/fedstatAPIr
@@ -56069,6 +56081,9 @@
 [submodule "screenshot"]
 	path = screenshot
 	url = https://github.com/cran/screenshot
+[submodule "scregclust"]
+	path = scregclust
+	url = https://github.com/cran/scregclust
 [submodule "scribe"]
 	path = scribe
 	url = https://github.com/cran/scribe
