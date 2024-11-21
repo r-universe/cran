@@ -9308,6 +9308,12 @@
 [submodule "MBMethPred"]
 	path = MBMethPred
 	url = https://github.com/cran/MBMethPred
+[submodule "MBNMAdose"]
+	path = MBNMAdose
+	url = https://github.com/cran/MBNMAdose
+[submodule "MBNMAtime"]
+	path = MBNMAtime
+	url = https://github.com/cran/MBNMAtime
 [submodule "MBSGS"]
 	path = MBSGS
 	url = https://github.com/cran/MBSGS
