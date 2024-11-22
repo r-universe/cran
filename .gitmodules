@@ -7835,12 +7835,6 @@
 [submodule "IRCcheck"]
 	path = IRCcheck
 	url = https://github.com/cran/IRCcheck
-[submodule "IRISMustangMetrics"]
-	path = IRISMustangMetrics
-	url = https://github.com/cran/IRISMustangMetrics
-[submodule "IRISSeismic"]
-	path = IRISSeismic
-	url = https://github.com/cran/IRISSeismic
 [submodule "IRR2FPR"]
 	path = IRR2FPR
 	url = https://github.com/cran/IRR2FPR
@@ -60113,6 +60107,9 @@
 [submodule "supclust"]
 	path = supclust
 	url = https://github.com/cran/supclust
+[submodule "super"]
+	path = super
+	url = https://github.com/cran/super
 [submodule "superMICE"]
 	path = superMICE
 	url = https://github.com/cran/superMICE
@@ -62174,6 +62171,9 @@
 [submodule "topicmodels.etm"]
 	path = topicmodels.etm
 	url = https://github.com/cran/topicmodels.etm
+[submodule "topics"]
+	path = topics
+	url = https://github.com/cran/topics
 [submodule "topmodel"]
 	path = topmodel
 	url = https://github.com/cran/topmodel
