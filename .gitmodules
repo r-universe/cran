@@ -6668,6 +6668,9 @@
 [submodule "GWalkR"]
 	path = GWalkR
 	url = https://github.com/cran/GWalkR
+[submodule "GWlasso"]
+	path = GWlasso
+	url = https://github.com/cran/GWlasso
 [submodule "GWmodel"]
 	path = GWmodel
 	url = https://github.com/cran/GWmodel
@@ -20564,6 +20567,9 @@
 [submodule "anomaly"]
 	path = anomaly
 	url = https://github.com/cran/anomaly
+[submodule "anominate"]
+	path = anominate
+	url = https://github.com/cran/anominate
 [submodule "anomo"]
 	path = anomo
 	url = https://github.com/cran/anomo
@@ -31163,6 +31169,9 @@
 [submodule "exactextractr"]
 	path = exactextractr
 	url = https://github.com/cran/exactextractr
+[submodule "exametrika"]
+	path = exametrika
+	url = https://github.com/cran/exametrika
 [submodule "exampletestr"]
 	path = exampletestr
 	url = https://github.com/cran/exampletestr
@@ -55424,6 +55433,9 @@
 [submodule "saeHB.panel.beta"]
 	path = saeHB.panel.beta
 	url = https://github.com/cran/saeHB.panel.beta
+[submodule "saeHB.spatial"]
+	path = saeHB.spatial
+	url = https://github.com/cran/saeHB.spatial
 [submodule "saeHB.unit"]
 	path = saeHB.unit
 	url = https://github.com/cran/saeHB.unit
