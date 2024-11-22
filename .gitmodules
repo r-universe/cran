@@ -15245,6 +15245,9 @@
 [submodule "ResPBIBD"]
 	path = ResPBIBD
 	url = https://github.com/cran/ResPBIBD
+[submodule "ResearchAssociate"]
+	path = ResearchAssociate
+	url = https://github.com/cran/ResearchAssociate
 [submodule "ResidentialEnergyConsumption"]
 	path = ResidentialEnergyConsumption
 	url = https://github.com/cran/ResidentialEnergyConsumption
@@ -27512,6 +27515,9 @@
 [submodule "datacleanr"]
 	path = datacleanr
 	url = https://github.com/cran/datacleanr
+[submodule "datacutr"]
+	path = datacutr
+	url = https://github.com/cran/datacutr
 [submodule "datadictionary"]
 	path = datadictionary
 	url = https://github.com/cran/datadictionary
@@ -32087,6 +32093,9 @@
 [submodule "fedmatch"]
 	path = fedmatch
 	url = https://github.com/cran/fedmatch
+[submodule "fedregs"]
+	path = fedregs
+	url = https://github.com/cran/fedregs
 [submodule "fedstatAPIr"]
 	path = fedstatAPIr
 	url = https://github.com/cran/fedstatAPIr
@@ -42674,9 +42683,6 @@
 [submodule "mergingTools"]
 	path = mergingTools
 	url = https://github.com/cran/mergingTools
-[submodule "merlin"]
-	path = merlin
-	url = https://github.com/cran/merlin
 [submodule "merror"]
 	path = merror
 	url = https://github.com/cran/merror
