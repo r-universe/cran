@@ -7838,6 +7838,12 @@
 [submodule "IRCcheck"]
 	path = IRCcheck
 	url = https://github.com/cran/IRCcheck
+[submodule "IRISMustangMetrics"]
+	path = IRISMustangMetrics
+	url = https://github.com/cran/IRISMustangMetrics
+[submodule "IRISSeismic"]
+	path = IRISSeismic
+	url = https://github.com/cran/IRISSeismic
 [submodule "IRR2FPR"]
 	path = IRR2FPR
 	url = https://github.com/cran/IRR2FPR
@@ -34235,9 +34241,6 @@
 [submodule "geoheatmap"]
 	path = geoheatmap
 	url = https://github.com/cran/geoheatmap
-[submodule "geoidep"]
-	path = geoidep
-	url = https://github.com/cran/geoidep
 [submodule "geojson"]
 	path = geojson
 	url = https://github.com/cran/geojson
@@ -42686,6 +42689,9 @@
 [submodule "mergingTools"]
 	path = mergingTools
 	url = https://github.com/cran/mergingTools
+[submodule "merlin"]
+	path = merlin
+	url = https://github.com/cran/merlin
 [submodule "merror"]
 	path = merror
 	url = https://github.com/cran/merror
