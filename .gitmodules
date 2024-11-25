@@ -14210,6 +14210,9 @@
 [submodule "ROracle"]
 	path = ROracle
 	url = https://github.com/cran/ROracle
+[submodule "RPANDA"]
+	path = RPANDA
+	url = https://github.com/cran/RPANDA
 [submodule "RPDTest"]
 	path = RPDTest
 	url = https://github.com/cran/RPDTest
@@ -47399,6 +47402,9 @@
 [submodule "orsk"]
 	path = orsk
 	url = https://github.com/cran/orsk
+[submodule "orthGS"]
+	path = orthGS
+	url = https://github.com/cran/orthGS
 [submodule "orthoDr"]
 	path = orthoDr
 	url = https://github.com/cran/orthoDr
