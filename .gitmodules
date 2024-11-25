@@ -1820,6 +1820,9 @@
 [submodule "BlandAltmanLeh"]
 	path = BlandAltmanLeh
 	url = https://github.com/cran/BlandAltmanLeh
+[submodule "Blend"]
+	path = Blend
+	url = https://github.com/cran/Blend
 [submodule "Blendstat"]
 	path = Blendstat
 	url = https://github.com/cran/Blendstat
@@ -2894,6 +2897,9 @@
 [submodule "ClinSigMeasures"]
 	path = ClinSigMeasures
 	url = https://github.com/cran/ClinSigMeasures
+[submodule "ClinTrialPredict"]
+	path = ClinTrialPredict
+	url = https://github.com/cran/ClinTrialPredict
 [submodule "ClinicalTrialSummary"]
 	path = ClinicalTrialSummary
 	url = https://github.com/cran/ClinicalTrialSummary
@@ -10202,6 +10208,9 @@
 [submodule "MaxSkew"]
 	path = MaxSkew
 	url = https://github.com/cran/MaxSkew
+[submodule "MaxWiK"]
+	path = MaxWiK
+	url = https://github.com/cran/MaxWiK
 [submodule "MaxentVariableSelection"]
 	path = MaxentVariableSelection
 	url = https://github.com/cran/MaxentVariableSelection
@@ -29984,6 +29993,9 @@
 [submodule "ecospat"]
 	path = ecospat
 	url = https://github.com/cran/ecospat
+[submodule "ecostate"]
+	path = ecostate
+	url = https://github.com/cran/ecostate
 [submodule "ecostats"]
 	path = ecostats
 	url = https://github.com/cran/ecostats
@@ -55922,6 +55934,9 @@
 [submodule "scatterPlotMatrix"]
 	path = scatterPlotMatrix
 	url = https://github.com/cran/scatterPlotMatrix
+[submodule "scatterbar"]
+	path = scatterbar
+	url = https://github.com/cran/scatterbar
 [submodule "scattermore"]
 	path = scattermore
 	url = https://github.com/cran/scattermore
