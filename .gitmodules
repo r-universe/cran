@@ -3779,6 +3779,9 @@
 [submodule "DIRECT"]
 	path = DIRECT
 	url = https://github.com/cran/DIRECT
+[submodule "DIRMR"]
+	path = DIRMR
+	url = https://github.com/cran/DIRMR
 [submodule "DISTRIB"]
 	path = DISTRIB
 	url = https://github.com/cran/DISTRIB
@@ -10733,6 +10736,9 @@
 [submodule "MultiStatM"]
 	path = MultiStatM
 	url = https://github.com/cran/MultiStatM
+[submodule "MultiTraits"]
+	path = MultiTraits
+	url = https://github.com/cran/MultiTraits
 [submodule "MultiVarMI"]
 	path = MultiVarMI
 	url = https://github.com/cran/MultiVarMI
