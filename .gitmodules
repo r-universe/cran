@@ -11966,6 +11966,9 @@
 [submodule "PGRdup"]
 	path = PGRdup
 	url = https://github.com/cran/PGRdup
+[submodule "PGaGEV"]
+	path = PGaGEV
+	url = https://github.com/cran/PGaGEV
 [submodule "PH1XBAR"]
 	path = PH1XBAR
 	url = https://github.com/cran/PH1XBAR
@@ -13076,6 +13079,9 @@
 [submodule "PurpleAir"]
 	path = PurpleAir
 	url = https://github.com/cran/PurpleAir
+[submodule "PurpleAirAPI"]
+	path = PurpleAirAPI
+	url = https://github.com/cran/PurpleAirAPI
 [submodule "Pursuit"]
 	path = Pursuit
 	url = https://github.com/cran/Pursuit
@@ -13949,6 +13955,9 @@
 [submodule "RMCC"]
 	path = RMCC
 	url = https://github.com/cran/RMCC
+[submodule "RMFM"]
+	path = RMFM
+	url = https://github.com/cran/RMFM
 [submodule "RMKdiscrete"]
 	path = RMKdiscrete
 	url = https://github.com/cran/RMKdiscrete
@@ -16307,6 +16316,9 @@
 [submodule "SMNCensReg"]
 	path = SMNCensReg
 	url = https://github.com/cran/SMNCensReg
+[submodule "SMNlmec"]
+	path = SMNlmec
+	url = https://github.com/cran/SMNlmec
 [submodule "SMOTEWB"]
 	path = SMOTEWB
 	url = https://github.com/cran/SMOTEWB
@@ -16649,6 +16661,9 @@
 [submodule "SUNGEO"]
 	path = SUNGEO
 	url = https://github.com/cran/SUNGEO
+[submodule "SUSENAS"]
+	path = SUSENAS
+	url = https://github.com/cran/SUSENAS
 [submodule "SUSY"]
 	path = SUSY
 	url = https://github.com/cran/SUSY
@@ -61139,6 +61154,9 @@
 [submodule "tern.mmrm"]
 	path = tern.mmrm
 	url = https://github.com/cran/tern.mmrm
+[submodule "tern.rbmi"]
+	path = tern.rbmi
+	url = https://github.com/cran/tern.rbmi
 [submodule "ternvis"]
 	path = ternvis
 	url = https://github.com/cran/ternvis
