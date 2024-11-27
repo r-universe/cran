@@ -13361,9 +13361,6 @@
 [submodule "R2ROC"]
 	path = R2ROC
 	url = https://github.com/cran/R2ROC
-[submodule "R2SWF"]
-	path = R2SWF
-	url = https://github.com/cran/R2SWF
 [submodule "R2WinBUGS"]
 	path = R2WinBUGS
 	url = https://github.com/cran/R2WinBUGS
@@ -34256,9 +34253,6 @@
 [submodule "geogrid"]
 	path = geogrid
 	url = https://github.com/cran/geogrid
-[submodule "geohabnet"]
-	path = geohabnet
-	url = https://github.com/cran/geohabnet
 [submodule "geohashTools"]
 	path = geohashTools
 	url = https://github.com/cran/geohashTools
