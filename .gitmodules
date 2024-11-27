@@ -45860,9 +45860,6 @@
 [submodule "ngspatial"]
 	path = ngspatial
 	url = https://github.com/cran/ngspatial
-[submodule "nhanesA"]
-	path = nhanesA
-	url = https://github.com/cran/nhanesA
 [submodule "nhdR"]
 	path = nhdR
 	url = https://github.com/cran/nhdR
