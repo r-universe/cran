@@ -4391,6 +4391,9 @@
 [submodule "DiscreteFDR"]
 	path = DiscreteFDR
 	url = https://github.com/cran/DiscreteFDR
+[submodule "DiscreteFWER"]
+	path = DiscreteFWER
+	url = https://github.com/cran/DiscreteFWER
 [submodule "DiscreteGapStatistic"]
 	path = DiscreteGapStatistic
 	url = https://github.com/cran/DiscreteGapStatistic
@@ -18911,6 +18914,9 @@
 [submodule "VIC5"]
 	path = VIC5
 	url = https://github.com/cran/VIC5
+[submodule "VICatMix"]
+	path = VICatMix
+	url = https://github.com/cran/VICatMix
 [submodule "VIGoR"]
 	path = VIGoR
 	url = https://github.com/cran/VIGoR
@@ -21347,6 +21353,9 @@
 [submodule "autoshiny"]
 	path = autoshiny
 	url = https://github.com/cran/autoshiny
+[submodule "autoslider.core"]
+	path = autoslider.core
+	url = https://github.com/cran/autoslider.core
 [submodule "autostats"]
 	path = autostats
 	url = https://github.com/cran/autostats
@@ -31154,6 +31163,9 @@
 [submodule "evolvability"]
 	path = evolvability
 	url = https://github.com/cran/evolvability
+[submodule "evolved"]
+	path = evolved
+	url = https://github.com/cran/evolved
 [submodule "evoper"]
 	path = evoper
 	url = https://github.com/cran/evoper
@@ -31808,6 +31820,9 @@
 [submodule "fastTopics"]
 	path = fastTopics
 	url = https://github.com/cran/fastTopics
+[submodule "fastVoteR"]
+	path = fastVoteR
+	url = https://github.com/cran/fastVoteR
 [submodule "fastWavelets"]
 	path = fastWavelets
 	url = https://github.com/cran/fastWavelets
@@ -59897,6 +59912,9 @@
 [submodule "stratEst"]
 	path = stratEst
 	url = https://github.com/cran/stratEst
+[submodule "strata"]
+	path = strata
+	url = https://github.com/cran/strata
 [submodule "strata.MaxCombo"]
 	path = strata.MaxCombo
 	url = https://github.com/cran/strata.MaxCombo
