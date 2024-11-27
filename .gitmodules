@@ -12689,6 +12689,9 @@
 [submodule "PlackettLuce"]
 	path = PlackettLuce
 	url = https://github.com/cran/PlackettLuce
+[submodule "PlaneGeometry"]
+	path = PlaneGeometry
+	url = https://github.com/cran/PlaneGeometry
 [submodule "Planesmuestra"]
 	path = Planesmuestra
 	url = https://github.com/cran/Planesmuestra
@@ -27254,6 +27257,9 @@
 [submodule "cxxfunplus"]
 	path = cxxfunplus
 	url = https://github.com/cran/cxxfunplus
+[submodule "cycleRtools"]
+	path = cycleRtools
+	url = https://github.com/cran/cycleRtools
 [submodule "cyclestreets"]
 	path = cyclestreets
 	url = https://github.com/cran/cyclestreets
@@ -30113,6 +30119,9 @@
 [submodule "edlibR"]
 	path = edlibR
 	url = https://github.com/cran/edlibR
+[submodule "edmcr"]
+	path = edmcr
+	url = https://github.com/cran/edmcr
 [submodule "edmdata"]
 	path = edmdata
 	url = https://github.com/cran/edmdata
@@ -53657,6 +53666,9 @@
 [submodule "rgenoud"]
 	path = rgenoud
 	url = https://github.com/cran/rgenoud
+[submodule "rgeoboundaries"]
+	path = rgeoboundaries
+	url = https://github.com/cran/rgeoboundaries
 [submodule "rgeoda"]
 	path = rgeoda
 	url = https://github.com/cran/rgeoda
@@ -56222,6 +56234,9 @@
 [submodule "sdprisk"]
 	path = sdprisk
 	url = https://github.com/cran/sdprisk
+[submodule "sdpt3r"]
+	path = sdpt3r
+	url = https://github.com/cran/sdpt3r
 [submodule "sdrt"]
 	path = sdrt
 	url = https://github.com/cran/sdrt
@@ -56654,6 +56669,9 @@
 [submodule "serieslcb"]
 	path = serieslcb
 	url = https://github.com/cran/serieslcb
+[submodule "serocalculator"]
+	path = serocalculator
+	url = https://github.com/cran/serocalculator
 [submodule "serosv"]
 	path = serosv
 	url = https://github.com/cran/serosv
@@ -58289,6 +58307,9 @@
 [submodule "soilDB"]
 	path = soilDB
 	url = https://github.com/cran/soilDB
+[submodule "soilassessment"]
+	path = soilassessment
+	url = https://github.com/cran/soilassessment
 [submodule "soilchemistry"]
 	path = soilchemistry
 	url = https://github.com/cran/soilchemistry
