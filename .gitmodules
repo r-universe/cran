@@ -20621,6 +20621,9 @@
 [submodule "antaresEditObject"]
 	path = antaresEditObject
 	url = https://github.com/cran/antaresEditObject
+[submodule "antaresProcessing"]
+	path = antaresProcessing
+	url = https://github.com/cran/antaresProcessing
 [submodule "antaresRead"]
 	path = antaresRead
 	url = https://github.com/cran/antaresRead
@@ -45875,6 +45878,9 @@
 [submodule "ngspatial"]
 	path = ngspatial
 	url = https://github.com/cran/ngspatial
+[submodule "nhanesA"]
+	path = nhanesA
+	url = https://github.com/cran/nhanesA
 [submodule "nhdR"]
 	path = nhdR
 	url = https://github.com/cran/nhdR
