@@ -7307,6 +7307,9 @@
 [submodule "HTSeed"]
 	path = HTSeed
 	url = https://github.com/cran/HTSeed
+[submodule "HTSeedGLM"]
+	path = HTSeedGLM
+	url = https://github.com/cran/HTSeedGLM
 [submodule "HTT"]
 	path = HTT
 	url = https://github.com/cran/HTT
@@ -8678,6 +8681,9 @@
 [submodule "LKT"]
 	path = LKT
 	url = https://github.com/cran/LKT
+[submodule "LLIC"]
+	path = LLIC
+	url = https://github.com/cran/LLIC
 [submodule "LLM"]
 	path = LLM
 	url = https://github.com/cran/LLM
@@ -17825,6 +17831,9 @@
 [submodule "T4transport"]
 	path = T4transport
 	url = https://github.com/cran/T4transport
+[submodule "TAD"]
+	path = TAD
+	url = https://github.com/cran/TAD
 [submodule "TAF"]
 	path = TAF
 	url = https://github.com/cran/TAF
@@ -21881,6 +21890,9 @@
 [submodule "bayesianVARs"]
 	path = bayesianVARs
 	url = https://github.com/cran/bayesianVARs
+[submodule "bayeslist"]
+	path = bayeslist
+	url = https://github.com/cran/bayeslist
 [submodule "bayeslm"]
 	path = bayeslm
 	url = https://github.com/cran/bayeslm
@@ -30695,6 +30707,9 @@
 [submodule "epiomics"]
 	path = epiomics
 	url = https://github.com/cran/epiomics
+[submodule "epiparameterDB"]
+	path = epiparameterDB
+	url = https://github.com/cran/epiparameterDB
 [submodule "epiphy"]
 	path = epiphy
 	url = https://github.com/cran/epiphy
@@ -51098,6 +51113,9 @@
 [submodule "qPCRtools"]
 	path = qPCRtools
 	url = https://github.com/cran/qPCRtools
+[submodule "qVarSel"]
+	path = qVarSel
+	url = https://github.com/cran/qVarSel
 [submodule "qacBase"]
 	path = qacBase
 	url = https://github.com/cran/qacBase
@@ -55610,6 +55628,9 @@
 [submodule "samplesizelogisticcasecontrol"]
 	path = samplesizelogisticcasecontrol
 	url = https://github.com/cran/samplesizelogisticcasecontrol
+[submodule "samplezoo"]
+	path = samplezoo
+	url = https://github.com/cran/samplezoo
 [submodule "sampling"]
 	path = sampling
 	url = https://github.com/cran/sampling
