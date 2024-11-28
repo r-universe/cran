@@ -55484,6 +55484,9 @@
 [submodule "saeHB.spatial"]
 	path = saeHB.spatial
 	url = https://github.com/cran/saeHB.spatial
+[submodule "saeHB.twofold"]
+	path = saeHB.twofold
+	url = https://github.com/cran/saeHB.twofold
 [submodule "saeHB.unit"]
 	path = saeHB.unit
 	url = https://github.com/cran/saeHB.unit
