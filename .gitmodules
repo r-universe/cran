@@ -6476,9 +6476,6 @@
 [submodule "GPGame"]
 	path = GPGame
 	url = https://github.com/cran/GPGame
-[submodule "GPIC"]
-	path = GPIC
-	url = https://github.com/cran/GPIC
 [submodule "GPL2025"]
 	path = GPL2025
 	url = https://github.com/cran/GPL2025
