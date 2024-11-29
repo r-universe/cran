@@ -19151,9 +19151,6 @@
 [submodule "WMAP"]
 	path = WMAP
 	url = https://github.com/cran/WMAP
-[submodule "WMWssp"]
-	path = WMWssp
-	url = https://github.com/cran/WMWssp
 [submodule "WOAkMedoids"]
 	path = WOAkMedoids
 	url = https://github.com/cran/WOAkMedoids
@@ -54938,6 +54935,9 @@
 [submodule "rsocialwatcher"]
 	path = rsocialwatcher
 	url = https://github.com/cran/rsocialwatcher
+[submodule "rsofun"]
+	path = rsofun
+	url = https://github.com/cran/rsofun
 [submodule "rsoi"]
 	path = rsoi
 	url = https://github.com/cran/rsoi
