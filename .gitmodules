@@ -12413,6 +12413,9 @@
 [submodule "PaLMr"]
 	path = PaLMr
 	url = https://github.com/cran/PaLMr
+[submodule "PaRe"]
+	path = PaRe
+	url = https://github.com/cran/PaRe
 [submodule "Pade"]
 	path = Pade
 	url = https://github.com/cran/Pade
@@ -12692,6 +12695,9 @@
 [submodule "Pijavski"]
 	path = Pijavski
 	url = https://github.com/cran/Pijavski
+[submodule "PivotalP"]
+	path = PivotalP
+	url = https://github.com/cran/PivotalP
 [submodule "PlackettLuce"]
 	path = PlackettLuce
 	url = https://github.com/cran/PlackettLuce
@@ -12800,6 +12806,9 @@
 [submodule "PolicyPortfolios"]
 	path = PolicyPortfolios
 	url = https://github.com/cran/PolicyPortfolios
+[submodule "PolisheR"]
+	path = PolisheR
+	url = https://github.com/cran/PolisheR
 [submodule "Poly4AT"]
 	path = Poly4AT
 	url = https://github.com/cran/Poly4AT
@@ -16625,6 +16634,9 @@
 [submodule "STAT2"]
 	path = STAT2
 	url = https://github.com/cran/STAT2
+[submodule "STATcubeR"]
+	path = STATcubeR
+	url = https://github.com/cran/STATcubeR
 [submodule "STB"]
 	path = STB
 	url = https://github.com/cran/STB
@@ -21611,6 +21623,9 @@
 [submodule "banditpam"]
 	path = banditpam
 	url = https://github.com/cran/banditpam
+[submodule "banditsCI"]
+	path = banditsCI
+	url = https://github.com/cran/banditsCI
 [submodule "bandsfdp"]
 	path = bandsfdp
 	url = https://github.com/cran/bandsfdp
@@ -36038,6 +36053,9 @@
 [submodule "greta"]
 	path = greta
 	url = https://github.com/cran/greta
+[submodule "greta.censored"]
+	path = greta.censored
+	url = https://github.com/cran/greta.censored
 [submodule "greta.dynamics"]
 	path = greta.dynamics
 	url = https://github.com/cran/greta.dynamics
@@ -46661,6 +46679,9 @@
 [submodule "nzilbb.labbcat"]
 	path = nzilbb.labbcat
 	url = https://github.com/cran/nzilbb.labbcat
+[submodule "nzilbb.vowels"]
+	path = nzilbb.vowels
+	url = https://github.com/cran/nzilbb.vowels
 [submodule "nzpullover"]
 	path = nzpullover
 	url = https://github.com/cran/nzpullover
@@ -63590,6 +63611,9 @@
 [submodule "vaccine"]
 	path = vaccine
 	url = https://github.com/cran/vaccine
+[submodule "vaccineff"]
+	path = vaccineff
+	url = https://github.com/cran/vaccineff
 [submodule "vachette"]
 	path = vachette
 	url = https://github.com/cran/vachette
