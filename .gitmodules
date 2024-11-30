@@ -11642,9 +11642,6 @@
 [submodule "OpenStreetMap"]
 	path = OpenStreetMap
 	url = https://github.com/cran/OpenStreetMap
-[submodule "OpenTreeChronograms"]
-	path = OpenTreeChronograms
-	url = https://github.com/cran/OpenTreeChronograms
 [submodule "Opportunistic"]
 	path = Opportunistic
 	url = https://github.com/cran/Opportunistic
@@ -22100,9 +22097,6 @@
 [submodule "bdsvd"]
 	path = bdsvd
 	url = https://github.com/cran/bdsvd
-[submodule "bdvis"]
-	path = bdvis
-	url = https://github.com/cran/bdvis
 [submodule "bea.R"]
 	path = bea.R
 	url = https://github.com/cran/bea.R
@@ -36863,9 +36857,6 @@
 [submodule "hellorust"]
 	path = hellorust
 	url = https://github.com/cran/hellorust
-[submodule "helminthR"]
-	path = helminthR
-	url = https://github.com/cran/helminthR
 [submodule "helsinki"]
 	path = helsinki
 	url = https://github.com/cran/helsinki
@@ -38498,9 +38489,6 @@
 [submodule "insect"]
 	path = insect
 	url = https://github.com/cran/insect
-[submodule "insectDisease"]
-	path = insectDisease
-	url = https://github.com/cran/insectDisease
 [submodule "insee"]
 	path = insee
 	url = https://github.com/cran/insee
@@ -42860,9 +42848,6 @@
 [submodule "metacart"]
 	path = metacart
 	url = https://github.com/cran/metacart
-[submodule "metacoder"]
-	path = metacoder
-	url = https://github.com/cran/metacoder
 [submodule "metacom"]
 	path = metacom
 	url = https://github.com/cran/metacom
@@ -45302,9 +45287,6 @@
 [submodule "myClim"]
 	path = myClim
 	url = https://github.com/cran/myClim
-[submodule "myTAI"]
-	path = myTAI
-	url = https://github.com/cran/myTAI
 [submodule "mycaas"]
 	path = mycaas
 	url = https://github.com/cran/mycaas
