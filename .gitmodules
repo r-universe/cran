@@ -7652,6 +7652,9 @@
 [submodule "IDF"]
 	path = IDF
 	url = https://github.com/cran/IDF
+[submodule "IDLFM"]
+	path = IDLFM
+	url = https://github.com/cran/IDLFM
 [submodule "IDMIR"]
 	path = IDMIR
 	url = https://github.com/cran/IDMIR
@@ -7733,6 +7736,9 @@
 [submodule "IJSE"]
 	path = IJSE
 	url = https://github.com/cran/IJSE
+[submodule "ILRCM"]
+	path = ILRCM
+	url = https://github.com/cran/ILRCM
 [submodule "ILS"]
 	path = ILS
 	url = https://github.com/cran/ILS
@@ -9473,6 +9479,9 @@
 [submodule "MED"]
 	path = MED
 	url = https://github.com/cran/MED
+[submodule "MEDesigns"]
+	path = MEDesigns
+	url = https://github.com/cran/MEDesigns
 [submodule "MEDseq"]
 	path = MEDseq
 	url = https://github.com/cran/MEDseq
@@ -13532,6 +13541,9 @@
 [submodule "RCMinification"]
 	path = RCMinification
 	url = https://github.com/cran/RCMinification
+[submodule "RCMsize"]
+	path = RCMsize
+	url = https://github.com/cran/RCMsize
 [submodule "RCPA"]
 	path = RCPA
 	url = https://github.com/cran/RCPA
@@ -15827,6 +15839,9 @@
 [submodule "SAGMM"]
 	path = SAGMM
 	url = https://github.com/cran/SAGMM
+[submodule "SAKERNAS"]
+	path = SAKERNAS
+	url = https://github.com/cran/SAKERNAS
 [submodule "SALES"]
 	path = SALES
 	url = https://github.com/cran/SALES
@@ -26747,6 +26762,9 @@
 [submodule "crimedata"]
 	path = crimedata
 	url = https://github.com/cran/crimedata
+[submodule "crimedatasets"]
+	path = crimedatasets
+	url = https://github.com/cran/crimedatasets
 [submodule "crimeutils"]
 	path = crimeutils
 	url = https://github.com/cran/crimeutils
@@ -34532,6 +34550,9 @@
 [submodule "gfoRmula"]
 	path = gfoRmula
 	url = https://github.com/cran/gfoRmula
+[submodule "gfoRmulaICE"]
+	path = gfoRmulaICE
+	url = https://github.com/cran/gfoRmulaICE
 [submodule "gfonts"]
 	path = gfonts
 	url = https://github.com/cran/gfonts
@@ -40406,6 +40427,9 @@
 [submodule "ldhmm"]
 	path = ldhmm
 	url = https://github.com/cran/ldhmm
+[submodule "ldmppr"]
+	path = ldmppr
+	url = https://github.com/cran/ldmppr
 [submodule "ldsep"]
 	path = ldsep
 	url = https://github.com/cran/ldsep
@@ -49163,6 +49187,9 @@
 [submodule "pipefittr"]
 	path = pipefittr
 	url = https://github.com/cran/pipefittr
+[submodule "pipeflow"]
+	path = pipeflow
+	url = https://github.com/cran/pipeflow
 [submodule "pipeliner"]
 	path = pipeliner
 	url = https://github.com/cran/pipeliner
@@ -55898,6 +55925,9 @@
 [submodule "scPloidy"]
 	path = scPloidy
 	url = https://github.com/cran/scPloidy
+[submodule "scR"]
+	path = scR
+	url = https://github.com/cran/scR
 [submodule "scRNAstat"]
 	path = scRNAstat
 	url = https://github.com/cran/scRNAstat
@@ -56792,6 +56822,9 @@
 [submodule "sfdep"]
 	path = sfdep
 	url = https://github.com/cran/sfdep
+[submodule "sffdr"]
+	path = sffdr
+	url = https://github.com/cran/sffdr
 [submodule "sfheaders"]
 	path = sfheaders
 	url = https://github.com/cran/sfheaders
@@ -63062,6 +63095,9 @@
 [submodule "twangRDC"]
 	path = twangRDC
 	url = https://github.com/cran/twangRDC
+[submodule "twc"]
+	path = twc
+	url = https://github.com/cran/twc
 [submodule "twdtw"]
 	path = twdtw
 	url = https://github.com/cran/twdtw
@@ -64490,6 +64526,9 @@
 [submodule "wcox"]
 	path = wcox
 	url = https://github.com/cran/wcox
+[submodule "wdiEF"]
+	path = wdiEF
+	url = https://github.com/cran/wdiEF
 [submodule "wdm"]
 	path = wdm
 	url = https://github.com/cran/wdm
