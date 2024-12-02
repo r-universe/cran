@@ -20639,6 +20639,9 @@
 [submodule "antaresRead"]
 	path = antaresRead
 	url = https://github.com/cran/antaresRead
+[submodule "antaresViz"]
+	path = antaresViz
+	url = https://github.com/cran/antaresViz
 [submodule "anthro"]
 	path = anthro
 	url = https://github.com/cran/anthro
@@ -21209,9 +21212,6 @@
 [submodule "atakrig"]
 	path = atakrig
 	url = https://github.com/cran/atakrig
-[submodule "atime"]
-	path = atime
-	url = https://github.com/cran/atime
 [submodule "atlas"]
 	path = atlas
 	url = https://github.com/cran/atlas
@@ -28583,9 +28583,6 @@
 [submodule "digitTests"]
 	path = digitTests
 	url = https://github.com/cran/digitTests
-[submodule "digitalDLSorteR"]
-	path = digitalDLSorteR
-	url = https://github.com/cran/digitalDLSorteR
 [submodule "digitalPCR"]
 	path = digitalPCR
 	url = https://github.com/cran/digitalPCR
@@ -44843,9 +44840,6 @@
 [submodule "multiDimBio"]
 	path = multiDimBio
 	url = https://github.com/cran/multiDimBio
-[submodule "multiDoE"]
-	path = multiDoE
-	url = https://github.com/cran/multiDoE
 [submodule "multiFANOVA"]
 	path = multiFANOVA
 	url = https://github.com/cran/multiFANOVA
