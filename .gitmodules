@@ -21227,6 +21227,9 @@
 [submodule "atakrig"]
 	path = atakrig
 	url = https://github.com/cran/atakrig
+[submodule "atime"]
+	path = atime
+	url = https://github.com/cran/atime
 [submodule "atlas"]
 	path = atlas
 	url = https://github.com/cran/atlas
@@ -36350,6 +36353,9 @@
 [submodule "gtexture"]
 	path = gtexture
 	url = https://github.com/cran/gtexture
+[submodule "gtfs2emis"]
+	path = gtfs2emis
+	url = https://github.com/cran/gtfs2emis
 [submodule "gtfs2gps"]
 	path = gtfs2gps
 	url = https://github.com/cran/gtfs2gps
