@@ -44870,6 +44870,9 @@
 [submodule "multiDimBio"]
 	path = multiDimBio
 	url = https://github.com/cran/multiDimBio
+[submodule "multiDoE"]
+	path = multiDoE
+	url = https://github.com/cran/multiDoE
 [submodule "multiFANOVA"]
 	path = multiFANOVA
 	url = https://github.com/cran/multiFANOVA
