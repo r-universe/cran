@@ -49283,9 +49283,6 @@
 [submodule "pkgload"]
 	path = pkgload
 	url = https://github.com/cran/pkgload
-[submodule "pkgmaker"]
-	path = pkgmaker
-	url = https://github.com/cran/pkgmaker
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/cran/pkgndep
