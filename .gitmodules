@@ -6074,6 +6074,9 @@
 [submodule "FuzzyStatTra"]
 	path = FuzzyStatTra
 	url = https://github.com/cran/FuzzyStatTra
+[submodule "FuzzyStatTraEOO"]
+	path = FuzzyStatTraEOO
+	url = https://github.com/cran/FuzzyStatTraEOO
 [submodule "G2Sd"]
 	path = G2Sd
 	url = https://github.com/cran/G2Sd
@@ -13541,6 +13544,9 @@
 [submodule "RCMsize"]
 	path = RCMsize
 	url = https://github.com/cran/RCMsize
+[submodule "RCNA"]
+	path = RCNA
+	url = https://github.com/cran/RCNA
 [submodule "RCPA"]
 	path = RCPA
 	url = https://github.com/cran/RCPA
@@ -19115,6 +19121,9 @@
 [submodule "W3CMarkupValidator"]
 	path = W3CMarkupValidator
 	url = https://github.com/cran/W3CMarkupValidator
+[submodule "W4MRUtils"]
+	path = W4MRUtils
+	url = https://github.com/cran/W4MRUtils
 [submodule "WA"]
 	path = WA
 	url = https://github.com/cran/WA
@@ -20741,6 +20750,9 @@
 [submodule "aphid"]
 	path = aphid
 	url = https://github.com/cran/aphid
+[submodule "aphylo"]
+	path = aphylo
+	url = https://github.com/cran/aphylo
 [submodule "api2lm"]
 	path = api2lm
 	url = https://github.com/cran/api2lm
@@ -21737,6 +21749,9 @@
 [submodule "basicdrm"]
 	path = basicdrm
 	url = https://github.com/cran/basicdrm
+[submodule "basicspace"]
+	path = basicspace
+	url = https://github.com/cran/basicspace
 [submodule "basictabler"]
 	path = basictabler
 	url = https://github.com/cran/basictabler
@@ -21821,6 +21836,9 @@
 [submodule "bayesEO"]
 	path = bayesEO
 	url = https://github.com/cran/bayesEO
+[submodule "bayesGAM"]
+	path = bayesGAM
+	url = https://github.com/cran/bayesGAM
 [submodule "bayesGARCH"]
 	path = bayesGARCH
 	url = https://github.com/cran/bayesGARCH
@@ -26972,6 +26990,9 @@
 [submodule "cshapes"]
 	path = cshapes
 	url = https://github.com/cran/cshapes
+[submodule "csmGmm"]
+	path = csmGmm
+	url = https://github.com/cran/csmGmm
 [submodule "csmaps"]
 	path = csmaps
 	url = https://github.com/cran/csmaps
@@ -31400,6 +31421,9 @@
 [submodule "extraDistr"]
 	path = extraDistr
 	url = https://github.com/cran/extraDistr
+[submodule "extractox"]
+	path = extractox
+	url = https://github.com/cran/extractox
 [submodule "extrafont"]
 	path = extrafont
 	url = https://github.com/cran/extrafont
@@ -35711,6 +35735,9 @@
 [submodule "googleAuthR"]
 	path = googleAuthR
 	url = https://github.com/cran/googleAuthR
+[submodule "googleCloudRunner"]
+	path = googleCloudRunner
+	url = https://github.com/cran/googleCloudRunner
 [submodule "googleCloudStorageR"]
 	path = googleCloudStorageR
 	url = https://github.com/cran/googleCloudStorageR
@@ -42779,6 +42806,9 @@
 [submodule "messi"]
 	path = messi
 	url = https://github.com/cran/messi
+[submodule "messy"]
+	path = messy
+	url = https://github.com/cran/messy
 [submodule "messy.cats"]
 	path = messy.cats
 	url = https://github.com/cran/messy.cats
@@ -49283,6 +49313,9 @@
 [submodule "pkgload"]
 	path = pkgload
 	url = https://github.com/cran/pkgload
+[submodule "pkgmaker"]
+	path = pkgmaker
+	url = https://github.com/cran/pkgmaker
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/cran/pkgndep
@@ -53489,6 +53522,9 @@
 [submodule "resmush"]
 	path = resmush
 	url = https://github.com/cran/resmush
+[submodule "resourcecode"]
+	path = resourcecode
+	url = https://github.com/cran/resourcecode
 [submodule "resourcer"]
 	path = resourcer
 	url = https://github.com/cran/resourcer
@@ -59399,6 +59435,9 @@
 [submodule "ssh"]
 	path = ssh
 	url = https://github.com/cran/ssh
+[submodule "sshicm"]
+	path = sshicm
+	url = https://github.com/cran/sshicm
 [submodule "sship"]
 	path = sship
 	url = https://github.com/cran/sship
@@ -61862,6 +61901,9 @@
 [submodule "tidystringdist"]
 	path = tidystringdist
 	url = https://github.com/cran/tidystringdist
+[submodule "tidysynth"]
+	path = tidysynth
+	url = https://github.com/cran/tidysynth
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/cran/tidytable
@@ -64877,6 +64919,9 @@
 [submodule "woodValuationDE"]
 	path = woodValuationDE
 	url = https://github.com/cran/woodValuationDE
+[submodule "wooldridge"]
+	path = wooldridge
+	url = https://github.com/cran/wooldridge
 [submodule "worcs"]
 	path = worcs
 	url = https://github.com/cran/worcs
