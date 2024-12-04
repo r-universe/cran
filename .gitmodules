@@ -4067,9 +4067,6 @@
 [submodule "DWLS"]
 	path = DWLS
 	url = https://github.com/cran/DWLS
-[submodule "DWLasso"]
-	path = DWLasso
-	url = https://github.com/cran/DWLasso
 [submodule "DWreg"]
 	path = DWreg
 	url = https://github.com/cran/DWreg
@@ -29651,9 +29648,6 @@
 [submodule "dynatopGIS"]
 	path = dynatopGIS
 	url = https://github.com/cran/dynatopGIS
-[submodule "dyncomp"]
-	path = dyncomp
-	url = https://github.com/cran/dyncomp
 [submodule "dyndimred"]
 	path = dyndimred
 	url = https://github.com/cran/dyndimred
@@ -37634,9 +37628,6 @@
 [submodule "hyperoverlap"]
 	path = hyperoverlap
 	url = https://github.com/cran/hyperoverlap
-[submodule "hypersampleplan"]
-	path = hypersampleplan
-	url = https://github.com/cran/hypersampleplan
 [submodule "hypervolume"]
 	path = hypervolume
 	url = https://github.com/cran/hypervolume
@@ -37970,9 +37961,6 @@
 [submodule "icrf"]
 	path = icrf
 	url = https://github.com/cran/icrf
-[submodule "icsw"]
-	path = icsw
-	url = https://github.com/cran/icsw
 [submodule "idar"]
 	path = idar
 	url = https://github.com/cran/idar
@@ -48794,9 +48782,6 @@
 [submodule "pez"]
 	path = pez
 	url = https://github.com/cran/pez
-[submodule "pfa"]
-	path = pfa
-	url = https://github.com/cran/pfa
 [submodule "pfica"]
 	path = pfica
 	url = https://github.com/cran/pfica
