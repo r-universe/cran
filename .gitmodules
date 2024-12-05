@@ -1559,6 +1559,9 @@
 [submodule "BayesianFactorZoo"]
 	path = BayesianFactorZoo
 	url = https://github.com/cran/BayesianFactorZoo
+[submodule "BayesianFitForecast"]
+	path = BayesianFitForecast
+	url = https://github.com/cran/BayesianFitForecast
 [submodule "BayesianGLasso"]
 	path = BayesianGLasso
 	url = https://github.com/cran/BayesianGLasso
