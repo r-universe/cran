@@ -5165,6 +5165,9 @@
 [submodule "EquiTrends"]
 	path = EquiTrends
 	url = https://github.com/cran/EquiTrends
+[submodule "ErlangC"]
+	path = ErlangC
+	url = https://github.com/cran/ErlangC
 [submodule "EstCRM"]
 	path = EstCRM
 	url = https://github.com/cran/EstCRM
@@ -6182,6 +6185,9 @@
 [submodule "GDILM.ME"]
 	path = GDILM.ME
 	url = https://github.com/cran/GDILM.ME
+[submodule "GDILM.SEIRS"]
+	path = GDILM.SEIRS
+	url = https://github.com/cran/GDILM.SEIRS
 [submodule "GDILM.SIR"]
 	path = GDILM.SIR
 	url = https://github.com/cran/GDILM.SIR
@@ -6443,6 +6449,9 @@
 [submodule "GOFShiny"]
 	path = GOFShiny
 	url = https://github.com/cran/GOFShiny
+[submodule "GOLDprice"]
+	path = GOLDprice
+	url = https://github.com/cran/GOLDprice
 [submodule "GORCure"]
 	path = GORCure
 	url = https://github.com/cran/GORCure
@@ -6647,6 +6656,9 @@
 [submodule "GVARX"]
 	path = GVARX
 	url = https://github.com/cran/GVARX
+[submodule "GVS"]
+	path = GVS
+	url = https://github.com/cran/GVS
 [submodule "GWASExactHW"]
 	path = GWASExactHW
 	url = https://github.com/cran/GWASExactHW
@@ -9587,6 +9599,9 @@
 [submodule "MIDN"]
 	path = MIDN
 	url = https://github.com/cran/MIDN
+[submodule "MIGEE"]
+	path = MIGEE
+	url = https://github.com/cran/MIGEE
 [submodule "MIIPW"]
 	path = MIIPW
 	url = https://github.com/cran/MIIPW
@@ -14708,6 +14723,9 @@
 [submodule "Rapi"]
 	path = Rapi
 	url = https://github.com/cran/Rapi
+[submodule "RapidFuzz"]
+	path = RapidFuzz
+	url = https://github.com/cran/RapidFuzz
 [submodule "RapidPolygonLookup"]
 	path = RapidPolygonLookup
 	url = https://github.com/cran/RapidPolygonLookup
@@ -15221,6 +15239,9 @@
 [submodule "RegCombin"]
 	path = RegCombin
 	url = https://github.com/cran/RegCombin
+[submodule "RegDDM"]
+	path = RegDDM
+	url = https://github.com/cran/RegDDM
 [submodule "RegKink"]
 	path = RegKink
 	url = https://github.com/cran/RegKink
@@ -20300,6 +20321,9 @@
 [submodule "airr"]
 	path = airr
 	url = https://github.com/cran/airr
+[submodule "airship"]
+	path = airship
+	url = https://github.com/cran/airship
 [submodule "airt"]
 	path = airt
 	url = https://github.com/cran/airt
@@ -29342,6 +29366,9 @@
 [submodule "drhur"]
 	path = drhur
 	url = https://github.com/cran/drhur
+[submodule "drhutools"]
+	path = drhutools
+	url = https://github.com/cran/drhutools
 [submodule "drifter"]
 	path = drifter
 	url = https://github.com/cran/drifter
@@ -30185,6 +30212,9 @@
 [submodule "edstan"]
 	path = edstan
 	url = https://github.com/cran/edstan
+[submodule "educationR"]
+	path = educationR
+	url = https://github.com/cran/educationR
 [submodule "educationdata"]
 	path = educationdata
 	url = https://github.com/cran/educationdata
@@ -37949,6 +37979,9 @@
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/cran/ichimoku
+[submodule "iclogcondist"]
+	path = iclogcondist
+	url = https://github.com/cran/iclogcondist
 [submodule "icmm"]
 	path = icmm
 	url = https://github.com/cran/icmm
@@ -43688,6 +43721,9 @@
 [submodule "mixedMem"]
 	path = mixedMem
 	url = https://github.com/cran/mixedMem
+[submodule "mixedbiastest"]
+	path = mixedbiastest
+	url = https://github.com/cran/mixedbiastest
 [submodule "mixedsde"]
 	path = mixedsde
 	url = https://github.com/cran/mixedsde
@@ -52976,6 +53012,9 @@
 [submodule "recexcavAAR"]
 	path = recexcavAAR
 	url = https://github.com/cran/recexcavAAR
+[submodule "recforest"]
+	path = recforest
+	url = https://github.com/cran/recforest
 [submodule "rechaRge"]
 	path = rechaRge
 	url = https://github.com/cran/rechaRge
@@ -53033,6 +53072,9 @@
 [submodule "recosystem"]
 	path = recosystem
 	url = https://github.com/cran/recosystem
+[submodule "rectpacker"]
+	path = rectpacker
+	url = https://github.com/cran/rectpacker
 [submodule "recurrentpseudo"]
 	path = recurrentpseudo
 	url = https://github.com/cran/recurrentpseudo
@@ -54395,6 +54437,9 @@
 [submodule "robotstxt"]
 	path = robotstxt
 	url = https://github.com/cran/robotstxt
+[submodule "robqda"]
+	path = robqda
+	url = https://github.com/cran/robqda
 [submodule "robreg3S"]
 	path = robreg3S
 	url = https://github.com/cran/robreg3S
