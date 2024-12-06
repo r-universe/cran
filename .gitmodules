@@ -12680,6 +12680,9 @@
 [submodule "Phenotype"]
 	path = Phenotype
 	url = https://github.com/cran/Phenotype
+[submodule "PhenotypeR"]
+	path = PhenotypeR
+	url = https://github.com/cran/PhenotypeR
 [submodule "PhenotypeSimulator"]
 	path = PhenotypeSimulator
 	url = https://github.com/cran/PhenotypeSimulator
@@ -37739,6 +37742,9 @@
 [submodule "iClick"]
 	path = iClick
 	url = https://github.com/cran/iClick
+[submodule "iClusterVB"]
+	path = iClusterVB
+	url = https://github.com/cran/iClusterVB
 [submodule "iDINGO"]
 	path = iDINGO
 	url = https://github.com/cran/iDINGO
@@ -58532,6 +58538,9 @@
 [submodule "sonify"]
 	path = sonify
 	url = https://github.com/cran/sonify
+[submodule "sooty"]
+	path = sooty
+	url = https://github.com/cran/sooty
 [submodule "soptdmaeA"]
 	path = soptdmaeA
 	url = https://github.com/cran/soptdmaeA
