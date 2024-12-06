@@ -51242,6 +51242,9 @@
 [submodule "qch"]
 	path = qch
 	url = https://github.com/cran/qch
+[submodule "qcluster"]
+	path = qcluster
+	url = https://github.com/cran/qcluster
 [submodule "qcpm"]
 	path = qcpm
 	url = https://github.com/cran/qcpm
@@ -60941,6 +60944,9 @@
 [submodule "tablesgg"]
 	path = tablesgg
 	url = https://github.com/cran/tablesgg
+[submodule "tablespan"]
+	path = tablespan
+	url = https://github.com/cran/tablespan
 [submodule "tablet"]
 	path = tablet
 	url = https://github.com/cran/tablet
