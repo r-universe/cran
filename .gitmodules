@@ -28244,6 +28244,9 @@
 [submodule "depmixS4"]
 	path = depmixS4
 	url = https://github.com/cran/depmixS4
+[submodule "depower"]
+	path = depower
+	url = https://github.com/cran/depower
 [submodule "deps"]
 	path = deps
 	url = https://github.com/cran/deps
