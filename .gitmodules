@@ -5879,6 +5879,9 @@
 [submodule "FlexParamCurve"]
 	path = FlexParamCurve
 	url = https://github.com/cran/FlexParamCurve
+[submodule "FlexRL"]
+	path = FlexRL
+	url = https://github.com/cran/FlexRL
 [submodule "FlexReg"]
 	path = FlexReg
 	url = https://github.com/cran/FlexReg
@@ -45050,6 +45053,9 @@
 [submodule "multimode"]
 	path = multimode
 	url = https://github.com/cran/multimode
+[submodule "multimolang"]
+	path = multimolang
+	url = https://github.com/cran/multimolang
 [submodule "multimorbidity"]
 	path = multimorbidity
 	url = https://github.com/cran/multimorbidity
