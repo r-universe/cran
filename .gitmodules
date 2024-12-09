@@ -803,6 +803,9 @@
 [submodule "Autoseed"]
 	path = Autoseed
 	url = https://github.com/cran/Autoseed
+[submodule "AuxSurvey"]
+	path = AuxSurvey
+	url = https://github.com/cran/AuxSurvey
 [submodule "AvInertia"]
 	path = AvInertia
 	url = https://github.com/cran/AvInertia
@@ -15962,6 +15965,9 @@
 [submodule "SBMSplitMerge"]
 	path = SBMSplitMerge
 	url = https://github.com/cran/SBMSplitMerge
+[submodule "SBMTrees"]
+	path = SBMTrees
+	url = https://github.com/cran/SBMTrees
 [submodule "SBN"]
 	path = SBN
 	url = https://github.com/cran/SBN
@@ -34622,6 +34628,9 @@
 [submodule "gg.gap"]
 	path = gg.gap
 	url = https://github.com/cran/gg.gap
+[submodule "gg1d"]
+	path = gg1d
+	url = https://github.com/cran/gg1d
 [submodule "ggBubbles"]
 	path = ggBubbles
 	url = https://github.com/cran/ggBubbles
@@ -48089,6 +48098,9 @@
 [submodule "paramhetero"]
 	path = paramhetero
 	url = https://github.com/cran/paramhetero
+[submodule "paramix"]
+	path = paramix
+	url = https://github.com/cran/paramix
 [submodule "paramlink"]
 	path = paramlink
 	url = https://github.com/cran/paramlink
@@ -60512,6 +60524,9 @@
 [submodule "surveygraph"]
 	path = surveygraph
 	url = https://github.com/cran/surveygraph
+[submodule "surveynnet"]
+	path = surveynnet
+	url = https://github.com/cran/surveynnet
 [submodule "surveyplanning"]
 	path = surveyplanning
 	url = https://github.com/cran/surveyplanning
@@ -62168,6 +62183,9 @@
 [submodule "tinylabels"]
 	path = tinylabels
 	url = https://github.com/cran/tinylabels
+[submodule "tinylens"]
+	path = tinylens
+	url = https://github.com/cran/tinylens
 [submodule "tinyplot"]
 	path = tinyplot
 	url = https://github.com/cran/tinyplot
@@ -63122,6 +63140,9 @@
 [submodule "tufterhandout"]
 	path = tufterhandout
 	url = https://github.com/cran/tufterhandout
+[submodule "tugboat"]
+	path = tugboat
+	url = https://github.com/cran/tugboat
 [submodule "tukeytrend"]
 	path = tukeytrend
 	url = https://github.com/cran/tukeytrend
@@ -64517,6 +64538,9 @@
 [submodule "warbleR"]
 	path = warbleR
 	url = https://github.com/cran/warbleR
+[submodule "warehouseTools"]
+	path = warehouseTools
+	url = https://github.com/cran/warehouseTools
 [submodule "warp"]
 	path = warp
 	url = https://github.com/cran/warp
