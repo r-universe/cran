@@ -11609,6 +11609,9 @@
 [submodule "OncoBayes2"]
 	path = OncoBayes2
 	url = https://github.com/cran/OncoBayes2
+[submodule "OncoDataSets"]
+	path = OncoDataSets
+	url = https://github.com/cran/OncoDataSets
 [submodule "OncoSubtype"]
 	path = OncoSubtype
 	url = https://github.com/cran/OncoSubtype
@@ -18605,6 +18608,9 @@
 [submodule "TransPhylo"]
 	path = TransPhylo
 	url = https://github.com/cran/TransPhylo
+[submodule "TransProR"]
+	path = TransProR
+	url = https://github.com/cran/TransProR
 [submodule "TransTGGM"]
 	path = TransTGGM
 	url = https://github.com/cran/TransTGGM
@@ -27839,6 +27845,9 @@
 [submodule "dbhydroR"]
 	path = dbhydroR
 	url = https://github.com/cran/dbhydroR
+[submodule "dbi.table"]
+	path = dbi.table
+	url = https://github.com/cran/dbi.table
 [submodule "dblcens"]
 	path = dblcens
 	url = https://github.com/cran/dblcens
@@ -44459,6 +44468,9 @@
 [submodule "moonBook"]
 	path = moonBook
 	url = https://github.com/cran/moonBook
+[submodule "moonboot"]
+	path = moonboot
+	url = https://github.com/cran/moonboot
 [submodule "moose"]
 	path = moose
 	url = https://github.com/cran/moose
