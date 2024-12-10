@@ -41075,9 +41075,6 @@
 [submodule "lmSubsets"]
 	path = lmSubsets
 	url = https://github.com/cran/lmSubsets
-[submodule "lmap"]
-	path = lmap
-	url = https://github.com/cran/lmap
 [submodule "lmboot"]
 	path = lmboot
 	url = https://github.com/cran/lmboot
