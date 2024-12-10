@@ -5396,6 +5396,9 @@
 [submodule "FASeg"]
 	path = FASeg
 	url = https://github.com/cran/FASeg
+[submodule "FAVA"]
+	path = FAVA
+	url = https://github.com/cran/FAVA
 [submodule "FAVAR"]
 	path = FAVAR
 	url = https://github.com/cran/FAVAR
@@ -11552,6 +11555,9 @@
 [submodule "OenoKPM"]
 	path = OenoKPM
 	url = https://github.com/cran/OenoKPM
+[submodule "OhdsiShinyAppBuilder"]
+	path = OhdsiShinyAppBuilder
+	url = https://github.com/cran/OhdsiShinyAppBuilder
 [submodule "Ohit"]
 	path = Ohit
 	url = https://github.com/cran/Ohit
@@ -24947,6 +24953,9 @@
 [submodule "classmap"]
 	path = classmap
 	url = https://github.com/cran/classmap
+[submodule "clc"]
+	path = clc
+	url = https://github.com/cran/clc
 [submodule "cld2"]
 	path = cld2
 	url = https://github.com/cran/cld2
@@ -37484,6 +37493,9 @@
 [submodule "hts"]
 	path = hts
 	url = https://github.com/cran/hts
+[submodule "htsDegenerateR"]
+	path = htsDegenerateR
+	url = https://github.com/cran/htsDegenerateR
 [submodule "htsr"]
 	path = htsr
 	url = https://github.com/cran/htsr
@@ -47255,6 +47267,9 @@
 [submodule "openeo"]
 	path = openeo
 	url = https://github.com/cran/openeo
+[submodule "opengraph"]
+	path = opengraph
+	url = https://github.com/cran/opengraph
 [submodule "openintro"]
 	path = openintro
 	url = https://github.com/cran/openintro
