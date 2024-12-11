@@ -17732,6 +17732,9 @@
 [submodule "SummaryLasso"]
 	path = SummaryLasso
 	url = https://github.com/cran/SummaryLasso
+[submodule "SunCalcMeeus"]
+	path = SunCalcMeeus
+	url = https://github.com/cran/SunCalcMeeus
 [submodule "Sunclarco"]
 	path = Sunclarco
 	url = https://github.com/cran/Sunclarco
@@ -25958,6 +25961,9 @@
 [submodule "condTruncMVN"]
 	path = condTruncMVN
 	url = https://github.com/cran/condTruncMVN
+[submodule "condathis"]
+	path = condathis
+	url = https://github.com/cran/condathis
 [submodule "condensr"]
 	path = condensr
 	url = https://github.com/cran/condensr
@@ -31913,6 +31919,9 @@
 [submodule "fastOnlineCpt"]
 	path = fastOnlineCpt
 	url = https://github.com/cran/fastOnlineCpt
+[submodule "fastPLS"]
+	path = fastPLS
+	url = https://github.com/cran/fastPLS
 [submodule "fastR2"]
 	path = fastR2
 	url = https://github.com/cran/fastR2
