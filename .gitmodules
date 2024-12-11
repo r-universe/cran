@@ -113,6 +113,9 @@
 [submodule "ADPclust"]
 	path = ADPclust
 	url = https://github.com/cran/ADPclust
+[submodule "ADSIHT"]
+	path = ADSIHT
+	url = https://github.com/cran/ADSIHT
 [submodule "ADTSA"]
 	path = ADTSA
 	url = https://github.com/cran/ADTSA
@@ -3419,6 +3422,9 @@
 [submodule "Cronbach"]
 	path = Cronbach
 	url = https://github.com/cran/Cronbach
+[submodule "CropBreeding"]
+	path = CropBreeding
+	url = https://github.com/cran/CropBreeding
 [submodule "CropScapeR"]
 	path = CropScapeR
 	url = https://github.com/cran/CropScapeR
@@ -9245,6 +9251,9 @@
 [submodule "MAGNAMWAR"]
 	path = MAGNAMWAR
 	url = https://github.com/cran/MAGNAMWAR
+[submodule "MAICtools"]
+	path = MAICtools
+	url = https://github.com/cran/MAICtools
 [submodule "MAINT.Data"]
 	path = MAINT.Data
 	url = https://github.com/cran/MAINT.Data
@@ -16811,6 +16820,9 @@
 [submodule "SangerTools"]
 	path = SangerTools
 	url = https://github.com/cran/SangerTools
+[submodule "SaturnCoefficient"]
+	path = SaturnCoefficient
+	url = https://github.com/cran/SaturnCoefficient
 [submodule "ScRNAIMM"]
 	path = ScRNAIMM
 	url = https://github.com/cran/ScRNAIMM
@@ -18152,6 +18164,9 @@
 [submodule "TRD"]
 	path = TRD
 	url = https://github.com/cran/TRD
+[submodule "TREDesigns"]
+	path = TREDesigns
+	url = https://github.com/cran/TREDesigns
 [submodule "TRES"]
 	path = TRES
 	url = https://github.com/cran/TRES
@@ -62363,6 +62378,9 @@
 [submodule "tmvtnsim"]
 	path = tmvtnsim
 	url = https://github.com/cran/tmvtnsim
+[submodule "tna"]
+	path = tna
+	url = https://github.com/cran/tna
 [submodule "tnet"]
 	path = tnet
 	url = https://github.com/cran/tnet
@@ -65081,6 +65099,9 @@
 [submodule "wordspace"]
 	path = wordspace
 	url = https://github.com/cran/wordspace
+[submodule "wordvector"]
+	path = wordvector
+	url = https://github.com/cran/wordvector
 [submodule "workflowr"]
 	path = workflowr
 	url = https://github.com/cran/workflowr
