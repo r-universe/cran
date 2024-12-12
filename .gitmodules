@@ -3236,6 +3236,9 @@
 [submodule "Conigrave"]
 	path = Conigrave
 	url = https://github.com/cran/Conigrave
+[submodule "ConjointChecks"]
+	path = ConjointChecks
+	url = https://github.com/cran/ConjointChecks
 [submodule "ConnMatTools"]
 	path = ConnMatTools
 	url = https://github.com/cran/ConnMatTools
@@ -18347,6 +18350,9 @@
 [submodule "Tariff"]
 	path = Tariff
 	url = https://github.com/cran/Tariff
+[submodule "TauStar"]
+	path = TauStar
+	url = https://github.com/cran/TauStar
 [submodule "TaxaNorm"]
 	path = TaxaNorm
 	url = https://github.com/cran/TaxaNorm
@@ -44186,6 +44192,9 @@
 [submodule "mnt"]
 	path = mnt
 	url = https://github.com/cran/mnt
+[submodule "moRphomenses"]
+	path = moRphomenses
+	url = https://github.com/cran/moRphomenses
 [submodule "mob"]
 	path = mob
 	url = https://github.com/cran/mob
@@ -47483,6 +47492,9 @@
 [submodule "ordcrm"]
 	path = ordcrm
 	url = https://github.com/cran/ordcrm
+[submodule "orderanalyzer"]
+	path = orderanalyzer
+	url = https://github.com/cran/orderanalyzer
 [submodule "ordering"]
 	path = ordering
 	url = https://github.com/cran/ordering
@@ -50267,6 +50279,9 @@
 [submodule "ppmlasso"]
 	path = ppmlasso
 	url = https://github.com/cran/ppmlasso
+[submodule "pprof"]
+	path = pprof
+	url = https://github.com/cran/pprof
 [submodule "pps"]
 	path = pps
 	url = https://github.com/cran/pps
