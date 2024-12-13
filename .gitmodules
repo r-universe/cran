@@ -3560,6 +3560,9 @@
 [submodule "DArand"]
 	path = DArand
 	url = https://github.com/cran/DArand
+[submodule "DBCVindex"]
+	path = DBCVindex
+	url = https://github.com/cran/DBCVindex
 [submodule "DBEST"]
 	path = DBEST
 	url = https://github.com/cran/DBEST
@@ -9911,9 +9914,6 @@
 [submodule "MRFcov"]
 	path = MRFcov
 	url = https://github.com/cran/MRFcov
-[submodule "MRG"]
-	path = MRG
-	url = https://github.com/cran/MRG
 [submodule "MRHawkes"]
 	path = MRHawkes
 	url = https://github.com/cran/MRHawkes
@@ -24449,6 +24449,9 @@
 [submodule "ceramic"]
 	path = ceramic
 	url = https://github.com/cran/ceramic
+[submodule "cercospoRa"]
+	path = cercospoRa
+	url = https://github.com/cran/cercospoRa
 [submodule "cereal"]
 	path = cereal
 	url = https://github.com/cran/cereal
@@ -38081,6 +38084,9 @@
 [submodule "ideamdb"]
 	path = ideamdb
 	url = https://github.com/cran/ideamdb
+[submodule "ideanet"]
+	path = ideanet
+	url = https://github.com/cran/ideanet
 [submodule "idefix"]
 	path = idefix
 	url = https://github.com/cran/idefix
@@ -43592,6 +43598,9 @@
 [submodule "minty"]
 	path = minty
 	url = https://github.com/cran/minty
+[submodule "mintyr"]
+	path = mintyr
+	url = https://github.com/cran/mintyr
 [submodule "mipfp"]
 	path = mipfp
 	url = https://github.com/cran/mipfp
@@ -59351,6 +59360,9 @@
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
+[submodule "spphpr"]
+	path = spphpr
+	url = https://github.com/cran/spphpr
 [submodule "spqdep"]
 	path = spqdep
 	url = https://github.com/cran/spqdep
