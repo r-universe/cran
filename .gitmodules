@@ -6341,6 +6341,9 @@
 [submodule "GGoutlieR"]
 	path = GGoutlieR
 	url = https://github.com/cran/GGoutlieR
+[submodule "GHCNr"]
+	path = GHCNr
+	url = https://github.com/cran/GHCNr
 [submodule "GHS"]
 	path = GHS
 	url = https://github.com/cran/GHS
@@ -19205,6 +19208,9 @@
 [submodule "WALS"]
 	path = WALS
 	url = https://github.com/cran/WALS
+[submodule "WARDEN"]
+	path = WARDEN
+	url = https://github.com/cran/WARDEN
 [submodule "WARN"]
 	path = WARN
 	url = https://github.com/cran/WARN
@@ -23405,6 +23411,9 @@
 [submodule "bridgesampling"]
 	path = bridgesampling
 	url = https://github.com/cran/bridgesampling
+[submodule "bridgr"]
+	path = bridgr
+	url = https://github.com/cran/bridgr
 [submodule "brif"]
 	path = brif
 	url = https://github.com/cran/brif
@@ -27764,6 +27773,9 @@
 [submodule "dataspice"]
 	path = dataspice
 	url = https://github.com/cran/dataspice
+[submodule "datastat"]
+	path = datastat
+	url = https://github.com/cran/datastat
 [submodule "datastepr"]
 	path = datastepr
 	url = https://github.com/cran/datastepr
@@ -29492,6 +29504,9 @@
 [submodule "dscore"]
 	path = dscore
 	url = https://github.com/cran/dscore
+[submodule "dscoreMSM"]
+	path = dscoreMSM
+	url = https://github.com/cran/dscoreMSM
 [submodule "dsdp"]
 	path = dsdp
 	url = https://github.com/cran/dsdp
