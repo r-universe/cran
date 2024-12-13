@@ -6725,9 +6725,6 @@
 [submodule "GWsignif"]
 	path = GWsignif
 	url = https://github.com/cran/GWsignif
-[submodule "GaMaBioMD"]
-	path = GaMaBioMD
-	url = https://github.com/cran/GaMaBioMD
 [submodule "GaSP"]
 	path = GaSP
 	url = https://github.com/cran/GaSP
@@ -12359,6 +12356,9 @@
 [submodule "PSF"]
 	path = PSF
 	url = https://github.com/cran/PSF
+[submodule "PSGD"]
+	path = PSGD
+	url = https://github.com/cran/PSGD
 [submodule "PSGoft"]
 	path = PSGoft
 	url = https://github.com/cran/PSGoft
@@ -20936,9 +20936,6 @@
 [submodule "arcgislayers"]
 	path = arcgislayers
 	url = https://github.com/cran/arcgislayers
-[submodule "arcgisplaces"]
-	path = arcgisplaces
-	url = https://github.com/cran/arcgisplaces
 [submodule "arcgisutils"]
 	path = arcgisutils
 	url = https://github.com/cran/arcgisutils
@@ -30962,6 +30959,9 @@
 [submodule "erer"]
 	path = erer
 	url = https://github.com/cran/erer
+[submodule "erfe"]
+	path = erfe
+	url = https://github.com/cran/erfe
 [submodule "ergMargins"]
 	path = ergMargins
 	url = https://github.com/cran/ergMargins
@@ -43559,6 +43559,9 @@
 [submodule "minimap"]
 	path = minimap
 	url = https://github.com/cran/minimap
+[submodule "minimapR"]
+	path = minimapR
+	url = https://github.com/cran/minimapR
 [submodule "minimax"]
 	path = minimax
 	url = https://github.com/cran/minimax
@@ -44678,9 +44681,6 @@
 [submodule "mrMLM.GUI"]
 	path = mrMLM.GUI
 	url = https://github.com/cran/mrMLM.GUI
-[submodule "mra"]
-	path = mra
-	url = https://github.com/cran/mra
 [submodule "mratios"]
 	path = mratios
 	url = https://github.com/cran/mratios
@@ -59474,6 +59474,9 @@
 [submodule "sregsurvey"]
 	path = sregsurvey
 	url = https://github.com/cran/sregsurvey
+[submodule "srlTS"]
+	path = srlTS
+	url = https://github.com/cran/srlTS
 [submodule "srlars"]
 	path = srlars
 	url = https://github.com/cran/srlars
@@ -59918,6 +59921,9 @@
 [submodule "stepR"]
 	path = stepR
 	url = https://github.com/cran/stepR
+[submodule "stepSplitReg"]
+	path = stepSplitReg
+	url = https://github.com/cran/stepSplitReg
 [submodule "stepcount"]
 	path = stepcount
 	url = https://github.com/cran/stepcount
@@ -61148,9 +61154,6 @@
 [submodule "taxalight"]
 	path = taxalight
 	url = https://github.com/cran/taxalight
-[submodule "taxize"]
-	path = taxize
-	url = https://github.com/cran/taxize
 [submodule "taxlist"]
 	path = taxlist
 	url = https://github.com/cran/taxlist
@@ -62615,9 +62618,6 @@
 [submodule "traipse"]
 	path = traipse
 	url = https://github.com/cran/traipse
-[submodule "traits"]
-	path = traits
-	url = https://github.com/cran/traits
 [submodule "traitstrap"]
 	path = traitstrap
 	url = https://github.com/cran/traitstrap
