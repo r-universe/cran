@@ -58712,6 +58712,9 @@
 [submodule "spDates"]
 	path = spDates
 	url = https://github.com/cran/spDates
+[submodule "spEDM"]
+	path = spEDM
+	url = https://github.com/cran/spEDM
 [submodule "spFSR"]
 	path = spFSR
 	url = https://github.com/cran/spFSR
