@@ -1694,6 +1694,9 @@
 [submodule "BifactorIndicesCalculator"]
 	path = BifactorIndicesCalculator
 	url = https://github.com/cran/BifactorIndicesCalculator
+[submodule "BigDataPE"]
+	path = BigDataPE
+	url = https://github.com/cran/BigDataPE
 [submodule "BigQuic"]
 	path = BigQuic
 	url = https://github.com/cran/BigQuic
@@ -25703,6 +25706,9 @@
 [submodule "colorednoise"]
 	path = colorednoise
 	url = https://github.com/cran/colorednoise
+[submodule "colorfast"]
+	path = colorfast
+	url = https://github.com/cran/colorfast
 [submodule "colorfindr"]
 	path = colorfindr
 	url = https://github.com/cran/colorfindr
@@ -28865,6 +28871,9 @@
 [submodule "dispeRse"]
 	path = dispeRse
 	url = https://github.com/cran/dispeRse
+[submodule "displease"]
+	path = displease
+	url = https://github.com/cran/displease
 [submodule "dispmod"]
 	path = dispmod
 	url = https://github.com/cran/dispmod
