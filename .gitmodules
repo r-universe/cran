@@ -39092,6 +39092,9 @@
 [submodule "isnullptr"]
 	path = isnullptr
 	url = https://github.com/cran/isnullptr
+[submodule "iso8601"]
+	path = iso8601
+	url = https://github.com/cran/iso8601
 [submodule "isoSurv"]
 	path = isoSurv
 	url = https://github.com/cran/isoSurv
@@ -39491,6 +39494,9 @@
 [submodule "jointVIP"]
 	path = jointVIP
 	url = https://github.com/cran/jointVIP
+[submodule "jointest"]
+	path = jointest
+	url = https://github.com/cran/jointest
 [submodule "jointseg"]
 	path = jointseg
 	url = https://github.com/cran/jointseg
@@ -62774,6 +62780,9 @@
 [submodule "treebase"]
 	path = treebase
 	url = https://github.com/cran/treebase
+[submodule "treeclim"]
+	path = treeclim
+	url = https://github.com/cran/treeclim
 [submodule "treedater"]
 	path = treedater
 	url = https://github.com/cran/treedater
