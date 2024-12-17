@@ -3305,6 +3305,9 @@
 [submodule "CopernicusDEM"]
 	path = CopernicusDEM
 	url = https://github.com/cran/CopernicusDEM
+[submodule "CopernicusMarine"]
+	path = CopernicusMarine
+	url = https://github.com/cran/CopernicusMarine
 [submodule "Copula.Markov"]
 	path = Copula.Markov
 	url = https://github.com/cran/Copula.Markov
@@ -28382,9 +28385,6 @@
 [submodule "desirability2"]
 	path = desirability2
 	url = https://github.com/cran/desirability2
-[submodule "desk"]
-	path = desk
-	url = https://github.com/cran/desk
 [submodule "desla"]
 	path = desla
 	url = https://github.com/cran/desla
@@ -49187,6 +49187,9 @@
 [submodule "phylocanvas"]
 	path = phylocanvas
 	url = https://github.com/cran/phylocanvas
+[submodule "phyloclim"]
+	path = phyloclim
+	url = https://github.com/cran/phyloclim
 [submodule "phylocomr"]
 	path = phylocomr
 	url = https://github.com/cran/phylocomr
