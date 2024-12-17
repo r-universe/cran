@@ -7079,6 +7079,9 @@
 [submodule "Grouphmap"]
 	path = Grouphmap
 	url = https://github.com/cran/Grouphmap
+[submodule "GrowthCurveME"]
+	path = GrowthCurveME
+	url = https://github.com/cran/GrowthCurveME
 [submodule "GrpString"]
 	path = GrpString
 	url = https://github.com/cran/GrpString
@@ -32024,6 +32027,9 @@
 [submodule "fasterElasticNet"]
 	path = fasterElasticNet
 	url = https://github.com/cran/fasterElasticNet
+[submodule "fasterRaster"]
+	path = fasterRaster
+	url = https://github.com/cran/fasterRaster
 [submodule "fasterize"]
 	path = fasterize
 	url = https://github.com/cran/fasterize
@@ -33590,6 +33596,9 @@
 [submodule "furrr"]
 	path = furrr
 	url = https://github.com/cran/furrr
+[submodule "fuseMLR"]
+	path = fuseMLR
+	url = https://github.com/cran/fuseMLR
 [submodule "fusedMGM"]
 	path = fusedMGM
 	url = https://github.com/cran/fusedMGM
@@ -47924,6 +47933,9 @@
 [submodule "pacs"]
 	path = pacs
 	url = https://github.com/cran/pacs
+[submodule "pacu"]
+	path = pacu
+	url = https://github.com/cran/pacu
 [submodule "padr"]
 	path = padr
 	url = https://github.com/cran/padr
@@ -51302,6 +51314,9 @@
 [submodule "qPCRtools"]
 	path = qPCRtools
 	url = https://github.com/cran/qPCRtools
+[submodule "qPRAentry"]
+	path = qPRAentry
+	url = https://github.com/cran/qPRAentry
 [submodule "qVarSel"]
 	path = qVarSel
 	url = https://github.com/cran/qVarSel
