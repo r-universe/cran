@@ -31427,6 +31427,9 @@
 [submodule "executablePackeR"]
 	path = executablePackeR
 	url = https://github.com/cran/executablePackeR
+[submodule "exhaustiveRasch"]
+	path = exhaustiveRasch
+	url = https://github.com/cran/exhaustiveRasch
 [submodule "exif"]
 	path = exif
 	url = https://github.com/cran/exif
@@ -36206,6 +36209,9 @@
 [submodule "greta.dynamics"]
 	path = greta.dynamics
 	url = https://github.com/cran/greta.dynamics
+[submodule "greta.gam"]
+	path = greta.gam
+	url = https://github.com/cran/greta.gam
 [submodule "greta.gp"]
 	path = greta.gp
 	url = https://github.com/cran/greta.gp
