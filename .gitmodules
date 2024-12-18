@@ -28388,6 +28388,9 @@
 [submodule "desirability2"]
 	path = desirability2
 	url = https://github.com/cran/desirability2
+[submodule "desk"]
+	path = desk
+	url = https://github.com/cran/desk
 [submodule "desla"]
 	path = desla
 	url = https://github.com/cran/desla
@@ -39260,9 +39263,6 @@
 [submodule "ivaBSS"]
 	path = ivaBSS
 	url = https://github.com/cran/ivaBSS
-[submodule "ivdesc"]
-	path = ivdesc
-	url = https://github.com/cran/ivdesc
 [submodule "ivdesign"]
 	path = ivdesign
 	url = https://github.com/cran/ivdesign
