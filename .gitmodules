@@ -887,6 +887,9 @@
 [submodule "BAR"]
 	path = BAR
 	url = https://github.com/cran/BAR
+[submodule "BAREB"]
+	path = BAREB
+	url = https://github.com/cran/BAREB
 [submodule "BART"]
 	path = BART
 	url = https://github.com/cran/BART
@@ -19949,6 +19952,9 @@
 [submodule "adaptsmoFMRI"]
 	path = adaptsmoFMRI
 	url = https://github.com/cran/adaptsmoFMRI
+[submodule "adas.utils"]
+	path = adas.utils
+	url = https://github.com/cran/adas.utils
 [submodule "adass"]
 	path = adass
 	url = https://github.com/cran/adass
@@ -24110,6 +24116,9 @@
 [submodule "catalog"]
 	path = catalog
 	url = https://github.com/cran/catalog
+[submodule "catalytic"]
+	path = catalytic
+	url = https://github.com/cran/catalytic
 [submodule "catch"]
 	path = catch
 	url = https://github.com/cran/catch
@@ -57431,6 +57440,9 @@
 [submodule "shinybusy"]
 	path = shinybusy
 	url = https://github.com/cran/shinybusy
+[submodule "shinychat"]
+	path = shinychat
+	url = https://github.com/cran/shinychat
 [submodule "shinycroneditor"]
 	path = shinycroneditor
 	url = https://github.com/cran/shinycroneditor
@@ -58832,6 +58844,9 @@
 [submodule "spanish"]
 	path = spanish
 	url = https://github.com/cran/spanish
+[submodule "spanishoddata"]
+	path = spanishoddata
+	url = https://github.com/cran/spanishoddata
 [submodule "spant"]
 	path = spant
 	url = https://github.com/cran/spant
@@ -59312,6 +59327,9 @@
 [submodule "spldv"]
 	path = spldv
 	url = https://github.com/cran/spldv
+[submodule "splineCox"]
+	path = splineCox
+	url = https://github.com/cran/splineCox
 [submodule "splines2"]
 	path = splines2
 	url = https://github.com/cran/splines2
@@ -61199,6 +61217,9 @@
 [submodule "tatoo"]
 	path = tatoo
 	url = https://github.com/cran/tatoo
+[submodule "tatooheene"]
+	path = tatooheene
+	url = https://github.com/cran/tatooheene
 [submodule "tau"]
 	path = tau
 	url = https://github.com/cran/tau
