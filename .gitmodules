@@ -2882,6 +2882,9 @@
 [submodule "CleanBSequences"]
 	path = CleanBSequences
 	url = https://github.com/cran/CleanBSequences
+[submodule "Cleanet"]
+	path = Cleanet
+	url = https://github.com/cran/Cleanet
 [submodule "CleaningValidation"]
 	path = CleaningValidation
 	url = https://github.com/cran/CleaningValidation
@@ -3716,6 +3719,9 @@
 [submodule "DEploid"]
 	path = DEploid
 	url = https://github.com/cran/DEploid
+[submodule "DEploid.utils"]
+	path = DEploid.utils
+	url = https://github.com/cran/DEploid.utils
 [submodule "DFA"]
 	path = DFA
 	url = https://github.com/cran/DFA
@@ -19583,6 +19589,9 @@
 [submodule "ZIM"]
 	path = ZIM
 	url = https://github.com/cran/ZIM
+[submodule "ZIM4rv"]
+	path = ZIM4rv
+	url = https://github.com/cran/ZIM4rv
 [submodule "ZINAR1"]
 	path = ZINAR1
 	url = https://github.com/cran/ZINAR1
@@ -29159,6 +29168,9 @@
 [submodule "doMPI"]
 	path = doMPI
 	url = https://github.com/cran/doMPI
+[submodule "doParabar"]
+	path = doParabar
+	url = https://github.com/cran/doParabar
 [submodule "doParallel"]
 	path = doParallel
 	url = https://github.com/cran/doParallel
@@ -55700,6 +55712,9 @@
 [submodule "sae"]
 	path = sae
 	url = https://github.com/cran/sae
+[submodule "sae.projection"]
+	path = sae.projection
+	url = https://github.com/cran/sae.projection
 [submodule "sae.prop"]
 	path = sae.prop
 	url = https://github.com/cran/sae.prop
