@@ -23942,6 +23942,9 @@
 [submodule "capesData"]
 	path = capesData
 	url = https://github.com/cran/capesData
+[submodule "capesR"]
+	path = capesR
+	url = https://github.com/cran/capesR
 [submodule "capitalR"]
 	path = capitalR
 	url = https://github.com/cran/capitalR
