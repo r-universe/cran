@@ -13865,6 +13865,9 @@
 [submodule "RGN"]
 	path = RGN
 	url = https://github.com/cran/RGN
+[submodule "RGS"]
+	path = RGS
+	url = https://github.com/cran/RGS
 [submodule "RGenData"]
 	path = RGenData
 	url = https://github.com/cran/RGenData
@@ -22883,6 +22886,9 @@
 [submodule "bittermelon"]
 	path = bittermelon
 	url = https://github.com/cran/bittermelon
+[submodule "bivariateLeaflet"]
+	path = bivariateLeaflet
+	url = https://github.com/cran/bivariateLeaflet
 [submodule "bivariatemaps"]
 	path = bivariatemaps
 	url = https://github.com/cran/bivariatemaps
@@ -26753,6 +26759,9 @@
 [submodule "cpp11eigen"]
 	path = cpp11eigen
 	url = https://github.com/cran/cpp11eigen
+[submodule "cpp11qpdf"]
+	path = cpp11qpdf
+	url = https://github.com/cran/cpp11qpdf
 [submodule "cpp11tesseract"]
 	path = cpp11tesseract
 	url = https://github.com/cran/cpp11tesseract
@@ -26852,6 +26861,9 @@
 [submodule "creditmodel"]
 	path = creditmodel
 	url = https://github.com/cran/creditmodel
+[submodule "creditr"]
+	path = creditr
+	url = https://github.com/cran/creditr
 [submodule "credsubs"]
 	path = credsubs
 	url = https://github.com/cran/credsubs
@@ -32939,6 +32951,9 @@
 [submodule "fmf"]
 	path = fmf
 	url = https://github.com/cran/fmf
+[submodule "fmpapi"]
+	path = fmpapi
+	url = https://github.com/cran/fmpapi
 [submodule "fmpcloudr"]
 	path = fmpcloudr
 	url = https://github.com/cran/fmpcloudr
@@ -47078,9 +47093,6 @@
 [submodule "ofpetrial"]
 	path = ofpetrial
 	url = https://github.com/cran/ofpetrial
-[submodule "oglcnac"]
-	path = oglcnac
-	url = https://github.com/cran/oglcnac
 [submodule "oglmx"]
 	path = oglmx
 	url = https://github.com/cran/oglmx
@@ -60377,6 +60389,9 @@
 [submodule "subgxe"]
 	path = subgxe
 	url = https://github.com/cran/subgxe
+[submodule "subincomeR"]
+	path = subincomeR
+	url = https://github.com/cran/subincomeR
 [submodule "submax"]
 	path = submax
 	url = https://github.com/cran/submax
@@ -62747,9 +62762,6 @@
 [submodule "tramvs"]
 	path = tramvs
 	url = https://github.com/cran/tramvs
-[submodule "tranSurv"]
-	path = tranSurv
-	url = https://github.com/cran/tranSurv
 [submodule "transDA"]
 	path = transDA
 	url = https://github.com/cran/transDA
