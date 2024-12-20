@@ -2771,6 +2771,9 @@
 [submodule "Certara.RsNLME"]
 	path = Certara.RsNLME
 	url = https://github.com/cran/Certara.RsNLME
+[submodule "Certara.RsNLME.ModelBuilder"]
+	path = Certara.RsNLME.ModelBuilder
+	url = https://github.com/cran/Certara.RsNLME.ModelBuilder
 [submodule "Certara.VPCResults"]
 	path = Certara.VPCResults
 	url = https://github.com/cran/Certara.VPCResults
@@ -21647,6 +21650,9 @@
 [submodule "backtest"]
 	path = backtest
 	url = https://github.com/cran/backtest
+[submodule "backtestGraphics"]
+	path = backtestGraphics
+	url = https://github.com/cran/backtestGraphics
 [submodule "baclava"]
 	path = baclava
 	url = https://github.com/cran/baclava
@@ -23498,6 +23504,9 @@
 [submodule "brulee"]
 	path = brulee
 	url = https://github.com/cran/brulee
+[submodule "bruneimap"]
+	path = bruneimap
+	url = https://github.com/cran/bruneimap
 [submodule "brunnermunzel"]
 	path = brunnermunzel
 	url = https://github.com/cran/brunnermunzel
@@ -24875,6 +24884,9 @@
 [submodule "cipheR"]
 	path = cipheR
 	url = https://github.com/cran/cipheR
+[submodule "ciphertext"]
+	path = ciphertext
+	url = https://github.com/cran/ciphertext
 [submodule "cir"]
 	path = cir
 	url = https://github.com/cran/cir
@@ -35321,6 +35333,9 @@
 [submodule "ggtangle"]
 	path = ggtangle
 	url = https://github.com/cran/ggtangle
+[submodule "ggtaxplot"]
+	path = ggtaxplot
+	url = https://github.com/cran/ggtaxplot
 [submodule "ggtea"]
 	path = ggtea
 	url = https://github.com/cran/ggtea
@@ -45284,6 +45299,9 @@
 [submodule "multpois"]
 	path = multpois
 	url = https://github.com/cran/multpois
+[submodule "multvardiv"]
+	path = multvardiv
+	url = https://github.com/cran/multvardiv
 [submodule "multxpert"]
 	path = multxpert
 	url = https://github.com/cran/multxpert
@@ -55697,6 +55715,9 @@
 [submodule "sSDR"]
 	path = sSDR
 	url = https://github.com/cran/sSDR
+[submodule "sTSD"]
+	path = sTSD
+	url = https://github.com/cran/sTSD
 [submodule "sValues"]
 	path = sValues
 	url = https://github.com/cran/sValues
