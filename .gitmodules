@@ -3569,9 +3569,6 @@
 [submodule "DArand"]
 	path = DArand
 	url = https://github.com/cran/DArand
-[submodule "DBCVindex"]
-	path = DBCVindex
-	url = https://github.com/cran/DBCVindex
 [submodule "DBEST"]
 	path = DBEST
 	url = https://github.com/cran/DBEST
