@@ -19115,9 +19115,6 @@
 [submodule "VarianceGamma"]
 	path = VarianceGamma
 	url = https://github.com/cran/VarianceGamma
-[submodule "Vdgraph"]
-	path = Vdgraph
-	url = https://github.com/cran/Vdgraph
 [submodule "VecDep"]
 	path = VecDep
 	url = https://github.com/cran/VecDep
@@ -52679,9 +52676,6 @@
 [submodule "raws.profile"]
 	path = raws.profile
 	url = https://github.com/cran/raws.profile
-[submodule "raybevel"]
-	path = raybevel
-	url = https://github.com/cran/raybevel
 [submodule "rayimage"]
 	path = rayimage
 	url = https://github.com/cran/rayimage
@@ -58823,9 +58817,6 @@
 [submodule "spNNGP"]
 	path = spNNGP
 	url = https://github.com/cran/spNNGP
-[submodule "spNetwork"]
-	path = spNetwork
-	url = https://github.com/cran/spNetwork
 [submodule "spOccupancy"]
 	path = spOccupancy
 	url = https://github.com/cran/spOccupancy
@@ -59297,9 +59288,6 @@
 [submodule "spgwr"]
 	path = spgwr
 	url = https://github.com/cran/spgwr
-[submodule "sphereTessellation"]
-	path = sphereTessellation
-	url = https://github.com/cran/sphereTessellation
 [submodule "spheredata"]
 	path = spheredata
 	url = https://github.com/cran/spheredata
