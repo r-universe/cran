@@ -5975,6 +5975,9 @@
 [submodule "ForestDisc"]
 	path = ForestDisc
 	url = https://github.com/cran/ForestDisc
+[submodule "ForestElementsR"]
+	path = ForestElementsR
+	url = https://github.com/cran/ForestElementsR
 [submodule "ForestFit"]
 	path = ForestFit
 	url = https://github.com/cran/ForestFit
@@ -7322,6 +7325,9 @@
 [submodule "HRW"]
 	path = HRW
 	url = https://github.com/cran/HRW
+[submodule "HSAR"]
+	path = HSAR
+	url = https://github.com/cran/HSAR
 [submodule "HSAUR"]
 	path = HSAUR
 	url = https://github.com/cran/HSAUR
@@ -18791,6 +18797,9 @@
 [submodule "TwoStepCLogit"]
 	path = TwoStepCLogit
 	url = https://github.com/cran/TwoStepCLogit
+[submodule "TwoTimeScales"]
+	path = TwoTimeScales
+	url = https://github.com/cran/TwoTimeScales
 [submodule "TwoWayFEWeights"]
 	path = TwoWayFEWeights
 	url = https://github.com/cran/TwoWayFEWeights
@@ -27803,6 +27812,9 @@
 [submodule "dataseries"]
 	path = dataseries
 	url = https://github.com/cran/dataseries
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/cran/dataset
 [submodule "datasetjson"]
 	path = datasetjson
 	url = https://github.com/cran/datasetjson
@@ -36968,6 +36980,9 @@
 [submodule "hds"]
 	path = hds
 	url = https://github.com/cran/hds
+[submodule "hdthreshold"]
+	path = hdthreshold
+	url = https://github.com/cran/hdthreshold
 [submodule "headliner"]
 	path = headliner
 	url = https://github.com/cran/headliner
@@ -39272,6 +39287,9 @@
 [submodule "itertools2"]
 	path = itertools2
 	url = https://github.com/cran/itertools2
+[submodule "itmsa"]
+	path = itmsa
+	url = https://github.com/cran/itmsa
 [submodule "itol.toolkit"]
 	path = itol.toolkit
 	url = https://github.com/cran/itol.toolkit
@@ -43130,6 +43148,9 @@
 [submodule "metalite.ae"]
 	path = metalite.ae
 	url = https://github.com/cran/metalite.ae
+[submodule "metalite.sl"]
+	path = metalite.sl
+	url = https://github.com/cran/metalite.sl
 [submodule "metalite.table1"]
 	path = metalite.table1
 	url = https://github.com/cran/metalite.table1
@@ -57746,6 +57767,9 @@
 [submodule "sigr"]
 	path = sigr
 	url = https://github.com/cran/sigr
+[submodule "sigugr"]
+	path = sigugr
+	url = https://github.com/cran/sigugr
 [submodule "siie"]
 	path = siie
 	url = https://github.com/cran/siie
