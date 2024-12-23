@@ -50528,9 +50528,6 @@
 [submodule "prefeR"]
 	path = prefeR
 	url = https://github.com/cran/prefeR
-[submodule "preferably"]
-	path = preferably
-	url = https://github.com/cran/preferably
 [submodule "preference"]
 	path = preference
 	url = https://github.com/cran/preference
@@ -59462,9 +59459,6 @@
 [submodule "spphpr"]
 	path = spphpr
 	url = https://github.com/cran/spphpr
-[submodule "spqdep"]
-	path = spqdep
-	url = https://github.com/cran/spqdep
 [submodule "spray"]
 	path = spray
 	url = https://github.com/cran/spray
