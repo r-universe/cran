@@ -1013,9 +1013,6 @@
 [submodule "BEND"]
 	path = BEND
 	url = https://github.com/cran/BEND
-[submodule "BENMMI"]
-	path = BENMMI
-	url = https://github.com/cran/BENMMI
 [submodule "BESTree"]
 	path = BESTree
 	url = https://github.com/cran/BESTree
@@ -53000,9 +52997,6 @@
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/cran/rdryad
-[submodule "rdss"]
-	path = rdss
-	url = https://github.com/cran/rdss
 [submodule "rdtLite"]
 	path = rdtLite
 	url = https://github.com/cran/rdtLite
@@ -62780,9 +62774,6 @@
 [submodule "tramnet"]
 	path = tramnet
 	url = https://github.com/cran/tramnet
-[submodule "trampoline"]
-	path = trampoline
-	url = https://github.com/cran/trampoline
 [submodule "tramvs"]
 	path = tramvs
 	url = https://github.com/cran/tramvs
