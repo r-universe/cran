@@ -10703,6 +10703,9 @@
 [submodule "MuMIn"]
 	path = MuMIn
 	url = https://github.com/cran/MuMIn
+[submodule "MuPETFlow"]
+	path = MuPETFlow
+	url = https://github.com/cran/MuPETFlow
 [submodule "MuViCP"]
 	path = MuViCP
 	url = https://github.com/cran/MuViCP
@@ -26729,6 +26732,9 @@
 [submodule "cpp11armadillo"]
 	path = cpp11armadillo
 	url = https://github.com/cran/cpp11armadillo
+[submodule "cpp11bigwig"]
+	path = cpp11bigwig
+	url = https://github.com/cran/cpp11bigwig
 [submodule "cpp11eigen"]
 	path = cpp11eigen
 	url = https://github.com/cran/cpp11eigen
@@ -54137,6 +54143,9 @@
 [submodule "riskyr"]
 	path = riskyr
 	url = https://github.com/cran/riskyr
+[submodule "ritalic"]
+	path = ritalic
+	url = https://github.com/cran/ritalic
 [submodule "ritis"]
 	path = ritis
 	url = https://github.com/cran/ritis
@@ -54356,9 +54365,6 @@
 [submodule "rmgarch"]
 	path = rmgarch
 	url = https://github.com/cran/rmgarch
-[submodule "rmi"]
-	path = rmi
-	url = https://github.com/cran/rmi
 [submodule "rminer"]
 	path = rminer
 	url = https://github.com/cran/rminer
