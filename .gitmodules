@@ -2768,6 +2768,9 @@
 [submodule "Certara.RsNLME.ModelBuilder"]
 	path = Certara.RsNLME.ModelBuilder
 	url = https://github.com/cran/Certara.RsNLME.ModelBuilder
+[submodule "Certara.RsNLME.ModelExecutor"]
+	path = Certara.RsNLME.ModelExecutor
+	url = https://github.com/cran/Certara.RsNLME.ModelExecutor
 [submodule "Certara.VPCResults"]
 	path = Certara.VPCResults
 	url = https://github.com/cran/Certara.VPCResults
@@ -3884,6 +3887,9 @@
 [submodule "DNMF"]
 	path = DNMF
 	url = https://github.com/cran/DNMF
+[submodule "DNNSIM"]
+	path = DNNSIM
+	url = https://github.com/cran/DNNSIM
 [submodule "DNetFinder"]
 	path = DNetFinder
 	url = https://github.com/cran/DNetFinder
@@ -19235,6 +19241,9 @@
 [submodule "WINS"]
 	path = WINS
 	url = https://github.com/cran/WINS
+[submodule "WIPF"]
+	path = WIPF
+	url = https://github.com/cran/WIPF
 [submodule "WLogit"]
 	path = WLogit
 	url = https://github.com/cran/WLogit
@@ -26846,6 +26855,9 @@
 [submodule "credule"]
 	path = credule
 	url = https://github.com/cran/credule
+[submodule "creepyalien"]
+	path = creepyalien
+	url = https://github.com/cran/creepyalien
 [submodule "crew"]
 	path = crew
 	url = https://github.com/cran/crew
@@ -63761,6 +63773,9 @@
 [submodule "utf8"]
 	path = utf8
 	url = https://github.com/cran/utf8
+[submodule "utf8ify"]
+	path = utf8ify
+	url = https://github.com/cran/utf8ify
 [submodule "utile.tables"]
 	path = utile.tables
 	url = https://github.com/cran/utile.tables
