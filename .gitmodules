@@ -8435,6 +8435,9 @@
 [submodule "KODAMA"]
 	path = KODAMA
 	url = https://github.com/cran/KODAMA
+[submodule "KOFM"]
+	path = KOFM
+	url = https://github.com/cran/KOFM
 [submodule "KOGMWU"]
 	path = KOGMWU
 	url = https://github.com/cran/KOGMWU
@@ -9857,6 +9860,9 @@
 [submodule "MOLHD"]
 	path = MOLHD
 	url = https://github.com/cran/MOLHD
+[submodule "MOODE"]
+	path = MOODE
+	url = https://github.com/cran/MOODE
 [submodule "MOQA"]
 	path = MOQA
 	url = https://github.com/cran/MOQA
@@ -20954,6 +20960,9 @@
 [submodule "archeofrag"]
 	path = archeofrag
 	url = https://github.com/cran/archeofrag
+[submodule "archeofrag.gui"]
+	path = archeofrag.gui
+	url = https://github.com/cran/archeofrag.gui
 [submodule "archetypal"]
 	path = archetypal
 	url = https://github.com/cran/archetypal
@@ -24335,6 +24344,9 @@
 [submodule "cdgd"]
 	path = cdgd
 	url = https://github.com/cran/cdgd
+[submodule "cdid"]
+	path = cdid
+	url = https://github.com/cran/cdid
 [submodule "cdlTools"]
 	path = cdlTools
 	url = https://github.com/cran/cdlTools
@@ -29474,6 +29486,9 @@
 [submodule "droll"]
 	path = droll
 	url = https://github.com/cran/droll
+[submodule "drone"]
+	path = drone
+	url = https://github.com/cran/drone
 [submodule "dropR"]
 	path = dropR
 	url = https://github.com/cran/dropR
@@ -30866,6 +30881,9 @@
 [submodule "epiomics"]
 	path = epiomics
 	url = https://github.com/cran/epiomics
+[submodule "epiparameter"]
+	path = epiparameter
+	url = https://github.com/cran/epiparameter
 [submodule "epiparameterDB"]
 	path = epiparameterDB
 	url = https://github.com/cran/epiparameterDB
@@ -35849,6 +35867,9 @@
 [submodule "goldfish"]
 	path = goldfish
 	url = https://github.com/cran/goldfish
+[submodule "goldilocks"]
+	path = goldilocks
+	url = https://github.com/cran/goldilocks
 [submodule "golem"]
 	path = golem
 	url = https://github.com/cran/golem
@@ -40679,6 +40700,9 @@
 [submodule "learnPopGen"]
 	path = learnPopGen
 	url = https://github.com/cran/learnPopGen
+[submodule "learner"]
+	path = learner
+	url = https://github.com/cran/learner
 [submodule "learningr"]
 	path = learningr
 	url = https://github.com/cran/learningr
@@ -46649,6 +46673,9 @@
 [submodule "npi"]
 	path = npi
 	url = https://github.com/cran/npi
+[submodule "npiv"]
+	path = npiv
+	url = https://github.com/cran/npiv
 [submodule "nplplot"]
 	path = nplplot
 	url = https://github.com/cran/nplplot
@@ -57410,6 +57437,9 @@
 [submodule "shinyauthr"]
 	path = shinyauthr
 	url = https://github.com/cran/shinyauthr
+[submodule "shinybody"]
+	path = shinybody
+	url = https://github.com/cran/shinybody
 [submodule "shinybrms"]
 	path = shinybrms
 	url = https://github.com/cran/shinybrms
@@ -62036,6 +62066,9 @@
 [submodule "tidypredict"]
 	path = tidypredict
 	url = https://github.com/cran/tidypredict
+[submodule "tidyprompt"]
+	path = tidyprompt
+	url = https://github.com/cran/tidyprompt
 [submodule "tidyquant"]
 	path = tidyquant
 	url = https://github.com/cran/tidyquant
@@ -64424,6 +64457,9 @@
 [submodule "voronoiTreemap"]
 	path = voronoiTreemap
 	url = https://github.com/cran/voronoiTreemap
+[submodule "voronoifortune"]
+	path = voronoifortune
+	url = https://github.com/cran/voronoifortune
 [submodule "vortexRdata"]
 	path = vortexRdata
 	url = https://github.com/cran/vortexRdata
