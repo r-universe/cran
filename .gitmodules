@@ -9257,6 +9257,9 @@
 [submodule "MACER"]
 	path = MACER
 	url = https://github.com/cran/MACER
+[submodule "MADMMplasso"]
+	path = MADMMplasso
+	url = https://github.com/cran/MADMMplasso
 [submodule "MADPop"]
 	path = MADPop
 	url = https://github.com/cran/MADPop
@@ -27530,6 +27533,9 @@
 [submodule "dQTG.seq"]
 	path = dQTG.seq
 	url = https://github.com/cran/dQTG.seq
+[submodule "dRiftDM"]
+	path = dRiftDM
+	url = https://github.com/cran/dRiftDM
 [submodule "dSTEM"]
 	path = dSTEM
 	url = https://github.com/cran/dSTEM
@@ -54416,6 +54422,9 @@
 [submodule "rmio"]
 	path = rmio
 	url = https://github.com/cran/rmio
+[submodule "rmlnomogram"]
+	path = rmlnomogram
+	url = https://github.com/cran/rmlnomogram
 [submodule "rmoo"]
 	path = rmoo
 	url = https://github.com/cran/rmoo
@@ -64127,6 +64136,9 @@
 [submodule "vectorwavelet"]
 	path = vectorwavelet
 	url = https://github.com/cran/vectorwavelet
+[submodule "vegIndexCalc"]
+	path = vegIndexCalc
+	url = https://github.com/cran/vegIndexCalc
 [submodule "vegalite"]
 	path = vegalite
 	url = https://github.com/cran/vegalite
