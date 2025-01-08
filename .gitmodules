@@ -59405,6 +59405,9 @@
 [submodule "spphpr"]
 	path = spphpr
 	url = https://github.com/cran/spphpr
+[submodule "spqdep"]
+	path = spqdep
+	url = https://github.com/cran/spqdep
 [submodule "spray"]
 	path = spray
 	url = https://github.com/cran/spray
