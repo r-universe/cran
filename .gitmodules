@@ -7985,6 +7985,9 @@
 [submodule "ITNr"]
 	path = ITNr
 	url = https://github.com/cran/ITNr
+[submodule "IVCor"]
+	path = IVCor
+	url = https://github.com/cran/IVCor
 [submodule "IVYplot"]
 	path = IVYplot
 	url = https://github.com/cran/IVYplot
@@ -14024,6 +14027,9 @@
 [submodule "RLeafAngle"]
 	path = RLeafAngle
 	url = https://github.com/cran/RLeafAngle
+[submodule "RLescalation"]
+	path = RLescalation
+	url = https://github.com/cran/RLescalation
 [submodule "RLogicalOps"]
 	path = RLogicalOps
 	url = https://github.com/cran/RLogicalOps
@@ -22010,6 +22016,9 @@
 [submodule "bayesdistreg"]
 	path = bayesdistreg
 	url = https://github.com/cran/bayesdistreg
+[submodule "bayesestdft"]
+	path = bayesestdft
+	url = https://github.com/cran/bayesestdft
 [submodule "bayesforecast"]
 	path = bayesforecast
 	url = https://github.com/cran/bayesforecast
@@ -37745,6 +37754,9 @@
 [submodule "hyd1d"]
 	path = hyd1d
 	url = https://github.com/cran/hyd1d
+[submodule "hydReng"]
+	path = hydReng
+	url = https://github.com/cran/hydReng
 [submodule "hydflood"]
 	path = hydflood
 	url = https://github.com/cran/hydflood
