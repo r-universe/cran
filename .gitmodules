@@ -18959,6 +18959,9 @@
 [submodule "VARSELECTEXPOSURE"]
 	path = VARSELECTEXPOSURE
 	url = https://github.com/cran/VARSELECTEXPOSURE
+[submodule "VARcpDetectOnline"]
+	path = VARcpDetectOnline
+	url = https://github.com/cran/VARcpDetectOnline
 [submodule "VARshrink"]
 	path = VARshrink
 	url = https://github.com/cran/VARshrink
@@ -30560,6 +30563,9 @@
 [submodule "ellipticalsymmetry"]
 	path = ellipticalsymmetry
 	url = https://github.com/cran/ellipticalsymmetry
+[submodule "ellmer"]
+	path = ellmer
+	url = https://github.com/cran/ellmer
 [submodule "elmNNRcpp"]
 	path = elmNNRcpp
 	url = https://github.com/cran/elmNNRcpp
@@ -47969,6 +47975,9 @@
 [submodule "pacs"]
 	path = pacs
 	url = https://github.com/cran/pacs
+[submodule "pacta.multi.loanbook"]
+	path = pacta.multi.loanbook
+	url = https://github.com/cran/pacta.multi.loanbook
 [submodule "pacu"]
 	path = pacu
 	url = https://github.com/cran/pacu
