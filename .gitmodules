@@ -3086,6 +3086,9 @@
 [submodule "CollocInfer"]
 	path = CollocInfer
 	url = https://github.com/cran/CollocInfer
+[submodule "ColombiAPI"]
+	path = ColombiAPI
+	url = https://github.com/cran/ColombiAPI
 [submodule "ColorNameR"]
 	path = ColorNameR
 	url = https://github.com/cran/ColorNameR
@@ -13196,6 +13199,9 @@
 [submodule "Q7"]
 	path = Q7
 	url = https://github.com/cran/Q7
+[submodule "QAEnsemble"]
+	path = QAEnsemble
+	url = https://github.com/cran/QAEnsemble
 [submodule "QAIG"]
 	path = QAIG
 	url = https://github.com/cran/QAIG
@@ -25679,6 +25685,9 @@
 [submodule "collegeScorecard"]
 	path = collegeScorecard
 	url = https://github.com/cran/collegeScorecard
+[submodule "collett"]
+	path = collett
+	url = https://github.com/cran/collett
 [submodule "collidr"]
 	path = collidr
 	url = https://github.com/cran/collidr
@@ -38918,6 +38927,9 @@
 [submodule "invgamstochvol"]
 	path = invgamstochvol
 	url = https://github.com/cran/invgamstochvol
+[submodule "invivoPKfit"]
+	path = invivoPKfit
+	url = https://github.com/cran/invivoPKfit
 [submodule "io"]
 	path = io
 	url = https://github.com/cran/io
@@ -39452,6 +39464,9 @@
 [submodule "jetset"]
 	path = jetset
 	url = https://github.com/cran/jetset
+[submodule "jetty"]
+	path = jetty
+	url = https://github.com/cran/jetty
 [submodule "jewel"]
 	path = jewel
 	url = https://github.com/cran/jewel
