@@ -52955,6 +52955,9 @@
 [submodule "rdryad"]
 	path = rdryad
 	url = https://github.com/cran/rdryad
+[submodule "rdss"]
+	path = rdss
+	url = https://github.com/cran/rdss
 [submodule "rdtLite"]
 	path = rdtLite
 	url = https://github.com/cran/rdtLite
