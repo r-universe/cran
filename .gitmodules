@@ -1628,6 +1628,9 @@
 [submodule "Bergm"]
 	path = Bergm
 	url = https://github.com/cran/Bergm
+[submodule "BerkeleyForestsAnalytics"]
+	path = BerkeleyForestsAnalytics
+	url = https://github.com/cran/BerkeleyForestsAnalytics
 [submodule "Bernadette"]
 	path = Bernadette
 	url = https://github.com/cran/Bernadette
@@ -2345,6 +2348,9 @@
 [submodule "CMHNPA"]
 	path = CMHNPA
 	url = https://github.com/cran/CMHNPA
+[submodule "CMHSU"]
+	path = CMHSU
+	url = https://github.com/cran/CMHSU
 [submodule "CMLS"]
 	path = CMLS
 	url = https://github.com/cran/CMLS
@@ -15857,6 +15863,9 @@
 [submodule "Ryacas0"]
 	path = Ryacas0
 	url = https://github.com/cran/Ryacas0
+[submodule "S4DM"]
+	path = S4DM
+	url = https://github.com/cran/S4DM
 [submodule "S7"]
 	path = S7
 	url = https://github.com/cran/S7
@@ -27956,6 +27965,9 @@
 [submodule "dcov"]
 	path = dcov
 	url = https://github.com/cran/dcov
+[submodule "dcsvm"]
+	path = dcsvm
+	url = https://github.com/cran/dcsvm
 [submodule "dcurver"]
 	path = dcurver
 	url = https://github.com/cran/dcurver
@@ -40973,6 +40985,9 @@
 [submodule "lineupjs"]
 	path = lineupjs
 	url = https://github.com/cran/lineupjs
+[submodule "linevis"]
+	path = linevis
+	url = https://github.com/cran/linevis
 [submodule "lingdist"]
 	path = lingdist
 	url = https://github.com/cran/lingdist
