@@ -3002,9 +3002,6 @@
 [submodule "CoDiNA"]
 	path = CoDiNA
 	url = https://github.com/cran/CoDiNA
-[submodule "CoFRA"]
-	path = CoFRA
-	url = https://github.com/cran/CoFRA
 [submodule "CoImp"]
 	path = CoImp
 	url = https://github.com/cran/CoImp
@@ -3872,9 +3869,6 @@
 [submodule "DNAtools"]
 	path = DNAtools
 	url = https://github.com/cran/DNAtools
-[submodule "DNH4"]
-	path = DNH4
-	url = https://github.com/cran/DNH4
 [submodule "DNLC"]
 	path = DNLC
 	url = https://github.com/cran/DNLC
@@ -8462,9 +8456,6 @@
 [submodule "KappaGUI"]
 	path = KappaGUI
 	url = https://github.com/cran/KappaGUI
-[submodule "KaradaColor"]
-	path = KaradaColor
-	url = https://github.com/cran/KaradaColor
 [submodule "Karen"]
 	path = Karen
 	url = https://github.com/cran/Karen
@@ -26588,9 +26579,6 @@
 [submodule "covid19br"]
 	path = covid19br
 	url = https://github.com/cran/covid19br
-[submodule "covid19brazil"]
-	path = covid19brazil
-	url = https://github.com/cran/covid19brazil
 [submodule "covid19dbcand"]
 	path = covid19dbcand
 	url = https://github.com/cran/covid19dbcand
@@ -28715,9 +28703,6 @@
 [submodule "dilp"]
 	path = dilp
 	url = https://github.com/cran/dilp
-[submodule "dimRed"]
-	path = dimRed
-	url = https://github.com/cran/dimRed
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/cran/dimensio
@@ -32870,9 +32855,6 @@
 [submodule "flux"]
 	path = flux
 	url = https://github.com/cran/flux
-[submodule "fluxfinder"]
-	path = fluxfinder
-	url = https://github.com/cran/fluxfinder
 [submodule "fluxible"]
 	path = fluxible
 	url = https://github.com/cran/fluxible
@@ -37529,9 +37511,6 @@
 [submodule "htmlTable"]
 	path = htmlTable
 	url = https://github.com/cran/htmlTable
-[submodule "htmldf"]
-	path = htmldf
-	url = https://github.com/cran/htmldf
 [submodule "htmlreportR"]
 	path = htmlreportR
 	url = https://github.com/cran/htmlreportR
@@ -58346,9 +58325,6 @@
 [submodule "smooth"]
 	path = smooth
 	url = https://github.com/cran/smooth
-[submodule "smoothAPC"]
-	path = smoothAPC
-	url = https://github.com/cran/smoothAPC
 [submodule "smoothHR"]
 	path = smoothHR
 	url = https://github.com/cran/smoothHR
@@ -65642,9 +65618,6 @@
 [submodule "zeroEQpart"]
 	path = zeroEQpart
 	url = https://github.com/cran/zeroEQpart
-[submodule "zerotradeflow"]
-	path = zerotradeflow
-	url = https://github.com/cran/zerotradeflow
 [submodule "zetadiv"]
 	path = zetadiv
 	url = https://github.com/cran/zetadiv
