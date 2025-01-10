@@ -725,9 +725,6 @@
 [submodule "AsioHeaders"]
 	path = AsioHeaders
 	url = https://github.com/cran/AsioHeaders
-[submodule "AssetAllocation"]
-	path = AssetAllocation
-	url = https://github.com/cran/AssetAllocation
 [submodule "AssetCorr"]
 	path = AssetCorr
 	url = https://github.com/cran/AssetCorr
@@ -2702,9 +2699,6 @@
 [submodule "CatastRo"]
 	path = CatastRo
 	url = https://github.com/cran/CatastRo
-[submodule "CauchyCP"]
-	path = CauchyCP
-	url = https://github.com/cran/CauchyCP
 [submodule "CausCor"]
 	path = CausCor
 	url = https://github.com/cran/CausCor
@@ -5042,9 +5036,6 @@
 [submodule "EloSteepness"]
 	path = EloSteepness
 	url = https://github.com/cran/EloSteepness
-[submodule "EmbedSOM"]
-	path = EmbedSOM
-	url = https://github.com/cran/EmbedSOM
 [submodule "EmiR"]
 	path = EmiR
 	url = https://github.com/cran/EmiR
@@ -7847,9 +7838,6 @@
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
-[submodule "IP"]
-	path = IP
-	url = https://github.com/cran/IP
 [submodule "IPCAPS"]
 	path = IPCAPS
 	url = https://github.com/cran/IPCAPS
@@ -8912,9 +8900,6 @@
 [submodule "LTPDvar"]
 	path = LTPDvar
 	url = https://github.com/cran/LTPDvar
-[submodule "LTRCforests"]
-	path = LTRCforests
-	url = https://github.com/cran/LTRCforests
 [submodule "LTRCtrees"]
 	path = LTRCtrees
 	url = https://github.com/cran/LTRCtrees
@@ -13817,9 +13802,6 @@
 [submodule "RFormatter"]
 	path = RFormatter
 	url = https://github.com/cran/RFormatter
-[submodule "RFpredInterval"]
-	path = RFpredInterval
-	url = https://github.com/cran/RFpredInterval
 [submodule "RGAN"]
 	path = RGAN
 	url = https://github.com/cran/RGAN
@@ -19634,9 +19616,6 @@
 [submodule "aPCoA"]
 	path = aPCoA
 	url = https://github.com/cran/aPCoA
-[submodule "aPEAR"]
-	path = aPEAR
-	url = https://github.com/cran/aPEAR
 [submodule "aRpsDCA"]
 	path = aRpsDCA
 	url = https://github.com/cran/aRpsDCA
@@ -26315,9 +26294,6 @@
 [submodule "copulaboost"]
 	path = copulaboost
 	url = https://github.com/cran/copulaboost
-[submodule "copulaedas"]
-	path = copulaedas
-	url = https://github.com/cran/copulaedas
 [submodule "copulareg"]
 	path = copulareg
 	url = https://github.com/cran/copulareg
@@ -27641,9 +27617,6 @@
 [submodule "darksky"]
 	path = darksky
 	url = https://github.com/cran/darksky
-[submodule "dartR"]
-	path = dartR
-	url = https://github.com/cran/dartR
 [submodule "dartR.base"]
 	path = dartR.base
 	url = https://github.com/cran/dartR.base
@@ -28337,9 +28310,6 @@
 [submodule "depmixS4"]
 	path = depmixS4
 	url = https://github.com/cran/depmixS4
-[submodule "depower"]
-	path = depower
-	url = https://github.com/cran/depower
 [submodule "deps"]
 	path = deps
 	url = https://github.com/cran/deps
@@ -30815,9 +30785,6 @@
 [submodule "epiCleanr"]
 	path = epiCleanr
 	url = https://github.com/cran/epiCleanr
-[submodule "epiCo"]
-	path = epiCo
-	url = https://github.com/cran/epiCo
 [submodule "epiDisplay"]
 	path = epiDisplay
 	url = https://github.com/cran/epiDisplay
@@ -32336,9 +32303,6 @@
 [submodule "federalregister"]
 	path = federalregister
 	url = https://github.com/cran/federalregister
-[submodule "fedmatch"]
-	path = fedmatch
-	url = https://github.com/cran/fedmatch
 [submodule "fedregs"]
 	path = fedregs
 	url = https://github.com/cran/fedregs
@@ -44816,9 +44780,6 @@
 [submodule "mrregression"]
 	path = mrregression
 	url = https://github.com/cran/mrregression
-[submodule "msBP"]
-	path = msBP
-	url = https://github.com/cran/msBP
 [submodule "msSPChelpR"]
 	path = msSPChelpR
 	url = https://github.com/cran/msSPChelpR
@@ -47525,9 +47486,6 @@
 [submodule "optparse"]
 	path = optparse
 	url = https://github.com/cran/optparse
-[submodule "optpart"]
-	path = optpart
-	url = https://github.com/cran/optpart
 [submodule "optrcdmaeAT"]
 	path = optrcdmaeAT
 	url = https://github.com/cran/optrcdmaeAT
@@ -53087,9 +53045,6 @@
 [submodule "readxl"]
 	path = readxl
 	url = https://github.com/cran/readxl
-[submodule "readxlsb"]
-	path = readxlsb
-	url = https://github.com/cran/readxlsb
 [submodule "ready4"]
 	path = ready4
 	url = https://github.com/cran/ready4
@@ -53369,9 +53324,6 @@
 [submodule "regnet"]
 	path = regnet
 	url = https://github.com/cran/regnet
-[submodule "rego"]
-	path = rego
-	url = https://github.com/cran/rego
 [submodule "regplot"]
 	path = regplot
 	url = https://github.com/cran/regplot
@@ -54107,9 +54059,6 @@
 [submodule "rinat"]
 	path = rinat
 	url = https://github.com/cran/rinat
-[submodule "rineq"]
-	path = rineq
-	url = https://github.com/cran/rineq
 [submodule "ring"]
 	path = ring
 	url = https://github.com/cran/ring
@@ -54293,9 +54242,6 @@
 [submodule "rlfsm"]
 	path = rlfsm
 	url = https://github.com/cran/rlfsm
-[submodule "rlibkriging"]
-	path = rlibkriging
-	url = https://github.com/cran/rlibkriging
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/cran/rliger
@@ -60137,9 +60083,6 @@
 [submodule "stokes"]
 	path = stokes
 	url = https://github.com/cran/stokes
-[submodule "stopdetection"]
-	path = stopdetection
-	url = https://github.com/cran/stopdetection
 [submodule "stopp"]
 	path = stopp
 	url = https://github.com/cran/stopp
@@ -64268,9 +64211,6 @@
 [submodule "vinereg"]
 	path = vinereg
 	url = https://github.com/cran/vinereg
-[submodule "vines"]
-	path = vines
-	url = https://github.com/cran/vines
 [submodule "violinplotter"]
 	path = violinplotter
 	url = https://github.com/cran/violinplotter
