@@ -3746,6 +3746,9 @@
 [submodule "DHS.rates"]
 	path = DHS.rates
 	url = https://github.com/cran/DHS.rates
+[submodule "DHSr"]
+	path = DHSr
+	url = https://github.com/cran/DHSr
 [submodule "DICEM"]
 	path = DICEM
 	url = https://github.com/cran/DICEM
