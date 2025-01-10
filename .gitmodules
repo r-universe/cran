@@ -7199,6 +7199,9 @@
 [submodule "HETOP"]
 	path = HETOP
 	url = https://github.com/cran/HETOP
+[submodule "HEssRNA"]
+	path = HEssRNA
+	url = https://github.com/cran/HEssRNA
 [submodule "HEtools"]
 	path = HEtools
 	url = https://github.com/cran/HEtools
@@ -31367,6 +31370,9 @@
 [submodule "exams.forge"]
 	path = exams.forge
 	url = https://github.com/cran/exams.forge
+[submodule "exams.forge.data"]
+	path = exams.forge.data
+	url = https://github.com/cran/exams.forge.data
 [submodule "exams.mylearn"]
 	path = exams.mylearn
 	url = https://github.com/cran/exams.mylearn
@@ -34268,6 +34274,9 @@
 [submodule "genetics"]
 	path = genetics
 	url = https://github.com/cran/genetics
+[submodule "geneviewer"]
+	path = geneviewer
+	url = https://github.com/cran/geneviewer
 [submodule "genfrn"]
 	path = genfrn
 	url = https://github.com/cran/genfrn
@@ -36368,6 +36377,9 @@
 [submodule "gsalib"]
 	path = gsalib
 	url = https://github.com/cran/gsalib
+[submodule "gsaot"]
+	path = gsaot
+	url = https://github.com/cran/gsaot
 [submodule "gsarima"]
 	path = gsarima
 	url = https://github.com/cran/gsarima
@@ -51728,9 +51740,6 @@
 [submodule "quickNmix"]
 	path = quickNmix
 	url = https://github.com/cran/quickNmix
-[submodule "quickPWCR"]
-	path = quickPWCR
-	url = https://github.com/cran/quickPWCR
 [submodule "quickPlot"]
 	path = quickPlot
 	url = https://github.com/cran/quickPlot
@@ -55247,9 +55256,6 @@
 [submodule "rticles"]
 	path = rticles
 	url = https://github.com/cran/rticles
-[submodule "rticulate"]
-	path = rticulate
-	url = https://github.com/cran/rticulate
 [submodule "rtiddlywiki"]
 	path = rtiddlywiki
 	url = https://github.com/cran/rtiddlywiki
@@ -57941,6 +57947,9 @@
 [submodule "simule"]
 	path = simule
 	url = https://github.com/cran/simule
+[submodule "simulist"]
+	path = simulist
+	url = https://github.com/cran/simulist
 [submodule "sinaplot"]
 	path = sinaplot
 	url = https://github.com/cran/sinaplot
@@ -60176,9 +60185,6 @@
 [submodule "streambugs"]
 	path = streambugs
 	url = https://github.com/cran/streambugs
-[submodule "streetscape"]
-	path = streetscape
-	url = https://github.com/cran/streetscape
 [submodule "stressaddition"]
 	path = stressaddition
 	url = https://github.com/cran/stressaddition
@@ -61958,9 +61964,6 @@
 [submodule "tidymodlr"]
 	path = tidymodlr
 	url = https://github.com/cran/tidymodlr
-[submodule "tidymv"]
-	path = tidymv
-	url = https://github.com/cran/tidymv
 [submodule "tidync"]
 	path = tidync
 	url = https://github.com/cran/tidync
