@@ -47399,6 +47399,9 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
+[submodule "openmpt"]
+	path = openmpt
+	url = https://github.com/cran/openmpt
 [submodule "openrouteservice"]
 	path = openrouteservice
 	url = https://github.com/cran/openrouteservice
