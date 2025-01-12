@@ -3599,9 +3599,6 @@
 [submodule "DBfit"]
 	path = DBfit
 	url = https://github.com/cran/DBfit
-[submodule "DBpower"]
-	path = DBpower
-	url = https://github.com/cran/DBpower
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
@@ -12464,9 +12461,6 @@
 [submodule "PVR"]
 	path = PVR
 	url = https://github.com/cran/PVR
-[submodule "PVplr"]
-	path = PVplr
-	url = https://github.com/cran/PVplr
 [submodule "PWEALL"]
 	path = PWEALL
 	url = https://github.com/cran/PWEALL
@@ -16460,9 +16454,6 @@
 [submodule "SNPassoc"]
 	path = SNPassoc
 	url = https://github.com/cran/SNPassoc
-[submodule "SNPfiltR"]
-	path = SNPfiltR
-	url = https://github.com/cran/SNPfiltR
 [submodule "SNPknock"]
 	path = SNPknock
 	url = https://github.com/cran/SNPknock
@@ -16739,9 +16730,6 @@
 [submodule "STFTS"]
 	path = STFTS
 	url = https://github.com/cran/STFTS
-[submodule "STGS"]
-	path = STGS
-	url = https://github.com/cran/STGS
 [submodule "STICr"]
 	path = STICr
 	url = https://github.com/cran/STICr
@@ -30104,9 +30092,6 @@
 [submodule "ecce"]
 	path = ecce
 	url = https://github.com/cran/ecce
-[submodule "ecdata"]
-	path = ecdata
-	url = https://github.com/cran/ecdata
 [submodule "ecdfHT"]
 	path = ecdfHT
 	url = https://github.com/cran/ecdfHT
@@ -30833,6 +30818,9 @@
 [submodule "epiCleanr"]
 	path = epiCleanr
 	url = https://github.com/cran/epiCleanr
+[submodule "epiCo"]
+	path = epiCo
+	url = https://github.com/cran/epiCo
 [submodule "epiDisplay"]
 	path = epiDisplay
 	url = https://github.com/cran/epiDisplay
