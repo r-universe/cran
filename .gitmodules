@@ -17225,9 +17225,6 @@
 [submodule "Skillings.Mack"]
 	path = Skillings.Mack
 	url = https://github.com/cran/Skillings.Mack
-[submodule "SlaPMEG"]
-	path = SlaPMEG
-	url = https://github.com/cran/SlaPMEG
 [submodule "SleepCycles"]
 	path = SleepCycles
 	url = https://github.com/cran/SleepCycles
@@ -42248,6 +42245,9 @@
 [submodule "mar1s"]
 	path = mar1s
 	url = https://github.com/cran/mar1s
+[submodule "maraca"]
+	path = maraca
+	url = https://github.com/cran/maraca
 [submodule "marble"]
 	path = marble
 	url = https://github.com/cran/marble
