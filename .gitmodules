@@ -5702,6 +5702,9 @@
 [submodule "FactorCopula"]
 	path = FactorCopula
 	url = https://github.com/cran/FactorCopula
+[submodule "FactorHet"]
+	path = FactorHet
+	url = https://github.com/cran/FactorHet
 [submodule "Factoshiny"]
 	path = Factoshiny
 	url = https://github.com/cran/Factoshiny
@@ -23090,6 +23093,9 @@
 [submodule "bnnSurvival"]
 	path = bnnSurvival
 	url = https://github.com/cran/bnnSurvival
+[submodule "bnns"]
+	path = bnns
+	url = https://github.com/cran/bnns
 [submodule "bnpa"]
 	path = bnpa
 	url = https://github.com/cran/bnpa
@@ -28520,6 +28526,9 @@
 [submodule "dfdr"]
 	path = dfdr
 	url = https://github.com/cran/dfdr
+[submodule "dfeR"]
+	path = dfeR
+	url = https://github.com/cran/dfeR
 [submodule "dfexpand"]
 	path = dfexpand
 	url = https://github.com/cran/dfexpand
@@ -32132,6 +32141,9 @@
 [submodule "fastrep"]
 	path = fastrep
 	url = https://github.com/cran/fastrep
+[submodule "fastrerandomize"]
+	path = fastrerandomize
+	url = https://github.com/cran/fastrerandomize
 [submodule "fastrmodels"]
 	path = fastrmodels
 	url = https://github.com/cran/fastrmodels
@@ -38174,6 +38186,9 @@
 [submodule "ider"]
 	path = ider
 	url = https://github.com/cran/ider
+[submodule "idiffomix"]
+	path = idiffomix
+	url = https://github.com/cran/idiffomix
 [submodule "idiogramFISH"]
 	path = idiogramFISH
 	url = https://github.com/cran/idiogramFISH
@@ -44084,6 +44099,9 @@
 [submodule "mlr3hyperband"]
 	path = mlr3hyperband
 	url = https://github.com/cran/mlr3hyperband
+[submodule "mlr3inferr"]
+	path = mlr3inferr
+	url = https://github.com/cran/mlr3inferr
 [submodule "mlr3learners"]
 	path = mlr3learners
 	url = https://github.com/cran/mlr3learners
@@ -49784,6 +49802,9 @@
 [submodule "plu"]
 	path = plu
 	url = https://github.com/cran/plu
+[submodule "plug"]
+	path = plug
+	url = https://github.com/cran/plug
 [submodule "plugdensity"]
 	path = plugdensity
 	url = https://github.com/cran/plugdensity
@@ -50669,6 +50690,9 @@
 [submodule "prioritizrdata"]
 	path = prioritizrdata
 	url = https://github.com/cran/prioritizrdata
+[submodule "priorityelasticnet"]
+	path = priorityelasticnet
+	url = https://github.com/cran/priorityelasticnet
 [submodule "prioritylasso"]
 	path = prioritylasso
 	url = https://github.com/cran/prioritylasso
@@ -56954,6 +56978,9 @@
 [submodule "seqtrie"]
 	path = seqtrie
 	url = https://github.com/cran/seqtrie
+[submodule "sequenceR"]
+	path = sequenceR
+	url = https://github.com/cran/sequenceR
 [submodule "sequoia"]
 	path = sequoia
 	url = https://github.com/cran/sequoia
@@ -59222,6 +59249,9 @@
 [submodule "spectre"]
 	path = spectre
 	url = https://github.com/cran/spectre
+[submodule "spectrolab"]
+	path = spectrolab
+	url = https://github.com/cran/spectrolab
 [submodule "sped"]
 	path = sped
 	url = https://github.com/cran/sped
@@ -63731,6 +63761,9 @@
 [submodule "urlchecker"]
 	path = urlchecker
 	url = https://github.com/cran/urlchecker
+[submodule "urlparse"]
+	path = urlparse
+	url = https://github.com/cran/urlparse
 [submodule "urlshorteneR"]
 	path = urlshorteneR
 	url = https://github.com/cran/urlshorteneR
@@ -64247,6 +64280,9 @@
 [submodule "via"]
 	path = via
 	url = https://github.com/cran/via
+[submodule "viafoundry"]
+	path = viafoundry
+	url = https://github.com/cran/viafoundry
 [submodule "viafr"]
 	path = viafr
 	url = https://github.com/cran/viafr
