@@ -1103,6 +1103,9 @@
 [submodule "BIOdry"]
 	path = BIOdry
 	url = https://github.com/cran/BIOdry
+[submodule "BIS"]
+	path = BIS
+	url = https://github.com/cran/BIS
 [submodule "BISdata"]
 	path = BISdata
 	url = https://github.com/cran/BISdata
@@ -5540,6 +5543,9 @@
 [submodule "FLAME"]
 	path = FLAME
 	url = https://github.com/cran/FLAME
+[submodule "FLASHMM"]
+	path = FLASHMM
+	url = https://github.com/cran/FLASHMM
 [submodule "FLOPART"]
 	path = FLOPART
 	url = https://github.com/cran/FLOPART
@@ -11708,6 +11714,9 @@
 [submodule "OpenMx"]
 	path = OpenMx
 	url = https://github.com/cran/OpenMx
+[submodule "OpenRange"]
+	path = OpenRange
+	url = https://github.com/cran/OpenRange
 [submodule "OpenRepGrid"]
 	path = OpenRepGrid
 	url = https://github.com/cran/OpenRepGrid
@@ -12146,6 +12155,9 @@
 [submodule "PLSiMCpp"]
 	path = PLSiMCpp
 	url = https://github.com/cran/PLSiMCpp
+[submodule "PLStests"]
+	path = PLStests
+	url = https://github.com/cran/PLStests
 [submodule "PLindleyROC"]
 	path = PLindleyROC
 	url = https://github.com/cran/PLindleyROC
@@ -13049,6 +13061,9 @@
 [submodule "ProAE"]
 	path = ProAE
 	url = https://github.com/cran/ProAE
+[submodule "ProActive"]
+	path = ProActive
+	url = https://github.com/cran/ProActive
 [submodule "ProDenICA"]
 	path = ProDenICA
 	url = https://github.com/cran/ProDenICA
@@ -22889,6 +22904,9 @@
 [submodule "bitops"]
 	path = bitops
 	url = https://github.com/cran/bitops
+[submodule "bitstreamio"]
+	path = bitstreamio
+	url = https://github.com/cran/bitstreamio
 [submodule "bittermelon"]
 	path = bittermelon
 	url = https://github.com/cran/bittermelon
@@ -35072,6 +35090,9 @@
 [submodule "ggmap"]
 	path = ggmap
 	url = https://github.com/cran/ggmap
+[submodule "ggmapcn"]
+	path = ggmapcn
+	url = https://github.com/cran/ggmapcn
 [submodule "ggmapinset"]
 	path = ggmapinset
 	url = https://github.com/cran/ggmapinset
@@ -48140,6 +48161,9 @@
 [submodule "pals"]
 	path = pals
 	url = https://github.com/cran/pals
+[submodule "pam"]
+	path = pam
+	url = https://github.com/cran/pam
 [submodule "pamm"]
 	path = pamm
 	url = https://github.com/cran/pamm
@@ -58859,6 +58883,9 @@
 [submodule "spNNGP"]
 	path = spNNGP
 	url = https://github.com/cran/spNNGP
+[submodule "spNetwork"]
+	path = spNetwork
+	url = https://github.com/cran/spNetwork
 [submodule "spOccupancy"]
 	path = spOccupancy
 	url = https://github.com/cran/spOccupancy
@@ -61856,6 +61883,9 @@
 [submodule "themis"]
 	path = themis
 	url = https://github.com/cran/themis
+[submodule "theorytools"]
+	path = theorytools
+	url = https://github.com/cran/theorytools
 [submodule "thermocouple"]
 	path = thermocouple
 	url = https://github.com/cran/thermocouple
@@ -62042,9 +62072,6 @@
 [submodule "tidyfinance"]
 	path = tidyfinance
 	url = https://github.com/cran/tidyfinance
-[submodule "tidyfit"]
-	path = tidyfit
-	url = https://github.com/cran/tidyfit
 [submodule "tidyformula"]
 	path = tidyformula
 	url = https://github.com/cran/tidyformula
