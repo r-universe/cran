@@ -35339,6 +35339,9 @@
 [submodule "ggspectra"]
 	path = ggspectra
 	url = https://github.com/cran/ggspectra
+[submodule "ggstackplot"]
+	path = ggstackplot
+	url = https://github.com/cran/ggstackplot
 [submodule "ggstance"]
 	path = ggstance
 	url = https://github.com/cran/ggstance
@@ -37235,6 +37238,9 @@
 [submodule "hhi"]
 	path = hhi
 	url = https://github.com/cran/hhi
+[submodule "hhmR"]
+	path = hhmR
+	url = https://github.com/cran/hhmR
 [submodule "hhsmm"]
 	path = hhsmm
 	url = https://github.com/cran/hhsmm
@@ -51260,6 +51266,9 @@
 [submodule "pubtatordb"]
 	path = pubtatordb
 	url = https://github.com/cran/pubtatordb
+[submodule "pudu"]
+	path = pudu
+	url = https://github.com/cran/pudu
 [submodule "pullword"]
 	path = pullword
 	url = https://github.com/cran/pullword
