@@ -17228,6 +17228,9 @@
 [submodule "Skillings.Mack"]
 	path = Skillings.Mack
 	url = https://github.com/cran/Skillings.Mack
+[submodule "SlaPMEG"]
+	path = SlaPMEG
+	url = https://github.com/cran/SlaPMEG
 [submodule "SleepCycles"]
 	path = SleepCycles
 	url = https://github.com/cran/SleepCycles
@@ -30779,6 +30782,9 @@
 [submodule "envi"]
 	path = envi
 	url = https://github.com/cran/envi
+[submodule "enviGCMS"]
+	path = enviGCMS
+	url = https://github.com/cran/enviGCMS
 [submodule "enviPat"]
 	path = enviPat
 	url = https://github.com/cran/enviPat
@@ -35744,6 +35750,9 @@
 [submodule "glvmfit"]
 	path = glvmfit
 	url = https://github.com/cran/glvmfit
+[submodule "glycanr"]
+	path = glycanr
+	url = https://github.com/cran/glycanr
 [submodule "gm"]
 	path = gm
 	url = https://github.com/cran/gm
@@ -36224,6 +36233,9 @@
 [submodule "greatR"]
 	path = greatR
 	url = https://github.com/cran/greatR
+[submodule "grec"]
+	path = grec
+	url = https://github.com/cran/grec
 [submodule "greed"]
 	path = greed
 	url = https://github.com/cran/greed
@@ -44819,6 +44831,9 @@
 [submodule "mreg"]
 	path = mreg
 	url = https://github.com/cran/mreg
+[submodule "mregions2"]
+	path = mregions2
+	url = https://github.com/cran/mregions2
 [submodule "mrf"]
 	path = mrf
 	url = https://github.com/cran/mrf
@@ -49850,6 +49865,9 @@
 [submodule "pmclust"]
 	path = pmclust
 	url = https://github.com/cran/pmclust
+[submodule "pmd"]
+	path = pmd
+	url = https://github.com/cran/pmd
 [submodule "pmetar"]
 	path = pmetar
 	url = https://github.com/cran/pmetar
@@ -60545,6 +60563,9 @@
 [submodule "supervisedPRIM"]
 	path = supervisedPRIM
 	url = https://github.com/cran/supervisedPRIM
+[submodule "suppdata"]
+	path = suppdata
+	url = https://github.com/cran/suppdata
 [submodule "support.BWS"]
 	path = support.BWS
 	url = https://github.com/cran/support.BWS
