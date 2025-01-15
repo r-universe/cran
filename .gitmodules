@@ -32453,6 +32453,9 @@
 [submodule "ffscrapr"]
 	path = ffscrapr
 	url = https://github.com/cran/ffscrapr
+[submodule "fftab"]
+	path = fftab
+	url = https://github.com/cran/fftab
 [submodule "fftw"]
 	path = fftw
 	url = https://github.com/cran/fftw
@@ -33476,6 +33479,9 @@
 [submodule "fritools2"]
 	path = fritools2
 	url = https://github.com/cran/fritools2
+[submodule "fromhere"]
+	path = fromhere
+	url = https://github.com/cran/fromhere
 [submodule "fromo"]
 	path = fromo
 	url = https://github.com/cran/fromo
@@ -51065,6 +51071,9 @@
 [submodule "psData"]
 	path = psData
 	url = https://github.com/cran/psData
+[submodule "psHarmonize"]
+	path = psHarmonize
+	url = https://github.com/cran/psHarmonize
 [submodule "psSubpathway"]
 	path = psSubpathway
 	url = https://github.com/cran/psSubpathway
@@ -57143,6 +57152,9 @@
 [submodule "sfheaders"]
 	path = sfheaders
 	url = https://github.com/cran/sfheaders
+[submodule "sfhelper"]
+	path = sfhelper
+	url = https://github.com/cran/sfhelper
 [submodule "sfhotspot"]
 	path = sfhotspot
 	url = https://github.com/cran/sfhotspot
