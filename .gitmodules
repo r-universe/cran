@@ -12431,6 +12431,9 @@
 [submodule "PSinference"]
 	path = PSinference
 	url = https://github.com/cran/PSinference
+[submodule "PSpower"]
+	path = PSpower
+	url = https://github.com/cran/PSpower
 [submodule "PStrata"]
 	path = PStrata
 	url = https://github.com/cran/PStrata
@@ -13148,6 +13151,9 @@
 [submodule "PropScrRand"]
 	path = PropScrRand
 	url = https://github.com/cran/PropScrRand
+[submodule "ProtE"]
+	path = ProtE
+	url = https://github.com/cran/ProtE
 [submodule "ProteoBayes"]
 	path = ProteoBayes
 	url = https://github.com/cran/ProteoBayes
@@ -13649,6 +13655,9 @@
 [submodule "RCT2"]
 	path = RCT2
 	url = https://github.com/cran/RCT2
+[submodule "RCTRecruit"]
+	path = RCTRecruit
+	url = https://github.com/cran/RCTRecruit
 [submodule "RCTS"]
 	path = RCTS
 	url = https://github.com/cran/RCTS
@@ -57677,6 +57686,9 @@
 [submodule "shinyreforms"]
 	path = shinyreforms
 	url = https://github.com/cran/shinyreforms
+[submodule "shinyscholar"]
+	path = shinyscholar
+	url = https://github.com/cran/shinyscholar
 [submodule "shinyscreenshot"]
 	path = shinyscreenshot
 	url = https://github.com/cran/shinyscreenshot
