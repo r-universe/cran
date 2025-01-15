@@ -18965,6 +18965,9 @@
 [submodule "V8"]
 	path = V8
 	url = https://github.com/cran/V8
+[submodule "VAJointSurv"]
+	path = VAJointSurv
+	url = https://github.com/cran/VAJointSurv
 [submodule "VALERIE"]
 	path = VALERIE
 	url = https://github.com/cran/VALERIE
@@ -28667,6 +28670,9 @@
 [submodule "diaplt"]
 	path = diaplt
 	url = https://github.com/cran/diaplt
+[submodule "diario"]
+	path = diario
+	url = https://github.com/cran/diario
 [submodule "diathor"]
 	path = diathor
 	url = https://github.com/cran/diathor
@@ -33479,6 +33485,9 @@
 [submodule "fritools2"]
 	path = fritools2
 	url = https://github.com/cran/fritools2
+[submodule "froggeR"]
+	path = froggeR
+	url = https://github.com/cran/froggeR
 [submodule "fromhere"]
 	path = fromhere
 	url = https://github.com/cran/fromhere
@@ -50153,6 +50162,9 @@
 [submodule "pompp"]
 	path = pompp
 	url = https://github.com/cran/pompp
+[submodule "poobly"]
+	path = poobly
+	url = https://github.com/cran/poobly
 [submodule "pooh"]
 	path = pooh
 	url = https://github.com/cran/pooh
@@ -51581,6 +51593,9 @@
 [submodule "qmethod"]
 	path = qmethod
 	url = https://github.com/cran/qmethod
+[submodule "qmj"]
+	path = qmj
+	url = https://github.com/cran/qmj
 [submodule "qmrparser"]
 	path = qmrparser
 	url = https://github.com/cran/qmrparser
