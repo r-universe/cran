@@ -16850,6 +16850,9 @@
 [submodule "SampleSizeProportions"]
 	path = SampleSizeProportions
 	url = https://github.com/cran/SampleSizeProportions
+[submodule "SampleSizeSingleArmSurvival"]
+	path = SampleSizeSingleArmSurvival
+	url = https://github.com/cran/SampleSizeSingleArmSurvival
 [submodule "SamplingBigData"]
 	path = SamplingBigData
 	url = https://github.com/cran/SamplingBigData
@@ -20975,6 +20978,9 @@
 [submodule "arcgislayers"]
 	path = arcgislayers
 	url = https://github.com/cran/arcgislayers
+[submodule "arcgisplaces"]
+	path = arcgisplaces
+	url = https://github.com/cran/arcgisplaces
 [submodule "arcgisutils"]
 	path = arcgisutils
 	url = https://github.com/cran/arcgisutils
@@ -32183,6 +32189,9 @@
 [submodule "fat2Lpoly"]
 	path = fat2Lpoly
 	url = https://github.com/cran/fat2Lpoly
+[submodule "faux"]
+	path = faux
+	url = https://github.com/cran/faux
 [submodule "fauxnaif"]
 	path = fauxnaif
 	url = https://github.com/cran/fauxnaif
