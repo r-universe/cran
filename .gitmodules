@@ -36908,6 +36908,9 @@
 [submodule "hashr"]
 	path = hashr
 	url = https://github.com/cran/hashr
+[submodule "hasseDiagram"]
+	path = hasseDiagram
+	url = https://github.com/cran/hasseDiagram
 [submodule "haven"]
 	path = haven
 	url = https://github.com/cran/haven
@@ -51830,6 +51833,9 @@
 [submodule "quanteda"]
 	path = quanteda
 	url = https://github.com/cran/quanteda
+[submodule "quanteda.textmodels"]
+	path = quanteda.textmodels
+	url = https://github.com/cran/quanteda.textmodels
 [submodule "quanteda.textplots"]
 	path = quanteda.textplots
 	url = https://github.com/cran/quanteda.textplots
