@@ -17123,6 +17123,9 @@
 [submodule "SiER"]
 	path = SiER
 	url = https://github.com/cran/SiER
+[submodule "SiFINeT"]
+	path = SiFINeT
+	url = https://github.com/cran/SiFINeT
 [submodule "SiMRiv"]
 	path = SiMRiv
 	url = https://github.com/cran/SiMRiv
@@ -29588,6 +29591,9 @@
 [submodule "drugprepr"]
 	path = drugprepr
 	url = https://github.com/cran/drugprepr
+[submodule "drugsens"]
+	path = drugsens
+	url = https://github.com/cran/drugsens
 [submodule "drumr"]
 	path = drumr
 	url = https://github.com/cran/drumr
@@ -49388,6 +49394,9 @@
 [submodule "phylosignal"]
 	path = phylosignal
 	url = https://github.com/cran/phylosignal
+[submodule "phylosignalDB"]
+	path = phylosignalDB
+	url = https://github.com/cran/phylosignalDB
 [submodule "phylotate"]
 	path = phylotate
 	url = https://github.com/cran/phylotate
@@ -57407,6 +57416,9 @@
 [submodule "shiny.info"]
 	path = shiny.info
 	url = https://github.com/cran/shiny.info
+[submodule "shiny.ollama"]
+	path = shiny.ollama
+	url = https://github.com/cran/shiny.ollama
 [submodule "shiny.pwa"]
 	path = shiny.pwa
 	url = https://github.com/cran/shiny.pwa
@@ -58511,6 +58523,9 @@
 [submodule "smdocker"]
 	path = smdocker
 	url = https://github.com/cran/smdocker
+[submodule "smer"]
+	path = smer
+	url = https://github.com/cran/smer
 [submodule "smerc"]
 	path = smerc
 	url = https://github.com/cran/smerc
