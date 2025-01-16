@@ -64316,6 +64316,9 @@
 [submodule "vectorwavelet"]
 	path = vectorwavelet
 	url = https://github.com/cran/vectorwavelet
+[submodule "veesa"]
+	path = veesa
+	url = https://github.com/cran/veesa
 [submodule "vegIndexCalc"]
 	path = vegIndexCalc
 	url = https://github.com/cran/vegIndexCalc
