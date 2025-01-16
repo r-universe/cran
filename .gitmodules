@@ -45242,9 +45242,6 @@
 [submodule "multigraphr"]
 	path = multigraphr
 	url = https://github.com/cran/multigraphr
-[submodule "multilaterals"]
-	path = multilaterals
-	url = https://github.com/cran/multilaterals
 [submodule "multilevLCA"]
 	path = multilevLCA
 	url = https://github.com/cran/multilevLCA
@@ -62411,9 +62408,6 @@
 [submodule "timeperiodsR"]
 	path = timeperiodsR
 	url = https://github.com/cran/timeperiodsR
-[submodule "timeplyr"]
-	path = timeplyr
-	url = https://github.com/cran/timeplyr
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/cran/timereg
