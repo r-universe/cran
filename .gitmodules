@@ -11090,6 +11090,9 @@
 [submodule "NORMA"]
 	path = NORMA
 	url = https://github.com/cran/NORMA
+[submodule "NPBBBDAefficiency"]
+	path = NPBBBDAefficiency
+	url = https://github.com/cran/NPBBBDAefficiency
 [submodule "NPBayesImputeCat"]
 	path = NPBayesImputeCat
 	url = https://github.com/cran/NPBayesImputeCat
@@ -21659,6 +21662,9 @@
 [submodule "babette"]
 	path = babette
 	url = https://github.com/cran/babette
+[submodule "babyTimeR"]
+	path = babyTimeR
+	url = https://github.com/cran/babyTimeR
 [submodule "babynames"]
 	path = babynames
 	url = https://github.com/cran/babynames
@@ -48434,6 +48440,9 @@
 [submodule "parttime"]
 	path = parttime
 	url = https://github.com/cran/parttime
+[submodule "parttree"]
+	path = parttree
+	url = https://github.com/cran/parttree
 [submodule "party"]
 	path = party
 	url = https://github.com/cran/party
@@ -52847,6 +52856,9 @@
 [submodule "rblt"]
 	path = rblt
 	url = https://github.com/cran/rblt
+[submodule "rbm25"]
+	path = rbm25
+	url = https://github.com/cran/rbm25
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/cran/rbmi
@@ -55700,6 +55712,9 @@
 [submodule "rwisp"]
 	path = rwisp
 	url = https://github.com/cran/rwisp
+[submodule "rwlifetable"]
+	path = rwlifetable
+	url = https://github.com/cran/rwlifetable
 [submodule "rworkflows"]
 	path = rworkflows
 	url = https://github.com/cran/rworkflows
@@ -60149,6 +60164,9 @@
 [submodule "stencilaschema"]
 	path = stencilaschema
 	url = https://github.com/cran/stencilaschema
+[submodule "stenographer"]
+	path = stenographer
+	url = https://github.com/cran/stenographer
 [submodule "stepPenal"]
 	path = stepPenal
 	url = https://github.com/cran/stepPenal
@@ -62798,6 +62816,9 @@
 [submodule "tr.iatgen"]
 	path = tr.iatgen
 	url = https://github.com/cran/tr.iatgen
+[submodule "trace"]
+	path = trace
+	url = https://github.com/cran/trace
 [submodule "tracee"]
 	path = tracee
 	url = https://github.com/cran/tracee
@@ -63500,6 +63521,9 @@
 [submodule "twfy"]
 	path = twfy
 	url = https://github.com/cran/twfy
+[submodule "twig"]
+	path = twig
+	url = https://github.com/cran/twig
 [submodule "twilio"]
 	path = twilio
 	url = https://github.com/cran/twilio
