@@ -10676,6 +10676,9 @@
 [submodule "MonotoneHazardRatio"]
 	path = MonotoneHazardRatio
 	url = https://github.com/cran/MonotoneHazardRatio
+[submodule "MonotonicityTest"]
+	path = MonotonicityTest
+	url = https://github.com/cran/MonotonicityTest
 [submodule "Monte.Carlo.se"]
 	path = Monte.Carlo.se
 	url = https://github.com/cran/Monte.Carlo.se
@@ -55448,6 +55451,9 @@
 [submodule "rtables"]
 	path = rtables
 	url = https://github.com/cran/rtables
+[submodule "rtables.officer"]
+	path = rtables.officer
+	url = https://github.com/cran/rtables.officer
 [submodule "rtabulator"]
 	path = rtabulator
 	url = https://github.com/cran/rtabulator
@@ -63749,6 +63755,9 @@
 [submodule "ungroup"]
 	path = ungroup
 	url = https://github.com/cran/ungroup
+[submodule "unhcrdown"]
+	path = unhcrdown
+	url = https://github.com/cran/unhcrdown
 [submodule "unhcrthemes"]
 	path = unhcrthemes
 	url = https://github.com/cran/unhcrthemes
