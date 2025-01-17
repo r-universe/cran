@@ -16928,6 +16928,9 @@
 [submodule "SeedImbibition"]
 	path = SeedImbibition
 	url = https://github.com/cran/SeedImbibition
+[submodule "SeedMaker"]
+	path = SeedMaker
+	url = https://github.com/cran/SeedMaker
 [submodule "SeedMatchR"]
 	path = SeedMatchR
 	url = https://github.com/cran/SeedMatchR
@@ -24671,6 +24674,9 @@
 [submodule "chartql"]
 	path = chartql
 	url = https://github.com/cran/chartql
+[submodule "chartreview"]
+	path = chartreview
+	url = https://github.com/cran/chartreview
 [submodule "chatAI4R"]
 	path = chatAI4R
 	url = https://github.com/cran/chatAI4R
@@ -29744,6 +29750,9 @@
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/cran/duckplyr
+[submodule "duet"]
+	path = duet
+	url = https://github.com/cran/duet
 [submodule "duke"]
 	path = duke
 	url = https://github.com/cran/duke
@@ -65885,6 +65894,9 @@
 [submodule "zenstats"]
 	path = zenstats
 	url = https://github.com/cran/zenstats
+[submodule "zephyr"]
+	path = zephyr
+	url = https://github.com/cran/zephyr
 [submodule "zeroEQpart"]
 	path = zeroEQpart
 	url = https://github.com/cran/zeroEQpart
