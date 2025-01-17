@@ -7355,9 +7355,6 @@
 [submodule "HTSCluster"]
 	path = HTSCluster
 	url = https://github.com/cran/HTSCluster
-[submodule "HTSSIP"]
-	path = HTSSIP
-	url = https://github.com/cran/HTSSIP
 [submodule "HTSeed"]
 	path = HTSeed
 	url = https://github.com/cran/HTSeed
@@ -16346,9 +16343,6 @@
 [submodule "SIPETool"]
 	path = SIPETool
 	url = https://github.com/cran/SIPETool
-[submodule "SIPmg"]
-	path = SIPmg
-	url = https://github.com/cran/SIPmg
 [submodule "SIRE"]
 	path = SIRE
 	url = https://github.com/cran/SIRE
@@ -45254,6 +45248,9 @@
 [submodule "multigraphr"]
 	path = multigraphr
 	url = https://github.com/cran/multigraphr
+[submodule "multilaterals"]
+	path = multilaterals
+	url = https://github.com/cran/multilaterals
 [submodule "multilevLCA"]
 	path = multilevLCA
 	url = https://github.com/cran/multilevLCA
@@ -48740,9 +48737,6 @@
 [submodule "pcsstools"]
 	path = pcsstools
 	url = https://github.com/cran/pcsstools
-[submodule "pct"]
-	path = pct
-	url = https://github.com/cran/pct
 [submodule "pctax"]
 	path = pctax
 	url = https://github.com/cran/pctax
@@ -49955,9 +49949,6 @@
 [submodule "pmhtutorial"]
 	path = pmhtutorial
 	url = https://github.com/cran/pmhtutorial
-[submodule "pmlbr"]
-	path = pmlbr
-	url = https://github.com/cran/pmlbr
 [submodule "pmledecon"]
 	path = pmledecon
 	url = https://github.com/cran/pmledecon
@@ -62441,6 +62432,9 @@
 [submodule "timeperiodsR"]
 	path = timeperiodsR
 	url = https://github.com/cran/timeperiodsR
+[submodule "timeplyr"]
+	path = timeplyr
+	url = https://github.com/cran/timeplyr
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/cran/timereg
@@ -63848,9 +63842,6 @@
 [submodule "unrtf"]
 	path = unrtf
 	url = https://github.com/cran/unrtf
-[submodule "unstruwwel"]
-	path = unstruwwel
-	url = https://github.com/cran/unstruwwel
 [submodule "unsystation"]
 	path = unsystation
 	url = https://github.com/cran/unsystation
