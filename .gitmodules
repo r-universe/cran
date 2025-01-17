@@ -40142,9 +40142,6 @@
 [submodule "kldtools"]
 	path = kldtools
 	url = https://github.com/cran/kldtools
-[submodule "klexdatr"]
-	path = klexdatr
-	url = https://github.com/cran/klexdatr
 [submodule "klic"]
 	path = klic
 	url = https://github.com/cran/klic
@@ -53237,9 +53234,6 @@
 [submodule "readtextgrid"]
 	path = readtextgrid
 	url = https://github.com/cran/readtextgrid
-[submodule "readwritesqlite"]
-	path = readwritesqlite
-	url = https://github.com/cran/readwritesqlite
 [submodule "readxl"]
 	path = readxl
 	url = https://github.com/cran/readxl
