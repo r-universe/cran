@@ -3389,9 +3389,6 @@
 [submodule "CovCombR"]
 	path = CovCombR
 	url = https://github.com/cran/CovCombR
-[submodule "CovRegRF"]
-	path = CovRegRF
-	url = https://github.com/cran/CovRegRF
 [submodule "CovSel"]
 	path = CovSel
 	url = https://github.com/cran/CovSel
@@ -65252,6 +65249,9 @@
 [submodule "windex"]
 	path = windex
 	url = https://github.com/cran/windex
+[submodule "windfarmGA"]
+	path = windfarmGA
+	url = https://github.com/cran/windfarmGA
 [submodule "windows.pls"]
 	path = windows.pls
 	url = https://github.com/cran/windows.pls
