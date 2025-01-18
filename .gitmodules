@@ -9389,12 +9389,6 @@
 [submodule "MBMethPred"]
 	path = MBMethPred
 	url = https://github.com/cran/MBMethPred
-[submodule "MBNMAdose"]
-	path = MBNMAdose
-	url = https://github.com/cran/MBNMAdose
-[submodule "MBNMAtime"]
-	path = MBNMAtime
-	url = https://github.com/cran/MBNMAtime
 [submodule "MBSGS"]
 	path = MBSGS
 	url = https://github.com/cran/MBSGS
@@ -15398,9 +15392,6 @@
 [submodule "ResPBIBD"]
 	path = ResPBIBD
 	url = https://github.com/cran/ResPBIBD
-[submodule "ResearchAssociate"]
-	path = ResearchAssociate
-	url = https://github.com/cran/ResearchAssociate
 [submodule "ResidentialEnergyConsumption"]
 	path = ResidentialEnergyConsumption
 	url = https://github.com/cran/ResidentialEnergyConsumption
