@@ -3389,6 +3389,9 @@
 [submodule "CovCombR"]
 	path = CovCombR
 	url = https://github.com/cran/CovCombR
+[submodule "CovRegRF"]
+	path = CovRegRF
+	url = https://github.com/cran/CovRegRF
 [submodule "CovSel"]
 	path = CovSel
 	url = https://github.com/cran/CovSel
@@ -5552,9 +5555,6 @@
 [submodule "FLR"]
 	path = FLR
 	url = https://github.com/cran/FLR
-[submodule "FLSSS"]
-	path = FLSSS
-	url = https://github.com/cran/FLSSS
 [submodule "FLightR"]
 	path = FLightR
 	url = https://github.com/cran/FLightR
@@ -5792,9 +5792,6 @@
 [submodule "FeatureExtraction"]
 	path = FeatureExtraction
 	url = https://github.com/cran/FeatureExtraction
-[submodule "FeatureHashing"]
-	path = FeatureHashing
-	url = https://github.com/cran/FeatureHashing
 [submodule "FeatureImpCluster"]
 	path = FeatureImpCluster
 	url = https://github.com/cran/FeatureImpCluster
@@ -23195,9 +23192,6 @@
 [submodule "boostingDEA"]
 	path = boostingDEA
 	url = https://github.com/cran/boostingDEA
-[submodule "boostmtree"]
-	path = boostmtree
-	url = https://github.com/cran/boostmtree
 [submodule "boostrq"]
 	path = boostrq
 	url = https://github.com/cran/boostrq
