@@ -239,6 +239,9 @@
 [submodule "AMIM"]
 	path = AMIM
 	url = https://github.com/cran/AMIM
+[submodule "AMISforInfectiousDiseases"]
+	path = AMISforInfectiousDiseases
+	url = https://github.com/cran/AMISforInfectiousDiseases
 [submodule "AMModels"]
 	path = AMModels
 	url = https://github.com/cran/AMModels
@@ -1190,9 +1193,6 @@
 [submodule "BOIN"]
 	path = BOIN
 	url = https://github.com/cran/BOIN
-[submodule "BOJ"]
-	path = BOJ
-	url = https://github.com/cran/BOJ
 [submodule "BOSSreg"]
 	path = BOSSreg
 	url = https://github.com/cran/BOSSreg
@@ -3014,6 +3014,9 @@
 [submodule "CoDaImpact"]
 	path = CoDaImpact
 	url = https://github.com/cran/CoDaImpact
+[submodule "CoDaLoMic"]
+	path = CoDaLoMic
+	url = https://github.com/cran/CoDaLoMic
 [submodule "CoDiNA"]
 	path = CoDiNA
 	url = https://github.com/cran/CoDiNA
@@ -3101,6 +3104,9 @@
 [submodule "Colossus"]
 	path = Colossus
 	url = https://github.com/cran/Colossus
+[submodule "ComBatFamQC"]
+	path = ComBatFamQC
+	url = https://github.com/cran/ComBatFamQC
 [submodule "ComICS"]
 	path = ComICS
 	url = https://github.com/cran/ComICS
@@ -4724,6 +4730,9 @@
 [submodule "EHR"]
 	path = EHR
 	url = https://github.com/cran/EHR
+[submodule "EHRmuse"]
+	path = EHRmuse
+	url = https://github.com/cran/EHRmuse
 [submodule "EHRtemporalVariability"]
 	path = EHRtemporalVariability
 	url = https://github.com/cran/EHRtemporalVariability
@@ -16394,6 +16403,9 @@
 [submodule "SLOPE"]
 	path = SLOPE
 	url = https://github.com/cran/SLOPE
+[submodule "SLOS"]
+	path = SLOS
+	url = https://github.com/cran/SLOS
 [submodule "SLPresElection"]
 	path = SLPresElection
 	url = https://github.com/cran/SLPresElection
@@ -20129,6 +20141,9 @@
 [submodule "admiraldev"]
 	path = admiraldev
 	url = https://github.com/cran/admiraldev
+[submodule "admiralmetabolic"]
+	path = admiralmetabolic
+	url = https://github.com/cran/admiralmetabolic
 [submodule "admiralonco"]
 	path = admiralonco
 	url = https://github.com/cran/admiralonco
@@ -32843,6 +32858,9 @@
 [submodule "flexCWM"]
 	path = flexCWM
 	url = https://github.com/cran/flexCWM
+[submodule "flexFitR"]
+	path = flexFitR
+	url = https://github.com/cran/flexFitR
 [submodule "flexOR"]
 	path = flexOR
 	url = https://github.com/cran/flexOR
@@ -35963,6 +35981,9 @@
 [submodule "gomms"]
 	path = gomms
 	url = https://github.com/cran/gomms
+[submodule "gomp"]
+	path = gomp
+	url = https://github.com/cran/gomp
 [submodule "gompertztrunc"]
 	path = gompertztrunc
 	url = https://github.com/cran/gompertztrunc
@@ -54878,6 +54899,9 @@
 [submodule "rollup"]
 	path = rollup
 	url = https://github.com/cran/rollup
+[submodule "rollupTree"]
+	path = rollupTree
+	url = https://github.com/cran/rollupTree
 [submodule "roloc"]
 	path = roloc
 	url = https://github.com/cran/roloc
@@ -61160,6 +61184,9 @@
 [submodule "sys"]
 	path = sys
 	url = https://github.com/cran/sys
+[submodule "sysAgNPs"]
+	path = sysAgNPs
+	url = https://github.com/cran/sysAgNPs
 [submodule "sysfonts"]
 	path = sysfonts
 	url = https://github.com/cran/sysfonts
