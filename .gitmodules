@@ -1100,6 +1100,9 @@
 [submodule "BINtools"]
 	path = BINtools
 	url = https://github.com/cran/BINtools
+[submodule "BIOMASS"]
+	path = BIOMASS
+	url = https://github.com/cran/BIOMASS
 [submodule "BIOdry"]
 	path = BIOdry
 	url = https://github.com/cran/BIOdry
@@ -33194,6 +33197,9 @@
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cran/forestdata
+[submodule "forestdynR"]
+	path = forestdynR
+	url = https://github.com/cran/forestdynR
 [submodule "forestecology"]
 	path = forestecology
 	url = https://github.com/cran/forestecology
