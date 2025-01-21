@@ -1100,9 +1100,6 @@
 [submodule "BINtools"]
 	path = BINtools
 	url = https://github.com/cran/BINtools
-[submodule "BIOMASS"]
-	path = BIOMASS
-	url = https://github.com/cran/BIOMASS
 [submodule "BIOdry"]
 	path = BIOdry
 	url = https://github.com/cran/BIOdry
@@ -10520,6 +10517,9 @@
 [submodule "MisRepARMA"]
 	path = MisRepARMA
 	url = https://github.com/cran/MisRepARMA
+[submodule "MiscMath"]
+	path = MiscMath
+	url = https://github.com/cran/MiscMath
 [submodule "MiscMetabar"]
 	path = MiscMetabar
 	url = https://github.com/cran/MiscMetabar
@@ -22259,6 +22259,9 @@
 [submodule "bdscale"]
 	path = bdscale
 	url = https://github.com/cran/bdscale
+[submodule "bdsm"]
+	path = bdsm
+	url = https://github.com/cran/bdsm
 [submodule "bdsmatrix"]
 	path = bdsmatrix
 	url = https://github.com/cran/bdsmatrix
@@ -27590,6 +27593,9 @@
 [submodule "dMod"]
 	path = dMod
 	url = https://github.com/cran/dMod
+[submodule "dMrs"]
+	path = dMrs
+	url = https://github.com/cran/dMrs
 [submodule "dPCP"]
 	path = dPCP
 	url = https://github.com/cran/dPCP
@@ -33197,9 +33203,6 @@
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cran/forestdata
-[submodule "forestdynR"]
-	path = forestdynR
-	url = https://github.com/cran/forestdynR
 [submodule "forestecology"]
 	path = forestecology
 	url = https://github.com/cran/forestecology
@@ -43166,6 +43169,9 @@
 [submodule "metaboData"]
 	path = metaboData
 	url = https://github.com/cran/metaboData
+[submodule "metabodecon"]
+	path = metabodecon
+	url = https://github.com/cran/metabodecon
 [submodule "metabolic"]
 	path = metabolic
 	url = https://github.com/cran/metabolic
@@ -53180,6 +53186,9 @@
 [submodule "readabs"]
 	path = readabs
 	url = https://github.com/cran/readabs
+[submodule "readapra"]
+	path = readapra
+	url = https://github.com/cran/readapra
 [submodule "readbitmap"]
 	path = readbitmap
 	url = https://github.com/cran/readbitmap
@@ -57146,6 +57155,9 @@
 [submodule "setRNG"]
 	path = setRNG
 	url = https://github.com/cran/setRNG
+[submodule "setariaviridis"]
+	path = setariaviridis
+	url = https://github.com/cran/setariaviridis
 [submodule "setartree"]
 	path = setartree
 	url = https://github.com/cran/setartree
