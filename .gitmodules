@@ -1193,6 +1193,9 @@
 [submodule "BOIN"]
 	path = BOIN
 	url = https://github.com/cran/BOIN
+[submodule "BOJ"]
+	path = BOJ
+	url = https://github.com/cran/BOJ
 [submodule "BOSSreg"]
 	path = BOSSreg
 	url = https://github.com/cran/BOSSreg
@@ -13832,9 +13835,6 @@
 [submodule "REndo"]
 	path = REndo
 	url = https://github.com/cran/REndo
-[submodule "RFCCA"]
-	path = RFCCA
-	url = https://github.com/cran/RFCCA
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
@@ -43079,9 +43079,6 @@
 [submodule "mergingTools"]
 	path = mergingTools
 	url = https://github.com/cran/mergingTools
-[submodule "merlin"]
-	path = merlin
-	url = https://github.com/cran/merlin
 [submodule "merror"]
 	path = merror
 	url = https://github.com/cran/merror
@@ -43538,6 +43535,9 @@
 [submodule "micemd"]
 	path = micemd
 	url = https://github.com/cran/micemd
+[submodule "micer"]
+	path = micer
+	url = https://github.com/cran/micer
 [submodule "michelRodange"]
 	path = michelRodange
 	url = https://github.com/cran/michelRodange
