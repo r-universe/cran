@@ -1100,6 +1100,9 @@
 [submodule "BINtools"]
 	path = BINtools
 	url = https://github.com/cran/BINtools
+[submodule "BIOMASS"]
+	path = BIOMASS
+	url = https://github.com/cran/BIOMASS
 [submodule "BIOdry"]
 	path = BIOdry
 	url = https://github.com/cran/BIOdry
@@ -13835,6 +13838,9 @@
 [submodule "REndo"]
 	path = REndo
 	url = https://github.com/cran/REndo
+[submodule "RFCCA"]
+	path = RFCCA
+	url = https://github.com/cran/RFCCA
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
@@ -23033,6 +23039,9 @@
 [submodule "blockForest"]
 	path = blockForest
 	url = https://github.com/cran/blockForest
+[submodule "blockTools"]
+	path = blockTools
+	url = https://github.com/cran/blockTools
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cran/blockcluster
@@ -33200,6 +33209,9 @@
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cran/forestdata
+[submodule "forestdynR"]
+	path = forestdynR
+	url = https://github.com/cran/forestdynR
 [submodule "forestecology"]
 	path = forestecology
 	url = https://github.com/cran/forestecology
@@ -55856,6 +55868,9 @@
 [submodule "sac"]
 	path = sac
 	url = https://github.com/cran/sac
+[submodule "sacRebleu"]
+	path = sacRebleu
+	url = https://github.com/cran/sacRebleu
 [submodule "saccadr"]
 	path = saccadr
 	url = https://github.com/cran/saccadr
