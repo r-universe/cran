@@ -32675,6 +32675,9 @@
 [submodule "finity"]
 	path = finity
 	url = https://github.com/cran/finity
+[submodule "finna"]
+	path = finna
+	url = https://github.com/cran/finna
 [submodule "finnishgrid"]
 	path = finnishgrid
 	url = https://github.com/cran/finnishgrid
@@ -37160,6 +37163,9 @@
 [submodule "heiscore"]
 	path = heiscore
 	url = https://github.com/cran/heiscore
+[submodule "heiscore.data"]
+	path = heiscore.data
+	url = https://github.com/cran/heiscore.data
 [submodule "helixvis"]
 	path = helixvis
 	url = https://github.com/cran/helixvis
@@ -50690,6 +50696,9 @@
 [submodule "presmTP"]
 	path = presmTP
 	url = https://github.com/cran/presmTP
+[submodule "presmoothedTP"]
+	path = presmoothedTP
+	url = https://github.com/cran/presmoothedTP
 [submodule "pressuRe"]
 	path = pressuRe
 	url = https://github.com/cran/pressuRe
@@ -51446,6 +51455,9 @@
 [submodule "pxR"]
 	path = pxR
 	url = https://github.com/cran/pxR
+[submodule "pxmake"]
+	path = pxmake
+	url = https://github.com/cran/pxmake
 [submodule "pxweb"]
 	path = pxweb
 	url = https://github.com/cran/pxweb
@@ -53927,6 +53939,9 @@
 [submodule "reticulate"]
 	path = reticulate
 	url = https://github.com/cran/reticulate
+[submodule "retimer"]
+	path = retimer
+	url = https://github.com/cran/retimer
 [submodule "retriever"]
 	path = retriever
 	url = https://github.com/cran/retriever
