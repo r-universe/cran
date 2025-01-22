@@ -28796,9 +28796,6 @@
 [submodule "diffr"]
 	path = diffr
 	url = https://github.com/cran/diffr
-[submodule "diffudist"]
-	path = diffudist
-	url = https://github.com/cran/diffudist
 [submodule "diffusion"]
 	path = diffusion
 	url = https://github.com/cran/diffusion
@@ -34586,9 +34583,6 @@
 [submodule "geoheatmap"]
 	path = geoheatmap
 	url = https://github.com/cran/geoheatmap
-[submodule "geoidep"]
-	path = geoidep
-	url = https://github.com/cran/geoidep
 [submodule "geojson"]
 	path = geojson
 	url = https://github.com/cran/geojson
