@@ -23264,6 +23264,9 @@
 [submodule "bootSVD"]
 	path = bootSVD
 	url = https://github.com/cran/bootSVD
+[submodule "bootStateSpace"]
+	path = bootStateSpace
+	url = https://github.com/cran/bootStateSpace
 [submodule "bootStepAIC"]
 	path = bootStepAIC
 	url = https://github.com/cran/bootStepAIC
