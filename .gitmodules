@@ -665,6 +665,9 @@
 [submodule "Anthropometry"]
 	path = Anthropometry
 	url = https://github.com/cran/Anthropometry
+[submodule "AntibodyForests"]
+	path = AntibodyForests
+	url = https://github.com/cran/AntibodyForests
 [submodule "AntibodyTiters"]
 	path = AntibodyTiters
 	url = https://github.com/cran/AntibodyTiters
@@ -17282,6 +17285,9 @@
 [submodule "SlicedLHD"]
 	path = SlicedLHD
 	url = https://github.com/cran/SlicedLHD
+[submodule "SlideCNA"]
+	path = SlideCNA
+	url = https://github.com/cran/SlideCNA
 [submodule "SlidingWindows"]
 	path = SlidingWindows
 	url = https://github.com/cran/SlidingWindows
@@ -45848,6 +45854,9 @@
 [submodule "nc"]
 	path = nc
 	url = https://github.com/cran/nc
+[submodule "ncaavolleyballr"]
+	path = ncaavolleyballr
+	url = https://github.com/cran/ncaavolleyballr
 [submodule "ncappc"]
 	path = ncappc
 	url = https://github.com/cran/ncappc
@@ -46478,9 +46487,6 @@
 [submodule "nmaINLA"]
 	path = nmaINLA
 	url = https://github.com/cran/nmaINLA
-[submodule "nmadb"]
-	path = nmadb
-	url = https://github.com/cran/nmadb
 [submodule "nmaplateplot"]
 	path = nmaplateplot
 	url = https://github.com/cran/nmaplateplot
@@ -48563,6 +48569,9 @@
 [submodule "patrick"]
 	path = patrick
 	url = https://github.com/cran/patrick
+[submodule "pattern.checks"]
+	path = pattern.checks
+	url = https://github.com/cran/pattern.checks
 [submodule "patternator"]
 	path = patternator
 	url = https://github.com/cran/patternator
@@ -58880,6 +58889,9 @@
 [submodule "someMTP"]
 	path = someMTP
 	url = https://github.com/cran/someMTP
+[submodule "somhca"]
+	path = somhca
+	url = https://github.com/cran/somhca
 [submodule "sommer"]
 	path = sommer
 	url = https://github.com/cran/sommer
@@ -63788,6 +63800,9 @@
 [submodule "understandBPMN"]
 	path = understandBPMN
 	url = https://github.com/cran/understandBPMN
+[submodule "undidR"]
+	path = undidR
+	url = https://github.com/cran/undidR
 [submodule "unglue"]
 	path = unglue
 	url = https://github.com/cran/unglue
