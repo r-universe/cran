@@ -15335,9 +15335,6 @@
 [submodule "RegSDC"]
 	path = RegSDC
 	url = https://github.com/cran/RegSDC
-[submodule "RegrCoeffsExplorer"]
-	path = RegrCoeffsExplorer
-	url = https://github.com/cran/RegrCoeffsExplorer
 [submodule "RegressionFactory"]
 	path = RegressionFactory
 	url = https://github.com/cran/RegressionFactory
@@ -28670,9 +28667,6 @@
 [submodule "dhh"]
 	path = dhh
 	url = https://github.com/cran/dhh
-[submodule "dhis2r"]
-	path = dhis2r
-	url = https://github.com/cran/dhis2r
 [submodule "dhsage"]
 	path = dhsage
 	url = https://github.com/cran/dhsage
