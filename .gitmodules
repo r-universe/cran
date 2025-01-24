@@ -49412,6 +49412,9 @@
 [submodule "phylosignalDB"]
 	path = phylosignalDB
 	url = https://github.com/cran/phylosignalDB
+[submodule "phylospatial"]
+	path = phylospatial
+	url = https://github.com/cran/phylospatial
 [submodule "phylotate"]
 	path = phylotate
 	url = https://github.com/cran/phylotate
