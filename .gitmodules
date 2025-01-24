@@ -10394,9 +10394,6 @@
 [submodule "MetaLandSim"]
 	path = MetaLandSim
 	url = https://github.com/cran/MetaLandSim
-[submodule "MetaLonDA"]
-	path = MetaLonDA
-	url = https://github.com/cran/MetaLonDA
 [submodule "MetaNLP"]
 	path = MetaNLP
 	url = https://github.com/cran/MetaNLP
@@ -12803,9 +12800,6 @@
 [submodule "PlackettLuce"]
 	path = PlackettLuce
 	url = https://github.com/cran/PlackettLuce
-[submodule "PlaneGeometry"]
-	path = PlaneGeometry
-	url = https://github.com/cran/PlaneGeometry
 [submodule "Planesmuestra"]
 	path = Planesmuestra
 	url = https://github.com/cran/Planesmuestra
@@ -27521,9 +27515,6 @@
 [submodule "cxxfunplus"]
 	path = cxxfunplus
 	url = https://github.com/cran/cxxfunplus
-[submodule "cycleRtools"]
-	path = cycleRtools
-	url = https://github.com/cran/cycleRtools
 [submodule "cyclestreets"]
 	path = cyclestreets
 	url = https://github.com/cran/cyclestreets
@@ -30416,9 +30407,6 @@
 [submodule "edlibR"]
 	path = edlibR
 	url = https://github.com/cran/edlibR
-[submodule "edmcr"]
-	path = edmcr
-	url = https://github.com/cran/edmcr
 [submodule "edmdata"]
 	path = edmdata
 	url = https://github.com/cran/edmdata
@@ -35240,9 +35228,6 @@
 [submodule "ggperiodic"]
 	path = ggperiodic
 	url = https://github.com/cran/ggperiodic
-[submodule "ggpicrust2"]
-	path = ggpicrust2
-	url = https://github.com/cran/ggpicrust2
 [submodule "ggpie"]
 	path = ggpie
 	url = https://github.com/cran/ggpie
@@ -56720,9 +56705,6 @@
 [submodule "sdprisk"]
 	path = sdprisk
 	url = https://github.com/cran/sdprisk
-[submodule "sdpt3r"]
-	path = sdpt3r
-	url = https://github.com/cran/sdpt3r
 [submodule "sdrt"]
 	path = sdrt
 	url = https://github.com/cran/sdrt
