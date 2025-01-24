@@ -17867,6 +17867,9 @@
 [submodule "SurrogateRsq"]
 	path = SurrogateRsq
 	url = https://github.com/cran/SurrogateRsq
+[submodule "SurrogateSeq"]
+	path = SurrogateSeq
+	url = https://github.com/cran/SurrogateSeq
 [submodule "SurrogateTest"]
 	path = SurrogateTest
 	url = https://github.com/cran/SurrogateTest
@@ -37034,6 +37037,9 @@
 [submodule "hdfqlr"]
 	path = hdfqlr
 	url = https://github.com/cran/hdfqlr
+[submodule "hdftsa"]
+	path = hdftsa
+	url = https://github.com/cran/hdftsa
 [submodule "hdi"]
 	path = hdi
 	url = https://github.com/cran/hdi
@@ -47249,6 +47255,9 @@
 [submodule "olctools"]
 	path = olctools
 	url = https://github.com/cran/olctools
+[submodule "oldr"]
+	path = oldr
+	url = https://github.com/cran/oldr
 [submodule "ollamar"]
 	path = ollamar
 	url = https://github.com/cran/ollamar
@@ -62996,6 +63005,9 @@
 [submodule "translit.uk"]
 	path = translit.uk
 	url = https://github.com/cran/translit.uk
+[submodule "transltr"]
+	path = transltr
+	url = https://github.com/cran/transltr
 [submodule "transmdl"]
 	path = transmdl
 	url = https://github.com/cran/transmdl
