@@ -46472,6 +46472,9 @@
 [submodule "nmaINLA"]
 	path = nmaINLA
 	url = https://github.com/cran/nmaINLA
+[submodule "nmadb"]
+	path = nmadb
+	url = https://github.com/cran/nmadb
 [submodule "nmaplateplot"]
 	path = nmaplateplot
 	url = https://github.com/cran/nmaplateplot
