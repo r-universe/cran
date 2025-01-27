@@ -15185,9 +15185,6 @@
 [submodule "RcppThread"]
 	path = RcppThread
 	url = https://github.com/cran/RcppThread
-[submodule "RcppUUID"]
-	path = RcppUUID
-	url = https://github.com/cran/RcppUUID
 [submodule "RcppXPtrUtils"]
 	path = RcppXPtrUtils
 	url = https://github.com/cran/RcppXPtrUtils
