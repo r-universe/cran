@@ -27803,9 +27803,6 @@
 [submodule "dataSDA"]
 	path = dataSDA
 	url = https://github.com/cran/dataSDA
-[submodule "databraryr"]
-	path = databraryr
-	url = https://github.com/cran/databraryr
 [submodule "dataclass"]
 	path = dataclass
 	url = https://github.com/cran/dataclass
@@ -47345,6 +47342,9 @@
 [submodule "onelogin"]
 	path = onelogin
 	url = https://github.com/cran/onelogin
+[submodule "onemap"]
+	path = onemap
+	url = https://github.com/cran/onemap
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/cran/onetime
