@@ -12104,6 +12104,9 @@
 [submodule "PICBayes"]
 	path = PICBayes
 	url = https://github.com/cran/PICBayes
+[submodule "PIE"]
+	path = PIE
+	url = https://github.com/cran/PIE
 [submodule "PINMA"]
 	path = PINMA
 	url = https://github.com/cran/PINMA
@@ -15272,6 +15275,9 @@
 [submodule "ReacTran"]
 	path = ReacTran
 	url = https://github.com/cran/ReacTran
+[submodule "Reacnorm"]
+	path = Reacnorm
+	url = https://github.com/cran/Reacnorm
 [submodule "ReadDIM"]
 	path = ReadDIM
 	url = https://github.com/cran/ReadDIM
@@ -41456,6 +41462,9 @@
 [submodule "localsolver"]
 	path = localsolver
 	url = https://github.com/cran/localsolver
+[submodule "localsp"]
+	path = localsp
+	url = https://github.com/cran/localsp
 [submodule "locateip"]
 	path = locateip
 	url = https://github.com/cran/locateip
@@ -47318,6 +47327,9 @@
 [submodule "once"]
 	path = once
 	url = https://github.com/cran/once
+[submodule "oncmap"]
+	path = oncmap
+	url = https://github.com/cran/oncmap
 [submodule "oncoPredict"]
 	path = oncoPredict
 	url = https://github.com/cran/oncoPredict
@@ -55112,6 +55124,9 @@
 [submodule "rplanes"]
 	path = rplanes
 	url = https://github.com/cran/rplanes
+[submodule "rplec"]
+	path = rplec
+	url = https://github.com/cran/rplec
 [submodule "rplotengine"]
 	path = rplotengine
 	url = https://github.com/cran/rplotengine
@@ -60716,6 +60731,9 @@
 [submodule "superpc"]
 	path = superpc
 	url = https://github.com/cran/superpc
+[submodule "superspreading"]
+	path = superspreading
+	url = https://github.com/cran/superspreading
 [submodule "supervisedPRIM"]
 	path = supervisedPRIM
 	url = https://github.com/cran/supervisedPRIM
@@ -63680,6 +63698,9 @@
 [submodule "uavRmp"]
 	path = uavRmp
 	url = https://github.com/cran/uavRmp
+[submodule "ubair"]
+	path = ubair
+	url = https://github.com/cran/ubair
 [submodule "ubiquity"]
 	path = ubiquity
 	url = https://github.com/cran/ubiquity
