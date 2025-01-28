@@ -15188,6 +15188,9 @@
 [submodule "RcppThread"]
 	path = RcppThread
 	url = https://github.com/cran/RcppThread
+[submodule "RcppUUID"]
+	path = RcppUUID
+	url = https://github.com/cran/RcppUUID
 [submodule "RcppXPtrUtils"]
 	path = RcppXPtrUtils
 	url = https://github.com/cran/RcppXPtrUtils
@@ -27806,6 +27809,9 @@
 [submodule "dataSDA"]
 	path = dataSDA
 	url = https://github.com/cran/dataSDA
+[submodule "databraryr"]
+	path = databraryr
+	url = https://github.com/cran/databraryr
 [submodule "dataclass"]
 	path = dataclass
 	url = https://github.com/cran/dataclass
@@ -36866,9 +36872,6 @@
 [submodule "handwriterApp"]
 	path = handwriterApp
 	url = https://github.com/cran/handwriterApp
-[submodule "handwriterRF"]
-	path = handwriterRF
-	url = https://github.com/cran/handwriterRF
 [submodule "handyFunctions"]
 	path = handyFunctions
 	url = https://github.com/cran/handyFunctions
