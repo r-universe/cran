@@ -4994,6 +4994,9 @@
 [submodule "EcoIndR"]
 	path = EcoIndR
 	url = https://github.com/cran/EcoIndR
+[submodule "EcoMetrics"]
+	path = EcoMetrics
+	url = https://github.com/cran/EcoMetrics
 [submodule "EcoNetGen"]
 	path = EcoNetGen
 	url = https://github.com/cran/EcoNetGen
