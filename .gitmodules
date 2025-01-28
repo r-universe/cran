@@ -2786,6 +2786,9 @@
 [submodule "Certara.VPCResults"]
 	path = Certara.VPCResults
 	url = https://github.com/cran/Certara.VPCResults
+[submodule "Certara.Xpose.NLME"]
+	path = Certara.Xpose.NLME
+	url = https://github.com/cran/Certara.Xpose.NLME
 [submodule "ChainLadder"]
 	path = ChainLadder
 	url = https://github.com/cran/ChainLadder
@@ -15890,6 +15893,9 @@
 [submodule "Rtwobitlib"]
 	path = Rtwobitlib
 	url = https://github.com/cran/Rtwobitlib
+[submodule "RulesTools"]
+	path = RulesTools
+	url = https://github.com/cran/RulesTools
 [submodule "Runuran"]
 	path = Runuran
 	url = https://github.com/cran/Runuran
@@ -34418,6 +34424,9 @@
 [submodule "generalCorr"]
 	path = generalCorr
 	url = https://github.com/cran/generalCorr
+[submodule "generalRSS"]
+	path = generalRSS
+	url = https://github.com/cran/generalRSS
 [submodule "generalhoslem"]
 	path = generalhoslem
 	url = https://github.com/cran/generalhoslem
@@ -56555,6 +56564,9 @@
 [submodule "scoper"]
 	path = scoper
 	url = https://github.com/cran/scoper
+[submodule "scopr"]
+	path = scopr
+	url = https://github.com/cran/scopr
 [submodule "score"]
 	path = score
 	url = https://github.com/cran/score
