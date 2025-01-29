@@ -9413,6 +9413,9 @@
 [submodule "MBMethPred"]
 	path = MBMethPred
 	url = https://github.com/cran/MBMethPred
+[submodule "MBNMAtime"]
+	path = MBNMAtime
+	url = https://github.com/cran/MBNMAtime
 [submodule "MBSGS"]
 	path = MBSGS
 	url = https://github.com/cran/MBSGS
@@ -36884,6 +36887,9 @@
 [submodule "handwriterApp"]
 	path = handwriterApp
 	url = https://github.com/cran/handwriterApp
+[submodule "handwriterRF"]
+	path = handwriterRF
+	url = https://github.com/cran/handwriterRF
 [submodule "handyFunctions"]
 	path = handyFunctions
 	url = https://github.com/cran/handyFunctions
