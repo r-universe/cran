@@ -2510,9 +2510,6 @@
 [submodule "CREDS"]
 	path = CREDS
 	url = https://github.com/cran/CREDS
-[submodule "CRM"]
-	path = CRM
-	url = https://github.com/cran/CRM
 [submodule "CRMetrics"]
 	path = CRMetrics
 	url = https://github.com/cran/CRMetrics
