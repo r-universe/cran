@@ -1397,6 +1397,9 @@
 [submodule "BayesCACE"]
 	path = BayesCACE
 	url = https://github.com/cran/BayesCACE
+[submodule "BayesCPclust"]
+	path = BayesCPclust
+	url = https://github.com/cran/BayesCPclust
 [submodule "BayesCR"]
 	path = BayesCR
 	url = https://github.com/cran/BayesCR
@@ -9566,6 +9569,9 @@
 [submodule "MEFM"]
 	path = MEFM
 	url = https://github.com/cran/MEFM
+[submodule "MEGB"]
+	path = MEGB
+	url = https://github.com/cran/MEGB
 [submodule "MEGENA"]
 	path = MEGENA
 	url = https://github.com/cran/MEGENA
@@ -10253,6 +10259,9 @@
 [submodule "MatSkew"]
 	path = MatSkew
 	url = https://github.com/cran/MatSkew
+[submodule "MatTransMix"]
+	path = MatTransMix
+	url = https://github.com/cran/MatTransMix
 [submodule "MatchGATE"]
 	path = MatchGATE
 	url = https://github.com/cran/MatchGATE
@@ -28445,6 +28454,9 @@
 [submodule "depower"]
 	path = depower
 	url = https://github.com/cran/depower
+[submodule "deprivateR"]
+	path = deprivateR
+	url = https://github.com/cran/deprivateR
 [submodule "deps"]
 	path = deps
 	url = https://github.com/cran/deps
@@ -53837,6 +53849,9 @@
 [submodule "reproducible"]
 	path = reproducible
 	url = https://github.com/cran/reproducible
+[submodule "reproducibleRchunks"]
+	path = reproducibleRchunks
+	url = https://github.com/cran/reproducibleRchunks
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/cran/reproj
@@ -57521,6 +57536,9 @@
 [submodule "shinyBS"]
 	path = shinyBS
 	url = https://github.com/cran/shinyBS
+[submodule "shinyCLT"]
+	path = shinyCLT
+	url = https://github.com/cran/shinyCLT
 [submodule "shinyChakraSlider"]
 	path = shinyChakraSlider
 	url = https://github.com/cran/shinyChakraSlider
@@ -61883,6 +61901,9 @@
 [submodule "textab"]
 	path = textab
 	url = https://github.com/cran/textab
+[submodule "textanalyzer"]
+	path = textanalyzer
+	url = https://github.com/cran/textanalyzer
 [submodule "textcat"]
 	path = textcat
 	url = https://github.com/cran/textcat
