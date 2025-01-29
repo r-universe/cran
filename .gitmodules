@@ -12977,6 +12977,9 @@
 [submodule "PopVar"]
 	path = PopVar
 	url = https://github.com/cran/PopVar
+[submodule "PopulateR"]
+	path = PopulateR
+	url = https://github.com/cran/PopulateR
 [submodule "PopulationGrowthR"]
 	path = PopulationGrowthR
 	url = https://github.com/cran/PopulationGrowthR
@@ -13550,6 +13553,9 @@
 [submodule "RADstackshelpR"]
 	path = RADstackshelpR
 	url = https://github.com/cran/RADstackshelpR
+[submodule "RAFS"]
+	path = RAFS
+	url = https://github.com/cran/RAFS
 [submodule "RAINBOWR"]
 	path = RAINBOWR
 	url = https://github.com/cran/RAINBOWR
@@ -17474,6 +17480,9 @@
 [submodule "SparseGrid"]
 	path = SparseGrid
 	url = https://github.com/cran/SparseGrid
+[submodule "SparseICA"]
+	path = SparseICA
+	url = https://github.com/cran/SparseICA
 [submodule "SparseLPM"]
 	path = SparseLPM
 	url = https://github.com/cran/SparseLPM
@@ -23333,6 +23342,9 @@
 [submodule "borrowr"]
 	path = borrowr
 	url = https://github.com/cran/borrowr
+[submodule "bosfr"]
+	path = bosfr
+	url = https://github.com/cran/bosfr
 [submodule "bossR"]
 	path = bossR
 	url = https://github.com/cran/bossR
@@ -40667,6 +40679,9 @@
 [submodule "lay"]
 	path = lay
 	url = https://github.com/cran/lay
+[submodule "layer"]
+	path = layer
+	url = https://github.com/cran/layer
 [submodule "lazy"]
 	path = lazy
 	url = https://github.com/cran/lazy
@@ -41075,6 +41090,9 @@
 [submodule "lifelogr"]
 	path = lifelogr
 	url = https://github.com/cran/lifelogr
+[submodule "lifepack"]
+	path = lifepack
+	url = https://github.com/cran/lifepack
 [submodule "liftLRD"]
 	path = liftLRD
 	url = https://github.com/cran/liftLRD
@@ -47798,6 +47816,9 @@
 [submodule "ordinalpattern"]
 	path = ordinalpattern
 	url = https://github.com/cran/ordinalpattern
+[submodule "ordinalsimr"]
+	path = ordinalsimr
+	url = https://github.com/cran/ordinalsimr
 [submodule "ordr"]
 	path = ordr
 	url = https://github.com/cran/ordr
@@ -53144,6 +53165,9 @@
 [submodule "rdiversity"]
 	path = rdiversity
 	url = https://github.com/cran/rdiversity
+[submodule "rdlearn"]
+	path = rdlearn
+	url = https://github.com/cran/rdlearn
 [submodule "rdlocrand"]
 	path = rdlocrand
 	url = https://github.com/cran/rdlocrand
@@ -58577,6 +58601,9 @@
 [submodule "smartDesign"]
 	path = smartDesign
 	url = https://github.com/cran/smartDesign
+[submodule "smarter"]
+	path = smarter
+	url = https://github.com/cran/smarter
 [submodule "smartmap"]
 	path = smartmap
 	url = https://github.com/cran/smartmap
