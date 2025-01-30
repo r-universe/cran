@@ -29063,6 +29063,9 @@
 [submodule "distTails"]
 	path = distTails
 	url = https://github.com/cran/distTails
+[submodule "distanceHD"]
+	path = distanceHD
+	url = https://github.com/cran/distanceHD
 [submodule "distances"]
 	path = distances
 	url = https://github.com/cran/distances
@@ -35093,6 +35096,9 @@
 [submodule "ggfocus"]
 	path = ggfocus
 	url = https://github.com/cran/ggfocus
+[submodule "ggfootball"]
+	path = ggfootball
+	url = https://github.com/cran/ggfootball
 [submodule "ggforce"]
 	path = ggforce
 	url = https://github.com/cran/ggforce
@@ -37694,6 +37700,9 @@
 [submodule "hrcomprisk"]
 	path = hrcomprisk
 	url = https://github.com/cran/hrcomprisk
+[submodule "hrf"]
+	path = hrf
+	url = https://github.com/cran/hrf
 [submodule "hrqglas"]
 	path = hrqglas
 	url = https://github.com/cran/hrqglas
@@ -39698,6 +39707,9 @@
 [submodule "job"]
 	path = job
 	url = https://github.com/cran/job
+[submodule "jobqueue"]
+	path = jobqueue
+	url = https://github.com/cran/jobqueue
 [submodule "jocre"]
 	path = jocre
 	url = https://github.com/cran/jocre
@@ -42530,6 +42542,9 @@
 [submodule "maskr"]
 	path = maskr
 	url = https://github.com/cran/maskr
+[submodule "massProps"]
+	path = massProps
+	url = https://github.com/cran/massProps
 [submodule "masscor"]
 	path = masscor
 	url = https://github.com/cran/masscor
@@ -57917,6 +57932,9 @@
 [submodule "shrinkDSM"]
 	path = shrinkDSM
 	url = https://github.com/cran/shrinkDSM
+[submodule "shrinkGPR"]
+	path = shrinkGPR
+	url = https://github.com/cran/shrinkGPR
 [submodule "shrinkTVP"]
 	path = shrinkTVP
 	url = https://github.com/cran/shrinkTVP
