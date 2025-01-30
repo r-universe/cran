@@ -1115,6 +1115,9 @@
 [submodule "BISdata"]
 	path = BISdata
 	url = https://github.com/cran/BISdata
+[submodule "BKT"]
+	path = BKT
+	url = https://github.com/cran/BKT
 [submodule "BKTR"]
 	path = BKTR
 	url = https://github.com/cran/BKTR
@@ -20222,6 +20225,9 @@
 [submodule "adoptr"]
 	path = adoptr
 	url = https://github.com/cran/adoptr
+[submodule "adplots"]
+	path = adplots
+	url = https://github.com/cran/adplots
 [submodule "adproclus"]
 	path = adproclus
 	url = https://github.com/cran/adproclus
@@ -39584,6 +39590,9 @@
 [submodule "jarbes"]
 	path = jarbes
 	url = https://github.com/cran/jarbes
+[submodule "javateak"]
+	path = javateak
+	url = https://github.com/cran/javateak
 [submodule "jcalendaR"]
 	path = jcalendaR
 	url = https://github.com/cran/jcalendaR
