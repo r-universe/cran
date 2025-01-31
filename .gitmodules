@@ -9974,6 +9974,9 @@
 [submodule "MRMCaov"]
 	path = MRMCaov
 	url = https://github.com/cran/MRMCaov
+[submodule "MRMCbinary"]
+	path = MRMCbinary
+	url = https://github.com/cran/MRMCbinary
 [submodule "MRMCsamplesize"]
 	path = MRMCsamplesize
 	url = https://github.com/cran/MRMCsamplesize
@@ -10808,6 +10811,9 @@
 [submodule "MultiGlarmaVarSel"]
 	path = MultiGlarmaVarSel
 	url = https://github.com/cran/MultiGlarmaVarSel
+[submodule "MultiGrey"]
+	path = MultiGrey
+	url = https://github.com/cran/MultiGrey
 [submodule "MultiGroupO"]
 	path = MultiGroupO
 	url = https://github.com/cran/MultiGroupO
@@ -17789,6 +17795,9 @@
 [submodule "StratifiedRF"]
 	path = StratifiedRF
 	url = https://github.com/cran/StratifiedRF
+[submodule "StratifiedSampling"]
+	path = StratifiedSampling
+	url = https://github.com/cran/StratifiedSampling
 [submodule "StratigrapheR"]
 	path = StratigrapheR
 	url = https://github.com/cran/StratigrapheR
@@ -17927,6 +17936,9 @@
 [submodule "SurvHiDim"]
 	path = SurvHiDim
 	url = https://github.com/cran/SurvHiDim
+[submodule "SurvImpute"]
+	path = SurvImpute
+	url = https://github.com/cran/SurvImpute
 [submodule "SurvLong"]
 	path = SurvLong
 	url = https://github.com/cran/SurvLong
@@ -35492,6 +35504,9 @@
 [submodule "ggstudent"]
 	path = ggstudent
 	url = https://github.com/cran/ggstudent
+[submodule "ggsurveillance"]
+	path = ggsurveillance
+	url = https://github.com/cran/ggsurveillance
 [submodule "ggsurvey"]
 	path = ggsurvey
 	url = https://github.com/cran/ggsurvey
@@ -45200,6 +45215,9 @@
 [submodule "mtlgmm"]
 	path = mtlgmm
 	url = https://github.com/cran/mtlgmm
+[submodule "mtrank"]
+	path = mtrank
+	url = https://github.com/cran/mtrank
 [submodule "mtscr"]
 	path = mtscr
 	url = https://github.com/cran/mtscr
@@ -46217,6 +46235,9 @@
 [submodule "networkscaleup"]
 	path = networkscaleup
 	url = https://github.com/cran/networkscaleup
+[submodule "networksem"]
+	path = networksem
+	url = https://github.com/cran/networksem
 [submodule "networktools"]
 	path = networktools
 	url = https://github.com/cran/networktools
@@ -57929,6 +57950,9 @@
 [submodule "shortcuts"]
 	path = shortcuts
 	url = https://github.com/cran/shortcuts
+[submodule "shortr"]
+	path = shortr
+	url = https://github.com/cran/shortr
 [submodule "shorts"]
 	path = shorts
 	url = https://github.com/cran/shorts
@@ -65855,6 +65879,9 @@
 [submodule "xlsxjars"]
 	path = xlsxjars
 	url = https://github.com/cran/xlsxjars
+[submodule "xmap"]
+	path = xmap
+	url = https://github.com/cran/xmap
 [submodule "xmeta"]
 	path = xmeta
 	url = https://github.com/cran/xmeta
