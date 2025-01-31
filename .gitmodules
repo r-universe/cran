@@ -3686,6 +3686,9 @@
 [submodule "DDPNA"]
 	path = DDPNA
 	url = https://github.com/cran/DDPNA
+[submodule "DDPstar"]
+	path = DDPstar
+	url = https://github.com/cran/DDPstar
 [submodule "DDRTree"]
 	path = DDRTree
 	url = https://github.com/cran/DDRTree
@@ -19628,6 +19631,9 @@
 [submodule "Xplortext"]
 	path = Xplortext
 	url = https://github.com/cran/Xplortext
+[submodule "YEAB"]
+	path = YEAB
+	url = https://github.com/cran/YEAB
 [submodule "YPBP"]
 	path = YPBP
 	url = https://github.com/cran/YPBP
@@ -26021,6 +26027,9 @@
 [submodule "compas"]
 	path = compas
 	url = https://github.com/cran/compas
+[submodule "compdb"]
+	path = compdb
+	url = https://github.com/cran/compdb
 [submodule "comperank"]
 	path = comperank
 	url = https://github.com/cran/comperank
@@ -26249,6 +26258,9 @@
 [submodule "connectapi"]
 	path = connectapi
 	url = https://github.com/cran/connectapi
+[submodule "connectcreds"]
+	path = connectcreds
+	url = https://github.com/cran/connectcreds
 [submodule "connections"]
 	path = connections
 	url = https://github.com/cran/connections
@@ -32864,6 +32876,9 @@
 [submodule "fizzbuzzR"]
 	path = fizzbuzzR
 	url = https://github.com/cran/fizzbuzzR
+[submodule "fkbma"]
+	path = fkbma
+	url = https://github.com/cran/fkbma
 [submodule "flacco"]
 	path = flacco
 	url = https://github.com/cran/flacco
@@ -54692,6 +54707,9 @@
 [submodule "rmlnomogram"]
 	path = rmlnomogram
 	url = https://github.com/cran/rmlnomogram
+[submodule "rmonocypher"]
+	path = rmonocypher
+	url = https://github.com/cran/rmonocypher
 [submodule "rmoo"]
 	path = rmoo
 	url = https://github.com/cran/rmoo
@@ -60911,6 +60929,9 @@
 [submodule "survMisc"]
 	path = survMisc
 	url = https://github.com/cran/survMisc
+[submodule "survNMA"]
+	path = survNMA
+	url = https://github.com/cran/survNMA
 [submodule "survParamSim"]
 	path = survParamSim
 	url = https://github.com/cran/survParamSim
@@ -66095,6 +66116,9 @@
 [submodule "zic"]
 	path = zic
 	url = https://github.com/cran/zic
+[submodule "zigg"]
+	path = zigg
+	url = https://github.com/cran/zigg
 [submodule "zip"]
 	path = zip
 	url = https://github.com/cran/zip
