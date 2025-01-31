@@ -1709,9 +1709,6 @@
 [submodule "BifactorIndicesCalculator"]
 	path = BifactorIndicesCalculator
 	url = https://github.com/cran/BifactorIndicesCalculator
-[submodule "BigDataPE"]
-	path = BigDataPE
-	url = https://github.com/cran/BigDataPE
 [submodule "BigQuic"]
 	path = BigQuic
 	url = https://github.com/cran/BigQuic
@@ -12320,6 +12317,9 @@
 [submodule "PPtreeViz"]
 	path = PPtreeViz
 	url = https://github.com/cran/PPtreeViz
+[submodule "PPtreeregViz"]
+	path = PPtreeregViz
+	url = https://github.com/cran/PPtreeregViz
 [submodule "PQLseq"]
 	path = PQLseq
 	url = https://github.com/cran/PQLseq
@@ -45275,9 +45275,6 @@
 [submodule "multiDimBio"]
 	path = multiDimBio
 	url = https://github.com/cran/multiDimBio
-[submodule "multiDoE"]
-	path = multiDoE
-	url = https://github.com/cran/multiDoE
 [submodule "multiFANOVA"]
 	path = multiFANOVA
 	url = https://github.com/cran/multiFANOVA
@@ -57470,6 +57467,9 @@
 [submodule "shapper"]
 	path = shapper
 	url = https://github.com/cran/shapper
+[submodule "shapr"]
+	path = shapr
+	url = https://github.com/cran/shapr
 [submodule "shapviz"]
 	path = shapviz
 	url = https://github.com/cran/shapviz
@@ -60449,6 +60449,9 @@
 [submodule "stochvol"]
 	path = stochvol
 	url = https://github.com/cran/stochvol
+[submodule "stochvolTMB"]
+	path = stochvolTMB
+	url = https://github.com/cran/stochvolTMB
 [submodule "stockAnalyst"]
 	path = stockAnalyst
 	url = https://github.com/cran/stockAnalyst
