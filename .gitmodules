@@ -6140,9 +6140,6 @@
 [submodule "FuzzyStatTra"]
 	path = FuzzyStatTra
 	url = https://github.com/cran/FuzzyStatTra
-[submodule "FuzzyStatTraEOO"]
-	path = FuzzyStatTraEOO
-	url = https://github.com/cran/FuzzyStatTraEOO
 [submodule "G2Sd"]
 	path = G2Sd
 	url = https://github.com/cran/G2Sd
@@ -19304,9 +19301,6 @@
 [submodule "W3CMarkupValidator"]
 	path = W3CMarkupValidator
 	url = https://github.com/cran/W3CMarkupValidator
-[submodule "W4MRUtils"]
-	path = W4MRUtils
-	url = https://github.com/cran/W4MRUtils
 [submodule "WA"]
 	path = WA
 	url = https://github.com/cran/WA
@@ -22043,9 +22037,6 @@
 [submodule "bayesEO"]
 	path = bayesEO
 	url = https://github.com/cran/bayesEO
-[submodule "bayesGAM"]
-	path = bayesGAM
-	url = https://github.com/cran/bayesGAM
 [submodule "bayesGARCH"]
 	path = bayesGARCH
 	url = https://github.com/cran/bayesGARCH
@@ -36095,9 +36086,6 @@
 [submodule "googleAuthR"]
 	path = googleAuthR
 	url = https://github.com/cran/googleAuthR
-[submodule "googleCloudRunner"]
-	path = googleCloudRunner
-	url = https://github.com/cran/googleCloudRunner
 [submodule "googleCloudStorageR"]
 	path = googleCloudStorageR
 	url = https://github.com/cran/googleCloudStorageR
@@ -49769,9 +49757,6 @@
 [submodule "pkgload"]
 	path = pkgload
 	url = https://github.com/cran/pkgload
-[submodule "pkgmaker"]
-	path = pkgmaker
-	url = https://github.com/cran/pkgmaker
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/cran/pkgndep
@@ -62504,9 +62489,6 @@
 [submodule "tidystringdist"]
 	path = tidystringdist
 	url = https://github.com/cran/tidystringdist
-[submodule "tidysynth"]
-	path = tidysynth
-	url = https://github.com/cran/tidysynth
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/cran/tidytable
