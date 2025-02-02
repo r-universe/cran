@@ -4127,9 +4127,6 @@
 [submodule "DWLS"]
 	path = DWLS
 	url = https://github.com/cran/DWLS
-[submodule "DWLasso"]
-	path = DWLasso
-	url = https://github.com/cran/DWLasso
 [submodule "DWreg"]
 	path = DWreg
 	url = https://github.com/cran/DWreg
@@ -5357,9 +5354,6 @@
 [submodule "ExpGenetic"]
 	path = ExpGenetic
 	url = https://github.com/cran/ExpGenetic
-[submodule "ExpImage"]
-	path = ExpImage
-	url = https://github.com/cran/ExpImage
 [submodule "ExpRep"]
 	path = ExpRep
 	url = https://github.com/cran/ExpRep
@@ -12839,9 +12833,6 @@
 [submodule "PlasmaMutationDetector"]
 	path = PlasmaMutationDetector
 	url = https://github.com/cran/PlasmaMutationDetector
-[submodule "PlasmaMutationDetector2"]
-	path = PlasmaMutationDetector2
-	url = https://github.com/cran/PlasmaMutationDetector2
 [submodule "Plasmidprofiler"]
 	path = Plasmidprofiler
 	url = https://github.com/cran/Plasmidprofiler
@@ -18734,9 +18725,6 @@
 [submodule "TransPhylo"]
 	path = TransPhylo
 	url = https://github.com/cran/TransPhylo
-[submodule "TransProR"]
-	path = TransProR
-	url = https://github.com/cran/TransProR
 [submodule "TransTGGM"]
 	path = TransTGGM
 	url = https://github.com/cran/TransTGGM
@@ -24428,9 +24416,6 @@
 [submodule "ccmReportR"]
 	path = ccmReportR
 	url = https://github.com/cran/ccmReportR
-[submodule "ccml"]
-	path = ccml
-	url = https://github.com/cran/ccml
 [submodule "ccmm"]
 	path = ccmm
 	url = https://github.com/cran/ccmm
@@ -25769,9 +25754,6 @@
 [submodule "cohorttools"]
 	path = cohorttools
 	url = https://github.com/cran/cohorttools
-[submodule "coil"]
-	path = coil
-	url = https://github.com/cran/coil
 [submodule "coin"]
 	path = coin
 	url = https://github.com/cran/coin
@@ -26054,9 +26036,6 @@
 [submodule "completejourney"]
 	path = completejourney
 	url = https://github.com/cran/completejourney
-[submodule "complex"]
-	path = complex
-	url = https://github.com/cran/complex
 [submodule "complexNet"]
 	path = complexNet
 	url = https://github.com/cran/complexNet
@@ -27794,9 +27773,6 @@
 [submodule "dartR.base"]
 	path = dartR.base
 	url = https://github.com/cran/dartR.base
-[submodule "dartR.captive"]
-	path = dartR.captive
-	url = https://github.com/cran/dartR.captive
 [submodule "dartR.data"]
 	path = dartR.data
 	url = https://github.com/cran/dartR.data
@@ -29954,9 +29930,6 @@
 [submodule "dynatopGIS"]
 	path = dynatopGIS
 	url = https://github.com/cran/dynatopGIS
-[submodule "dyncomp"]
-	path = dyncomp
-	url = https://github.com/cran/dyncomp
 [submodule "dyndimred"]
 	path = dyndimred
 	url = https://github.com/cran/dyndimred
@@ -34583,9 +34556,6 @@
 [submodule "gensvm"]
 	path = gensvm
 	url = https://github.com/cran/gensvm
-[submodule "genular"]
-	path = genular
-	url = https://github.com/cran/genular
 [submodule "geoAr"]
 	path = geoAr
 	url = https://github.com/cran/geoAr
@@ -38009,9 +37979,6 @@
 [submodule "hyperoverlap"]
 	path = hyperoverlap
 	url = https://github.com/cran/hyperoverlap
-[submodule "hypersampleplan"]
-	path = hypersampleplan
-	url = https://github.com/cran/hypersampleplan
 [submodule "hypervolume"]
 	path = hypervolume
 	url = https://github.com/cran/hypervolume
@@ -38342,9 +38309,6 @@
 [submodule "icr"]
 	path = icr
 	url = https://github.com/cran/icr
-[submodule "icsw"]
-	path = icsw
-	url = https://github.com/cran/icsw
 [submodule "idar"]
 	path = idar
 	url = https://github.com/cran/idar
@@ -40949,9 +40913,6 @@
 [submodule "legendry"]
 	path = legendry
 	url = https://github.com/cran/legendry
-[submodule "legion"]
-	path = legion
-	url = https://github.com/cran/legion
 [submodule "legislatoR"]
 	path = legislatoR
 	url = https://github.com/cran/legislatoR
@@ -46412,9 +46373,6 @@
 [submodule "nimble"]
 	path = nimble
 	url = https://github.com/cran/nimble
-[submodule "nimbleAPT"]
-	path = nimbleAPT
-	url = https://github.com/cran/nimbleAPT
 [submodule "nimbleCarbon"]
 	path = nimbleCarbon
 	url = https://github.com/cran/nimbleCarbon
@@ -47438,9 +47396,6 @@
 [submodule "oncrawlR"]
 	path = oncrawlR
 	url = https://github.com/cran/oncrawlR
-[submodule "ondisc"]
-	path = ondisc
-	url = https://github.com/cran/ondisc
 [submodule "oneclust"]
 	path = oneclust
 	url = https://github.com/cran/oneclust
@@ -49238,9 +49193,6 @@
 [submodule "pez"]
 	path = pez
 	url = https://github.com/cran/pez
-[submodule "pfa"]
-	path = pfa
-	url = https://github.com/cran/pfa
 [submodule "pfica"]
 	path = pfica
 	url = https://github.com/cran/pfica
