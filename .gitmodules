@@ -7457,6 +7457,9 @@
 [submodule "HeritSeq"]
 	path = HeritSeq
 	url = https://github.com/cran/HeritSeq
+[submodule "HetSeq"]
+	path = HetSeq
+	url = https://github.com/cran/HetSeq
 [submodule "HeterFunctionalData"]
 	path = HeterFunctionalData
 	url = https://github.com/cran/HeterFunctionalData
@@ -21509,6 +21512,9 @@
 [submodule "auth0"]
 	path = auth0
 	url = https://github.com/cran/auth0
+[submodule "authoritative"]
+	path = authoritative
+	url = https://github.com/cran/authoritative
 [submodule "auto.pca"]
 	path = auto.pca
 	url = https://github.com/cran/auto.pca
@@ -41135,6 +41141,9 @@
 [submodule "lifx"]
 	path = lifx
 	url = https://github.com/cran/lifx
+[submodule "lightAUC"]
+	path = lightAUC
+	url = https://github.com/cran/lightAUC
 [submodule "lightgbm"]
 	path = lightgbm
 	url = https://github.com/cran/lightgbm
@@ -52916,6 +52925,9 @@
 [submodule "raws.profile"]
 	path = raws.profile
 	url = https://github.com/cran/raws.profile
+[submodule "raybevel"]
+	path = raybevel
+	url = https://github.com/cran/raybevel
 [submodule "rayimage"]
 	path = rayimage
 	url = https://github.com/cran/rayimage
@@ -57821,6 +57833,9 @@
 [submodule "shinyjs"]
 	path = shinyjs
 	url = https://github.com/cran/shinyjs
+[submodule "shinykanban"]
+	path = shinykanban
+	url = https://github.com/cran/shinykanban
 [submodule "shinylight"]
 	path = shinylight
 	url = https://github.com/cran/shinylight
@@ -62789,6 +62804,9 @@
 [submodule "tmap"]
 	path = tmap
 	url = https://github.com/cran/tmap
+[submodule "tmap.cartogram"]
+	path = tmap.cartogram
+	url = https://github.com/cran/tmap.cartogram
 [submodule "tmaptools"]
 	path = tmaptools
 	url = https://github.com/cran/tmaptools
