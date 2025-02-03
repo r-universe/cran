@@ -10736,6 +10736,9 @@
 [submodule "MplusAutomation"]
 	path = MplusAutomation
 	url = https://github.com/cran/MplusAutomation
+[submodule "MplusLGM"]
+	path = MplusLGM
+	url = https://github.com/cran/MplusLGM
 [submodule "MplusTrees"]
 	path = MplusTrees
 	url = https://github.com/cran/MplusTrees
@@ -11519,6 +11522,9 @@
 [submodule "OPI"]
 	path = OPI
 	url = https://github.com/cran/OPI
+[submodule "OPL"]
+	path = OPL
+	url = https://github.com/cran/OPL
 [submodule "OPSR"]
 	path = OPSR
 	url = https://github.com/cran/OPSR
@@ -21554,6 +21560,9 @@
 [submodule "autoimage"]
 	path = autoimage
 	url = https://github.com/cran/autoimage
+[submodule "autoimport"]
+	path = autoimport
+	url = https://github.com/cran/autoimport
 [submodule "autokeras"]
 	path = autokeras
 	url = https://github.com/cran/autokeras
@@ -35606,6 +35615,9 @@
 [submodule "gim"]
 	path = gim
 	url = https://github.com/cran/gim
+[submodule "gimap"]
+	path = gimap
+	url = https://github.com/cran/gimap
 [submodule "gimme"]
 	path = gimme
 	url = https://github.com/cran/gimme
@@ -54023,6 +54035,9 @@
 [submodule "resumer"]
 	path = resumer
 	url = https://github.com/cran/resumer
+[submodule "resumiR"]
+	path = resumiR
+	url = https://github.com/cran/resumiR
 [submodule "retel"]
 	path = retel
 	url = https://github.com/cran/retel
@@ -65666,6 +65681,9 @@
 [submodule "write.snns"]
 	path = write.snns
 	url = https://github.com/cran/write.snns
+[submodule "writer"]
+	path = writer
+	url = https://github.com/cran/writer
 [submodule "writexl"]
 	path = writexl
 	url = https://github.com/cran/writexl
