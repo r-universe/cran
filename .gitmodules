@@ -9986,6 +9986,9 @@
 [submodule "MRReg"]
 	path = MRReg
 	url = https://github.com/cran/MRReg
+[submodule "MRS"]
+	path = MRS
+	url = https://github.com/cran/MRS
 [submodule "MRTAnalysis"]
 	path = MRTAnalysis
 	url = https://github.com/cran/MRTAnalysis
@@ -13898,6 +13901,9 @@
 [submodule "RFormatter"]
 	path = RFormatter
 	url = https://github.com/cran/RFormatter
+[submodule "RFplus"]
+	path = RFplus
+	url = https://github.com/cran/RFplus
 [submodule "RFpredInterval"]
 	path = RFpredInterval
 	url = https://github.com/cran/RFpredInterval
@@ -26060,6 +26066,9 @@
 [submodule "completejourney"]
 	path = completejourney
 	url = https://github.com/cran/completejourney
+[submodule "complex"]
+	path = complex
+	url = https://github.com/cran/complex
 [submodule "complexNet"]
 	path = complexNet
 	url = https://github.com/cran/complexNet
@@ -32159,6 +32168,9 @@
 [submodule "fastPLS"]
 	path = fastPLS
 	url = https://github.com/cran/fastPLS
+[submodule "fastQR"]
+	path = fastQR
+	url = https://github.com/cran/fastQR
 [submodule "fastR2"]
 	path = fastR2
 	url = https://github.com/cran/fastR2
@@ -46517,6 +46529,9 @@
 [submodule "nloptr"]
 	path = nloptr
 	url = https://github.com/cran/nloptr
+[submodule "nlpembeds"]
+	path = nlpembeds
+	url = https://github.com/cran/nlpembeds
 [submodule "nlpred"]
 	path = nlpred
 	url = https://github.com/cran/nlpred
@@ -57521,6 +57536,9 @@
 [submodule "sharpr2"]
 	path = sharpr2
 	url = https://github.com/cran/sharpr2
+[submodule "sharpshootR"]
+	path = sharpshootR
+	url = https://github.com/cran/sharpshootR
 [submodule "sharx"]
 	path = sharx
 	url = https://github.com/cran/sharx
