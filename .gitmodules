@@ -1388,6 +1388,9 @@
 [submodule "BayesARIMAX"]
 	path = BayesARIMAX
 	url = https://github.com/cran/BayesARIMAX
+[submodule "BayesAT"]
+	path = BayesAT
+	url = https://github.com/cran/BayesAT
 [submodule "BayesBEKK"]
 	path = BayesBEKK
 	url = https://github.com/cran/BayesBEKK
@@ -2858,6 +2861,9 @@
 [submodule "CircNNTSR"]
 	path = CircNNTSR
 	url = https://github.com/cran/CircNNTSR
+[submodule "CircNNTSRSymmetric"]
+	path = CircNNTSRSymmetric
+	url = https://github.com/cran/CircNNTSRSymmetric
 [submodule "CircNNTSRmult"]
 	path = CircNNTSRmult
 	url = https://github.com/cran/CircNNTSRmult
@@ -16652,6 +16658,9 @@
 [submodule "SPEV"]
 	path = SPEV
 	url = https://github.com/cran/SPEV
+[submodule "SPIChanges"]
+	path = SPIChanges
+	url = https://github.com/cran/SPIChanges
 [submodule "SPIGA"]
 	path = SPIGA
 	url = https://github.com/cran/SPIGA
@@ -19589,6 +19598,9 @@
 [submodule "WormTensor"]
 	path = WormTensor
 	url = https://github.com/cran/WormTensor
+[submodule "WpProj"]
+	path = WpProj
+	url = https://github.com/cran/WpProj
 [submodule "WrensBookshelf"]
 	path = WrensBookshelf
 	url = https://github.com/cran/WrensBookshelf
