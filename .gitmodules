@@ -9908,6 +9908,9 @@
 [submodule "MOTE"]
 	path = MOTE
 	url = https://github.com/cran/MOTE
+[submodule "MOsemiind"]
+	path = MOsemiind
+	url = https://github.com/cran/MOsemiind
 [submodule "MPBoost"]
 	path = MPBoost
 	url = https://github.com/cran/MPBoost
@@ -16697,6 +16700,9 @@
 [submodule "SQL"]
 	path = SQL
 	url = https://github.com/cran/SQL
+[submodule "SQLFormatteR"]
+	path = SQLFormatteR
+	url = https://github.com/cran/SQLFormatteR
 [submodule "SQLove"]
 	path = SQLove
 	url = https://github.com/cran/SQLove
@@ -40382,6 +40388,9 @@
 [submodule "kpeaks"]
 	path = kpeaks
 	url = https://github.com/cran/kpeaks
+[submodule "kpiwidget"]
+	path = kpiwidget
+	url = https://github.com/cran/kpiwidget
 [submodule "kpmt"]
 	path = kpmt
 	url = https://github.com/cran/kpmt
@@ -54674,6 +54683,9 @@
 [submodule "rmcfs"]
 	path = rmcfs
 	url = https://github.com/cran/rmcfs
+[submodule "rmcmc"]
+	path = rmcmc
+	url = https://github.com/cran/rmcmc
 [submodule "rmcorr"]
 	path = rmcorr
 	url = https://github.com/cran/rmcorr
@@ -57620,6 +57632,9 @@
 [submodule "shiny.telemetry"]
 	path = shiny.telemetry
 	url = https://github.com/cran/shiny.telemetry
+[submodule "shiny2docker"]
+	path = shiny2docker
+	url = https://github.com/cran/shiny2docker
 [submodule "shinyAce"]
 	path = shinyAce
 	url = https://github.com/cran/shinyAce
