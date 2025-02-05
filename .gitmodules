@@ -7535,6 +7535,9 @@
 [submodule "HonestDiD"]
 	path = HonestDiD
 	url = https://github.com/cran/HonestDiD
+[submodule "Horsekicks"]
+	path = Horsekicks
+	url = https://github.com/cran/Horsekicks
 [submodule "HospitalNetwork"]
 	path = HospitalNetwork
 	url = https://github.com/cran/HospitalNetwork
@@ -42719,6 +42722,9 @@
 [submodule "matrixset"]
 	path = matrixset
 	url = https://github.com/cran/matrixset
+[submodule "matriz"]
+	path = matriz
+	url = https://github.com/cran/matriz
 [submodule "matsbyname"]
 	path = matsbyname
 	url = https://github.com/cran/matsbyname
