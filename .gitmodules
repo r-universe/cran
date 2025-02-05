@@ -61880,6 +61880,9 @@
 [submodule "tergmLite"]
 	path = tergmLite
 	url = https://github.com/cran/tergmLite
+[submodule "tergo"]
+	path = tergo
+	url = https://github.com/cran/tergo
 [submodule "term"]
 	path = term
 	url = https://github.com/cran/term
