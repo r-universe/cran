@@ -4442,6 +4442,9 @@
 [submodule "DisaggregateTS"]
 	path = DisaggregateTS
 	url = https://github.com/cran/DisaggregateTS
+[submodule "DiscreteDLM"]
+	path = DiscreteDLM
+	url = https://github.com/cran/DiscreteDLM
 [submodule "DiscreteDatasets"]
 	path = DiscreteDatasets
 	url = https://github.com/cran/DiscreteDatasets
@@ -4691,6 +4694,9 @@
 [submodule "EDOtrans"]
 	path = EDOtrans
 	url = https://github.com/cran/EDOtrans
+[submodule "EEAaq"]
+	path = EEAaq
+	url = https://github.com/cran/EEAaq
 [submodule "EEM"]
 	path = EEM
 	url = https://github.com/cran/EEM
@@ -39677,6 +39683,9 @@
 [submodule "jeek"]
 	path = jeek
 	url = https://github.com/cran/jeek
+[submodule "jellyfisher"]
+	path = jellyfisher
+	url = https://github.com/cran/jellyfisher
 [submodule "jenga"]
 	path = jenga
 	url = https://github.com/cran/jenga
@@ -47486,6 +47495,9 @@
 [submodule "onehot"]
 	path = onehot
 	url = https://github.com/cran/onehot
+[submodule "oneinfl"]
+	path = oneinfl
+	url = https://github.com/cran/oneinfl
 [submodule "onelogin"]
 	path = onelogin
 	url = https://github.com/cran/onelogin
@@ -59681,6 +59693,9 @@
 [submodule "spgwr"]
 	path = spgwr
 	url = https://github.com/cran/spgwr
+[submodule "sphereML"]
+	path = sphereML
+	url = https://github.com/cran/sphereML
 [submodule "spheredata"]
 	path = spheredata
 	url = https://github.com/cran/spheredata
@@ -61610,6 +61625,9 @@
 [submodule "talkr"]
 	path = talkr
 	url = https://github.com/cran/talkr
+[submodule "tall"]
+	path = tall
+	url = https://github.com/cran/tall
 [submodule "tame"]
 	path = tame
 	url = https://github.com/cran/tame
