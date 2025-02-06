@@ -18032,6 +18032,9 @@
 [submodule "SynchWave"]
 	path = SynchWave
 	url = https://github.com/cran/SynchWave
+[submodule "SynergyLMM"]
+	path = SynergyLMM
+	url = https://github.com/cran/SynergyLMM
 [submodule "Synth"]
 	path = Synth
 	url = https://github.com/cran/Synth
@@ -65153,6 +65156,9 @@
 [submodule "waspr"]
 	path = waspr
 	url = https://github.com/cran/waspr
+[submodule "watcher"]
+	path = watcher
+	url = https://github.com/cran/watcher
 [submodule "waterData"]
 	path = waterData
 	url = https://github.com/cran/waterData
