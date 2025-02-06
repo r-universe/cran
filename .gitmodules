@@ -51317,6 +51317,9 @@
 [submodule "pseudo"]
 	path = pseudo
 	url = https://github.com/cran/pseudo
+[submodule "pseudoCure"]
+	path = pseudoCure
+	url = https://github.com/cran/pseudoCure
 [submodule "pseudobibeR"]
 	path = pseudobibeR
 	url = https://github.com/cran/pseudobibeR
