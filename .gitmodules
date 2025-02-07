@@ -9431,6 +9431,9 @@
 [submodule "MBMethPred"]
 	path = MBMethPred
 	url = https://github.com/cran/MBMethPred
+[submodule "MBNMAdose"]
+	path = MBNMAdose
+	url = https://github.com/cran/MBNMAdose
 [submodule "MBNMAtime"]
 	path = MBNMAtime
 	url = https://github.com/cran/MBNMAtime
@@ -48536,6 +48539,9 @@
 [submodule "paramlink2"]
 	path = paramlink2
 	url = https://github.com/cran/paramlink2
+[submodule "params"]
+	path = params
+	url = https://github.com/cran/params
 [submodule "paramsim"]
 	path = paramsim
 	url = https://github.com/cran/paramsim
