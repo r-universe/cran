@@ -2624,6 +2624,9 @@
 [submodule "CUSUMdesign"]
 	path = CUSUMdesign
 	url = https://github.com/cran/CUSUMdesign
+[submodule "CUtools"]
+	path = CUtools
+	url = https://github.com/cran/CUtools
 [submodule "CVD"]
 	path = CVD
 	url = https://github.com/cran/CVD
@@ -16895,6 +16898,9 @@
 [submodule "SUSY"]
 	path = SUSY
 	url = https://github.com/cran/SUSY
+[submodule "SVDMx"]
+	path = SVDMx
+	url = https://github.com/cran/SVDMx
 [submodule "SVDNF"]
 	path = SVDNF
 	url = https://github.com/cran/SVDNF
@@ -36101,6 +36107,9 @@
 [submodule "gofgamma"]
 	path = gofgamma
 	url = https://github.com/cran/gofgamma
+[submodule "gofigR"]
+	path = gofigR
+	url = https://github.com/cran/gofigR
 [submodule "gofreg"]
 	path = gofreg
 	url = https://github.com/cran/gofreg
