@@ -26954,6 +26954,9 @@
 [submodule "cppcheckR"]
 	path = cppcheckR
 	url = https://github.com/cran/cppcheckR
+[submodule "cppcontainers"]
+	path = cppcontainers
+	url = https://github.com/cran/cppcontainers
 [submodule "cppdoubles"]
 	path = cppdoubles
 	url = https://github.com/cran/cppdoubles
