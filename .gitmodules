@@ -2270,6 +2270,9 @@
 [submodule "CICI"]
 	path = CICI
 	url = https://github.com/cran/CICI
+[submodule "CIDER"]
+	path = CIDER
+	url = https://github.com/cran/CIDER
 [submodule "CIEE"]
 	path = CIEE
 	url = https://github.com/cran/CIEE
@@ -9683,6 +9686,9 @@
 [submodule "MIAmaxent"]
 	path = MIAmaxent
 	url = https://github.com/cran/MIAmaxent
+[submodule "MIC"]
+	path = MIC
+	url = https://github.com/cran/MIC
 [submodule "MICsplines"]
 	path = MICsplines
 	url = https://github.com/cran/MICsplines
@@ -17930,9 +17936,6 @@
 [submodule "SurfaceTortoise"]
 	path = SurfaceTortoise
 	url = https://github.com/cran/SurfaceTortoise
-[submodule "Surrogate"]
-	path = Surrogate
-	url = https://github.com/cran/Surrogate
 [submodule "SurrogateBMA"]
 	path = SurrogateBMA
 	url = https://github.com/cran/SurrogateBMA
@@ -25793,6 +25796,9 @@
 [submodule "coga"]
 	path = coga
 	url = https://github.com/cran/coga
+[submodule "cogirt"]
+	path = cogirt
+	url = https://github.com/cran/cogirt
 [submodule "coglasso"]
 	path = coglasso
 	url = https://github.com/cran/coglasso
@@ -40397,6 +40403,9 @@
 [submodule "kokudosuuchi"]
 	path = kokudosuuchi
 	url = https://github.com/cran/kokudosuuchi
+[submodule "kollaR"]
+	path = kollaR
+	url = https://github.com/cran/kollaR
 [submodule "komaletter"]
 	path = komaletter
 	url = https://github.com/cran/komaletter
@@ -56171,6 +56180,9 @@
 [submodule "saens"]
 	path = saens
 	url = https://github.com/cran/saens
+[submodule "saery"]
+	path = saery
+	url = https://github.com/cran/saery
 [submodule "safejoin"]
 	path = safejoin
 	url = https://github.com/cran/safejoin
@@ -60560,6 +60572,9 @@
 [submodule "stochQN"]
 	path = stochQN
 	url = https://github.com/cran/stochQN
+[submodule "stochtree"]
+	path = stochtree
+	url = https://github.com/cran/stochtree
 [submodule "stochvol"]
 	path = stochvol
 	url = https://github.com/cran/stochvol
@@ -61703,6 +61718,9 @@
 [submodule "taxalight"]
 	path = taxalight
 	url = https://github.com/cran/taxalight
+[submodule "taxize"]
+	path = taxize
+	url = https://github.com/cran/taxize
 [submodule "taxlist"]
 	path = taxlist
 	url = https://github.com/cran/taxlist
