@@ -50348,6 +50348,9 @@
 [submodule "polymapR"]
 	path = polymapR
 	url = https://github.com/cran/polymapR
+[submodule "polymatching"]
+	path = polymatching
+	url = https://github.com/cran/polymatching
 [submodule "polynom"]
 	path = polynom
 	url = https://github.com/cran/polynom
