@@ -34898,6 +34898,9 @@
 [submodule "gesttools"]
 	path = gesttools
 	url = https://github.com/cran/gesttools
+[submodule "getCRUCLdata"]
+	path = getCRUCLdata
+	url = https://github.com/cran/getCRUCLdata
 [submodule "getDTeval"]
 	path = getDTeval
 	url = https://github.com/cran/getDTeval
