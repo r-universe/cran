@@ -17942,6 +17942,9 @@
 [submodule "SurfaceTortoise"]
 	path = SurfaceTortoise
 	url = https://github.com/cran/SurfaceTortoise
+[submodule "Surrogate"]
+	path = Surrogate
+	url = https://github.com/cran/Surrogate
 [submodule "SurrogateBMA"]
 	path = SurrogateBMA
 	url = https://github.com/cran/SurrogateBMA
