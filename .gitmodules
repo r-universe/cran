@@ -10577,9 +10577,6 @@
 [submodule "MiscMetabar"]
 	path = MiscMetabar
 	url = https://github.com/cran/MiscMetabar
-[submodule "MissCP"]
-	path = MissCP
-	url = https://github.com/cran/MissCP
 [submodule "MissMech"]
 	path = MissMech
 	url = https://github.com/cran/MissMech
@@ -19106,15 +19103,9 @@
 [submodule "VAR.spec"]
 	path = VAR.spec
 	url = https://github.com/cran/VAR.spec
-[submodule "VARDetect"]
-	path = VARDetect
-	url = https://github.com/cran/VARDetect
 [submodule "VARSELECTEXPOSURE"]
 	path = VARSELECTEXPOSURE
 	url = https://github.com/cran/VARSELECTEXPOSURE
-[submodule "VARcpDetectOnline"]
-	path = VARcpDetectOnline
-	url = https://github.com/cran/VARcpDetectOnline
 [submodule "VARshrink"]
 	path = VARshrink
 	url = https://github.com/cran/VARshrink
@@ -34892,9 +34883,6 @@
 [submodule "gesttools"]
 	path = gesttools
 	url = https://github.com/cran/gesttools
-[submodule "getCRUCLdata"]
-	path = getCRUCLdata
-	url = https://github.com/cran/getCRUCLdata
 [submodule "getDTeval"]
 	path = getDTeval
 	url = https://github.com/cran/getDTeval
@@ -49649,9 +49637,6 @@
 [submodule "picante"]
 	path = picante
 	url = https://github.com/cran/picante
-[submodule "picasso"]
-	path = picasso
-	url = https://github.com/cran/picasso
 [submodule "picker"]
 	path = picker
 	url = https://github.com/cran/picker
@@ -59432,9 +59417,6 @@
 [submodule "sparsesvd"]
 	path = sparsesvd
 	url = https://github.com/cran/sparsesvd
-[submodule "sparsevar"]
-	path = sparsevar
-	url = https://github.com/cran/sparsevar
 [submodule "sparsevb"]
 	path = sparsevb
 	url = https://github.com/cran/sparsevb
