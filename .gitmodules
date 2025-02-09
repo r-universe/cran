@@ -30722,9 +30722,6 @@
 [submodule "elections"]
 	path = elections
 	url = https://github.com/cran/elections
-[submodule "elections.dtree"]
-	path = elections.dtree
-	url = https://github.com/cran/elections.dtree
 [submodule "electionsBR"]
 	path = electionsBR
 	url = https://github.com/cran/electionsBR
@@ -31079,9 +31076,6 @@
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/cran/epigraphdb
-[submodule "epigrowthfit"]
-	path = epigrowthfit
-	url = https://github.com/cran/epigrowthfit
 [submodule "epikit"]
 	path = epikit
 	url = https://github.com/cran/epikit
@@ -50855,9 +50849,6 @@
 [submodule "preference"]
 	path = preference
 	url = https://github.com/cran/preference
-[submodule "prefio"]
-	path = prefio
-	url = https://github.com/cran/prefio
 [submodule "prefmod"]
 	path = prefmod
 	url = https://github.com/cran/prefmod
