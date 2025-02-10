@@ -2390,6 +2390,9 @@
 [submodule "CMapViz"]
 	path = CMapViz
 	url = https://github.com/cran/CMapViz
+[submodule "CMatching"]
+	path = CMatching
+	url = https://github.com/cran/CMatching
 [submodule "CMplot"]
 	path = CMplot
 	url = https://github.com/cran/CMplot
@@ -5816,6 +5819,9 @@
 [submodule "FastRWeb"]
 	path = FastRWeb
 	url = https://github.com/cran/FastRWeb
+[submodule "FastRet"]
+	path = FastRet
+	url = https://github.com/cran/FastRet
 [submodule "FastSF"]
 	path = FastSF
 	url = https://github.com/cran/FastSF
@@ -58121,6 +58127,9 @@
 [submodule "siebanxicor"]
 	path = siebanxicor
 	url = https://github.com/cran/siebanxicor
+[submodule "siera"]
+	path = siera
+	url = https://github.com/cran/siera
 [submodule "sievePH"]
 	path = sievePH
 	url = https://github.com/cran/sievePH
