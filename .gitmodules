@@ -31223,9 +31223,6 @@
 [submodule "erer"]
 	path = erer
 	url = https://github.com/cran/erer
-[submodule "erfe"]
-	path = erfe
-	url = https://github.com/cran/erfe
 [submodule "ergMargins"]
 	path = ergMargins
 	url = https://github.com/cran/ergMargins
@@ -43931,9 +43928,6 @@
 [submodule "minimap"]
 	path = minimap
 	url = https://github.com/cran/minimap
-[submodule "minimapR"]
-	path = minimapR
-	url = https://github.com/cran/minimapR
 [submodule "minimax"]
 	path = minimax
 	url = https://github.com/cran/minimax
@@ -60005,9 +59999,6 @@
 [submodule "sregsurvey"]
 	path = sregsurvey
 	url = https://github.com/cran/sregsurvey
-[submodule "srlTS"]
-	path = srlTS
-	url = https://github.com/cran/srlTS
 [submodule "srlars"]
 	path = srlars
 	url = https://github.com/cran/srlars
