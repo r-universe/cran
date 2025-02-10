@@ -1436,6 +1436,9 @@
 [submodule "BayesDissolution"]
 	path = BayesDissolution
 	url = https://github.com/cran/BayesDissolution
+[submodule "BayesERtools"]
+	path = BayesERtools
+	url = https://github.com/cran/BayesERtools
 [submodule "BayesESS"]
 	path = BayesESS
 	url = https://github.com/cran/BayesESS
@@ -18383,6 +18386,9 @@
 [submodule "TSHRC"]
 	path = TSHRC
 	url = https://github.com/cran/TSHRC
+[submodule "TSLA"]
+	path = TSLA
+	url = https://github.com/cran/TSLA
 [submodule "TSLSTM"]
 	path = TSLSTM
 	url = https://github.com/cran/TSLSTM
@@ -50612,6 +50618,9 @@
 [submodule "powerGWASinteraction"]
 	path = powerGWASinteraction
 	url = https://github.com/cran/powerGWASinteraction
+[submodule "powerHE"]
+	path = powerHE
+	url = https://github.com/cran/powerHE
 [submodule "powerLATE"]
 	path = powerLATE
 	url = https://github.com/cran/powerLATE
