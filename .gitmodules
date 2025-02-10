@@ -54152,6 +54152,9 @@
 [submodule "retimer"]
 	path = retimer
 	url = https://github.com/cran/retimer
+[submodule "retmort"]
+	path = retmort
+	url = https://github.com/cran/retmort
 [submodule "retriever"]
 	path = retriever
 	url = https://github.com/cran/retriever
