@@ -57092,9 +57092,6 @@
 [submodule "seeds"]
 	path = seeds
 	url = https://github.com/cran/seeds
-[submodule "seeker"]
-	path = seeker
-	url = https://github.com/cran/seeker
 [submodule "seer"]
 	path = seer
 	url = https://github.com/cran/seer
