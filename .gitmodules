@@ -5999,6 +5999,9 @@
 [submodule "ForIT"]
 	path = ForIT
 	url = https://github.com/cran/ForIT
+[submodule "ForLion"]
+	path = ForLion
+	url = https://github.com/cran/ForLion
 [submodule "ForagingOrg"]
 	path = ForagingOrg
 	url = https://github.com/cran/ForagingOrg
@@ -13496,6 +13499,9 @@
 [submodule "Qval"]
 	path = Qval
 	url = https://github.com/cran/Qval
+[submodule "R.AlphA.Home"]
+	path = R.AlphA.Home
+	url = https://github.com/cran/R.AlphA.Home
 [submodule "R.cache"]
 	path = R.cache
 	url = https://github.com/cran/R.cache
@@ -30353,6 +30359,9 @@
 [submodule "echor"]
 	path = echor
 	url = https://github.com/cran/echor
+[submodule "echos"]
+	path = echos
+	url = https://github.com/cran/echos
 [submodule "ecic"]
 	path = ecic
 	url = https://github.com/cran/ecic
