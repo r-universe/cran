@@ -37241,6 +37241,9 @@
 [submodule "hds"]
 	path = hds
 	url = https://github.com/cran/hds
+[submodule "hdsvm"]
+	path = hdsvm
+	url = https://github.com/cran/hdsvm
 [submodule "hdthreshold"]
 	path = hdthreshold
 	url = https://github.com/cran/hdthreshold
