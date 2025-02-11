@@ -12698,6 +12698,9 @@
 [submodule "PathwaySpace"]
 	path = PathwaySpace
 	url = https://github.com/cran/PathwaySpace
+[submodule "PatientLevelPrediction"]
+	path = PatientLevelPrediction
+	url = https://github.com/cran/PatientLevelPrediction
 [submodule "PatientProfiles"]
 	path = PatientProfiles
 	url = https://github.com/cran/PatientProfiles
@@ -23885,6 +23888,9 @@
 [submodule "busdater"]
 	path = busdater
 	url = https://github.com/cran/busdater
+[submodule "bushtucker"]
+	path = bushtucker
+	url = https://github.com/cran/bushtucker
 [submodule "businessPlanR"]
 	path = businessPlanR
 	url = https://github.com/cran/businessPlanR
