@@ -7835,6 +7835,9 @@
 [submodule "IIProductionUnknown"]
 	path = IIProductionUnknown
 	url = https://github.com/cran/IIProductionUnknown
+[submodule "IIS"]
+	path = IIS
+	url = https://github.com/cran/IIS
 [submodule "IIVpredictor"]
 	path = IIVpredictor
 	url = https://github.com/cran/IIVpredictor
@@ -8045,6 +8048,9 @@
 [submodule "IVCor"]
 	path = IVCor
 	url = https://github.com/cran/IVCor
+[submodule "IVPP"]
+	path = IVPP
+	url = https://github.com/cran/IVPP
 [submodule "IVYplot"]
 	path = IVYplot
 	url = https://github.com/cran/IVYplot
@@ -34298,6 +34304,9 @@
 [submodule "gaussquad"]
 	path = gaussquad
 	url = https://github.com/cran/gaussquad
+[submodule "gaussratiovegind"]
+	path = gaussratiovegind
+	url = https://github.com/cran/gaussratiovegind
 [submodule "gawdis"]
 	path = gawdis
 	url = https://github.com/cran/gawdis
@@ -43388,6 +43397,9 @@
 [submodule "metacart"]
 	path = metacart
 	url = https://github.com/cran/metacart
+[submodule "metacoder"]
+	path = metacoder
+	url = https://github.com/cran/metacoder
 [submodule "metacom"]
 	path = metacom
 	url = https://github.com/cran/metacom
@@ -43496,6 +43508,9 @@
 [submodule "metaprotr"]
 	path = metaprotr
 	url = https://github.com/cran/metaprotr
+[submodule "metaquant"]
+	path = metaquant
+	url = https://github.com/cran/metaquant
 [submodule "metarep"]
 	path = metarep
 	url = https://github.com/cran/metarep
@@ -48629,6 +48644,9 @@
 [submodule "parquetize"]
 	path = parquetize
 	url = https://github.com/cran/parquetize
+[submodule "parseLatex"]
+	path = parseLatex
+	url = https://github.com/cran/parseLatex
 [submodule "parseRPDR"]
 	path = parseRPDR
 	url = https://github.com/cran/parseRPDR
@@ -52040,6 +52058,9 @@
 [submodule "quRan"]
 	path = quRan
 	url = https://github.com/cran/quRan
+[submodule "quadVAR"]
+	path = quadVAR
+	url = https://github.com/cran/quadVAR
 [submodule "quadcleanR"]
 	path = quadcleanR
 	url = https://github.com/cran/quadcleanR
@@ -56741,6 +56762,9 @@
 [submodule "schumaker"]
 	path = schumaker
 	url = https://github.com/cran/schumaker
+[submodule "schwabr"]
+	path = schwabr
+	url = https://github.com/cran/schwabr
 [submodule "sciRmdTheme"]
 	path = sciRmdTheme
 	url = https://github.com/cran/sciRmdTheme
@@ -60761,6 +60785,9 @@
 [submodule "streambugs"]
 	path = streambugs
 	url = https://github.com/cran/streambugs
+[submodule "streamy"]
+	path = streamy
+	url = https://github.com/cran/streamy
 [submodule "streetscape"]
 	path = streetscape
 	url = https://github.com/cran/streetscape
