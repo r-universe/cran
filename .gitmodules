@@ -9092,6 +9092,9 @@
 [submodule "LeMaRns"]
 	path = LeMaRns
 	url = https://github.com/cran/LeMaRns
+[submodule "LeadSense"]
+	path = LeadSense
+	url = https://github.com/cran/LeadSense
 [submodule "LeafArea"]
 	path = LeafArea
 	url = https://github.com/cran/LeafArea
@@ -34703,6 +34706,9 @@
 [submodule "geocmeans"]
 	path = geocmeans
 	url = https://github.com/cran/geocmeans
+[submodule "geocodebr"]
+	path = geocodebr
+	url = https://github.com/cran/geocodebr
 [submodule "geocomplexity"]
 	path = geocomplexity
 	url = https://github.com/cran/geocomplexity
@@ -42419,6 +42425,9 @@
 [submodule "manydata"]
 	path = manydata
 	url = https://github.com/cran/manydata
+[submodule "manydist"]
+	path = manydist
+	url = https://github.com/cran/manydist
 [submodule "manymodelr"]
 	path = manymodelr
 	url = https://github.com/cran/manymodelr
@@ -55136,6 +55145,9 @@
 [submodule "rockr"]
 	path = rockr
 	url = https://github.com/cran/rockr
+[submodule "rockx"]
+	path = rockx
+	url = https://github.com/cran/rockx
 [submodule "roclang"]
 	path = roclang
 	url = https://github.com/cran/roclang
@@ -60176,6 +60188,9 @@
 [submodule "ssmsn"]
 	path = ssmsn
 	url = https://github.com/cran/ssmsn
+[submodule "sspm"]
+	path = sspm
+	url = https://github.com/cran/sspm
 [submodule "sspse"]
 	path = sspse
 	url = https://github.com/cran/sspse
