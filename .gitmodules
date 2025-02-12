@@ -5654,6 +5654,9 @@
 [submodule "FPCdpca"]
 	path = FPCdpca
 	url = https://github.com/cran/FPCdpca
+[submodule "FPDclustering"]
+	path = FPDclustering
+	url = https://github.com/cran/FPDclustering
 [submodule "FPLdata"]
 	path = FPLdata
 	url = https://github.com/cran/FPLdata
@@ -35990,6 +35993,9 @@
 [submodule "glossr"]
 	path = glossr
 	url = https://github.com/cran/glossr
+[submodule "glottospace"]
+	path = glottospace
+	url = https://github.com/cran/glottospace
 [submodule "glow"]
 	path = glow
 	url = https://github.com/cran/glow
@@ -57092,6 +57098,9 @@
 [submodule "seeds"]
 	path = seeds
 	url = https://github.com/cran/seeds
+[submodule "seeker"]
+	path = seeker
+	url = https://github.com/cran/seeker
 [submodule "seer"]
 	path = seer
 	url = https://github.com/cran/seer
@@ -66359,6 +66368,9 @@
 [submodule "zoltr"]
 	path = zoltr
 	url = https://github.com/cran/zoltr
+[submodule "zonebuilder"]
+	path = zonebuilder
+	url = https://github.com/cran/zonebuilder
 [submodule "zonohedra"]
 	path = zonohedra
 	url = https://github.com/cran/zonohedra
