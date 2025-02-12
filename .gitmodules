@@ -37235,6 +37235,9 @@
 [submodule "hdpca"]
 	path = hdpca
 	url = https://github.com/cran/hdpca
+[submodule "hdqr"]
+	path = hdqr
+	url = https://github.com/cran/hdqr
 [submodule "hdrcde"]
 	path = hdrcde
 	url = https://github.com/cran/hdrcde
