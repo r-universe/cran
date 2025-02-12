@@ -5603,9 +5603,6 @@
 [submodule "FLR"]
 	path = FLR
 	url = https://github.com/cran/FLR
-[submodule "FLSSS"]
-	path = FLSSS
-	url = https://github.com/cran/FLSSS
 [submodule "FLightR"]
 	path = FLightR
 	url = https://github.com/cran/FLightR
@@ -20021,9 +20018,6 @@
 [submodule "acroname"]
 	path = acroname
 	url = https://github.com/cran/acroname
-[submodule "acs"]
-	path = acs
-	url = https://github.com/cran/acs
 [submodule "acss"]
 	path = acss
 	url = https://github.com/cran/acss
@@ -25001,9 +24995,6 @@
 [submodule "chords"]
 	path = chords
 	url = https://github.com/cran/chords
-[submodule "choroplethr"]
-	path = choroplethr
-	url = https://github.com/cran/choroplethr
 [submodule "choroplethrAdmin1"]
 	path = choroplethrAdmin1
 	url = https://github.com/cran/choroplethrAdmin1
@@ -46772,9 +46763,6 @@
 [submodule "nntmvn"]
 	path = nntmvn
 	url = https://github.com/cran/nntmvn
-[submodule "noaastormevents"]
-	path = noaastormevents
-	url = https://github.com/cran/noaastormevents
 [submodule "noah"]
 	path = noah
 	url = https://github.com/cran/noah
@@ -61520,9 +61508,6 @@
 [submodule "syntenyPlotteR"]
 	path = syntenyPlotteR
 	url = https://github.com/cran/syntenyPlotteR
-[submodule "synthACS"]
-	path = synthACS
-	url = https://github.com/cran/synthACS
 [submodule "synthesis"]
 	path = synthesis
 	url = https://github.com/cran/synthesis
