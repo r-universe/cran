@@ -5603,6 +5603,9 @@
 [submodule "FLR"]
 	path = FLR
 	url = https://github.com/cran/FLR
+[submodule "FLSSS"]
+	path = FLSSS
+	url = https://github.com/cran/FLSSS
 [submodule "FLightR"]
 	path = FLightR
 	url = https://github.com/cran/FLightR
@@ -16352,6 +16355,9 @@
 [submodule "SFS"]
 	path = SFS
 	url = https://github.com/cran/SFS
+[submodule "SFSI"]
+	path = SFSI
+	url = https://github.com/cran/SFSI
 [submodule "SFtools"]
 	path = SFtools
 	url = https://github.com/cran/SFtools
@@ -20018,6 +20024,9 @@
 [submodule "acroname"]
 	path = acroname
 	url = https://github.com/cran/acroname
+[submodule "acs"]
+	path = acs
+	url = https://github.com/cran/acs
 [submodule "acss"]
 	path = acss
 	url = https://github.com/cran/acss
@@ -24995,6 +25004,9 @@
 [submodule "chords"]
 	path = chords
 	url = https://github.com/cran/chords
+[submodule "choroplethr"]
+	path = choroplethr
+	url = https://github.com/cran/choroplethr
 [submodule "choroplethrAdmin1"]
 	path = choroplethrAdmin1
 	url = https://github.com/cran/choroplethrAdmin1
@@ -31673,6 +31685,9 @@
 [submodule "exams2sakai"]
 	path = exams2sakai
 	url = https://github.com/cran/exams2sakai
+[submodule "exceedProb"]
+	path = exceedProb
+	url = https://github.com/cran/exceedProb
 [submodule "excel2eprime"]
 	path = excel2eprime
 	url = https://github.com/cran/excel2eprime
@@ -46766,6 +46781,9 @@
 [submodule "nntmvn"]
 	path = nntmvn
 	url = https://github.com/cran/nntmvn
+[submodule "noaastormevents"]
+	path = noaastormevents
+	url = https://github.com/cran/noaastormevents
 [submodule "noah"]
 	path = noah
 	url = https://github.com/cran/noah
@@ -61517,6 +61535,9 @@
 [submodule "syntenyPlotteR"]
 	path = syntenyPlotteR
 	url = https://github.com/cran/syntenyPlotteR
+[submodule "synthACS"]
+	path = synthACS
+	url = https://github.com/cran/synthACS
 [submodule "synthesis"]
 	path = synthesis
 	url = https://github.com/cran/synthesis
