@@ -24290,9 +24290,6 @@
 [submodule "cartography"]
 	path = cartography
 	url = https://github.com/cran/cartography
-[submodule "casabourse"]
-	path = casabourse
-	url = https://github.com/cran/casabourse
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/cran/cascadeSelect
@@ -30200,9 +30197,6 @@
 [submodule "easyDes"]
 	path = easyDes
 	url = https://github.com/cran/easyDes
-[submodule "easyDifferentialGeneCoexpression"]
-	path = easyDifferentialGeneCoexpression
-	url = https://github.com/cran/easyDifferentialGeneCoexpression
 [submodule "easyNCDF"]
 	path = easyNCDF
 	url = https://github.com/cran/easyNCDF
