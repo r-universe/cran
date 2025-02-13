@@ -1415,6 +1415,9 @@
 [submodule "BayesCVI"]
 	path = BayesCVI
 	url = https://github.com/cran/BayesCVI
+[submodule "BayesChange"]
+	path = BayesChange
+	url = https://github.com/cran/BayesChange
 [submodule "BayesCombo"]
 	path = BayesCombo
 	url = https://github.com/cran/BayesCombo
@@ -3608,6 +3611,9 @@
 [submodule "DArand"]
 	path = DArand
 	url = https://github.com/cran/DArand
+[submodule "DBCVindex"]
+	path = DBCVindex
+	url = https://github.com/cran/DBCVindex
 [submodule "DBEST"]
 	path = DBEST
 	url = https://github.com/cran/DBEST
@@ -7820,6 +7826,9 @@
 [submodule "IFP"]
 	path = IFP
 	url = https://github.com/cran/IFP
+[submodule "IFTPredictor"]
+	path = IFTPredictor
+	url = https://github.com/cran/IFTPredictor
 [submodule "IGC.CSM"]
 	path = IGC.CSM
 	url = https://github.com/cran/IGC.CSM
@@ -11111,6 +11120,9 @@
 [submodule "NLPutils"]
 	path = NLPutils
 	url = https://github.com/cran/NLPutils
+[submodule "NLPwavelet"]
+	path = NLPwavelet
+	url = https://github.com/cran/NLPwavelet
 [submodule "NLRoot"]
 	path = NLRoot
 	url = https://github.com/cran/NLRoot
@@ -12767,6 +12779,9 @@
 [submodule "PerFit"]
 	path = PerFit
 	url = https://github.com/cran/PerFit
+[submodule "PerMallows"]
+	path = PerMallows
+	url = https://github.com/cran/PerMallows
 [submodule "PerMat"]
 	path = PerMat
 	url = https://github.com/cran/PerMat
@@ -31550,6 +31565,9 @@
 [submodule "eventstudyr"]
 	path = eventstudyr
 	url = https://github.com/cran/eventstudyr
+[submodule "evesim"]
+	path = evesim
+	url = https://github.com/cran/evesim
 [submodule "evgam"]
 	path = evgam
 	url = https://github.com/cran/evgam
@@ -33536,6 +33554,9 @@
 [submodule "frab"]
 	path = frab
 	url = https://github.com/cran/frab
+[submodule "fracARMA"]
+	path = fracARMA
+	url = https://github.com/cran/fracARMA
 [submodule "fracdiff"]
 	path = fracdiff
 	url = https://github.com/cran/fracdiff
@@ -35726,6 +35747,9 @@
 [submodule "gimms"]
 	path = gimms
 	url = https://github.com/cran/gimms
+[submodule "giniCI"]
+	path = giniCI
+	url = https://github.com/cran/giniCI
 [submodule "giniVarCI"]
 	path = giniVarCI
 	url = https://github.com/cran/giniVarCI
@@ -51539,6 +51563,9 @@
 [submodule "ptable"]
 	path = ptable
 	url = https://github.com/cran/ptable
+[submodule "ptetools"]
+	path = ptetools
+	url = https://github.com/cran/ptetools
 [submodule "ptinpoly"]
 	path = ptinpoly
 	url = https://github.com/cran/ptinpoly
@@ -53231,6 +53258,9 @@
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/cran/rcheology
+[submodule "rchroma"]
+	path = rchroma
+	url = https://github.com/cran/rchroma
 [submodule "rciplot"]
 	path = rciplot
 	url = https://github.com/cran/rciplot
@@ -57575,6 +57605,9 @@
 [submodule "sgd"]
 	path = sgd
 	url = https://github.com/cran/sgd
+[submodule "sgdGMF"]
+	path = sgdGMF
+	url = https://github.com/cran/sgdGMF
 [submodule "sgee"]
 	path = sgee
 	url = https://github.com/cran/sgee
@@ -61397,6 +61430,9 @@
 [submodule "swaprinc"]
 	path = swaprinc
 	url = https://github.com/cran/swaprinc
+[submodule "swash"]
+	path = swash
+	url = https://github.com/cran/swash
 [submodule "swatches"]
 	path = swatches
 	url = https://github.com/cran/swatches
@@ -63074,6 +63110,9 @@
 [submodule "tomba"]
 	path = tomba
 	url = https://github.com/cran/tomba
+[submodule "tomledit"]
+	path = tomledit
+	url = https://github.com/cran/tomledit
 [submodule "tongfen"]
 	path = tongfen
 	url = https://github.com/cran/tongfen
