@@ -49640,9 +49640,6 @@
 [submodule "phylocanvas"]
 	path = phylocanvas
 	url = https://github.com/cran/phylocanvas
-[submodule "phyloclim"]
-	path = phyloclim
-	url = https://github.com/cran/phyloclim
 [submodule "phylocomr"]
 	path = phylocomr
 	url = https://github.com/cran/phylocomr
