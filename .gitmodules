@@ -7928,9 +7928,6 @@
 [submodule "IOHanalyzer"]
 	path = IOHanalyzer
 	url = https://github.com/cran/IOHanalyzer
-[submodule "IOHexperimenter"]
-	path = IOHexperimenter
-	url = https://github.com/cran/IOHexperimenter
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
@@ -13793,9 +13790,6 @@
 [submodule "RCircos"]
 	path = RCircos
 	url = https://github.com/cran/RCircos
-[submodule "RClickhouse"]
-	path = RClickhouse
-	url = https://github.com/cran/RClickhouse
 [submodule "RClimacell"]
 	path = RClimacell
 	url = https://github.com/cran/RClimacell
@@ -37952,9 +37946,6 @@
 [submodule "httpcode"]
 	path = httpcode
 	url = https://github.com/cran/httpcode
-[submodule "httpgd"]
-	path = httpgd
-	url = https://github.com/cran/httpgd
 [submodule "httping"]
 	path = httping
 	url = https://github.com/cran/httping
@@ -64220,9 +64211,6 @@
 [submodule "uniformly"]
 	path = uniformly
 	url = https://github.com/cran/uniformly
-[submodule "unigd"]
-	path = unigd
-	url = https://github.com/cran/unigd
 [submodule "unikn"]
 	path = unikn
 	url = https://github.com/cran/unikn
@@ -64277,9 +64265,6 @@
 [submodule "unmconf"]
 	path = unmconf
 	url = https://github.com/cran/unmconf
-[submodule "unnest"]
-	path = unnest
-	url = https://github.com/cran/unnest
 [submodule "unpivotr"]
 	path = unpivotr
 	url = https://github.com/cran/unpivotr
