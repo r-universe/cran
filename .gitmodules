@@ -3026,6 +3026,9 @@
 [submodule "ClusterBootstrap"]
 	path = ClusterBootstrap
 	url = https://github.com/cran/ClusterBootstrap
+[submodule "ClusterGVis"]
+	path = ClusterGVis
+	url = https://github.com/cran/ClusterGVis
 [submodule "ClusterR"]
 	path = ClusterR
 	url = https://github.com/cran/ClusterR
@@ -12428,6 +12431,9 @@
 [submodule "PRISMA2020"]
 	path = PRISMA2020
 	url = https://github.com/cran/PRISMA2020
+[submodule "PRMethods"]
+	path = PRMethods
+	url = https://github.com/cran/PRMethods
 [submodule "PRNG"]
 	path = PRNG
 	url = https://github.com/cran/PRNG
@@ -36893,6 +36899,9 @@
 [submodule "guess"]
 	path = guess
 	url = https://github.com/cran/guess
+[submodule "guideR"]
+	path = guideR
+	url = https://github.com/cran/guideR
 [submodule "guidedPLS"]
 	path = guidedPLS
 	url = https://github.com/cran/guidedPLS
@@ -45512,6 +45521,9 @@
 [submodule "multigraphr"]
 	path = multigraphr
 	url = https://github.com/cran/multigraphr
+[submodule "multilandr"]
+	path = multilandr
+	url = https://github.com/cran/multilandr
 [submodule "multilaterals"]
 	path = multilaterals
 	url = https://github.com/cran/multilaterals
@@ -47402,6 +47414,9 @@
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/cran/odbc
+[submodule "odbr"]
+	path = odbr
+	url = https://github.com/cran/odbr
 [submodule "oddnet"]
 	path = oddnet
 	url = https://github.com/cran/oddnet
@@ -52904,6 +52919,9 @@
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/cran/ranger
+[submodule "rangr"]
+	path = rangr
+	url = https://github.com/cran/rangr
 [submodule "rank"]
 	path = rank
 	url = https://github.com/cran/rank
