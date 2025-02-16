@@ -37961,6 +37961,9 @@
 [submodule "httpcode"]
 	path = httpcode
 	url = https://github.com/cran/httpcode
+[submodule "httpgd"]
+	path = httpgd
+	url = https://github.com/cran/httpgd
 [submodule "httping"]
 	path = httping
 	url = https://github.com/cran/httping
