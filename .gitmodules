@@ -39638,9 +39638,6 @@
 [submodule "ivaBSS"]
 	path = ivaBSS
 	url = https://github.com/cran/ivaBSS
-[submodule "ivdesc"]
-	path = ivdesc
-	url = https://github.com/cran/ivdesc
 [submodule "ivdesign"]
 	path = ivdesign
 	url = https://github.com/cran/ivdesign
