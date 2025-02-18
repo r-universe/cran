@@ -4547,6 +4547,9 @@
 [submodule "Dodge"]
 	path = Dodge
 	url = https://github.com/cran/Dodge
+[submodule "Dogoftest"]
+	path = Dogoftest
+	url = https://github.com/cran/Dogoftest
 [submodule "DominoDataR"]
 	path = DominoDataR
 	url = https://github.com/cran/DominoDataR
@@ -12896,6 +12899,9 @@
 [submodule "PhytosanitaryCalculator"]
 	path = PhytosanitaryCalculator
 	url = https://github.com/cran/PhytosanitaryCalculator
+[submodule "PiC"]
+	path = PiC
+	url = https://github.com/cran/PiC
 [submodule "PieGlyph"]
 	path = PieGlyph
 	url = https://github.com/cran/PieGlyph
@@ -17369,6 +17375,9 @@
 [submodule "SimSurvey"]
 	path = SimSurvey
 	url = https://github.com/cran/SimSurvey
+[submodule "SimTOST"]
+	path = SimTOST
+	url = https://github.com/cran/SimTOST
 [submodule "SimTimeVar"]
 	path = SimTimeVar
 	url = https://github.com/cran/SimTimeVar
@@ -26708,6 +26717,9 @@
 [submodule "correctedAUC"]
 	path = correctedAUC
 	url = https://github.com/cran/correctedAUC
+[submodule "correlatio"]
+	path = correlatio
+	url = https://github.com/cran/correlatio
 [submodule "correlation"]
 	path = correlation
 	url = https://github.com/cran/correlation
@@ -28019,6 +28031,9 @@
 [submodule "datafsm"]
 	path = datafsm
 	url = https://github.com/cran/datafsm
+[submodule "datamedios"]
+	path = datamedios
+	url = https://github.com/cran/datamedios
 [submodule "datamods"]
 	path = datamods
 	url = https://github.com/cran/datamods
@@ -28379,6 +28394,9 @@
 [submodule "decompDL"]
 	path = decompDL
 	url = https://github.com/cran/decompDL
+[submodule "decompML"]
+	path = decompML
+	url = https://github.com/cran/decompML
 [submodule "decomposedPSF"]
 	path = decomposedPSF
 	url = https://github.com/cran/decomposedPSF
@@ -32288,9 +32306,6 @@
 [submodule "fastPLS"]
 	path = fastPLS
 	url = https://github.com/cran/fastPLS
-[submodule "fastQR"]
-	path = fastQR
-	url = https://github.com/cran/fastQR
 [submodule "fastR2"]
 	path = fastR2
 	url = https://github.com/cran/fastR2
@@ -41858,6 +41873,9 @@
 [submodule "lognorm"]
 	path = lognorm
 	url = https://github.com/cran/lognorm
+[submodule "logos"]
+	path = logos
+	url = https://github.com/cran/logos
 [submodule "logr"]
 	path = logr
 	url = https://github.com/cran/logr
@@ -53162,6 +53180,9 @@
 [submodule "rayvertex"]
 	path = rayvertex
 	url = https://github.com/cran/rayvertex
+[submodule "rb3"]
+	path = rb3
+	url = https://github.com/cran/rb3
 [submodule "rbacon"]
 	path = rbacon
 	url = https://github.com/cran/rbacon
