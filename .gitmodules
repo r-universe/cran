@@ -19001,6 +19001,9 @@
 [submodule "UAHDataScienceSC"]
 	path = UAHDataScienceSC
 	url = https://github.com/cran/UAHDataScienceSC
+[submodule "UAHDataScienceSF"]
+	path = UAHDataScienceSF
+	url = https://github.com/cran/UAHDataScienceSF
 [submodule "UAHDataScienceUC"]
 	path = UAHDataScienceUC
 	url = https://github.com/cran/UAHDataScienceUC
@@ -32939,6 +32942,9 @@
 [submodule "fisheye"]
 	path = fisheye
 	url = https://github.com/cran/fisheye
+[submodule "fishgrowth"]
+	path = fishgrowth
+	url = https://github.com/cran/fishgrowth
 [submodule "fishkirkko2015"]
 	path = fishkirkko2015
 	url = https://github.com/cran/fishkirkko2015
@@ -45746,6 +45752,9 @@
 [submodule "musicNMR"]
 	path = musicNMR
 	url = https://github.com/cran/musicNMR
+[submodule "musicXML"]
+	path = musicXML
+	url = https://github.com/cran/musicXML
 [submodule "musica"]
 	path = musica
 	url = https://github.com/cran/musica
