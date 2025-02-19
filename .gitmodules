@@ -377,6 +377,9 @@
 [submodule "ASGS.foyer"]
 	path = ASGS.foyer
 	url = https://github.com/cran/ASGS.foyer
+[submodule "ASML"]
+	path = ASML
+	url = https://github.com/cran/ASML
 [submodule "ASMap"]
 	path = ASMap
 	url = https://github.com/cran/ASMap
@@ -10073,6 +10076,9 @@
 [submodule "MSBStatsData"]
 	path = MSBStatsData
 	url = https://github.com/cran/MSBStatsData
+[submodule "MSCA"]
+	path = MSCA
+	url = https://github.com/cran/MSCA
 [submodule "MSCMT"]
 	path = MSCMT
 	url = https://github.com/cran/MSCMT
@@ -16295,6 +16301,9 @@
 [submodule "SDLfilter"]
 	path = SDLfilter
 	url = https://github.com/cran/SDLfilter
+[submodule "SDModels"]
+	path = SDModels
+	url = https://github.com/cran/SDModels
 [submodule "SDMtune"]
 	path = SDMtune
 	url = https://github.com/cran/SDMtune
@@ -20438,6 +20447,9 @@
 [submodule "aftR2"]
 	path = aftR2
 	url = https://github.com/cran/aftR2
+[submodule "aftables"]
+	path = aftables
+	url = https://github.com/cran/aftables
 [submodule "aftgee"]
 	path = aftgee
 	url = https://github.com/cran/aftgee
@@ -27458,6 +27470,9 @@
 [submodule "cta"]
 	path = cta
 	url = https://github.com/cran/cta
+[submodule "ctablerseh"]
+	path = ctablerseh
+	url = https://github.com/cran/ctablerseh
 [submodule "ctbi"]
 	path = ctbi
 	url = https://github.com/cran/ctbi
@@ -34295,6 +34310,9 @@
 [submodule "ganGenerativeData"]
 	path = ganGenerativeData
 	url = https://github.com/cran/ganGenerativeData
+[submodule "gander"]
+	path = gander
+	url = https://github.com/cran/gander
 [submodule "gap"]
 	path = gap
 	url = https://github.com/cran/gap
@@ -46364,6 +46382,9 @@
 [submodule "netie"]
 	path = netie
 	url = https://github.com/cran/netie
+[submodule "netknitr"]
+	path = netknitr
+	url = https://github.com/cran/netknitr
 [submodule "netmap"]
 	path = netmap
 	url = https://github.com/cran/netmap
@@ -50621,6 +50642,9 @@
 [submodule "poppr"]
 	path = poppr
 	url = https://github.com/cran/poppr
+[submodule "popsom7"]
+	path = popsom7
+	url = https://github.com/cran/popsom7
 [submodule "popstudy"]
 	path = popstudy
 	url = https://github.com/cran/popstudy
