@@ -47543,6 +47543,9 @@
 [submodule "ofpetrial"]
 	path = ofpetrial
 	url = https://github.com/cran/ofpetrial
+[submodule "oglcnac"]
+	path = oglcnac
+	url = https://github.com/cran/oglcnac
 [submodule "oglmx"]
 	path = oglmx
 	url = https://github.com/cran/oglmx
