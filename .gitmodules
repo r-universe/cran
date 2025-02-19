@@ -3611,9 +3611,6 @@
 [submodule "DAMOCLES"]
 	path = DAMOCLES
 	url = https://github.com/cran/DAMOCLES
-[submodule "DATAstudio"]
-	path = DATAstudio
-	url = https://github.com/cran/DATAstudio
 [submodule "DArand"]
 	path = DArand
 	url = https://github.com/cran/DArand
@@ -12680,9 +12677,6 @@
 [submodule "PanJen"]
 	path = PanJen
 	url = https://github.com/cran/PanJen
-[submodule "Pandora"]
-	path = Pandora
-	url = https://github.com/cran/Pandora
 [submodule "PanelCount"]
 	path = PanelCount
 	url = https://github.com/cran/PanelCount
@@ -32312,6 +32306,9 @@
 [submodule "fastPLS"]
 	path = fastPLS
 	url = https://github.com/cran/fastPLS
+[submodule "fastQR"]
+	path = fastQR
+	url = https://github.com/cran/fastQR
 [submodule "fastR2"]
 	path = fastR2
 	url = https://github.com/cran/fastR2
