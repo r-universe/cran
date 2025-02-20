@@ -50333,6 +50333,9 @@
 [submodule "pmhtutorial"]
 	path = pmhtutorial
 	url = https://github.com/cran/pmhtutorial
+[submodule "pmlbr"]
+	path = pmlbr
+	url = https://github.com/cran/pmlbr
 [submodule "pmledecon"]
 	path = pmledecon
 	url = https://github.com/cran/pmledecon
