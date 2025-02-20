@@ -10619,9 +10619,6 @@
 [submodule "MiscMath"]
 	path = MiscMath
 	url = https://github.com/cran/MiscMath
-[submodule "MiscMetabar"]
-	path = MiscMetabar
-	url = https://github.com/cran/MiscMetabar
 [submodule "MissCP"]
 	path = MissCP
 	url = https://github.com/cran/MissCP
