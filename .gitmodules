@@ -7034,6 +7034,9 @@
 [submodule "GiniDistance"]
 	path = GiniDistance
 	url = https://github.com/cran/GiniDistance
+[submodule "GitAI"]
+	path = GitAI
+	url = https://github.com/cran/GitAI
 [submodule "GitStats"]
 	path = GitStats
 	url = https://github.com/cran/GitStats
