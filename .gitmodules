@@ -7388,6 +7388,9 @@
 [submodule "HQM"]
 	path = HQM
 	url = https://github.com/cran/HQM
+[submodule "HRTnomaly"]
+	path = HRTnomaly
+	url = https://github.com/cran/HRTnomaly
 [submodule "HRW"]
 	path = HRW
 	url = https://github.com/cran/HRW
@@ -15800,6 +15803,9 @@
 [submodule "RobMixReg"]
 	path = RobMixReg
 	url = https://github.com/cran/RobMixReg
+[submodule "RobPC"]
+	path = RobPC
+	url = https://github.com/cran/RobPC
 [submodule "RobPer"]
 	path = RobPer
 	url = https://github.com/cran/RobPer
@@ -19004,6 +19010,9 @@
 [submodule "TwoWayFEWeights"]
 	path = TwoWayFEWeights
 	url = https://github.com/cran/TwoWayFEWeights
+[submodule "UAHDataScienceO"]
+	path = UAHDataScienceO
+	url = https://github.com/cran/UAHDataScienceO
 [submodule "UAHDataScienceSC"]
 	path = UAHDataScienceSC
 	url = https://github.com/cran/UAHDataScienceSC
@@ -25832,6 +25841,9 @@
 [submodule "codecountR"]
 	path = codecountR
 	url = https://github.com/cran/codecountR
+[submodule "codelist"]
+	path = codelist
+	url = https://github.com/cran/codelist
 [submodule "codemeta"]
 	path = codemeta
 	url = https://github.com/cran/codemeta
@@ -31823,6 +31835,9 @@
 [submodule "experimentr"]
 	path = experimentr
 	url = https://github.com/cran/experimentr
+[submodule "expertsurv"]
+	path = expertsurv
+	url = https://github.com/cran/expertsurv
 [submodule "expint"]
 	path = expint
 	url = https://github.com/cran/expint
@@ -48044,6 +48059,9 @@
 [submodule "orca"]
 	path = orca
 	url = https://github.com/cran/orca
+[submodule "orcamentoBR"]
+	path = orcamentoBR
+	url = https://github.com/cran/orcamentoBR
 [submodule "orclus"]
 	path = orclus
 	url = https://github.com/cran/orclus
@@ -51548,6 +51566,9 @@
 [submodule "pseudohouseholds"]
 	path = pseudohouseholds
 	url = https://github.com/cran/pseudohouseholds
+[submodule "pseudorank"]
+	path = pseudorank
+	url = https://github.com/cran/pseudorank
 [submodule "pseval"]
 	path = pseval
 	url = https://github.com/cran/pseval
@@ -58829,6 +58850,9 @@
 [submodule "skewt"]
 	path = skewt
 	url = https://github.com/cran/skewt
+[submodule "skewunit"]
+	path = skewunit
+	url = https://github.com/cran/skewunit
 [submodule "skilljaR"]
 	path = skilljaR
 	url = https://github.com/cran/skilljaR
@@ -63506,6 +63530,9 @@
 [submodule "transport"]
 	path = transport
 	url = https://github.com/cran/transport
+[submodule "transportr"]
+	path = transportr
+	url = https://github.com/cran/transportr
 [submodule "transreg"]
 	path = transreg
 	url = https://github.com/cran/transreg
