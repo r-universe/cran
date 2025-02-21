@@ -1877,6 +1877,9 @@
 [submodule "BlockmodelingGUI"]
 	path = BlockmodelingGUI
 	url = https://github.com/cran/BlockmodelingGUI
+[submodule "BlueCarbon"]
+	path = BlueCarbon
+	url = https://github.com/cran/BlueCarbon
 [submodule "BlythStillCasellaCI"]
 	path = BlythStillCasellaCI
 	url = https://github.com/cran/BlythStillCasellaCI
@@ -29492,6 +29495,9 @@
 [submodule "dmutate"]
 	path = dmutate
 	url = https://github.com/cran/dmutate
+[submodule "dnapath"]
+	path = dnapath
+	url = https://github.com/cran/dnapath
 [submodule "dndR"]
 	path = dndR
 	url = https://github.com/cran/dndR
@@ -34187,6 +34193,9 @@
 [submodule "gWidgets2tcltk"]
 	path = gWidgets2tcltk
 	url = https://github.com/cran/gWidgets2tcltk
+[submodule "gaawr2"]
+	path = gaawr2
+	url = https://github.com/cran/gaawr2
 [submodule "gadget2"]
 	path = gadget2
 	url = https://github.com/cran/gadget2
@@ -61790,6 +61799,9 @@
 [submodule "tab"]
 	path = tab
 	url = https://github.com/cran/tab
+[submodule "tab2xml"]
+	path = tab2xml
+	url = https://github.com/cran/tab2xml
 [submodule "tabbycat"]
 	path = tabbycat
 	url = https://github.com/cran/tabbycat
