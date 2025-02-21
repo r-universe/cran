@@ -7313,6 +7313,9 @@
 [submodule "HEtools"]
 	path = HEtools
 	url = https://github.com/cran/HEtools
+[submodule "HGDMr"]
+	path = HGDMr
+	url = https://github.com/cran/HGDMr
 [submodule "HGMND"]
 	path = HGMND
 	url = https://github.com/cran/HGMND
@@ -56102,6 +56105,9 @@
 [submodule "runDRT"]
 	path = runDRT
 	url = https://github.com/cran/runDRT
+[submodule "runExamplesWrapper"]
+	path = runExamplesWrapper
+	url = https://github.com/cran/runExamplesWrapper
 [submodule "runMCMCbtadjust"]
 	path = runMCMCbtadjust
 	url = https://github.com/cran/runMCMCbtadjust
