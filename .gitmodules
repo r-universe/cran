@@ -7883,6 +7883,9 @@
 [submodule "ILSAmerge"]
 	path = ILSAmerge
 	url = https://github.com/cran/ILSAmerge
+[submodule "ILSAstats"]
+	path = ILSAstats
+	url = https://github.com/cran/ILSAstats
 [submodule "ILSE"]
 	path = ILSE
 	url = https://github.com/cran/ILSE
@@ -25079,6 +25082,9 @@
 [submodule "chords"]
 	path = chords
 	url = https://github.com/cran/chords
+[submodule "chores"]
+	path = chores
+	url = https://github.com/cran/chores
 [submodule "choroplethr"]
 	path = choroplethr
 	url = https://github.com/cran/choroplethr
@@ -32738,6 +32744,9 @@
 [submodule "fetchSalesforceR"]
 	path = fetchSalesforceR
 	url = https://github.com/cran/fetchSalesforceR
+[submodule "fetwfe"]
+	path = fetwfe
+	url = https://github.com/cran/fetwfe
 [submodule "ff"]
 	path = ff
 	url = https://github.com/cran/ff
@@ -36236,6 +36245,9 @@
 [submodule "goat"]
 	path = goat
 	url = https://github.com/cran/goat
+[submodule "godley"]
+	path = godley
+	url = https://github.com/cran/godley
 [submodule "goeveg"]
 	path = goeveg
 	url = https://github.com/cran/goeveg
@@ -52061,6 +52073,9 @@
 [submodule "qoi"]
 	path = qoi
 	url = https://github.com/cran/qoi
+[submodule "qountstat"]
+	path = qountstat
+	url = https://github.com/cran/qountstat
 [submodule "qpNCA"]
 	path = qpNCA
 	url = https://github.com/cran/qpNCA
@@ -60740,6 +60755,9 @@
 [submodule "stepp"]
 	path = stepp
 	url = https://github.com/cran/stepp
+[submodule "steppedwedge"]
+	path = steppedwedge
+	url = https://github.com/cran/steppedwedge
 [submodule "steprf"]
 	path = steprf
 	url = https://github.com/cran/steprf
@@ -63548,6 +63566,9 @@
 [submodule "traudem"]
 	path = traudem
 	url = https://github.com/cran/traudem
+[submodule "traumar"]
+	path = traumar
+	url = https://github.com/cran/traumar
 [submodule "traveltimeR"]
 	path = traveltimeR
 	url = https://github.com/cran/traveltimeR
@@ -65027,6 +65048,9 @@
 [submodule "viewscape"]
 	path = viewscape
 	url = https://github.com/cran/viewscape
+[submodule "vigicaen"]
+	path = vigicaen
+	url = https://github.com/cran/vigicaen
 [submodule "viking"]
 	path = viking
 	url = https://github.com/cran/viking
