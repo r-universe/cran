@@ -10625,6 +10625,9 @@
 [submodule "MiscMath"]
 	path = MiscMath
 	url = https://github.com/cran/MiscMath
+[submodule "MiscMetabar"]
+	path = MiscMetabar
+	url = https://github.com/cran/MiscMetabar
 [submodule "MissCP"]
 	path = MissCP
 	url = https://github.com/cran/MissCP
@@ -61814,9 +61817,6 @@
 [submodule "tables"]
 	path = tables
 	url = https://github.com/cran/tables
-[submodule "tableschema.r"]
-	path = tableschema.r
-	url = https://github.com/cran/tableschema.r
 [submodule "tablesgg"]
 	path = tablesgg
 	url = https://github.com/cran/tablesgg
