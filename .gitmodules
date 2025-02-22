@@ -61853,6 +61853,9 @@
 [submodule "tables"]
 	path = tables
 	url = https://github.com/cran/tables
+[submodule "tableschema.r"]
+	path = tableschema.r
+	url = https://github.com/cran/tableschema.r
 [submodule "tablesgg"]
 	path = tablesgg
 	url = https://github.com/cran/tablesgg
