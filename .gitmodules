@@ -18857,6 +18857,9 @@
 [submodule "TrackReconstruction"]
 	path = TrackReconstruction
 	url = https://github.com/cran/TrackReconstruction
+[submodule "Trading"]
+	path = Trading
+	url = https://github.com/cran/Trading
 [submodule "TrafficBDE"]
 	path = TrafficBDE
 	url = https://github.com/cran/TrafficBDE
