@@ -65489,9 +65489,6 @@
 [submodule "washeR"]
 	path = washeR
 	url = https://github.com/cran/washeR
-[submodule "washex"]
-	path = washex
-	url = https://github.com/cran/washex
 [submodule "washi"]
 	path = washi
 	url = https://github.com/cran/washi
