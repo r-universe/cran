@@ -12509,6 +12509,9 @@
 [submodule "PReMiuM"]
 	path = PReMiuM
 	url = https://github.com/cran/PReMiuM
+[submodule "PResiduals"]
+	path = PResiduals
+	url = https://github.com/cran/PResiduals
 [submodule "PSAWR"]
 	path = PSAWR
 	url = https://github.com/cran/PSAWR
@@ -27065,6 +27068,9 @@
 [submodule "cpm"]
 	path = cpm
 	url = https://github.com/cran/cpm
+[submodule "cpmBigData"]
+	path = cpmBigData
+	url = https://github.com/cran/cpmBigData
 [submodule "cpmr"]
 	path = cpmr
 	url = https://github.com/cran/cpmr
@@ -48194,6 +48200,9 @@
 [submodule "orloca.es"]
 	path = orloca.es
 	url = https://github.com/cran/orloca.es
+[submodule "ormBigData"]
+	path = ormBigData
+	url = https://github.com/cran/ormBigData
 [submodule "ormPlot"]
 	path = ormPlot
 	url = https://github.com/cran/ormPlot
@@ -65489,6 +65498,9 @@
 [submodule "washeR"]
 	path = washeR
 	url = https://github.com/cran/washeR
+[submodule "washex"]
+	path = washex
+	url = https://github.com/cran/washex
 [submodule "washi"]
 	path = washi
 	url = https://github.com/cran/washi
