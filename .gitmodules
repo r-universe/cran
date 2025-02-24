@@ -3761,6 +3761,9 @@
 [submodule "DEPONS2R"]
 	path = DEPONS2R
 	url = https://github.com/cran/DEPONS2R
+[submodule "DER"]
+	path = DER
+	url = https://github.com/cran/DER
 [submodule "DES"]
 	path = DES
 	url = https://github.com/cran/DES
@@ -5690,6 +5693,9 @@
 [submodule "FRAPO"]
 	path = FRAPO
 	url = https://github.com/cran/FRAPO
+[submodule "FRApp"]
+	path = FRApp
+	url = https://github.com/cran/FRApp
 [submodule "FRB"]
 	path = FRB
 	url = https://github.com/cran/FRB
@@ -20084,6 +20090,9 @@
 [submodule "acled.api"]
 	path = acled.api
 	url = https://github.com/cran/acled.api
+[submodule "acledR"]
+	path = acledR
+	url = https://github.com/cran/acledR
 [submodule "acnr"]
 	path = acnr
 	url = https://github.com/cran/acnr
@@ -24500,6 +24509,9 @@
 [submodule "causalPAF"]
 	path = causalPAF
 	url = https://github.com/cran/causalPAF
+[submodule "causalQual"]
+	path = causalQual
+	url = https://github.com/cran/causalQual
 [submodule "causalSLSE"]
 	path = causalSLSE
 	url = https://github.com/cran/causalSLSE
@@ -27146,6 +27158,9 @@
 [submodule "crandep"]
 	path = crandep
 	url = https://github.com/cran/crandep
+[submodule "crane"]
+	path = crane
+	url = https://github.com/cran/crane
 [submodule "crank"]
 	path = crank
 	url = https://github.com/cran/crank
@@ -29153,6 +29168,9 @@
 [submodule "dirttee"]
 	path = dirttee
 	url = https://github.com/cran/dirttee
+[submodule "disagg2"]
+	path = disagg2
+	url = https://github.com/cran/disagg2
 [submodule "disaggR"]
 	path = disaggR
 	url = https://github.com/cran/disaggR
@@ -43457,6 +43475,9 @@
 [submodule "mergingTools"]
 	path = mergingTools
 	url = https://github.com/cran/mergingTools
+[submodule "mermboost"]
+	path = mermboost
+	url = https://github.com/cran/mermboost
 [submodule "merror"]
 	path = merror
 	url = https://github.com/cran/merror
@@ -51950,6 +51971,9 @@
 [submodule "qape"]
 	path = qape
 	url = https://github.com/cran/qape
+[submodule "qbinplots"]
+	path = qbinplots
+	url = https://github.com/cran/qbinplots
 [submodule "qbld"]
 	path = qbld
 	url = https://github.com/cran/qbld
@@ -66209,6 +66233,9 @@
 [submodule "xdcclarge"]
 	path = xdcclarge
 	url = https://github.com/cran/xdcclarge
+[submodule "xdvir"]
+	path = xdvir
+	url = https://github.com/cran/xdvir
 [submodule "xefun"]
 	path = xefun
 	url = https://github.com/cran/xefun
