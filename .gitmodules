@@ -23432,6 +23432,9 @@
 [submodule "bolsec"]
 	path = bolsec
 	url = https://github.com/cran/bolsec
+[submodule "bolt4jr"]
+	path = bolt4jr
+	url = https://github.com/cran/bolt4jr
 [submodule "bondAnalyst"]
 	path = bondAnalyst
 	url = https://github.com/cran/bondAnalyst
@@ -49226,6 +49229,9 @@
 [submodule "pdc"]
 	path = pdc
 	url = https://github.com/cran/pdc
+[submodule "pdcor"]
+	path = pdcor
+	url = https://github.com/cran/pdcor
 [submodule "pder"]
 	path = pder
 	url = https://github.com/cran/pder
@@ -56873,6 +56879,9 @@
 [submodule "scagnostics"]
 	path = scagnostics
 	url = https://github.com/cran/scagnostics
+[submodule "scalablebayesm"]
+	path = scalablebayesm
+	url = https://github.com/cran/scalablebayesm
 [submodule "scaleAlign"]
 	path = scaleAlign
 	url = https://github.com/cran/scaleAlign
