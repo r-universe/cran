@@ -530,6 +530,9 @@
 [submodule "AeroSampleR"]
 	path = AeroSampleR
 	url = https://github.com/cran/AeroSampleR
+[submodule "AgePopDenom"]
+	path = AgePopDenom
+	url = https://github.com/cran/AgePopDenom
 [submodule "AggregateR"]
 	path = AggregateR
 	url = https://github.com/cran/AggregateR
@@ -2807,6 +2810,9 @@
 [submodule "Certara.R"]
 	path = Certara.R
 	url = https://github.com/cran/Certara.R
+[submodule "Certara.RDarwin"]
+	path = Certara.RDarwin
+	url = https://github.com/cran/Certara.RDarwin
 [submodule "Certara.RsNLME"]
 	path = Certara.RsNLME
 	url = https://github.com/cran/Certara.RsNLME
@@ -5243,6 +5249,9 @@
 [submodule "EpiSignalDetection"]
 	path = EpiSignalDetection
 	url = https://github.com/cran/EpiSignalDetection
+[submodule "EpiSimR"]
+	path = EpiSimR
+	url = https://github.com/cran/EpiSimR
 [submodule "EpiStats"]
 	path = EpiStats
 	url = https://github.com/cran/EpiStats
@@ -49778,6 +49787,9 @@
 [submodule "photosynthesis"]
 	path = photosynthesis
 	url = https://github.com/cran/photosynthesis
+[submodule "photosynthesisLRC"]
+	path = photosynthesisLRC
+	url = https://github.com/cran/photosynthesisLRC
 [submodule "phrases"]
 	path = phrases
 	url = https://github.com/cran/phrases
@@ -50453,6 +50465,9 @@
 [submodule "pmxpartab"]
 	path = pmxpartab
 	url = https://github.com/cran/pmxpartab
+[submodule "pnd"]
+	path = pnd
+	url = https://github.com/cran/pnd
 [submodule "png"]
 	path = png
 	url = https://github.com/cran/png
@@ -53090,6 +53105,9 @@
 [submodule "rangeModelMetadata"]
 	path = rangeModelMetadata
 	url = https://github.com/cran/rangeModelMetadata
+[submodule "rangemodelR"]
+	path = rangemodelR
+	url = https://github.com/cran/rangemodelR
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/cran/ranger
@@ -65618,6 +65636,9 @@
 [submodule "wbsts"]
 	path = wbsts
 	url = https://github.com/cran/wbsts
+[submodule "wbwdi"]
+	path = wbwdi
+	url = https://github.com/cran/wbwdi
 [submodule "wcde"]
 	path = wcde
 	url = https://github.com/cran/wcde
