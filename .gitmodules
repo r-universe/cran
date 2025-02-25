@@ -51956,9 +51956,6 @@
 [submodule "qPRAentry"]
 	path = qPRAentry
 	url = https://github.com/cran/qPRAentry
-[submodule "qVarSel"]
-	path = qVarSel
-	url = https://github.com/cran/qVarSel
 [submodule "qacBase"]
 	path = qacBase
 	url = https://github.com/cran/qacBase
