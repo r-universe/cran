@@ -11744,6 +11744,9 @@
 [submodule "OenoKPM"]
 	path = OenoKPM
 	url = https://github.com/cran/OenoKPM
+[submodule "OhdsiReportGenerator"]
+	path = OhdsiReportGenerator
+	url = https://github.com/cran/OhdsiReportGenerator
 [submodule "OhdsiShinyAppBuilder"]
 	path = OhdsiShinyAppBuilder
 	url = https://github.com/cran/OhdsiShinyAppBuilder
@@ -49745,6 +49748,9 @@
 [submodule "phonenumber"]
 	path = phonenumber
 	url = https://github.com/cran/phonenumber
+[submodule "phonetisr"]
+	path = phonetisr
+	url = https://github.com/cran/phonetisr
 [submodule "phonfieldwork"]
 	path = phonfieldwork
 	url = https://github.com/cran/phonfieldwork
