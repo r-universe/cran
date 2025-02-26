@@ -21815,6 +21815,9 @@
 [submodule "avotrex"]
 	path = avotrex
 	url = https://github.com/cran/avotrex
+[submodule "awdb"]
+	path = awdb
+	url = https://github.com/cran/awdb
 [submodule "aweSOM"]
 	path = aweSOM
 	url = https://github.com/cran/aweSOM
@@ -25796,6 +25799,9 @@
 [submodule "cncaGUI"]
 	path = cncaGUI
 	url = https://github.com/cran/cncaGUI
+[submodule "cnd"]
+	path = cnd
+	url = https://github.com/cran/cnd
 [submodule "cnmap"]
 	path = cnmap
 	url = https://github.com/cran/cnmap
