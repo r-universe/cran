@@ -4529,6 +4529,9 @@
 [submodule "Distributacalcul"]
 	path = Distributacalcul
 	url = https://github.com/cran/Distributacalcul
+[submodule "DistributionIV"]
+	path = DistributionIV
+	url = https://github.com/cran/DistributionIV
 [submodule "DistributionOptimization"]
 	path = DistributionOptimization
 	url = https://github.com/cran/DistributionOptimization
@@ -4559,6 +4562,9 @@
 [submodule "DockerParallel"]
 	path = DockerParallel
 	url = https://github.com/cran/DockerParallel
+[submodule "Docovt"]
+	path = Docovt
+	url = https://github.com/cran/Docovt
 [submodule "Dodge"]
 	path = Dodge
 	url = https://github.com/cran/Dodge
@@ -6749,6 +6755,9 @@
 [submodule "GTDL"]
 	path = GTDL
 	url = https://github.com/cran/GTDL
+[submodule "GTEs"]
+	path = GTEs
+	url = https://github.com/cran/GTEs
 [submodule "GTFSwizard"]
 	path = GTFSwizard
 	url = https://github.com/cran/GTFSwizard
@@ -13631,6 +13640,9 @@
 [submodule "R2BayesX"]
 	path = R2BayesX
 	url = https://github.com/cran/R2BayesX
+[submodule "R2D2ordinal"]
+	path = R2D2ordinal
+	url = https://github.com/cran/R2D2ordinal
 [submodule "R2DT"]
 	path = R2DT
 	url = https://github.com/cran/R2DT
@@ -16604,6 +16616,9 @@
 [submodule "SMARTp"]
 	path = SMARTp
 	url = https://github.com/cran/SMARTp
+[submodule "SMASH"]
+	path = SMASH
+	url = https://github.com/cran/SMASH
 [submodule "SMCRM"]
 	path = SMCRM
 	url = https://github.com/cran/SMCRM
@@ -21716,6 +21731,9 @@
 [submodule "autoFRK"]
 	path = autoFRK
 	url = https://github.com/cran/autoFRK
+[submodule "autoGO"]
+	path = autoGO
+	url = https://github.com/cran/autoGO
 [submodule "autoMFA"]
 	path = autoMFA
 	url = https://github.com/cran/autoMFA
@@ -23267,6 +23285,9 @@
 [submodule "bliss"]
 	path = bliss
 	url = https://github.com/cran/bliss
+[submodule "blit"]
+	path = blit
+	url = https://github.com/cran/blit
 [submodule "blm"]
 	path = blm
 	url = https://github.com/cran/blm
@@ -30860,6 +30881,9 @@
 [submodule "eiopaR"]
 	path = eiopaR
 	url = https://github.com/cran/eiopaR
+[submodule "eiopt2"]
+	path = eiopt2
+	url = https://github.com/cran/eiopt2
 [submodule "eirm"]
 	path = eirm
 	url = https://github.com/cran/eirm
@@ -30992,6 +31016,9 @@
 [submodule "embryogrowth"]
 	path = embryogrowth
 	url = https://github.com/cran/embryogrowth
+[submodule "emcAdr"]
+	path = emcAdr
+	url = https://github.com/cran/emcAdr
 [submodule "emdbook"]
 	path = emdbook
 	url = https://github.com/cran/emdbook
@@ -44753,6 +44780,9 @@
 [submodule "mmeln"]
 	path = mmeln
 	url = https://github.com/cran/mmeln
+[submodule "mmeta"]
+	path = mmeta
+	url = https://github.com/cran/mmeta
 [submodule "mmiCATs"]
 	path = mmiCATs
 	url = https://github.com/cran/mmiCATs
@@ -48422,6 +48452,9 @@
 [submodule "owidR"]
 	path = owidR
 	url = https://github.com/cran/owidR
+[submodule "owidapi"]
+	path = owidapi
+	url = https://github.com/cran/owidapi
 [submodule "owmr"]
 	path = owmr
 	url = https://github.com/cran/owmr
