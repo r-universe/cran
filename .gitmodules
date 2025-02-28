@@ -32966,9 +32966,6 @@
 [submodule "finbif"]
 	path = finbif
 	url = https://github.com/cran/finbif
-[submodule "finbipartite"]
-	path = finbipartite
-	url = https://github.com/cran/finbipartite
 [submodule "finch"]
 	path = finch
 	url = https://github.com/cran/finch
@@ -33005,9 +33002,6 @@
 [submodule "fingerprint"]
 	path = fingerprint
 	url = https://github.com/cran/fingerprint
-[submodule "fingraph"]
-	path = fingraph
-	url = https://github.com/cran/fingraph
 [submodule "finiteruinprob"]
 	path = finiteruinprob
 	url = https://github.com/cran/finiteruinprob
@@ -60014,9 +60008,6 @@
 [submodule "spectralGP"]
 	path = spectralGP
 	url = https://github.com/cran/spectralGP
-[submodule "spectralGraphTopology"]
-	path = spectralGraphTopology
-	url = https://github.com/cran/spectralGraphTopology
 [submodule "spectralR"]
 	path = spectralR
 	url = https://github.com/cran/spectralR
