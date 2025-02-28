@@ -23942,9 +23942,6 @@
 [submodule "bsynth"]
 	path = bsynth
 	url = https://github.com/cran/bsynth
-[submodule "btb"]
-	path = btb
-	url = https://github.com/cran/btb
 [submodule "btergm"]
 	path = btergm
 	url = https://github.com/cran/btergm
@@ -46274,9 +46271,6 @@
 [submodule "nberwp"]
 	path = nberwp
 	url = https://github.com/cran/nberwp
-[submodule "nbfar"]
-	path = nbfar
-	url = https://github.com/cran/nbfar
 [submodule "nblR"]
 	path = nblR
 	url = https://github.com/cran/nblR
