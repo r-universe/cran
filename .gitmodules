@@ -3320,6 +3320,9 @@
 [submodule "ConnMatTools"]
 	path = ConnMatTools
 	url = https://github.com/cran/ConnMatTools
+[submodule "ConnectednessApproach"]
+	path = ConnectednessApproach
+	url = https://github.com/cran/ConnectednessApproach
 [submodule "ConsRank"]
 	path = ConsRank
 	url = https://github.com/cran/ConsRank
