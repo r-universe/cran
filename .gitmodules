@@ -45338,9 +45338,6 @@
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/cran/mr.pivw
-[submodule "mr.raps"]
-	path = mr.raps
-	url = https://github.com/cran/mr.raps
 [submodule "mrMLM"]
 	path = mrMLM
 	url = https://github.com/cran/mrMLM
@@ -55043,9 +55040,6 @@
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/cran/rlistings
-[submodule "rllama"]
-	path = rllama
-	url = https://github.com/cran/rllama
 [submodule "rlmDataDriven"]
 	path = rlmDataDriven
 	url = https://github.com/cran/rlmDataDriven
