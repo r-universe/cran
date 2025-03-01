@@ -23945,6 +23945,9 @@
 [submodule "bsynth"]
 	path = bsynth
 	url = https://github.com/cran/bsynth
+[submodule "btb"]
+	path = btb
+	url = https://github.com/cran/btb
 [submodule "btergm"]
 	path = btergm
 	url = https://github.com/cran/btergm
@@ -32969,6 +32972,9 @@
 [submodule "finbif"]
 	path = finbif
 	url = https://github.com/cran/finbif
+[submodule "finbipartite"]
+	path = finbipartite
+	url = https://github.com/cran/finbipartite
 [submodule "finch"]
 	path = finch
 	url = https://github.com/cran/finch
@@ -33005,6 +33011,9 @@
 [submodule "fingerprint"]
 	path = fingerprint
 	url = https://github.com/cran/fingerprint
+[submodule "fingraph"]
+	path = fingraph
+	url = https://github.com/cran/fingraph
 [submodule "finiteruinprob"]
 	path = finiteruinprob
 	url = https://github.com/cran/finiteruinprob
@@ -46271,6 +46280,9 @@
 [submodule "nberwp"]
 	path = nberwp
 	url = https://github.com/cran/nberwp
+[submodule "nbfar"]
+	path = nbfar
+	url = https://github.com/cran/nbfar
 [submodule "nblR"]
 	path = nblR
 	url = https://github.com/cran/nblR
@@ -60014,6 +60026,9 @@
 [submodule "spectralGP"]
 	path = spectralGP
 	url = https://github.com/cran/spectralGP
+[submodule "spectralGraphTopology"]
+	path = spectralGraphTopology
+	url = https://github.com/cran/spectralGraphTopology
 [submodule "spectralR"]
 	path = spectralR
 	url = https://github.com/cran/spectralR
