@@ -55040,6 +55040,9 @@
 [submodule "rlistings"]
 	path = rlistings
 	url = https://github.com/cran/rlistings
+[submodule "rllama"]
+	path = rllama
+	url = https://github.com/cran/rllama
 [submodule "rlmDataDriven"]
 	path = rlmDataDriven
 	url = https://github.com/cran/rlmDataDriven
