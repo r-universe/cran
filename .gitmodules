@@ -2393,6 +2393,9 @@
 [submodule "CMHSU"]
 	path = CMHSU
 	url = https://github.com/cran/CMHSU
+[submodule "CMIP6VisR"]
+	path = CMIP6VisR
+	url = https://github.com/cran/CMIP6VisR
 [submodule "CMLS"]
 	path = CMLS
 	url = https://github.com/cran/CMLS
@@ -2804,6 +2807,9 @@
 [submodule "CerioliOutlierDetection"]
 	path = CerioliOutlierDetection
 	url = https://github.com/cran/CerioliOutlierDetection
+[submodule "Certara.ModelResults"]
+	path = Certara.ModelResults
+	url = https://github.com/cran/Certara.ModelResults
 [submodule "Certara.NLME8"]
 	path = Certara.NLME8
 	url = https://github.com/cran/Certara.NLME8
@@ -8207,6 +8213,9 @@
 [submodule "IndexNumber"]
 	path = IndexNumber
 	url = https://github.com/cran/IndexNumber
+[submodule "IndexNumberTools"]
+	path = IndexNumberTools
+	url = https://github.com/cran/IndexNumberTools
 [submodule "IndexWizard"]
 	path = IndexWizard
 	url = https://github.com/cran/IndexWizard
@@ -28631,6 +28640,9 @@
 [submodule "deltaccd"]
 	path = deltaccd
 	url = https://github.com/cran/deltaccd
+[submodule "deltatest"]
+	path = deltatest
+	url = https://github.com/cran/deltatest
 [submodule "dematel"]
 	path = dematel
 	url = https://github.com/cran/dematel
@@ -42947,6 +42959,9 @@
 [submodule "mathpix"]
 	path = mathpix
 	url = https://github.com/cran/mathpix
+[submodule "maths.genealogy"]
+	path = maths.genealogy
+	url = https://github.com/cran/maths.genealogy
 [submodule "matlab"]
 	path = matlab
 	url = https://github.com/cran/matlab
@@ -43079,6 +43094,9 @@
 [submodule "mbRes"]
 	path = mbRes
 	url = https://github.com/cran/mbRes
+[submodule "mbX"]
+	path = mbX
+	url = https://github.com/cran/mbX
 [submodule "mbbe"]
 	path = mbbe
 	url = https://github.com/cran/mbbe
@@ -49451,6 +49469,9 @@
 [submodule "pendensity"]
 	path = pendensity
 	url = https://github.com/cran/pendensity
+[submodule "penetrance"]
+	path = penetrance
+	url = https://github.com/cran/penetrance
 [submodule "penfa"]
 	path = penfa
 	url = https://github.com/cran/penfa
@@ -53540,6 +53561,9 @@
 [submodule "rcompendium"]
 	path = rcompendium
 	url = https://github.com/cran/rcompendium
+[submodule "rconf"]
+	path = rconf
+	url = https://github.com/cran/rconf
 [submodule "rconfig"]
 	path = rconfig
 	url = https://github.com/cran/rconfig
@@ -55163,6 +55187,9 @@
 [submodule "rms"]
 	path = rms
 	url = https://github.com/cran/rms
+[submodule "rmsMD"]
+	path = rmsMD
+	url = https://github.com/cran/rmsMD
 [submodule "rmsb"]
 	path = rmsb
 	url = https://github.com/cran/rmsb
@@ -56570,6 +56597,9 @@
 [submodule "sahpm"]
 	path = sahpm
 	url = https://github.com/cran/sahpm
+[submodule "sakura"]
+	path = sakura
+	url = https://github.com/cran/sakura
 [submodule "salad"]
 	path = salad
 	url = https://github.com/cran/salad
