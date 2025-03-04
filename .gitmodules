@@ -28415,6 +28415,9 @@
 [submodule "dcurves"]
 	path = dcurves
 	url = https://github.com/cran/dcurves
+[submodule "dda"]
+	path = dda
+	url = https://github.com/cran/dda
 [submodule "ddalpha"]
 	path = ddalpha
 	url = https://github.com/cran/ddalpha
