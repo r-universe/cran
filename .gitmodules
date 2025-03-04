@@ -4580,6 +4580,9 @@
 [submodule "Dogoftest"]
 	path = Dogoftest
 	url = https://github.com/cran/Dogoftest
+[submodule "Domean"]
+	path = Domean
+	url = https://github.com/cran/Domean
 [submodule "DominoDataR"]
 	path = DominoDataR
 	url = https://github.com/cran/DominoDataR
@@ -9770,6 +9773,9 @@
 [submodule "MHDA"]
 	path = MHDA
 	url = https://github.com/cran/MHDA
+[submodule "MHQoL"]
+	path = MHQoL
+	url = https://github.com/cran/MHQoL
 [submodule "MHTdiscrete"]
 	path = MHTdiscrete
 	url = https://github.com/cran/MHTdiscrete
