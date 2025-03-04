@@ -2855,6 +2855,9 @@
 [submodule "ChaosGame"]
 	path = ChaosGame
 	url = https://github.com/cran/ChaosGame
+[submodule "Characterization"]
+	path = Characterization
+	url = https://github.com/cran/Characterization
 [submodule "CheckDigit"]
 	path = CheckDigit
 	url = https://github.com/cran/CheckDigit
@@ -41510,6 +41513,9 @@
 [submodule "likelihoodR"]
 	path = likelihoodR
 	url = https://github.com/cran/likelihoodR
+[submodule "likelihoodTools"]
+	path = likelihoodTools
+	url = https://github.com/cran/likelihoodTools
 [submodule "likert"]
 	path = likert
 	url = https://github.com/cran/likert
