@@ -1715,6 +1715,9 @@
 [submodule "BiTrinA"]
 	path = BiTrinA
 	url = https://github.com/cran/BiTrinA
+[submodule "BiVariAn"]
+	path = BiVariAn
+	url = https://github.com/cran/BiVariAn
 [submodule "BiasCorrector"]
 	path = BiasCorrector
 	url = https://github.com/cran/BiasCorrector
@@ -12932,6 +12935,9 @@
 [submodule "PheVis"]
 	path = PheVis
 	url = https://github.com/cran/PheVis
+[submodule "PhenoSpectra"]
+	path = PhenoSpectra
+	url = https://github.com/cran/PhenoSpectra
 [submodule "Phenotype"]
 	path = Phenotype
 	url = https://github.com/cran/Phenotype
@@ -30671,6 +30677,9 @@
 [submodule "ecotraj"]
 	path = ecotraj
 	url = https://github.com/cran/ecotraj
+[submodule "ecotrends"]
+	path = ecotrends
+	url = https://github.com/cran/ecotrends
 [submodule "ecoval"]
 	path = ecoval
 	url = https://github.com/cran/ecoval
@@ -44513,6 +44522,9 @@
 [submodule "mixtox"]
 	path = mixtox
 	url = https://github.com/cran/mixtox
+[submodule "mixtree"]
+	path = mixtree
+	url = https://github.com/cran/mixtree
 [submodule "mixtur"]
 	path = mixtur
 	url = https://github.com/cran/mixtur
@@ -46430,6 +46442,9 @@
 [submodule "nemBM"]
 	path = nemBM
 	url = https://github.com/cran/nemBM
+[submodule "nemsqar"]
+	path = nemsqar
+	url = https://github.com/cran/nemsqar
 [submodule "nemtr"]
 	path = nemtr
 	url = https://github.com/cran/nemtr
@@ -50057,6 +50072,9 @@
 [submodule "pinterestadsR"]
 	path = pinterestadsR
 	url = https://github.com/cran/pinterestadsR
+[submodule "pintervals"]
+	path = pintervals
+	url = https://github.com/cran/pintervals
 [submodule "pinyin"]
 	path = pinyin
 	url = https://github.com/cran/pinyin
