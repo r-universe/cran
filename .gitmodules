@@ -14141,6 +14141,9 @@
 [submodule "RH2"]
 	path = RH2
 	url = https://github.com/cran/RH2
+[submodule "RHC"]
+	path = RHC
+	url = https://github.com/cran/RHC
 [submodule "RHMS"]
 	path = RHMS
 	url = https://github.com/cran/RHMS
@@ -26534,6 +26537,9 @@
 [submodule "connectcreds"]
 	path = connectcreds
 	url = https://github.com/cran/connectcreds
+[submodule "connected"]
+	path = connected
+	url = https://github.com/cran/connected
 [submodule "connections"]
 	path = connections
 	url = https://github.com/cran/connections
