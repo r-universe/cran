@@ -698,6 +698,9 @@
 [submodule "AppliedPredictiveModeling"]
 	path = AppliedPredictiveModeling
 	url = https://github.com/cran/AppliedPredictiveModeling
+[submodule "ApplyPolygenicScore"]
+	path = ApplyPolygenicScore
+	url = https://github.com/cran/ApplyPolygenicScore
 [submodule "AquaAnalytix"]
 	path = AquaAnalytix
 	url = https://github.com/cran/AquaAnalytix
@@ -7679,6 +7682,9 @@
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cran/HypergeoMat
+[submodule "I14Y"]
+	path = I14Y
+	url = https://github.com/cran/I14Y
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
@@ -10577,6 +10583,9 @@
 [submodule "MetabolAnalyze"]
 	path = MetabolAnalyze
 	url = https://github.com/cran/MetabolAnalyze
+[submodule "MetabolSSMF"]
+	path = MetabolSSMF
+	url = https://github.com/cran/MetabolSSMF
 [submodule "MetabolicSurv"]
 	path = MetabolicSurv
 	url = https://github.com/cran/MetabolicSurv
@@ -15977,6 +15986,9 @@
 [submodule "Rphylopars"]
 	path = Rphylopars
 	url = https://github.com/cran/Rphylopars
+[submodule "RplotterPkg"]
+	path = RplotterPkg
+	url = https://github.com/cran/RplotterPkg
 [submodule "Rpoet"]
 	path = Rpoet
 	url = https://github.com/cran/Rpoet
@@ -30518,6 +30530,9 @@
 [submodule "ebirdst"]
 	path = ebirdst
 	url = https://github.com/cran/ebirdst
+[submodule "ebm"]
+	path = ebm
+	url = https://github.com/cran/ebm
 [submodule "ebmc"]
 	path = ebmc
 	url = https://github.com/cran/ebmc
@@ -37373,6 +37388,9 @@
 [submodule "hasseDiagram"]
 	path = hasseDiagram
 	url = https://github.com/cran/hasseDiagram
+[submodule "hatchR"]
+	path = hatchR
+	url = https://github.com/cran/hatchR
 [submodule "haven"]
 	path = haven
 	url = https://github.com/cran/haven
@@ -54608,6 +54626,9 @@
 [submodule "revgeo"]
 	path = revgeo
 	url = https://github.com/cran/revgeo
+[submodule "revise"]
+	path = revise
+	url = https://github.com/cran/revise
 [submodule "revpref"]
 	path = revpref
 	url = https://github.com/cran/revpref
