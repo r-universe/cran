@@ -2603,6 +2603,9 @@
 [submodule "CSclone"]
 	path = CSclone
 	url = https://github.com/cran/CSclone
+[submodule "CSeQTL"]
+	path = CSeQTL
+	url = https://github.com/cran/CSeQTL
 [submodule "CSeqpat"]
 	path = CSeqpat
 	url = https://github.com/cran/CSeqpat
@@ -14537,6 +14540,9 @@
 [submodule "ROI.plugin.symphony"]
 	path = ROI.plugin.symphony
 	url = https://github.com/cran/ROI.plugin.symphony
+[submodule "ROKET"]
+	path = ROKET
+	url = https://github.com/cran/ROKET
 [submodule "ROMDB"]
 	path = ROMDB
 	url = https://github.com/cran/ROMDB
@@ -20186,6 +20192,9 @@
 [submodule "actel"]
 	path = actel
 	url = https://github.com/cran/actel
+[submodule "actfts"]
+	path = actfts
+	url = https://github.com/cran/actfts
 [submodule "actilifecounts"]
 	path = actilifecounts
 	url = https://github.com/cran/actilifecounts
@@ -64460,6 +64469,9 @@
 [submodule "ui"]
 	path = ui
 	url = https://github.com/cran/ui
+[submodule "uisapi"]
+	path = uisapi
+	url = https://github.com/cran/uisapi
 [submodule "uiucthemes"]
 	path = uiucthemes
 	url = https://github.com/cran/uiucthemes
