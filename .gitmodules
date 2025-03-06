@@ -7055,9 +7055,6 @@
 [submodule "GiANT"]
 	path = GiANT
 	url = https://github.com/cran/GiANT
-[submodule "GiNA"]
-	path = GiNA
-	url = https://github.com/cran/GiNA
 [submodule "GiRaF"]
 	path = GiRaF
 	url = https://github.com/cran/GiRaF
@@ -9740,9 +9737,6 @@
 [submodule "MFPCA"]
 	path = MFPCA
 	url = https://github.com/cran/MFPCA
-[submodule "MFSIS"]
-	path = MFSIS
-	url = https://github.com/cran/MFSIS
 [submodule "MFT"]
 	path = MFT
 	url = https://github.com/cran/MFT
@@ -11957,9 +11951,6 @@
 [submodule "OptimalDesign"]
 	path = OptimalDesign
 	url = https://github.com/cran/OptimalDesign
-[submodule "OptimalGoldstandardDesigns"]
-	path = OptimalGoldstandardDesigns
-	url = https://github.com/cran/OptimalGoldstandardDesigns
 [submodule "OptimalRerandExpDesigns"]
 	path = OptimalRerandExpDesigns
 	url = https://github.com/cran/OptimalRerandExpDesigns
@@ -23003,9 +22994,6 @@
 [submodule "binaryGP"]
 	path = binaryGP
 	url = https://github.com/cran/binaryGP
-[submodule "binaryMM"]
-	path = binaryMM
-	url = https://github.com/cran/binaryMM
 [submodule "binb"]
 	path = binb
 	url = https://github.com/cran/binb
