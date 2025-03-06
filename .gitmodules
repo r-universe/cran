@@ -65027,6 +65027,9 @@
 [submodule "vartest"]
 	path = vartest
 	url = https://github.com/cran/vartest
+[submodule "varycoef"]
+	path = varycoef
+	url = https://github.com/cran/varycoef
 [submodule "vasicek"]
 	path = vasicek
 	url = https://github.com/cran/vasicek
