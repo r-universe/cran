@@ -3149,9 +3149,6 @@
 [submodule "CohortPlat"]
 	path = CohortPlat
 	url = https://github.com/cran/CohortPlat
-[submodule "CohortSurvival"]
-	path = CohortSurvival
-	url = https://github.com/cran/CohortSurvival
 [submodule "CohortSymmetry"]
 	path = CohortSymmetry
 	url = https://github.com/cran/CohortSymmetry
@@ -17030,9 +17027,6 @@
 [submodule "STREAK"]
 	path = STREAK
 	url = https://github.com/cran/STREAK
-[submodule "STRMPS"]
-	path = STRMPS
-	url = https://github.com/cran/STRMPS
 [submodule "STV"]
 	path = STV
 	url = https://github.com/cran/STV
