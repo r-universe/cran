@@ -2819,6 +2819,9 @@
 [submodule "CerioliOutlierDetection"]
 	path = CerioliOutlierDetection
 	url = https://github.com/cran/CerioliOutlierDetection
+[submodule "Certara.DarwinReporter"]
+	path = Certara.DarwinReporter
+	url = https://github.com/cran/Certara.DarwinReporter
 [submodule "Certara.ModelResults"]
 	path = Certara.ModelResults
 	url = https://github.com/cran/Certara.ModelResults
@@ -17294,6 +17297,9 @@
 [submodule "SequentialDesign"]
 	path = SequentialDesign
 	url = https://github.com/cran/SequentialDesign
+[submodule "SerolyzeR"]
+	path = SerolyzeR
+	url = https://github.com/cran/SerolyzeR
 [submodule "SetMethods"]
 	path = SetMethods
 	url = https://github.com/cran/SetMethods
@@ -51440,6 +51446,9 @@
 [submodule "prithulib"]
 	path = prithulib
 	url = https://github.com/cran/prithulib
+[submodule "prmisc"]
+	path = prmisc
+	url = https://github.com/cran/prmisc
 [submodule "prnsamplr"]
 	path = prnsamplr
 	url = https://github.com/cran/prnsamplr
