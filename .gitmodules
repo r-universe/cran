@@ -1352,6 +1352,9 @@
 [submodule "BaSkePro"]
 	path = BaSkePro
 	url = https://github.com/cran/BaSkePro
+[submodule "BacenAPI"]
+	path = BacenAPI
+	url = https://github.com/cran/BacenAPI
 [submodule "BalanceCheck"]
 	path = BalanceCheck
 	url = https://github.com/cran/BalanceCheck
@@ -12779,6 +12782,9 @@
 [submodule "ParallelPC"]
 	path = ParallelPC
 	url = https://github.com/cran/ParallelPC
+[submodule "ParamANOVA"]
+	path = ParamANOVA
+	url = https://github.com/cran/ParamANOVA
 [submodule "ParamHelpers"]
 	path = ParamHelpers
 	url = https://github.com/cran/ParamHelpers
@@ -32273,6 +32279,9 @@
 [submodule "facerec"]
 	path = facerec
 	url = https://github.com/cran/facerec
+[submodule "facilityepimath"]
+	path = facilityepimath
+	url = https://github.com/cran/facilityepimath
 [submodule "facmodCS"]
 	path = facmodCS
 	url = https://github.com/cran/facmodCS
@@ -37616,6 +37625,9 @@
 [submodule "helixvis"]
 	path = helixvis
 	url = https://github.com/cran/helixvis
+[submodule "hellmer"]
+	path = hellmer
+	url = https://github.com/cran/hellmer
 [submodule "hellno"]
 	path = hellno
 	url = https://github.com/cran/hellno
@@ -48584,6 +48596,9 @@
 [submodule "pPCA"]
 	path = pPCA
 	url = https://github.com/cran/pPCA
+[submodule "pQTLdata"]
+	path = pQTLdata
+	url = https://github.com/cran/pQTLdata
 [submodule "pRF"]
 	path = pRF
 	url = https://github.com/cran/pRF
@@ -56990,6 +57005,9 @@
 [submodule "scOntoMatch"]
 	path = scOntoMatch
 	url = https://github.com/cran/scOntoMatch
+[submodule "scPipeline"]
+	path = scPipeline
+	url = https://github.com/cran/scPipeline
 [submodule "scPloidy"]
 	path = scPloidy
 	url = https://github.com/cran/scPloidy
@@ -58292,6 +58310,9 @@
 [submodule "shinyTime"]
 	path = shinyTime
 	url = https://github.com/cran/shinyTime
+[submodule "shinyTimer"]
+	path = shinyTimer
+	url = https://github.com/cran/shinyTimer
 [submodule "shinyToastify"]
 	path = shinyToastify
 	url = https://github.com/cran/shinyToastify
@@ -62990,6 +63011,9 @@
 [submodule "tidyjson"]
 	path = tidyjson
 	url = https://github.com/cran/tidyjson
+[submodule "tidyklips"]
+	path = tidyklips
+	url = https://github.com/cran/tidyklips
 [submodule "tidylda"]
 	path = tidylda
 	url = https://github.com/cran/tidylda
@@ -63731,6 +63755,9 @@
 [submodule "transformer"]
 	path = transformer
 	url = https://github.com/cran/transformer
+[submodule "transformerForecasting"]
+	path = transformerForecasting
+	url = https://github.com/cran/transformerForecasting
 [submodule "transformmos"]
 	path = transformmos
 	url = https://github.com/cran/transformmos
@@ -65114,6 +65141,9 @@
 [submodule "veccompare"]
 	path = veccompare
 	url = https://github.com/cran/veccompare
+[submodule "vecmatch"]
+	path = vecmatch
+	url = https://github.com/cran/vecmatch
 [submodule "vecsets"]
 	path = vecsets
 	url = https://github.com/cran/vecsets
@@ -65342,6 +65372,9 @@
 [submodule "visachartR"]
 	path = visachartR
 	url = https://github.com/cran/visachartR
+[submodule "visae"]
+	path = visae
+	url = https://github.com/cran/visae
 [submodule "viscomp"]
 	path = viscomp
 	url = https://github.com/cran/viscomp
@@ -66473,6 +66506,9 @@
 [submodule "xlink"]
 	path = xlink
 	url = https://github.com/cran/xlink
+[submodule "xlr"]
+	path = xlr
+	url = https://github.com/cran/xlr
 [submodule "xlsx"]
 	path = xlsx
 	url = https://github.com/cran/xlsx
