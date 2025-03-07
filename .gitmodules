@@ -19823,6 +19823,9 @@
 [submodule "WufooR"]
 	path = WufooR
 	url = https://github.com/cran/WufooR
+[submodule "XBRL"]
+	path = XBRL
+	url = https://github.com/cran/XBRL
 [submodule "XDNUTS"]
 	path = XDNUTS
 	url = https://github.com/cran/XDNUTS
@@ -25568,6 +25571,9 @@
 [submodule "clintools"]
 	path = clintools
 	url = https://github.com/cran/clintools
+[submodule "clintrialx"]
+	path = clintrialx
+	url = https://github.com/cran/clintrialx
 [submodule "cliot"]
 	path = cliot
 	url = https://github.com/cran/cliot
@@ -33077,6 +33083,9 @@
 [submodule "finnts"]
 	path = finnts
 	url = https://github.com/cran/finnts
+[submodule "finreportr"]
+	path = finreportr
+	url = https://github.com/cran/finreportr
 [submodule "fio"]
 	path = fio
 	url = https://github.com/cran/fio
