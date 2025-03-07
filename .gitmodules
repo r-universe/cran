@@ -19067,9 +19067,6 @@
 [submodule "TruncatedNormal"]
 	path = TruncatedNormal
 	url = https://github.com/cran/TruncatedNormal
-[submodule "TukeyC"]
-	path = TukeyC
-	url = https://github.com/cran/TukeyC
 [submodule "TukeyGH77"]
 	path = TukeyGH77
 	url = https://github.com/cran/TukeyGH77
