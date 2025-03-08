@@ -18347,9 +18347,6 @@
 [submodule "TE"]
 	path = TE
 	url = https://github.com/cran/TE
-[submodule "TEAM"]
-	path = TEAM
-	url = https://github.com/cran/TEAM
 [submodule "TELP"]
 	path = TELP
 	url = https://github.com/cran/TELP
@@ -18614,9 +18611,6 @@
 [submodule "TSstudio"]
 	path = TSstudio
 	url = https://github.com/cran/TSstudio
-[submodule "TT"]
-	path = TT
-	url = https://github.com/cran/TT
 [submodule "TTAinterfaceTrendAnalysis"]
 	path = TTAinterfaceTrendAnalysis
 	url = https://github.com/cran/TTAinterfaceTrendAnalysis
@@ -25553,9 +25547,6 @@
 [submodule "clinDR"]
 	path = clinDR
 	url = https://github.com/cran/clinDR
-[submodule "clinDataReview"]
-	path = clinDataReview
-	url = https://github.com/cran/clinDataReview
 [submodule "clinPK"]
 	path = clinPK
 	url = https://github.com/cran/clinPK
