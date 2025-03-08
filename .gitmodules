@@ -55238,9 +55238,6 @@
 [submodule "rmgarch"]
 	path = rmgarch
 	url = https://github.com/cran/rmgarch
-[submodule "rmi"]
-	path = rmi
-	url = https://github.com/cran/rmi
 [submodule "rminer"]
 	path = rminer
 	url = https://github.com/cran/rminer
