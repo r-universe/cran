@@ -18347,6 +18347,9 @@
 [submodule "TE"]
 	path = TE
 	url = https://github.com/cran/TE
+[submodule "TEAM"]
+	path = TEAM
+	url = https://github.com/cran/TEAM
 [submodule "TELP"]
 	path = TELP
 	url = https://github.com/cran/TELP
@@ -18611,6 +18614,9 @@
 [submodule "TSstudio"]
 	path = TSstudio
 	url = https://github.com/cran/TSstudio
+[submodule "TT"]
+	path = TT
+	url = https://github.com/cran/TT
 [submodule "TTAinterfaceTrendAnalysis"]
 	path = TTAinterfaceTrendAnalysis
 	url = https://github.com/cran/TTAinterfaceTrendAnalysis
@@ -25547,6 +25553,9 @@
 [submodule "clinDR"]
 	path = clinDR
 	url = https://github.com/cran/clinDR
+[submodule "clinDataReview"]
+	path = clinDataReview
+	url = https://github.com/cran/clinDataReview
 [submodule "clinPK"]
 	path = clinPK
 	url = https://github.com/cran/clinPK
@@ -31469,9 +31478,6 @@
 [submodule "equateMultiple"]
 	path = equateMultiple
 	url = https://github.com/cran/equateMultiple
-[submodule "equatiomatic"]
-	path = equatiomatic
-	url = https://github.com/cran/equatiomatic
 [submodule "equiBSPD"]
 	path = equiBSPD
 	url = https://github.com/cran/equiBSPD
@@ -33398,9 +33404,6 @@
 [submodule "flow"]
 	path = flow
 	url = https://github.com/cran/flow
-[submodule "flowTraceR"]
-	path = flowTraceR
-	url = https://github.com/cran/flowTraceR
 [submodule "flowchart"]
 	path = flowchart
 	url = https://github.com/cran/flowchart
@@ -37481,9 +37484,6 @@
 [submodule "hdd"]
 	path = hdd
 	url = https://github.com/cran/hdd
-[submodule "hddplot"]
-	path = hddplot
-	url = https://github.com/cran/hddplot
 [submodule "hdf5r"]
 	path = hdf5r
 	url = https://github.com/cran/hdf5r
@@ -40646,9 +40646,6 @@
 [submodule "kmc"]
 	path = kmc
 	url = https://github.com/cran/kmc
-[submodule "kmeRs"]
-	path = kmeRs
-	url = https://github.com/cran/kmeRs
 [submodule "kmeRtone"]
 	path = kmeRtone
 	url = https://github.com/cran/kmeRtone
@@ -42800,9 +42797,6 @@
 [submodule "mappeR"]
 	path = mappeR
 	url = https://github.com/cran/mappeR
-[submodule "mapping"]
-	path = mapping
-	url = https://github.com/cran/mapping
 [submodule "mappings"]
 	path = mappings
 	url = https://github.com/cran/mappings
@@ -45410,9 +45404,6 @@
 [submodule "mpt"]
 	path = mpt
 	url = https://github.com/cran/mpt
-[submodule "mpwR"]
-	path = mpwR
-	url = https://github.com/cran/mpwR
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/cran/mr.pivw
@@ -47786,9 +47777,6 @@
 [submodule "ohsome"]
 	path = ohsome
 	url = https://github.com/cran/ohsome
-[submodule "ohtadstats"]
-	path = ohtadstats
-	url = https://github.com/cran/ohtadstats
 [submodule "ohun"]
 	path = ohun
 	url = https://github.com/cran/ohun
@@ -55529,9 +55517,6 @@
 [submodule "roccv"]
 	path = roccv
 	url = https://github.com/cran/roccv
-[submodule "rock"]
-	path = rock
-	url = https://github.com/cran/rock
 [submodule "rockchalk"]
 	path = rockchalk
 	url = https://github.com/cran/rockchalk
@@ -62969,9 +62954,6 @@
 [submodule "tidyfit"]
 	path = tidyfit
 	url = https://github.com/cran/tidyfit
-[submodule "tidyformula"]
-	path = tidyformula
-	url = https://github.com/cran/tidyformula
 [submodule "tidyfst"]
 	path = tidyfst
 	url = https://github.com/cran/tidyfst
