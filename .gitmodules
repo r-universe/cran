@@ -8873,6 +8873,9 @@
 [submodule "LFM"]
 	path = LFM
 	url = https://github.com/cran/LFM
+[submodule "LGCU"]
+	path = LGCU
+	url = https://github.com/cran/LGCU
 [submodule "LGDtoolkit"]
 	path = LGDtoolkit
 	url = https://github.com/cran/LGDtoolkit
@@ -54617,6 +54620,9 @@
 [submodule "retimer"]
 	path = retimer
 	url = https://github.com/cran/retimer
+[submodule "retistruct"]
+	path = retistruct
+	url = https://github.com/cran/retistruct
 [submodule "retmort"]
 	path = retmort
 	url = https://github.com/cran/retmort
