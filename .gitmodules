@@ -2444,6 +2444,9 @@
 [submodule "CNVScope"]
 	path = CNVScope
 	url = https://github.com/cran/CNVScope
+[submodule "CNVreg"]
+	path = CNVreg
+	url = https://github.com/cran/CNVreg
 [submodule "CNprep"]
 	path = CNprep
 	url = https://github.com/cran/CNprep
@@ -10667,6 +10670,9 @@
 [submodule "MicroSEC"]
 	path = MicroSEC
 	url = https://github.com/cran/MicroSEC
+[submodule "MicrobialGrowth"]
+	path = MicrobialGrowth
+	url = https://github.com/cran/MicrobialGrowth
 [submodule "MicrobiomeStat"]
 	path = MicrobiomeStat
 	url = https://github.com/cran/MicrobiomeStat
@@ -21224,6 +21230,9 @@
 [submodule "aplpack"]
 	path = aplpack
 	url = https://github.com/cran/aplpack
+[submodule "apm"]
+	path = apm
+	url = https://github.com/cran/apm
 [submodule "apmx"]
 	path = apmx
 	url = https://github.com/cran/apmx
@@ -23753,6 +23762,9 @@
 [submodule "brainR"]
 	path = brainR
 	url = https://github.com/cran/brainR
+[submodule "brandr"]
+	path = brandr
+	url = https://github.com/cran/brandr
 [submodule "brandwatchR"]
 	path = brandwatchR
 	url = https://github.com/cran/brandwatchR
@@ -25436,6 +25448,9 @@
 [submodule "classmap"]
 	path = classmap
 	url = https://github.com/cran/classmap
+[submodule "clayringsmiletus"]
+	path = clayringsmiletus
+	url = https://github.com/cran/clayringsmiletus
 [submodule "clc"]
 	path = clc
 	url = https://github.com/cran/clc
@@ -62120,6 +62135,9 @@
 [submodule "tabshiftr"]
 	path = tabshiftr
 	url = https://github.com/cran/tabshiftr
+[submodule "tabtibble"]
+	path = tabtibble
+	url = https://github.com/cran/tabtibble
 [submodule "tabuSearch"]
 	path = tabuSearch
 	url = https://github.com/cran/tabuSearch
