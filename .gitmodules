@@ -4076,6 +4076,9 @@
 [submodule "DRaWR"]
 	path = DRaWR
 	url = https://github.com/cran/DRaWR
+[submodule "DRclass"]
+	path = DRclass
+	url = https://github.com/cran/DRclass
 [submodule "DRomics"]
 	path = DRomics
 	url = https://github.com/cran/DRomics
@@ -34826,6 +34829,9 @@
 [submodule "geneHummus"]
 	path = geneHummus
 	url = https://github.com/cran/geneHummus
+[submodule "geneNR"]
+	path = geneNR
+	url = https://github.com/cran/geneNR
 [submodule "geneSLOPE"]
 	path = geneSLOPE
 	url = https://github.com/cran/geneSLOPE
@@ -36356,6 +36362,9 @@
 [submodule "gmwmx"]
 	path = gmwmx
 	url = https://github.com/cran/gmwmx
+[submodule "gmwmx2"]
+	path = gmwmx2
+	url = https://github.com/cran/gmwmx2
 [submodule "gnFit"]
 	path = gnFit
 	url = https://github.com/cran/gnFit
@@ -39467,6 +39476,9 @@
 [submodule "intrval"]
 	path = intrval
 	url = https://github.com/cran/intrval
+[submodule "intsel"]
+	path = intsel
+	url = https://github.com/cran/intsel
 [submodule "intsurv"]
 	path = intsurv
 	url = https://github.com/cran/intsurv
@@ -39992,6 +40004,9 @@
 [submodule "jalcal"]
 	path = jalcal
 	url = https://github.com/cran/jalcal
+[submodule "jamba"]
+	path = jamba
+	url = https://github.com/cran/jamba
 [submodule "janeaustenr"]
 	path = janeaustenr
 	url = https://github.com/cran/janeaustenr
@@ -41087,6 +41102,9 @@
 [submodule "lavaan"]
 	path = lavaan
 	url = https://github.com/cran/lavaan
+[submodule "lavaan.mi"]
+	path = lavaan.mi
+	url = https://github.com/cran/lavaan.mi
 [submodule "lavaan.printer"]
 	path = lavaan.printer
 	url = https://github.com/cran/lavaan.printer
@@ -52844,6 +52862,9 @@
 [submodule "rENA"]
 	path = rENA
 	url = https://github.com/cran/rENA
+[submodule "rFIA"]
+	path = rFIA
+	url = https://github.com/cran/rFIA
 [submodule "rFSA"]
 	path = rFSA
 	url = https://github.com/cran/rFSA
@@ -56702,6 +56723,9 @@
 [submodule "samc"]
 	path = samc
 	url = https://github.com/cran/samc
+[submodule "samesies"]
+	path = samesies
+	url = https://github.com/cran/samesies
 [submodule "samon"]
 	path = samon
 	url = https://github.com/cran/samon
