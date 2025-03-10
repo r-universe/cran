@@ -43172,9 +43172,6 @@
 [submodule "mbend"]
 	path = mbend
 	url = https://github.com/cran/mbend
-[submodule "mbest"]
-	path = mbest
-	url = https://github.com/cran/mbest
 [submodule "mbir"]
 	path = mbir
 	url = https://github.com/cran/mbir
