@@ -3602,6 +3602,9 @@
 [submodule "D3partitionR"]
 	path = D3partitionR
 	url = https://github.com/cran/D3partitionR
+[submodule "D4TAlink.light"]
+	path = D4TAlink.light
+	url = https://github.com/cran/D4TAlink.light
 [submodule "DA"]
 	path = DA
 	url = https://github.com/cran/DA
@@ -22568,9 +22571,6 @@
 [submodule "bdscale"]
 	path = bdscale
 	url = https://github.com/cran/bdscale
-[submodule "bdsm"]
-	path = bdsm
-	url = https://github.com/cran/bdsm
 [submodule "bdsmatrix"]
 	path = bdsmatrix
 	url = https://github.com/cran/bdsmatrix
@@ -43163,6 +43163,9 @@
 [submodule "mbend"]
 	path = mbend
 	url = https://github.com/cran/mbend
+[submodule "mbest"]
+	path = mbest
+	url = https://github.com/cran/mbest
 [submodule "mbir"]
 	path = mbir
 	url = https://github.com/cran/mbir
@@ -55517,6 +55520,9 @@
 [submodule "roccv"]
 	path = roccv
 	url = https://github.com/cran/roccv
+[submodule "rock"]
+	path = rock
+	url = https://github.com/cran/rock
 [submodule "rockchalk"]
 	path = rockchalk
 	url = https://github.com/cran/rockchalk
@@ -62456,9 +62462,6 @@
 [submodule "tern.mmrm"]
 	path = tern.mmrm
 	url = https://github.com/cran/tern.mmrm
-[submodule "tern.rbmi"]
-	path = tern.rbmi
-	url = https://github.com/cran/tern.rbmi
 [submodule "ternvis"]
 	path = ternvis
 	url = https://github.com/cran/ternvis
@@ -65831,6 +65834,9 @@
 [submodule "wearables"]
 	path = wearables
 	url = https://github.com/cran/wearables
+[submodule "weatherOz"]
+	path = weatherOz
+	url = https://github.com/cran/weatherOz
 [submodule "weatherindices"]
 	path = weatherindices
 	url = https://github.com/cran/weatherindices
