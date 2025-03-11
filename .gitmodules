@@ -8132,6 +8132,9 @@
 [submodule "IVCor"]
 	path = IVCor
 	url = https://github.com/cran/IVCor
+[submodule "IVDML"]
+	path = IVDML
+	url = https://github.com/cran/IVDML
 [submodule "IVPP"]
 	path = IVPP
 	url = https://github.com/cran/IVPP
@@ -8441,6 +8444,9 @@
 [submodule "JMbayes2"]
 	path = JMbayes2
 	url = https://github.com/cran/JMbayes2
+[submodule "JMbdirect"]
+	path = JMbdirect
+	url = https://github.com/cran/JMbdirect
 [submodule "JMdesign"]
 	path = JMdesign
 	url = https://github.com/cran/JMdesign
@@ -12017,6 +12023,9 @@
 [submodule "OwenQ"]
 	path = OwenQ
 	url = https://github.com/cran/OwenQ
+[submodule "OxSR"]
+	path = OxSR
+	url = https://github.com/cran/OxSR
 [submodule "OxyBS"]
 	path = OxyBS
 	url = https://github.com/cran/OxyBS
@@ -12170,6 +12179,9 @@
 [submodule "PCovR"]
 	path = PCovR
 	url = https://github.com/cran/PCovR
+[submodule "PCpluS"]
+	path = PCpluS
+	url = https://github.com/cran/PCpluS
 [submodule "PDE"]
 	path = PDE
 	url = https://github.com/cran/PDE
@@ -46850,6 +46862,9 @@
 [submodule "nimbleHMC"]
 	path = nimbleHMC
 	url = https://github.com/cran/nimbleHMC
+[submodule "nimbleMacros"]
+	path = nimbleMacros
+	url = https://github.com/cran/nimbleMacros
 [submodule "nimbleNoBounds"]
 	path = nimbleNoBounds
 	url = https://github.com/cran/nimbleNoBounds
@@ -61103,6 +61118,9 @@
 [submodule "storr"]
 	path = storr
 	url = https://github.com/cran/storr
+[submodule "stors"]
+	path = stors
+	url = https://github.com/cran/stors
 [submodule "stortingscrape"]
 	path = stortingscrape
 	url = https://github.com/cran/stortingscrape
