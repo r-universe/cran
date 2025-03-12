@@ -22571,6 +22571,9 @@
 [submodule "bdscale"]
 	path = bdscale
 	url = https://github.com/cran/bdscale
+[submodule "bdsm"]
+	path = bdsm
+	url = https://github.com/cran/bdsm
 [submodule "bdsmatrix"]
 	path = bdsmatrix
 	url = https://github.com/cran/bdsmatrix
@@ -62468,6 +62471,9 @@
 [submodule "tern.mmrm"]
 	path = tern.mmrm
 	url = https://github.com/cran/tern.mmrm
+[submodule "tern.rbmi"]
+	path = tern.rbmi
+	url = https://github.com/cran/tern.rbmi
 [submodule "ternvis"]
 	path = ternvis
 	url = https://github.com/cran/ternvis
