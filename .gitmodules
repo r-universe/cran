@@ -54245,9 +54245,6 @@
 [submodule "rehh.data"]
 	path = rehh.data
 	url = https://github.com/cran/rehh.data
-[submodule "rehydratoR"]
-	path = rehydratoR
-	url = https://github.com/cran/rehydratoR
 [submodule "reinstallr"]
 	path = reinstallr
 	url = https://github.com/cran/reinstallr
