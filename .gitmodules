@@ -14183,6 +14183,9 @@
 [submodule "RIFS"]
 	path = RIFS
 	url = https://github.com/cran/RIFS
+[submodule "RIIM"]
+	path = RIIM
+	url = https://github.com/cran/RIIM
 [submodule "RISCA"]
 	path = RISCA
 	url = https://github.com/cran/RISCA
@@ -19505,6 +19508,9 @@
 [submodule "VisualizeSimon2Stage"]
 	path = VisualizeSimon2Stage
 	url = https://github.com/cran/VisualizeSimon2Stage
+[submodule "VizTest"]
+	path = VizTest
+	url = https://github.com/cran/VizTest
 [submodule "VorteksExport"]
 	path = VorteksExport
 	url = https://github.com/cran/VorteksExport
@@ -24605,6 +24611,9 @@
 [submodule "causaloptim"]
 	path = causaloptim
 	url = https://github.com/cran/causaloptim
+[submodule "causalreg"]
+	path = causalreg
+	url = https://github.com/cran/causalreg
 [submodule "causalsens"]
 	path = causalsens
 	url = https://github.com/cran/causalsens
@@ -28193,6 +28202,9 @@
 [submodule "datapack"]
 	path = datapack
 	url = https://github.com/cran/datapack
+[submodule "datapackage"]
+	path = datapackage
+	url = https://github.com/cran/datapackage
 [submodule "datapasta"]
 	path = datapasta
 	url = https://github.com/cran/datapasta
@@ -51383,6 +51395,9 @@
 [submodule "princurve"]
 	path = princurve
 	url = https://github.com/cran/princurve
+[submodule "prinsurf"]
+	path = prinsurf
+	url = https://github.com/cran/prinsurf
 [submodule "printr"]
 	path = printr
 	url = https://github.com/cran/printr
@@ -62279,6 +62294,9 @@
 [submodule "tcplfit2"]
 	path = tcplfit2
 	url = https://github.com/cran/tcplfit2
+[submodule "tcxr"]
+	path = tcxr
+	url = https://github.com/cran/tcxr
 [submodule "td"]
 	path = td
 	url = https://github.com/cran/td
