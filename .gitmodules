@@ -2072,6 +2072,9 @@
 [submodule "CANSIM2R"]
 	path = CANSIM2R
 	url = https://github.com/cran/CANSIM2R
+[submodule "CAOP.RAA.2024"]
+	path = CAOP.RAA.2024
+	url = https://github.com/cran/CAOP.RAA.2024
 [submodule "CARBayes"]
 	path = CARBayes
 	url = https://github.com/cran/CARBayes
@@ -7235,6 +7238,9 @@
 [submodule "HACSim"]
 	path = HACSim
 	url = https://github.com/cran/HACSim
+[submodule "HARplus"]
+	path = HARplus
+	url = https://github.com/cran/HARplus
 [submodule "HBSTM"]
 	path = HBSTM
 	url = https://github.com/cran/HBSTM
@@ -15293,6 +15299,9 @@
 [submodule "RcppClock"]
 	path = RcppClock
 	url = https://github.com/cran/RcppClock
+[submodule "RcppColMetric"]
+	path = RcppColMetric
+	url = https://github.com/cran/RcppColMetric
 [submodule "RcppColors"]
 	path = RcppColors
 	url = https://github.com/cran/RcppColors
@@ -17306,6 +17315,9 @@
 [submodule "Seurat"]
 	path = Seurat
 	url = https://github.com/cran/Seurat
+[submodule "SeuratExplorer"]
+	path = SeuratExplorer
+	url = https://github.com/cran/SeuratExplorer
 [submodule "SeuratObject"]
 	path = SeuratObject
 	url = https://github.com/cran/SeuratObject
@@ -20063,6 +20075,9 @@
 [submodule "abmR"]
 	path = abmR
 	url = https://github.com/cran/abmR
+[submodule "abms"]
+	path = abms
+	url = https://github.com/cran/abms
 [submodule "abn"]
 	path = abn
 	url = https://github.com/cran/abn
@@ -24848,6 +24863,9 @@
 [submodule "censored"]
 	path = censored
 	url = https://github.com/cran/censored
+[submodule "censoredAIDS"]
+	path = censoredAIDS
+	url = https://github.com/cran/censoredAIDS
 [submodule "censusapi"]
 	path = censusapi
 	url = https://github.com/cran/censusapi
@@ -25775,6 +25793,9 @@
 [submodule "clv"]
 	path = clv
 	url = https://github.com/cran/clv
+[submodule "cmAnalysis"]
+	path = cmAnalysis
+	url = https://github.com/cran/cmAnalysis
 [submodule "cmR"]
 	path = cmR
 	url = https://github.com/cran/cmR
@@ -27161,6 +27182,9 @@
 [submodule "cpa"]
 	path = cpa
 	url = https://github.com/cran/cpa
+[submodule "cpam"]
+	path = cpam
+	url = https://github.com/cran/cpam
 [submodule "cpd"]
 	path = cpd
 	url = https://github.com/cran/cpd
@@ -46028,6 +46052,9 @@
 [submodule "mvMonitoring"]
 	path = mvMonitoring
 	url = https://github.com/cran/mvMonitoring
+[submodule "mvPot"]
+	path = mvPot
+	url = https://github.com/cran/mvPot
 [submodule "mvProbit"]
 	path = mvProbit
 	url = https://github.com/cran/mvProbit
@@ -56942,6 +56969,9 @@
 [submodule "sbgcop"]
 	path = sbgcop
 	url = https://github.com/cran/sbgcop
+[submodule "sbim"]
+	path = sbim
+	url = https://github.com/cran/sbim
 [submodule "sbl"]
 	path = sbl
 	url = https://github.com/cran/sbl
@@ -63308,6 +63338,9 @@
 [submodule "tinyProject"]
 	path = tinyProject
 	url = https://github.com/cran/tinyProject
+[submodule "tinyVAST"]
+	path = tinyVAST
+	url = https://github.com/cran/tinyVAST
 [submodule "tinyarray"]
 	path = tinyarray
 	url = https://github.com/cran/tinyarray
