@@ -13721,6 +13721,9 @@
 [submodule "R4CouchDB"]
 	path = R4CouchDB
 	url = https://github.com/cran/R4CouchDB
+[submodule "R4GoodPersonalFinances"]
+	path = R4GoodPersonalFinances
+	url = https://github.com/cran/R4GoodPersonalFinances
 [submodule "R4HCR"]
 	path = R4HCR
 	url = https://github.com/cran/R4HCR
@@ -41726,6 +41729,9 @@
 [submodule "lintr"]
 	path = lintr
 	url = https://github.com/cran/lintr
+[submodule "lionfish"]
+	path = lionfish
+	url = https://github.com/cran/lionfish
 [submodule "lipidmapsR"]
 	path = lipidmapsR
 	url = https://github.com/cran/lipidmapsR
@@ -50255,6 +50261,9 @@
 [submodule "pkgdepends"]
 	path = pkgdepends
 	url = https://github.com/cran/pkgdepends
+[submodule "pkgdiff"]
+	path = pkgdiff
+	url = https://github.com/cran/pkgdiff
 [submodule "pkgdown"]
 	path = pkgdown
 	url = https://github.com/cran/pkgdown
@@ -65942,6 +65951,9 @@
 [submodule "webp"]
 	path = webp
 	url = https://github.com/cran/webp
+[submodule "webqueue"]
+	path = webqueue
+	url = https://github.com/cran/webqueue
 [submodule "webr"]
 	path = webr
 	url = https://github.com/cran/webr
