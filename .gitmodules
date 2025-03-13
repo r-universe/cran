@@ -6899,6 +6899,9 @@
 [submodule "GenEst"]
 	path = GenEst
 	url = https://github.com/cran/GenEst
+[submodule "GenHMM1d"]
+	path = GenHMM1d
+	url = https://github.com/cran/GenHMM1d
 [submodule "GenMarkov"]
 	path = GenMarkov
 	url = https://github.com/cran/GenMarkov
@@ -25571,6 +25574,9 @@
 [submodule "clinicalsignificance"]
 	path = clinicalsignificance
 	url = https://github.com/cran/clinicalsignificance
+[submodule "clinify"]
+	path = clinify
+	url = https://github.com/cran/clinify
 [submodule "clinmon"]
 	path = clinmon
 	url = https://github.com/cran/clinmon
@@ -26939,6 +26945,9 @@
 [submodule "cosso"]
 	path = cosso
 	url = https://github.com/cran/cosso
+[submodule "cossonet"]
+	path = cossonet
+	url = https://github.com/cran/cossonet
 [submodule "costat"]
 	path = costat
 	url = https://github.com/cran/costat
@@ -53441,6 +53450,9 @@
 [submodule "raven.rdf"]
 	path = raven.rdf
 	url = https://github.com/cran/raven.rdf
+[submodule "ravepipeline"]
+	path = ravepipeline
+	url = https://github.com/cran/ravepipeline
 [submodule "ravetools"]
 	path = ravetools
 	url = https://github.com/cran/ravetools
