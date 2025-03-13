@@ -30560,9 +30560,6 @@
 [submodule "ecce"]
 	path = ecce
 	url = https://github.com/cran/ecce
-[submodule "ecdata"]
-	path = ecdata
-	url = https://github.com/cran/ecdata
 [submodule "ecdfHT"]
 	path = ecdfHT
 	url = https://github.com/cran/ecdfHT
