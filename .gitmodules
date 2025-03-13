@@ -10652,9 +10652,6 @@
 [submodule "MicroNiche"]
 	path = MicroNiche
 	url = https://github.com/cran/MicroNiche
-[submodule "MicroSEC"]
-	path = MicroSEC
-	url = https://github.com/cran/MicroSEC
 [submodule "MicrobialGrowth"]
 	path = MicrobialGrowth
 	url = https://github.com/cran/MicrobialGrowth
