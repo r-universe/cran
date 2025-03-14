@@ -34769,6 +34769,9 @@
 [submodule "geiger"]
 	path = geiger
 	url = https://github.com/cran/geiger
+[submodule "gek"]
+	path = gek
+	url = https://github.com/cran/gek
 [submodule "gellipsoid"]
 	path = gellipsoid
 	url = https://github.com/cran/gellipsoid
@@ -52598,6 +52601,9 @@
 [submodule "quarrint"]
 	path = quarrint
 	url = https://github.com/cran/quarrint
+[submodule "quartabs"]
+	path = quartabs
+	url = https://github.com/cran/quartabs
 [submodule "quartets"]
 	path = quartets
 	url = https://github.com/cran/quartets
