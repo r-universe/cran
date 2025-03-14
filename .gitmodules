@@ -27227,6 +27227,9 @@
 [submodule "cpp11qpdf"]
 	path = cpp11qpdf
 	url = https://github.com/cran/cpp11qpdf
+[submodule "cpp11tesseract"]
+	path = cpp11tesseract
+	url = https://github.com/cran/cpp11tesseract
 [submodule "cppRouting"]
 	path = cppRouting
 	url = https://github.com/cran/cppRouting
