@@ -40418,6 +40418,9 @@
 [submodule "kazaam"]
 	path = kazaam
 	url = https://github.com/cran/kazaam
+[submodule "kbal"]
+	path = kbal
+	url = https://github.com/cran/kbal
 [submodule "kcmeans"]
 	path = kcmeans
 	url = https://github.com/cran/kcmeans
