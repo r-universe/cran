@@ -17138,6 +17138,9 @@
 [submodule "SaturnCoefficient"]
 	path = SaturnCoefficient
 	url = https://github.com/cran/SaturnCoefficient
+[submodule "ScRNAIMM"]
+	path = ScRNAIMM
+	url = https://github.com/cran/ScRNAIMM
 [submodule "ScaleSpikeSlab"]
 	path = ScaleSpikeSlab
 	url = https://github.com/cran/ScaleSpikeSlab
@@ -57020,6 +57023,9 @@
 [submodule "scBio"]
 	path = scBio
 	url = https://github.com/cran/scBio
+[submodule "scCAN"]
+	path = scCAN
+	url = https://github.com/cran/scCAN
 [submodule "scCATCH"]
 	path = scCATCH
 	url = https://github.com/cran/scCATCH
@@ -57029,6 +57035,9 @@
 [submodule "scDECO"]
 	path = scDECO
 	url = https://github.com/cran/scDECO
+[submodule "scDHA"]
+	path = scDHA
+	url = https://github.com/cran/scDHA
 [submodule "scDIFtest"]
 	path = scDIFtest
 	url = https://github.com/cran/scDIFtest
