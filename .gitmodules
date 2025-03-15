@@ -13376,6 +13376,9 @@
 [submodule "ProteoBayes"]
 	path = ProteoBayes
 	url = https://github.com/cran/ProteoBayes
+[submodule "ProxReg"]
+	path = ProxReg
+	url = https://github.com/cran/ProxReg
 [submodule "Przewodnik"]
 	path = Przewodnik
 	url = https://github.com/cran/Przewodnik
@@ -15119,6 +15122,9 @@
 [submodule "RcausalEGM"]
 	path = RcausalEGM
 	url = https://github.com/cran/RcausalEGM
+[submodule "RcensusPkg"]
+	path = RcensusPkg
+	url = https://github.com/cran/RcensusPkg
 [submodule "Rcereal"]
 	path = Rcereal
 	url = https://github.com/cran/Rcereal
@@ -15314,6 +15320,9 @@
 [submodule "RcppDE"]
 	path = RcppDE
 	url = https://github.com/cran/RcppDE
+[submodule "RcppDPR"]
+	path = RcppDPR
+	url = https://github.com/cran/RcppDPR
 [submodule "RcppDate"]
 	path = RcppDate
 	url = https://github.com/cran/RcppDate
@@ -17585,6 +17594,9 @@
 [submodule "SnakesAndLaddersAnalysis"]
 	path = SnakesAndLaddersAnalysis
 	url = https://github.com/cran/SnakesAndLaddersAnalysis
+[submodule "SnowData"]
+	path = SnowData
+	url = https://github.com/cran/SnowData
 [submodule "SnowballC"]
 	path = SnowballC
 	url = https://github.com/cran/SnowballC
@@ -20960,6 +20972,9 @@
 [submodule "ambient"]
 	path = ambient
 	url = https://github.com/cran/ambient
+[submodule "ambiorix"]
+	path = ambiorix
+	url = https://github.com/cran/ambiorix
 [submodule "ambit"]
 	path = ambit
 	url = https://github.com/cran/ambit
@@ -35951,6 +35966,9 @@
 [submodule "ggversa"]
 	path = ggversa
 	url = https://github.com/cran/ggversa
+[submodule "ggvfields"]
+	path = ggvfields
+	url = https://github.com/cran/ggvfields
 [submodule "ggview"]
 	path = ggview
 	url = https://github.com/cran/ggview
@@ -36476,6 +36494,9 @@
 [submodule "golem"]
 	path = golem
 	url = https://github.com/cran/golem
+[submodule "golfr"]
+	path = golfr
+	url = https://github.com/cran/golfr
 [submodule "gomms"]
 	path = gomms
 	url = https://github.com/cran/gomms
@@ -38567,6 +38588,9 @@
 [submodule "iRepro"]
 	path = iRepro
 	url = https://github.com/cran/iRepro
+[submodule "iRfcb"]
+	path = iRfcb
+	url = https://github.com/cran/iRfcb
 [submodule "iRoCoDe"]
 	path = iRoCoDe
 	url = https://github.com/cran/iRoCoDe
@@ -59726,6 +59750,9 @@
 [submodule "sourcetools"]
 	path = sourcetools
 	url = https://github.com/cran/sourcetools
+[submodule "sourcoise"]
+	path = sourcoise
+	url = https://github.com/cran/sourcoise
 [submodule "sovereign"]
 	path = sovereign
 	url = https://github.com/cran/sovereign
