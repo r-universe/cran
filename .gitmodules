@@ -37448,9 +37448,6 @@
 [submodule "hashr"]
 	path = hashr
 	url = https://github.com/cran/hashr
-[submodule "hasseDiagram"]
-	path = hasseDiagram
-	url = https://github.com/cran/hasseDiagram
 [submodule "hatchR"]
 	path = hatchR
 	url = https://github.com/cran/hatchR
