@@ -40667,6 +40667,9 @@
 [submodule "kitagawa"]
 	path = kitagawa
 	url = https://github.com/cran/kitagawa
+[submodule "kitesquare"]
+	path = kitesquare
+	url = https://github.com/cran/kitesquare
 [submodule "kiwisR"]
 	path = kiwisR
 	url = https://github.com/cran/kiwisR
@@ -55229,6 +55232,9 @@
 [submodule "rlog"]
 	path = rlog
 	url = https://github.com/cran/rlog
+[submodule "rlowdb"]
+	path = rlowdb
+	url = https://github.com/cran/rlowdb
 [submodule "rly"]
 	path = rly
 	url = https://github.com/cran/rly
@@ -58352,6 +58358,9 @@
 [submodule "shinyNORRRM"]
 	path = shinyNORRRM
 	url = https://github.com/cran/shinyNORRRM
+[submodule "shinyNextUI"]
+	path = shinyNextUI
+	url = https://github.com/cran/shinyNextUI
 [submodule "shinyNotes"]
 	path = shinyNotes
 	url = https://github.com/cran/shinyNotes
