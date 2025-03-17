@@ -47183,9 +47183,6 @@
 [submodule "nodiv"]
 	path = nodiv
 	url = https://github.com/cran/nodiv
-[submodule "noegletalR"]
-	path = noegletalR
-	url = https://github.com/cran/noegletalR
 [submodule "nofrills"]
 	path = nofrills
 	url = https://github.com/cran/nofrills
