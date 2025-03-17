@@ -52937,6 +52937,9 @@
 [submodule "rGroovy"]
 	path = rGroovy
 	url = https://github.com/cran/rGroovy
+[submodule "rIACI"]
+	path = rIACI
+	url = https://github.com/cran/rIACI
 [submodule "rIntervalTree"]
 	path = rIntervalTree
 	url = https://github.com/cran/rIntervalTree
