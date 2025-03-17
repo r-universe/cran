@@ -4964,6 +4964,9 @@
 [submodule "EQL"]
 	path = EQL
 	url = https://github.com/cran/EQL
+[submodule "EQRN"]
+	path = EQRN
+	url = https://github.com/cran/EQRN
 [submodule "EQUALSTATS"]
 	path = EQUALSTATS
 	url = https://github.com/cran/EQUALSTATS
@@ -6164,6 +6167,9 @@
 [submodule "FunChisq"]
 	path = FunChisq
 	url = https://github.com/cran/FunChisq
+[submodule "FunSurv"]
+	path = FunSurv
+	url = https://github.com/cran/FunSurv
 [submodule "FunWithNumbers"]
 	path = FunWithNumbers
 	url = https://github.com/cran/FunWithNumbers
@@ -48740,6 +48746,9 @@
 [submodule "pacs"]
 	path = pacs
 	url = https://github.com/cran/pacs
+[submodule "pacta.loanbook"]
+	path = pacta.loanbook
+	url = https://github.com/cran/pacta.loanbook
 [submodule "pacta.multi.loanbook"]
 	path = pacta.multi.loanbook
 	url = https://github.com/cran/pacta.multi.loanbook
