@@ -45863,9 +45863,6 @@
 [submodule "multilandr"]
 	path = multilandr
 	url = https://github.com/cran/multilandr
-[submodule "multilaterals"]
-	path = multilaterals
-	url = https://github.com/cran/multilaterals
 [submodule "multilevLCA"]
 	path = multilevLCA
 	url = https://github.com/cran/multilevLCA
