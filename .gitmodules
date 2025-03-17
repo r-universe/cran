@@ -65975,9 +65975,6 @@
 [submodule "webp"]
 	path = webp
 	url = https://github.com/cran/webp
-[submodule "webqueue"]
-	path = webqueue
-	url = https://github.com/cran/webqueue
 [submodule "webr"]
 	path = webr
 	url = https://github.com/cran/webr
