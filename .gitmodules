@@ -9755,6 +9755,9 @@
 [submodule "MFPCA"]
 	path = MFPCA
 	url = https://github.com/cran/MFPCA
+[submodule "MFSIS"]
+	path = MFSIS
+	url = https://github.com/cran/MFSIS
 [submodule "MFT"]
 	path = MFT
 	url = https://github.com/cran/MFT
