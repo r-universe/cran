@@ -4253,6 +4253,9 @@
 [submodule "DataSetsUni"]
 	path = DataSetsUni
 	url = https://github.com/cran/DataSetsUni
+[submodule "DataSimilarity"]
+	path = DataSimilarity
+	url = https://github.com/cran/DataSimilarity
 [submodule "DataSpaceR"]
 	path = DataSpaceR
 	url = https://github.com/cran/DataSpaceR
