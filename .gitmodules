@@ -15665,6 +15665,9 @@
 [submodule "ResIN"]
 	path = ResIN
 	url = https://github.com/cran/ResIN
+[submodule "ResIndex"]
+	path = ResIndex
+	url = https://github.com/cran/ResIndex
 [submodule "ResPBIBD"]
 	path = ResPBIBD
 	url = https://github.com/cran/ResPBIBD
@@ -16691,6 +16694,9 @@
 [submodule "SLTCA"]
 	path = SLTCA
 	url = https://github.com/cran/SLTCA
+[submodule "SLmetrics"]
+	path = SLmetrics
+	url = https://github.com/cran/SLmetrics
 [submodule "SMARTbayesR"]
 	path = SMARTbayesR
 	url = https://github.com/cran/SMARTbayesR
@@ -17963,6 +17969,9 @@
 [submodule "StatRank"]
 	path = StatRank
 	url = https://github.com/cran/StatRank
+[submodule "StatRec"]
+	path = StatRec
+	url = https://github.com/cran/StatRec
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/cran/Statamarkdown
@@ -18509,6 +18518,9 @@
 [submodule "TPMplt"]
 	path = TPMplt
 	url = https://github.com/cran/TPMplt
+[submodule "TPXG"]
+	path = TPXG
+	url = https://github.com/cran/TPXG
 [submodule "TPmsm"]
 	path = TPmsm
 	url = https://github.com/cran/TPmsm
@@ -30713,6 +30725,9 @@
 [submodule "econetwork"]
 	path = econetwork
 	url = https://github.com/cran/econetwork
+[submodule "econid"]
+	path = econid
+	url = https://github.com/cran/econid
 [submodule "economiccomplexity"]
 	path = economiccomplexity
 	url = https://github.com/cran/economiccomplexity
@@ -32117,6 +32132,9 @@
 [submodule "extraDistr"]
 	path = extraDistr
 	url = https://github.com/cran/extraDistr
+[submodule "extractFAERS"]
+	path = extractFAERS
+	url = https://github.com/cran/extractFAERS
 [submodule "extractox"]
 	path = extractox
 	url = https://github.com/cran/extractox
@@ -33275,6 +33293,9 @@
 [submodule "fixerapi"]
 	path = fixerapi
 	url = https://github.com/cran/fixerapi
+[submodule "fixes"]
+	path = fixes
+	url = https://github.com/cran/fixes
 [submodule "fixest"]
 	path = fixest
 	url = https://github.com/cran/fixest
@@ -44375,6 +44396,9 @@
 [submodule "minimalRSD"]
 	path = minimalRSD
 	url = https://github.com/cran/minimalRSD
+[submodule "minimalistGODB"]
+	path = minimalistGODB
+	url = https://github.com/cran/minimalistGODB
 [submodule "minimap"]
 	path = minimap
 	url = https://github.com/cran/minimap
@@ -46709,6 +46733,9 @@
 [submodule "nett"]
 	path = nett
 	url = https://github.com/cran/nett
+[submodule "nettskjemar"]
+	path = nettskjemar
+	url = https://github.com/cran/nettskjemar
 [submodule "network"]
 	path = network
 	url = https://github.com/cran/network
@@ -55352,6 +55379,9 @@
 [submodule "rmlnomogram"]
 	path = rmlnomogram
 	url = https://github.com/cran/rmlnomogram
+[submodule "rmon"]
+	path = rmon
+	url = https://github.com/cran/rmon
 [submodule "rmonocypher"]
 	path = rmonocypher
 	url = https://github.com/cran/rmonocypher
