@@ -2069,6 +2069,9 @@
 [submodule "CAMML"]
 	path = CAMML
 	url = https://github.com/cran/CAMML
+[submodule "CANE"]
+	path = CANE
+	url = https://github.com/cran/CANE
 [submodule "CANSIM2R"]
 	path = CANSIM2R
 	url = https://github.com/cran/CANSIM2R
@@ -3149,6 +3152,9 @@
 [submodule "CohortGenerator"]
 	path = CohortGenerator
 	url = https://github.com/cran/CohortGenerator
+[submodule "CohortPathways"]
+	path = CohortPathways
+	url = https://github.com/cran/CohortPathways
 [submodule "CohortPlat"]
 	path = CohortPlat
 	url = https://github.com/cran/CohortPlat
