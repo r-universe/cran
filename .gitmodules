@@ -10994,6 +10994,9 @@
 [submodule "MultiLCIRT"]
 	path = MultiLCIRT
 	url = https://github.com/cran/MultiLCIRT
+[submodule "MultiNMix"]
+	path = MultiNMix
+	url = https://github.com/cran/MultiNMix
 [submodule "MultiObjMatch"]
 	path = MultiObjMatch
 	url = https://github.com/cran/MultiObjMatch
@@ -12359,9 +12362,6 @@
 [submodule "PLMIX"]
 	path = PLMIX
 	url = https://github.com/cran/PLMIX
-[submodule "PLNmodels"]
-	path = PLNmodels
-	url = https://github.com/cran/PLNmodels
 [submodule "PLORN"]
 	path = PLORN
 	url = https://github.com/cran/PLORN
@@ -19742,6 +19742,9 @@
 [submodule "WayFindR"]
 	path = WayFindR
 	url = https://github.com/cran/WayFindR
+[submodule "Waypoint"]
+	path = Waypoint
+	url = https://github.com/cran/Waypoint
 [submodule "Wcompo"]
 	path = Wcompo
 	url = https://github.com/cran/Wcompo
@@ -21860,6 +21863,9 @@
 [submodule "autocogs"]
 	path = autocogs
 	url = https://github.com/cran/autocogs
+[submodule "autodb"]
+	path = autodb
+	url = https://github.com/cran/autodb
 [submodule "autogam"]
 	path = autogam
 	url = https://github.com/cran/autogam
@@ -36335,6 +36341,9 @@
 [submodule "glober"]
 	path = glober
 	url = https://github.com/cran/glober
+[submodule "globpso"]
+	path = globpso
+	url = https://github.com/cran/globpso
 [submodule "glogis"]
 	path = glogis
 	url = https://github.com/cran/glogis
@@ -40571,6 +40580,9 @@
 [submodule "kernlab"]
 	path = kernlab
 	url = https://github.com/cran/kernlab
+[submodule "kernopt"]
+	path = kernopt
+	url = https://github.com/cran/kernopt
 [submodule "kernplus"]
 	path = kernplus
 	url = https://github.com/cran/kernplus
@@ -63605,6 +63617,9 @@
 [submodule "tna"]
 	path = tna
 	url = https://github.com/cran/tna
+[submodule "tndata"]
+	path = tndata
+	url = https://github.com/cran/tndata
 [submodule "tnet"]
 	path = tnet
 	url = https://github.com/cran/tnet
