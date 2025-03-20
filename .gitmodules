@@ -10040,9 +10040,6 @@
 [submodule "MOCCA"]
 	path = MOCCA
 	url = https://github.com/cran/MOCCA
-[submodule "MOCHA"]
-	path = MOCHA
-	url = https://github.com/cran/MOCHA
 [submodule "MODISTools"]
 	path = MODISTools
 	url = https://github.com/cran/MODISTools
@@ -51563,9 +51560,6 @@
 [submodule "priorsense"]
 	path = priorsense
 	url = https://github.com/cran/priorsense
-[submodule "prism"]
-	path = prism
-	url = https://github.com/cran/prism
 [submodule "prismadiagramR"]
 	path = prismadiagramR
 	url = https://github.com/cran/prismadiagramR
