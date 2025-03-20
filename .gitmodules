@@ -8912,6 +8912,9 @@
 [submodule "LIStest"]
 	path = LIStest
 	url = https://github.com/cran/LIStest
+[submodule "LJmp3converter"]
+	path = LJmp3converter
+	url = https://github.com/cran/LJmp3converter
 [submodule "LKT"]
 	path = LKT
 	url = https://github.com/cran/LKT
@@ -26933,6 +26936,9 @@
 [submodule "corrMCT"]
 	path = corrMCT
 	url = https://github.com/cran/corrMCT
+[submodule "corrRF"]
+	path = corrRF
+	url = https://github.com/cran/corrRF
 [submodule "corrViz"]
 	path = corrViz
 	url = https://github.com/cran/corrViz
@@ -33191,6 +33197,9 @@
 [submodule "firebase"]
 	path = firebase
 	url = https://github.com/cran/firebase
+[submodule "firebase.auth.rest"]
+	path = firebase.auth.rest
+	url = https://github.com/cran/firebase.auth.rest
 [submodule "firebehavioR"]
 	path = firebehavioR
 	url = https://github.com/cran/firebehavioR
