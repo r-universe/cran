@@ -12365,6 +12365,9 @@
 [submodule "PLMIX"]
 	path = PLMIX
 	url = https://github.com/cran/PLMIX
+[submodule "PLNmodels"]
+	path = PLNmodels
+	url = https://github.com/cran/PLNmodels
 [submodule "PLORN"]
 	path = PLORN
 	url = https://github.com/cran/PLORN
