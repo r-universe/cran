@@ -33035,6 +33035,9 @@
 [submodule "fiberLD"]
 	path = fiberLD
 	url = https://github.com/cran/fiberLD
+[submodule "fibos"]
+	path = fibos
+	url = https://github.com/cran/fibos
 [submodule "fic"]
 	path = fic
 	url = https://github.com/cran/fic
@@ -40457,6 +40460,9 @@
 [submodule "kanjistat"]
 	path = kanjistat
 	url = https://github.com/cran/kanjistat
+[submodule "kanova"]
+	path = kanova
+	url = https://github.com/cran/kanova
 [submodule "kantorovich"]
 	path = kantorovich
 	url = https://github.com/cran/kantorovich
