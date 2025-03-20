@@ -63716,9 +63716,6 @@
 [submodule "torch"]
 	path = torch
 	url = https://github.com/cran/torch
-[submodule "torchaudio"]
-	path = torchaudio
-	url = https://github.com/cran/torchaudio
 [submodule "torchdatasets"]
 	path = torchdatasets
 	url = https://github.com/cran/torchdatasets
