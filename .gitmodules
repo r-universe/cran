@@ -28313,9 +28313,6 @@
 [submodule "datarobot"]
 	path = datarobot
 	url = https://github.com/cran/datarobot
-[submodule "datasailr"]
-	path = datasailr
-	url = https://github.com/cran/datasailr
 [submodule "datasauRus"]
 	path = datasauRus
 	url = https://github.com/cran/datasauRus
@@ -40352,9 +40349,6 @@
 [submodule "jsonNormalize"]
 	path = jsonNormalize
 	url = https://github.com/cran/jsonNormalize
-[submodule "jsonStrings"]
-	path = jsonStrings
-	url = https://github.com/cran/jsonStrings
 [submodule "jsonify"]
 	path = jsonify
 	url = https://github.com/cran/jsonify
@@ -45965,9 +45959,6 @@
 [submodule "multiness"]
 	path = multiness
 	url = https://github.com/cran/multiness
-[submodule "multinet"]
-	path = multinet
-	url = https://github.com/cran/multinet
 [submodule "multinets"]
 	path = multinets
 	url = https://github.com/cran/multinets
@@ -54845,9 +54836,6 @@
 [submodule "rfishnet2"]
 	path = rfishnet2
 	url = https://github.com/cran/rfishnet2
-[submodule "rflashtext"]
-	path = rflashtext
-	url = https://github.com/cran/rflashtext
 [submodule "rflexscan"]
 	path = rflexscan
 	url = https://github.com/cran/rflexscan
@@ -62261,9 +62249,6 @@
 [submodule "tabularmaps"]
 	path = tabularmaps
 	url = https://github.com/cran/tabularmaps
-[submodule "tabulate"]
-	path = tabulate
-	url = https://github.com/cran/tabulate
 [submodule "tabulator"]
 	path = tabulator
 	url = https://github.com/cran/tabulator
