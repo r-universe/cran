@@ -5924,9 +5924,6 @@
 [submodule "FeatureExtraction"]
 	path = FeatureExtraction
 	url = https://github.com/cran/FeatureExtraction
-[submodule "FeatureHashing"]
-	path = FeatureHashing
-	url = https://github.com/cran/FeatureHashing
 [submodule "FeatureImpCluster"]
 	path = FeatureImpCluster
 	url = https://github.com/cran/FeatureImpCluster
@@ -23609,9 +23606,6 @@
 [submodule "boostingDEA"]
 	path = boostingDEA
 	url = https://github.com/cran/boostingDEA
-[submodule "boostmtree"]
-	path = boostmtree
-	url = https://github.com/cran/boostmtree
 [submodule "boostrq"]
 	path = boostrq
 	url = https://github.com/cran/boostrq
