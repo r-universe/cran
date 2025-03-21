@@ -1250,9 +1250,6 @@
 [submodule "BRcal"]
 	path = BRcal
 	url = https://github.com/cran/BRcal
-[submodule "BRugs"]
-	path = BRugs
-	url = https://github.com/cran/BRugs
 [submodule "BSDA"]
 	path = BSDA
 	url = https://github.com/cran/BSDA
@@ -4238,9 +4235,6 @@
 [submodule "DataExplorer"]
 	path = DataExplorer
 	url = https://github.com/cran/DataExplorer
-[submodule "DataFakeR"]
-	path = DataFakeR
-	url = https://github.com/cran/DataFakeR
 [submodule "DataGraph"]
 	path = DataGraph
 	url = https://github.com/cran/DataGraph
@@ -45581,6 +45575,9 @@
 [submodule "mreg"]
 	path = mreg
 	url = https://github.com/cran/mreg
+[submodule "mregions2"]
+	path = mregions2
+	url = https://github.com/cran/mregions2
 [submodule "mrf"]
 	path = mrf
 	url = https://github.com/cran/mrf
@@ -58307,9 +58304,6 @@
 [submodule "shiny.i18n"]
 	path = shiny.i18n
 	url = https://github.com/cran/shiny.i18n
-[submodule "shiny.info"]
-	path = shiny.info
-	url = https://github.com/cran/shiny.info
 [submodule "shiny.ollama"]
 	path = shiny.ollama
 	url = https://github.com/cran/shiny.ollama
