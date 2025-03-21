@@ -23924,9 +23924,6 @@
 [submodule "brnn"]
 	path = brnn
 	url = https://github.com/cran/brnn
-[submodule "brokenstick"]
-	path = brokenstick
-	url = https://github.com/cran/brokenstick
 [submodule "brolgar"]
 	path = brolgar
 	url = https://github.com/cran/brolgar
@@ -46661,9 +46658,6 @@
 [submodule "nestedcv"]
 	path = nestedcv
 	url = https://github.com/cran/nestedcv
-[submodule "nestedmodels"]
-	path = nestedmodels
-	url = https://github.com/cran/nestedmodels
 [submodule "nestedpp"]
 	path = nestedpp
 	url = https://github.com/cran/nestedpp
