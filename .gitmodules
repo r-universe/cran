@@ -10412,6 +10412,9 @@
 [submodule "MarginalMediation"]
 	path = MarginalMediation
 	url = https://github.com/cran/MarginalMediation
+[submodule "MariNET"]
+	path = MariNET
+	url = https://github.com/cran/MariNET
 [submodule "MarketMatching"]
 	path = MarketMatching
 	url = https://github.com/cran/MarketMatching
@@ -45362,6 +45365,9 @@
 [submodule "moonboot"]
 	path = moonboot
 	url = https://github.com/cran/moonboot
+[submodule "mooplot"]
+	path = mooplot
+	url = https://github.com/cran/mooplot
 [submodule "moose"]
 	path = moose
 	url = https://github.com/cran/moose
@@ -45587,6 +45593,9 @@
 [submodule "mrfse"]
 	path = mrfse
 	url = https://github.com/cran/mrfse
+[submodule "mrgdp"]
+	path = mrgdp
+	url = https://github.com/cran/mrgdp
 [submodule "mrgsim.parallel"]
 	path = mrgsim.parallel
 	url = https://github.com/cran/mrgsim.parallel
@@ -55610,6 +55619,9 @@
 [submodule "robustHD"]
 	path = robustHD
 	url = https://github.com/cran/robustHD
+[submodule "robustSFA"]
+	path = robustSFA
+	url = https://github.com/cran/robustSFA
 [submodule "robustX"]
 	path = robustX
 	url = https://github.com/cran/robustX
@@ -64169,6 +64181,9 @@
 [submodule "trouBBlme4SolveR"]
 	path = trouBBlme4SolveR
 	url = https://github.com/cran/trouBBlme4SolveR
+[submodule "trps"]
+	path = trps
+	url = https://github.com/cran/trps
 [submodule "trtf"]
 	path = trtf
 	url = https://github.com/cran/trtf
