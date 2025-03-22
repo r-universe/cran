@@ -1523,6 +1523,9 @@
 [submodule "BayesOrdDesign"]
 	path = BayesOrdDesign
 	url = https://github.com/cran/BayesOrdDesign
+[submodule "BayesPIM"]
+	path = BayesPIM
+	url = https://github.com/cran/BayesPIM
 [submodule "BayesPPD"]
 	path = BayesPPD
 	url = https://github.com/cran/BayesPPD
@@ -5324,6 +5327,9 @@
 [submodule "EstimDiagnostics"]
 	path = EstimDiagnostics
 	url = https://github.com/cran/EstimDiagnostics
+[submodule "EstimateBreed"]
+	path = EstimateBreed
+	url = https://github.com/cran/EstimateBreed
 [submodule "EstimateGroupNetwork"]
 	path = EstimateGroupNetwork
 	url = https://github.com/cran/EstimateGroupNetwork
@@ -16565,6 +16571,9 @@
 [submodule "SHELF"]
 	path = SHELF
 	url = https://github.com/cran/SHELF
+[submodule "SHIP"]
+	path = SHIP
+	url = https://github.com/cran/SHIP
 [submodule "SHT"]
 	path = SHT
 	url = https://github.com/cran/SHT
@@ -16826,6 +16835,9 @@
 [submodule "SOMnmR"]
 	path = SOMnmR
 	url = https://github.com/cran/SOMnmR
+[submodule "SONO"]
+	path = SONO
+	url = https://github.com/cran/SONO
 [submodule "SOP"]
 	path = SOP
 	url = https://github.com/cran/SOP
@@ -55919,6 +55931,9 @@
 [submodule "rpartScore"]
 	path = rpartScore
 	url = https://github.com/cran/rpartScore
+[submodule "rpc"]
+	path = rpc
+	url = https://github.com/cran/rpc
 [submodule "rpca"]
 	path = rpca
 	url = https://github.com/cran/rpca
@@ -59048,6 +59063,9 @@
 [submodule "simpr"]
 	path = simpr
 	url = https://github.com/cran/simpr
+[submodule "simpr.interaction"]
+	path = simpr.interaction
+	url = https://github.com/cran/simpr.interaction
 [submodule "simputation"]
 	path = simputation
 	url = https://github.com/cran/simputation
