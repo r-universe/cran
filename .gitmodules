@@ -1250,6 +1250,9 @@
 [submodule "BRcal"]
 	path = BRcal
 	url = https://github.com/cran/BRcal
+[submodule "BRugs"]
+	path = BRugs
+	url = https://github.com/cran/BRugs
 [submodule "BSDA"]
 	path = BSDA
 	url = https://github.com/cran/BSDA
@@ -4235,6 +4238,9 @@
 [submodule "DataExplorer"]
 	path = DataExplorer
 	url = https://github.com/cran/DataExplorer
+[submodule "DataFakeR"]
+	path = DataFakeR
+	url = https://github.com/cran/DataFakeR
 [submodule "DataGraph"]
 	path = DataGraph
 	url = https://github.com/cran/DataGraph
@@ -23918,6 +23924,9 @@
 [submodule "brnn"]
 	path = brnn
 	url = https://github.com/cran/brnn
+[submodule "brokenstick"]
+	path = brokenstick
+	url = https://github.com/cran/brokenstick
 [submodule "brolgar"]
 	path = brolgar
 	url = https://github.com/cran/brolgar
@@ -43055,6 +43064,9 @@
 [submodule "markowitz"]
 	path = markowitz
 	url = https://github.com/cran/markowitz
+[submodule "marlod"]
+	path = marlod
+	url = https://github.com/cran/marlod
 [submodule "marmap"]
 	path = marmap
 	url = https://github.com/cran/marmap
@@ -44147,6 +44159,9 @@
 [submodule "miRtest"]
 	path = miRtest
 	url = https://github.com/cran/miRtest
+[submodule "miWQS"]
+	path = miWQS
+	url = https://github.com/cran/miWQS
 [submodule "micEcon"]
 	path = micEcon
 	url = https://github.com/cran/micEcon
@@ -58298,6 +58313,9 @@
 [submodule "shiny.i18n"]
 	path = shiny.i18n
 	url = https://github.com/cran/shiny.i18n
+[submodule "shiny.info"]
+	path = shiny.info
+	url = https://github.com/cran/shiny.info
 [submodule "shiny.ollama"]
 	path = shiny.ollama
 	url = https://github.com/cran/shiny.ollama
