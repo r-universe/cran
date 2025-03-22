@@ -14081,9 +14081,6 @@
 [submodule "REndo"]
 	path = REndo
 	url = https://github.com/cran/REndo
-[submodule "RFCCA"]
-	path = RFCCA
-	url = https://github.com/cran/RFCCA
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
@@ -33719,9 +33716,6 @@
 [submodule "forestat"]
 	path = forestat
 	url = https://github.com/cran/forestat
-[submodule "forestdynR"]
-	path = forestdynR
-	url = https://github.com/cran/forestdynR
 [submodule "forestecology"]
 	path = forestecology
 	url = https://github.com/cran/forestecology
