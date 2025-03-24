@@ -47168,9 +47168,6 @@
 [submodule "nmaINLA"]
 	path = nmaINLA
 	url = https://github.com/cran/nmaINLA
-[submodule "nmadb"]
-	path = nmadb
-	url = https://github.com/cran/nmadb
 [submodule "nmaplateplot"]
 	path = nmaplateplot
 	url = https://github.com/cran/nmaplateplot
@@ -63299,6 +63296,9 @@
 [submodule "tidystringdist"]
 	path = tidystringdist
 	url = https://github.com/cran/tidystringdist
+[submodule "tidysynth"]
+	path = tidysynth
+	url = https://github.com/cran/tidysynth
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/cran/tidytable
