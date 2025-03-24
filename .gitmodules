@@ -8915,6 +8915,9 @@
 [submodule "LIStest"]
 	path = LIStest
 	url = https://github.com/cran/LIStest
+[submodule "LJexm"]
+	path = LJexm
+	url = https://github.com/cran/LJexm
 [submodule "LJmp3converter"]
 	path = LJmp3converter
 	url = https://github.com/cran/LJmp3converter
@@ -16712,6 +16715,9 @@
 [submodule "SLmetrics"]
 	path = SLmetrics
 	url = https://github.com/cran/SLmetrics
+[submodule "SMAHP"]
+	path = SMAHP
+	url = https://github.com/cran/SMAHP
 [submodule "SMARTbayesR"]
 	path = SMARTbayesR
 	url = https://github.com/cran/SMARTbayesR
@@ -24443,6 +24449,9 @@
 [submodule "capushe"]
 	path = capushe
 	url = https://github.com/cran/capushe
+[submodule "capybara"]
+	path = capybara
+	url = https://github.com/cran/capybara
 [submodule "car"]
 	path = car
 	url = https://github.com/cran/car
@@ -51089,6 +51098,9 @@
 [submodule "poset"]
 	path = poset
 	url = https://github.com/cran/poset
+[submodule "positron.tutorials"]
+	path = positron.tutorials
+	url = https://github.com/cran/positron.tutorials
 [submodule "posologyr"]
 	path = posologyr
 	url = https://github.com/cran/posologyr
@@ -54248,6 +54260,9 @@
 [submodule "redoc"]
 	path = redoc
 	url = https://github.com/cran/redoc
+[submodule "redquack"]
+	path = redquack
+	url = https://github.com/cran/redquack
 [submodule "redux"]
 	path = redux
 	url = https://github.com/cran/redux
@@ -56114,6 +56129,9 @@
 [submodule "rsae"]
 	path = rsae
 	url = https://github.com/cran/rsae
+[submodule "rsahmi"]
+	path = rsahmi
+	url = https://github.com/cran/rsahmi
 [submodule "rsample"]
 	path = rsample
 	url = https://github.com/cran/rsample
@@ -58631,6 +58649,9 @@
 [submodule "shinypivottabler"]
 	path = shinypivottabler
 	url = https://github.com/cran/shinypivottabler
+[submodule "shinyproxyLogs"]
+	path = shinyproxyLogs
+	url = https://github.com/cran/shinyproxyLogs
 [submodule "shinyquiz"]
 	path = shinyquiz
 	url = https://github.com/cran/shinyquiz
@@ -59612,6 +59633,9 @@
 [submodule "snapshot"]
 	path = snapshot
 	url = https://github.com/cran/snapshot
+[submodule "snazzieR"]
+	path = snazzieR
+	url = https://github.com/cran/snazzieR
 [submodule "snem"]
 	path = snem
 	url = https://github.com/cran/snem
@@ -66764,6 +66788,9 @@
 [submodule "xopen"]
 	path = xopen
 	url = https://github.com/cran/xopen
+[submodule "xpect"]
+	path = xpect
+	url = https://github.com/cran/xpect
 [submodule "xpectr"]
 	path = xpectr
 	url = https://github.com/cran/xpectr
