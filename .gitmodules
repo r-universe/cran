@@ -26903,6 +26903,9 @@
 [submodule "corehunter"]
 	path = corehunter
 	url = https://github.com/cran/corehunter
+[submodule "corella"]
+	path = corella
+	url = https://github.com/cran/corella
 [submodule "corels"]
 	path = corels
 	url = https://github.com/cran/corels
@@ -39119,6 +39122,9 @@
 [submodule "immuneSIM"]
 	path = immuneSIM
 	url = https://github.com/cran/immuneSIM
+[submodule "immunogenetr"]
+	path = immunogenetr
+	url = https://github.com/cran/immunogenetr
 [submodule "imola"]
 	path = imola
 	url = https://github.com/cran/imola
@@ -40427,6 +40433,9 @@
 [submodule "juicyjuice"]
 	path = juicyjuice
 	url = https://github.com/cran/juicyjuice
+[submodule "jumps"]
+	path = jumps
+	url = https://github.com/cran/jumps
 [submodule "junctions"]
 	path = junctions
 	url = https://github.com/cran/junctions
@@ -52613,6 +52622,9 @@
 [submodule "quadform"]
 	path = quadform
 	url = https://github.com/cran/quadform
+[submodule "quadkeyr"]
+	path = quadkeyr
+	url = https://github.com/cran/quadkeyr
 [submodule "quadmatrix"]
 	path = quadmatrix
 	url = https://github.com/cran/quadmatrix
