@@ -53153,9 +53153,6 @@
 [submodule "rTephra"]
 	path = rTephra
 	url = https://github.com/cran/rTephra
-[submodule "rTorch"]
-	path = rTorch
-	url = https://github.com/cran/rTorch
 [submodule "rTwig"]
 	path = rTwig
 	url = https://github.com/cran/rTwig
