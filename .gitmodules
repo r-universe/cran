@@ -7739,9 +7739,6 @@
 [submodule "IBCF.MTME"]
 	path = IBCF.MTME
 	url = https://github.com/cran/IBCF.MTME
-[submodule "IBDsim"]
-	path = IBDsim
-	url = https://github.com/cran/IBDsim
 [submodule "IBFS"]
 	path = IBFS
 	url = https://github.com/cran/IBFS
@@ -64985,6 +64982,9 @@
 [submodule "usdm"]
 	path = usdm
 	url = https://github.com/cran/usdm
+[submodule "usdoj"]
+	path = usdoj
+	url = https://github.com/cran/usdoj
 [submodule "usedist"]
 	path = usedist
 	url = https://github.com/cran/usedist
