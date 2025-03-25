@@ -15419,6 +15419,9 @@
 [submodule "RcppParallel"]
 	path = RcppParallel
 	url = https://github.com/cran/RcppParallel
+[submodule "RcppPlanc"]
+	path = RcppPlanc
+	url = https://github.com/cran/RcppPlanc
 [submodule "RcppProgress"]
 	path = RcppProgress
 	url = https://github.com/cran/RcppProgress
@@ -17924,6 +17927,9 @@
 [submodule "SportsTour"]
 	path = SportsTour
 	url = https://github.com/cran/SportsTour
+[submodule "Spower"]
+	path = Spower
+	url = https://github.com/cran/Spower
 [submodule "SqlRender"]
 	path = SqlRender
 	url = https://github.com/cran/SqlRender
@@ -18401,6 +18407,9 @@
 [submodule "TDbook"]
 	path = TDbook
 	url = https://github.com/cran/TDbook
+[submodule "TDboost"]
+	path = TDboost
+	url = https://github.com/cran/TDboost
 [submodule "TE"]
 	path = TE
 	url = https://github.com/cran/TE
@@ -31604,6 +31613,9 @@
 [submodule "eratosthenes"]
 	path = eratosthenes
 	url = https://github.com/cran/eratosthenes
+[submodule "erboost"]
+	path = erboost
+	url = https://github.com/cran/erboost
 [submodule "ercv"]
 	path = ercv
 	url = https://github.com/cran/ercv
@@ -37034,6 +37046,9 @@
 [submodule "groupdata2"]
 	path = groupdata2
 	url = https://github.com/cran/groupdata2
+[submodule "groupedHyperframe"]
+	path = groupedHyperframe
+	url = https://github.com/cran/groupedHyperframe
 [submodule "groupedSurv"]
 	path = groupedSurv
 	url = https://github.com/cran/groupedSurv
@@ -53912,6 +53927,9 @@
 [submodule "rdhs"]
 	path = rdhs
 	url = https://github.com/cran/rdhs
+[submodule "rdhte"]
+	path = rdhte
+	url = https://github.com/cran/rdhte
 [submodule "rdi"]
 	path = rdi
 	url = https://github.com/cran/rdi
