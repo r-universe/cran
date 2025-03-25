@@ -458,6 +458,9 @@
 [submodule "Achilles"]
 	path = Achilles
 	url = https://github.com/cran/Achilles
+[submodule "AcousticNDLCodeR"]
+	path = AcousticNDLCodeR
+	url = https://github.com/cran/AcousticNDLCodeR
 [submodule "AcrossTic"]
 	path = AcrossTic
 	url = https://github.com/cran/AcrossTic
@@ -5861,6 +5864,9 @@
 [submodule "FamilyRank"]
 	path = FamilyRank
 	url = https://github.com/cran/FamilyRank
+[submodule "FarmSelect"]
+	path = FarmSelect
+	url = https://github.com/cran/FarmSelect
 [submodule "FarmTest"]
 	path = FarmTest
 	url = https://github.com/cran/FarmTest
@@ -6239,6 +6245,9 @@
 [submodule "FuzzySimRes"]
 	path = FuzzySimRes
 	url = https://github.com/cran/FuzzySimRes
+[submodule "FuzzyStatProb"]
+	path = FuzzyStatProb
+	url = https://github.com/cran/FuzzyStatProb
 [submodule "FuzzyStatTra"]
 	path = FuzzyStatTra
 	url = https://github.com/cran/FuzzyStatTra
@@ -7364,6 +7373,9 @@
 [submodule "HEMDAG"]
 	path = HEMDAG
 	url = https://github.com/cran/HEMDAG
+[submodule "HETOP"]
+	path = HETOP
+	url = https://github.com/cran/HETOP
 [submodule "HEssRNA"]
 	path = HEssRNA
 	url = https://github.com/cran/HEssRNA
@@ -9107,6 +9119,9 @@
 [submodule "LVGP"]
 	path = LVGP
 	url = https://github.com/cran/LVGP
+[submodule "LW1949"]
+	path = LW1949
+	url = https://github.com/cran/LW1949
 [submodule "LWFBrook90R"]
 	path = LWFBrook90R
 	url = https://github.com/cran/LWFBrook90R
@@ -10283,6 +10298,9 @@
 [submodule "MVET"]
 	path = MVET
 	url = https://github.com/cran/MVET
+[submodule "MVLM"]
+	path = MVLM
+	url = https://github.com/cran/MVLM
 [submodule "MVN"]
 	path = MVN
 	url = https://github.com/cran/MVN
@@ -10394,6 +10412,9 @@
 [submodule "MareyMap"]
 	path = MareyMap
 	url = https://github.com/cran/MareyMap
+[submodule "MargCond"]
+	path = MargCond
+	url = https://github.com/cran/MargCond
 [submodule "MarginalMediation"]
 	path = MarginalMediation
 	url = https://github.com/cran/MarginalMediation
@@ -12920,6 +12941,9 @@
 [submodule "PermutationR"]
 	path = PermutationR
 	url = https://github.com/cran/PermutationR
+[submodule "PerseusR"]
+	path = PerseusR
+	url = https://github.com/cran/PerseusR
 [submodule "PersianStemmer"]
 	path = PersianStemmer
 	url = https://github.com/cran/PersianStemmer
@@ -17018,6 +17042,9 @@
 [submodule "SSplots"]
 	path = SSplots
 	url = https://github.com/cran/SSplots
+[submodule "SSrat"]
+	path = SSrat
+	url = https://github.com/cran/SSrat
 [submodule "SSsimple"]
 	path = SSsimple
 	url = https://github.com/cran/SSsimple
@@ -17546,6 +17573,9 @@
 [submodule "SixSigma"]
 	path = SixSigma
 	url = https://github.com/cran/SixSigma
+[submodule "SizeEstimation"]
+	path = SizeEstimation
+	url = https://github.com/cran/SizeEstimation
 [submodule "SkewHyperbolic"]
 	path = SkewHyperbolic
 	url = https://github.com/cran/SkewHyperbolic
@@ -29333,6 +29363,9 @@
 [submodule "dirichletprocess"]
 	path = dirichletprocess
 	url = https://github.com/cran/dirichletprocess
+[submodule "dirmcmc"]
+	path = dirmcmc
+	url = https://github.com/cran/dirmcmc
 [submodule "dirmult"]
 	path = dirmult
 	url = https://github.com/cran/dirmult
@@ -31025,6 +31058,9 @@
 [submodule "eive"]
 	path = eive
 	url = https://github.com/cran/eive
+[submodule "eivtools"]
+	path = eivtools
+	url = https://github.com/cran/eivtools
 [submodule "eixport"]
 	path = eixport
 	url = https://github.com/cran/eixport
@@ -35777,6 +35813,9 @@
 [submodule "ggplotify"]
 	path = ggplotify
 	url = https://github.com/cran/ggplotify
+[submodule "ggplotlyExtra"]
+	path = ggplotlyExtra
+	url = https://github.com/cran/ggplotlyExtra
 [submodule "ggpmisc"]
 	path = ggpmisc
 	url = https://github.com/cran/ggpmisc
@@ -36731,6 +36770,9 @@
 [submodule "gradeR"]
 	path = gradeR
 	url = https://github.com/cran/gradeR
+[submodule "gradientPickerD3"]
+	path = gradientPickerD3
+	url = https://github.com/cran/gradientPickerD3
 [submodule "grafify"]
 	path = grafify
 	url = https://github.com/cran/grafify
@@ -37193,6 +37235,9 @@
 [submodule "gtfstools"]
 	path = gtfstools
 	url = https://github.com/cran/gtfstools
+[submodule "gtheory"]
+	path = gtheory
+	url = https://github.com/cran/gtheory
 [submodule "gto"]
 	path = gto
 	url = https://github.com/cran/gto
@@ -39158,6 +39203,9 @@
 [submodule "imuf"]
 	path = imuf
 	url = https://github.com/cran/imuf
+[submodule "in2extRemes"]
+	path = in2extRemes
+	url = https://github.com/cran/in2extRemes
 [submodule "inTextSummaryTable"]
 	path = inTextSummaryTable
 	url = https://github.com/cran/inTextSummaryTable
@@ -40853,6 +40901,9 @@
 [submodule "kpcaIG"]
 	path = kpcaIG
 	url = https://github.com/cran/kpcaIG
+[submodule "kpcalg"]
+	path = kpcalg
+	url = https://github.com/cran/kpcalg
 [submodule "kpeaks"]
 	path = kpeaks
 	url = https://github.com/cran/kpeaks
@@ -51359,6 +51410,9 @@
 [submodule "predint"]
 	path = predint
 	url = https://github.com/cran/predint
+[submodule "predkmeans"]
+	path = predkmeans
+	url = https://github.com/cran/predkmeans
 [submodule "predtools"]
 	path = predtools
 	url = https://github.com/cran/predtools
@@ -53150,6 +53204,9 @@
 [submodule "rTephra"]
 	path = rTephra
 	url = https://github.com/cran/rTephra
+[submodule "rTorch"]
+	path = rTorch
+	url = https://github.com/cran/rTorch
 [submodule "rTwig"]
 	path = rTwig
 	url = https://github.com/cran/rTwig
@@ -54764,6 +54821,9 @@
 [submodule "revert"]
 	path = revert
 	url = https://github.com/cran/revert
+[submodule "revgeo"]
+	path = revgeo
+	url = https://github.com/cran/revgeo
 [submodule "revise"]
 	path = revise
 	url = https://github.com/cran/revise
@@ -58907,6 +58967,9 @@
 [submodule "simer"]
 	path = simer
 	url = https://github.com/cran/simer
+[submodule "simest"]
+	path = simest
+	url = https://github.com/cran/simest
 [submodule "simex"]
 	path = simex
 	url = https://github.com/cran/simex
