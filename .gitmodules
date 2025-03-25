@@ -29126,9 +29126,6 @@
 [submodule "dhh"]
 	path = dhh
 	url = https://github.com/cran/dhh
-[submodule "dhis2r"]
-	path = dhis2r
-	url = https://github.com/cran/dhis2r
 [submodule "dhsage"]
 	path = dhsage
 	url = https://github.com/cran/dhsage
