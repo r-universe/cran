@@ -7133,6 +7133,9 @@
 [submodule "GoFKernel"]
 	path = GoFKernel
 	url = https://github.com/cran/GoFKernel
+[submodule "GoMiner"]
+	path = GoMiner
+	url = https://github.com/cran/GoMiner
 [submodule "GofCens"]
 	path = GofCens
 	url = https://github.com/cran/GofCens
@@ -13064,6 +13067,9 @@
 [submodule "PlotFTIR"]
 	path = PlotFTIR
 	url = https://github.com/cran/PlotFTIR
+[submodule "PlotNormTest"]
+	path = PlotNormTest
+	url = https://github.com/cran/PlotNormTest
 [submodule "PlotPrjNetworks"]
 	path = PlotPrjNetworks
 	url = https://github.com/cran/PlotPrjNetworks
@@ -28187,6 +28193,9 @@
 [submodule "darksky"]
 	path = darksky
 	url = https://github.com/cran/darksky
+[submodule "dartR"]
+	path = dartR
+	url = https://github.com/cran/dartR
 [submodule "dartR.base"]
 	path = dartR.base
 	url = https://github.com/cran/dartR.base
@@ -35651,6 +35660,9 @@
 [submodule "gghist"]
 	path = gghist
 	url = https://github.com/cran/gghist
+[submodule "gghourglass"]
+	path = gghourglass
+	url = https://github.com/cran/gghourglass
 [submodule "ggimage"]
 	path = ggimage
 	url = https://github.com/cran/ggimage
@@ -39653,6 +39665,9 @@
 [submodule "ip2location"]
 	path = ip2location
 	url = https://github.com/cran/ip2location
+[submodule "ip2location.io"]
+	path = ip2location.io
+	url = https://github.com/cran/ip2location.io
 [submodule "ip2locationio"]
 	path = ip2locationio
 	url = https://github.com/cran/ip2locationio
