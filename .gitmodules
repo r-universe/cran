@@ -48071,9 +48071,6 @@
 [submodule "onelogin"]
 	path = onelogin
 	url = https://github.com/cran/onelogin
-[submodule "onemap"]
-	path = onemap
-	url = https://github.com/cran/onemap
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/cran/onetime
