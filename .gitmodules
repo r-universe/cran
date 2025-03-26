@@ -275,6 +275,9 @@
 [submodule "ANSM5"]
 	path = ANSM5
 	url = https://github.com/cran/ANSM5
+[submodule "AOUSDOHtools"]
+	path = AOUSDOHtools
+	url = https://github.com/cran/AOUSDOHtools
 [submodule "AOV1R"]
 	path = AOV1R
 	url = https://github.com/cran/AOV1R
@@ -21758,6 +21761,9 @@
 [submodule "asymmetry.measures"]
 	path = asymmetry.measures
 	url = https://github.com/cran/asymmetry.measures
+[submodule "asympDiag"]
+	path = asympDiag
+	url = https://github.com/cran/asympDiag
 [submodule "asympTest"]
 	path = asympTest
 	url = https://github.com/cran/asympTest
@@ -43646,6 +43652,9 @@
 [submodule "medScan"]
 	path = medScan
 	url = https://github.com/cran/medScan
+[submodule "meddra.read"]
+	path = meddra.read
+	url = https://github.com/cran/meddra.read
 [submodule "mederrRank"]
 	path = mederrRank
 	url = https://github.com/cran/mederrRank
