@@ -7403,6 +7403,9 @@
 [submodule "HMC"]
 	path = HMC
 	url = https://github.com/cran/HMC
+[submodule "HMDA"]
+	path = HMDA
+	url = https://github.com/cran/HMDA
 [submodule "HMDHFDplus"]
 	path = HMDHFDplus
 	url = https://github.com/cran/HMDHFDplus
@@ -17033,6 +17036,9 @@
 [submodule "STB"]
 	path = STB
 	url = https://github.com/cran/STB
+[submodule "STCCGEV"]
+	path = STCCGEV
+	url = https://github.com/cran/STCCGEV
 [submodule "STEPCAM"]
 	path = STEPCAM
 	url = https://github.com/cran/STEPCAM
@@ -19493,6 +19499,9 @@
 [submodule "VedicDateTime"]
 	path = VedicDateTime
 	url = https://github.com/cran/VedicDateTime
+[submodule "VegSpecIndex"]
+	path = VegSpecIndex
+	url = https://github.com/cran/VegSpecIndex
 [submodule "VennDiagram"]
 	path = VennDiagram
 	url = https://github.com/cran/VennDiagram
@@ -32255,6 +32264,9 @@
 [submodule "fBonds"]
 	path = fBonds
 	url = https://github.com/cran/fBonds
+[submodule "fChange"]
+	path = fChange
+	url = https://github.com/cran/fChange
 [submodule "fCopulae"]
 	path = fCopulae
 	url = https://github.com/cran/fCopulae
@@ -33398,6 +33410,9 @@
 [submodule "flexmsm"]
 	path = flexmsm
 	url = https://github.com/cran/flexmsm
+[submodule "flexord"]
+	path = flexord
+	url = https://github.com/cran/flexord
 [submodule "flexpolyline"]
 	path = flexpolyline
 	url = https://github.com/cran/flexpolyline
@@ -43070,6 +43085,9 @@
 [submodule "marradistrees"]
 	path = marradistrees
 	url = https://github.com/cran/marradistrees
+[submodule "mars"]
+	path = mars
+	url = https://github.com/cran/mars
 [submodule "mas"]
 	path = mas
 	url = https://github.com/cran/mas
@@ -46802,6 +46820,9 @@
 [submodule "neuralnet"]
 	path = neuralnet
 	url = https://github.com/cran/neuralnet
+[submodule "neuroSCC"]
+	path = neuroSCC
+	url = https://github.com/cran/neuroSCC
 [submodule "neuroUp"]
 	path = neuroUp
 	url = https://github.com/cran/neuroUp
@@ -49448,6 +49469,9 @@
 [submodule "pcnetmeta"]
 	path = pcnetmeta
 	url = https://github.com/cran/pcnetmeta
+[submodule "pcpr"]
+	path = pcpr
+	url = https://github.com/cran/pcpr
 [submodule "pcr"]
 	path = pcr
 	url = https://github.com/cran/pcr
