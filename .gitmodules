@@ -28247,9 +28247,6 @@
 [submodule "dataSDA"]
 	path = dataSDA
 	url = https://github.com/cran/dataSDA
-[submodule "databraryr"]
-	path = databraryr
-	url = https://github.com/cran/databraryr
 [submodule "datacleanr"]
 	path = datacleanr
 	url = https://github.com/cran/datacleanr
