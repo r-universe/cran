@@ -3575,9 +3575,6 @@
 [submodule "Cyclops"]
 	path = Cyclops
 	url = https://github.com/cran/Cyclops
-[submodule "CytOpT"]
-	path = CytOpT
-	url = https://github.com/cran/CytOpT
 [submodule "CytoSimplex"]
 	path = CytoSimplex
 	url = https://github.com/cran/CytoSimplex
