@@ -30344,6 +30344,9 @@
 [submodule "dyndimred"]
 	path = dyndimred
 	url = https://github.com/cran/dyndimred
+[submodule "dynemu"]
+	path = dynemu
+	url = https://github.com/cran/dynemu
 [submodule "dynetNLAResistance"]
 	path = dynetNLAResistance
 	url = https://github.com/cran/dynetNLAResistance
@@ -45668,6 +45671,9 @@
 [submodule "msd"]
 	path = msd
 	url = https://github.com/cran/msd
+[submodule "msda"]
+	path = msda
+	url = https://github.com/cran/msda
 [submodule "msde"]
 	path = msde
 	url = https://github.com/cran/msde
@@ -56753,6 +56759,9 @@
 [submodule "sae2"]
 	path = sae2
 	url = https://github.com/cran/sae2
+[submodule "sae4health"]
+	path = sae4health
+	url = https://github.com/cran/sae4health
 [submodule "saeBest"]
 	path = saeBest
 	url = https://github.com/cran/saeBest
