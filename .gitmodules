@@ -15383,9 +15383,6 @@
 [submodule "RcppParallel"]
 	path = RcppParallel
 	url = https://github.com/cran/RcppParallel
-[submodule "RcppPlanc"]
-	path = RcppPlanc
-	url = https://github.com/cran/RcppPlanc
 [submodule "RcppProgress"]
 	path = RcppProgress
 	url = https://github.com/cran/RcppProgress
