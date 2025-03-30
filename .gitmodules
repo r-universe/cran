@@ -44429,6 +44429,9 @@
 [submodule "minimap"]
 	path = minimap
 	url = https://github.com/cran/minimap
+[submodule "minimapR"]
+	path = minimapR
+	url = https://github.com/cran/minimapR
 [submodule "minimax"]
 	path = minimax
 	url = https://github.com/cran/minimax
