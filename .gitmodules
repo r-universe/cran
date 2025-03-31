@@ -9257,6 +9257,9 @@
 [submodule "LightningR"]
 	path = LightningR
 	url = https://github.com/cran/LightningR
+[submodule "LikertEZ"]
+	path = LikertEZ
+	url = https://github.com/cran/LikertEZ
 [submodule "LikertMakeR"]
 	path = LikertMakeR
 	url = https://github.com/cran/LikertMakeR
@@ -10277,6 +10280,9 @@
 [submodule "MVNtestchar"]
 	path = MVNtestchar
 	url = https://github.com/cran/MVNtestchar
+[submodule "MVOPR"]
+	path = MVOPR
+	url = https://github.com/cran/MVOPR
 [submodule "MVPBT"]
 	path = MVPBT
 	url = https://github.com/cran/MVPBT
@@ -28739,6 +28745,9 @@
 [submodule "deldir"]
 	path = deldir
 	url = https://github.com/cran/deldir
+[submodule "delimtools"]
+	path = delimtools
+	url = https://github.com/cran/delimtools
 [submodule "deltaPlotR"]
 	path = deltaPlotR
 	url = https://github.com/cran/deltaPlotR
@@ -64277,6 +64286,9 @@
 [submodule "tsapp"]
 	path = tsapp
 	url = https://github.com/cran/tsapp
+[submodule "tsaux"]
+	path = tsaux
+	url = https://github.com/cran/tsaux
 [submodule "tsbox"]
 	path = tsbox
 	url = https://github.com/cran/tsbox
