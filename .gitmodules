@@ -14195,6 +14195,9 @@
 [submodule "RISmed"]
 	path = RISmed
 	url = https://github.com/cran/RISmed
+[submodule "RITCH"]
+	path = RITCH
+	url = https://github.com/cran/RITCH
 [submodule "RIbench"]
 	path = RIbench
 	url = https://github.com/cran/RIbench
@@ -15380,6 +15383,9 @@
 [submodule "RcppParallel"]
 	path = RcppParallel
 	url = https://github.com/cran/RcppParallel
+[submodule "RcppPlanc"]
+	path = RcppPlanc
+	url = https://github.com/cran/RcppPlanc
 [submodule "RcppProgress"]
 	path = RcppProgress
 	url = https://github.com/cran/RcppProgress
@@ -55088,6 +55094,9 @@
 [submodule "riingo"]
 	path = riingo
 	url = https://github.com/cran/riingo
+[submodule "rim"]
+	path = rim
+	url = https://github.com/cran/rim
 [submodule "rimu"]
 	path = rimu
 	url = https://github.com/cran/rimu
