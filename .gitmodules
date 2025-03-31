@@ -32192,6 +32192,9 @@
 [submodule "eyelinker"]
 	path = eyelinker
 	url = https://github.com/cran/eyelinker
+[submodule "eyeris"]
+	path = eyeris
+	url = https://github.com/cran/eyeris
 [submodule "eyetools"]
 	path = eyetools
 	url = https://github.com/cran/eyetools
@@ -58010,6 +58013,9 @@
 [submodule "serocalculator"]
 	path = serocalculator
 	url = https://github.com/cran/serocalculator
+[submodule "serofoi"]
+	path = serofoi
+	url = https://github.com/cran/serofoi
 [submodule "serosv"]
 	path = serosv
 	url = https://github.com/cran/serosv
