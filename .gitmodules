@@ -10601,9 +10601,6 @@
 [submodule "MethComp"]
 	path = MethComp
 	url = https://github.com/cran/MethComp
-[submodule "MethEvolSIM"]
-	path = MethEvolSIM
-	url = https://github.com/cran/MethEvolSIM
 [submodule "MethodCompare"]
 	path = MethodCompare
 	url = https://github.com/cran/MethodCompare
