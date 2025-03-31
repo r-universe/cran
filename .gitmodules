@@ -34757,9 +34757,6 @@
 [submodule "gdldata"]
 	path = gdldata
 	url = https://github.com/cran/gdldata
-[submodule "gdm"]
-	path = gdm
-	url = https://github.com/cran/gdm
 [submodule "gdpc"]
 	path = gdpc
 	url = https://github.com/cran/gdpc
