@@ -12482,9 +12482,6 @@
 [submodule "PPtreeViz"]
 	path = PPtreeViz
 	url = https://github.com/cran/PPtreeViz
-[submodule "PPtreeregViz"]
-	path = PPtreeregViz
-	url = https://github.com/cran/PPtreeregViz
 [submodule "PQLseq"]
 	path = PQLseq
 	url = https://github.com/cran/PQLseq
