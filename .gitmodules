@@ -24272,6 +24272,9 @@
 [submodule "calcUnique"]
 	path = calcUnique
 	url = https://github.com/cran/calcUnique
+[submodule "calcite"]
+	path = calcite
+	url = https://github.com/cran/calcite
 [submodule "calculus"]
 	path = calculus
 	url = https://github.com/cran/calculus
@@ -57824,6 +57827,9 @@
 [submodule "semaphore"]
 	path = semaphore
 	url = https://github.com/cran/semaphore
+[submodule "semboottools"]
+	path = semboottools
+	url = https://github.com/cran/semboottools
 [submodule "semdrw"]
 	path = semdrw
 	url = https://github.com/cran/semdrw
