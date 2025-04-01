@@ -3572,6 +3572,9 @@
 [submodule "Cyclops"]
 	path = Cyclops
 	url = https://github.com/cran/Cyclops
+[submodule "CytOpT"]
+	path = CytOpT
+	url = https://github.com/cran/CytOpT
 [submodule "CytoSimplex"]
 	path = CytoSimplex
 	url = https://github.com/cran/CytoSimplex
@@ -4790,6 +4793,9 @@
 [submodule "EFDR"]
 	path = EFDR
 	url = https://github.com/cran/EFDR
+[submodule "EFS"]
+	path = EFS
+	url = https://github.com/cran/EFS
 [submodule "EGAnet"]
 	path = EGAnet
 	url = https://github.com/cran/EGAnet
@@ -10601,6 +10607,9 @@
 [submodule "MethComp"]
 	path = MethComp
 	url = https://github.com/cran/MethComp
+[submodule "MethEvolSIM"]
+	path = MethEvolSIM
+	url = https://github.com/cran/MethEvolSIM
 [submodule "MethodCompare"]
 	path = MethodCompare
 	url = https://github.com/cran/MethodCompare
@@ -10625,6 +10634,9 @@
 [submodule "Mhorseshoe"]
 	path = Mhorseshoe
 	url = https://github.com/cran/Mhorseshoe
+[submodule "MiDA"]
+	path = MiDA
+	url = https://github.com/cran/MiDA
 [submodule "MiMIR"]
 	path = MiMIR
 	url = https://github.com/cran/MiMIR
@@ -18800,6 +18812,9 @@
 [submodule "TestGardener"]
 	path = TestGardener
 	url = https://github.com/cran/TestGardener
+[submodule "TestGenerator"]
+	path = TestGenerator
+	url = https://github.com/cran/TestGenerator
 [submodule "TestIndVars"]
 	path = TestIndVars
 	url = https://github.com/cran/TestIndVars
@@ -34766,6 +34781,9 @@
 [submodule "gdldata"]
 	path = gdldata
 	url = https://github.com/cran/gdldata
+[submodule "gdm"]
+	path = gdm
+	url = https://github.com/cran/gdm
 [submodule "gdpc"]
 	path = gdpc
 	url = https://github.com/cran/gdpc
@@ -37973,6 +37991,9 @@
 [submodule "hillR"]
 	path = hillR
 	url = https://github.com/cran/hillR
+[submodule "hilldiv"]
+	path = hilldiv
+	url = https://github.com/cran/hilldiv
 [submodule "hillshader"]
 	path = hillshader
 	url = https://github.com/cran/hillshader
