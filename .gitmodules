@@ -2948,6 +2948,9 @@
 [submodule "ClassDiscovery"]
 	path = ClassDiscovery
 	url = https://github.com/cran/ClassDiscovery
+[submodule "ClassificationEnsembles"]
+	path = ClassificationEnsembles
+	url = https://github.com/cran/ClassificationEnsembles
 [submodule "CleanBSequences"]
 	path = CleanBSequences
 	url = https://github.com/cran/CleanBSequences
@@ -6077,6 +6080,9 @@
 [submodule "ForecastTB"]
 	path = ForecastTB
 	url = https://github.com/cran/ForecastTB
+[submodule "ForecastingEnsembles"]
+	path = ForecastingEnsembles
+	url = https://github.com/cran/ForecastingEnsembles
 [submodule "ForestDisc"]
 	path = ForestDisc
 	url = https://github.com/cran/ForestDisc
@@ -6365,6 +6371,9 @@
 [submodule "GENEAclassify"]
 	path = GENEAclassify
 	url = https://github.com/cran/GENEAclassify
+[submodule "GENEAcore"]
+	path = GENEAcore
+	url = https://github.com/cran/GENEAcore
 [submodule "GENEAread"]
 	path = GENEAread
 	url = https://github.com/cran/GENEAread
@@ -9350,6 +9359,9 @@
 [submodule "LogisticCurveFitting"]
 	path = LogisticCurveFitting
 	url = https://github.com/cran/LogisticCurveFitting
+[submodule "LogisticEnsembles"]
+	path = LogisticEnsembles
+	url = https://github.com/cran/LogisticEnsembles
 [submodule "LogisticRCI"]
 	path = LogisticRCI
 	url = https://github.com/cran/LogisticRCI
@@ -11567,6 +11579,9 @@
 [submodule "Nozzle.R1"]
 	path = Nozzle.R1
 	url = https://github.com/cran/Nozzle.R1
+[submodule "NumericEnsembles"]
+	path = NumericEnsembles
+	url = https://github.com/cran/NumericEnsembles
 [submodule "Numero"]
 	path = Numero
 	url = https://github.com/cran/Numero
@@ -14693,6 +14708,9 @@
 [submodule "RRedshiftSQL"]
 	path = RRedshiftSQL
 	url = https://github.com/cran/RRedshiftSQL
+[submodule "RRgeo"]
+	path = RRgeo
+	url = https://github.com/cran/RRgeo
 [submodule "RRphylo"]
 	path = RRphylo
 	url = https://github.com/cran/RRphylo
@@ -23180,6 +23198,9 @@
 [submodule "biomartr"]
 	path = biomartr
 	url = https://github.com/cran/biomartr
+[submodule "biometrics"]
+	path = biometrics
+	url = https://github.com/cran/biometrics
 [submodule "biometryassist"]
 	path = biometryassist
 	url = https://github.com/cran/biometryassist
@@ -31148,6 +31169,9 @@
 [submodule "emdist"]
 	path = emdist
 	url = https://github.com/cran/emdist
+[submodule "emend"]
+	path = emend
+	url = https://github.com/cran/emend
 [submodule "emery"]
 	path = emery
 	url = https://github.com/cran/emery
@@ -47342,6 +47366,9 @@
 [submodule "nonsmooth"]
 	path = nonsmooth
 	url = https://github.com/cran/nonsmooth
+[submodule "nonstat"]
+	path = nonstat
+	url = https://github.com/cran/nonstat
 [submodule "nopaco"]
 	path = nopaco
 	url = https://github.com/cran/nopaco
