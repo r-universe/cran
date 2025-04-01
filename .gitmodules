@@ -58265,9 +58265,6 @@
 [submodule "shapper"]
 	path = shapper
 	url = https://github.com/cran/shapper
-[submodule "shapr"]
-	path = shapr
-	url = https://github.com/cran/shapr
 [submodule "shapviz"]
 	path = shapviz
 	url = https://github.com/cran/shapviz
@@ -62291,9 +62288,6 @@
 [submodule "tablexlsx"]
 	path = tablexlsx
 	url = https://github.com/cran/tablexlsx
-[submodule "tabnet"]
-	path = tabnet
-	url = https://github.com/cran/tabnet
 [submodule "taboolaR"]
 	path = taboolaR
 	url = https://github.com/cran/taboolaR
