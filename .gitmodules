@@ -58265,6 +58265,9 @@
 [submodule "shapper"]
 	path = shapper
 	url = https://github.com/cran/shapper
+[submodule "shapr"]
+	path = shapr
+	url = https://github.com/cran/shapr
 [submodule "shapviz"]
 	path = shapviz
 	url = https://github.com/cran/shapviz
