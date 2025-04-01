@@ -1640,9 +1640,6 @@
 [submodule "BcDiag"]
 	path = BcDiag
 	url = https://github.com/cran/BcDiag
-[submodule "Bchron"]
-	path = Bchron
-	url = https://github.com/cran/Bchron
 [submodule "BeQut"]
 	path = BeQut
 	url = https://github.com/cran/BeQut
@@ -8195,9 +8192,6 @@
 [submodule "ImputeRobust"]
 	path = ImputeRobust
 	url = https://github.com/cran/ImputeRobust
-[submodule "InDisc"]
-	path = InDisc
-	url = https://github.com/cran/InDisc
 [submodule "InPosition"]
 	path = InPosition
 	url = https://github.com/cran/InPosition
@@ -9980,9 +9974,6 @@
 [submodule "MMOC"]
 	path = MMOC
 	url = https://github.com/cran/MMOC
-[submodule "MMRcaseselection"]
-	path = MMRcaseselection
-	url = https://github.com/cran/MMRcaseselection
 [submodule "MMVBVS"]
 	path = MMVBVS
 	url = https://github.com/cran/MMVBVS
@@ -10847,9 +10838,6 @@
 [submodule "Mondrian"]
 	path = Mondrian
 	url = https://github.com/cran/Mondrian
-[submodule "MonetDB.R"]
-	path = MonetDB.R
-	url = https://github.com/cran/MonetDB.R
 [submodule "MonoInc"]
 	path = MonoInc
 	url = https://github.com/cran/MonoInc
@@ -13454,9 +13442,6 @@
 [submodule "QCA"]
 	path = QCA
 	url = https://github.com/cran/QCA
-[submodule "QCAcluster"]
-	path = QCAcluster
-	url = https://github.com/cran/QCAcluster
 [submodule "QCApro"]
 	path = QCApro
 	url = https://github.com/cran/QCApro
@@ -17750,9 +17735,6 @@
 [submodule "SparseMSE"]
 	path = SparseMSE
 	url = https://github.com/cran/SparseMSE
-[submodule "SparseTSCGM"]
-	path = SparseTSCGM
-	url = https://github.com/cran/SparseTSCGM
 [submodule "SparseVFC"]
 	path = SparseVFC
 	url = https://github.com/cran/SparseVFC
@@ -22343,9 +22325,6 @@
 [submodule "bayesAB"]
 	path = bayesAB
 	url = https://github.com/cran/bayesAB
-[submodule "bayesCT"]
-	path = bayesCT
-	url = https://github.com/cran/bayesCT
 [submodule "bayesCureRateModel"]
 	path = bayesCureRateModel
 	url = https://github.com/cran/bayesCureRateModel
@@ -25793,9 +25772,6 @@
 [submodule "clusterSim"]
 	path = clusterSim
 	url = https://github.com/cran/clusterSim
-[submodule "clusterability"]
-	path = clusterability
-	url = https://github.com/cran/clusterability
 [submodule "clusterhap"]
 	path = clusterhap
 	url = https://github.com/cran/clusterhap
@@ -35252,9 +35228,6 @@
 [submodule "geouy"]
 	path = geouy
 	url = https://github.com/cran/geouy
-[submodule "geovol"]
-	path = geovol
-	url = https://github.com/cran/geovol
 [submodule "geozoo"]
 	path = geozoo
 	url = https://github.com/cran/geozoo
@@ -40691,9 +40664,6 @@
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/cran/khroma
-[submodule "kibior"]
-	path = kibior
-	url = https://github.com/cran/kibior
 [submodule "kidney.epi"]
 	path = kidney.epi
 	url = https://github.com/cran/kidney.epi
@@ -60644,9 +60614,6 @@
 [submodule "spselect"]
 	path = spselect
 	url = https://github.com/cran/spselect
-[submodule "spsh"]
-	path = spsh
-	url = https://github.com/cran/spsh
 [submodule "spsur"]
 	path = spsur
 	url = https://github.com/cran/spsur
@@ -64568,9 +64535,6 @@
 [submodule "twangMediation"]
 	path = twangMediation
 	url = https://github.com/cran/twangMediation
-[submodule "twangRDC"]
-	path = twangRDC
-	url = https://github.com/cran/twangRDC
 [submodule "twc"]
 	path = twc
 	url = https://github.com/cran/twc
@@ -65207,9 +65171,6 @@
 [submodule "vamc"]
 	path = vamc
 	url = https://github.com/cran/vamc
-[submodule "vampyr"]
-	path = vampyr
-	url = https://github.com/cran/vampyr
 [submodule "vandalico"]
 	path = vandalico
 	url = https://github.com/cran/vandalico
