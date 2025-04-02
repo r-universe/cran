@@ -7484,6 +7484,9 @@
 [submodule "HSPOR"]
 	path = HSPOR
 	url = https://github.com/cran/HSPOR
+[submodule "HTGM"]
+	path = HTGM
+	url = https://github.com/cran/HTGM
 [submodule "HTLR"]
 	path = HTLR
 	url = https://github.com/cran/HTLR
@@ -14288,6 +14291,9 @@
 [submodule "RKUM"]
 	path = RKUM
 	url = https://github.com/cran/RKUM
+[submodule "RKaggle"]
+	path = RKaggle
+	url = https://github.com/cran/RKaggle
 [submodule "RKelly"]
 	path = RKelly
 	url = https://github.com/cran/RKelly
@@ -18251,6 +18257,9 @@
 [submodule "SvyNom"]
 	path = SvyNom
 	url = https://github.com/cran/SvyNom
+[submodule "SwPcIndex"]
+	path = SwPcIndex
+	url = https://github.com/cran/SwPcIndex
 [submodule "SweepDiscovery"]
 	path = SweepDiscovery
 	url = https://github.com/cran/SweepDiscovery
@@ -22940,6 +22949,9 @@
 [submodule "bidask"]
 	path = bidask
 	url = https://github.com/cran/bidask
+[submodule "bidsr"]
+	path = bidsr
+	url = https://github.com/cran/bidsr
 [submodule "bife"]
 	path = bife
 	url = https://github.com/cran/bife
@@ -24581,6 +24593,9 @@
 [submodule "cassowaryr"]
 	path = cassowaryr
 	url = https://github.com/cran/cassowaryr
+[submodule "castgen"]
+	path = castgen
+	url = https://github.com/cran/castgen
 [submodule "castor"]
 	path = castor
 	url = https://github.com/cran/castor
@@ -43283,6 +43298,9 @@
 [submodule "mauricer"]
 	path = mauricer
 	url = https://github.com/cran/mauricer
+[submodule "maxEff"]
+	path = maxEff
+	url = https://github.com/cran/maxEff
 [submodule "maxLik"]
 	path = maxLik
 	url = https://github.com/cran/maxLik
