@@ -8327,6 +8327,9 @@
 [submodule "InterfaceqPCR"]
 	path = InterfaceqPCR
 	url = https://github.com/cran/InterfaceqPCR
+[submodule "InterpolateR"]
+	path = InterpolateR
+	url = https://github.com/cran/InterpolateR
 [submodule "InterpretMSSpectrum"]
 	path = InterpretMSSpectrum
 	url = https://github.com/cran/InterpretMSSpectrum
@@ -38924,6 +38927,9 @@
 [submodule "ie2miscdata"]
 	path = ie2miscdata
 	url = https://github.com/cran/ie2miscdata
+[submodule "ieTest"]
+	path = ieTest
+	url = https://github.com/cran/ieTest
 [submodule "ieeeround"]
 	path = ieeeround
 	url = https://github.com/cran/ieeeround
@@ -43337,6 +43343,9 @@
 [submodule "mbest"]
 	path = mbest
 	url = https://github.com/cran/mbest
+[submodule "mbg"]
+	path = mbg
+	url = https://github.com/cran/mbg
 [submodule "mbir"]
 	path = mbir
 	url = https://github.com/cran/mbir
@@ -66095,6 +66104,9 @@
 [submodule "wearables"]
 	path = wearables
 	url = https://github.com/cran/wearables
+[submodule "weathR"]
+	path = weathR
+	url = https://github.com/cran/weathR
 [submodule "weatherOz"]
 	path = weatherOz
 	url = https://github.com/cran/weatherOz
