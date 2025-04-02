@@ -17225,6 +17225,9 @@
 [submodule "SearchTrees"]
 	path = SearchTrees
 	url = https://github.com/cran/SearchTrees
+[submodule "SecretsProvider"]
+	path = SecretsProvider
+	url = https://github.com/cran/SecretsProvider
 [submodule "SeedCalc"]
 	path = SeedCalc
 	url = https://github.com/cran/SeedCalc
@@ -61316,6 +61319,9 @@
 [submodule "stochQN"]
 	path = stochQN
 	url = https://github.com/cran/stochQN
+[submodule "stochcorr"]
+	path = stochcorr
+	url = https://github.com/cran/stochcorr
 [submodule "stochtree"]
 	path = stochtree
 	url = https://github.com/cran/stochtree
