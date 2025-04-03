@@ -5435,9 +5435,6 @@
 [submodule "ExpGenetic"]
 	path = ExpGenetic
 	url = https://github.com/cran/ExpGenetic
-[submodule "ExpImage"]
-	path = ExpImage
-	url = https://github.com/cran/ExpImage
 [submodule "ExpRep"]
 	path = ExpRep
 	url = https://github.com/cran/ExpRep
@@ -13034,9 +13031,6 @@
 [submodule "PlasmaMutationDetector"]
 	path = PlasmaMutationDetector
 	url = https://github.com/cran/PlasmaMutationDetector
-[submodule "PlasmaMutationDetector2"]
-	path = PlasmaMutationDetector2
-	url = https://github.com/cran/PlasmaMutationDetector2
 [submodule "Plasmidprofiler"]
 	path = Plasmidprofiler
 	url = https://github.com/cran/Plasmidprofiler
@@ -24800,9 +24794,6 @@
 [submodule "ccmReportR"]
 	path = ccmReportR
 	url = https://github.com/cran/ccmReportR
-[submodule "ccml"]
-	path = ccml
-	url = https://github.com/cran/ccml
 [submodule "ccmm"]
 	path = ccmm
 	url = https://github.com/cran/ccmm
@@ -26171,9 +26162,6 @@
 [submodule "cohorttools"]
 	path = cohorttools
 	url = https://github.com/cran/cohorttools
-[submodule "coil"]
-	path = coil
-	url = https://github.com/cran/coil
 [submodule "coin"]
 	path = coin
 	url = https://github.com/cran/coin
@@ -26456,9 +26444,6 @@
 [submodule "completejourney"]
 	path = completejourney
 	url = https://github.com/cran/completejourney
-[submodule "complex"]
-	path = complex
-	url = https://github.com/cran/complex
 [submodule "complexNet"]
 	path = complexNet
 	url = https://github.com/cran/complexNet
@@ -48095,9 +48080,6 @@
 [submodule "oncrawlR"]
 	path = oncrawlR
 	url = https://github.com/cran/oncrawlR
-[submodule "ondisc"]
-	path = ondisc
-	url = https://github.com/cran/ondisc
 [submodule "oneclust"]
 	path = oneclust
 	url = https://github.com/cran/oneclust
