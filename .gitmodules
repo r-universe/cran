@@ -5510,6 +5510,9 @@
 [submodule "FARDEEP"]
 	path = FARDEEP
 	url = https://github.com/cran/FARDEEP
+[submodule "FARS"]
+	path = FARS
+	url = https://github.com/cran/FARS
 [submodule "FAS"]
 	path = FAS
 	url = https://github.com/cran/FAS
@@ -19001,6 +19004,9 @@
 [submodule "TrackReconstruction"]
 	path = TrackReconstruction
 	url = https://github.com/cran/TrackReconstruction
+[submodule "TractorTsbox"]
+	path = TractorTsbox
+	url = https://github.com/cran/TractorTsbox
 [submodule "Trading"]
 	path = Trading
 	url = https://github.com/cran/Trading
@@ -34067,6 +34073,9 @@
 [submodule "frictionless"]
 	path = frictionless
 	url = https://github.com/cran/frictionless
+[submodule "friendlynumber"]
+	path = friendlynumber
+	url = https://github.com/cran/friendlynumber
 [submodule "friends"]
 	path = friends
 	url = https://github.com/cran/friends
@@ -60209,6 +60218,9 @@
 [submodule "spate"]
 	path = spate
 	url = https://github.com/cran/spate
+[submodule "spatemR"]
+	path = spatemR
+	url = https://github.com/cran/spatemR
 [submodule "spatgeom"]
 	path = spatgeom
 	url = https://github.com/cran/spatgeom
