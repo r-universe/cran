@@ -12338,9 +12338,6 @@
 [submodule "PKNCA"]
 	path = PKNCA
 	url = https://github.com/cran/PKNCA
-[submodule "PKPDsim"]
-	path = PKPDsim
-	url = https://github.com/cran/PKPDsim
 [submodule "PKbioanalysis"]
 	path = PKbioanalysis
 	url = https://github.com/cran/PKbioanalysis
@@ -23972,6 +23969,9 @@
 [submodule "bruceR"]
 	path = bruceR
 	url = https://github.com/cran/bruceR
+[submodule "brulee"]
+	path = brulee
+	url = https://github.com/cran/brulee
 [submodule "bruneimap"]
 	path = bruneimap
 	url = https://github.com/cran/bruneimap
@@ -27557,6 +27557,9 @@
 [submodule "crov"]
 	path = crov
 	url = https://github.com/cran/crov
+[submodule "crplyr"]
+	path = crplyr
+	url = https://github.com/cran/crplyr
 [submodule "crqa"]
 	path = crqa
 	url = https://github.com/cran/crqa
@@ -55847,6 +55850,9 @@
 [submodule "ropendata"]
 	path = ropendata
 	url = https://github.com/cran/ropendata
+[submodule "ropenmeteo"]
+	path = ropenmeteo
+	url = https://github.com/cran/ropenmeteo
 [submodule "ropensecretsapi"]
 	path = ropensecretsapi
 	url = https://github.com/cran/ropensecretsapi
@@ -61187,6 +61193,9 @@
 [submodule "steepness"]
 	path = steepness
 	url = https://github.com/cran/steepness
+[submodule "stelfi"]
+	path = stelfi
+	url = https://github.com/cran/stelfi
 [submodule "stellaR"]
 	path = stellaR
 	url = https://github.com/cran/stellaR
