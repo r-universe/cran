@@ -3578,6 +3578,9 @@
 [submodule "CytOpT"]
 	path = CytOpT
 	url = https://github.com/cran/CytOpT
+[submodule "CytoProfile"]
+	path = CytoProfile
+	url = https://github.com/cran/CytoProfile
 [submodule "CytoSimplex"]
 	path = CytoSimplex
 	url = https://github.com/cran/CytoSimplex
@@ -4190,6 +4193,9 @@
 [submodule "DYNATE"]
 	path = DYNATE
 	url = https://github.com/cran/DYNATE
+[submodule "DamageDetective"]
+	path = DamageDetective
+	url = https://github.com/cran/DamageDetective
 [submodule "DamiaNN"]
 	path = DamiaNN
 	url = https://github.com/cran/DamiaNN
@@ -11210,6 +11216,9 @@
 [submodule "NHSRplotthedots"]
 	path = NHSRplotthedots
 	url = https://github.com/cran/NHSRplotthedots
+[submodule "NHSRwaitinglist"]
+	path = NHSRwaitinglist
+	url = https://github.com/cran/NHSRwaitinglist
 [submodule "NIMAA"]
 	path = NIMAA
 	url = https://github.com/cran/NIMAA
@@ -14843,6 +14852,9 @@
 [submodule "RSquaredMI"]
 	path = RSquaredMI
 	url = https://github.com/cran/RSquaredMI
+[submodule "RStanTVA"]
+	path = RStanTVA
+	url = https://github.com/cran/RStanTVA
 [submodule "RStata"]
 	path = RStata
 	url = https://github.com/cran/RStata
@@ -15947,6 +15959,9 @@
 [submodule "RobinCar"]
 	path = RobinCar
 	url = https://github.com/cran/RobinCar
+[submodule "RobinCar2"]
+	path = RobinCar2
+	url = https://github.com/cran/RobinCar2
 [submodule "RobinHood"]
 	path = RobinHood
 	url = https://github.com/cran/RobinHood
@@ -35813,6 +35828,9 @@
 [submodule "ggperiodic"]
 	path = ggperiodic
 	url = https://github.com/cran/ggperiodic
+[submodule "ggpicrust2"]
+	path = ggpicrust2
+	url = https://github.com/cran/ggpicrust2
 [submodule "ggpie"]
 	path = ggpie
 	url = https://github.com/cran/ggpie
@@ -62360,6 +62378,9 @@
 [submodule "tabr"]
 	path = tabr
 	url = https://github.com/cran/tabr
+[submodule "tabs"]
+	path = tabs
+	url = https://github.com/cran/tabs
 [submodule "tabshiftr"]
 	path = tabshiftr
 	url = https://github.com/cran/tabshiftr
