@@ -48608,9 +48608,6 @@
 [submodule "osd"]
 	path = osd
 	url = https://github.com/cran/osd
-[submodule "osdatahub"]
-	path = osdatahub
-	url = https://github.com/cran/osdatahub
 [submodule "osfr"]
 	path = osfr
 	url = https://github.com/cran/osfr
