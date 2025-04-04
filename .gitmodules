@@ -10154,9 +10154,6 @@
 [submodule "MRReg"]
 	path = MRReg
 	url = https://github.com/cran/MRReg
-[submodule "MRS"]
-	path = MRS
-	url = https://github.com/cran/MRS
 [submodule "MRTAnalysis"]
 	path = MRTAnalysis
 	url = https://github.com/cran/MRTAnalysis
@@ -58361,9 +58358,6 @@
 [submodule "sharpr2"]
 	path = sharpr2
 	url = https://github.com/cran/sharpr2
-[submodule "sharpshootR"]
-	path = sharpshootR
-	url = https://github.com/cran/sharpshootR
 [submodule "sharx"]
 	path = sharx
 	url = https://github.com/cran/sharx
