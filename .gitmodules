@@ -11441,9 +11441,6 @@
 [submodule "NetExplorer"]
 	path = NetExplorer
 	url = https://github.com/cran/NetExplorer
-[submodule "NetFACS"]
-	path = NetFACS
-	url = https://github.com/cran/NetFACS
 [submodule "NetIndices"]
 	path = NetIndices
 	url = https://github.com/cran/NetIndices
