@@ -13781,9 +13781,6 @@
 [submodule "RALSA"]
 	path = RALSA
 	url = https://github.com/cran/RALSA
-[submodule "RAMClustR"]
-	path = RAMClustR
-	url = https://github.com/cran/RAMClustR
 [submodule "RAMP"]
 	path = RAMP
 	url = https://github.com/cran/RAMP
