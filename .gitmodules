@@ -362,6 +362,9 @@
 [submodule "ARTofR"]
 	path = ARTofR
 	url = https://github.com/cran/ARTofR
+[submodule "ARTool"]
+	path = ARTool
+	url = https://github.com/cran/ARTool
 [submodule "ARTtransfer"]
 	path = ARTtransfer
 	url = https://github.com/cran/ARTtransfer
@@ -6617,6 +6620,9 @@
 [submodule "GOplot"]
 	path = GOplot
 	url = https://github.com/cran/GOplot
+[submodule "GOxploreR"]
+	path = GOxploreR
+	url = https://github.com/cran/GOxploreR
 [submodule "GPArotateDF"]
 	path = GPArotateDF
 	url = https://github.com/cran/GPArotateDF
@@ -13886,6 +13892,9 @@
 [submodule "RCNA"]
 	path = RCNA
 	url = https://github.com/cran/RCNA
+[submodule "RCPA"]
+	path = RCPA
+	url = https://github.com/cran/RCPA
 [submodule "RCPA3"]
 	path = RCPA3
 	url = https://github.com/cran/RCPA3
@@ -15464,6 +15473,9 @@
 [submodule "RcppZiggurat"]
 	path = RcppZiggurat
 	url = https://github.com/cran/RcppZiggurat
+[submodule "Rcrawler"]
+	path = Rcrawler
+	url = https://github.com/cran/Rcrawler
 [submodule "Rcriticor"]
 	path = Rcriticor
 	url = https://github.com/cran/Rcriticor
@@ -16157,6 +16169,9 @@
 [submodule "Rtwalk"]
 	path = Rtwalk
 	url = https://github.com/cran/Rtwalk
+[submodule "Rtwobitlib"]
+	path = Rtwobitlib
+	url = https://github.com/cran/Rtwobitlib
 [submodule "RulesTools"]
 	path = RulesTools
 	url = https://github.com/cran/RulesTools
@@ -17912,6 +17927,9 @@
 [submodule "SplitReg"]
 	path = SplitReg
 	url = https://github.com/cran/SplitReg
+[submodule "SplitSoftening"]
+	path = SplitSoftening
+	url = https://github.com/cran/SplitSoftening
 [submodule "SplitSplitPlot"]
 	path = SplitSplitPlot
 	url = https://github.com/cran/SplitSplitPlot
@@ -37430,6 +37448,9 @@
 [submodule "hackeRnews"]
 	path = hackeRnews
 	url = https://github.com/cran/hackeRnews
+[submodule "hacksaw"]
+	path = hacksaw
+	url = https://github.com/cran/hacksaw
 [submodule "hacksig"]
 	path = hacksig
 	url = https://github.com/cran/hacksig
@@ -48602,6 +48623,9 @@
 [submodule "osd"]
 	path = osd
 	url = https://github.com/cran/osd
+[submodule "osdatahub"]
+	path = osdatahub
+	url = https://github.com/cran/osdatahub
 [submodule "osfr"]
 	path = osfr
 	url = https://github.com/cran/osfr
