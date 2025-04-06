@@ -10082,9 +10082,6 @@
 [submodule "MPCI"]
 	path = MPCI
 	url = https://github.com/cran/MPCI
-[submodule "MPCR"]
-	path = MPCR
-	url = https://github.com/cran/MPCR
 [submodule "MPDiR"]
 	path = MPDiR
 	url = https://github.com/cran/MPDiR
@@ -19172,9 +19169,6 @@
 [submodule "Tushare"]
 	path = Tushare
 	url = https://github.com/cran/Tushare
-[submodule "Twitmo"]
-	path = Twitmo
-	url = https://github.com/cran/Twitmo
 [submodule "TwitterAutomatedTrading"]
 	path = TwitterAutomatedTrading
 	url = https://github.com/cran/TwitterAutomatedTrading
