@@ -4385,9 +4385,6 @@
 [submodule "Design.parameters"]
 	path = Design.parameters
 	url = https://github.com/cran/Design.parameters
-[submodule "DesignCTPB"]
-	path = DesignCTPB
-	url = https://github.com/cran/DesignCTPB
 [submodule "DesignLibrary"]
 	path = DesignLibrary
 	url = https://github.com/cran/DesignLibrary
@@ -8822,9 +8819,6 @@
 [submodule "LCCR"]
 	path = LCCR
 	url = https://github.com/cran/LCCR
-[submodule "LCF"]
-	path = LCF
-	url = https://github.com/cran/LCF
 [submodule "LCFdata"]
 	path = LCFdata
 	url = https://github.com/cran/LCFdata
@@ -18812,9 +18806,6 @@
 [submodule "TensorClustering"]
 	path = TensorClustering
 	url = https://github.com/cran/TensorClustering
-[submodule "TensorComplete"]
-	path = TensorComplete
-	url = https://github.com/cran/TensorComplete
 [submodule "TensorPreAve"]
 	path = TensorPreAve
 	url = https://github.com/cran/TensorPreAve
@@ -61301,9 +61292,6 @@
 [submodule "stickyr"]
 	path = stickyr
 	url = https://github.com/cran/stickyr
-[submodule "stilt"]
-	path = stilt
-	url = https://github.com/cran/stilt
 [submodule "stim"]
 	path = stim
 	url = https://github.com/cran/stim
