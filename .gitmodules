@@ -5339,6 +5339,9 @@
 [submodule "Evacluster"]
 	path = Evacluster
 	url = https://github.com/cran/Evacluster
+[submodule "EvaluateCore"]
+	path = EvaluateCore
+	url = https://github.com/cran/EvaluateCore
 [submodule "EvaluationMeasures"]
 	path = EvaluationMeasures
 	url = https://github.com/cran/EvaluationMeasures
@@ -11441,6 +11444,9 @@
 [submodule "NetExplorer"]
 	path = NetExplorer
 	url = https://github.com/cran/NetExplorer
+[submodule "NetFACS"]
+	path = NetFACS
+	url = https://github.com/cran/NetFACS
 [submodule "NetIndices"]
 	path = NetIndices
 	url = https://github.com/cran/NetIndices
@@ -13781,6 +13787,9 @@
 [submodule "RALSA"]
 	path = RALSA
 	url = https://github.com/cran/RALSA
+[submodule "RAMClustR"]
+	path = RAMClustR
+	url = https://github.com/cran/RAMClustR
 [submodule "RAMP"]
 	path = RAMP
 	url = https://github.com/cran/RAMP
@@ -40247,6 +40256,9 @@
 [submodule "jlctree"]
 	path = jlctree
 	url = https://github.com/cran/jlctree
+[submodule "jlme"]
+	path = jlme
+	url = https://github.com/cran/jlme
 [submodule "jlmerclusterperm"]
 	path = jlmerclusterperm
 	url = https://github.com/cran/jlmerclusterperm
@@ -56003,6 +56015,9 @@
 [submodule "rpca"]
 	path = rpca
 	url = https://github.com/cran/rpca
+[submodule "rpcss"]
+	path = rpcss
+	url = https://github.com/cran/rpcss
 [submodule "rpf"]
 	path = rpf
 	url = https://github.com/cran/rpf
