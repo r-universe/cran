@@ -13538,6 +13538,9 @@
 [submodule "QR"]
 	path = QR
 	url = https://github.com/cran/QR
+[submodule "QR.break"]
+	path = QR.break
+	url = https://github.com/cran/QR.break
 [submodule "QRAGadget"]
 	path = QRAGadget
 	url = https://github.com/cran/QRAGadget
