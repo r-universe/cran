@@ -4385,6 +4385,9 @@
 [submodule "Design.parameters"]
 	path = Design.parameters
 	url = https://github.com/cran/Design.parameters
+[submodule "DesignCTPB"]
+	path = DesignCTPB
+	url = https://github.com/cran/DesignCTPB
 [submodule "DesignLibrary"]
 	path = DesignLibrary
 	url = https://github.com/cran/DesignLibrary
@@ -8819,6 +8822,9 @@
 [submodule "LCCR"]
 	path = LCCR
 	url = https://github.com/cran/LCCR
+[submodule "LCF"]
+	path = LCF
+	url = https://github.com/cran/LCF
 [submodule "LCFdata"]
 	path = LCFdata
 	url = https://github.com/cran/LCFdata
@@ -10076,6 +10082,9 @@
 [submodule "MPCI"]
 	path = MPCI
 	url = https://github.com/cran/MPCI
+[submodule "MPCR"]
+	path = MPCR
+	url = https://github.com/cran/MPCR
 [submodule "MPDiR"]
 	path = MPDiR
 	url = https://github.com/cran/MPDiR
@@ -18806,6 +18815,9 @@
 [submodule "TensorClustering"]
 	path = TensorClustering
 	url = https://github.com/cran/TensorClustering
+[submodule "TensorComplete"]
+	path = TensorComplete
+	url = https://github.com/cran/TensorComplete
 [submodule "TensorPreAve"]
 	path = TensorPreAve
 	url = https://github.com/cran/TensorPreAve
@@ -19160,6 +19172,9 @@
 [submodule "Tushare"]
 	path = Tushare
 	url = https://github.com/cran/Tushare
+[submodule "Twitmo"]
+	path = Twitmo
+	url = https://github.com/cran/Twitmo
 [submodule "TwitterAutomatedTrading"]
 	path = TwitterAutomatedTrading
 	url = https://github.com/cran/TwitterAutomatedTrading
@@ -24476,9 +24491,6 @@
 [submodule "carat"]
 	path = carat
 	url = https://github.com/cran/carat
-[submodule "carbonate"]
-	path = carbonate
-	url = https://github.com/cran/carbonate
 [submodule "carbondate"]
 	path = carbondate
 	url = https://github.com/cran/carbondate
@@ -31508,9 +31520,6 @@
 [submodule "epitrix"]
 	path = epitrix
 	url = https://github.com/cran/epitrix
-[submodule "epitweetr"]
-	path = epitweetr
-	url = https://github.com/cran/epitweetr
 [submodule "epiworldR"]
 	path = epiworldR
 	url = https://github.com/cran/epiworldR
@@ -31991,9 +32000,6 @@
 [submodule "exact2x2"]
 	path = exact2x2
 	url = https://github.com/cran/exact2x2
-[submodule "exactLTRE"]
-	path = exactLTRE
-	url = https://github.com/cran/exactLTRE
 [submodule "exactRankTests"]
 	path = exactRankTests
 	url = https://github.com/cran/exactRankTests
@@ -33899,9 +33905,6 @@
 [submodule "fpow"]
 	path = fpow
 	url = https://github.com/cran/fpow
-[submodule "fpp"]
-	path = fpp
-	url = https://github.com/cran/fpp
 [submodule "fpp2"]
 	path = fpp2
 	url = https://github.com/cran/fpp2
@@ -46664,9 +46667,6 @@
 [submodule "necountries"]
 	path = necountries
 	url = https://github.com/cran/necountries
-[submodule "needmining"]
-	path = needmining
-	url = https://github.com/cran/needmining
 [submodule "needs"]
 	path = needs
 	url = https://github.com/cran/needs
@@ -56501,9 +56501,6 @@
 [submodule "rtsplot"]
 	path = rtsplot
 	url = https://github.com/cran/rtsplot
-[submodule "rtweet"]
-	path = rtweet
-	url = https://github.com/cran/rtweet
 [submodule "rtype"]
 	path = rtype
 	url = https://github.com/cran/rtype
@@ -57068,9 +57065,6 @@
 [submodule "sanzo"]
 	path = sanzo
 	url = https://github.com/cran/sanzo
-[submodule "saotd"]
-	path = saotd
-	url = https://github.com/cran/saotd
 [submodule "sapevom"]
 	path = sapevom
 	url = https://github.com/cran/sapevom
@@ -61289,6 +61283,9 @@
 [submodule "stickyr"]
 	path = stickyr
 	url = https://github.com/cran/stickyr
+[submodule "stilt"]
+	path = stilt
+	url = https://github.com/cran/stilt
 [submodule "stim"]
 	path = stim
 	url = https://github.com/cran/stim
