@@ -49091,6 +49091,9 @@
 [submodule "pangaear"]
 	path = pangaear
 	url = https://github.com/cran/pangaear
+[submodule "pangoling"]
+	path = pangoling
+	url = https://github.com/cran/pangoling
 [submodule "pannotator"]
 	path = pannotator
 	url = https://github.com/cran/pannotator
@@ -51335,6 +51338,9 @@
 [submodule "ppitables"]
 	path = ppitables
 	url = https://github.com/cran/ppitables
+[submodule "pplot"]
+	path = pplot
+	url = https://github.com/cran/pplot
 [submodule "ppmHR"]
 	path = ppmHR
 	url = https://github.com/cran/ppmHR
@@ -57677,6 +57683,9 @@
 [submodule "sdtm.oak"]
 	path = sdtm.oak
 	url = https://github.com/cran/sdtm.oak
+[submodule "sdtm.terminology"]
+	path = sdtm.terminology
+	url = https://github.com/cran/sdtm.terminology
 [submodule "sdtmchecks"]
 	path = sdtmchecks
 	url = https://github.com/cran/sdtmchecks
