@@ -2723,6 +2723,9 @@
 [submodule "Canopy"]
 	path = Canopy
 	url = https://github.com/cran/Canopy
+[submodule "CardioCurveR"]
+	path = CardioCurveR
+	url = https://github.com/cran/CardioCurveR
 [submodule "CareDensity"]
 	path = CareDensity
 	url = https://github.com/cran/CareDensity
@@ -4211,6 +4214,9 @@
 [submodule "DarkDiv"]
 	path = DarkDiv
 	url = https://github.com/cran/DarkDiv
+[submodule "DasGuptR"]
+	path = DasGuptR
+	url = https://github.com/cran/DasGuptR
 [submodule "Dasst"]
 	path = Dasst
 	url = https://github.com/cran/Dasst
@@ -7493,6 +7499,9 @@
 [submodule "HTGM"]
 	path = HTGM
 	url = https://github.com/cran/HTGM
+[submodule "HTGM2D"]
+	path = HTGM2D
+	url = https://github.com/cran/HTGM2D
 [submodule "HTLR"]
 	path = HTLR
 	url = https://github.com/cran/HTLR
@@ -18008,6 +18017,9 @@
 [submodule "StatRec"]
 	path = StatRec
 	url = https://github.com/cran/StatRec
+[submodule "StatTools"]
+	path = StatTools
+	url = https://github.com/cran/StatTools
 [submodule "Statamarkdown"]
 	path = Statamarkdown
 	url = https://github.com/cran/Statamarkdown
@@ -20321,6 +20333,9 @@
 [submodule "activity"]
 	path = activity
 	url = https://github.com/cran/activity
+[submodule "activityCounts"]
+	path = activityCounts
+	url = https://github.com/cran/activityCounts
 [submodule "actogrammr"]
 	path = actogrammr
 	url = https://github.com/cran/actogrammr
@@ -25724,6 +25739,9 @@
 [submodule "clock"]
 	path = clock
 	url = https://github.com/cran/clock
+[submodule "clockSim"]
+	path = clockSim
+	url = https://github.com/cran/clockSim
 [submodule "clockify"]
 	path = clockify
 	url = https://github.com/cran/clockify
@@ -37070,6 +37088,9 @@
 [submodule "groupedHyperframe"]
 	path = groupedHyperframe
 	url = https://github.com/cran/groupedHyperframe
+[submodule "groupedHyperframe.random"]
+	path = groupedHyperframe.random
+	url = https://github.com/cran/groupedHyperframe.random
 [submodule "groupedSurv"]
 	path = groupedSurv
 	url = https://github.com/cran/groupedSurv
@@ -64592,6 +64613,9 @@
 [submodule "tvReg"]
 	path = tvReg
 	url = https://github.com/cran/tvReg
+[submodule "tvcure"]
+	path = tvcure
+	url = https://github.com/cran/tvcure
 [submodule "tvem"]
 	path = tvem
 	url = https://github.com/cran/tvem
@@ -65675,6 +65699,9 @@
 [submodule "vismeteor"]
 	path = vismeteor
 	url = https://github.com/cran/vismeteor
+[submodule "visor"]
+	path = visor
+	url = https://github.com/cran/visor
 [submodule "visreg"]
 	path = visreg
 	url = https://github.com/cran/visreg
