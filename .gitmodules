@@ -3932,6 +3932,9 @@
 [submodule "DLL"]
 	path = DLL
 	url = https://github.com/cran/DLL
+[submodule "DLMRMV"]
+	path = DLMRMV
+	url = https://github.com/cran/DLMRMV
 [submodule "DLMtool"]
 	path = DLMtool
 	url = https://github.com/cran/DLMtool
@@ -25262,6 +25265,9 @@
 [submodule "childesr"]
 	path = childesr
 	url = https://github.com/cran/childesr
+[submodule "childeswordfreq"]
+	path = childeswordfreq
+	url = https://github.com/cran/childeswordfreq
 [submodule "childfree"]
 	path = childfree
 	url = https://github.com/cran/childfree
