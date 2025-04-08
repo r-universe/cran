@@ -13004,6 +13004,9 @@
 [submodule "PhitestR"]
 	path = PhitestR
 	url = https://github.com/cran/PhitestR
+[submodule "PhotoGEA"]
+	path = PhotoGEA
+	url = https://github.com/cran/PhotoGEA
 [submodule "PhotosynQ"]
 	path = PhotosynQ
 	url = https://github.com/cran/PhotosynQ
@@ -39188,6 +39191,9 @@
 [submodule "immunaut"]
 	path = immunaut
 	url = https://github.com/cran/immunaut
+[submodule "immundata"]
+	path = immundata
+	url = https://github.com/cran/immundata
 [submodule "immuneSIM"]
 	path = immuneSIM
 	url = https://github.com/cran/immuneSIM
@@ -42050,6 +42056,9 @@
 [submodule "lme4"]
 	path = lme4
 	url = https://github.com/cran/lme4
+[submodule "lme4GS"]
+	path = lme4GS
+	url = https://github.com/cran/lme4GS
 [submodule "lme4breeding"]
 	path = lme4breeding
 	url = https://github.com/cran/lme4breeding
@@ -51206,6 +51215,9 @@
 [submodule "postHoc"]
 	path = postHoc
 	url = https://github.com/cran/postHoc
+[submodule "postcard"]
+	path = postcard
+	url = https://github.com/cran/postcard
 [submodule "postcards"]
 	path = postcards
 	url = https://github.com/cran/postcards
