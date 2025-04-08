@@ -95,9 +95,6 @@
 [submodule "ADMM"]
 	path = ADMM
 	url = https://github.com/cran/ADMM
-[submodule "ADMMsigma"]
-	path = ADMMsigma
-	url = https://github.com/cran/ADMMsigma
 [submodule "ADMUR"]
 	path = ADMUR
 	url = https://github.com/cran/ADMUR
@@ -22316,6 +22313,9 @@
 [submodule "basemodels"]
 	path = basemodels
 	url = https://github.com/cran/basemodels
+[submodule "basepenguins"]
+	path = basepenguins
+	url = https://github.com/cran/basepenguins
 [submodule "baseq"]
 	path = baseq
 	url = https://github.com/cran/baseq
@@ -26084,6 +26084,9 @@
 [submodule "coda.base"]
 	path = coda.base
 	url = https://github.com/cran/coda.base
+[submodule "coda.plot"]
+	path = coda.plot
+	url = https://github.com/cran/coda.plot
 [submodule "coda4microbiome"]
 	path = coda4microbiome
 	url = https://github.com/cran/coda4microbiome
@@ -27824,6 +27827,9 @@
 [submodule "ctsfeatures"]
 	path = ctsfeatures
 	url = https://github.com/cran/ctsfeatures
+[submodule "ctsmTMB"]
+	path = ctsmTMB
+	url = https://github.com/cran/ctsmTMB
 [submodule "ctv"]
 	path = ctv
 	url = https://github.com/cran/ctv
@@ -31529,9 +31535,6 @@
 [submodule "epiphy"]
 	path = epiphy
 	url = https://github.com/cran/epiphy
-[submodule "episcan"]
-	path = episcan
-	url = https://github.com/cran/episcan
 [submodule "episensr"]
 	path = episensr
 	url = https://github.com/cran/episensr
@@ -57674,6 +57677,9 @@
 [submodule "sdetorus"]
 	path = sdetorus
 	url = https://github.com/cran/sdetorus
+[submodule "sdlrm"]
+	path = sdlrm
+	url = https://github.com/cran/sdlrm
 [submodule "sdm"]
 	path = sdm
 	url = https://github.com/cran/sdm
@@ -60431,6 +60437,9 @@
 [submodule "specs"]
 	path = specs
 	url = https://github.com/cran/specs
+[submodule "spect"]
+	path = spect
+	url = https://github.com/cran/spect
 [submodule "spectacles"]
 	path = spectacles
 	url = https://github.com/cran/spectacles
@@ -65396,9 +65405,6 @@
 [submodule "varoc"]
 	path = varoc
 	url = https://github.com/cran/varoc
-[submodule "varrank"]
-	path = varrank
-	url = https://github.com/cran/varrank
 [submodule "vars"]
 	path = vars
 	url = https://github.com/cran/vars
