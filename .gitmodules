@@ -24509,6 +24509,9 @@
 [submodule "carat"]
 	path = carat
 	url = https://github.com/cran/carat
+[submodule "carbonate"]
+	path = carbonate
+	url = https://github.com/cran/carbonate
 [submodule "carbondate"]
 	path = carbondate
 	url = https://github.com/cran/carbondate
@@ -31541,6 +31544,9 @@
 [submodule "epitrix"]
 	path = epitrix
 	url = https://github.com/cran/epitrix
+[submodule "epitweetr"]
+	path = epitweetr
+	url = https://github.com/cran/epitweetr
 [submodule "epiworldR"]
 	path = epiworldR
 	url = https://github.com/cran/epiworldR
@@ -32021,6 +32027,9 @@
 [submodule "exact2x2"]
 	path = exact2x2
 	url = https://github.com/cran/exact2x2
+[submodule "exactLTRE"]
+	path = exactLTRE
+	url = https://github.com/cran/exactLTRE
 [submodule "exactRankTests"]
 	path = exactRankTests
 	url = https://github.com/cran/exactRankTests
@@ -46691,6 +46700,9 @@
 [submodule "necountries"]
 	path = necountries
 	url = https://github.com/cran/necountries
+[submodule "needmining"]
+	path = needmining
+	url = https://github.com/cran/needmining
 [submodule "needs"]
 	path = needs
 	url = https://github.com/cran/needs
@@ -56531,6 +56543,9 @@
 [submodule "rtsplot"]
 	path = rtsplot
 	url = https://github.com/cran/rtsplot
+[submodule "rtweet"]
+	path = rtweet
+	url = https://github.com/cran/rtweet
 [submodule "rtype"]
 	path = rtype
 	url = https://github.com/cran/rtype
@@ -57095,6 +57110,9 @@
 [submodule "sanzo"]
 	path = sanzo
 	url = https://github.com/cran/sanzo
+[submodule "saotd"]
+	path = saotd
+	url = https://github.com/cran/saotd
 [submodule "sapevom"]
 	path = sapevom
 	url = https://github.com/cran/sapevom
