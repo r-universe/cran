@@ -512,6 +512,9 @@
 [submodule "AdhereRViz"]
 	path = AdhereRViz
 	url = https://github.com/cran/AdhereRViz
+[submodule "AdsorpR"]
+	path = AdsorpR
+	url = https://github.com/cran/AdsorpR
 [submodule "AdvBinomApps"]
 	path = AdvBinomApps
 	url = https://github.com/cran/AdvBinomApps
@@ -55694,6 +55697,9 @@
 [submodule "robcor"]
 	path = robcor
 	url = https://github.com/cran/robcor
+[submodule "robcp"]
+	path = robcp
+	url = https://github.com/cran/robcp
 [submodule "roben"]
 	path = roben
 	url = https://github.com/cran/roben
@@ -59567,6 +59573,9 @@
 [submodule "slr"]
 	path = slr
 	url = https://github.com/cran/slr
+[submodule "slurm"]
+	path = slurm
+	url = https://github.com/cran/slurm
 [submodule "slurmR"]
 	path = slurmR
 	url = https://github.com/cran/slurmR
