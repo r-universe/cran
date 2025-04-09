@@ -95,6 +95,9 @@
 [submodule "ADMM"]
 	path = ADMM
 	url = https://github.com/cran/ADMM
+[submodule "ADMMsigma"]
+	path = ADMMsigma
+	url = https://github.com/cran/ADMMsigma
 [submodule "ADMUR"]
 	path = ADMUR
 	url = https://github.com/cran/ADMUR
@@ -31541,6 +31544,9 @@
 [submodule "epiphy"]
 	path = epiphy
 	url = https://github.com/cran/epiphy
+[submodule "episcan"]
+	path = episcan
+	url = https://github.com/cran/episcan
 [submodule "episensr"]
 	path = episensr
 	url = https://github.com/cran/episensr
@@ -65420,6 +65426,9 @@
 [submodule "varoc"]
 	path = varoc
 	url = https://github.com/cran/varoc
+[submodule "varrank"]
+	path = varrank
+	url = https://github.com/cran/varrank
 [submodule "vars"]
 	path = vars
 	url = https://github.com/cran/vars
