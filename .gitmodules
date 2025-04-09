@@ -65297,6 +65297,9 @@
 [submodule "valet"]
 	path = valet
 	url = https://github.com/cran/valet
+[submodule "valh"]
+	path = valh
+	url = https://github.com/cran/valh
 [submodule "valhallr"]
 	path = valhallr
 	url = https://github.com/cran/valhallr
@@ -65969,6 +65972,9 @@
 [submodule "vvauditor"]
 	path = vvauditor
 	url = https://github.com/cran/vvauditor
+[submodule "vvbitwarden"]
+	path = vvbitwarden
+	url = https://github.com/cran/vvbitwarden
 [submodule "vvcanvas"]
 	path = vvcanvas
 	url = https://github.com/cran/vvcanvas
