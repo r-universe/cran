@@ -6314,6 +6314,9 @@
 [submodule "GBJ"]
 	path = GBJ
 	url = https://github.com/cran/GBJ
+[submodule "GBOP2"]
+	path = GBOP2
+	url = https://github.com/cran/GBOP2
 [submodule "GCCfactor"]
 	path = GCCfactor
 	url = https://github.com/cran/GCCfactor
@@ -33500,6 +33503,9 @@
 [submodule "flexmsm"]
 	path = flexmsm
 	url = https://github.com/cran/flexmsm
+[submodule "flexoki"]
+	path = flexoki
+	url = https://github.com/cran/flexoki
 [submodule "flexord"]
 	path = flexord
 	url = https://github.com/cran/flexord
@@ -47138,6 +47144,9 @@
 [submodule "nimbleSMC"]
 	path = nimbleSMC
 	url = https://github.com/cran/nimbleSMC
+[submodule "nimblewomble"]
+	path = nimblewomble
+	url = https://github.com/cran/nimblewomble
 [submodule "nipals"]
 	path = nipals
 	url = https://github.com/cran/nipals
@@ -47612,6 +47621,9 @@
 [submodule "npde"]
 	path = npde
 	url = https://github.com/cran/npde
+[submodule "npdsim"]
+	path = npdsim
+	url = https://github.com/cran/npdsim
 [submodule "nph"]
 	path = nph
 	url = https://github.com/cran/nph
@@ -50336,6 +50348,9 @@
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/cran/piggyback
+[submodule "piglet"]
+	path = piglet
+	url = https://github.com/cran/piglet
 [submodule "pii"]
 	path = pii
 	url = https://github.com/cran/pii
@@ -57881,6 +57896,9 @@
 [submodule "sehrnett"]
 	path = sehrnett
 	url = https://github.com/cran/sehrnett
+[submodule "seinfitR"]
+	path = seinfitR
+	url = https://github.com/cran/seinfitR
 [submodule "seismic"]
 	path = seismic
 	url = https://github.com/cran/seismic
@@ -67055,6 +67073,9 @@
 [submodule "yfR"]
 	path = yfR
 	url = https://github.com/cran/yfR
+[submodule "yfscreen"]
+	path = yfscreen
+	url = https://github.com/cran/yfscreen
 [submodule "yhat"]
 	path = yhat
 	url = https://github.com/cran/yhat
