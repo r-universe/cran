@@ -31706,6 +31706,9 @@
 [submodule "ern"]
 	path = ern
 	url = https://github.com/cran/ern
+[submodule "ernm"]
+	path = ernm
+	url = https://github.com/cran/ernm
 [submodule "erp.easy"]
 	path = erp.easy
 	url = https://github.com/cran/erp.easy
@@ -37856,6 +37859,9 @@
 [submodule "heplots"]
 	path = heplots
 	url = https://github.com/cran/heplots
+[submodule "hera"]
+	path = hera
+	url = https://github.com/cran/hera
 [submodule "here"]
 	path = here
 	url = https://github.com/cran/here
@@ -39926,6 +39932,9 @@
 [submodule "isa2"]
 	path = isa2
 	url = https://github.com/cran/isa2
+[submodule "isard"]
+	path = isard
+	url = https://github.com/cran/isard
 [submodule "isatabr"]
 	path = isatabr
 	url = https://github.com/cran/isatabr
