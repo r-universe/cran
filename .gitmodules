@@ -35294,6 +35294,9 @@
 [submodule "geoperu"]
 	path = geoperu
 	url = https://github.com/cran/geoperu
+[submodule "geoprofiler"]
+	path = geoprofiler
+	url = https://github.com/cran/geoprofiler
 [submodule "georefdatar"]
 	path = georefdatar
 	url = https://github.com/cran/georefdatar
@@ -43130,6 +43133,9 @@
 [submodule "marcher"]
 	path = marcher
 	url = https://github.com/cran/marcher
+[submodule "marcox"]
+	path = marcox
+	url = https://github.com/cran/marcox
 [submodule "marelac"]
 	path = marelac
 	url = https://github.com/cran/marelac
@@ -50360,6 +50366,9 @@
 [submodule "pii"]
 	path = pii
 	url = https://github.com/cran/pii
+[submodule "piiR"]
+	path = piiR
+	url = https://github.com/cran/piiR
 [submodule "pikchr"]
 	path = pikchr
 	url = https://github.com/cran/pikchr
@@ -63230,6 +63239,9 @@
 [submodule "tican"]
 	path = tican
 	url = https://github.com/cran/tican
+[submodule "tickr"]
+	path = tickr
+	url = https://github.com/cran/tickr
 [submodule "tictactoe"]
 	path = tictactoe
 	url = https://github.com/cran/tictactoe
@@ -67274,6 +67286,9 @@
 [submodule "ztable"]
 	path = ztable
 	url = https://github.com/cran/ztable
+[submodule "ztils"]
+	path = ztils
+	url = https://github.com/cran/ztils
 [submodule "ztpln"]
 	path = ztpln
 	url = https://github.com/cran/ztpln
