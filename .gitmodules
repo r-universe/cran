@@ -19403,9 +19403,6 @@
 [submodule "VAR.spec"]
 	path = VAR.spec
 	url = https://github.com/cran/VAR.spec
-[submodule "VARDetect"]
-	path = VARDetect
-	url = https://github.com/cran/VARDetect
 [submodule "VARSELECTEXPOSURE"]
 	path = VARSELECTEXPOSURE
 	url = https://github.com/cran/VARSELECTEXPOSURE
@@ -31154,9 +31151,6 @@
 [submodule "elections"]
 	path = elections
 	url = https://github.com/cran/elections
-[submodule "elections.dtree"]
-	path = elections.dtree
-	url = https://github.com/cran/elections.dtree
 [submodule "electionsBR"]
 	path = electionsBR
 	url = https://github.com/cran/electionsBR
@@ -35393,9 +35387,6 @@
 [submodule "gesttools"]
 	path = gesttools
 	url = https://github.com/cran/gesttools
-[submodule "getCRUCLdata"]
-	path = getCRUCLdata
-	url = https://github.com/cran/getCRUCLdata
 [submodule "getDTeval"]
 	path = getDTeval
 	url = https://github.com/cran/getDTeval
@@ -50324,9 +50315,6 @@
 [submodule "picante"]
 	path = picante
 	url = https://github.com/cran/picante
-[submodule "picasso"]
-	path = picasso
-	url = https://github.com/cran/picasso
 [submodule "picker"]
 	path = picker
 	url = https://github.com/cran/picker
@@ -51560,9 +51548,6 @@
 [submodule "preference"]
 	path = preference
 	url = https://github.com/cran/preference
-[submodule "prefio"]
-	path = prefio
-	url = https://github.com/cran/prefio
 [submodule "prefmod"]
 	path = prefmod
 	url = https://github.com/cran/prefmod
@@ -60287,9 +60272,6 @@
 [submodule "sparsesvd"]
 	path = sparsesvd
 	url = https://github.com/cran/sparsesvd
-[submodule "sparsevar"]
-	path = sparsevar
-	url = https://github.com/cran/sparsevar
 [submodule "sparsevb"]
 	path = sparsevb
 	url = https://github.com/cran/sparsevb
