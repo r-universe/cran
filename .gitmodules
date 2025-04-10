@@ -5057,6 +5057,9 @@
 [submodule "EXRQ"]
 	path = EXRQ
 	url = https://github.com/cran/EXRQ
+[submodule "EZFragility"]
+	path = EZFragility
+	url = https://github.com/cran/EZFragility
 [submodule "EZtune"]
 	path = EZtune
 	url = https://github.com/cran/EZtune
@@ -9683,6 +9686,9 @@
 [submodule "MCSim"]
 	path = MCSim
 	url = https://github.com/cran/MCSim
+[submodule "MCSimMod"]
+	path = MCSimMod
+	url = https://github.com/cran/MCSimMod
 [submodule "MCTrend"]
 	path = MCTrend
 	url = https://github.com/cran/MCTrend
@@ -25772,6 +25778,9 @@
 [submodule "cloneRate"]
 	path = cloneRate
 	url = https://github.com/cran/cloneRate
+[submodule "clootl"]
+	path = clootl
+	url = https://github.com/cran/clootl
 [submodule "clordr"]
 	path = clordr
 	url = https://github.com/cran/clordr
@@ -46982,6 +46991,9 @@
 [submodule "neuroim"]
 	path = neuroim
 	url = https://github.com/cran/neuroim
+[submodule "neuroim2"]
+	path = neuroim2
+	url = https://github.com/cran/neuroim2
 [submodule "neuroimaGene"]
 	path = neuroimaGene
 	url = https://github.com/cran/neuroimaGene
