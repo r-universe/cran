@@ -13472,6 +13472,9 @@
 [submodule "PvSTATEM"]
 	path = PvSTATEM
 	url = https://github.com/cran/PvSTATEM
+[submodule "PwePred"]
+	path = PwePred
+	url = https://github.com/cran/PwePred
 [submodule "PwrGSD"]
 	path = PwrGSD
 	url = https://github.com/cran/PwrGSD
@@ -27038,6 +27041,9 @@
 [submodule "correlationfunnel"]
 	path = correlationfunnel
 	url = https://github.com/cran/correlationfunnel
+[submodule "correlationr"]
+	path = correlationr
+	url = https://github.com/cran/correlationr
 [submodule "correlbinom"]
 	path = correlbinom
 	url = https://github.com/cran/correlbinom
@@ -52259,6 +52265,9 @@
 [submodule "pudu"]
 	path = pudu
 	url = https://github.com/cran/pudu
+[submodule "puff"]
+	path = puff
+	url = https://github.com/cran/puff
 [submodule "pullword"]
 	path = pullword
 	url = https://github.com/cran/pullword
