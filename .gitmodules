@@ -22733,6 +22733,9 @@
 [submodule "beakr"]
 	path = beakr
 	url = https://github.com/cran/beakr
+[submodule "beam"]
+	path = beam
+	url = https://github.com/cran/beam
 [submodule "beanplot"]
 	path = beanplot
 	url = https://github.com/cran/beanplot
