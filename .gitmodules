@@ -36479,9 +36479,6 @@
 [submodule "glossr"]
 	path = glossr
 	url = https://github.com/cran/glossr
-[submodule "glottospace"]
-	path = glottospace
-	url = https://github.com/cran/glottospace
 [submodule "glow"]
 	path = glow
 	url = https://github.com/cran/glow
@@ -57875,9 +57872,6 @@
 [submodule "seeds"]
 	path = seeds
 	url = https://github.com/cran/seeds
-[submodule "seeker"]
-	path = seeker
-	url = https://github.com/cran/seeker
 [submodule "seer"]
 	path = seer
 	url = https://github.com/cran/seer
