@@ -29558,6 +29558,9 @@
 [submodule "disprofas"]
 	path = disprofas
 	url = https://github.com/cran/disprofas
+[submodule "disprose"]
+	path = disprose
+	url = https://github.com/cran/disprose
 [submodule "dissCqN"]
 	path = dissCqN
 	url = https://github.com/cran/dissCqN
