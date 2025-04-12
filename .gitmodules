@@ -5669,6 +5669,9 @@
 [submodule "FKSUM"]
 	path = FKSUM
 	url = https://github.com/cran/FKSUM
+[submodule "FLAG"]
+	path = FLAG
+	url = https://github.com/cran/FLAG
 [submodule "FLAME"]
 	path = FLAME
 	url = https://github.com/cran/FLAME
@@ -21623,6 +21626,9 @@
 [submodule "arthistory"]
 	path = arthistory
 	url = https://github.com/cran/arthistory
+[submodule "artma"]
+	path = artma
+	url = https://github.com/cran/artma
 [submodule "artpack"]
 	path = artpack
 	url = https://github.com/cran/artpack
@@ -24230,6 +24236,9 @@
 [submodule "butcher"]
 	path = butcher
 	url = https://github.com/cran/butcher
+[submodule "butterfly"]
+	path = butterfly
+	url = https://github.com/cran/butterfly
 [submodule "butterflyOptions"]
 	path = butterflyOptions
 	url = https://github.com/cran/butterflyOptions
@@ -30497,6 +30506,9 @@
 [submodule "e1071"]
 	path = e1071
 	url = https://github.com/cran/e1071
+[submodule "e2tree"]
+	path = e2tree
+	url = https://github.com/cran/e2tree
 [submodule "eAnalytics"]
 	path = eAnalytics
 	url = https://github.com/cran/eAnalytics
