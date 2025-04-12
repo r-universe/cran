@@ -13424,6 +13424,9 @@
 [submodule "ProtE"]
 	path = ProtE
 	url = https://github.com/cran/ProtE
+[submodule "ProteinPCA"]
+	path = ProteinPCA
+	url = https://github.com/cran/ProteinPCA
 [submodule "ProteoBayes"]
 	path = ProteoBayes
 	url = https://github.com/cran/ProteoBayes
@@ -31370,6 +31373,9 @@
 [submodule "energy"]
 	path = energy
 	url = https://github.com/cran/energy
+[submodule "energymethod"]
+	path = energymethod
+	url = https://github.com/cran/energymethod
 [submodule "energyr"]
 	path = energyr
 	url = https://github.com/cran/energyr
