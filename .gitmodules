@@ -8045,9 +8045,6 @@
 [submodule "IOHanalyzer"]
 	path = IOHanalyzer
 	url = https://github.com/cran/IOHanalyzer
-[submodule "IOHexperimenter"]
-	path = IOHexperimenter
-	url = https://github.com/cran/IOHexperimenter
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
