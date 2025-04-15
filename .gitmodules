@@ -24893,6 +24893,9 @@
 [submodule "cder"]
 	path = cder
 	url = https://github.com/cran/cder
+[submodule "cdfinv"]
+	path = cdfinv
+	url = https://github.com/cran/cdfinv
 [submodule "cdfquantreg"]
 	path = cdfquantreg
 	url = https://github.com/cran/cdfquantreg
@@ -38594,6 +38597,9 @@
 [submodule "hyper.fit"]
 	path = hyper.fit
 	url = https://github.com/cran/hyper.fit
+[submodule "hyper.gam"]
+	path = hyper.gam
+	url = https://github.com/cran/hyper.gam
 [submodule "hyper2"]
 	path = hyper2
 	url = https://github.com/cran/hyper2
