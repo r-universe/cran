@@ -26069,6 +26069,9 @@
 [submodule "cobalt"]
 	path = cobalt
 	url = https://github.com/cran/cobalt
+[submodule "cobenrich"]
+	path = cobenrich
+	url = https://github.com/cran/cobenrich
 [submodule "cobiclust"]
 	path = cobiclust
 	url = https://github.com/cran/cobiclust
@@ -34292,6 +34295,9 @@
 [submodule "funLBM"]
 	path = funLBM
 	url = https://github.com/cran/funLBM
+[submodule "funMoDisco"]
+	path = funMoDisco
+	url = https://github.com/cran/funMoDisco
 [submodule "funModeling"]
 	path = funModeling
 	url = https://github.com/cran/funModeling
@@ -36290,6 +36296,9 @@
 [submodule "gkmSVM"]
 	path = gkmSVM
 	url = https://github.com/cran/gkmSVM
+[submodule "gkwreg"]
+	path = gkwreg
+	url = https://github.com/cran/gkwreg
 [submodule "glam"]
 	path = glam
 	url = https://github.com/cran/glam
@@ -37808,6 +37817,9 @@
 [submodule "heatex"]
 	path = heatex
 	url = https://github.com/cran/heatex
+[submodule "heatindex"]
+	path = heatindex
+	url = https://github.com/cran/heatindex
 [submodule "heatmap3"]
 	path = heatmap3
 	url = https://github.com/cran/heatmap3
@@ -53231,6 +53243,9 @@
 [submodule "rLakeAnalyzer"]
 	path = rLakeAnalyzer
 	url = https://github.com/cran/rLakeAnalyzer
+[submodule "rLakeHabitat"]
+	path = rLakeHabitat
+	url = https://github.com/cran/rLakeHabitat
 [submodule "rMEA"]
 	path = rMEA
 	url = https://github.com/cran/rMEA
@@ -65501,6 +65516,9 @@
 [submodule "vaxpmx"]
 	path = vaxpmx
 	url = https://github.com/cran/vaxpmx
+[submodule "vayr"]
+	path = vayr
+	url = https://github.com/cran/vayr
 [submodule "vcPB"]
 	path = vcPB
 	url = https://github.com/cran/vcPB
@@ -66443,6 +66461,9 @@
 [submodule "whippr"]
 	path = whippr
 	url = https://github.com/cran/whippr
+[submodule "whirl"]
+	path = whirl
+	url = https://github.com/cran/whirl
 [submodule "whisker"]
 	path = whisker
 	url = https://github.com/cran/whisker
