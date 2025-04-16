@@ -12866,6 +12866,9 @@
 [submodule "PathwaySpace"]
 	path = PathwaySpace
 	url = https://github.com/cran/PathwaySpace
+[submodule "PathwayVote"]
+	path = PathwayVote
+	url = https://github.com/cran/PathwayVote
 [submodule "PatientLevelPrediction"]
 	path = PatientLevelPrediction
 	url = https://github.com/cran/PatientLevelPrediction
@@ -16163,6 +16166,9 @@
 [submodule "Rstg"]
 	path = Rstg
 	url = https://github.com/cran/Rstg
+[submodule "Rsubbotools"]
+	path = Rsubbotools
+	url = https://github.com/cran/Rsubbotools
 [submodule "Rsurrogate"]
 	path = Rsurrogate
 	url = https://github.com/cran/Rsurrogate
@@ -24143,6 +24149,9 @@
 [submodule "bubblyr"]
 	path = bubblyr
 	url = https://github.com/cran/bubblyr
+[submodule "budgetIVr"]
+	path = budgetIVr
+	url = https://github.com/cran/budgetIVr
 [submodule "buildmer"]
 	path = buildmer
 	url = https://github.com/cran/buildmer
@@ -33005,6 +33014,9 @@
 [submodule "feasts"]
 	path = feasts
 	url = https://github.com/cran/feasts
+[submodule "featForge"]
+	path = featForge
+	url = https://github.com/cran/featForge
 [submodule "feather"]
 	path = feather
 	url = https://github.com/cran/feather
@@ -54701,6 +54713,9 @@
 [submodule "remstimate"]
 	path = remstimate
 	url = https://github.com/cran/remstimate
+[submodule "remulate"]
+	path = remulate
+	url = https://github.com/cran/remulate
 [submodule "renpow"]
 	path = renpow
 	url = https://github.com/cran/renpow
@@ -66092,6 +66107,9 @@
 [submodule "wactor"]
 	path = wactor
 	url = https://github.com/cran/wactor
+[submodule "waetr"]
+	path = waetr
+	url = https://github.com/cran/waetr
 [submodule "waffle"]
 	path = waffle
 	url = https://github.com/cran/waffle
