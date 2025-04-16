@@ -62414,6 +62414,9 @@
 [submodule "syuzhet"]
 	path = syuzhet
 	url = https://github.com/cran/syuzhet
+[submodule "tAI"]
+	path = tAI
+	url = https://github.com/cran/tAI
 [submodule "tLagInterim"]
 	path = tLagInterim
 	url = https://github.com/cran/tLagInterim
