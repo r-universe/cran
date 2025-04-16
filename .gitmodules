@@ -32819,6 +32819,9 @@
 [submodule "fastqq"]
 	path = fastqq
 	url = https://github.com/cran/fastqq
+[submodule "fastqrs"]
+	path = fastqrs
+	url = https://github.com/cran/fastqrs
 [submodule "fastrep"]
 	path = fastrep
 	url = https://github.com/cran/fastrep
