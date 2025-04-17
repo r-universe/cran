@@ -12371,9 +12371,6 @@
 [submodule "PKNCA"]
 	path = PKNCA
 	url = https://github.com/cran/PKNCA
-[submodule "PKPDsim"]
-	path = PKPDsim
-	url = https://github.com/cran/PKPDsim
 [submodule "PKbioanalysis"]
 	path = PKbioanalysis
 	url = https://github.com/cran/PKbioanalysis
