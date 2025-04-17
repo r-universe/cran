@@ -43436,6 +43436,9 @@
 [submodule "maxaltall"]
 	path = maxaltall
 	url = https://github.com/cran/maxaltall
+[submodule "maxbootR"]
+	path = maxbootR
+	url = https://github.com/cran/maxbootR
 [submodule "maxcombo"]
 	path = maxcombo
 	url = https://github.com/cran/maxcombo
@@ -67172,6 +67175,9 @@
 [submodule "yfR"]
 	path = yfR
 	url = https://github.com/cran/yfR
+[submodule "yfinancer"]
+	path = yfinancer
+	url = https://github.com/cran/yfinancer
 [submodule "yfscreen"]
 	path = yfscreen
 	url = https://github.com/cran/yfscreen
