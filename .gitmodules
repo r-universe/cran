@@ -4943,6 +4943,9 @@
 [submodule "EMT"]
 	path = EMT
 	url = https://github.com/cran/EMT
+[submodule "EMTscore"]
+	path = EMTscore
+	url = https://github.com/cran/EMTscore
 [submodule "EMbC"]
 	path = EMbC
 	url = https://github.com/cran/EMbC
@@ -58622,6 +58625,9 @@
 [submodule "shinyDND"]
 	path = shinyDND
 	url = https://github.com/cran/shinyDND
+[submodule "shinyDTC"]
+	path = shinyDTC
+	url = https://github.com/cran/shinyDTC
 [submodule "shinyDatetimePickers"]
 	path = shinyDatetimePickers
 	url = https://github.com/cran/shinyDatetimePickers
