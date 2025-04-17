@@ -45200,6 +45200,9 @@
 [submodule "mmeln"]
 	path = mmeln
 	url = https://github.com/cran/mmeln
+[submodule "mmequiv"]
+	path = mmequiv
+	url = https://github.com/cran/mmequiv
 [submodule "mmeta"]
 	path = mmeta
 	url = https://github.com/cran/mmeta
