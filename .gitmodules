@@ -7760,6 +7760,9 @@
 [submodule "IBCF.MTME"]
 	path = IBCF.MTME
 	url = https://github.com/cran/IBCF.MTME
+[submodule "IBDInfer"]
+	path = IBDInfer
+	url = https://github.com/cran/IBDInfer
 [submodule "IBFS"]
 	path = IBFS
 	url = https://github.com/cran/IBFS
