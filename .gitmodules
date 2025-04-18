@@ -21128,6 +21128,9 @@
 [submodule "analyzer"]
 	path = analyzer
 	url = https://github.com/cran/analyzer
+[submodule "ananke"]
+	path = ananke
+	url = https://github.com/cran/ananke
 [submodule "and"]
 	path = and
 	url = https://github.com/cran/and
@@ -25241,6 +25244,9 @@
 [submodule "cheese"]
 	path = cheese
 	url = https://github.com/cran/cheese
+[submodule "cheetahR"]
+	path = cheetahR
+	url = https://github.com/cran/cheetahR
 [submodule "chem.databases"]
 	path = chem.databases
 	url = https://github.com/cran/chem.databases
@@ -62588,6 +62594,9 @@
 [submodule "tailloss"]
 	path = tailloss
 	url = https://github.com/cran/tailloss
+[submodule "tailplots"]
+	path = tailplots
+	url = https://github.com/cran/tailplots
 [submodule "taipan"]
 	path = taipan
 	url = https://github.com/cran/taipan
