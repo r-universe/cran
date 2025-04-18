@@ -59567,6 +59567,9 @@
 [submodule "slap"]
 	path = slap
 	url = https://github.com/cran/slap
+[submodule "slash"]
+	path = slash
+	url = https://github.com/cran/slash
 [submodule "slasso"]
 	path = slasso
 	url = https://github.com/cran/slasso
