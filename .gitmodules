@@ -8102,6 +8102,9 @@
 [submodule "IRTBEMM"]
 	path = IRTBEMM
 	url = https://github.com/cran/IRTBEMM
+[submodule "IRTM"]
+	path = IRTM
+	url = https://github.com/cran/IRTM
 [submodule "IRTShiny"]
 	path = IRTShiny
 	url = https://github.com/cran/IRTShiny
