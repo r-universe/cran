@@ -6803,6 +6803,9 @@
 [submodule "GSparO"]
 	path = GSparO
 	url = https://github.com/cran/GSparO
+[submodule "GTAPViz"]
+	path = GTAPViz
+	url = https://github.com/cran/GTAPViz
 [submodule "GTDL"]
 	path = GTDL
 	url = https://github.com/cran/GTDL
@@ -18746,6 +18749,9 @@
 [submodule "TTR"]
 	path = TTR
 	url = https://github.com/cran/TTR
+[submodule "TTR.PGM"]
+	path = TTR.PGM
+	url = https://github.com/cran/TTR.PGM
 [submodule "TTS"]
 	path = TTS
 	url = https://github.com/cran/TTS
@@ -30341,6 +30347,9 @@
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/cran/duckplyr
+[submodule "duckspatial"]
+	path = duckspatial
+	url = https://github.com/cran/duckspatial
 [submodule "duet"]
 	path = duet
 	url = https://github.com/cran/duet
@@ -33338,6 +33347,9 @@
 [submodule "fishbc"]
 	path = fishbc
 	url = https://github.com/cran/fishbc
+[submodule "fishboot"]
+	path = fishboot
+	url = https://github.com/cran/fishboot
 [submodule "fishdata"]
 	path = fishdata
 	url = https://github.com/cran/fishdata
@@ -36971,6 +36983,9 @@
 [submodule "graphon"]
 	path = graphon
 	url = https://github.com/cran/graphon
+[submodule "graphpcor"]
+	path = graphpcor
+	url = https://github.com/cran/graphpcor
 [submodule "graphql"]
 	path = graphql
 	url = https://github.com/cran/graphql
