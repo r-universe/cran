@@ -23288,9 +23288,6 @@
 [submodule "biometrics"]
 	path = biometrics
 	url = https://github.com/cran/biometrics
-[submodule "biometryassist"]
-	path = biometryassist
-	url = https://github.com/cran/biometryassist
 [submodule "biomod2"]
 	path = biomod2
 	url = https://github.com/cran/biomod2
@@ -58271,9 +58268,6 @@
 [submodule "servr"]
 	path = servr
 	url = https://github.com/cran/servr
-[submodule "sesem"]
-	path = sesem
-	url = https://github.com/cran/sesem
 [submodule "sessioninfo"]
 	path = sessioninfo
 	url = https://github.com/cran/sessioninfo
