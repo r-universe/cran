@@ -12812,9 +12812,6 @@
 [submodule "PanJen"]
 	path = PanJen
 	url = https://github.com/cran/PanJen
-[submodule "Pandora"]
-	path = Pandora
-	url = https://github.com/cran/Pandora
 [submodule "PanelCount"]
 	path = PanelCount
 	url = https://github.com/cran/PanelCount
