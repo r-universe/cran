@@ -23294,6 +23294,9 @@
 [submodule "biometrics"]
 	path = biometrics
 	url = https://github.com/cran/biometrics
+[submodule "biometryassist"]
+	path = biometryassist
+	url = https://github.com/cran/biometryassist
 [submodule "biomod2"]
 	path = biomod2
 	url = https://github.com/cran/biomod2
