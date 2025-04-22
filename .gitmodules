@@ -56300,6 +56300,9 @@
 [submodule "rrcovHD"]
 	path = rrcovHD
 	url = https://github.com/cran/rrcovHD
+[submodule "rrcovNA"]
+	path = rrcovNA
+	url = https://github.com/cran/rrcovNA
 [submodule "rrecsys"]
 	path = rrecsys
 	url = https://github.com/cran/rrecsys
