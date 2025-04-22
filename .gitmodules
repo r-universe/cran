@@ -52550,6 +52550,9 @@
 [submodule "qcr"]
 	path = qcr
 	url = https://github.com/cran/qcr
+[submodule "qcrlscR"]
+	path = qcrlscR
+	url = https://github.com/cran/qcrlscR
 [submodule "qcv"]
 	path = qcv
 	url = https://github.com/cran/qcv
