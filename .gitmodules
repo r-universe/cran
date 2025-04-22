@@ -6881,6 +6881,9 @@
 [submodule "GWmodel"]
 	path = GWmodel
 	url = https://github.com/cran/GWmodel
+[submodule "GWmodelVis"]
+	path = GWmodelVis
+	url = https://github.com/cran/GWmodelVis
 [submodule "GWnnegPCA"]
 	path = GWnnegPCA
 	url = https://github.com/cran/GWnnegPCA
@@ -7628,6 +7631,9 @@
 [submodule "HiClimR"]
 	path = HiClimR
 	url = https://github.com/cran/HiClimR
+[submodule "HiCocietyExample"]
+	path = HiCocietyExample
+	url = https://github.com/cran/HiCocietyExample
 [submodule "HiDimDA"]
 	path = HiDimDA
 	url = https://github.com/cran/HiDimDA
@@ -25487,6 +25493,9 @@
 [submodule "circlize"]
 	path = circlize
 	url = https://github.com/cran/circlize
+[submodule "circlizePlus"]
+	path = circlizePlus
+	url = https://github.com/cran/circlizePlus
 [submodule "circlus"]
 	path = circlus
 	url = https://github.com/cran/circlus
@@ -36392,6 +36401,9 @@
 [submodule "glmertree"]
 	path = glmertree
 	url = https://github.com/cran/glmertree
+[submodule "glmfitmiss"]
+	path = glmfitmiss
+	url = https://github.com/cran/glmfitmiss
 [submodule "glmglrt"]
 	path = glmglrt
 	url = https://github.com/cran/glmglrt
@@ -41777,6 +41789,9 @@
 [submodule "lgrdata"]
 	path = lgrdata
 	url = https://github.com/cran/lgrdata
+[submodule "lgspline"]
+	path = lgspline
+	url = https://github.com/cran/lgspline
 [submodule "lgtdl"]
 	path = lgtdl
 	url = https://github.com/cran/lgtdl
@@ -42632,6 +42647,9 @@
 [submodule "lsnstat"]
 	path = lsnstat
 	url = https://github.com/cran/lsnstat
+[submodule "lsoda"]
+	path = lsoda
+	url = https://github.com/cran/lsoda
 [submodule "lspartition"]
 	path = lspartition
 	url = https://github.com/cran/lspartition
@@ -55769,6 +55787,9 @@
 [submodule "roahd"]
 	path = roahd
 	url = https://github.com/cran/roahd
+[submodule "rob"]
+	path = rob
+	url = https://github.com/cran/rob
 [submodule "robCompositions"]
 	path = robCompositions
 	url = https://github.com/cran/robCompositions
@@ -59108,6 +59129,9 @@
 [submodule "sim2Dpredictr"]
 	path = sim2Dpredictr
 	url = https://github.com/cran/sim2Dpredictr
+[submodule "simBKMRdata"]
+	path = simBKMRdata
+	url = https://github.com/cran/simBKMRdata
 [submodule "simCAT"]
 	path = simCAT
 	url = https://github.com/cran/simCAT
@@ -62909,6 +62933,9 @@
 [submodule "tensr"]
 	path = tensr
 	url = https://github.com/cran/tensr
+[submodule "tepr"]
+	path = tepr
+	url = https://github.com/cran/tepr
 [submodule "tergm"]
 	path = tergm
 	url = https://github.com/cran/tergm
@@ -64910,6 +64937,9 @@
 [submodule "typetracer"]
 	path = typetracer
 	url = https://github.com/cran/typetracer
+[submodule "typr"]
+	path = typr
+	url = https://github.com/cran/typr
 [submodule "tzdb"]
 	path = tzdb
 	url = https://github.com/cran/tzdb
