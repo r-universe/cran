@@ -22490,6 +22490,9 @@
 [submodule "bayesRecon"]
 	path = bayesRecon
 	url = https://github.com/cran/bayesRecon
+[submodule "bayesSSM"]
+	path = bayesSSM
+	url = https://github.com/cran/bayesSSM
 [submodule "bayesSurv"]
 	path = bayesSurv
 	url = https://github.com/cran/bayesSurv
