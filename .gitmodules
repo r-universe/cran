@@ -23312,6 +23312,9 @@
 [submodule "biometrics"]
 	path = biometrics
 	url = https://github.com/cran/biometrics
+[submodule "biometryassist"]
+	path = biometryassist
+	url = https://github.com/cran/biometryassist
 [submodule "biomod2"]
 	path = biomod2
 	url = https://github.com/cran/biomod2
@@ -29426,6 +29429,9 @@
 [submodule "dilp"]
 	path = dilp
 	url = https://github.com/cran/dilp
+[submodule "dimRed"]
+	path = dimRed
+	url = https://github.com/cran/dimRed
 [submodule "dimensio"]
 	path = dimensio
 	url = https://github.com/cran/dimensio
