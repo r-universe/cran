@@ -2915,6 +2915,9 @@
 [submodule "CircNNTSRSymmetric"]
 	path = CircNNTSRSymmetric
 	url = https://github.com/cran/CircNNTSRSymmetric
+[submodule "CircNNTSRaxial"]
+	path = CircNNTSRaxial
+	url = https://github.com/cran/CircNNTSRaxial
 [submodule "CircNNTSRmult"]
 	path = CircNNTSRmult
 	url = https://github.com/cran/CircNNTSRmult
@@ -10448,6 +10451,9 @@
 [submodule "MargCond"]
 	path = MargCond
 	url = https://github.com/cran/MargCond
+[submodule "MarginalMaxTest"]
+	path = MarginalMaxTest
+	url = https://github.com/cran/MarginalMaxTest
 [submodule "MarginalMediation"]
 	path = MarginalMediation
 	url = https://github.com/cran/MarginalMediation
@@ -22022,6 +22028,9 @@
 [submodule "avidaR"]
 	path = avidaR
 	url = https://github.com/cran/avidaR
+[submodule "avlm"]
+	path = avlm
+	url = https://github.com/cran/avlm
 [submodule "avocado"]
 	path = avocado
 	url = https://github.com/cran/avocado
@@ -33413,6 +33422,9 @@
 [submodule "fitbitr"]
 	path = fitbitr
 	url = https://github.com/cran/fitbitr
+[submodule "fitdistcp"]
+	path = fitdistcp
+	url = https://github.com/cran/fitdistcp
 [submodule "fitdistrplus"]
 	path = fitdistrplus
 	url = https://github.com/cran/fitdistrplus
@@ -38348,6 +38360,9 @@
 [submodule "hotspots"]
 	path = hotspots
 	url = https://github.com/cran/hotspots
+[submodule "hours2lessons"]
+	path = hours2lessons
+	url = https://github.com/cran/hours2lessons
 [submodule "housingData"]
 	path = housingData
 	url = https://github.com/cran/housingData
@@ -55334,6 +55349,9 @@
 [submodule "riem"]
 	path = riem
 	url = https://github.com/cran/riem
+[submodule "riemtan"]
+	path = riemtan
+	url = https://github.com/cran/riemtan
 [submodule "rifle"]
 	path = rifle
 	url = https://github.com/cran/rifle
@@ -67145,6 +67163,9 @@
 [submodule "xutils"]
 	path = xutils
 	url = https://github.com/cran/xutils
+[submodule "xvm"]
+	path = xvm
+	url = https://github.com/cran/xvm
 [submodule "xwf"]
 	path = xwf
 	url = https://github.com/cran/xwf
