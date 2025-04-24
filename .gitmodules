@@ -23702,6 +23702,9 @@
 [submodule "bookdown"]
 	path = bookdown
 	url = https://github.com/cran/bookdown
+[submodule "booklet"]
+	path = booklet
+	url = https://github.com/cran/booklet
 [submodule "boomer"]
 	path = boomer
 	url = https://github.com/cran/boomer
@@ -37742,6 +37745,9 @@
 [submodule "hdImpute"]
 	path = hdImpute
 	url = https://github.com/cran/hdImpute
+[submodule "hdMTD"]
+	path = hdMTD
+	url = https://github.com/cran/hdMTD
 [submodule "hda"]
 	path = hda
 	url = https://github.com/cran/hda
