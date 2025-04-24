@@ -2129,6 +2129,9 @@
 [submodule "CB2"]
 	path = CB2
 	url = https://github.com/cran/CB2
+[submodule "CBAModel"]
+	path = CBAModel
+	url = https://github.com/cran/CBAModel
 [submodule "CBCgrps"]
 	path = CBCgrps
 	url = https://github.com/cran/CBCgrps
@@ -11747,6 +11750,9 @@
 [submodule "OPC"]
 	path = OPC
 	url = https://github.com/cran/OPC
+[submodule "OPCreg"]
+	path = OPCreg
+	url = https://github.com/cran/OPCreg
 [submodule "OPDOE"]
 	path = OPDOE
 	url = https://github.com/cran/OPDOE
@@ -12767,6 +12773,9 @@
 [submodule "PaRe"]
 	path = PaRe
 	url = https://github.com/cran/PaRe
+[submodule "PacketLLM"]
+	path = PacketLLM
+	url = https://github.com/cran/PacketLLM
 [submodule "Pade"]
 	path = Pade
 	url = https://github.com/cran/Pade
@@ -21746,6 +21755,9 @@
 [submodule "assert"]
 	path = assert
 	url = https://github.com/cran/assert
+[submodule "assertHE"]
+	path = assertHE
+	url = https://github.com/cran/assertHE
 [submodule "assertable"]
 	path = assertable
 	url = https://github.com/cran/assertable
@@ -40202,6 +40214,9 @@
 [submodule "itraxR"]
 	path = itraxR
 	url = https://github.com/cran/itraxR
+[submodule "itrimhoch"]
+	path = itrimhoch
+	url = https://github.com/cran/itrimhoch
 [submodule "its.analysis"]
 	path = its.analysis
 	url = https://github.com/cran/its.analysis
@@ -47804,6 +47819,9 @@
 [submodule "npphen"]
 	path = npphen
 	url = https://github.com/cran/npphen
+[submodule "nprcgenekeepr"]
+	path = nprcgenekeepr
+	url = https://github.com/cran/nprcgenekeepr
 [submodule "npreg"]
 	path = npreg
 	url = https://github.com/cran/npreg
@@ -57641,6 +57659,9 @@
 [submodule "sched"]
 	path = sched
 	url = https://github.com/cran/sched
+[submodule "schematic"]
+	path = schematic
+	url = https://github.com/cran/schematic
 [submodule "schemr"]
 	path = schemr
 	url = https://github.com/cran/schemr
@@ -60911,6 +60932,9 @@
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/cran/spotoroo
+[submodule "spotr"]
+	path = spotr
+	url = https://github.com/cran/spotr
 [submodule "spphpr"]
 	path = spphpr
 	url = https://github.com/cran/spphpr
@@ -64352,6 +64376,9 @@
 [submodule "trawl"]
 	path = trawl
 	url = https://github.com/cran/trawl
+[submodule "trc"]
+	path = trc
+	url = https://github.com/cran/trc
 [submodule "trdist"]
 	path = trdist
 	url = https://github.com/cran/trdist
@@ -65774,6 +65801,9 @@
 [submodule "verbalisr"]
 	path = verbalisr
 	url = https://github.com/cran/verbalisr
+[submodule "verdata"]
+	path = verdata
+	url = https://github.com/cran/verdata
 [submodule "verhoeff"]
 	path = verhoeff
 	url = https://github.com/cran/verhoeff
