@@ -4778,6 +4778,9 @@
 [submodule "EEAaq"]
 	path = EEAaq
 	url = https://github.com/cran/EEAaq
+[submodule "EEEA"]
+	path = EEEA
+	url = https://github.com/cran/EEEA
 [submodule "EEM"]
 	path = EEM
 	url = https://github.com/cran/EEM
@@ -8603,6 +8606,9 @@
 [submodule "KCSNBShiny"]
 	path = KCSNBShiny
 	url = https://github.com/cran/KCSNBShiny
+[submodule "KDEmcmc"]
+	path = KDEmcmc
+	url = https://github.com/cran/KDEmcmc
 [submodule "KEPTED"]
 	path = KEPTED
 	url = https://github.com/cran/KEPTED
@@ -13826,6 +13832,9 @@
 [submodule "RAFS"]
 	path = RAFS
 	url = https://github.com/cran/RAFS
+[submodule "RAGFlowChainR"]
+	path = RAGFlowChainR
+	url = https://github.com/cran/RAGFlowChainR
 [submodule "RAINBOWR"]
 	path = RAINBOWR
 	url = https://github.com/cran/RAINBOWR
@@ -25214,6 +25223,9 @@
 [submodule "chatAI4R"]
 	path = chatAI4R
 	url = https://github.com/cran/chatAI4R
+[submodule "chatLLM"]
+	path = chatLLM
+	url = https://github.com/cran/chatLLM
 [submodule "chatRater"]
 	path = chatRater
 	url = https://github.com/cran/chatRater
@@ -37052,6 +37064,9 @@
 [submodule "gravity"]
 	path = gravity
 	url = https://github.com/cran/gravity
+[submodule "gravityGE"]
+	path = gravityGE
+	url = https://github.com/cran/gravityGE
 [submodule "gravmagsubs"]
 	path = gravmagsubs
 	url = https://github.com/cran/gravmagsubs
@@ -46439,6 +46454,9 @@
 [submodule "mvdalab"]
 	path = mvdalab
 	url = https://github.com/cran/mvdalab
+[submodule "mverse"]
+	path = mverse
+	url = https://github.com/cran/mverse
 [submodule "mvgam"]
 	path = mvgam
 	url = https://github.com/cran/mvgam
@@ -53600,6 +53618,9 @@
 [submodule "randChecks"]
 	path = randChecks
 	url = https://github.com/cran/randChecks
+[submodule "randPedPCA"]
+	path = randPedPCA
+	url = https://github.com/cran/randPedPCA
 [submodule "randcorr"]
 	path = randcorr
 	url = https://github.com/cran/randcorr
@@ -67055,6 +67076,9 @@
 [submodule "xlr"]
 	path = xlr
 	url = https://github.com/cran/xlr
+[submodule "xlsform2word"]
+	path = xlsform2word
+	url = https://github.com/cran/xlsform2word
 [submodule "xlsx"]
 	path = xlsx
 	url = https://github.com/cran/xlsx
