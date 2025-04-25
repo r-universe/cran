@@ -5888,6 +5888,9 @@
 [submodule "FastGaSP"]
 	path = FastGaSP
 	url = https://github.com/cran/FastGaSP
+[submodule "FastHamming"]
+	path = FastHamming
+	url = https://github.com/cran/FastHamming
 [submodule "FastImputation"]
 	path = FastImputation
 	url = https://github.com/cran/FastImputation
@@ -8444,6 +8447,9 @@
 [submodule "IsoriX"]
 	path = IsoriX
 	url = https://github.com/cran/IsoriX
+[submodule "IssueTrackeR"]
+	path = IssueTrackeR
+	url = https://github.com/cran/IssueTrackeR
 [submodule "IterativeHardThresholding"]
 	path = IterativeHardThresholding
 	url = https://github.com/cran/IterativeHardThresholding
@@ -23933,6 +23939,9 @@
 [submodule "brainR"]
 	path = brainR
 	url = https://github.com/cran/brainR
+[submodule "branchingprocess"]
+	path = branchingprocess
+	url = https://github.com/cran/branchingprocess
 [submodule "brandr"]
 	path = brandr
 	url = https://github.com/cran/brandr
@@ -32900,6 +32909,9 @@
 [submodule "fastverse"]
 	path = fastverse
 	url = https://github.com/cran/fastverse
+[submodule "fastymd"]
+	path = fastymd
+	url = https://github.com/cran/fastymd
 [submodule "fat2Lpoly"]
 	path = fat2Lpoly
 	url = https://github.com/cran/fat2Lpoly
@@ -63944,6 +63956,9 @@
 [submodule "tlars"]
 	path = tlars
 	url = https://github.com/cran/tlars
+[submodule "tlda"]
+	path = tlda
+	url = https://github.com/cran/tlda
 [submodule "tldr"]
 	path = tldr
 	url = https://github.com/cran/tldr
