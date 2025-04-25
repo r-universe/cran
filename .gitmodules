@@ -13232,6 +13232,9 @@
 [submodule "PooledMeanGroup"]
 	path = PooledMeanGroup
 	url = https://github.com/cran/PooledMeanGroup
+[submodule "PopComm"]
+	path = PopComm
+	url = https://github.com/cran/PopComm
 [submodule "PopED"]
 	path = PopED
 	url = https://github.com/cran/PopED
@@ -15938,6 +15941,9 @@
 [submodule "Rmodule"]
 	path = Rmodule
 	url = https://github.com/cran/Rmodule
+[submodule "Rmoji"]
+	path = Rmoji
+	url = https://github.com/cran/Rmoji
 [submodule "Rmolt"]
 	path = Rmolt
 	url = https://github.com/cran/Rmolt
@@ -24863,6 +24869,9 @@
 [submodule "cbq"]
 	path = cbq
 	url = https://github.com/cran/cbq
+[submodule "cbsREPS"]
+	path = cbsREPS
+	url = https://github.com/cran/cbsREPS
 [submodule "cbsodataR"]
 	path = cbsodataR
 	url = https://github.com/cran/cbsodataR
@@ -26810,6 +26819,9 @@
 [submodule "connectoModa"]
 	path = connectoModa
 	url = https://github.com/cran/connectoModa
+[submodule "connector"]
+	path = connector
+	url = https://github.com/cran/connector
 [submodule "connectwidgets"]
 	path = connectwidgets
 	url = https://github.com/cran/connectwidgets
@@ -44600,6 +44612,9 @@
 [submodule "midrangeMCP"]
 	path = midrangeMCP
 	url = https://github.com/cran/midrangeMCP
+[submodule "miebl"]
+	path = miebl
+	url = https://github.com/cran/miebl
 [submodule "miesmuschel"]
 	path = miesmuschel
 	url = https://github.com/cran/miesmuschel
@@ -66764,6 +66779,9 @@
 [submodule "withr"]
 	path = withr
 	url = https://github.com/cran/withr
+[submodule "wizaRdry"]
+	path = wizaRdry
+	url = https://github.com/cran/wizaRdry
 [submodule "wk"]
 	path = wk
 	url = https://github.com/cran/wk
