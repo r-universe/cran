@@ -21458,6 +21458,9 @@
 [submodule "arcgeocoder"]
 	path = arcgeocoder
 	url = https://github.com/cran/arcgeocoder
+[submodule "arcgis"]
+	path = arcgis
+	url = https://github.com/cran/arcgis
 [submodule "arcgisgeocode"]
 	path = arcgisgeocode
 	url = https://github.com/cran/arcgisgeocode
@@ -26726,6 +26729,9 @@
 [submodule "configr"]
 	path = configr
 	url = https://github.com/cran/configr
+[submodule "configulaR"]
+	path = configulaR
+	url = https://github.com/cran/configulaR
 [submodule "configural"]
 	path = configural
 	url = https://github.com/cran/configural
@@ -33734,6 +33740,9 @@
 [submodule "fmcmc"]
 	path = fmcmc
 	url = https://github.com/cran/fmcmc
+[submodule "fmds"]
+	path = fmds
+	url = https://github.com/cran/fmds
 [submodule "fmdu"]
 	path = fmdu
 	url = https://github.com/cran/fmdu
