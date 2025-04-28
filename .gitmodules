@@ -33917,6 +33917,9 @@
 [submodule "forensicolors"]
 	path = forensicolors
 	url = https://github.com/cran/forensicolors
+[submodule "forensicpopdata"]
+	path = forensicpopdata
+	url = https://github.com/cran/forensicpopdata
 [submodule "forestControl"]
 	path = forestControl
 	url = https://github.com/cran/forestControl
@@ -40547,6 +40550,9 @@
 [submodule "jointseg"]
 	path = jointseg
 	url = https://github.com/cran/jointseg
+[submodule "joker"]
+	path = joker
+	url = https://github.com/cran/joker
 [submodule "jomo"]
 	path = jomo
 	url = https://github.com/cran/jomo
@@ -41906,6 +41912,9 @@
 [submodule "libstable4u"]
 	path = libstable4u
 	url = https://github.com/cran/libstable4u
+[submodule "licoread"]
+	path = licoread
+	url = https://github.com/cran/licoread
 [submodule "lidR"]
 	path = lidR
 	url = https://github.com/cran/lidR
