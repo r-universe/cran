@@ -48716,6 +48716,9 @@
 [submodule "orbital"]
 	path = orbital
 	url = https://github.com/cran/orbital
+[submodule "orbweaver"]
+	path = orbweaver
+	url = https://github.com/cran/orbweaver
 [submodule "orca"]
 	path = orca
 	url = https://github.com/cran/orca
@@ -67061,6 +67064,9 @@
 [submodule "xSub"]
 	path = xSub
 	url = https://github.com/cran/xSub
+[submodule "xactonomial"]
+	path = xactonomial
+	url = https://github.com/cran/xactonomial
 [submodule "xadmix"]
 	path = xadmix
 	url = https://github.com/cran/xadmix
