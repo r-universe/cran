@@ -20087,6 +20087,9 @@
 [submodule "Z10"]
 	path = Z10
 	url = https://github.com/cran/Z10
+[submodule "ZEP"]
+	path = ZEP
+	url = https://github.com/cran/ZEP
 [submodule "ZIBR"]
 	path = ZIBR
 	url = https://github.com/cran/ZIBR
@@ -22343,6 +22346,9 @@
 [submodule "bartMan"]
 	path = bartMan
 	url = https://github.com/cran/bartMan
+[submodule "bartXViz"]
+	path = bartXViz
+	url = https://github.com/cran/bartXViz
 [submodule "bartcs"]
 	path = bartcs
 	url = https://github.com/cran/bartcs
