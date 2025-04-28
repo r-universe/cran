@@ -3533,9 +3533,6 @@
 [submodule "CrossClustering"]
 	path = CrossClustering
 	url = https://github.com/cran/CrossClustering
-[submodule "CrossVA"]
-	path = CrossVA
-	url = https://github.com/cran/CrossVA
 [submodule "CrossValidate"]
 	path = CrossValidate
 	url = https://github.com/cran/CrossValidate
@@ -8978,6 +8975,9 @@
 [submodule "LLM"]
 	path = LLM
 	url = https://github.com/cran/LLM
+[submodule "LLMAgentR"]
+	path = LLMAgentR
+	url = https://github.com/cran/LLMAgentR
 [submodule "LLMR"]
 	path = LLMR
 	url = https://github.com/cran/LLMR
@@ -13841,6 +13841,9 @@
 [submodule "RAC"]
 	path = RAC
 	url = https://github.com/cran/RAC
+[submodule "RADanalysis"]
+	path = RADanalysis
+	url = https://github.com/cran/RADanalysis
 [submodule "RADstackshelpR"]
 	path = RADstackshelpR
 	url = https://github.com/cran/RADstackshelpR
@@ -36134,6 +36137,9 @@
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/cran/ggseg3d
+[submodule "ggsegmentedtotalbar"]
+	path = ggsegmentedtotalbar
+	url = https://github.com/cran/ggsegmentedtotalbar
 [submodule "ggsem"]
 	path = ggsem
 	url = https://github.com/cran/ggsem
@@ -54638,6 +54644,9 @@
 [submodule "refitME"]
 	path = refitME
 	url = https://github.com/cran/refitME
+[submodule "refitgaps"]
+	path = refitgaps
+	url = https://github.com/cran/refitgaps
 [submodule "reflectR"]
 	path = reflectR
 	url = https://github.com/cran/reflectR
@@ -56003,6 +56012,9 @@
 [submodule "robustETM"]
 	path = robustETM
 	url = https://github.com/cran/robustETM
+[submodule "robustGarch"]
+	path = robustGarch
+	url = https://github.com/cran/robustGarch
 [submodule "robustHD"]
 	path = robustHD
 	url = https://github.com/cran/robustHD
@@ -64787,6 +64799,9 @@
 [submodule "tsintermittent"]
 	path = tsintermittent
 	url = https://github.com/cran/tsintermittent
+[submodule "tsissm"]
+	path = tsissm
+	url = https://github.com/cran/tsissm
 [submodule "tsmarch"]
 	path = tsmarch
 	url = https://github.com/cran/tsmarch
