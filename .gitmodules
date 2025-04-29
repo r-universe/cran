@@ -35345,6 +35345,9 @@
 [submodule "geofacet"]
 	path = geofacet
 	url = https://github.com/cran/geofacet
+[submodule "geofi"]
+	path = geofi
+	url = https://github.com/cran/geofi
 [submodule "geogenr"]
 	path = geogenr
 	url = https://github.com/cran/geogenr
