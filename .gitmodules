@@ -13451,9 +13451,6 @@
 [submodule "PropScrRand"]
 	path = PropScrRand
 	url = https://github.com/cran/PropScrRand
-[submodule "ProtE"]
-	path = ProtE
-	url = https://github.com/cran/ProtE
 [submodule "ProteinPCA"]
 	path = ProteinPCA
 	url = https://github.com/cran/ProteinPCA
