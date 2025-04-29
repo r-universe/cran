@@ -60002,6 +60002,9 @@
 [submodule "sn"]
 	path = sn
 	url = https://github.com/cran/sn
+[submodule "snQTL"]
+	path = snQTL
+	url = https://github.com/cran/snQTL
 [submodule "snSMART"]
 	path = snSMART
 	url = https://github.com/cran/snSMART
