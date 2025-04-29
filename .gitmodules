@@ -4301,6 +4301,9 @@
 [submodule "DeRezende.Ferreira"]
 	path = DeRezende.Ferreira
 	url = https://github.com/cran/DeRezende.Ferreira
+[submodule "DeSciDe"]
+	path = DeSciDe
+	url = https://github.com/cran/DeSciDe
 [submodule "DebiasInfer"]
 	path = DebiasInfer
 	url = https://github.com/cran/DebiasInfer
@@ -23612,6 +23615,9 @@
 [submodule "bluebike"]
 	path = bluebike
 	url = https://github.com/cran/bluebike
+[submodule "bmabart"]
+	path = bmabart
+	url = https://github.com/cran/bmabart
 [submodule "bmabasket"]
 	path = bmabasket
 	url = https://github.com/cran/bmabasket
@@ -24209,6 +24215,9 @@
 [submodule "btergm"]
 	path = btergm
 	url = https://github.com/cran/btergm
+[submodule "btrm"]
+	path = btrm
+	url = https://github.com/cran/btrm
 [submodule "bubbleHeatmap"]
 	path = bubbleHeatmap
 	url = https://github.com/cran/bubbleHeatmap
@@ -42521,6 +42530,9 @@
 [submodule "logrx"]
 	path = logrx
 	url = https://github.com/cran/logrx
+[submodule "logrxaddin"]
+	path = logrxaddin
+	url = https://github.com/cran/logrxaddin
 [submodule "logspline"]
 	path = logspline
 	url = https://github.com/cran/logspline
@@ -48056,6 +48068,9 @@
 [submodule "oHMMed"]
 	path = oHMMed
 	url = https://github.com/cran/oHMMed
+[submodule "oRaklE"]
+	path = oRaklE
+	url = https://github.com/cran/oRaklE
 [submodule "oRus"]
 	path = oRus
 	url = https://github.com/cran/oRus
@@ -54329,6 +54344,9 @@
 [submodule "reactR"]
 	path = reactR
 	url = https://github.com/cran/reactR
+[submodule "reactRouter"]
+	path = reactRouter
+	url = https://github.com/cran/reactRouter
 [submodule "reactable"]
 	path = reactable
 	url = https://github.com/cran/reactable
@@ -56447,6 +56465,9 @@
 [submodule "rrcovNA"]
 	path = rrcovNA
 	url = https://github.com/cran/rrcovNA
+[submodule "rrda"]
+	path = rrda
+	url = https://github.com/cran/rrda
 [submodule "rrecsys"]
 	path = rrecsys
 	url = https://github.com/cran/rrecsys
@@ -65120,6 +65141,9 @@
 [submodule "ucminf"]
 	path = ucminf
 	url = https://github.com/cran/ucminf
+[submodule "ucsfindustrydocs"]
+	path = ucsfindustrydocs
+	url = https://github.com/cran/ucsfindustrydocs
 [submodule "udpipe"]
 	path = udpipe
 	url = https://github.com/cran/udpipe
