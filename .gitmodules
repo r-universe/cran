@@ -446,6 +446,9 @@
 [submodule "AcademicThemes"]
 	path = AcademicThemes
 	url = https://github.com/cran/AcademicThemes
+[submodule "AccSamplingDesign"]
+	path = AccSamplingDesign
+	url = https://github.com/cran/AccSamplingDesign
 [submodule "AccelStab"]
 	path = AccelStab
 	url = https://github.com/cran/AccelStab
@@ -13274,6 +13277,9 @@
 [submodule "PosRatioDist"]
 	path = PosRatioDist
 	url = https://github.com/cran/PosRatioDist
+[submodule "PosiR"]
+	path = PosiR
+	url = https://github.com/cran/PosiR
 [submodule "PostcodesioR"]
 	path = PostcodesioR
 	url = https://github.com/cran/PostcodesioR
@@ -13421,6 +13427,9 @@
 [submodule "ProfessR"]
 	path = ProfessR
 	url = https://github.com/cran/ProfessR
+[submodule "ProfileLadder"]
+	path = ProfileLadder
+	url = https://github.com/cran/ProfileLadder
 [submodule "ProfileLikelihood"]
 	path = ProfileLikelihood
 	url = https://github.com/cran/ProfileLikelihood
