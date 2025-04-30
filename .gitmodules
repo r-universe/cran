@@ -17312,6 +17312,9 @@
 [submodule "SeBR"]
 	path = SeBR
 	url = https://github.com/cran/SeBR
+[submodule "SeaSondeR"]
+	path = SeaSondeR
+	url = https://github.com/cran/SeaSondeR
 [submodule "SeaVal"]
 	path = SeaVal
 	url = https://github.com/cran/SeaVal
@@ -18023,6 +18026,9 @@
 [submodule "SqueakR"]
 	path = SqueakR
 	url = https://github.com/cran/SqueakR
+[submodule "SscSrs"]
+	path = SscSrs
+	url = https://github.com/cran/SscSrs
 [submodule "Sshaped"]
 	path = Sshaped
 	url = https://github.com/cran/Sshaped
@@ -23423,6 +23429,9 @@
 [submodule "birdie"]
 	path = birdie
 	url = https://github.com/cran/birdie
+[submodule "birdnetR"]
+	path = birdnetR
+	url = https://github.com/cran/birdnetR
 [submodule "birdring"]
 	path = birdring
 	url = https://github.com/cran/birdring
