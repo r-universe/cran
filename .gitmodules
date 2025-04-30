@@ -6776,9 +6776,6 @@
 [submodule "GSAQ"]
 	path = GSAQ
 	url = https://github.com/cran/GSAQ
-[submodule "GSAfisherCombined"]
-	path = GSAfisherCombined
-	url = https://github.com/cran/GSAfisherCombined
 [submodule "GSD"]
 	path = GSD
 	url = https://github.com/cran/GSD
@@ -10928,9 +10925,6 @@
 [submodule "MonetDB.R"]
 	path = MonetDB.R
 	url = https://github.com/cran/MonetDB.R
-[submodule "MonoInc"]
-	path = MonoInc
-	url = https://github.com/cran/MonoInc
 [submodule "MonoPhy"]
 	path = MonoPhy
 	url = https://github.com/cran/MonoPhy
@@ -11690,9 +11684,6 @@
 [submodule "OBsMD"]
 	path = OBsMD
 	url = https://github.com/cran/OBsMD
-[submodule "OCA"]
-	path = OCA
-	url = https://github.com/cran/OCA
 [submodule "OCNet"]
 	path = OCNet
 	url = https://github.com/cran/OCNet
@@ -17714,9 +17705,6 @@
 [submodule "SmoothTensor"]
 	path = SmoothTensor
 	url = https://github.com/cran/SmoothTensor
-[submodule "SmoothWin"]
-	path = SmoothWin
-	url = https://github.com/cran/SmoothWin
 [submodule "Snake"]
 	path = Snake
 	url = https://github.com/cran/Snake
@@ -21629,9 +21617,6 @@
 [submodule "armspp"]
 	path = armspp
 	url = https://github.com/cran/armspp
-[submodule "arnie"]
-	path = arnie
-	url = https://github.com/cran/arnie
 [submodule "aroma.affymetrix"]
 	path = aroma.affymetrix
 	url = https://github.com/cran/aroma.affymetrix
@@ -22724,9 +22709,6 @@
 [submodule "bcfrailphdv"]
 	path = bcfrailphdv
 	url = https://github.com/cran/bcfrailphdv
-[submodule "bcgam"]
-	path = bcgam
-	url = https://github.com/cran/bcgam
 [submodule "bcmaps"]
 	path = bcmaps
 	url = https://github.com/cran/bcmaps
@@ -23327,9 +23309,6 @@
 [submodule "biocompute"]
 	path = biocompute
 	url = https://github.com/cran/biocompute
-[submodule "biodosetools"]
-	path = biodosetools
-	url = https://github.com/cran/biodosetools
 [submodule "biogas"]
 	path = biogas
 	url = https://github.com/cran/biogas
@@ -28646,9 +28625,6 @@
 [submodule "dbd"]
 	path = dbd
 	url = https://github.com/cran/dbd
-[submodule "dbflobr"]
-	path = dbflobr
-	url = https://github.com/cran/dbflobr
 [submodule "dbglm"]
 	path = dbglm
 	url = https://github.com/cran/dbglm
@@ -40286,9 +40262,6 @@
 [submodule "itsdm"]
 	path = itsdm
 	url = https://github.com/cran/itsdm
-[submodule "itsmr"]
-	path = itsmr
-	url = https://github.com/cran/itsmr
 [submodule "iucnr"]
 	path = iucnr
 	url = https://github.com/cran/iucnr
@@ -45608,9 +45581,6 @@
 [submodule "moexer"]
 	path = moexer
 	url = https://github.com/cran/moexer
-[submodule "mogavs"]
-	path = mogavs
-	url = https://github.com/cran/mogavs
 [submodule "mojson"]
 	path = mojson
 	url = https://github.com/cran/mojson
