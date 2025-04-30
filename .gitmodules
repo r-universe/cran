@@ -4190,6 +4190,9 @@
 [submodule "DWLS"]
 	path = DWLS
 	url = https://github.com/cran/DWLS
+[submodule "DWaveNARDL"]
+	path = DWaveNARDL
+	url = https://github.com/cran/DWaveNARDL
 [submodule "DWreg"]
 	path = DWreg
 	url = https://github.com/cran/DWreg
