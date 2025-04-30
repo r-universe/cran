@@ -13976,6 +13976,9 @@
 [submodule "RCNA"]
 	path = RCNA
 	url = https://github.com/cran/RCNA
+[submodule "RCPA"]
+	path = RCPA
+	url = https://github.com/cran/RCPA
 [submodule "RCPA3"]
 	path = RCPA3
 	url = https://github.com/cran/RCPA3
