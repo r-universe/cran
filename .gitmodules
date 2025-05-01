@@ -18101,6 +18101,9 @@
 [submodule "StatRec"]
 	path = StatRec
 	url = https://github.com/cran/StatRec
+[submodule "StatTeacherAssistant"]
+	path = StatTeacherAssistant
+	url = https://github.com/cran/StatTeacherAssistant
 [submodule "StatTools"]
 	path = StatTools
 	url = https://github.com/cran/StatTools
