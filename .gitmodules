@@ -13679,6 +13679,9 @@
 [submodule "QoLMiss"]
 	path = QoLMiss
 	url = https://github.com/cran/QoLMiss
+[submodule "Qploidy"]
+	path = Qploidy
+	url = https://github.com/cran/Qploidy
 [submodule "QregBB"]
 	path = QregBB
 	url = https://github.com/cran/QregBB
@@ -23471,6 +23474,9 @@
 [submodule "bit64"]
 	path = bit64
 	url = https://github.com/cran/bit64
+[submodule "bitfield"]
+	path = bitfield
+	url = https://github.com/cran/bitfield
 [submodule "bitmexr"]
 	path = bitmexr
 	url = https://github.com/cran/bitmexr
@@ -31751,6 +31757,9 @@
 [submodule "epsiwal"]
 	path = epsiwal
 	url = https://github.com/cran/epsiwal
+[submodule "epts"]
+	path = epts
+	url = https://github.com/cran/epts
 [submodule "epubr"]
 	path = epubr
 	url = https://github.com/cran/epubr
@@ -55940,6 +55949,9 @@
 [submodule "robber"]
 	path = robber
 	url = https://github.com/cran/robber
+[submodule "robcat"]
+	path = robcat
+	url = https://github.com/cran/robcat
 [submodule "robcor"]
 	path = robcor
 	url = https://github.com/cran/robcor
@@ -61445,6 +61457,9 @@
 [submodule "statcomp"]
 	path = statcomp
 	url = https://github.com/cran/statcomp
+[submodule "statdecideR"]
+	path = statdecideR
+	url = https://github.com/cran/statdecideR
 [submodule "statebins"]
 	path = statebins
 	url = https://github.com/cran/statebins
