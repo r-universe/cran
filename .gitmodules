@@ -24605,9 +24605,6 @@
 [submodule "caplot"]
 	path = caplot
 	url = https://github.com/cran/caplot
-[submodule "capm"]
-	path = capm
-	url = https://github.com/cran/capm
 [submodule "capn"]
 	path = capn
 	url = https://github.com/cran/capn
