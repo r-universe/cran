@@ -43394,9 +43394,6 @@
 [submodule "marmap"]
 	path = marmap
 	url = https://github.com/cran/marmap
-[submodule "marp"]
-	path = marp
-	url = https://github.com/cran/marp
 [submodule "marqLevAlg"]
 	path = marqLevAlg
 	url = https://github.com/cran/marqLevAlg
