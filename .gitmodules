@@ -1793,6 +1793,9 @@
 [submodule "BioInsight"]
 	path = BioInsight
 	url = https://github.com/cran/BioInsight
+[submodule "BioM2"]
+	path = BioM2
+	url = https://github.com/cran/BioM2
 [submodule "BioPET"]
 	path = BioPET
 	url = https://github.com/cran/BioPET
