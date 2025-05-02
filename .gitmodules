@@ -33305,6 +33305,9 @@
 [submodule "figma"]
 	path = figma
 	url = https://github.com/cran/figma
+[submodule "figpatch"]
+	path = figpatch
+	url = https://github.com/cran/figpatch
 [submodule "figuRes2"]
 	path = figuRes2
 	url = https://github.com/cran/figuRes2
