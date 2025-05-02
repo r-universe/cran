@@ -19568,6 +19568,9 @@
 [submodule "VIMean"]
 	path = VIMean
 	url = https://github.com/cran/VIMean
+[submodule "VIProDesign"]
+	path = VIProDesign
+	url = https://github.com/cran/VIProDesign
 [submodule "VIRF"]
 	path = VIRF
 	url = https://github.com/cran/VIRF
@@ -26114,6 +26117,9 @@
 [submodule "cmocean"]
 	path = cmocean
 	url = https://github.com/cran/cmocean
+[submodule "cmpp"]
+	path = cmpp
+	url = https://github.com/cran/cmpp
 [submodule "cmprsk"]
 	path = cmprsk
 	url = https://github.com/cran/cmprsk
@@ -39002,6 +39008,9 @@
 [submodule "ibd"]
 	path = ibd
 	url = https://github.com/cran/ibd
+[submodule "ibdsegments"]
+	path = ibdsegments
+	url = https://github.com/cran/ibdsegments
 [submodule "ibdsim2"]
 	path = ibdsim2
 	url = https://github.com/cran/ibdsim2
@@ -39845,6 +39854,9 @@
 [submodule "interpretR"]
 	path = interpretR
 	url = https://github.com/cran/interpretR
+[submodule "interprocess"]
+	path = interprocess
+	url = https://github.com/cran/interprocess
 [submodule "inters"]
 	path = inters
 	url = https://github.com/cran/inters
@@ -41378,6 +41390,9 @@
 [submodule "lacunr"]
 	path = lacunr
 	url = https://github.com/cran/lacunr
+[submodule "ladder"]
+	path = ladder
+	url = https://github.com/cran/ladder
 [submodule "laeken"]
 	path = laeken
 	url = https://github.com/cran/laeken
@@ -64370,6 +64385,9 @@
 [submodule "trade"]
 	path = trade
 	url = https://github.com/cran/trade
+[submodule "tradeoffaucdim"]
+	path = tradeoffaucdim
+	url = https://github.com/cran/tradeoffaucdim
 [submodule "tradepolicy"]
 	path = tradepolicy
 	url = https://github.com/cran/tradepolicy
