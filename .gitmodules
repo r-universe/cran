@@ -18509,6 +18509,9 @@
 [submodule "TDCor"]
 	path = TDCor
 	url = https://github.com/cran/TDCor
+[submodule "TDIagree"]
+	path = TDIagree
+	url = https://github.com/cran/TDIagree
 [submodule "TDLM"]
 	path = TDLM
 	url = https://github.com/cran/TDLM
@@ -25577,6 +25580,9 @@
 [submodule "circle"]
 	path = circle
 	url = https://github.com/cran/circle
+[submodule "circles"]
+	path = circles
+	url = https://github.com/cran/circles
 [submodule "circlesplot"]
 	path = circlesplot
 	url = https://github.com/cran/circlesplot
@@ -26423,6 +26429,9 @@
 [submodule "colocalized"]
 	path = colocalized
 	url = https://github.com/cran/colocalized
+[submodule "colocboost"]
+	path = colocboost
+	url = https://github.com/cran/colocboost
 [submodule "colocr"]
 	path = colocr
 	url = https://github.com/cran/colocr
@@ -63401,6 +63410,9 @@
 [submodule "tglkmeans"]
 	path = tglkmeans
 	url = https://github.com/cran/tglkmeans
+[submodule "tgml"]
+	path = tgml
+	url = https://github.com/cran/tgml
 [submodule "tgp"]
 	path = tgp
 	url = https://github.com/cran/tgp
