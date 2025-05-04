@@ -57035,9 +57035,6 @@
 [submodule "rwc"]
 	path = rwc
 	url = https://github.com/cran/rwc
-[submodule "rwebstat"]
-	path = rwebstat
-	url = https://github.com/cran/rwebstat
 [submodule "rwfec"]
 	path = rwfec
 	url = https://github.com/cran/rwfec
