@@ -563,6 +563,9 @@
 [submodule "AirMonitor"]
 	path = AirMonitor
 	url = https://github.com/cran/AirMonitor
+[submodule "AirportProblems"]
+	path = AirportProblems
+	url = https://github.com/cran/AirportProblems
 [submodule "Ake"]
 	path = Ake
 	url = https://github.com/cran/Ake
@@ -8075,6 +8078,9 @@
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
+[submodule "IP"]
+	path = IP
+	url = https://github.com/cran/IP
 [submodule "IPCAPS"]
 	path = IPCAPS
 	url = https://github.com/cran/IPCAPS
@@ -22040,6 +22046,9 @@
 [submodule "automap"]
 	path = automap
 	url = https://github.com/cran/automap
+[submodule "automatedtests"]
+	path = automatedtests
+	url = https://github.com/cran/automatedtests
 [submodule "autometric"]
 	path = autometric
 	url = https://github.com/cran/autometric
@@ -29036,6 +29045,9 @@
 [submodule "demu"]
 	path = demu
 	url = https://github.com/cran/demu
+[submodule "demulticoder"]
+	path = demulticoder
+	url = https://github.com/cran/demulticoder
 [submodule "dendRoAnalyst"]
 	path = dendRoAnalyst
 	url = https://github.com/cran/dendRoAnalyst
@@ -47756,6 +47768,9 @@
 [submodule "norMmix"]
 	path = norMmix
 	url = https://github.com/cran/norMmix
+[submodule "norSTR"]
+	path = norSTR
+	url = https://github.com/cran/norSTR
 [submodule "nord"]
 	path = nord
 	url = https://github.com/cran/nord
@@ -63590,6 +63605,9 @@
 [submodule "tidySEM"]
 	path = tidySEM
 	url = https://github.com/cran/tidySEM
+[submodule "tidySummaries"]
+	path = tidySummaries
+	url = https://github.com/cran/tidySummaries
 [submodule "tidyUSDA"]
 	path = tidyUSDA
 	url = https://github.com/cran/tidyUSDA
