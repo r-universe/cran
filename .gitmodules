@@ -58142,6 +58142,9 @@
 [submodule "seeds"]
 	path = seeds
 	url = https://github.com/cran/seeds
+[submodule "seekr"]
+	path = seekr
+	url = https://github.com/cran/seekr
 [submodule "seer"]
 	path = seer
 	url = https://github.com/cran/seer
