@@ -29705,6 +29705,9 @@
 [submodule "dissever"]
 	path = dissever
 	url = https://github.com/cran/dissever
+[submodule "dissimilarities"]
+	path = dissimilarities
+	url = https://github.com/cran/dissimilarities
 [submodule "distTails"]
 	path = distTails
 	url = https://github.com/cran/distTails
@@ -60896,6 +60899,9 @@
 [submodule "sphunif"]
 	path = sphunif
 	url = https://github.com/cran/sphunif
+[submodule "spicy"]
+	path = spicy
+	url = https://github.com/cran/spicy
 [submodule "spidR"]
 	path = spidR
 	url = https://github.com/cran/spidR
