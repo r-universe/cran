@@ -4712,6 +4712,9 @@
 [submodule "EATME"]
 	path = EATME
 	url = https://github.com/cran/EATME
+[submodule "EAVA"]
+	path = EAVA
+	url = https://github.com/cran/EAVA
 [submodule "EAinference"]
 	path = EAinference
 	url = https://github.com/cran/EAinference
@@ -7622,6 +7625,9 @@
 [submodule "HeckmanEM"]
 	path = HeckmanEM
 	url = https://github.com/cran/HeckmanEM
+[submodule "HeckmanStan"]
+	path = HeckmanStan
+	url = https://github.com/cran/HeckmanStan
 [submodule "HellCor"]
 	path = HellCor
 	url = https://github.com/cran/HellCor
@@ -8684,6 +8690,9 @@
 [submodule "KOGMWU"]
 	path = KOGMWU
 	url = https://github.com/cran/KOGMWU
+[submodule "KOLaide"]
+	path = KOLaide
+	url = https://github.com/cran/KOLaide
 [submodule "KONPsurv"]
 	path = KONPsurv
 	url = https://github.com/cran/KONPsurv
@@ -9779,6 +9788,9 @@
 [submodule "MDplot"]
 	path = MDplot
 	url = https://github.com/cran/MDplot
+[submodule "MEAanalysis"]
+	path = MEAanalysis
+	url = https://github.com/cran/MEAanalysis
 [submodule "MECfda"]
 	path = MECfda
 	url = https://github.com/cran/MECfda
@@ -11840,6 +11852,9 @@
 [submodule "OSsurvival"]
 	path = OSsurvival
 	url = https://github.com/cran/OSsurvival
+[submodule "OTBsegm"]
+	path = OTBsegm
+	url = https://github.com/cran/OTBsegm
 [submodule "OTE"]
 	path = OTE
 	url = https://github.com/cran/OTE
@@ -17678,6 +17693,9 @@
 [submodule "SizeEstimation"]
 	path = SizeEstimation
 	url = https://github.com/cran/SizeEstimation
+[submodule "SkeletalVis"]
+	path = SkeletalVis
+	url = https://github.com/cran/SkeletalVis
 [submodule "SkewHyperbolic"]
 	path = SkewHyperbolic
 	url = https://github.com/cran/SkewHyperbolic
@@ -49049,6 +49067,9 @@
 [submodule "outreg"]
 	path = outreg
 	url = https://github.com/cran/outreg
+[submodule "ovbsa"]
+	path = ovbsa
+	url = https://github.com/cran/ovbsa
 [submodule "overdisp"]
 	path = overdisp
 	url = https://github.com/cran/overdisp
@@ -60488,6 +60509,9 @@
 [submodule "sparcl"]
 	path = sparcl
 	url = https://github.com/cran/sparcl
+[submodule "spareg"]
+	path = spareg
+	url = https://github.com/cran/spareg
 [submodule "spark.sas7bdat"]
 	path = spark.sas7bdat
 	url = https://github.com/cran/spark.sas7bdat
