@@ -3797,6 +3797,9 @@
 [submodule "DES"]
 	path = DES
 	url = https://github.com/cran/DES
+[submodule "DESA"]
+	path = DESA
+	url = https://github.com/cran/DESA
 [submodule "DEXiR"]
 	path = DEXiR
 	url = https://github.com/cran/DEXiR
@@ -29957,6 +29960,9 @@
 [submodule "dmutate"]
 	path = dmutate
 	url = https://github.com/cran/dmutate
+[submodule "dnafractal"]
+	path = dnafractal
+	url = https://github.com/cran/dnafractal
 [submodule "dnapath"]
 	path = dnapath
 	url = https://github.com/cran/dnapath
@@ -35534,6 +35540,9 @@
 [submodule "geostatsp"]
 	path = geostatsp
 	url = https://github.com/cran/geostatsp
+[submodule "geotargets"]
+	path = geotargets
+	url = https://github.com/cran/geotargets
 [submodule "geotools"]
 	path = geotools
 	url = https://github.com/cran/geotools
@@ -62369,6 +62378,9 @@
 [submodule "survivalmodels"]
 	path = survivalmodels
 	url = https://github.com/cran/survivalmodels
+[submodule "survivalsurrogate"]
+	path = survivalsurrogate
+	url = https://github.com/cran/survivalsurrogate
 [submodule "survivalsvm"]
 	path = survivalsvm
 	url = https://github.com/cran/survivalsvm
