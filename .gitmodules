@@ -1820,6 +1820,9 @@
 [submodule "BioTIMEr"]
 	path = BioTIMEr
 	url = https://github.com/cran/BioTIMEr
+[submodule "BioTrajectory"]
+	path = BioTrajectory
+	url = https://github.com/cran/BioTrajectory
 [submodule "BioVenn"]
 	path = BioVenn
 	url = https://github.com/cran/BioVenn
@@ -13913,6 +13916,9 @@
 [submodule "RANN"]
 	path = RANN
 	url = https://github.com/cran/RANN
+[submodule "RANSAC"]
+	path = RANSAC
+	url = https://github.com/cran/RANSAC
 [submodule "RAPTOR"]
 	path = RAPTOR
 	url = https://github.com/cran/RAPTOR
@@ -35693,6 +35699,9 @@
 [submodule "ggDoubleHeat"]
 	path = ggDoubleHeat
 	url = https://github.com/cran/ggDoubleHeat
+[submodule "ggEDA"]
+	path = ggEDA
+	url = https://github.com/cran/ggEDA
 [submodule "ggESDA"]
 	path = ggESDA
 	url = https://github.com/cran/ggESDA
@@ -53822,6 +53831,9 @@
 [submodule "randomGLM"]
 	path = randomGLM
 	url = https://github.com/cran/randomGLM
+[submodule "randomGODB"]
+	path = randomGODB
+	url = https://github.com/cran/randomGODB
 [submodule "randomLCA"]
 	path = randomLCA
 	url = https://github.com/cran/randomLCA
