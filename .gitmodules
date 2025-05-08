@@ -16658,6 +16658,9 @@
 [submodule "SEset"]
 	path = SEset
 	url = https://github.com/cran/SEset
+[submodule "SFDesign"]
+	path = SFDesign
+	url = https://github.com/cran/SFDesign
 [submodule "SFM"]
 	path = SFM
 	url = https://github.com/cran/SFM
