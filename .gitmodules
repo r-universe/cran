@@ -37928,9 +37928,6 @@
 [submodule "hdd"]
 	path = hdd
 	url = https://github.com/cran/hdd
-[submodule "hddplot"]
-	path = hddplot
-	url = https://github.com/cran/hddplot
 [submodule "hdf5r"]
 	path = hdf5r
 	url = https://github.com/cran/hdf5r
@@ -41153,9 +41150,6 @@
 [submodule "kmc"]
 	path = kmc
 	url = https://github.com/cran/kmc
-[submodule "kmeRs"]
-	path = kmeRs
-	url = https://github.com/cran/kmeRs
 [submodule "kmeRtone"]
 	path = kmeRtone
 	url = https://github.com/cran/kmeRtone
@@ -43331,9 +43325,6 @@
 [submodule "mappeR"]
 	path = mappeR
 	url = https://github.com/cran/mappeR
-[submodule "mapping"]
-	path = mapping
-	url = https://github.com/cran/mapping
 [submodule "mappings"]
 	path = mappings
 	url = https://github.com/cran/mappings
@@ -45971,9 +45962,6 @@
 [submodule "mpt"]
 	path = mpt
 	url = https://github.com/cran/mpt
-[submodule "mpwR"]
-	path = mpwR
-	url = https://github.com/cran/mpwR
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/cran/mr.pivw
@@ -48374,9 +48362,6 @@
 [submodule "ohsome"]
 	path = ohsome
 	url = https://github.com/cran/ohsome
-[submodule "ohtadstats"]
-	path = ohtadstats
-	url = https://github.com/cran/ohtadstats
 [submodule "ohun"]
 	path = ohun
 	url = https://github.com/cran/ohun
@@ -56192,9 +56177,6 @@
 [submodule "roccv"]
 	path = roccv
 	url = https://github.com/cran/roccv
-[submodule "rock"]
-	path = rock
-	url = https://github.com/cran/rock
 [submodule "rockchalk"]
 	path = rockchalk
 	url = https://github.com/cran/rockchalk
@@ -63722,9 +63704,6 @@
 [submodule "tidyfit"]
 	path = tidyfit
 	url = https://github.com/cran/tidyfit
-[submodule "tidyformula"]
-	path = tidyformula
-	url = https://github.com/cran/tidyformula
 [submodule "tidyfst"]
 	path = tidyfst
 	url = https://github.com/cran/tidyfst
