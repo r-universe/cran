@@ -66245,6 +66245,9 @@
 [submodule "vmr"]
 	path = vmr
 	url = https://github.com/cran/vmr
+[submodule "vmsae"]
+	path = vmsae
+	url = https://github.com/cran/vmsae
 [submodule "vntrs"]
 	path = vntrs
 	url = https://github.com/cran/vntrs
