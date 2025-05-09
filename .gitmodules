@@ -16355,6 +16355,9 @@
 [submodule "SAFD"]
 	path = SAFD
 	url = https://github.com/cran/SAFD
+[submodule "SAFEPG"]
+	path = SAFEPG
+	url = https://github.com/cran/SAFEPG
 [submodule "SAGM"]
 	path = SAGM
 	url = https://github.com/cran/SAGM
@@ -26318,6 +26321,9 @@
 [submodule "coder"]
 	path = coder
 	url = https://github.com/cran/coder
+[submodule "codestral"]
+	path = codestral
+	url = https://github.com/cran/codestral
 [submodule "codetools"]
 	path = codetools
 	url = https://github.com/cran/codetools
@@ -28679,6 +28685,9 @@
 [submodule "daymetr"]
 	path = daymetr
 	url = https://github.com/cran/daymetr
+[submodule "days2lessons"]
+	path = days2lessons
+	url = https://github.com/cran/days2lessons
 [submodule "dbGaPCheckup"]
 	path = dbGaPCheckup
 	url = https://github.com/cran/dbGaPCheckup
@@ -34004,6 +34013,9 @@
 [submodule "forensicpopdata"]
 	path = forensicpopdata
 	url = https://github.com/cran/forensicpopdata
+[submodule "forensim"]
+	path = forensim
+	url = https://github.com/cran/forensim
 [submodule "forestControl"]
 	path = forestControl
 	url = https://github.com/cran/forestControl
@@ -62498,6 +62510,9 @@
 [submodule "svycdiff"]
 	path = svycdiff
 	url = https://github.com/cran/svycdiff
+[submodule "svycoxme"]
+	path = svycoxme
+	url = https://github.com/cran/svycoxme
 [submodule "svydiags"]
 	path = svydiags
 	url = https://github.com/cran/svydiags
@@ -66752,6 +66767,9 @@
 [submodule "wevid"]
 	path = wevid
 	url = https://github.com/cran/wevid
+[submodule "wex"]
+	path = wex
+	url = https://github.com/cran/wex
 [submodule "weyl"]
 	path = weyl
 	url = https://github.com/cran/weyl
