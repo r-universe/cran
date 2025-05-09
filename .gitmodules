@@ -28178,6 +28178,9 @@
 [submodule "cutoff"]
 	path = cutoff
 	url = https://github.com/cran/cutoff
+[submodule "cutpoint"]
+	path = cutpoint
+	url = https://github.com/cran/cutpoint
 [submodule "cutpointr"]
 	path = cutpointr
 	url = https://github.com/cran/cutpointr
@@ -30053,6 +30056,9 @@
 [submodule "doc2vec"]
 	path = doc2vec
 	url = https://github.com/cran/doc2vec
+[submodule "dockViewR"]
+	path = dockViewR
+	url = https://github.com/cran/dockViewR
 [submodule "dockerfiler"]
 	path = dockerfiler
 	url = https://github.com/cran/dockerfiler
@@ -58304,6 +58310,9 @@
 [submodule "selfingTree"]
 	path = selfingTree
 	url = https://github.com/cran/selfingTree
+[submodule "seliNDRIx"]
+	path = seliNDRIx
+	url = https://github.com/cran/seliNDRIx
 [submodule "sem"]
 	path = sem
 	url = https://github.com/cran/sem
