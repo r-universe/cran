@@ -3878,6 +3878,9 @@
 [submodule "DIDmultiplegtDYN"]
 	path = DIDmultiplegtDYN
 	url = https://github.com/cran/DIDmultiplegtDYN
+[submodule "DIETCOST"]
+	path = DIETCOST
+	url = https://github.com/cran/DIETCOST
 [submodule "DIFM"]
 	path = DIFM
 	url = https://github.com/cran/DIFM
@@ -10403,6 +10406,9 @@
 [submodule "MVR"]
 	path = MVR
 	url = https://github.com/cran/MVR
+[submodule "MVSKmod"]
+	path = MVSKmod
+	url = https://github.com/cran/MVSKmod
 [submodule "MVT"]
 	path = MVT
 	url = https://github.com/cran/MVT
@@ -18494,6 +18500,9 @@
 [submodule "TAShiny"]
 	path = TAShiny
 	url = https://github.com/cran/TAShiny
+[submodule "TBA"]
+	path = TBA
+	url = https://github.com/cran/TBA
 [submodule "TBEST"]
 	path = TBEST
 	url = https://github.com/cran/TBEST
@@ -50816,6 +50825,9 @@
 [submodule "pkgdown"]
 	path = pkgdown
 	url = https://github.com/cran/pkgdown
+[submodule "pkgdown.offline"]
+	path = pkgdown.offline
+	url = https://github.com/cran/pkgdown.offline
 [submodule "pkgfilecache"]
 	path = pkgfilecache
 	url = https://github.com/cran/pkgfilecache
@@ -64817,6 +64829,9 @@
 [submodule "trustedtimestamping"]
 	path = trustedtimestamping
 	url = https://github.com/cran/trustedtimestamping
+[submodule "trustmebro"]
+	path = trustmebro
+	url = https://github.com/cran/trustmebro
 [submodule "tryCatchLog"]
 	path = tryCatchLog
 	url = https://github.com/cran/tryCatchLog
