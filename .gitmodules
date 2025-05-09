@@ -4160,6 +4160,9 @@
 [submodule "DTDA.ni"]
 	path = DTDA.ni
 	url = https://github.com/cran/DTDA.ni
+[submodule "DTEBOP2"]
+	path = DTEBOP2
+	url = https://github.com/cran/DTEBOP2
 [submodule "DTMCPack"]
 	path = DTMCPack
 	url = https://github.com/cran/DTMCPack
