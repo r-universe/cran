@@ -36023,6 +36023,9 @@
 [submodule "gglgbtq"]
 	path = gglgbtq
 	url = https://github.com/cran/gglgbtq
+[submodule "gglinedensity"]
+	path = gglinedensity
+	url = https://github.com/cran/gglinedensity
 [submodule "gglm"]
 	path = gglm
 	url = https://github.com/cran/gglm
@@ -63239,9 +63242,6 @@
 [submodule "tern.mmrm"]
 	path = tern.mmrm
 	url = https://github.com/cran/tern.mmrm
-[submodule "tern.rbmi"]
-	path = tern.rbmi
-	url = https://github.com/cran/tern.rbmi
 [submodule "ternvis"]
 	path = ternvis
 	url = https://github.com/cran/ternvis
