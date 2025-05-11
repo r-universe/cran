@@ -1097,6 +1097,9 @@
 [submodule "BICORN"]
 	path = BICORN
 	url = https://github.com/cran/BICORN
+[submodule "BIDistances"]
+	path = BIDistances
+	url = https://github.com/cran/BIDistances
 [submodule "BIEN"]
 	path = BIEN
 	url = https://github.com/cran/BIEN
@@ -19310,9 +19313,6 @@
 [submodule "TukeyGH77"]
 	path = TukeyGH77
 	url = https://github.com/cran/TukeyGH77
-[submodule "TukeyRegion"]
-	path = TukeyRegion
-	url = https://github.com/cran/TukeyRegion
 [submodule "TunePareto"]
 	path = TunePareto
 	url = https://github.com/cran/TunePareto
@@ -51371,9 +51371,6 @@
 [submodule "polyglotr"]
 	path = polyglotr
 	url = https://github.com/cran/polyglotr
-[submodule "polyhedralCubature"]
-	path = polyhedralCubature
-	url = https://github.com/cran/polyhedralCubature
 [submodule "polykde"]
 	path = polykde
 	url = https://github.com/cran/polykde
@@ -63254,9 +63251,6 @@
 [submodule "terrainr"]
 	path = terrainr
 	url = https://github.com/cran/terrainr
-[submodule "tessellation"]
-	path = tessellation
-	url = https://github.com/cran/tessellation
 [submodule "tesselle"]
 	path = tesselle
 	url = https://github.com/cran/tesselle
