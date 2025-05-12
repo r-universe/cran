@@ -41768,9 +41768,6 @@
 [submodule "ldt"]
 	path = ldt
 	url = https://github.com/cran/ldt
-[submodule "leabRa"]
-	path = leabRa
-	url = https://github.com/cran/leabRa
 [submodule "leaderCluster"]
 	path = leaderCluster
 	url = https://github.com/cran/leaderCluster
