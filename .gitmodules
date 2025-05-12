@@ -33803,9 +33803,6 @@
 [submodule "float"]
 	path = float
 	url = https://github.com/cran/float
-[submodule "flobr"]
-	path = flobr
-	url = https://github.com/cran/flobr
 [submodule "flock"]
 	path = flock
 	url = https://github.com/cran/flock
@@ -53981,6 +53978,9 @@
 [submodule "rappsflyer"]
 	path = rappsflyer
 	url = https://github.com/cran/rappsflyer
+[submodule "rapr"]
+	path = rapr
+	url = https://github.com/cran/rapr
 [submodule "rapsimng"]
 	path = rapsimng
 	url = https://github.com/cran/rapsimng
@@ -65570,6 +65570,9 @@
 [submodule "uscoauditlog"]
 	path = uscoauditlog
 	url = https://github.com/cran/uscoauditlog
+[submodule "uscongress"]
+	path = uscongress
+	url = https://github.com/cran/uscongress
 [submodule "usdampr"]
 	path = usdampr
 	url = https://github.com/cran/usdampr
