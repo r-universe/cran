@@ -30833,9 +30833,6 @@
 [submodule "easySdcTable"]
 	path = easySdcTable
 	url = https://github.com/cran/easySdcTable
-[submodule "easySimData"]
-	path = easySimData
-	url = https://github.com/cran/easySimData
 [submodule "easyVerification"]
 	path = easyVerification
 	url = https://github.com/cran/easyVerification
@@ -33113,6 +33110,9 @@
 [submodule "fcp"]
 	path = fcp
 	url = https://github.com/cran/fcp
+[submodule "fcr"]
+	path = fcr
+	url = https://github.com/cran/fcr
 [submodule "fcros"]
 	path = fcros
 	url = https://github.com/cran/fcros
