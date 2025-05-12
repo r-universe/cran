@@ -33113,9 +33113,6 @@
 [submodule "fcp"]
 	path = fcp
 	url = https://github.com/cran/fcp
-[submodule "fcr"]
-	path = fcr
-	url = https://github.com/cran/fcr
 [submodule "fcros"]
 	path = fcros
 	url = https://github.com/cran/fcros
