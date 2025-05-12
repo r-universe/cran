@@ -12137,6 +12137,9 @@
 [submodule "Ostats"]
 	path = Ostats
 	url = https://github.com/cran/Ostats
+[submodule "OtsuSeg"]
+	path = OtsuSeg
+	url = https://github.com/cran/OtsuSeg
 [submodule "OutSeekR"]
 	path = OutSeekR
 	url = https://github.com/cran/OutSeekR
@@ -63332,6 +63335,9 @@
 [submodule "text.alignment"]
 	path = text.alignment
 	url = https://github.com/cran/text.alignment
+[submodule "text2emotion"]
+	path = text2emotion
+	url = https://github.com/cran/text2emotion
 [submodule "text2map"]
 	path = text2map
 	url = https://github.com/cran/text2map
@@ -64454,6 +64460,9 @@
 [submodule "trackeRapp"]
 	path = trackeRapp
 	url = https://github.com/cran/trackeRapp
+[submodule "trackopt"]
+	path = trackopt
+	url = https://github.com/cran/trackopt
 [submodule "tractor.base"]
 	path = tractor.base
 	url = https://github.com/cran/tractor.base
