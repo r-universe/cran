@@ -2741,6 +2741,9 @@
 [submodule "CardioCurveR"]
 	path = CardioCurveR
 	url = https://github.com/cran/CardioCurveR
+[submodule "CardioDataSets"]
+	path = CardioDataSets
+	url = https://github.com/cran/CardioDataSets
 [submodule "CareDensity"]
 	path = CareDensity
 	url = https://github.com/cran/CareDensity
@@ -7670,6 +7673,9 @@
 [submodule "HiClimR"]
 	path = HiClimR
 	url = https://github.com/cran/HiClimR
+[submodule "HiCociety"]
+	path = HiCociety
+	url = https://github.com/cran/HiCociety
 [submodule "HiCocietyExample"]
 	path = HiCocietyExample
 	url = https://github.com/cran/HiCocietyExample
@@ -23282,6 +23288,9 @@
 [submodule "binaryGP"]
 	path = binaryGP
 	url = https://github.com/cran/binaryGP
+[submodule "binaryRL"]
+	path = binaryRL
+	url = https://github.com/cran/binaryRL
 [submodule "binb"]
 	path = binb
 	url = https://github.com/cran/binb
