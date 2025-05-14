@@ -14876,6 +14876,9 @@
 [submodule "RRgeo"]
 	path = RRgeo
 	url = https://github.com/cran/RRgeo
+[submodule "RRmorph"]
+	path = RRmorph
+	url = https://github.com/cran/RRmorph
 [submodule "RRphylo"]
 	path = RRphylo
 	url = https://github.com/cran/RRphylo
@@ -21053,6 +21056,9 @@
 [submodule "alfred"]
 	path = alfred
 	url = https://github.com/cran/alfred
+[submodule "algaeClassify"]
+	path = algaeClassify
+	url = https://github.com/cran/algaeClassify
 [submodule "algo"]
 	path = algo
 	url = https://github.com/cran/algo
@@ -26102,6 +26108,9 @@
 [submodule "clustertend"]
 	path = clustertend
 	url = https://github.com/cran/clustertend
+[submodule "clusterv"]
+	path = clusterv
+	url = https://github.com/cran/clusterv
 [submodule "clustlearn"]
 	path = clustlearn
 	url = https://github.com/cran/clustlearn
@@ -27632,6 +27641,9 @@
 [submodule "cragg"]
 	path = cragg
 	url = https://github.com/cran/cragg
+[submodule "cramR"]
+	path = cramR
+	url = https://github.com/cran/cramR
 [submodule "cramer"]
 	path = cramer
 	url = https://github.com/cran/cramer
@@ -29072,6 +29084,9 @@
 [submodule "delimtools"]
 	path = delimtools
 	url = https://github.com/cran/delimtools
+[submodule "delma"]
+	path = delma
+	url = https://github.com/cran/delma
 [submodule "deltaPlotR"]
 	path = deltaPlotR
 	url = https://github.com/cran/deltaPlotR
@@ -30461,6 +30476,9 @@
 [submodule "dsos"]
 	path = dsos
 	url = https://github.com/cran/dsos
+[submodule "dspline"]
+	path = dspline
+	url = https://github.com/cran/dspline
 [submodule "dsrTest"]
 	path = dsrTest
 	url = https://github.com/cran/dsrTest
@@ -46016,6 +46034,9 @@
 [submodule "mpt"]
 	path = mpt
 	url = https://github.com/cran/mpt
+[submodule "mpwR"]
+	path = mpwR
+	url = https://github.com/cran/mpwR
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/cran/mr.pivw
@@ -47708,6 +47729,9 @@
 [submodule "nntmvn"]
 	path = nntmvn
 	url = https://github.com/cran/nntmvn
+[submodule "noaa"]
+	path = noaa
+	url = https://github.com/cran/noaa
 [submodule "noah"]
 	path = noah
 	url = https://github.com/cran/noah
@@ -48425,6 +48449,9 @@
 [submodule "ojsr"]
 	path = ojsr
 	url = https://github.com/cran/ojsr
+[submodule "okcolors"]
+	path = okcolors
+	url = https://github.com/cran/okcolors
 [submodule "okxAPI"]
 	path = okxAPI
 	url = https://github.com/cran/okxAPI
@@ -54356,6 +54383,9 @@
 [submodule "rcube"]
 	path = rcube
 	url = https://github.com/cran/rcube
+[submodule "rd2d"]
+	path = rd2d
+	url = https://github.com/cran/rd2d
 [submodule "rda"]
 	path = rda
 	url = https://github.com/cran/rda
