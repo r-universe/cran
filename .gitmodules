@@ -3560,9 +3560,6 @@
 [submodule "Crosstabs.Loglinear"]
 	path = Crosstabs.Loglinear
 	url = https://github.com/cran/Crosstabs.Loglinear
-[submodule "CruzPlot"]
-	path = CruzPlot
-	url = https://github.com/cran/CruzPlot
 [submodule "CryptRndTest"]
 	path = CryptRndTest
 	url = https://github.com/cran/CryptRndTest
@@ -39365,6 +39362,9 @@
 [submodule "ig.vancouver.2014.topcolour"]
 	path = ig.vancouver.2014.topcolour
 	url = https://github.com/cran/ig.vancouver.2014.topcolour
+[submodule "igapfill"]
+	path = igapfill
+	url = https://github.com/cran/igapfill
 [submodule "igate"]
 	path = igate
 	url = https://github.com/cran/igate
