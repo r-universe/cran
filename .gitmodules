@@ -6998,6 +6998,9 @@
 [submodule "GenWin"]
 	path = GenWin
 	url = https://github.com/cran/GenWin
+[submodule "GencoDymo2"]
+	path = GencoDymo2
+	url = https://github.com/cran/GencoDymo2
 [submodule "GenderInfer"]
 	path = GenderInfer
 	url = https://github.com/cran/GenderInfer
@@ -7475,6 +7478,9 @@
 [submodule "HLMdiag"]
 	path = HLMdiag
 	url = https://github.com/cran/HLMdiag
+[submodule "HLSM"]
+	path = HLSM
+	url = https://github.com/cran/HLSM
 [submodule "HMB"]
 	path = HMB
 	url = https://github.com/cran/HMB
@@ -15752,6 +15758,9 @@
 [submodule "RegSDC"]
 	path = RegSDC
 	url = https://github.com/cran/RegSDC
+[submodule "RegionalConsistency"]
+	path = RegionalConsistency
+	url = https://github.com/cran/RegionalConsistency
 [submodule "RegrCoeffsExplorer"]
 	path = RegrCoeffsExplorer
 	url = https://github.com/cran/RegrCoeffsExplorer
@@ -32105,6 +32114,9 @@
 [submodule "etasFLP"]
 	path = etasFLP
 	url = https://github.com/cran/etasFLP
+[submodule "ethiodate"]
+	path = ethiodate
+	url = https://github.com/cran/ethiodate
 [submodule "ethnobotanyR"]
 	path = ethnobotanyR
 	url = https://github.com/cran/ethnobotanyR
@@ -50597,6 +50609,9 @@
 [submodule "phuassess"]
 	path = phuassess
 	url = https://github.com/cran/phuassess
+[submodule "phutil"]
+	path = phutil
+	url = https://github.com/cran/phutil
 [submodule "phyclust"]
 	path = phyclust
 	url = https://github.com/cran/phyclust
