@@ -3560,6 +3560,9 @@
 [submodule "Crosstabs.Loglinear"]
 	path = Crosstabs.Loglinear
 	url = https://github.com/cran/Crosstabs.Loglinear
+[submodule "CruzPlot"]
+	path = CruzPlot
+	url = https://github.com/cran/CruzPlot
 [submodule "CryptRndTest"]
 	path = CryptRndTest
 	url = https://github.com/cran/CryptRndTest
