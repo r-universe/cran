@@ -36473,6 +36473,9 @@
 [submodule "gibble"]
 	path = gibble
 	url = https://github.com/cran/gibble
+[submodule "gicf"]
+	path = gicf
+	url = https://github.com/cran/gicf
 [submodule "gie"]
 	path = gie
 	url = https://github.com/cran/gie
@@ -65969,6 +65972,9 @@
 [submodule "vcd"]
 	path = vcd
 	url = https://github.com/cran/vcd
+[submodule "vcd2df"]
+	path = vcd2df
+	url = https://github.com/cran/vcd2df
 [submodule "vcdExtra"]
 	path = vcdExtra
 	url = https://github.com/cran/vcdExtra
