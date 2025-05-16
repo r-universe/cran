@@ -776,6 +776,9 @@
 [submodule "AteMeVs"]
 	path = AteMeVs
 	url = https://github.com/cran/AteMeVs
+[submodule "Athlytics"]
+	path = Athlytics
+	url = https://github.com/cran/Athlytics
 [submodule "AtlasMaker"]
 	path = AtlasMaker
 	url = https://github.com/cran/AtlasMaker
@@ -23534,6 +23537,9 @@
 [submodule "birk"]
 	path = birk
 	url = https://github.com/cran/birk
+[submodule "birp"]
+	path = birp
+	url = https://github.com/cran/birp
 [submodule "birtr"]
 	path = birtr
 	url = https://github.com/cran/birtr
@@ -29195,6 +29201,9 @@
 [submodule "densratio"]
 	path = densratio
 	url = https://github.com/cran/densratio
+[submodule "denstest"]
+	path = denstest
+	url = https://github.com/cran/denstest
 [submodule "denstrip"]
 	path = denstrip
 	url = https://github.com/cran/denstrip
@@ -33008,6 +33017,9 @@
 [submodule "fastdid"]
 	path = fastdid
 	url = https://github.com/cran/fastdid
+[submodule "fastei"]
+	path = fastei
+	url = https://github.com/cran/fastei
 [submodule "fasterElasticNet"]
 	path = fasterElasticNet
 	url = https://github.com/cran/fasterElasticNet
@@ -36407,6 +36419,9 @@
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/cran/ggtrace
+[submodule "ggtreebar"]
+	path = ggtreebar
+	url = https://github.com/cran/ggtreebar
 [submodule "ggtrendline"]
 	path = ggtrendline
 	url = https://github.com/cran/ggtrendline
@@ -54077,6 +54092,9 @@
 [submodule "rasclass"]
 	path = rasclass
 	url = https://github.com/cran/rasclass
+[submodule "rashnu"]
+	path = rashnu
+	url = https://github.com/cran/rashnu
 [submodule "rassta"]
 	path = rassta
 	url = https://github.com/cran/rassta
@@ -54323,6 +54341,9 @@
 [submodule "rcdklibs"]
 	path = rcdklibs
 	url = https://github.com/cran/rcdklibs
+[submodule "rcdo"]
+	path = rcdo
+	url = https://github.com/cran/rcdo
 [submodule "rcens"]
 	path = rcens
 	url = https://github.com/cran/rcens
