@@ -10628,9 +10628,6 @@
 [submodule "MazamaSpatialUtils"]
 	path = MazamaSpatialUtils
 	url = https://github.com/cran/MazamaSpatialUtils
-[submodule "MazamaTimeSeries"]
-	path = MazamaTimeSeries
-	url = https://github.com/cran/MazamaTimeSeries
 [submodule "Mcomp"]
 	path = Mcomp
 	url = https://github.com/cran/Mcomp
