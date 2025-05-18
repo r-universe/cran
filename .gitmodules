@@ -37310,9 +37310,6 @@
 [submodule "gravmagsubs"]
 	path = gravmagsubs
 	url = https://github.com/cran/gravmagsubs
-[submodule "greatR"]
-	path = greatR
-	url = https://github.com/cran/greatR
 [submodule "grec"]
 	path = grec
 	url = https://github.com/cran/grec
