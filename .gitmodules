@@ -8582,6 +8582,9 @@
 [submodule "JPEN"]
 	path = JPEN
 	url = https://github.com/cran/JPEN
+[submodule "JPSurv"]
+	path = JPSurv
+	url = https://github.com/cran/JPSurv
 [submodule "JQL"]
 	path = JQL
 	url = https://github.com/cran/JQL
@@ -10394,6 +10397,9 @@
 [submodule "MUACz"]
 	path = MUACz
 	url = https://github.com/cran/MUACz
+[submodule "MUGS"]
+	path = MUGS
+	url = https://github.com/cran/MUGS
 [submodule "MUS"]
 	path = MUS
 	url = https://github.com/cran/MUS
@@ -24485,6 +24491,9 @@
 [submodule "c3"]
 	path = c3
 	url = https://github.com/cran/c3
+[submodule "c3dr"]
+	path = c3dr
+	url = https://github.com/cran/c3dr
 [submodule "c3net"]
 	path = c3net
 	url = https://github.com/cran/c3net
@@ -29201,6 +29210,9 @@
 [submodule "densityarea"]
 	path = densityarea
 	url = https://github.com/cran/densityarea
+[submodule "densityratio"]
+	path = densityratio
+	url = https://github.com/cran/densityratio
 [submodule "densratio"]
 	path = densratio
 	url = https://github.com/cran/densratio
@@ -30530,6 +30542,9 @@
 [submodule "dti"]
 	path = dti
 	url = https://github.com/cran/dti
+[submodule "dtlcor"]
+	path = dtlcor
+	url = https://github.com/cran/dtlcor
 [submodule "dtmapi"]
 	path = dtmapi
 	url = https://github.com/cran/dtmapi
@@ -33779,6 +33794,9 @@
 [submodule "flexFitR"]
 	path = flexFitR
 	url = https://github.com/cran/flexFitR
+[submodule "flexIC"]
+	path = flexIC
+	url = https://github.com/cran/flexIC
 [submodule "flexOR"]
 	path = flexOR
 	url = https://github.com/cran/flexOR
@@ -37451,6 +37469,9 @@
 [submodule "groupWQS"]
 	path = groupWQS
 	url = https://github.com/cran/groupWQS
+[submodule "groupcompare"]
+	path = groupcompare
+	url = https://github.com/cran/groupcompare
 [submodule "groupdata2"]
 	path = groupdata2
 	url = https://github.com/cran/groupdata2
@@ -41990,6 +42011,9 @@
 [submodule "leontief"]
 	path = leontief
 	url = https://github.com/cran/leontief
+[submodule "lepidochroma"]
+	path = lepidochroma
+	url = https://github.com/cran/lepidochroma
 [submodule "leprechaun"]
 	path = leprechaun
 	url = https://github.com/cran/leprechaun
@@ -52016,6 +52040,9 @@
 [submodule "pretest"]
 	path = pretest
 	url = https://github.com/cran/pretest
+[submodule "pretestcad"]
+	path = pretestcad
+	url = https://github.com/cran/pretestcad
 [submodule "prettifyAddins"]
 	path = prettifyAddins
 	url = https://github.com/cran/prettifyAddins
@@ -54719,6 +54746,9 @@
 [submodule "recapr"]
 	path = recapr
 	url = https://github.com/cran/recapr
+[submodule "recastlessons"]
+	path = recastlessons
+	url = https://github.com/cran/recastlessons
 [submodule "receptiviti"]
 	path = receptiviti
 	url = https://github.com/cran/receptiviti
