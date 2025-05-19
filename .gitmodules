@@ -39731,6 +39731,9 @@
 [submodule "ineAtlas"]
 	path = ineAtlas
 	url = https://github.com/cran/ineAtlas
+[submodule "inecolr"]
+	path = inecolr
+	url = https://github.com/cran/inecolr
 [submodule "inegiR"]
 	path = inegiR
 	url = https://github.com/cran/inegiR
@@ -58703,6 +58706,9 @@
 [submodule "sfcentral"]
 	path = sfcentral
 	url = https://github.com/cran/sfcentral
+[submodule "sfclust"]
+	path = sfclust
+	url = https://github.com/cran/sfclust
 [submodule "sfcr"]
 	path = sfcr
 	url = https://github.com/cran/sfcr
