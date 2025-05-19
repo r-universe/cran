@@ -1115,6 +1115,9 @@
 [submodule "BIGL"]
 	path = BIGL
 	url = https://github.com/cran/BIGL
+[submodule "BIGr"]
+	path = BIGr
+	url = https://github.com/cran/BIGr
 [submodule "BINCOR"]
 	path = BINCOR
 	url = https://github.com/cran/BINCOR
@@ -10007,6 +10010,9 @@
 [submodule "ML2Pvae"]
 	path = ML2Pvae
 	url = https://github.com/cran/ML2Pvae
+[submodule "MLBC"]
+	path = MLBC
+	url = https://github.com/cran/MLBC
 [submodule "MLCIRTwithin"]
 	path = MLCIRTwithin
 	url = https://github.com/cran/MLCIRTwithin
@@ -24323,6 +24329,9 @@
 [submodule "btergm"]
 	path = btergm
 	url = https://github.com/cran/btergm
+[submodule "btml"]
+	path = btml
+	url = https://github.com/cran/btml
 [submodule "btrm"]
 	path = btrm
 	url = https://github.com/cran/btrm
@@ -32810,6 +32819,9 @@
 [submodule "fairadapt"]
 	path = fairadapt
 	url = https://github.com/cran/fairadapt
+[submodule "fairmetrics"]
+	path = fairmetrics
+	url = https://github.com/cran/fairmetrics
 [submodule "fairml"]
 	path = fairml
 	url = https://github.com/cran/fairml
@@ -67643,6 +67655,9 @@
 [submodule "yyjsonr"]
 	path = yyjsonr
 	url = https://github.com/cran/yyjsonr
+[submodule "z22"]
+	path = z22
+	url = https://github.com/cran/z22
 [submodule "zCompositions"]
 	path = zCompositions
 	url = https://github.com/cran/zCompositions
