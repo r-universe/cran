@@ -10154,9 +10154,6 @@
 [submodule "MOCCA"]
 	path = MOCCA
 	url = https://github.com/cran/MOCCA
-[submodule "MOCHA"]
-	path = MOCHA
-	url = https://github.com/cran/MOCHA
 [submodule "MODISTools"]
 	path = MODISTools
 	url = https://github.com/cran/MODISTools
@@ -28649,9 +28646,6 @@
 [submodule "datarobot"]
 	path = datarobot
 	url = https://github.com/cran/datarobot
-[submodule "datasailr"]
-	path = datasailr
-	url = https://github.com/cran/datasailr
 [submodule "datasauRus"]
 	path = datasauRus
 	url = https://github.com/cran/datasauRus
@@ -40838,9 +40832,6 @@
 [submodule "jsonNormalize"]
 	path = jsonNormalize
 	url = https://github.com/cran/jsonNormalize
-[submodule "jsonStrings"]
-	path = jsonStrings
-	url = https://github.com/cran/jsonStrings
 [submodule "jsonify"]
 	path = jsonify
 	url = https://github.com/cran/jsonify
@@ -55463,9 +55454,6 @@
 [submodule "rfishnet2"]
 	path = rfishnet2
 	url = https://github.com/cran/rfishnet2
-[submodule "rflashtext"]
-	path = rflashtext
-	url = https://github.com/cran/rflashtext
 [submodule "rflsgen"]
 	path = rflsgen
 	url = https://github.com/cran/rflsgen
@@ -62951,9 +62939,6 @@
 [submodule "tabularmaps"]
 	path = tabularmaps
 	url = https://github.com/cran/tabularmaps
-[submodule "tabulate"]
-	path = tabulate
-	url = https://github.com/cran/tabulate
 [submodule "tabulator"]
 	path = tabulator
 	url = https://github.com/cran/tabulator
@@ -64424,9 +64409,6 @@
 [submodule "torch"]
 	path = torch
 	url = https://github.com/cran/torch
-[submodule "torchaudio"]
-	path = torchaudio
-	url = https://github.com/cran/torchaudio
 [submodule "torchdatasets"]
 	path = torchdatasets
 	url = https://github.com/cran/torchdatasets
