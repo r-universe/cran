@@ -560,6 +560,9 @@
 [submodule "AirExposure"]
 	path = AirExposure
 	url = https://github.com/cran/AirExposure
+[submodule "AirMonitor"]
+	path = AirMonitor
+	url = https://github.com/cran/AirMonitor
 [submodule "AirportProblems"]
 	path = AirportProblems
 	url = https://github.com/cran/AirportProblems
@@ -41237,6 +41240,9 @@
 [submodule "kiwisR"]
 	path = kiwisR
 	url = https://github.com/cran/kiwisR
+[submodule "kknn"]
+	path = kknn
+	url = https://github.com/cran/kknn
 [submodule "kko"]
 	path = kko
 	url = https://github.com/cran/kko
