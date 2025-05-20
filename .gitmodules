@@ -9143,6 +9143,9 @@
 [submodule "LS2Wstat"]
 	path = LS2Wstat
 	url = https://github.com/cran/LS2Wstat
+[submodule "LSAMBA"]
+	path = LSAMBA
+	url = https://github.com/cran/LSAMBA
 [submodule "LSAfun"]
 	path = LSAfun
 	url = https://github.com/cran/LSAfun
@@ -41477,6 +41480,9 @@
 [submodule "l1kdeconv"]
 	path = l1kdeconv
 	url = https://github.com/cran/l1kdeconv
+[submodule "l1rotation"]
+	path = l1rotation
+	url = https://github.com/cran/l1rotation
 [submodule "l1spectral"]
 	path = l1spectral
 	url = https://github.com/cran/l1spectral
@@ -61349,6 +61355,9 @@
 [submodule "squash"]
 	path = squash
 	url = https://github.com/cran/squash
+[submodule "squat"]
+	path = squat
+	url = https://github.com/cran/squat
 [submodule "squeezy"]
 	path = squeezy
 	url = https://github.com/cran/squeezy
