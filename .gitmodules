@@ -23696,6 +23696,9 @@
 [submodule "blockmodels"]
 	path = blockmodels
 	url = https://github.com/cran/blockmodels
+[submodule "blockr.core"]
+	path = blockr.core
+	url = https://github.com/cran/blockr.core
 [submodule "blockrand"]
 	path = blockrand
 	url = https://github.com/cran/blockrand
@@ -42122,6 +42125,9 @@
 [submodule "libgeos"]
 	path = libgeos
 	url = https://github.com/cran/libgeos
+[submodule "libimath"]
+	path = libimath
+	url = https://github.com/cran/libimath
 [submodule "libr"]
 	path = libr
 	url = https://github.com/cran/libr
