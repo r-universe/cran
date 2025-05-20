@@ -13928,9 +13928,6 @@
 [submodule "RAFS"]
 	path = RAFS
 	url = https://github.com/cran/RAFS
-[submodule "RAGFlowChainR"]
-	path = RAGFlowChainR
-	url = https://github.com/cran/RAGFlowChainR
 [submodule "RAINBOWR"]
 	path = RAINBOWR
 	url = https://github.com/cran/RAINBOWR
@@ -66812,9 +66809,6 @@
 [submodule "webchem"]
 	path = webchem
 	url = https://github.com/cran/webchem
-[submodule "webdav"]
-	path = webdav
-	url = https://github.com/cran/webdav
 [submodule "webdeveloper"]
 	path = webdeveloper
 	url = https://github.com/cran/webdeveloper
