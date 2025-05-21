@@ -13754,6 +13754,9 @@
 [submodule "Qtools"]
 	path = Qtools
 	url = https://github.com/cran/Qtools
+[submodule "QuAnTeTrack"]
+	path = QuAnTeTrack
+	url = https://github.com/cran/QuAnTeTrack
 [submodule "QuClu"]
 	path = QuClu
 	url = https://github.com/cran/QuClu
@@ -47276,6 +47279,9 @@
 [submodule "netcontrol"]
 	path = netcontrol
 	url = https://github.com/cran/netcontrol
+[submodule "netcutter"]
+	path = netcutter
+	url = https://github.com/cran/netcutter
 [submodule "netdiffuseR"]
 	path = netdiffuseR
 	url = https://github.com/cran/netdiffuseR
@@ -64631,6 +64637,9 @@
 [submodule "traj"]
 	path = traj
 	url = https://github.com/cran/traj
+[submodule "trajeR"]
+	path = trajeR
+	url = https://github.com/cran/trajeR
 [submodule "trajectories"]
 	path = trajectories
 	url = https://github.com/cran/trajectories
