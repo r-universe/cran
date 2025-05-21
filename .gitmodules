@@ -2891,6 +2891,9 @@
 [submodule "Characterization"]
 	path = Characterization
 	url = https://github.com/cran/Characterization
+[submodule "ChauBoxplot"]
+	path = ChauBoxplot
+	url = https://github.com/cran/ChauBoxplot
 [submodule "CheckDigit"]
 	path = CheckDigit
 	url = https://github.com/cran/CheckDigit
@@ -30116,6 +30119,9 @@
 [submodule "dobin"]
 	path = dobin
 	url = https://github.com/cran/dobin
+[submodule "doblin"]
+	path = doblin
+	url = https://github.com/cran/doblin
 [submodule "dobson"]
 	path = dobson
 	url = https://github.com/cran/dobson
@@ -35549,6 +35555,9 @@
 [submodule "geogrid"]
 	path = geogrid
 	url = https://github.com/cran/geogrid
+[submodule "geohabnet"]
+	path = geohabnet
+	url = https://github.com/cran/geohabnet
 [submodule "geohashTools"]
 	path = geohashTools
 	url = https://github.com/cran/geohashTools
@@ -50369,6 +50378,9 @@
 [submodule "persDx"]
 	path = persDx
 	url = https://github.com/cran/persDx
+[submodule "persistence"]
+	path = persistence
+	url = https://github.com/cran/persistence
 [submodule "personalized"]
 	path = personalized
 	url = https://github.com/cran/personalized
