@@ -67316,9 +67316,6 @@
 [submodule "wrassp"]
 	path = wrassp
 	url = https://github.com/cran/wrassp
-[submodule "write.snns"]
-	path = write.snns
-	url = https://github.com/cran/write.snns
 [submodule "writer"]
 	path = writer
 	url = https://github.com/cran/writer
