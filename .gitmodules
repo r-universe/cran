@@ -28931,6 +28931,9 @@
 [submodule "debest"]
 	path = debest
 	url = https://github.com/cran/debest
+[submodule "debiasedTrialEmulation"]
+	path = debiasedTrialEmulation
+	url = https://github.com/cran/debiasedTrialEmulation
 [submodule "debkeepr"]
 	path = debkeepr
 	url = https://github.com/cran/debkeepr
@@ -36185,6 +36188,9 @@
 [submodule "ggpcp"]
 	path = ggpcp
 	url = https://github.com/cran/ggpcp
+[submodule "ggpedigree"]
+	path = ggpedigree
+	url = https://github.com/cran/ggpedigree
 [submodule "ggperiodic"]
 	path = ggperiodic
 	url = https://github.com/cran/ggperiodic
@@ -57560,6 +57566,9 @@
 [submodule "samurais"]
 	path = samurais
 	url = https://github.com/cran/samurais
+[submodule "sanba"]
+	path = sanba
+	url = https://github.com/cran/sanba
 [submodule "sand"]
 	path = sand
 	url = https://github.com/cran/sand
