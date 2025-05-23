@@ -10901,6 +10901,9 @@
 [submodule "MixfMRI"]
 	path = MixfMRI
 	url = https://github.com/cran/MixfMRI
+[submodule "MixtureFitting"]
+	path = MixtureFitting
+	url = https://github.com/cran/MixtureFitting
 [submodule "MixtureMissing"]
 	path = MixtureMissing
 	url = https://github.com/cran/MixtureMissing
@@ -34049,6 +34052,9 @@
 [submodule "forceplate"]
 	path = forceplate
 	url = https://github.com/cran/forceplate
+[submodule "forcis"]
+	path = forcis
+	url = https://github.com/cran/forcis
 [submodule "foreSIGHT"]
 	path = foreSIGHT
 	url = https://github.com/cran/foreSIGHT
