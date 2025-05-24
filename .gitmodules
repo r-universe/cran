@@ -5222,9 +5222,6 @@
 [submodule "EmiR"]
 	path = EmiR
 	url = https://github.com/cran/EmiR
-[submodule "EmiStatR"]
-	path = EmiStatR
-	url = https://github.com/cran/EmiStatR
 [submodule "EmissV"]
 	path = EmissV
 	url = https://github.com/cran/EmissV
@@ -8072,9 +8069,6 @@
 [submodule "IMmailgun"]
 	path = IMmailgun
 	url = https://github.com/cran/IMmailgun
-[submodule "INCATome"]
-	path = INCATome
-	url = https://github.com/cran/INCATome
 [submodule "INFOSET"]
 	path = INFOSET
 	url = https://github.com/cran/INFOSET
@@ -11777,9 +11771,6 @@
 [submodule "OGI"]
 	path = OGI
 	url = https://github.com/cran/OGI
-[submodule "OHCSpackage"]
-	path = OHCSpackage
-	url = https://github.com/cran/OHCSpackage
 [submodule "OHPL"]
 	path = OHPL
 	url = https://github.com/cran/OHPL
@@ -12350,9 +12341,6 @@
 [submodule "PDtoolkit"]
 	path = PDtoolkit
 	url = https://github.com/cran/PDtoolkit
-[submodule "PEACH"]
-	path = PEACH
-	url = https://github.com/cran/PEACH
 [submodule "PEGroupTesting"]
 	path = PEGroupTesting
 	url = https://github.com/cran/PEGroupTesting
@@ -51638,9 +51626,6 @@
 [submodule "portn"]
 	path = portn
 	url = https://github.com/cran/portn
-[submodule "portsort"]
-	path = portsort
-	url = https://github.com/cran/portsort
 [submodule "portvine"]
 	path = portvine
 	url = https://github.com/cran/portvine
