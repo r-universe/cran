@@ -698,9 +698,6 @@
 [submodule "Apoderoides"]
 	path = Apoderoides
 	url = https://github.com/cran/Apoderoides
-[submodule "Apollonius"]
-	path = Apollonius
-	url = https://github.com/cran/Apollonius
 [submodule "AppliedPredictiveModeling"]
 	path = AppliedPredictiveModeling
 	url = https://github.com/cran/AppliedPredictiveModeling
@@ -28271,9 +28268,6 @@
 [submodule "cwot"]
 	path = cwot
 	url = https://github.com/cran/cwot
-[submodule "cxhull"]
-	path = cxhull
-	url = https://github.com/cran/cxhull
 [submodule "cxr"]
 	path = cxr
 	url = https://github.com/cran/cxr
@@ -37757,9 +37751,6 @@
 [submodule "gym"]
 	path = gym
 	url = https://github.com/cran/gym
-[submodule "gyro"]
-	path = gyro
-	url = https://github.com/cran/gyro
 [submodule "h0"]
 	path = h0
 	url = https://github.com/cran/h0
