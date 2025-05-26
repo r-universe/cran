@@ -4283,6 +4283,9 @@
 [submodule "DataSetsUni"]
 	path = DataSetsUni
 	url = https://github.com/cran/DataSetsUni
+[submodule "DataSetsVerse"]
+	path = DataSetsVerse
+	url = https://github.com/cran/DataSetsVerse
 [submodule "DataSimilarity"]
 	path = DataSimilarity
 	url = https://github.com/cran/DataSimilarity
@@ -30728,6 +30731,9 @@
 [submodule "dynr"]
 	path = dynr
 	url = https://github.com/cran/dynr
+[submodule "dynsbm"]
+	path = dynsbm
+	url = https://github.com/cran/dynsbm
 [submodule "dynsim"]
 	path = dynsim
 	url = https://github.com/cran/dynsim
@@ -55097,6 +55103,9 @@
 [submodule "remulate"]
 	path = remulate
 	url = https://github.com/cran/remulate
+[submodule "rencher"]
+	path = rencher
+	url = https://github.com/cran/rencher
 [submodule "renpow"]
 	path = renpow
 	url = https://github.com/cran/renpow
