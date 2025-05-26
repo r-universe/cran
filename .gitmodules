@@ -4187,6 +4187,9 @@
 [submodule "DTRreg"]
 	path = DTRreg
 	url = https://github.com/cran/DTRreg
+[submodule "DTS"]
+	path = DTS
+	url = https://github.com/cran/DTS
 [submodule "DTSEA"]
 	path = DTSEA
 	url = https://github.com/cran/DTSEA
@@ -29978,6 +29981,9 @@
 [submodule "dlmtree"]
 	path = dlmtree
 	url = https://github.com/cran/dlmtree
+[submodule "dlmwwbe"]
+	path = dlmwwbe
+	url = https://github.com/cran/dlmwwbe
 [submodule "dlnm"]
 	path = dlnm
 	url = https://github.com/cran/dlnm
@@ -63144,6 +63150,9 @@
 [submodule "tdROC"]
 	path = tdROC
 	url = https://github.com/cran/tdROC
+[submodule "tdarec"]
+	path = tdarec
+	url = https://github.com/cran/tdarec
 [submodule "tdata"]
 	path = tdata
 	url = https://github.com/cran/tdata
