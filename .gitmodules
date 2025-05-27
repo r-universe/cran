@@ -5519,6 +5519,9 @@
 [submodule "ExtMallows"]
 	path = ExtMallows
 	url = https://github.com/cran/ExtMallows
+[submodule "ExtendedLaplace"]
+	path = ExtendedLaplace
+	url = https://github.com/cran/ExtendedLaplace
 [submodule "ExtrPatt"]
 	path = ExtrPatt
 	url = https://github.com/cran/ExtrPatt
@@ -11111,6 +11114,9 @@
 [submodule "MultiLCIRT"]
 	path = MultiLCIRT
 	url = https://github.com/cran/MultiLCIRT
+[submodule "MultiLevelOptimalBayes"]
+	path = MultiLevelOptimalBayes
+	url = https://github.com/cran/MultiLevelOptimalBayes
 [submodule "MultiNMix"]
 	path = MultiNMix
 	url = https://github.com/cran/MultiNMix
@@ -11618,6 +11624,9 @@
 [submodule "NeuralSens"]
 	path = NeuralSens
 	url = https://github.com/cran/NeuralSens
+[submodule "NeuroDataSets"]
+	path = NeuroDataSets
+	url = https://github.com/cran/NeuroDataSets
 [submodule "NeuroDecodeR"]
 	path = NeuroDecodeR
 	url = https://github.com/cran/NeuroDecodeR
@@ -21032,6 +21041,9 @@
 [submodule "albopictus"]
 	path = albopictus
 	url = https://github.com/cran/albopictus
+[submodule "alcoholSurv"]
+	path = alcoholSurv
+	url = https://github.com/cran/alcoholSurv
 [submodule "alcyon"]
 	path = alcyon
 	url = https://github.com/cran/alcyon
@@ -29666,6 +29678,9 @@
 [submodule "dipw"]
 	path = dipw
 	url = https://github.com/cran/dipw
+[submodule "dir2json"]
+	path = dir2json
+	url = https://github.com/cran/dir2json
 [submodule "directPA"]
 	path = directPA
 	url = https://github.com/cran/directPA
@@ -45962,6 +45977,9 @@
 [submodule "mosaicModel"]
 	path = mosaicModel
 	url = https://github.com/cran/mosaicModel
+[submodule "mosclust"]
+	path = mosclust
+	url = https://github.com/cran/mosclust
 [submodule "mosqcontrol"]
 	path = mosqcontrol
 	url = https://github.com/cran/mosqcontrol
@@ -53591,6 +53609,9 @@
 [submodule "rFerns"]
 	path = rFerns
 	url = https://github.com/cran/rFerns
+[submodule "rFocal"]
+	path = rFocal
+	url = https://github.com/cran/rFocal
 [submodule "rGV"]
 	path = rGV
 	url = https://github.com/cran/rGV
