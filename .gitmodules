@@ -4703,6 +4703,9 @@
 [submodule "DySS"]
 	path = DySS
 	url = https://github.com/cran/DySS
+[submodule "DyadiCarma"]
+	path = DyadiCarma
+	url = https://github.com/cran/DyadiCarma
 [submodule "Dykstra"]
 	path = Dykstra
 	url = https://github.com/cran/Dykstra
@@ -6329,6 +6332,9 @@
 [submodule "GANPAdata"]
 	path = GANPAdata
 	url = https://github.com/cran/GANPAdata
+[submodule "GAPR"]
+	path = GAPR
+	url = https://github.com/cran/GAPR
 [submodule "GARCHIto"]
 	path = GARCHIto
 	url = https://github.com/cran/GARCHIto
@@ -25532,6 +25538,9 @@
 [submodule "choplump"]
 	path = choplump
 	url = https://github.com/cran/choplump
+[submodule "chopper"]
+	path = chopper
+	url = https://github.com/cran/chopper
 [submodule "chopthin"]
 	path = chopthin
 	url = https://github.com/cran/chopthin
@@ -31115,6 +31124,9 @@
 [submodule "ecorest"]
 	path = ecorest
 	url = https://github.com/cran/ecorest
+[submodule "ecorisk"]
+	path = ecorisk
+	url = https://github.com/cran/ecorisk
 [submodule "ecos"]
 	path = ecos
 	url = https://github.com/cran/ecos
@@ -33578,6 +33590,9 @@
 [submodule "firebehavioR"]
 	path = firebehavioR
 	url = https://github.com/cran/firebehavioR
+[submodule "fireexposuR"]
+	path = fireexposuR
+	url = https://github.com/cran/fireexposuR
 [submodule "first"]
 	path = first
 	url = https://github.com/cran/first
@@ -45077,6 +45092,9 @@
 [submodule "misspi"]
 	path = misspi
 	url = https://github.com/cran/misspi
+[submodule "missr"]
+	path = missr
+	url = https://github.com/cran/missr
 [submodule "mistr"]
 	path = mistr
 	url = https://github.com/cran/mistr
@@ -58814,6 +58832,9 @@
 [submodule "sgolay"]
 	path = sgolay
 	url = https://github.com/cran/sgolay
+[submodule "sgplot"]
+	path = sgplot
+	url = https://github.com/cran/sgplot
 [submodule "sgpv"]
 	path = sgpv
 	url = https://github.com/cran/sgpv
