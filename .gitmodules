@@ -63135,6 +63135,9 @@
 [submodule "taxonomizr"]
 	path = taxonomizr
 	url = https://github.com/cran/taxonomizr
+[submodule "taxotools"]
+	path = taxotools
+	url = https://github.com/cran/taxotools
 [submodule "tayloRswift"]
 	path = tayloRswift
 	url = https://github.com/cran/tayloRswift
@@ -64662,6 +64665,9 @@
 [submodule "tramvs"]
 	path = tramvs
 	url = https://github.com/cran/tramvs
+[submodule "tranSurv"]
+	path = tranSurv
+	url = https://github.com/cran/tranSurv
 [submodule "transDA"]
 	path = transDA
 	url = https://github.com/cran/transDA
