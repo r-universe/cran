@@ -4625,6 +4625,9 @@
 [submodule "DoEstRare"]
 	path = DoEstRare
 	url = https://github.com/cran/DoEstRare
+[submodule "DoLa"]
+	path = DoLa
+	url = https://github.com/cran/DoLa
 [submodule "DockerParallel"]
 	path = DockerParallel
 	url = https://github.com/cran/DockerParallel
@@ -17138,6 +17141,9 @@
 [submodule "SRCS"]
 	path = SRCS
 	url = https://github.com/cran/SRCS
+[submodule "SRMData"]
+	path = SRMData
+	url = https://github.com/cran/SRMData
 [submodule "SRS"]
 	path = SRS
 	url = https://github.com/cran/SRS
@@ -39791,6 +39797,9 @@
 [submodule "infix"]
 	path = infix
 	url = https://github.com/cran/infix
+[submodule "infixit"]
+	path = infixit
+	url = https://github.com/cran/infixit
 [submodule "inflection"]
 	path = inflection
 	url = https://github.com/cran/inflection
