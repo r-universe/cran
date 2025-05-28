@@ -1727,6 +1727,9 @@
 [submodule "BiSEp"]
 	path = BiSEp
 	url = https://github.com/cran/BiSEp
+[submodule "BiTSLS"]
+	path = BiTSLS
+	url = https://github.com/cran/BiTSLS
 [submodule "BiTrinA"]
 	path = BiTrinA
 	url = https://github.com/cran/BiTrinA
@@ -18098,6 +18101,9 @@
 [submodule "SplitSplitPlot"]
 	path = SplitSplitPlot
 	url = https://github.com/cran/SplitSplitPlot
+[submodule "SplitWise"]
+	path = SplitWise
+	url = https://github.com/cran/SplitWise
 [submodule "SportsTour"]
 	path = SportsTour
 	url = https://github.com/cran/SportsTour
@@ -20867,6 +20873,9 @@
 [submodule "agghoo"]
 	path = agghoo
 	url = https://github.com/cran/agghoo
+[submodule "aggreCAT"]
+	path = aggreCAT
+	url = https://github.com/cran/aggreCAT
 [submodule "aggregation"]
 	path = aggregation
 	url = https://github.com/cran/aggregation
@@ -25253,6 +25262,9 @@
 [submodule "cereal"]
 	path = cereal
 	url = https://github.com/cran/cereal
+[submodule "ces"]
+	path = ces
+	url = https://github.com/cran/ces
 [submodule "cesR"]
 	path = cesR
 	url = https://github.com/cran/cesR
@@ -49205,6 +49217,9 @@
 [submodule "outcomerate"]
 	path = outcomerate
 	url = https://github.com/cran/outcomerate
+[submodule "outlierMBC"]
+	path = outlierMBC
+	url = https://github.com/cran/outlierMBC
 [submodule "outlierensembles"]
 	path = outlierensembles
 	url = https://github.com/cran/outlierensembles
