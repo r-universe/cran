@@ -51995,9 +51995,6 @@
 [submodule "predictmeans"]
 	path = predictmeans
 	url = https://github.com/cran/predictmeans
-[submodule "predictoR"]
-	path = predictoR
-	url = https://github.com/cran/predictoR
 [submodule "predictrace"]
 	path = predictrace
 	url = https://github.com/cran/predictrace
@@ -55040,9 +55037,6 @@
 [submodule "regressinator"]
 	path = regressinator
 	url = https://github.com/cran/regressinator
-[submodule "regressoR"]
-	path = regressoR
-	url = https://github.com/cran/regressoR
 [submodule "regrrr"]
 	path = regrrr
 	url = https://github.com/cran/regrrr
