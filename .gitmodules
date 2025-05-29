@@ -18104,6 +18104,9 @@
 [submodule "SplitWise"]
 	path = SplitWise
 	url = https://github.com/cran/SplitWise
+[submodule "SpoMAG"]
+	path = SpoMAG
+	url = https://github.com/cran/SpoMAG
 [submodule "SportsTour"]
 	path = SportsTour
 	url = https://github.com/cran/SportsTour
@@ -18908,6 +18911,9 @@
 [submodule "TVMM"]
 	path = TVMM
 	url = https://github.com/cran/TVMM
+[submodule "TVMVP"]
+	path = TVMVP
+	url = https://github.com/cran/TVMVP
 [submodule "TWW"]
 	path = TWW
 	url = https://github.com/cran/TWW
@@ -36770,6 +36776,9 @@
 [submodule "glmmrOptim"]
 	path = glmmrOptim
 	url = https://github.com/cran/glmmrOptim
+[submodule "glmmsel"]
+	path = glmmsel
+	url = https://github.com/cran/glmmsel
 [submodule "glmnet"]
 	path = glmnet
 	url = https://github.com/cran/glmnet
@@ -54452,6 +54461,9 @@
 [submodule "rcoder"]
 	path = rcoder
 	url = https://github.com/cran/rcoder
+[submodule "rcoins"]
+	path = rcoins
+	url = https://github.com/cran/rcoins
 [submodule "rcollectadhd"]
 	path = rcollectadhd
 	url = https://github.com/cran/rcollectadhd
