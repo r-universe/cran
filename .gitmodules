@@ -16112,6 +16112,9 @@
 [submodule "RobStatTM"]
 	path = RobStatTM
 	url = https://github.com/cran/RobStatTM
+[submodule "RobinCID"]
+	path = RobinCID
+	url = https://github.com/cran/RobinCID
 [submodule "RobinCar"]
 	path = RobinCar
 	url = https://github.com/cran/RobinCar
@@ -24404,6 +24407,9 @@
 [submodule "bundle"]
 	path = bundle
 	url = https://github.com/cran/bundle
+[submodule "bunsen"]
+	path = bunsen
+	url = https://github.com/cran/bunsen
 [submodule "bupaR"]
 	path = bupaR
 	url = https://github.com/cran/bupaR
@@ -26150,6 +26156,9 @@
 [submodule "clustlearn"]
 	path = clustlearn
 	url = https://github.com/cran/clustlearn
+[submodule "clustord"]
+	path = clustord
+	url = https://github.com/cran/clustord
 [submodule "clustra"]
 	path = clustra
 	url = https://github.com/cran/clustra
@@ -45974,6 +45983,9 @@
 [submodule "morse"]
 	path = morse
 	url = https://github.com/cran/morse
+[submodule "morseDR"]
+	path = morseDR
+	url = https://github.com/cran/morseDR
 [submodule "mort"]
 	path = mort
 	url = https://github.com/cran/mort
@@ -59534,6 +59546,9 @@
 [submodule "silp"]
 	path = silp
 	url = https://github.com/cran/silp
+[submodule "silviculture"]
+	path = silviculture
+	url = https://github.com/cran/silviculture
 [submodule "sim.BA"]
 	path = sim.BA
 	url = https://github.com/cran/sim.BA
