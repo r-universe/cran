@@ -302,6 +302,9 @@
 [submodule "APPEstimation"]
 	path = APPEstimation
 	url = https://github.com/cran/APPEstimation
+[submodule "APTIcalc"]
+	path = APTIcalc
+	url = https://github.com/cran/APTIcalc
 [submodule "APackOfTheClones"]
 	path = APackOfTheClones
 	url = https://github.com/cran/APackOfTheClones
@@ -22514,6 +22517,9 @@
 [submodule "baseq"]
 	path = baseq
 	url = https://github.com/cran/baseq
+[submodule "bases"]
+	path = bases
+	url = https://github.com/cran/bases
 [submodule "basetheme"]
 	path = basetheme
 	url = https://github.com/cran/basetheme
@@ -31589,6 +31595,9 @@
 [submodule "emery"]
 	path = emery
 	url = https://github.com/cran/emery
+[submodule "emf"]
+	path = emf
+	url = https://github.com/cran/emf
 [submodule "emg"]
 	path = emg
 	url = https://github.com/cran/emg
@@ -62535,6 +62544,9 @@
 [submodule "surveyPrev"]
 	path = surveyPrev
 	url = https://github.com/cran/surveyPrev
+[submodule "surveySimR"]
+	path = surveySimR
+	url = https://github.com/cran/surveySimR
 [submodule "surveybootstrap"]
 	path = surveybootstrap
 	url = https://github.com/cran/surveybootstrap
@@ -62622,6 +62634,9 @@
 [submodule "survout"]
 	path = survout
 	url = https://github.com/cran/survout
+[submodule "survregVB"]
+	path = survregVB
+	url = https://github.com/cran/survregVB
 [submodule "survsim"]
 	path = survsim
 	url = https://github.com/cran/survsim
