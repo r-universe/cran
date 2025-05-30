@@ -7574,6 +7574,9 @@
 [submodule "HTGM2D"]
 	path = HTGM2D
 	url = https://github.com/cran/HTGM2D
+[submodule "HTGM3D"]
+	path = HTGM3D
+	url = https://github.com/cran/HTGM3D
 [submodule "HTLR"]
 	path = HTLR
 	url = https://github.com/cran/HTLR
@@ -17393,6 +17396,9 @@
 [submodule "SeBR"]
 	path = SeBR
 	url = https://github.com/cran/SeBR
+[submodule "SeaGraphs"]
+	path = SeaGraphs
+	url = https://github.com/cran/SeaGraphs
 [submodule "SeaSondeR"]
 	path = SeaSondeR
 	url = https://github.com/cran/SeaSondeR
@@ -42881,6 +42887,9 @@
 [submodule "loon.tourr"]
 	path = loon.tourr
 	url = https://github.com/cran/loon.tourr
+[submodule "loopevd"]
+	path = loopevd
+	url = https://github.com/cran/loopevd
 [submodule "lorad"]
 	path = lorad
 	url = https://github.com/cran/lorad
@@ -46841,6 +46850,9 @@
 [submodule "mvord"]
 	path = mvord
 	url = https://github.com/cran/mvord
+[submodule "mvout"]
+	path = mvout
+	url = https://github.com/cran/mvout
 [submodule "mvoutlier"]
 	path = mvoutlier
 	url = https://github.com/cran/mvoutlier
@@ -48653,6 +48665,9 @@
 [submodule "onemap"]
 	path = onemap
 	url = https://github.com/cran/onemap
+[submodule "onemapsgapi"]
+	path = onemapsgapi
+	url = https://github.com/cran/onemapsgapi
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/cran/onetime
@@ -52760,6 +52775,9 @@
 [submodule "pulsar"]
 	path = pulsar
 	url = https://github.com/cran/pulsar
+[submodule "pumBayes"]
+	path = pumBayes
+	url = https://github.com/cran/pumBayes
 [submodule "pumilioR"]
 	path = pumilioR
 	url = https://github.com/cran/pumilioR
@@ -65298,6 +65316,9 @@
 [submodule "tv"]
 	path = tv
 	url = https://github.com/cran/tv
+[submodule "tvGarchKF"]
+	path = tvGarchKF
+	url = https://github.com/cran/tvGarchKF
 [submodule "tvR"]
 	path = tvR
 	url = https://github.com/cran/tvR
