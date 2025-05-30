@@ -5777,6 +5777,9 @@
 [submodule "FOCI"]
 	path = FOCI
 	url = https://github.com/cran/FOCI
+[submodule "FORD"]
+	path = FORD
+	url = https://github.com/cran/FORD
 [submodule "FORTLS"]
 	path = FORTLS
 	url = https://github.com/cran/FORTLS
@@ -20774,6 +20777,9 @@
 [submodule "adsDataHubR"]
 	path = adsDataHubR
 	url = https://github.com/cran/adsDataHubR
+[submodule "adsoRptionMCMC"]
+	path = adsoRptionMCMC
+	url = https://github.com/cran/adsoRptionMCMC
 [submodule "adventr"]
 	path = adventr
 	url = https://github.com/cran/adventr
@@ -36881,6 +36887,9 @@
 [submodule "glue"]
 	path = glue
 	url = https://github.com/cran/glue
+[submodule "glueDo"]
+	path = glueDo
+	url = https://github.com/cran/glueDo
 [submodule "gluedown"]
 	path = gluedown
 	url = https://github.com/cran/gluedown
@@ -46730,6 +46739,9 @@
 [submodule "mutossGUI"]
 	path = mutossGUI
 	url = https://github.com/cran/mutossGUI
+[submodule "muttest"]
+	path = muttest
+	url = https://github.com/cran/muttest
 [submodule "mutualinf"]
 	path = mutualinf
 	url = https://github.com/cran/mutualinf
@@ -53939,6 +53951,9 @@
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/cran/ragg
+[submodule "ragnar"]
+	path = ragnar
+	url = https://github.com/cran/ragnar
 [submodule "rags2ridges"]
 	path = rags2ridges
 	url = https://github.com/cran/rags2ridges
@@ -61442,6 +61457,9 @@
 [submodule "squid"]
 	path = squid
 	url = https://github.com/cran/squid
+[submodule "squids"]
+	path = squids
+	url = https://github.com/cran/squids
 [submodule "sr"]
 	path = sr
 	url = https://github.com/cran/sr
@@ -64410,6 +64428,12 @@
 [submodule "tmap.cartogram"]
 	path = tmap.cartogram
 	url = https://github.com/cran/tmap.cartogram
+[submodule "tmap.glyphs"]
+	path = tmap.glyphs
+	url = https://github.com/cran/tmap.glyphs
+[submodule "tmap.networks"]
+	path = tmap.networks
+	url = https://github.com/cran/tmap.networks
 [submodule "tmaptools"]
 	path = tmaptools
 	url = https://github.com/cran/tmaptools
@@ -67470,6 +67494,9 @@
 [submodule "xSub"]
 	path = xSub
 	url = https://github.com/cran/xSub
+[submodule "xVA"]
+	path = xVA
+	url = https://github.com/cran/xVA
 [submodule "xactonomial"]
 	path = xactonomial
 	url = https://github.com/cran/xactonomial
