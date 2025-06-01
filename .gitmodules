@@ -27887,9 +27887,6 @@
 [submodule "crov"]
 	path = crov
 	url = https://github.com/cran/crov
-[submodule "crplyr"]
-	path = crplyr
-	url = https://github.com/cran/crplyr
 [submodule "crqa"]
 	path = crqa
 	url = https://github.com/cran/crqa
@@ -56489,9 +56486,6 @@
 [submodule "ropendata"]
 	path = ropendata
 	url = https://github.com/cran/ropendata
-[submodule "ropenmeteo"]
-	path = ropenmeteo
-	url = https://github.com/cran/ropenmeteo
 [submodule "ropensecretsapi"]
 	path = ropensecretsapi
 	url = https://github.com/cran/ropensecretsapi
@@ -61878,9 +61872,6 @@
 [submodule "steepness"]
 	path = steepness
 	url = https://github.com/cran/steepness
-[submodule "stelfi"]
-	path = stelfi
-	url = https://github.com/cran/stelfi
 [submodule "stellaR"]
 	path = stellaR
 	url = https://github.com/cran/stellaR
