@@ -23543,9 +23543,6 @@
 [submodule "birk"]
 	path = birk
 	url = https://github.com/cran/birk
-[submodule "birp"]
-	path = birp
-	url = https://github.com/cran/birp
 [submodule "birtr"]
 	path = birtr
 	url = https://github.com/cran/birtr
@@ -43124,9 +43121,6 @@
 [submodule "m2r"]
 	path = m2r
 	url = https://github.com/cran/m2r
-[submodule "m5"]
-	path = m5
-	url = https://github.com/cran/m5
 [submodule "m61r"]
 	path = m61r
 	url = https://github.com/cran/m61r
@@ -47240,9 +47234,6 @@
 [submodule "neonstore"]
 	path = neonstore
 	url = https://github.com/cran/neonstore
-[submodule "neotoma2"]
-	path = neotoma2
-	url = https://github.com/cran/neotoma2
 [submodule "nephro"]
 	path = nephro
 	url = https://github.com/cran/nephro
@@ -61797,6 +61788,9 @@
 [submodule "statisfactory"]
 	path = statisfactory
 	url = https://github.com/cran/statisfactory
+[submodule "statlingua"]
+	path = statlingua
+	url = https://github.com/cran/statlingua
 [submodule "statmod"]
 	path = statmod
 	url = https://github.com/cran/statmod
@@ -63114,6 +63108,9 @@
 [submodule "tanaka"]
 	path = tanaka
 	url = https://github.com/cran/tanaka
+[submodule "tangles"]
+	path = tangles
+	url = https://github.com/cran/tangles
 [submodule "tangram"]
 	path = tangram
 	url = https://github.com/cran/tangram
@@ -65868,9 +65865,6 @@
 [submodule "utilsIPEA"]
 	path = utilsIPEA
 	url = https://github.com/cran/utilsIPEA
-[submodule "utiml"]
-	path = utiml
-	url = https://github.com/cran/utiml
 [submodule "utsf"]
 	path = utsf
 	url = https://github.com/cran/utsf
