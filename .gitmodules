@@ -8102,6 +8102,9 @@
 [submodule "INLAspacetime"]
 	path = INLAspacetime
 	url = https://github.com/cran/INLAspacetime
+[submodule "INLAtools"]
+	path = INLAtools
+	url = https://github.com/cran/INLAtools
 [submodule "INQC"]
 	path = INQC
 	url = https://github.com/cran/INQC
