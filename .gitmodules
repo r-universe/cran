@@ -55844,6 +55844,9 @@
 [submodule "riskclustr"]
 	path = riskclustr
 	url = https://github.com/cran/riskclustr
+[submodule "riskdiff"]
+	path = riskdiff
+	url = https://github.com/cran/riskdiff
 [submodule "riskmetric"]
 	path = riskmetric
 	url = https://github.com/cran/riskmetric
