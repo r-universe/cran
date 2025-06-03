@@ -3830,6 +3830,9 @@
 [submodule "DEploid.utils"]
 	path = DEploid.utils
 	url = https://github.com/cran/DEploid.utils
+[submodule "DEplotting"]
+	path = DEplotting
+	url = https://github.com/cran/DEplotting
 [submodule "DFA"]
 	path = DFA
 	url = https://github.com/cran/DFA
@@ -11558,6 +11561,9 @@
 [submodule "NetFACS"]
 	path = NetFACS
 	url = https://github.com/cran/NetFACS
+[submodule "NetGreg"]
+	path = NetGreg
+	url = https://github.com/cran/NetGreg
 [submodule "NetIndices"]
 	path = NetIndices
 	url = https://github.com/cran/NetIndices
@@ -41147,6 +41153,9 @@
 [submodule "keyToEnglish"]
 	path = keyToEnglish
 	url = https://github.com/cran/keyToEnglish
+[submodule "keyclust"]
+	path = keyclust
+	url = https://github.com/cran/keyclust
 [submodule "keyholder"]
 	path = keyholder
 	url = https://github.com/cran/keyholder
@@ -60830,6 +60839,9 @@
 [submodule "sparseinv"]
 	path = sparseinv
 	url = https://github.com/cran/sparseinv
+[submodule "sparselink"]
+	path = sparselink
+	url = https://github.com/cran/sparselink
 [submodule "sparsenet"]
 	path = sparsenet
 	url = https://github.com/cran/sparsenet
