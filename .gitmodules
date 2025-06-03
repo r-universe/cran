@@ -4523,6 +4523,9 @@
 [submodule "DiffXTables"]
 	path = DiffXTables
 	url = https://github.com/cran/DiffXTables
+[submodule "DigestiveDataSets"]
+	path = DigestiveDataSets
+	url = https://github.com/cran/DigestiveDataSets
 [submodule "DirStats"]
 	path = DirStats
 	url = https://github.com/cran/DirStats
@@ -13562,6 +13565,9 @@
 [submodule "Publish"]
 	path = Publish
 	url = https://github.com/cran/Publish
+[submodule "PulmoDataSets"]
+	path = PulmoDataSets
+	url = https://github.com/cran/PulmoDataSets
 [submodule "PupilPre"]
 	path = PupilPre
 	url = https://github.com/cran/PupilPre
@@ -20762,6 +20768,9 @@
 [submodule "adsDataHubR"]
 	path = adsDataHubR
 	url = https://github.com/cran/adsDataHubR
+[submodule "adsoRptionCV"]
+	path = adsoRptionCV
+	url = https://github.com/cran/adsoRptionCV
 [submodule "adsoRptionMCMC"]
 	path = adsoRptionMCMC
 	url = https://github.com/cran/adsoRptionMCMC
@@ -53423,6 +53432,9 @@
 [submodule "quickpsy"]
 	path = quickpsy
 	url = https://github.com/cran/quickpsy
+[submodule "quickr"]
+	path = quickr
+	url = https://github.com/cran/quickr
 [submodule "quickregression"]
 	path = quickregression
 	url = https://github.com/cran/quickregression
