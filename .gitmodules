@@ -15614,9 +15614,6 @@
 [submodule "RcppZiggurat"]
 	path = RcppZiggurat
 	url = https://github.com/cran/RcppZiggurat
-[submodule "Rcrawler"]
-	path = Rcrawler
-	url = https://github.com/cran/Rcrawler
 [submodule "Rcriticor"]
 	path = Rcriticor
 	url = https://github.com/cran/Rcriticor
@@ -18086,9 +18083,6 @@
 [submodule "SplitReg"]
 	path = SplitReg
 	url = https://github.com/cran/SplitReg
-[submodule "SplitSoftening"]
-	path = SplitSoftening
-	url = https://github.com/cran/SplitSoftening
 [submodule "SplitSplitPlot"]
 	path = SplitSplitPlot
 	url = https://github.com/cran/SplitSplitPlot
@@ -37877,9 +37871,6 @@
 [submodule "hackeRnews"]
 	path = hackeRnews
 	url = https://github.com/cran/hackeRnews
-[submodule "hacksaw"]
-	path = hacksaw
-	url = https://github.com/cran/hacksaw
 [submodule "hacksig"]
 	path = hacksig
 	url = https://github.com/cran/hacksig
