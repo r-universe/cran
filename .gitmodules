@@ -14630,6 +14630,9 @@
 [submodule "ROCR"]
 	path = ROCR
 	url = https://github.com/cran/ROCR
+[submodule "ROCS"]
+	path = ROCS
+	url = https://github.com/cran/ROCS
 [submodule "ROCSI"]
 	path = ROCSI
 	url = https://github.com/cran/ROCSI
@@ -21926,6 +21929,9 @@
 [submodule "aster2"]
 	path = aster2
 	url = https://github.com/cran/aster2
+[submodule "astgrepr"]
+	path = astgrepr
+	url = https://github.com/cran/astgrepr
 [submodule "astroFns"]
 	path = astroFns
 	url = https://github.com/cran/astroFns
@@ -35177,6 +35183,9 @@
 [submodule "gcerisk"]
 	path = gcerisk
 	url = https://github.com/cran/gcerisk
+[submodule "gchartsmap"]
+	path = gchartsmap
+	url = https://github.com/cran/gchartsmap
 [submodule "gcite"]
 	path = gcite
 	url = https://github.com/cran/gcite
@@ -36848,6 +36857,9 @@
 [submodule "glogis"]
 	path = glogis
 	url = https://github.com/cran/glogis
+[submodule "glorenz"]
+	path = glorenz
+	url = https://github.com/cran/glorenz
 [submodule "glossa"]
 	path = glossa
 	url = https://github.com/cran/glossa
@@ -47621,6 +47633,9 @@
 [submodule "nipnTK"]
 	path = nipnTK
 	url = https://github.com/cran/nipnTK
+[submodule "nisrarr"]
+	path = nisrarr
+	url = https://github.com/cran/nisrarr
 [submodule "nivm"]
 	path = nivm
 	url = https://github.com/cran/nivm
@@ -56096,6 +56111,9 @@
 [submodule "rmgarch"]
 	path = rmgarch
 	url = https://github.com/cran/rmgarch
+[submodule "rminer"]
+	path = rminer
+	url = https://github.com/cran/rminer
 [submodule "rminizinc"]
 	path = rminizinc
 	url = https://github.com/cran/rminizinc
@@ -63156,6 +63174,9 @@
 [submodule "tarchetypes"]
 	path = tarchetypes
 	url = https://github.com/cran/tarchetypes
+[submodule "tarchives"]
+	path = tarchives
+	url = https://github.com/cran/tarchives
 [submodule "tardis"]
 	path = tardis
 	url = https://github.com/cran/tardis
@@ -65730,6 +65751,9 @@
 [submodule "unvotes"]
 	path = unvotes
 	url = https://github.com/cran/unvotes
+[submodule "unvs.med"]
+	path = unvs.med
+	url = https://github.com/cran/unvs.med
 [submodule "uotm"]
 	path = uotm
 	url = https://github.com/cran/uotm
