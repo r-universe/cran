@@ -25970,6 +25970,9 @@
 [submodule "clinfun"]
 	path = clinfun
 	url = https://github.com/cran/clinfun
+[submodule "clinical"]
+	path = clinical
+	url = https://github.com/cran/clinical
 [submodule "clinicalomicsdbR"]
 	path = clinicalomicsdbR
 	url = https://github.com/cran/clinicalomicsdbR
@@ -46004,6 +46007,9 @@
 [submodule "morseDR"]
 	path = morseDR
 	url = https://github.com/cran/morseDR
+[submodule "morseTKTD"]
+	path = morseTKTD
+	url = https://github.com/cran/morseTKTD
 [submodule "mort"]
 	path = mort
 	url = https://github.com/cran/mort
@@ -47033,6 +47039,9 @@
 [submodule "naryn"]
 	path = naryn
 	url = https://github.com/cran/naryn
+[submodule "nasa"]
+	path = nasa
+	url = https://github.com/cran/nasa
 [submodule "nasadata"]
 	path = nasadata
 	url = https://github.com/cran/nasadata
@@ -65775,6 +65784,9 @@
 [submodule "upndown"]
 	path = upndown
 	url = https://github.com/cran/upndown
+[submodule "upset.hp"]
+	path = upset.hp
+	url = https://github.com/cran/upset.hp
 [submodule "upsetjs"]
 	path = upsetjs
 	url = https://github.com/cran/upsetjs
