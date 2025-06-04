@@ -39053,6 +39053,9 @@
 [submodule "i2extras"]
 	path = i2extras
 	url = https://github.com/cran/i2extras
+[submodule "i3pack"]
+	path = i3pack
+	url = https://github.com/cran/i3pack
 [submodule "iAR"]
 	path = iAR
 	url = https://github.com/cran/iAR
