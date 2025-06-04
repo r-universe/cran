@@ -56096,9 +56096,6 @@
 [submodule "rmgarch"]
 	path = rmgarch
 	url = https://github.com/cran/rmgarch
-[submodule "rminer"]
-	path = rminer
-	url = https://github.com/cran/rminer
 [submodule "rminizinc"]
 	path = rminizinc
 	url = https://github.com/cran/rminizinc
