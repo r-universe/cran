@@ -40847,6 +40847,9 @@
 [submodule "jpgrid"]
 	path = jpgrid
 	url = https://github.com/cran/jpgrid
+[submodule "jpinfect"]
+	path = jpinfect
+	url = https://github.com/cran/jpinfect
 [submodule "jpmesh"]
 	path = jpmesh
 	url = https://github.com/cran/jpmesh
@@ -52331,6 +52334,9 @@
 [submodule "profile"]
 	path = profile
 	url = https://github.com/cran/profile
+[submodule "profileCI"]
+	path = profileCI
+	url = https://github.com/cran/profileCI
 [submodule "profileModel"]
 	path = profileModel
 	url = https://github.com/cran/profileModel
