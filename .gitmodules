@@ -782,6 +782,9 @@
 [submodule "AtmChile"]
 	path = AtmChile
 	url = https://github.com/cran/AtmChile
+[submodule "AudioScatter"]
+	path = AudioScatter
+	url = https://github.com/cran/AudioScatter
 [submodule "AurieLSHGaussian"]
 	path = AurieLSHGaussian
 	url = https://github.com/cran/AurieLSHGaussian
@@ -23870,6 +23873,9 @@
 [submodule "bonsaiforest"]
 	path = bonsaiforest
 	url = https://github.com/cran/bonsaiforest
+[submodule "boodd"]
+	path = boodd
+	url = https://github.com/cran/boodd
 [submodule "boodist"]
 	path = boodist
 	url = https://github.com/cran/boodist
@@ -24308,6 +24314,9 @@
 [submodule "bsreg"]
 	path = bsreg
 	url = https://github.com/cran/bsreg
+[submodule "bssbinom"]
+	path = bssbinom
+	url = https://github.com/cran/bssbinom
 [submodule "bssm"]
 	path = bssm
 	url = https://github.com/cran/bssm
@@ -24989,6 +24998,9 @@
 [submodule "causalweight"]
 	path = causalweight
 	url = https://github.com/cran/causalweight
+[submodule "causens"]
+	path = causens
+	url = https://github.com/cran/causens
 [submodule "caviarpd"]
 	path = caviarpd
 	url = https://github.com/cran/caviarpd
@@ -31025,6 +31037,9 @@
 [submodule "ebdbNet"]
 	path = ebdbNet
 	url = https://github.com/cran/ebdbNet
+[submodule "ebdm"]
+	path = ebdm
+	url = https://github.com/cran/ebdm
 [submodule "ebirdst"]
 	path = ebirdst
 	url = https://github.com/cran/ebirdst
@@ -46463,6 +46478,9 @@
 [submodule "multiColl"]
 	path = multiColl
 	url = https://github.com/cran/multiColl
+[submodule "multiDEGGs"]
+	path = multiDEGGs
+	url = https://github.com/cran/multiDEGGs
 [submodule "multiDimBio"]
 	path = multiDimBio
 	url = https://github.com/cran/multiDimBio
@@ -58751,6 +58769,9 @@
 [submodule "sequenceR"]
 	path = sequenceR
 	url = https://github.com/cran/sequenceR
+[submodule "sequential.pops"]
+	path = sequential.pops
+	url = https://github.com/cran/sequential.pops
 [submodule "sequoia"]
 	path = sequoia
 	url = https://github.com/cran/sequoia
