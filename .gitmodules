@@ -12533,6 +12533,9 @@
 [submodule "PNAR"]
 	path = PNAR
 	url = https://github.com/cran/PNAR
+[submodule "PND.heter.cluster"]
+	path = PND.heter.cluster
+	url = https://github.com/cran/PND.heter.cluster
 [submodule "PNDSIBGE"]
 	path = PNDSIBGE
 	url = https://github.com/cran/PNDSIBGE
@@ -20750,6 +20753,9 @@
 [submodule "adsDataHubR"]
 	path = adsDataHubR
 	url = https://github.com/cran/adsDataHubR
+[submodule "adsoRptionCMF"]
+	path = adsoRptionCMF
+	url = https://github.com/cran/adsoRptionCMF
 [submodule "adsoRptionCV"]
 	path = adsoRptionCV
 	url = https://github.com/cran/adsoRptionCV
@@ -23078,6 +23084,9 @@
 [submodule "bfast"]
 	path = bfast
 	url = https://github.com/cran/bfast
+[submodule "bfboin"]
+	path = bfboin
+	url = https://github.com/cran/bfboin
 [submodule "bfboinet"]
 	path = bfboinet
 	url = https://github.com/cran/bfboinet
@@ -46706,6 +46715,9 @@
 [submodule "music"]
 	path = music
 	url = https://github.com/cran/music
+[submodule "musicMCT"]
+	path = musicMCT
+	url = https://github.com/cran/musicMCT
 [submodule "musicNMR"]
 	path = musicNMR
 	url = https://github.com/cran/musicNMR
