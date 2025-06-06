@@ -29732,6 +29732,9 @@
 [submodule "dirmult"]
 	path = dirmult
 	url = https://github.com/cran/dirmult
+[submodule "dirttee"]
+	path = dirttee
+	url = https://github.com/cran/dirttee
 [submodule "disagg2"]
 	path = disagg2
 	url = https://github.com/cran/disagg2
