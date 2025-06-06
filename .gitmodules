@@ -3503,6 +3503,9 @@
 [submodule "CovCombR"]
 	path = CovCombR
 	url = https://github.com/cran/CovCombR
+[submodule "CovCorTest"]
+	path = CovCorTest
+	url = https://github.com/cran/CovCorTest
 [submodule "CovSel"]
 	path = CovSel
 	url = https://github.com/cran/CovSel
@@ -26774,6 +26777,9 @@
 [submodule "compareC"]
 	path = compareC
 	url = https://github.com/cran/compareC
+[submodule "compareCstat"]
+	path = compareCstat
+	url = https://github.com/cran/compareCstat
 [submodule "compareDF"]
 	path = compareDF
 	url = https://github.com/cran/compareDF
@@ -42209,6 +42215,9 @@
 [submodule "libimath"]
 	path = libimath
 	url = https://github.com/cran/libimath
+[submodule "libopenexr"]
+	path = libopenexr
+	url = https://github.com/cran/libopenexr
 [submodule "libr"]
 	path = libr
 	url = https://github.com/cran/libr
