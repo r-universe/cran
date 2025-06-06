@@ -29732,9 +29732,6 @@
 [submodule "dirmult"]
 	path = dirmult
 	url = https://github.com/cran/dirmult
-[submodule "dirttee"]
-	path = dirttee
-	url = https://github.com/cran/dirttee
 [submodule "disagg2"]
 	path = disagg2
 	url = https://github.com/cran/disagg2
@@ -32483,9 +32480,6 @@
 [submodule "expandFunctions"]
 	path = expandFunctions
 	url = https://github.com/cran/expandFunctions
-[submodule "expectreg"]
-	path = expectreg
-	url = https://github.com/cran/expectreg
 [submodule "experDesign"]
 	path = experDesign
 	url = https://github.com/cran/experDesign
