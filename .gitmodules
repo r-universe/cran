@@ -32483,6 +32483,9 @@
 [submodule "expandFunctions"]
 	path = expandFunctions
 	url = https://github.com/cran/expandFunctions
+[submodule "expectreg"]
+	path = expectreg
+	url = https://github.com/cran/expectreg
 [submodule "experDesign"]
 	path = experDesign
 	url = https://github.com/cran/experDesign
