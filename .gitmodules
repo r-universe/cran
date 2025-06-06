@@ -557,6 +557,9 @@
 [submodule "AhoCorasickTrie"]
 	path = AhoCorasickTrie
 	url = https://github.com/cran/AhoCorasickTrie
+[submodule "AiES"]
+	path = AiES
+	url = https://github.com/cran/AiES
 [submodule "AirExposure"]
 	path = AirExposure
 	url = https://github.com/cran/AirExposure
@@ -2147,6 +2150,9 @@
 [submodule "CBAModel"]
 	path = CBAModel
 	url = https://github.com/cran/CBAModel
+[submodule "CBASSED50"]
+	path = CBASSED50
+	url = https://github.com/cran/CBASSED50
 [submodule "CBCgrps"]
 	path = CBCgrps
 	url = https://github.com/cran/CBCgrps
@@ -10232,6 +10238,9 @@
 [submodule "MR.RGM"]
 	path = MR.RGM
 	url = https://github.com/cran/MR.RGM
+[submodule "MRAM"]
+	path = MRAM
+	url = https://github.com/cran/MRAM
 [submodule "MRCE"]
 	path = MRCE
 	url = https://github.com/cran/MRCE
@@ -14489,6 +14498,9 @@
 [submodule "RMCC"]
 	path = RMCC
 	url = https://github.com/cran/RMCC
+[submodule "RMCDA"]
+	path = RMCDA
+	url = https://github.com/cran/RMCDA
 [submodule "RMFM"]
 	path = RMFM
 	url = https://github.com/cran/RMFM
@@ -15638,6 +15650,9 @@
 [submodule "Rd2roxygen"]
 	path = Rd2roxygen
 	url = https://github.com/cran/Rd2roxygen
+[submodule "Rdatasets"]
+	path = Rdatasets
+	url = https://github.com/cran/Rdatasets
 [submodule "Rdiagnosislist"]
 	path = Rdiagnosislist
 	url = https://github.com/cran/Rdiagnosislist
@@ -17402,6 +17417,9 @@
 [submodule "SearchTrees"]
 	path = SearchTrees
 	url = https://github.com/cran/SearchTrees
+[submodule "SeasEpi"]
+	path = SeasEpi
+	url = https://github.com/cran/SeasEpi
 [submodule "SecretsProvider"]
 	path = SecretsProvider
 	url = https://github.com/cran/SecretsProvider
@@ -19775,6 +19793,9 @@
 [submodule "VizTest"]
 	path = VizTest
 	url = https://github.com/cran/VizTest
+[submodule "VoronoiBiomedPlot"]
+	path = VoronoiBiomedPlot
+	url = https://github.com/cran/VoronoiBiomedPlot
 [submodule "VorteksExport"]
 	path = VorteksExport
 	url = https://github.com/cran/VorteksExport
@@ -20891,6 +20912,9 @@
 [submodule "agop"]
 	path = agop
 	url = https://github.com/cran/agop
+[submodule "agpower"]
+	path = agpower
+	url = https://github.com/cran/agpower
 [submodule "agriTutorial"]
 	path = agriTutorial
 	url = https://github.com/cran/agriTutorial
@@ -24926,6 +24950,9 @@
 [submodule "catmaply"]
 	path = catmaply
 	url = https://github.com/cran/catmaply
+[submodule "catool"]
+	path = catool
+	url = https://github.com/cran/catool
 [submodule "catregs"]
 	path = catregs
 	url = https://github.com/cran/catregs
@@ -29792,6 +29819,9 @@
 [submodule "discoverableresearch"]
 	path = discoverableresearch
 	url = https://github.com/cran/discoverableresearch
+[submodule "discovr"]
+	path = discovr
+	url = https://github.com/cran/discovr
 [submodule "discretefit"]
 	path = discretefit
 	url = https://github.com/cran/discretefit
@@ -48359,6 +48389,9 @@
 [submodule "o2geosocial"]
 	path = o2geosocial
 	url = https://github.com/cran/o2geosocial
+[submodule "o2ools"]
+	path = o2ools
+	url = https://github.com/cran/o2ools
 [submodule "o2plsda"]
 	path = o2plsda
 	url = https://github.com/cran/o2plsda
@@ -55820,6 +55853,9 @@
 [submodule "rifreg"]
 	path = rifreg
 	url = https://github.com/cran/rifreg
+[submodule "rifttable"]
+	path = rifttable
+	url = https://github.com/cran/rifttable
 [submodule "rigr"]
 	path = rigr
 	url = https://github.com/cran/rigr
@@ -65472,6 +65508,9 @@
 [submodule "twosigma"]
 	path = twosigma
 	url = https://github.com/cran/twosigma
+[submodule "twotrials"]
+	path = twotrials
+	url = https://github.com/cran/twotrials
 [submodule "twoway"]
 	path = twoway
 	url = https://github.com/cran/twoway
