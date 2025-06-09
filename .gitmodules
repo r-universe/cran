@@ -20351,6 +20351,9 @@
 [submodule "abms"]
 	path = abms
 	url = https://github.com/cran/abms
+[submodule "abn"]
+	path = abn
+	url = https://github.com/cran/abn
 [submodule "abnormality"]
 	path = abnormality
 	url = https://github.com/cran/abnormality
@@ -66645,6 +66648,9 @@
 [submodule "vote"]
 	path = vote
 	url = https://github.com/cran/vote
+[submodule "voteSim"]
+	path = voteSim
+	url = https://github.com/cran/voteSim
 [submodule "voteogram"]
 	path = voteogram
 	url = https://github.com/cran/voteogram
