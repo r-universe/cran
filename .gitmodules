@@ -11456,6 +11456,9 @@
 [submodule "NPIstats"]
 	path = NPIstats
 	url = https://github.com/cran/NPIstats
+[submodule "NPLStoolbox"]
+	path = NPLStoolbox
+	url = https://github.com/cran/NPLStoolbox
 [submodule "NPMLEcmprsk"]
 	path = NPMLEcmprsk
 	url = https://github.com/cran/NPMLEcmprsk
@@ -41432,6 +41435,9 @@
 [submodule "knnwtsim"]
 	path = knnwtsim
 	url = https://github.com/cran/knnwtsim
+[submodule "knobi"]
+	path = knobi
+	url = https://github.com/cran/knobi
 [submodule "knockoff"]
 	path = knockoff
 	url = https://github.com/cran/knockoff
