@@ -8876,6 +8876,9 @@
 [submodule "L0Learn"]
 	path = L0Learn
 	url = https://github.com/cran/L0Learn
+[submodule "L0TFinv"]
+	path = L0TFinv
+	url = https://github.com/cran/L0TFinv
 [submodule "L1centrality"]
 	path = L1centrality
 	url = https://github.com/cran/L1centrality
@@ -18452,6 +18455,9 @@
 [submodule "SurvivalTests"]
 	path = SurvivalTests
 	url = https://github.com/cran/SurvivalTests
+[submodule "SveltePlots"]
+	path = SveltePlots
+	url = https://github.com/cran/SveltePlots
 [submodule "SvyNom"]
 	path = SvyNom
 	url = https://github.com/cran/SvyNom
@@ -18908,6 +18914,9 @@
 [submodule "TUFLOWR"]
 	path = TUFLOWR
 	url = https://github.com/cran/TUFLOWR
+[submodule "TUGLab"]
+	path = TUGLab
+	url = https://github.com/cran/TUGLab
 [submodule "TULIP"]
 	path = TULIP
 	url = https://github.com/cran/TULIP
@@ -22787,6 +22796,9 @@
 [submodule "baymedr"]
 	path = baymedr
 	url = https://github.com/cran/baymedr
+[submodule "bayou"]
+	path = bayou
+	url = https://github.com/cran/bayou
 [submodule "baystability"]
 	path = baystability
 	url = https://github.com/cran/baystability
@@ -33914,6 +33926,9 @@
 [submodule "flextable"]
 	path = flextable
 	url = https://github.com/cran/flextable
+[submodule "flexurba"]
+	path = flexurba
+	url = https://github.com/cran/flexurba
 [submodule "flifo"]
 	path = flifo
 	url = https://github.com/cran/flifo
@@ -36515,6 +36530,9 @@
 [submodule "ggtikz"]
 	path = ggtikz
 	url = https://github.com/cran/ggtikz
+[submodule "ggtime"]
+	path = ggtime
+	url = https://github.com/cran/ggtime
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/cran/ggtrace
@@ -62619,6 +62637,9 @@
 [submodule "survexp.fr"]
 	path = survexp.fr
 	url = https://github.com/cran/survexp.fr
+[submodule "survextrap"]
+	path = survextrap
+	url = https://github.com/cran/survextrap
 [submodule "survey"]
 	path = survey
 	url = https://github.com/cran/survey
