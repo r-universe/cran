@@ -42338,6 +42338,9 @@
 [submodule "lillies"]
 	path = lillies
 	url = https://github.com/cran/lillies
+[submodule "limSolve"]
+	path = limSolve
+	url = https://github.com/cran/limSolve
 [submodule "lime"]
 	path = lime
 	url = https://github.com/cran/lime
