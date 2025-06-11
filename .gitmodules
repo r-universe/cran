@@ -21218,6 +21218,9 @@
 [submodule "altdoc"]
 	path = altdoc
 	url = https://github.com/cran/altdoc
+[submodule "alternativeROC"]
+	path = alternativeROC
+	url = https://github.com/cran/alternativeROC
 [submodule "altfuelr"]
 	path = altfuelr
 	url = https://github.com/cran/altfuelr
@@ -32750,6 +32753,9 @@
 [submodule "fDMA"]
 	path = fDMA
 	url = https://github.com/cran/fDMA
+[submodule "fEGarch"]
+	path = fEGarch
+	url = https://github.com/cran/fEGarch
 [submodule "fExtremes"]
 	path = fExtremes
 	url = https://github.com/cran/fExtremes
@@ -36887,6 +36893,9 @@
 [submodule "glmxdiag"]
 	path = glmxdiag
 	url = https://github.com/cran/glmxdiag
+[submodule "gloBFPr"]
+	path = gloBFPr
+	url = https://github.com/cran/gloBFPr
 [submodule "globalKinhom"]
 	path = globalKinhom
 	url = https://github.com/cran/globalKinhom
@@ -38057,6 +38066,9 @@
 [submodule "hashr"]
 	path = hashr
 	url = https://github.com/cran/hashr
+[submodule "hassediagrams"]
+	path = hassediagrams
+	url = https://github.com/cran/hassediagrams
 [submodule "hatchR"]
 	path = hatchR
 	url = https://github.com/cran/hatchR
@@ -47621,6 +47633,9 @@
 [submodule "nhlapi"]
 	path = nhlapi
 	url = https://github.com/cran/nhlapi
+[submodule "nhlscraper"]
+	path = nhlscraper
+	url = https://github.com/cran/nhlscraper
 [submodule "nhm"]
 	path = nhm
 	url = https://github.com/cran/nhm
@@ -64170,6 +64185,9 @@
 [submodule "tidyrgee"]
 	path = tidyrgee
 	url = https://github.com/cran/tidyrgee
+[submodule "tidyrstats"]
+	path = tidyrstats
+	url = https://github.com/cran/tidyrstats
 [submodule "tidyrules"]
 	path = tidyrules
 	url = https://github.com/cran/tidyrules
