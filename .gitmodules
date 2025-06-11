@@ -22463,6 +22463,9 @@
 [submodule "bannerCommenter"]
 	path = bannerCommenter
 	url = https://github.com/cran/bannerCommenter
+[submodule "banter"]
+	path = banter
+	url = https://github.com/cran/banter
 [submodule "banxicoR"]
 	path = banxicoR
 	url = https://github.com/cran/banxicoR
