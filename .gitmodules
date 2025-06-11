@@ -12248,6 +12248,9 @@
 [submodule "PAsso"]
 	path = PAsso
 	url = https://github.com/cran/PAsso
+[submodule "PAutilities"]
+	path = PAutilities
+	url = https://github.com/cran/PAutilities
 [submodule "PBD"]
 	path = PBD
 	url = https://github.com/cran/PBD
@@ -42335,9 +42338,6 @@
 [submodule "lillies"]
 	path = lillies
 	url = https://github.com/cran/lillies
-[submodule "limSolve"]
-	path = limSolve
-	url = https://github.com/cran/limSolve
 [submodule "lime"]
 	path = lime
 	url = https://github.com/cran/lime
@@ -67236,6 +67236,9 @@
 [submodule "widals"]
 	path = widals
 	url = https://github.com/cran/widals
+[submodule "wideRhino"]
+	path = wideRhino
+	url = https://github.com/cran/wideRhino
 [submodule "widgetframe"]
 	path = widgetframe
 	url = https://github.com/cran/widgetframe
