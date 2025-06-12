@@ -26009,6 +26009,9 @@
 [submodule "climextRemes"]
 	path = climextRemes
 	url = https://github.com/cran/climextRemes
+[submodule "climodr"]
+	path = climodr
+	url = https://github.com/cran/climodr
 [submodule "climwin"]
 	path = climwin
 	url = https://github.com/cran/climwin
@@ -61031,6 +61034,9 @@
 [submodule "spatialTIME"]
 	path = spatialTIME
 	url = https://github.com/cran/spatialTIME
+[submodule "spatialfusion"]
+	path = spatialfusion
+	url = https://github.com/cran/spatialfusion
 [submodule "spatialising"]
 	path = spatialising
 	url = https://github.com/cran/spatialising
@@ -61707,6 +61713,9 @@
 [submodule "sstvars"]
 	path = sstvars
 	url = https://github.com/cran/sstvars
+[submodule "ssutil"]
+	path = ssutil
+	url = https://github.com/cran/ssutil
 [submodule "ssw"]
 	path = ssw
 	url = https://github.com/cran/ssw
@@ -64212,6 +64221,9 @@
 [submodule "tidysmd"]
 	path = tidysmd
 	url = https://github.com/cran/tidysmd
+[submodule "tidyspec"]
+	path = tidyspec
+	url = https://github.com/cran/tidyspec
 [submodule "tidysq"]
 	path = tidysq
 	url = https://github.com/cran/tidysq
