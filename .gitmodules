@@ -39701,6 +39701,9 @@
 [submodule "immundata"]
 	path = immundata
 	url = https://github.com/cran/immundata
+[submodule "immuneSIM"]
+	path = immuneSIM
+	url = https://github.com/cran/immuneSIM
 [submodule "immunogenetr"]
 	path = immunogenetr
 	url = https://github.com/cran/immunogenetr
@@ -40094,6 +40097,9 @@
 [submodule "interflex"]
 	path = interflex
 	url = https://github.com/cran/interflex
+[submodule "interfr"]
+	path = interfr
+	url = https://github.com/cran/interfr
 [submodule "intergraph"]
 	path = intergraph
 	url = https://github.com/cran/intergraph
@@ -47159,6 +47165,9 @@
 [submodule "natserv"]
 	path = natserv
 	url = https://github.com/cran/natserv
+[submodule "natstrat"]
+	path = natstrat
+	url = https://github.com/cran/natstrat
 [submodule "naturaList"]
 	path = naturaList
 	url = https://github.com/cran/naturaList
