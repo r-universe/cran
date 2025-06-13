@@ -65481,6 +65481,9 @@
 [submodule "tvcure"]
 	path = tvcure
 	url = https://github.com/cran/tvcure
+[submodule "tvdenoising"]
+	path = tvdenoising
+	url = https://github.com/cran/tvdenoising
 [submodule "tvem"]
 	path = tvem
 	url = https://github.com/cran/tvem
