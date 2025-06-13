@@ -23237,6 +23237,9 @@
 [submodule "bidsr"]
 	path = bidsr
 	url = https://github.com/cran/bidsr
+[submodule "bidux"]
+	path = bidux
+	url = https://github.com/cran/bidux
 [submodule "bife"]
 	path = bife
 	url = https://github.com/cran/bife
@@ -26741,6 +26744,9 @@
 [submodule "combat.enigma"]
 	path = combat.enigma
 	url = https://github.com/cran/combat.enigma
+[submodule "combcoint"]
+	path = combcoint
+	url = https://github.com/cran/combcoint
 [submodule "combinIT"]
 	path = combinIT
 	url = https://github.com/cran/combinIT
@@ -28931,6 +28937,9 @@
 [submodule "dccpp"]
 	path = dccpp
 	url = https://github.com/cran/dccpp
+[submodule "dci"]
+	path = dci
+	url = https://github.com/cran/dci
 [submodule "dcifer"]
 	path = dcifer
 	url = https://github.com/cran/dcifer
@@ -35093,6 +35102,9 @@
 [submodule "gamma"]
 	path = gamma
 	url = https://github.com/cran/gamma
+[submodule "gammaFuncModel"]
+	path = gammaFuncModel
+	url = https://github.com/cran/gammaFuncModel
 [submodule "gammi"]
 	path = gammi
 	url = https://github.com/cran/gammi
@@ -56543,6 +56555,9 @@
 [submodule "roccv"]
 	path = roccv
 	url = https://github.com/cran/roccv
+[submodule "rock"]
+	path = rock
+	url = https://github.com/cran/rock
 [submodule "rockchalk"]
 	path = rockchalk
 	url = https://github.com/cran/rockchalk
@@ -62508,6 +62523,9 @@
 [submodule "summclust"]
 	path = summclust
 	url = https://github.com/cran/summclust
+[submodule "sumvar"]
+	path = sumvar
+	url = https://github.com/cran/sumvar
 [submodule "sunburstR"]
 	path = sunburstR
 	url = https://github.com/cran/sunburstR
