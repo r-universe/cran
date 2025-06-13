@@ -12335,6 +12335,9 @@
 [submodule "PCRA"]
 	path = PCRA
 	url = https://github.com/cran/PCRA
+[submodule "PCRedux"]
+	path = PCRedux
+	url = https://github.com/cran/PCRedux
 [submodule "PCS"]
 	path = PCS
 	url = https://github.com/cran/PCS
@@ -23744,6 +23747,9 @@
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cran/blockcluster
+[submodule "blocking"]
+	path = blocking
+	url = https://github.com/cran/blocking
 [submodule "blocklength"]
 	path = blocklength
 	url = https://github.com/cran/blocklength
@@ -51584,6 +51590,9 @@
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/cran/polaroid
+[submodule "polarzonoid"]
+	path = polarzonoid
+	url = https://github.com/cran/polarzonoid
 [submodule "poldis"]
 	path = poldis
 	url = https://github.com/cran/poldis
