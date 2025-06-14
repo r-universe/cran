@@ -632,6 +632,9 @@
 [submodule "Anaconda"]
 	path = Anaconda
 	url = https://github.com/cran/Anaconda
+[submodule "Analitica"]
+	path = Analitica
+	url = https://github.com/cran/Analitica
 [submodule "AnalysisLin"]
 	path = AnalysisLin
 	url = https://github.com/cran/AnalysisLin
@@ -6140,6 +6143,9 @@
 [submodule "FnR"]
 	path = FnR
 	url = https://github.com/cran/FnR
+[submodule "FoCo2"]
+	path = FoCo2
+	url = https://github.com/cran/FoCo2
 [submodule "FoReco"]
 	path = FoReco
 	url = https://github.com/cran/FoReco
@@ -6704,6 +6710,9 @@
 [submodule "GOxploreR"]
 	path = GOxploreR
 	url = https://github.com/cran/GOxploreR
+[submodule "GPAbin"]
+	path = GPAbin
+	url = https://github.com/cran/GPAbin
 [submodule "GPArotateDF"]
 	path = GPArotateDF
 	url = https://github.com/cran/GPArotateDF
@@ -12173,6 +12182,9 @@
 [submodule "Ostats"]
 	path = Ostats
 	url = https://github.com/cran/Ostats
+[submodule "OtsuFire"]
+	path = OtsuFire
+	url = https://github.com/cran/OtsuFire
 [submodule "OtsuSeg"]
 	path = OtsuSeg
 	url = https://github.com/cran/OtsuSeg
@@ -34865,6 +34877,9 @@
 [submodule "fuzzyjoin"]
 	path = fuzzyjoin
 	url = https://github.com/cran/fuzzyjoin
+[submodule "fuzzylink"]
+	path = fuzzylink
+	url = https://github.com/cran/fuzzylink
 [submodule "fuzzyreg"]
 	path = fuzzyreg
 	url = https://github.com/cran/fuzzyreg
