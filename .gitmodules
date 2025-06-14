@@ -28793,6 +28793,9 @@
 [submodule "dataverse"]
 	path = dataverse
 	url = https://github.com/cran/dataverse
+[submodule "dataviewR"]
+	path = dataviewR
+	url = https://github.com/cran/dataviewR
 [submodule "datawizard"]
 	path = datawizard
 	url = https://github.com/cran/datawizard
@@ -66723,6 +66726,9 @@
 [submodule "volleystat"]
 	path = volleystat
 	url = https://github.com/cran/volleystat
+[submodule "volrisk"]
+	path = volrisk
+	url = https://github.com/cran/volrisk
 [submodule "voluModel"]
 	path = voluModel
 	url = https://github.com/cran/voluModel
