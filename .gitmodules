@@ -15026,9 +15026,6 @@
 [submodule "RSmartlyIO"]
 	path = RSmartlyIO
 	url = https://github.com/cran/RSmartlyIO
-[submodule "RSocrata"]
-	path = RSocrata
-	url = https://github.com/cran/RSocrata
 [submodule "RSpectra"]
 	path = RSpectra
 	url = https://github.com/cran/RSpectra
@@ -18539,9 +18536,6 @@
 [submodule "SystemicR"]
 	path = SystemicR
 	url = https://github.com/cran/SystemicR
-[submodule "T2DFitTailor"]
-	path = T2DFitTailor
-	url = https://github.com/cran/T2DFitTailor
 [submodule "T2EQ"]
 	path = T2EQ
 	url = https://github.com/cran/T2EQ
@@ -47321,9 +47315,6 @@
 [submodule "neat"]
 	path = neat
 	url = https://github.com/cran/neat
-[submodule "neatR"]
-	path = neatR
-	url = https://github.com/cran/neatR
 [submodule "neatRanges"]
 	path = neatRanges
 	url = https://github.com/cran/neatRanges
@@ -56849,9 +56840,6 @@
 [submodule "rpql"]
 	path = rpql
 	url = https://github.com/cran/rpql
-[submodule "rpredictit"]
-	path = rpredictit
-	url = https://github.com/cran/rpredictit
 [submodule "rprev"]
 	path = rprev
 	url = https://github.com/cran/rprev
