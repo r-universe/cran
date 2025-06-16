@@ -8933,6 +8933,9 @@
 [submodule "LAWBL"]
 	path = LAWBL
 	url = https://github.com/cran/LAWBL
+[submodule "LBDiscover"]
+	path = LBDiscover
+	url = https://github.com/cran/LBDiscover
 [submodule "LBI"]
 	path = LBI
 	url = https://github.com/cran/LBI
@@ -39920,6 +39923,9 @@
 [submodule "inet"]
 	path = inet
 	url = https://github.com/cran/inet
+[submodule "infectiousR"]
+	path = infectiousR
+	url = https://github.com/cran/infectiousR
 [submodule "infer"]
 	path = infer
 	url = https://github.com/cran/infer
@@ -46133,6 +46139,9 @@
 [submodule "mortAAR"]
 	path = mortAAR
 	url = https://github.com/cran/mortAAR
+[submodule "mos"]
+	path = mos
+	url = https://github.com/cran/mos
 [submodule "mosaic"]
 	path = mosaic
 	url = https://github.com/cran/mosaic
@@ -64113,6 +64122,9 @@
 [submodule "tidydelta"]
 	path = tidydelta
 	url = https://github.com/cran/tidydelta
+[submodule "tidydfidx"]
+	path = tidydfidx
+	url = https://github.com/cran/tidydfidx
 [submodule "tidydice"]
 	path = tidydice
 	url = https://github.com/cran/tidydice
@@ -64200,6 +64212,9 @@
 [submodule "tidync"]
 	path = tidync
 	url = https://github.com/cran/tidync
+[submodule "tidynorm"]
+	path = tidynorm
+	url = https://github.com/cran/tidynorm
 [submodule "tidypaleo"]
 	path = tidypaleo
 	url = https://github.com/cran/tidypaleo
