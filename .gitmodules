@@ -29240,9 +29240,6 @@
 [submodule "dematel"]
 	path = dematel
 	url = https://github.com/cran/dematel
-[submodule "demic"]
-	path = demic
-	url = https://github.com/cran/demic
 [submodule "deming"]
 	path = deming
 	url = https://github.com/cran/deming
