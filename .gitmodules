@@ -58085,6 +58085,9 @@
 [submodule "scSpatialSIM"]
 	path = scSpatialSIM
 	url = https://github.com/cran/scSpatialSIM
+[submodule "scStability"]
+	path = scStability
+	url = https://github.com/cran/scStability
 [submodule "scTenifoldKnk"]
 	path = scTenifoldKnk
 	url = https://github.com/cran/scTenifoldKnk
@@ -62499,6 +62502,9 @@
 [submodule "subspace"]
 	path = subspace
 	url = https://github.com/cran/subspace
+[submodule "substackR"]
+	path = substackR
+	url = https://github.com/cran/substackR
 [submodule "success"]
 	path = success
 	url = https://github.com/cran/success
@@ -65763,6 +65769,9 @@
 [submodule "ukgasapi"]
 	path = ukgasapi
 	url = https://github.com/cran/ukgasapi
+[submodule "ukhsadatR"]
+	path = ukhsadatR
+	url = https://github.com/cran/ukhsadatR
 [submodule "uklr"]
 	path = uklr
 	url = https://github.com/cran/uklr
