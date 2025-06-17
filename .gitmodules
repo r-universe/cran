@@ -10688,6 +10688,9 @@
 [submodule "MedianaDesigner"]
 	path = MedianaDesigner
 	url = https://github.com/cran/MedianaDesigner
+[submodule "Mega2R"]
+	path = Mega2R
+	url = https://github.com/cran/Mega2R
 [submodule "MendelianRandomization"]
 	path = MendelianRandomization
 	url = https://github.com/cran/MendelianRandomization
