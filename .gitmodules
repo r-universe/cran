@@ -965,6 +965,9 @@
 [submodule "BCClong"]
 	path = BCClong
 	url = https://github.com/cran/BCClong
+[submodule "BCD"]
+	path = BCD
+	url = https://github.com/cran/BCD
 [submodule "BCDAG"]
 	path = BCDAG
 	url = https://github.com/cran/BCDAG
@@ -6362,6 +6365,9 @@
 [submodule "GAPR"]
 	path = GAPR
 	url = https://github.com/cran/GAPR
+[submodule "GARCH.X"]
+	path = GARCH.X
+	url = https://github.com/cran/GARCH.X
 [submodule "GARCHIto"]
 	path = GARCHIto
 	url = https://github.com/cran/GARCHIto
@@ -10682,9 +10688,6 @@
 [submodule "MedianaDesigner"]
 	path = MedianaDesigner
 	url = https://github.com/cran/MedianaDesigner
-[submodule "Mega2R"]
-	path = Mega2R
-	url = https://github.com/cran/Mega2R
 [submodule "MendelianRandomization"]
 	path = MendelianRandomization
 	url = https://github.com/cran/MendelianRandomization
@@ -14957,6 +14960,9 @@
 [submodule "RSCAT"]
 	path = RSCAT
 	url = https://github.com/cran/RSCAT
+[submodule "RSD"]
+	path = RSD
+	url = https://github.com/cran/RSD
 [submodule "RSDA"]
 	path = RSDA
 	url = https://github.com/cran/RSDA
@@ -22784,6 +22790,9 @@
 [submodule "bayesmove"]
 	path = bayesmove
 	url = https://github.com/cran/bayesmove
+[submodule "bayesmsm"]
+	path = bayesmsm
+	url = https://github.com/cran/bayesmsm
 [submodule "bayesnec"]
 	path = bayesnec
 	url = https://github.com/cran/bayesnec
@@ -37853,6 +37862,9 @@
 [submodule "gtrendsR"]
 	path = gtrendsR
 	url = https://github.com/cran/gtrendsR
+[submodule "gtrendshealth"]
+	path = gtrendshealth
+	url = https://github.com/cran/gtrendshealth
 [submodule "gtsummary"]
 	path = gtsummary
 	url = https://github.com/cran/gtsummary
@@ -63963,6 +63975,9 @@
 [submodule "this.path"]
 	path = this.path
 	url = https://github.com/cran/this.path
+[submodule "thisutils"]
+	path = thisutils
+	url = https://github.com/cran/thisutils
 [submodule "thor"]
 	path = thor
 	url = https://github.com/cran/thor
