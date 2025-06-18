@@ -1400,6 +1400,9 @@
 [submodule "BaseTempSeed"]
 	path = BaseTempSeed
 	url = https://github.com/cran/BaseTempSeed
+[submodule "BasketTrial"]
+	path = BasketTrial
+	url = https://github.com/cran/BasketTrial
 [submodule "BasketballAnalyzeR"]
 	path = BasketballAnalyzeR
 	url = https://github.com/cran/BasketballAnalyzeR
@@ -4991,6 +4994,9 @@
 [submodule "EMMREML"]
 	path = EMMREML
 	url = https://github.com/cran/EMMREML
+[submodule "EMOTIONS"]
+	path = EMOTIONS
+	url = https://github.com/cran/EMOTIONS
 [submodule "EMP"]
 	path = EMP
 	url = https://github.com/cran/EMP
@@ -17291,6 +17297,9 @@
 [submodule "STCCGEV"]
 	path = STCCGEV
 	url = https://github.com/cran/STCCGEV
+[submodule "STDistance"]
+	path = STDistance
+	url = https://github.com/cran/STDistance
 [submodule "STEPCAM"]
 	path = STEPCAM
 	url = https://github.com/cran/STEPCAM
@@ -22877,6 +22886,9 @@
 [submodule "bbreg"]
 	path = bbreg
 	url = https://github.com/cran/bbreg
+[submodule "bbssr"]
+	path = bbssr
+	url = https://github.com/cran/bbssr
 [submodule "bbw"]
 	path = bbw
 	url = https://github.com/cran/bbw
@@ -27707,6 +27719,9 @@
 [submodule "cpfa"]
 	path = cpfa
 	url = https://github.com/cran/cpfa
+[submodule "cpgfR"]
+	path = cpgfR
+	url = https://github.com/cran/cpgfR
 [submodule "cpi"]
 	path = cpi
 	url = https://github.com/cran/cpi
@@ -54779,6 +54794,9 @@
 [submodule "rdnb"]
 	path = rdnb
 	url = https://github.com/cran/rdnb
+[submodule "rdocdump"]
+	path = rdocdump
+	url = https://github.com/cran/rdocdump
 [submodule "rdomains"]
 	path = rdomains
 	url = https://github.com/cran/rdomains
@@ -63399,6 +63417,9 @@
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/cran/taxize
+[submodule "taxizedb"]
+	path = taxizedb
+	url = https://github.com/cran/taxizedb
 [submodule "taxlist"]
 	path = taxlist
 	url = https://github.com/cran/taxlist
