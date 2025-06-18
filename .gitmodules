@@ -10289,9 +10289,6 @@
 [submodule "MRPC"]
 	path = MRPC
 	url = https://github.com/cran/MRPC
-[submodule "MRQoL"]
-	path = MRQoL
-	url = https://github.com/cran/MRQoL
 [submodule "MRReg"]
 	path = MRReg
 	url = https://github.com/cran/MRReg
