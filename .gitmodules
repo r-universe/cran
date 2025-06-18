@@ -3170,9 +3170,6 @@
 [submodule "CodelistGenerator"]
 	path = CodelistGenerator
 	url = https://github.com/cran/CodelistGenerator
-[submodule "CohensdpLibrary"]
-	path = CohensdpLibrary
-	url = https://github.com/cran/CohensdpLibrary
 [submodule "CohortAlgebra"]
 	path = CohortAlgebra
 	url = https://github.com/cran/CohortAlgebra
@@ -25100,9 +25097,6 @@
 [submodule "cbbinom"]
 	path = cbbinom
 	url = https://github.com/cran/cbbinom
-[submodule "cbcTools"]
-	path = cbcTools
-	url = https://github.com/cran/cbcTools
 [submodule "cbinom"]
 	path = cbinom
 	url = https://github.com/cran/cbinom
@@ -27275,9 +27269,6 @@
 [submodule "cophescan"]
 	path = cophescan
 	url = https://github.com/cran/cophescan
-[submodule "coppeCosenzaR"]
-	path = coppeCosenzaR
-	url = https://github.com/cran/coppeCosenzaR
 [submodule "copre"]
 	path = copre
 	url = https://github.com/cran/copre
@@ -29996,9 +29987,6 @@
 [submodule "distill"]
 	path = distill
 	url = https://github.com/cran/distill
-[submodule "distillML"]
-	path = distillML
-	url = https://github.com/cran/distillML
 [submodule "distillery"]
 	path = distillery
 	url = https://github.com/cran/distillery
@@ -38015,9 +38003,6 @@
 [submodule "hackeRnews"]
 	path = hackeRnews
 	url = https://github.com/cran/hackeRnews
-[submodule "hacksig"]
-	path = hacksig
-	url = https://github.com/cran/hacksig
 [submodule "hagis"]
 	path = hagis
 	url = https://github.com/cran/hagis
@@ -59054,9 +59039,6 @@
 [submodule "sgapi"]
 	path = sgapi
 	url = https://github.com/cran/sgapi
-[submodule "sgat"]
-	path = sgat
-	url = https://github.com/cran/sgat
 [submodule "sgboost"]
 	path = sgboost
 	url = https://github.com/cran/sgboost
