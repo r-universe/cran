@@ -4064,6 +4064,9 @@
 [submodule "DPBBM"]
 	path = DPBBM
 	url = https://github.com/cran/DPBBM
+[submodule "DPI"]
+	path = DPI
+	url = https://github.com/cran/DPI
 [submodule "DPP"]
 	path = DPP
 	url = https://github.com/cran/DPP
@@ -30407,6 +30410,9 @@
 [submodule "dpasurv"]
 	path = dpasurv
 	url = https://github.com/cran/dpasurv
+[submodule "dpcR"]
+	path = dpcR
+	url = https://github.com/cran/dpcR
 [submodule "dpcc"]
 	path = dpcc
 	url = https://github.com/cran/dpcc
@@ -67587,6 +67593,9 @@
 [submodule "wppExplorer"]
 	path = wppExplorer
 	url = https://github.com/cran/wppExplorer
+[submodule "wqc"]
+	path = wqc
+	url = https://github.com/cran/wqc
 [submodule "wql"]
 	path = wql
 	url = https://github.com/cran/wql
