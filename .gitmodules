@@ -6275,6 +6275,9 @@
 [submodule "FunctanSNP"]
 	path = FunctanSNP
 	url = https://github.com/cran/FunctanSNP
+[submodule "FunctionalCalibration"]
+	path = FunctionalCalibration
+	url = https://github.com/cran/FunctionalCalibration
 [submodule "FunnelPlotR"]
 	path = FunnelPlotR
 	url = https://github.com/cran/FunnelPlotR
@@ -8150,6 +8153,9 @@
 [submodule "INTRIGUE"]
 	path = INTRIGUE
 	url = https://github.com/cran/INTRIGUE
+[submodule "INetTool"]
+	path = INetTool
+	url = https://github.com/cran/INetTool
 [submodule "IOHanalyzer"]
 	path = IOHanalyzer
 	url = https://github.com/cran/IOHanalyzer
@@ -18983,6 +18989,9 @@
 [submodule "Table1Heatmap"]
 	path = Table1Heatmap
 	url = https://github.com/cran/Table1Heatmap
+[submodule "TableContainer"]
+	path = TableContainer
+	url = https://github.com/cran/TableContainer
 [submodule "TableHC"]
 	path = TableHC
 	url = https://github.com/cran/TableHC
@@ -35414,6 +35423,9 @@
 [submodule "geesmv"]
 	path = geesmv
 	url = https://github.com/cran/geesmv
+[submodule "geess"]
+	path = geess
+	url = https://github.com/cran/geess
 [submodule "geessbin"]
 	path = geessbin
 	url = https://github.com/cran/geessbin
