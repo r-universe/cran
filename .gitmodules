@@ -13841,6 +13841,9 @@
 [submodule "QuantileNPCI"]
 	path = QuantileNPCI
 	url = https://github.com/cran/QuantileNPCI
+[submodule "QuantilePeer"]
+	path = QuantilePeer
+	url = https://github.com/cran/QuantilePeer
 [submodule "QuantumOps"]
 	path = QuantumOps
 	url = https://github.com/cran/QuantumOps
@@ -32081,6 +32084,9 @@
 [submodule "eq5dsuite"]
 	path = eq5dsuite
 	url = https://github.com/cran/eq5dsuite
+[submodule "eqtesting"]
+	path = eqtesting
+	url = https://github.com/cran/eqtesting
 [submodule "equalCovs"]
 	path = equalCovs
 	url = https://github.com/cran/equalCovs
@@ -34487,6 +34493,9 @@
 [submodule "fractaldim"]
 	path = fractaldim
 	url = https://github.com/cran/fractaldim
+[submodule "fractalforest"]
+	path = fractalforest
+	url = https://github.com/cran/fractalforest
 [submodule "fractional"]
 	path = fractional
 	url = https://github.com/cran/fractional
@@ -50195,6 +50204,9 @@
 [submodule "pbkrtest"]
 	path = pbkrtest
 	url = https://github.com/cran/pbkrtest
+[submodule "pblm"]
+	path = pblm
+	url = https://github.com/cran/pblm
 [submodule "pbm"]
 	path = pbm
 	url = https://github.com/cran/pbm
@@ -53003,6 +53015,9 @@
 [submodule "pushoverr"]
 	path = pushoverr
 	url = https://github.com/cran/pushoverr
+[submodule "putior"]
+	path = putior
+	url = https://github.com/cran/putior
 [submodule "puzzle"]
 	path = puzzle
 	url = https://github.com/cran/puzzle
@@ -59144,6 +59159,9 @@
 [submodule "shades"]
 	path = shades
 	url = https://github.com/cran/shades
+[submodule "shadowVIMP"]
+	path = shadowVIMP
+	url = https://github.com/cran/shadowVIMP
 [submodule "shadowr"]
 	path = shadowr
 	url = https://github.com/cran/shadowr
@@ -60593,6 +60611,9 @@
 [submodule "snowfall"]
 	path = snowfall
 	url = https://github.com/cran/snowfall
+[submodule "snowflakeauth"]
+	path = snowflakeauth
+	url = https://github.com/cran/snowflakeauth
 [submodule "snowflakes"]
 	path = snowflakes
 	url = https://github.com/cran/snowflakes
