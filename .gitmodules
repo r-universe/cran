@@ -65994,6 +65994,9 @@
 [submodule "unstruwwel"]
 	path = unstruwwel
 	url = https://github.com/cran/unstruwwel
+[submodule "unsum"]
+	path = unsum
+	url = https://github.com/cran/unsum
 [submodule "unsystation"]
 	path = unsystation
 	url = https://github.com/cran/unsystation
