@@ -29537,9 +29537,6 @@
 [submodule "dexter"]
 	path = dexter
 	url = https://github.com/cran/dexter
-[submodule "dexterMST"]
-	path = dexterMST
-	url = https://github.com/cran/dexterMST
 [submodule "dextergui"]
 	path = dextergui
 	url = https://github.com/cran/dextergui
@@ -45818,9 +45815,6 @@
 [submodule "mnet"]
 	path = mnet
 	url = https://github.com/cran/mnet
-[submodule "mnis"]
-	path = mnis
-	url = https://github.com/cran/mnis
 [submodule "mniw"]
 	path = mniw
 	url = https://github.com/cran/mniw
