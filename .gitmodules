@@ -3473,9 +3473,6 @@
 [submodule "CoreMicrobiomeR"]
 	path = CoreMicrobiomeR
 	url = https://github.com/cran/CoreMicrobiomeR
-[submodule "CornerstoneR"]
-	path = CornerstoneR
-	url = https://github.com/cran/CornerstoneR
 [submodule "CorrBin"]
 	path = CorrBin
 	url = https://github.com/cran/CorrBin
@@ -63144,9 +63141,6 @@
 [submodule "synchrony"]
 	path = synchrony
 	url = https://github.com/cran/synchrony
-[submodule "synlik"]
-	path = synlik
-	url = https://github.com/cran/synlik
 [submodule "synr"]
 	path = synr
 	url = https://github.com/cran/synr
