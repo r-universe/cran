@@ -34103,6 +34103,9 @@
 [submodule "flux"]
 	path = flux
 	url = https://github.com/cran/flux
+[submodule "fluxfinder"]
+	path = fluxfinder
+	url = https://github.com/cran/fluxfinder
 [submodule "fluxible"]
 	path = fluxible
 	url = https://github.com/cran/fluxible
