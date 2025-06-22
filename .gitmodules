@@ -5756,6 +5756,9 @@
 [submodule "FLR"]
 	path = FLR
 	url = https://github.com/cran/FLR
+[submodule "FLSSS"]
+	path = FLSSS
+	url = https://github.com/cran/FLSSS
 [submodule "FLightR"]
 	path = FLightR
 	url = https://github.com/cran/FLightR
