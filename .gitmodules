@@ -17588,9 +17588,6 @@
 [submodule "SeqMADE"]
 	path = SeqMADE
 	url = https://github.com/cran/SeqMADE
-[submodule "SeqNet"]
-	path = SeqNet
-	url = https://github.com/cran/SeqNet
 [submodule "SequenceSpikeSlab"]
 	path = SequenceSpikeSlab
 	url = https://github.com/cran/SequenceSpikeSlab
@@ -28067,9 +28064,6 @@
 [submodule "crunch"]
 	path = crunch
 	url = https://github.com/cran/crunch
-[submodule "crunchy"]
-	path = crunchy
-	url = https://github.com/cran/crunchy
 [submodule "cruts"]
 	path = cruts
 	url = https://github.com/cran/cruts
@@ -30206,9 +30200,6 @@
 [submodule "dnafractal"]
 	path = dnafractal
 	url = https://github.com/cran/dnafractal
-[submodule "dnapath"]
-	path = dnapath
-	url = https://github.com/cran/dnapath
 [submodule "dndR"]
 	path = dndR
 	url = https://github.com/cran/dndR
@@ -38975,9 +38966,6 @@
 [submodule "httpcode"]
 	path = httpcode
 	url = https://github.com/cran/httpcode
-[submodule "httpgd"]
-	path = httpgd
-	url = https://github.com/cran/httpgd
 [submodule "httping"]
 	path = httping
 	url = https://github.com/cran/httping
@@ -47831,9 +47819,6 @@
 [submodule "njgeo"]
 	path = njgeo
 	url = https://github.com/cran/njgeo
-[submodule "njtr1"]
-	path = njtr1
-	url = https://github.com/cran/njtr1
 [submodule "nlMS"]
 	path = nlMS
 	url = https://github.com/cran/nlMS
@@ -51044,9 +51029,6 @@
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/cran/piggyback
-[submodule "piglet"]
-	path = piglet
-	url = https://github.com/cran/piglet
 [submodule "pii"]
 	path = pii
 	url = https://github.com/cran/pii
