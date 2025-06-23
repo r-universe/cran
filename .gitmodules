@@ -4013,6 +4013,9 @@
 [submodule "DMwR2"]
 	path = DMwR2
 	url = https://github.com/cran/DMwR2
+[submodule "DNAmf"]
+	path = DNAmf
+	url = https://github.com/cran/DNAmf
 [submodule "DNAmixturesLite"]
 	path = DNAmixturesLite
 	url = https://github.com/cran/DNAmixturesLite
@@ -10550,6 +10553,9 @@
 [submodule "MantaID"]
 	path = MantaID
 	url = https://github.com/cran/MantaID
+[submodule "ManyIVsNets"]
+	path = ManyIVsNets
+	url = https://github.com/cran/ManyIVsNets
 [submodule "ManyTests"]
 	path = ManyTests
 	url = https://github.com/cran/ManyTests
@@ -16601,6 +16607,9 @@
 [submodule "SCDB"]
 	path = SCDB
 	url = https://github.com/cran/SCDB
+[submodule "SCE"]
+	path = SCE
+	url = https://github.com/cran/SCE
 [submodule "SCEM"]
 	path = SCEM
 	url = https://github.com/cran/SCEM
@@ -47645,6 +47654,9 @@
 [submodule "neutralitytestr"]
 	path = neutralitytestr
 	url = https://github.com/cran/neutralitytestr
+[submodule "neutroSurvey"]
+	path = neutroSurvey
+	url = https://github.com/cran/neutroSurvey
 [submodule "neutrostat"]
 	path = neutrostat
 	url = https://github.com/cran/neutrostat
@@ -60344,6 +60356,9 @@
 [submodule "sloop"]
 	path = sloop
 	url = https://github.com/cran/sloop
+[submodule "slopes"]
+	path = slopes
+	url = https://github.com/cran/slopes
 [submodule "slouch"]
 	path = slouch
 	url = https://github.com/cran/slouch
@@ -63990,6 +64005,9 @@
 [submodule "thames"]
 	path = thames
 	url = https://github.com/cran/thames
+[submodule "thamesmix"]
+	path = thamesmix
+	url = https://github.com/cran/thamesmix
 [submodule "thankr"]
 	path = thankr
 	url = https://github.com/cran/thankr
