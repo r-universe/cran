@@ -10865,6 +10865,9 @@
 [submodule "MinEDfind"]
 	path = MinEDfind
 	url = https://github.com/cran/MinEDfind
+[submodule "MinTriadic"]
+	path = MinTriadic
+	url = https://github.com/cran/MinTriadic
 [submodule "MindOnStats"]
 	path = MindOnStats
 	url = https://github.com/cran/MindOnStats
@@ -17516,6 +17519,9 @@
 [submodule "SelectionBias"]
 	path = SelectionBias
 	url = https://github.com/cran/SelectionBias
+[submodule "SelfControlledCaseSeries"]
+	path = SelfControlledCaseSeries
+	url = https://github.com/cran/SelfControlledCaseSeries
 [submodule "SemNeT"]
 	path = SemNeT
 	url = https://github.com/cran/SemNeT
@@ -26099,6 +26105,9 @@
 [submodule "clinmon"]
 	path = clinmon
 	url = https://github.com/cran/clinmon
+[submodule "clinpubr"]
+	path = clinpubr
+	url = https://github.com/cran/clinpubr
 [submodule "clinsig"]
 	path = clinsig
 	url = https://github.com/cran/clinsig
@@ -41276,6 +41285,9 @@
 [submodule "kerastuneR"]
 	path = kerastuneR
 	url = https://github.com/cran/kerastuneR
+[submodule "kerdiest"]
+	path = kerdiest
+	url = https://github.com/cran/kerdiest
 [submodule "kergp"]
 	path = kergp
 	url = https://github.com/cran/kergp
@@ -42236,6 +42248,9 @@
 [submodule "lestat"]
 	path = lestat
 	url = https://github.com/cran/lestat
+[submodule "letsHerp"]
+	path = letsHerp
+	url = https://github.com/cran/letsHerp
 [submodule "letsR"]
 	path = letsR
 	url = https://github.com/cran/letsR
@@ -45050,6 +45065,9 @@
 [submodule "midoc"]
 	path = midoc
 	url = https://github.com/cran/midoc
+[submodule "midr"]
+	path = midr
+	url = https://github.com/cran/midr
 [submodule "midrangeMCP"]
 	path = midrangeMCP
 	url = https://github.com/cran/midrangeMCP
