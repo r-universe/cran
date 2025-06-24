@@ -11432,6 +11432,9 @@
 [submodule "NMOF"]
 	path = NMOF
 	url = https://github.com/cran/NMOF
+[submodule "NMRphasing"]
+	path = NMRphasing
+	url = https://github.com/cran/NMRphasing
 [submodule "NMTox"]
 	path = NMTox
 	url = https://github.com/cran/NMTox
@@ -42341,6 +42344,9 @@
 [submodule "libcoin"]
 	path = libcoin
 	url = https://github.com/cran/libcoin
+[submodule "libdeflate"]
+	path = libdeflate
+	url = https://github.com/cran/libdeflate
 [submodule "libgeos"]
 	path = libgeos
 	url = https://github.com/cran/libgeos
@@ -49652,6 +49658,9 @@
 [submodule "pacu"]
 	path = pacu
 	url = https://github.com/cran/pacu
+[submodule "paddleR"]
+	path = paddleR
+	url = https://github.com/cran/paddleR
 [submodule "padr"]
 	path = padr
 	url = https://github.com/cran/padr
