@@ -20366,6 +20366,9 @@
 [submodule "aVirtualTwins"]
 	path = aVirtualTwins
 	url = https://github.com/cran/aVirtualTwins
+[submodule "aamatch"]
+	path = aamatch
+	url = https://github.com/cran/aamatch
 [submodule "abasequence"]
 	path = abasequence
 	url = https://github.com/cran/abasequence
