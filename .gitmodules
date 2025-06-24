@@ -20432,6 +20432,9 @@
 [submodule "abms"]
 	path = abms
 	url = https://github.com/cran/abms
+[submodule "abn"]
+	path = abn
+	url = https://github.com/cran/abn
 [submodule "abnormality"]
 	path = abnormality
 	url = https://github.com/cran/abnormality
@@ -42458,6 +42461,9 @@
 [submodule "lillies"]
 	path = lillies
 	url = https://github.com/cran/lillies
+[submodule "limSolve"]
+	path = limSolve
+	url = https://github.com/cran/limSolve
 [submodule "lime"]
 	path = lime
 	url = https://github.com/cran/lime
