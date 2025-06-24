@@ -12092,6 +12092,9 @@
 [submodule "OpeNoise"]
 	path = OpeNoise
 	url = https://github.com/cran/OpeNoise
+[submodule "OpenBARD"]
+	path = OpenBARD
+	url = https://github.com/cran/OpenBARD
 [submodule "OpenCL"]
 	path = OpenCL
 	url = https://github.com/cran/OpenCL
@@ -23966,6 +23969,9 @@
 [submodule "boilerpipeR"]
 	path = boilerpipeR
 	url = https://github.com/cran/boilerpipeR
+[submodule "boilerplate"]
+	path = boilerplate
+	url = https://github.com/cran/boilerplate
 [submodule "boinet"]
 	path = boinet
 	url = https://github.com/cran/boinet
@@ -33257,6 +33263,9 @@
 [submodule "fastpng"]
 	path = fastpng
 	url = https://github.com/cran/fastpng
+[submodule "fastpolicytree"]
+	path = fastpolicytree
+	url = https://github.com/cran/fastpolicytree
 [submodule "fastpos"]
 	path = fastpos
 	url = https://github.com/cran/fastpos
@@ -36320,6 +36329,9 @@
 [submodule "ggm"]
 	path = ggm
 	url = https://github.com/cran/ggm
+[submodule "ggmRSCU"]
+	path = ggmRSCU
+	url = https://github.com/cran/ggmRSCU
 [submodule "ggmap"]
 	path = ggmap
 	url = https://github.com/cran/ggmap
@@ -46271,6 +46283,9 @@
 [submodule "movecost"]
 	path = movecost
 	url = https://github.com/cran/movecost
+[submodule "movedesign"]
+	path = movedesign
+	url = https://github.com/cran/movedesign
 [submodule "movegroup"]
 	path = movegroup
 	url = https://github.com/cran/movegroup
@@ -48239,6 +48254,9 @@
 [submodule "notifyme"]
 	path = notifyme
 	url = https://github.com/cran/notifyme
+[submodule "notionR"]
+	path = notionR
+	url = https://github.com/cran/notionR
 [submodule "novelforestSG"]
 	path = novelforestSG
 	url = https://github.com/cran/novelforestSG
@@ -66771,6 +66789,9 @@
 [submodule "vitality"]
 	path = vitality
 	url = https://github.com/cran/vitality
+[submodule "vitals"]
+	path = vitals
+	url = https://github.com/cran/vitals
 [submodule "vivainsights"]
 	path = vivainsights
 	url = https://github.com/cran/vivainsights
