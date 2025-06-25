@@ -41684,6 +41684,9 @@
 [submodule "kvh"]
 	path = kvh
 	url = https://github.com/cran/kvh
+[submodule "kvkapiR"]
+	path = kvkapiR
+	url = https://github.com/cran/kvkapiR
 [submodule "kyotil"]
 	path = kyotil
 	url = https://github.com/cran/kyotil
