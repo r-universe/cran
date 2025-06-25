@@ -4289,9 +4289,6 @@
 [submodule "DataClean"]
 	path = DataClean
 	url = https://github.com/cran/DataClean
-[submodule "DataCombine"]
-	path = DataCombine
-	url = https://github.com/cran/DataCombine
 [submodule "DataEditR"]
 	path = DataEditR
 	url = https://github.com/cran/DataEditR
@@ -4763,9 +4760,6 @@
 [submodule "DysPIAData"]
 	path = DysPIAData
 	url = https://github.com/cran/DysPIAData
-[submodule "E4tools"]
-	path = E4tools
-	url = https://github.com/cran/E4tools
 [submodule "EATME"]
 	path = EATME
 	url = https://github.com/cran/EATME
@@ -35930,9 +35924,6 @@
 [submodule "gestate"]
 	path = gestate
 	url = https://github.com/cran/gestate
-[submodule "gesttools"]
-	path = gesttools
-	url = https://github.com/cran/gesttools
 [submodule "getDTeval"]
 	path = getDTeval
 	url = https://github.com/cran/getDTeval
@@ -52775,9 +52766,6 @@
 [submodule "psBayesborrow"]
 	path = psBayesborrow
 	url = https://github.com/cran/psBayesborrow
-[submodule "psData"]
-	path = psData
-	url = https://github.com/cran/psData
 [submodule "psHarmonize"]
 	path = psHarmonize
 	url = https://github.com/cran/psHarmonize
@@ -57323,9 +57311,6 @@
 [submodule "rtide"]
 	path = rtide
 	url = https://github.com/cran/rtide
-[submodule "rties"]
-	path = rties
-	url = https://github.com/cran/rties
 [submodule "rtika"]
 	path = rtika
 	url = https://github.com/cran/rtika
