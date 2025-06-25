@@ -7565,6 +7565,9 @@
 [submodule "HMTL"]
 	path = HMTL
 	url = https://github.com/cran/HMTL
+[submodule "HOIFCar"]
+	path = HOIFCar
+	url = https://github.com/cran/HOIFCar
 [submodule "HOasso"]
 	path = HOasso
 	url = https://github.com/cran/HOasso
@@ -9644,6 +9647,9 @@
 [submodule "MAPA"]
 	path = MAPA
 	url = https://github.com/cran/MAPA
+[submodule "MAPCtools"]
+	path = MAPCtools
+	url = https://github.com/cran/MAPCtools
 [submodule "MAPITR"]
 	path = MAPITR
 	url = https://github.com/cran/MAPITR
@@ -39728,6 +39734,9 @@
 [submodule "imageData"]
 	path = imageData
 	url = https://github.com/cran/imageData
+[submodule "imageRy"]
+	path = imageRy
+	url = https://github.com/cran/imageRy
 [submodule "imagefluency"]
 	path = imagefluency
 	url = https://github.com/cran/imagefluency
@@ -58121,9 +58130,6 @@
 [submodule "scLink"]
 	path = scLink
 	url = https://github.com/cran/scLink
-[submodule "scMappR"]
-	path = scMappR
-	url = https://github.com/cran/scMappR
 [submodule "scModels"]
 	path = scModels
 	url = https://github.com/cran/scModels
