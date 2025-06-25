@@ -58130,6 +58130,9 @@
 [submodule "scLink"]
 	path = scLink
 	url = https://github.com/cran/scLink
+[submodule "scMappR"]
+	path = scMappR
+	url = https://github.com/cran/scMappR
 [submodule "scModels"]
 	path = scModels
 	url = https://github.com/cran/scModels
