@@ -6080,9 +6080,6 @@
 [submodule "FishProxCompAnalyzer"]
 	path = FishProxCompAnalyzer
 	url = https://github.com/cran/FishProxCompAnalyzer
-[submodule "FishResp"]
-	path = FishResp
-	url = https://github.com/cran/FishResp
 [submodule "FisherEM"]
 	path = FisherEM
 	url = https://github.com/cran/FisherEM
@@ -8984,12 +8981,6 @@
 [submodule "LCMSQA"]
 	path = LCMSQA
 	url = https://github.com/cran/LCMSQA
-[submodule "LDABiplots"]
-	path = LDABiplots
-	url = https://github.com/cran/LDABiplots
-[submodule "LDAShiny"]
-	path = LDAShiny
-	url = https://github.com/cran/LDAShiny
 [submodule "LDATS"]
 	path = LDATS
 	url = https://github.com/cran/LDATS
@@ -41624,9 +41615,6 @@
 [submodule "kpiwidget"]
 	path = kpiwidget
 	url = https://github.com/cran/kpiwidget
-[submodule "kpmt"]
-	path = kpmt
-	url = https://github.com/cran/kpmt
 [submodule "kpodclustr"]
 	path = kpodclustr
 	url = https://github.com/cran/kpodclustr
@@ -42077,9 +42065,6 @@
 [submodule "ldamatch"]
 	path = ldamatch
 	url = https://github.com/cran/ldamatch
-[submodule "ldatuning"]
-	path = ldatuning
-	url = https://github.com/cran/ldatuning
 [submodule "ldbod"]
 	path = ldbod
 	url = https://github.com/cran/ldbod
@@ -53975,9 +53960,6 @@
 [submodule "rMOST"]
 	path = rMOST
 	url = https://github.com/cran/rMOST
-[submodule "rMR"]
-	path = rMR
-	url = https://github.com/cran/rMR
 [submodule "rMVP"]
 	path = rMVP
 	url = https://github.com/cran/rMVP
