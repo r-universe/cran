@@ -63132,9 +63132,6 @@
 [submodule "symbol.equation.gpt"]
 	path = symbol.equation.gpt
 	url = https://github.com/cran/symbol.equation.gpt
-[submodule "symbolicDA"]
-	path = symbolicDA
-	url = https://github.com/cran/symbolicDA
 [submodule "symbolicQspray"]
 	path = symbolicQspray
 	url = https://github.com/cran/symbolicQspray
