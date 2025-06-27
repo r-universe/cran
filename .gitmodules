@@ -1571,6 +1571,9 @@
 [submodule "BayesRS"]
 	path = BayesRS
 	url = https://github.com/cran/BayesRS
+[submodule "BayesRegDTR"]
+	path = BayesRegDTR
+	url = https://github.com/cran/BayesRegDTR
 [submodule "BayesRep"]
 	path = BayesRep
 	url = https://github.com/cran/BayesRep
@@ -3035,6 +3038,9 @@
 [submodule "ClimProjDiags"]
 	path = ClimProjDiags
 	url = https://github.com/cran/ClimProjDiags
+[submodule "ClimaRep"]
+	path = ClimaRep
+	url = https://github.com/cran/ClimaRep
 [submodule "ClinSigMeasures"]
 	path = ClinSigMeasures
 	url = https://github.com/cran/ClinSigMeasures
@@ -14243,6 +14249,9 @@
 [submodule "REMLA"]
 	path = REMLA
 	url = https://github.com/cran/REMLA
+[submodule "REMixed"]
+	path = REMixed
+	url = https://github.com/cran/REMixed
 [submodule "REN"]
 	path = REN
 	url = https://github.com/cran/REN
@@ -25925,6 +25934,9 @@
 [submodule "clam"]
 	path = clam
 	url = https://github.com/cran/clam
+[submodule "clampSeg"]
+	path = clampSeg
+	url = https://github.com/cran/clampSeg
 [submodule "clap"]
 	path = clap
 	url = https://github.com/cran/clap
@@ -29501,6 +29513,9 @@
 [submodule "detectRUNS"]
 	path = detectRUNS
 	url = https://github.com/cran/detectRUNS
+[submodule "detectXOR"]
+	path = detectXOR
+	url = https://github.com/cran/detectXOR
 [submodule "detectnorm"]
 	path = detectnorm
 	url = https://github.com/cran/detectnorm
@@ -35468,6 +35483,9 @@
 [submodule "gelnet"]
 	path = gelnet
 	url = https://github.com/cran/gelnet
+[submodule "gemR"]
+	path = gemR
+	url = https://github.com/cran/gemR
 [submodule "gemini.R"]
 	path = gemini.R
 	url = https://github.com/cran/gemini.R
@@ -57761,6 +57779,9 @@
 [submodule "saery"]
 	path = saery
 	url = https://github.com/cran/saery
+[submodule "safeframe"]
+	path = safeframe
+	url = https://github.com/cran/safeframe
 [submodule "safejoin"]
 	path = safejoin
 	url = https://github.com/cran/safejoin
