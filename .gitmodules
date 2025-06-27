@@ -22298,6 +22298,9 @@
 [submodule "avotrex"]
 	path = avotrex
 	url = https://github.com/cran/avotrex
+[submodule "avseqmc"]
+	path = avseqmc
+	url = https://github.com/cran/avseqmc
 [submodule "awdb"]
 	path = awdb
 	url = https://github.com/cran/awdb
@@ -60584,6 +60587,9 @@
 [submodule "smvgraph"]
 	path = smvgraph
 	url = https://github.com/cran/smvgraph
+[submodule "smvr"]
+	path = smvr
+	url = https://github.com/cran/smvr
 [submodule "sn"]
 	path = sn
 	url = https://github.com/cran/sn
