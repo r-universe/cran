@@ -4520,9 +4520,6 @@
 [submodule "DiceKriging"]
 	path = DiceKriging
 	url = https://github.com/cran/DiceKriging
-[submodule "DiceOptim"]
-	path = DiceOptim
-	url = https://github.com/cran/DiceOptim
 [submodule "DiceView"]
 	path = DiceView
 	url = https://github.com/cran/DiceView
@@ -10910,9 +10907,6 @@
 [submodule "MittagLeffleR"]
 	path = MittagLeffleR
 	url = https://github.com/cran/MittagLeffleR
-[submodule "MixAll"]
-	path = MixAll
-	url = https://github.com/cran/MixAll
 [submodule "MixGHD"]
 	path = MixGHD
 	url = https://github.com/cran/MixGHD
@@ -12773,9 +12767,6 @@
 [submodule "PRSPGx"]
 	path = PRSPGx
 	url = https://github.com/cran/PRSPGx
-[submodule "PRSim"]
-	path = PRSim
-	url = https://github.com/cran/PRSim
 [submodule "PRTree"]
 	path = PRTree
 	url = https://github.com/cran/PRTree
@@ -19832,9 +19823,6 @@
 [submodule "ViSiElse"]
 	path = ViSiElse
 	url = https://github.com/cran/ViSiElse
-[submodule "VicmapR"]
-	path = VicmapR
-	url = https://github.com/cran/VicmapR
 [submodule "Vicus"]
 	path = Vicus
 	url = https://github.com/cran/Vicus
