@@ -32540,6 +32540,9 @@
 [submodule "exact2x2"]
 	path = exact2x2
 	url = https://github.com/cran/exact2x2
+[submodule "exactLTRE"]
+	path = exactLTRE
+	url = https://github.com/cran/exactLTRE
 [submodule "exactRankTests"]
 	path = exactRankTests
 	url = https://github.com/cran/exactRankTests
