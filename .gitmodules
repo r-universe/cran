@@ -323,6 +323,9 @@
 [submodule "AR"]
 	path = AR
 	url = https://github.com/cran/AR
+[submodule "ARCHISSUR"]
+	path = ARCHISSUR
+	url = https://github.com/cran/ARCHISSUR
 [submodule "ARCensReg"]
 	path = ARCensReg
 	url = https://github.com/cran/ARCensReg
@@ -24260,6 +24263,9 @@
 [submodule "breathteststan"]
 	path = breathteststan
 	url = https://github.com/cran/breathteststan
+[submodule "bregr"]
+	path = bregr
+	url = https://github.com/cran/bregr
 [submodule "brew"]
 	path = brew
 	url = https://github.com/cran/brew
@@ -30362,6 +30368,9 @@
 [submodule "doolkit"]
 	path = doolkit
 	url = https://github.com/cran/doolkit
+[submodule "door"]
+	path = door
+	url = https://github.com/cran/door
 [submodule "doremi"]
 	path = doremi
 	url = https://github.com/cran/doremi
@@ -34067,6 +34076,9 @@
 [submodule "flipscores"]
 	path = flipscores
 	url = https://github.com/cran/flipscores
+[submodule "flir"]
+	path = flir
+	url = https://github.com/cran/flir
 [submodule "float"]
 	path = float
 	url = https://github.com/cran/float
