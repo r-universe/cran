@@ -17822,6 +17822,9 @@
 [submodule "SingleCaseES"]
 	path = SingleCaseES
 	url = https://github.com/cran/SingleCaseES
+[submodule "SingleCellComplexHeatMap"]
+	path = SingleCellComplexHeatMap
+	url = https://github.com/cran/SingleCellComplexHeatMap
 [submodule "SingleCellStat"]
 	path = SingleCellStat
 	url = https://github.com/cran/SingleCellStat
