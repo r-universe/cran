@@ -17729,6 +17729,9 @@
 [submodule "SimBIID"]
 	path = SimBIID
 	url = https://github.com/cran/SimBIID
+[submodule "SimBaRepro"]
+	path = SimBaRepro
+	url = https://github.com/cran/SimBaRepro
 [submodule "SimComp"]
 	path = SimComp
 	url = https://github.com/cran/SimComp
@@ -31325,6 +31328,9 @@
 [submodule "ecostatscale"]
 	path = ecostatscale
 	url = https://github.com/cran/ecostatscale
+[submodule "ecoteach"]
+	path = ecoteach
+	url = https://github.com/cran/ecoteach
 [submodule "ecotox"]
 	path = ecotox
 	url = https://github.com/cran/ecotox
