@@ -6620,6 +6620,9 @@
 [submodule "GJRM"]
 	path = GJRM
 	url = https://github.com/cran/GJRM
+[submodule "GJRM.data"]
+	path = GJRM.data
+	url = https://github.com/cran/GJRM.data
 [submodule "GK2011"]
 	path = GK2011
 	url = https://github.com/cran/GK2011
@@ -66501,6 +66504,9 @@
 [submodule "vectorwavelet"]
 	path = vectorwavelet
 	url = https://github.com/cran/vectorwavelet
+[submodule "vecvec"]
+	path = vecvec
+	url = https://github.com/cran/vecvec
 [submodule "veesa"]
 	path = veesa
 	url = https://github.com/cran/veesa
