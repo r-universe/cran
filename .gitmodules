@@ -2105,9 +2105,6 @@
 [submodule "CANE"]
 	path = CANE
 	url = https://github.com/cran/CANE
-[submodule "CANSIM2R"]
-	path = CANSIM2R
-	url = https://github.com/cran/CANSIM2R
 [submodule "CAOP.RAA.2024"]
 	path = CAOP.RAA.2024
 	url = https://github.com/cran/CAOP.RAA.2024
@@ -2651,9 +2648,6 @@
 [submodule "CTD"]
 	path = CTD
 	url = https://github.com/cran/CTD
-[submodule "CTM"]
-	path = CTM
-	url = https://github.com/cran/CTM
 [submodule "CTNote"]
 	path = CTNote
 	url = https://github.com/cran/CTNote
@@ -19013,9 +19007,6 @@
 [submodule "TailRank"]
 	path = TailRank
 	url = https://github.com/cran/TailRank
-[submodule "TangPoemR"]
-	path = TangPoemR
-	url = https://github.com/cran/TangPoemR
 [submodule "TangledFeatures"]
 	path = TangledFeatures
 	url = https://github.com/cran/TangledFeatures
@@ -25658,9 +25649,6 @@
 [submodule "chillR"]
 	path = chillR
 	url = https://github.com/cran/chillR
-[submodule "chinese.misc"]
-	path = chinese.misc
-	url = https://github.com/cran/chinese.misc
 [submodule "chipPCR"]
 	path = chipPCR
 	url = https://github.com/cran/chipPCR
@@ -40904,12 +40892,6 @@
 [submodule "jgsbook"]
 	path = jgsbook
 	url = https://github.com/cran/jgsbook
-[submodule "jiebaR"]
-	path = jiebaR
-	url = https://github.com/cran/jiebaR
-[submodule "jiebaRD"]
-	path = jiebaRD
-	url = https://github.com/cran/jiebaRD
 [submodule "jinjar"]
 	path = jinjar
 	url = https://github.com/cran/jinjar
