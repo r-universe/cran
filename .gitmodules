@@ -67479,6 +67479,9 @@
 [submodule "winfapReader"]
 	path = winfapReader
 	url = https://github.com/cran/winfapReader
+[submodule "wingen"]
+	path = wingen
+	url = https://github.com/cran/wingen
 [submodule "winputall"]
 	path = winputall
 	url = https://github.com/cran/winputall
