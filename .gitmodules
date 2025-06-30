@@ -25436,9 +25436,6 @@
 [submodule "cgAUC"]
 	path = cgAUC
 	url = https://github.com/cran/cgAUC
-[submodule "cgaim"]
-	path = cgaim
-	url = https://github.com/cran/cgaim
 [submodule "cgal4h"]
 	path = cgal4h
 	url = https://github.com/cran/cgal4h
