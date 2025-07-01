@@ -36728,6 +36728,9 @@
 [submodule "gigg"]
 	path = gigg
 	url = https://github.com/cran/gigg
+[submodule "gilmour"]
+	path = gilmour
+	url = https://github.com/cran/gilmour
 [submodule "gim"]
 	path = gim
 	url = https://github.com/cran/gim
@@ -41423,6 +41426,9 @@
 [submodule "kinematics"]
 	path = kinematics
 	url = https://github.com/cran/kinematics
+[submodule "kinesis"]
+	path = kinesis
+	url = https://github.com/cran/kinesis
 [submodule "kinship2"]
 	path = kinship2
 	url = https://github.com/cran/kinship2
