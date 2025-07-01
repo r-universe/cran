@@ -107,9 +107,6 @@
 [submodule "ADPclust"]
 	path = ADPclust
 	url = https://github.com/cran/ADPclust
-[submodule "ADSIHT"]
-	path = ADSIHT
-	url = https://github.com/cran/ADSIHT
 [submodule "ADTSA"]
 	path = ADTSA
 	url = https://github.com/cran/ADTSA
@@ -18788,9 +18785,6 @@
 [submodule "TPACData"]
 	path = TPACData
 	url = https://github.com/cran/TPACData
-[submodule "TPCselect"]
-	path = TPCselect
-	url = https://github.com/cran/TPCselect
 [submodule "TPD"]
 	path = TPD
 	url = https://github.com/cran/TPD
