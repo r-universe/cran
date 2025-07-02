@@ -10361,6 +10361,9 @@
 [submodule "MSbox"]
 	path = MSbox
 	url = https://github.com/cran/MSbox
+[submodule "MSclassifR"]
+	path = MSclassifR
+	url = https://github.com/cran/MSclassifR
 [submodule "MSclust"]
 	path = MSclust
 	url = https://github.com/cran/MSclust
