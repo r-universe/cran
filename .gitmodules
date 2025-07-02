@@ -42323,6 +42323,9 @@
 [submodule "libcoin"]
 	path = libcoin
 	url = https://github.com/cran/libcoin
+[submodule "libdeflate"]
+	path = libdeflate
+	url = https://github.com/cran/libdeflate
 [submodule "libgeos"]
 	path = libgeos
 	url = https://github.com/cran/libgeos
