@@ -5720,6 +5720,9 @@
 [submodule "FKSUM"]
 	path = FKSUM
 	url = https://github.com/cran/FKSUM
+[submodule "FKmL"]
+	path = FKmL
+	url = https://github.com/cran/FKmL
 [submodule "FLAG"]
 	path = FLAG
 	url = https://github.com/cran/FLAG
@@ -10358,9 +10361,6 @@
 [submodule "MSbox"]
 	path = MSbox
 	url = https://github.com/cran/MSbox
-[submodule "MSclassifR"]
-	path = MSclassifR
-	url = https://github.com/cran/MSclassifR
 [submodule "MSclust"]
 	path = MSclust
 	url = https://github.com/cran/MSclust
@@ -22172,6 +22172,9 @@
 [submodule "autogam"]
 	path = autogam
 	url = https://github.com/cran/autogam
+[submodule "autograph"]
+	path = autograph
+	url = https://github.com/cran/autograph
 [submodule "autoharp"]
 	path = autoharp
 	url = https://github.com/cran/autoharp
@@ -53033,6 +53036,9 @@
 [submodule "pvldcurve"]
 	path = pvldcurve
 	url = https://github.com/cran/pvldcurve
+[submodule "pwSEM"]
+	path = pwSEM
+	url = https://github.com/cran/pwSEM
 [submodule "pwlmm"]
 	path = pwlmm
 	url = https://github.com/cran/pwlmm
@@ -53774,6 +53780,9 @@
 [submodule "r4lineups"]
 	path = r4lineups
 	url = https://github.com/cran/r4lineups
+[submodule "r4pde"]
+	path = r4pde
+	url = https://github.com/cran/r4pde
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/cran/r4ss
@@ -54713,6 +54722,9 @@
 [submodule "rcrimeanalysis"]
 	path = rcrimeanalysis
 	url = https://github.com/cran/rcrimeanalysis
+[submodule "rcrisp"]
+	path = rcrisp
+	url = https://github.com/cran/rcrisp
 [submodule "rcrossref"]
 	path = rcrossref
 	url = https://github.com/cran/rcrossref
@@ -65898,6 +65910,9 @@
 [submodule "uniformly"]
 	path = uniformly
 	url = https://github.com/cran/uniformly
+[submodule "unifyR"]
+	path = unifyR
+	url = https://github.com/cran/unifyR
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/cran/unigd
