@@ -29987,6 +29987,9 @@
 [submodule "distfree.cr"]
 	path = distfree.cr
 	url = https://github.com/cran/distfree.cr
+[submodule "distfreereg"]
+	path = distfreereg
+	url = https://github.com/cran/distfreereg
 [submodule "distfromq"]
 	path = distfromq
 	url = https://github.com/cran/distfromq
@@ -50015,6 +50018,9 @@
 [submodule "partykit"]
 	path = partykit
 	url = https://github.com/cran/partykit
+[submodule "parzer"]
+	path = parzer
+	url = https://github.com/cran/parzer
 [submodule "pasadr"]
 	path = pasadr
 	url = https://github.com/cran/pasadr
