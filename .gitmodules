@@ -2618,18 +2618,12 @@
 [submodule "CSHShydRology"]
 	path = CSHShydRology
 	url = https://github.com/cran/CSHShydRology
-[submodule "CSIndicators"]
-	path = CSIndicators
-	url = https://github.com/cran/CSIndicators
 [submodule "CSMES"]
 	path = CSMES
 	url = https://github.com/cran/CSMES
 [submodule "CSTE"]
 	path = CSTE
 	url = https://github.com/cran/CSTE
-[submodule "CSTools"]
-	path = CSTools
-	url = https://github.com/cran/CSTools
 [submodule "CSclone"]
 	path = CSclone
 	url = https://github.com/cran/CSclone
@@ -3026,9 +3020,6 @@
 [submodule "ClimMobTools"]
 	path = ClimMobTools
 	url = https://github.com/cran/ClimMobTools
-[submodule "ClimProjDiags"]
-	path = ClimProjDiags
-	url = https://github.com/cran/ClimProjDiags
 [submodule "ClimaRep"]
 	path = ClimaRep
 	url = https://github.com/cran/ClimaRep
@@ -12332,9 +12323,6 @@
 [submodule "PCGSE"]
 	path = PCGSE
 	url = https://github.com/cran/PCGSE
-[submodule "PCICt"]
-	path = PCICt
-	url = https://github.com/cran/PCICt
 [submodule "PCL"]
 	path = PCL
 	url = https://github.com/cran/PCL
@@ -32066,9 +32054,6 @@
 [submodule "epubr"]
 	path = epubr
 	url = https://github.com/cran/epubr
-[submodule "epwshiftr"]
-	path = epwshiftr
-	url = https://github.com/cran/epwshiftr
 [submodule "epxToR"]
 	path = epxToR
 	url = https://github.com/cran/epxToR
@@ -32339,9 +32324,6 @@
 [submodule "eurlex"]
 	path = eurlex
 	url = https://github.com/cran/eurlex
-[submodule "eurocordexr"]
-	path = eurocordexr
-	url = https://github.com/cran/eurocordexr
 [submodule "eurodata"]
 	path = eurodata
 	url = https://github.com/cran/eurodata
@@ -36740,9 +36722,6 @@
 [submodule "gimme"]
 	path = gimme
 	url = https://github.com/cran/gimme
-[submodule "gimmeTools"]
-	path = gimmeTools
-	url = https://github.com/cran/gimmeTools
 [submodule "gimms"]
 	path = gimms
 	url = https://github.com/cran/gimms
@@ -47336,9 +47315,6 @@
 [submodule "ncdf4"]
 	path = ncdf4
 	url = https://github.com/cran/ncdf4
-[submodule "ncdf4.helpers"]
-	path = ncdf4.helpers
-	url = https://github.com/cran/ncdf4.helpers
 [submodule "ncdfCF"]
 	path = ncdfCF
 	url = https://github.com/cran/ncdfCF
@@ -57581,9 +57557,6 @@
 [submodule "s20x"]
 	path = s20x
 	url = https://github.com/cran/s20x
-[submodule "s2dv"]
-	path = s2dv
-	url = https://github.com/cran/s2dv
 [submodule "s2net"]
 	path = s2net
 	url = https://github.com/cran/s2net
@@ -61962,9 +61935,6 @@
 [submodule "starschemar"]
 	path = starschemar
 	url = https://github.com/cran/starschemar
-[submodule "startR"]
-	path = startR
-	url = https://github.com/cran/startR
 [submodule "starter"]
 	path = starter
 	url = https://github.com/cran/starter
@@ -65943,9 +65913,6 @@
 [submodule "unisensR"]
 	path = unisensR
 	url = https://github.com/cran/unisensR
-[submodule "uniset"]
-	path = uniset
-	url = https://github.com/cran/uniset
 [submodule "unitedR"]
 	path = unitedR
 	url = https://github.com/cran/unitedR
