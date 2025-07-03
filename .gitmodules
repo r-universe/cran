@@ -9584,6 +9584,9 @@
 [submodule "MADPop"]
 	path = MADPop
 	url = https://github.com/cran/MADPop
+[submodule "MAGEE"]
+	path = MAGEE
+	url = https://github.com/cran/MAGEE
 [submodule "MAGMA.R"]
 	path = MAGMA.R
 	url = https://github.com/cran/MAGMA.R
@@ -54560,6 +54563,9 @@
 [submodule "rbioacc"]
 	path = rbioacc
 	url = https://github.com/cran/rbioacc
+[submodule "rbioapi"]
+	path = rbioapi
+	url = https://github.com/cran/rbioapi
 [submodule "rbiom"]
 	path = rbiom
 	url = https://github.com/cran/rbiom
@@ -59957,6 +59963,9 @@
 [submodule "simpleMH"]
 	path = simpleMH
 	url = https://github.com/cran/simpleMH
+[submodule "simpleMLP"]
+	path = simpleMLP
+	url = https://github.com/cran/simpleMLP
 [submodule "simpleNeural"]
 	path = simpleNeural
 	url = https://github.com/cran/simpleNeural
