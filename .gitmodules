@@ -1433,6 +1433,9 @@
 [submodule "BayesBinMix"]
 	path = BayesBinMix
 	url = https://github.com/cran/BayesBinMix
+[submodule "BayesBrainMap"]
+	path = BayesBrainMap
+	url = https://github.com/cran/BayesBrainMap
 [submodule "BayesCACE"]
 	path = BayesCACE
 	url = https://github.com/cran/BayesCACE
@@ -38735,6 +38738,9 @@
 [submodule "hmclearn"]
 	path = hmclearn
 	url = https://github.com/cran/hmclearn
+[submodule "hmde"]
+	path = hmde
+	url = https://github.com/cran/hmde
 [submodule "hmeasure"]
 	path = hmeasure
 	url = https://github.com/cran/hmeasure
@@ -58730,6 +58736,9 @@
 [submodule "semEff"]
 	path = semEff
 	url = https://github.com/cran/semEff
+[submodule "semEffect"]
+	path = semEffect
+	url = https://github.com/cran/semEffect
 [submodule "semPlot"]
 	path = semPlot
 	url = https://github.com/cran/semPlot
