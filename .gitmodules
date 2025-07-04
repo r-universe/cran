@@ -66663,9 +66663,6 @@
 [submodule "viralmodels"]
 	path = viralmodels
 	url = https://github.com/cran/viralmodels
-[submodule "viralx"]
-	path = viralx
-	url = https://github.com/cran/viralx
 [submodule "viridis"]
 	path = viridis
 	url = https://github.com/cran/viridis
