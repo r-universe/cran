@@ -16523,6 +16523,9 @@
 [submodule "SASmixed"]
 	path = SASmixed
 	url = https://github.com/cran/SASmixed
+[submodule "SATS"]
+	path = SATS
+	url = https://github.com/cran/SATS
 [submodule "SAVER"]
 	path = SAVER
 	url = https://github.com/cran/SAVER
@@ -49367,6 +49370,9 @@
 [submodule "osDesign"]
 	path = osDesign
 	url = https://github.com/cran/osDesign
+[submodule "osbng"]
+	path = osbng
+	url = https://github.com/cran/osbng
 [submodule "osc"]
 	path = osc
 	url = https://github.com/cran/osc
@@ -66825,6 +66831,9 @@
 [submodule "voiceR"]
 	path = voiceR
 	url = https://github.com/cran/voiceR
+[submodule "voigt"]
+	path = voigt
+	url = https://github.com/cran/voigt
 [submodule "vol2birdR"]
 	path = vol2birdR
 	url = https://github.com/cran/vol2birdR
