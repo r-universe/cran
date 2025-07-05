@@ -9980,6 +9980,9 @@
 [submodule "MICsplines"]
 	path = MICsplines
 	url = https://github.com/cran/MICsplines
+[submodule "MIDASim"]
+	path = MIDASim
+	url = https://github.com/cran/MIDASim
 [submodule "MIDN"]
 	path = MIDN
 	url = https://github.com/cran/MIDN
@@ -34088,6 +34091,9 @@
 [submodule "flowchart"]
 	path = flowchart
 	url = https://github.com/cran/flowchart
+[submodule "flowcluster"]
+	path = flowcluster
+	url = https://github.com/cran/flowcluster
 [submodule "flowmapblue"]
 	path = flowmapblue
 	url = https://github.com/cran/flowmapblue
@@ -40091,6 +40097,9 @@
 [submodule "innsight"]
 	path = innsight
 	url = https://github.com/cran/innsight
+[submodule "ino"]
+	path = ino
+	url = https://github.com/cran/ino
 [submodule "inops"]
 	path = inops
 	url = https://github.com/cran/inops
@@ -46265,6 +46274,9 @@
 [submodule "move2"]
 	path = move2
 	url = https://github.com/cran/move2
+[submodule "moveEZ"]
+	path = moveEZ
+	url = https://github.com/cran/moveEZ
 [submodule "moveHMM"]
 	path = moveHMM
 	url = https://github.com/cran/moveHMM
@@ -57302,6 +57314,9 @@
 [submodule "rtern"]
 	path = rtern
 	url = https://github.com/cran/rtern
+[submodule "rtestim"]
+	path = rtestim
+	url = https://github.com/cran/rtestim
 [submodule "rtf"]
 	path = rtf
 	url = https://github.com/cran/rtf
