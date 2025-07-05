@@ -17477,9 +17477,6 @@
 [submodule "SeedMaker"]
 	path = SeedMaker
 	url = https://github.com/cran/SeedMaker
-[submodule "SeedMatchR"]
-	path = SeedMatchR
-	url = https://github.com/cran/SeedMatchR
 [submodule "SeedVigorIndex"]
 	path = SeedVigorIndex
 	url = https://github.com/cran/SeedVigorIndex
