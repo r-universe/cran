@@ -6569,6 +6569,9 @@
 [submodule "GHCNr"]
 	path = GHCNr
 	url = https://github.com/cran/GHCNr
+[submodule "GHRexplore"]
+	path = GHRexplore
+	url = https://github.com/cran/GHRexplore
 [submodule "GHS"]
 	path = GHS
 	url = https://github.com/cran/GHS
@@ -39887,6 +39890,9 @@
 [submodule "imuf"]
 	path = imuf
 	url = https://github.com/cran/imuf
+[submodule "inDAGO"]
+	path = inDAGO
+	url = https://github.com/cran/inDAGO
 [submodule "inTextSummaryTable"]
 	path = inTextSummaryTable
 	url = https://github.com/cran/inTextSummaryTable
@@ -55550,6 +55556,9 @@
 [submodule "repsd"]
 	path = repsd
 	url = https://github.com/cran/repsd
+[submodule "reptiledb.data"]
+	path = reptiledb.data
+	url = https://github.com/cran/reptiledb.data
 [submodule "repurrrsive"]
 	path = repurrrsive
 	url = https://github.com/cran/repurrrsive
@@ -57149,6 +57158,9 @@
 [submodule "rspa"]
 	path = rspa
 	url = https://github.com/cran/rspa
+[submodule "rspacer"]
+	path = rspacer
+	url = https://github.com/cran/rspacer
 [submodule "rsparkling"]
 	path = rsparkling
 	url = https://github.com/cran/rsparkling
