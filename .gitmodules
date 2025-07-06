@@ -39725,9 +39725,6 @@
 [submodule "image.libfacedetection"]
 	path = image.libfacedetection
 	url = https://github.com/cran/image.libfacedetection
-[submodule "image.textlinedetector"]
-	path = image.textlinedetector
-	url = https://github.com/cran/image.textlinedetector
 [submodule "image2data"]
 	path = image2data
 	url = https://github.com/cran/image2data
@@ -54308,9 +54305,6 @@
 [submodule "randomizr"]
 	path = randomizr
 	url = https://github.com/cran/randomizr
-[submodule "randquotes"]
-	path = randquotes
-	url = https://github.com/cran/randquotes
 [submodule "randtests"]
 	path = randtests
 	url = https://github.com/cran/randtests
