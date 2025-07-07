@@ -4106,6 +4106,9 @@
 [submodule "DRIP"]
 	path = DRIP
 	url = https://github.com/cran/DRIP
+[submodule "DRPT"]
+	path = DRPT
+	url = https://github.com/cran/DRPT
 [submodule "DRR"]
 	path = DRR
 	url = https://github.com/cran/DRR
@@ -19397,6 +19400,9 @@
 [submodule "TrueSkillThroughTime"]
 	path = TrueSkillThroughTime
 	url = https://github.com/cran/TrueSkillThroughTime
+[submodule "TrueWAP"]
+	path = TrueWAP
+	url = https://github.com/cran/TrueWAP
 [submodule "TrumpetPlots"]
 	path = TrumpetPlots
 	url = https://github.com/cran/TrumpetPlots
@@ -32696,6 +32702,9 @@
 [submodule "extraDistr"]
 	path = extraDistr
 	url = https://github.com/cran/extraDistr
+[submodule "extraSuperpower"]
+	path = extraSuperpower
+	url = https://github.com/cran/extraSuperpower
 [submodule "extractFAERS"]
 	path = extractFAERS
 	url = https://github.com/cran/extractFAERS
@@ -50801,6 +50810,9 @@
 [submodule "pharmaversesdtm"]
 	path = pharmaversesdtm
 	url = https://github.com/cran/pharmaversesdtm
+[submodule "pharmaversesdtmjnj"]
+	path = pharmaversesdtmjnj
+	url = https://github.com/cran/pharmaversesdtmjnj
 [submodule "pharmr"]
 	path = pharmr
 	url = https://github.com/cran/pharmr
@@ -54233,6 +54245,9 @@
 [submodule "ramlegacy"]
 	path = ramlegacy
 	url = https://github.com/cran/ramlegacy
+[submodule "rampage"]
+	path = rampage
+	url = https://github.com/cran/rampage
 [submodule "ramps"]
 	path = ramps
 	url = https://github.com/cran/ramps
@@ -66636,6 +66651,9 @@
 [submodule "viafr"]
 	path = viafr
 	url = https://github.com/cran/viafr
+[submodule "vibass"]
+	path = vibass
+	url = https://github.com/cran/vibass
 [submodule "vici"]
 	path = vici
 	url = https://github.com/cran/vici
