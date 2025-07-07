@@ -9221,6 +9221,9 @@
 [submodule "LST"]
 	path = LST
 	url = https://github.com/cran/LST
+[submodule "LSTMfactors"]
+	path = LSTMfactors
+	url = https://github.com/cran/LSTMfactors
 [submodule "LSTS"]
 	path = LSTS
 	url = https://github.com/cran/LSTS
@@ -52319,6 +52322,9 @@
 [submodule "prepdat"]
 	path = prepdat
 	url = https://github.com/cran/prepdat
+[submodule "prepost"]
+	path = prepost
+	url = https://github.com/cran/prepost
 [submodule "prepplot"]
 	path = prepplot
 	url = https://github.com/cran/prepplot
@@ -61893,6 +61899,9 @@
 [submodule "st"]
 	path = st
 	url = https://github.com/cran/st
+[submodule "stCEG"]
+	path = stCEG
+	url = https://github.com/cran/stCEG
 [submodule "stR"]
 	path = stR
 	url = https://github.com/cran/stR
