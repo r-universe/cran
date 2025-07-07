@@ -9242,6 +9242,9 @@
 [submodule "LTCDM"]
 	path = LTCDM
 	url = https://github.com/cran/LTCDM
+[submodule "LTFGRS"]
+	path = LTFGRS
+	url = https://github.com/cran/LTFGRS
 [submodule "LTFHPlus"]
 	path = LTFHPlus
 	url = https://github.com/cran/LTFHPlus
@@ -36173,6 +36176,9 @@
 [submodule "ggdmc"]
 	path = ggdmc
 	url = https://github.com/cran/ggdmc
+[submodule "ggdmcHeaders"]
+	path = ggdmcHeaders
+	url = https://github.com/cran/ggdmcHeaders
 [submodule "gge"]
 	path = gge
 	url = https://github.com/cran/gge
