@@ -35075,6 +35075,9 @@
 [submodule "galamm"]
 	path = galamm
 	url = https://github.com/cran/galamm
+[submodule "galaxias"]
+	path = galaxias
+	url = https://github.com/cran/galaxias
 [submodule "galigor"]
 	path = galigor
 	url = https://github.com/cran/galigor
