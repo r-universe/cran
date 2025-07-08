@@ -734,6 +734,9 @@
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
+[submodule "ArgentinAPI"]
+	path = ArgentinAPI
+	url = https://github.com/cran/ArgentinAPI
 [submodule "Argentum"]
 	path = Argentum
 	url = https://github.com/cran/Argentum
@@ -7742,6 +7745,9 @@
 [submodule "HierPortfolios"]
 	path = HierPortfolios
 	url = https://github.com/cran/HierPortfolios
+[submodule "HighFive"]
+	path = HighFive
+	url = https://github.com/cran/HighFive
 [submodule "HighestMedianRules"]
 	path = HighestMedianRules
 	url = https://github.com/cran/HighestMedianRules
@@ -40286,6 +40292,9 @@
 [submodule "intervalaverage"]
 	path = intervalaverage
 	url = https://github.com/cran/intervalaverage
+[submodule "intervalpsych"]
+	path = intervalpsych
+	url = https://github.com/cran/intervalpsych
 [submodule "intervals"]
 	path = intervals
 	url = https://github.com/cran/intervals
