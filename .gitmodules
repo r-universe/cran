@@ -19313,6 +19313,9 @@
 [submodule "Transform"]
 	path = Transform
 	url = https://github.com/cran/Transform
+[submodule "Transition"]
+	path = Transition
+	url = https://github.com/cran/Transition
 [submodule "Tratamentos.ad"]
 	path = Tratamentos.ad
 	url = https://github.com/cran/Tratamentos.ad
@@ -60617,6 +60620,9 @@
 [submodule "sms"]
 	path = sms
 	url = https://github.com/cran/sms
+[submodule "smsets"]
+	path = smsets
+	url = https://github.com/cran/smsets
 [submodule "smss"]
 	path = smss
 	url = https://github.com/cran/smss
