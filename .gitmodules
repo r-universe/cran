@@ -36857,6 +36857,9 @@
 [submodule "gkmSVM"]
 	path = gkmSVM
 	url = https://github.com/cran/gkmSVM
+[submodule "gkwreg"]
+	path = gkwreg
+	url = https://github.com/cran/gkwreg
 [submodule "glam"]
 	path = glam
 	url = https://github.com/cran/glam
