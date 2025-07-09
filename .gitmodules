@@ -24932,6 +24932,9 @@
 [submodule "caretForecast"]
 	path = caretForecast
 	url = https://github.com/cran/caretForecast
+[submodule "caretSDM"]
+	path = caretSDM
+	url = https://github.com/cran/caretSDM
 [submodule "carfima"]
 	path = carfima
 	url = https://github.com/cran/carfima
@@ -27323,6 +27326,9 @@
 [submodule "copent"]
 	path = copent
 	url = https://github.com/cran/copent
+[submodule "copernicusR"]
+	path = copernicusR
+	url = https://github.com/cran/copernicusR
 [submodule "cophescan"]
 	path = cophescan
 	url = https://github.com/cran/cophescan
@@ -32351,6 +32357,9 @@
 [submodule "etwfe"]
 	path = etwfe
 	url = https://github.com/cran/etwfe
+[submodule "eudata"]
+	path = eudata
+	url = https://github.com/cran/eudata
 [submodule "eudract"]
 	path = eudract
 	url = https://github.com/cran/eudract
@@ -34151,6 +34160,9 @@
 [submodule "fluxible"]
 	path = fluxible
 	url = https://github.com/cran/fluxible
+[submodule "fluxtools"]
+	path = fluxtools
+	url = https://github.com/cran/fluxtools
 [submodule "fluxweb"]
 	path = fluxweb
 	url = https://github.com/cran/fluxweb
@@ -36266,6 +36278,9 @@
 [submodule "gggap"]
 	path = gggap
 	url = https://github.com/cran/gggap
+[submodule "gggda"]
+	path = gggda
+	url = https://github.com/cran/gggda
 [submodule "gggenes"]
 	path = gggenes
 	url = https://github.com/cran/gggenes
@@ -55619,6 +55634,9 @@
 [submodule "reptiledb.data"]
 	path = reptiledb.data
 	url = https://github.com/cran/reptiledb.data
+[submodule "reptiledbr"]
+	path = reptiledbr
+	url = https://github.com/cran/reptiledbr
 [submodule "repurrrsive"]
 	path = repurrrsive
 	url = https://github.com/cran/repurrrsive
