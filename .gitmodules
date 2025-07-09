@@ -36857,9 +36857,6 @@
 [submodule "gkmSVM"]
 	path = gkmSVM
 	url = https://github.com/cran/gkmSVM
-[submodule "gkwreg"]
-	path = gkwreg
-	url = https://github.com/cran/gkwreg
 [submodule "glam"]
 	path = glam
 	url = https://github.com/cran/glam
@@ -67128,6 +67125,9 @@
 [submodule "warabandi"]
 	path = warabandi
 	url = https://github.com/cran/warabandi
+[submodule "warbleR"]
+	path = warbleR
+	url = https://github.com/cran/warbleR
 [submodule "warehouseTools"]
 	path = warehouseTools
 	url = https://github.com/cran/warehouseTools
