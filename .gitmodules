@@ -1187,6 +1187,9 @@
 [submodule "BMEmapping"]
 	path = BMEmapping
 	url = https://github.com/cran/BMEmapping
+[submodule "BMIselect"]
+	path = BMIselect
+	url = https://github.com/cran/BMIselect
 [submodule "BMRBr"]
 	path = BMRBr
 	url = https://github.com/cran/BMRBr
@@ -2018,6 +2021,9 @@
 [submodule "BrazilCrime"]
 	path = BrazilCrime
 	url = https://github.com/cran/BrazilCrime
+[submodule "BrazilDataAPI"]
+	path = BrazilDataAPI
+	url = https://github.com/cran/BrazilDataAPI
 [submodule "BrazilMet"]
 	path = BrazilMet
 	url = https://github.com/cran/BrazilMet
@@ -16952,6 +16958,9 @@
 [submodule "SLPresElection"]
 	path = SLPresElection
 	url = https://github.com/cran/SLPresElection
+[submodule "SLRMss"]
+	path = SLRMss
+	url = https://github.com/cran/SLRMss
 [submodule "SLSEdesign"]
 	path = SLSEdesign
 	url = https://github.com/cran/SLSEdesign
@@ -19445,6 +19454,9 @@
 [submodule "TwoArmSurvSim"]
 	path = TwoArmSurvSim
 	url = https://github.com/cran/TwoArmSurvSim
+[submodule "TwoPhaseCorR"]
+	path = TwoPhaseCorR
+	url = https://github.com/cran/TwoPhaseCorR
 [submodule "TwoSampleTest.HD"]
 	path = TwoSampleTest.HD
 	url = https://github.com/cran/TwoSampleTest.HD
@@ -53675,6 +53687,9 @@
 [submodule "quarto"]
 	path = quarto
 	url = https://github.com/cran/quarto
+[submodule "quartose"]
+	path = quartose
+	url = https://github.com/cran/quartose
 [submodule "quaxnat"]
 	path = quaxnat
 	url = https://github.com/cran/quaxnat
