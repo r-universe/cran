@@ -27920,9 +27920,6 @@
 [submodule "crew.cluster"]
 	path = crew.cluster
 	url = https://github.com/cran/crew.cluster
-[submodule "crfsuite"]
-	path = crfsuite
-	url = https://github.com/cran/crfsuite
 [submodule "cricketdata"]
 	path = cricketdata
 	url = https://github.com/cran/cricketdata
