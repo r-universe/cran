@@ -12455,6 +12455,9 @@
 [submodule "PFLR"]
 	path = PFLR
 	url = https://github.com/cran/PFLR
+[submodule "PFW"]
+	path = PFW
+	url = https://github.com/cran/PFW
 [submodule "PGEE"]
 	path = PGEE
 	url = https://github.com/cran/PGEE
@@ -37730,6 +37733,9 @@
 [submodule "groupedSurv"]
 	path = groupedSurv
 	url = https://github.com/cran/groupedSurv
+[submodule "grouper"]
+	path = grouper
+	url = https://github.com/cran/grouper
 [submodule "groupr"]
 	path = groupr
 	url = https://github.com/cran/groupr
@@ -48446,6 +48452,9 @@
 [submodule "nricens"]
 	path = nricens
 	url = https://github.com/cran/nricens
+[submodule "nrlR"]
+	path = nrlR
+	url = https://github.com/cran/nrlR
 [submodule "nsRFA"]
 	path = nsRFA
 	url = https://github.com/cran/nsRFA
@@ -60152,6 +60161,9 @@
 [submodule "simulariatools"]
 	path = simulariatools
 	url = https://github.com/cran/simulariatools
+[submodule "simulateDCE"]
+	path = simulateDCE
+	url = https://github.com/cran/simulateDCE
 [submodule "simulator"]
 	path = simulator
 	url = https://github.com/cran/simulator
