@@ -38153,9 +38153,6 @@
 [submodule "hahmmr"]
 	path = hahmmr
 	url = https://github.com/cran/hahmmr
-[submodule "hakaiApi"]
-	path = hakaiApi
-	url = https://github.com/cran/hakaiApi
 [submodule "hal9001"]
 	path = hal9001
 	url = https://github.com/cran/hal9001
@@ -54284,9 +54281,6 @@
 [submodule "rags2ridges"]
 	path = rags2ridges
 	url = https://github.com/cran/rags2ridges
-[submodule "ragtop"]
-	path = ragtop
-	url = https://github.com/cran/ragtop
 [submodule "rai"]
 	path = rai
 	url = https://github.com/cran/rai
