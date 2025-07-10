@@ -3317,6 +3317,9 @@
 [submodule "ComradesM"]
 	path = ComradesM
 	url = https://github.com/cran/ComradesM
+[submodule "ConFluxPro"]
+	path = ConFluxPro
+	url = https://github.com/cran/ConFluxPro
 [submodule "ConNEcT"]
 	path = ConNEcT
 	url = https://github.com/cran/ConNEcT
@@ -7886,6 +7889,9 @@
 [submodule "IBRtools"]
 	path = IBRtools
 	url = https://github.com/cran/IBRtools
+[submodule "IBclust"]
+	path = IBclust
+	url = https://github.com/cran/IBclust
 [submodule "IBrokers"]
 	path = IBrokers
 	url = https://github.com/cran/IBrokers
@@ -14063,6 +14069,9 @@
 [submodule "RBPcurve"]
 	path = RBPcurve
 	url = https://github.com/cran/RBPcurve
+[submodule "RBaM"]
+	path = RBaM
+	url = https://github.com/cran/RBaM
 [submodule "RBaseX"]
 	path = RBaseX
 	url = https://github.com/cran/RBaseX
@@ -24059,6 +24068,9 @@
 [submodule "bootLR"]
 	path = bootLR
 	url = https://github.com/cran/bootLR
+[submodule "bootLRTpairwise"]
+	path = bootLRTpairwise
+	url = https://github.com/cran/bootLRTpairwise
 [submodule "bootPLS"]
 	path = bootPLS
 	url = https://github.com/cran/bootPLS
@@ -30902,6 +30914,9 @@
 [submodule "dynaTree"]
 	path = dynaTree
 	url = https://github.com/cran/dynaTree
+[submodule "dynafluxr"]
+	path = dynafluxr
+	url = https://github.com/cran/dynafluxr
 [submodule "dynamAedes"]
 	path = dynamAedes
 	url = https://github.com/cran/dynamAedes
@@ -35015,6 +35030,9 @@
 [submodule "g3viz"]
 	path = g3viz
 	url = https://github.com/cran/g3viz
+[submodule "g6R"]
+	path = g6R
+	url = https://github.com/cran/g6R
 [submodule "gCat"]
 	path = gCat
 	url = https://github.com/cran/gCat
@@ -36707,6 +36725,9 @@
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/cran/ggtrace
+[submodule "ggtranslate"]
+	path = ggtranslate
+	url = https://github.com/cran/ggtranslate
 [submodule "ggtreebar"]
 	path = ggtreebar
 	url = https://github.com/cran/ggtreebar
@@ -52334,6 +52355,9 @@
 [submodule "predicts"]
 	path = predicts
 	url = https://github.com/cran/predicts
+[submodule "predictsr"]
+	path = predictsr
+	url = https://github.com/cran/predictsr
 [submodule "predieval"]
 	path = predieval
 	url = https://github.com/cran/predieval
@@ -53117,6 +53141,9 @@
 [submodule "puzzle"]
 	path = puzzle
 	url = https://github.com/cran/puzzle
+[submodule "pvEBayes"]
+	path = pvEBayes
+	url = https://github.com/cran/pvEBayes
 [submodule "pvLRT"]
 	path = pvLRT
 	url = https://github.com/cran/pvLRT
@@ -56168,6 +56195,9 @@
 [submodule "rise"]
 	path = rise
 	url = https://github.com/cran/rise
+[submodule "risk.assessr"]
+	path = risk.assessr
+	url = https://github.com/cran/risk.assessr
 [submodule "riskCommunicator"]
 	path = riskCommunicator
 	url = https://github.com/cran/riskCommunicator
