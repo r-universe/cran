@@ -40361,9 +40361,6 @@
 [submodule "intrval"]
 	path = intrval
 	url = https://github.com/cran/intrval
-[submodule "intsel"]
-	path = intsel
-	url = https://github.com/cran/intsel
 [submodule "intsurv"]
 	path = intsurv
 	url = https://github.com/cran/intsurv
@@ -55766,9 +55763,6 @@
 [submodule "result"]
 	path = result
 	url = https://github.com/cran/result
-[submodule "resultant"]
-	path = resultant
-	url = https://github.com/cran/resultant
 [submodule "resumer"]
 	path = resumer
 	url = https://github.com/cran/resumer
