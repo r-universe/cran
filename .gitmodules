@@ -41120,6 +41120,9 @@
 [submodule "jquerylib"]
 	path = jquerylib
 	url = https://github.com/cran/jquerylib
+[submodule "jrSiCKLSNMF"]
+	path = jrSiCKLSNMF
+	url = https://github.com/cran/jrSiCKLSNMF
 [submodule "jrc"]
 	path = jrc
 	url = https://github.com/cran/jrc
