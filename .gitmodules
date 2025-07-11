@@ -61559,6 +61559,9 @@
 [submodule "spind"]
 	path = spind
 	url = https://github.com/cran/spind
+[submodule "spinebil"]
+	path = spinebil
+	url = https://github.com/cran/spinebil
 [submodule "spinifex"]
 	path = spinifex
 	url = https://github.com/cran/spinifex
