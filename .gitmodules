@@ -9413,9 +9413,6 @@
 [submodule "LexisPlotR"]
 	path = LexisPlotR
 	url = https://github.com/cran/LexisPlotR
-[submodule "LibOPF"]
-	path = LibOPF
-	url = https://github.com/cran/LibOPF
 [submodule "LiblineaR"]
 	path = LiblineaR
 	url = https://github.com/cran/LiblineaR
@@ -31121,9 +31118,6 @@
 [submodule "easySdcTable"]
 	path = easySdcTable
 	url = https://github.com/cran/easySdcTable
-[submodule "easySimData"]
-	path = easySimData
-	url = https://github.com/cran/easySimData
 [submodule "easyVerification"]
 	path = easyVerification
 	url = https://github.com/cran/easyVerification
@@ -31145,9 +31139,6 @@
 [submodule "easyclimate"]
 	path = easyclimate
 	url = https://github.com/cran/easyclimate
-[submodule "easycsv"]
-	path = easycsv
-	url = https://github.com/cran/easycsv
 [submodule "easydb"]
 	path = easydb
 	url = https://github.com/cran/easydb
@@ -33422,9 +33413,6 @@
 [submodule "fcp"]
 	path = fcp
 	url = https://github.com/cran/fcp
-[submodule "fcr"]
-	path = fcr
-	url = https://github.com/cran/fcr
 [submodule "fcros"]
 	path = fcros
 	url = https://github.com/cran/fcros
@@ -35219,9 +35207,6 @@
 [submodule "gamlss.mx"]
 	path = gamlss.mx
 	url = https://github.com/cran/gamlss.mx
-[submodule "gamlss.spatial"]
-	path = gamlss.spatial
-	url = https://github.com/cran/gamlss.spatial
 [submodule "gamlss.tr"]
 	path = gamlss.tr
 	url = https://github.com/cran/gamlss.tr
@@ -50063,9 +50048,6 @@
 [submodule "parmsurvfit"]
 	path = parmsurvfit
 	url = https://github.com/cran/parmsurvfit
-[submodule "paropt"]
-	path = paropt
-	url = https://github.com/cran/paropt
 [submodule "parqr"]
 	path = parqr
 	url = https://github.com/cran/parqr
@@ -60563,9 +60545,6 @@
 [submodule "smcfcs"]
 	path = smcfcs
 	url = https://github.com/cran/smcfcs
-[submodule "smcryptoR"]
-	path = smcryptoR
-	url = https://github.com/cran/smcryptoR
 [submodule "smcure"]
 	path = smcure
 	url = https://github.com/cran/smcure
@@ -62763,9 +62742,6 @@
 [submodule "suncalc"]
 	path = suncalc
 	url = https://github.com/cran/suncalc
-[submodule "sundialr"]
-	path = sundialr
-	url = https://github.com/cran/sundialr
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/cran/suntools
