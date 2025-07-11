@@ -40571,6 +40571,9 @@
 [submodule "irlba"]
 	path = irlba
 	url = https://github.com/cran/irlba
+[submodule "ironseed"]
+	path = ironseed
+	url = https://github.com/cran/ironseed
 [submodule "irr"]
 	path = irr
 	url = https://github.com/cran/irr
@@ -41117,9 +41120,6 @@
 [submodule "jquerylib"]
 	path = jquerylib
 	url = https://github.com/cran/jquerylib
-[submodule "jrSiCKLSNMF"]
-	path = jrSiCKLSNMF
-	url = https://github.com/cran/jrSiCKLSNMF
 [submodule "jrc"]
 	path = jrc
 	url = https://github.com/cran/jrc
