@@ -734,6 +734,9 @@
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
+[submodule "ArctosR"]
+	path = ArctosR
+	url = https://github.com/cran/ArctosR
 [submodule "ArgentinAPI"]
 	path = ArgentinAPI
 	url = https://github.com/cran/ArgentinAPI
@@ -9503,6 +9506,9 @@
 [submodule "LoBrA"]
 	path = LoBrA
 	url = https://github.com/cran/LoBrA
+[submodule "LoTTA"]
+	path = LoTTA
+	url = https://github.com/cran/LoTTA
 [submodule "LobsterCatch"]
 	path = LobsterCatch
 	url = https://github.com/cran/LobsterCatch
@@ -21851,6 +21857,9 @@
 [submodule "arm"]
 	path = arm
 	url = https://github.com/cran/arm
+[submodule "armaOptions"]
+	path = armaOptions
+	url = https://github.com/cran/armaOptions
 [submodule "armspp"]
 	path = armspp
 	url = https://github.com/cran/armspp
@@ -34922,6 +34931,9 @@
 [submodule "fusedMGM"]
 	path = fusedMGM
 	url = https://github.com/cran/fusedMGM
+[submodule "fusedTree"]
+	path = fusedTree
+	url = https://github.com/cran/fusedTree
 [submodule "fusen"]
 	path = fusen
 	url = https://github.com/cran/fusen
@@ -41210,6 +41222,9 @@
 [submodule "jumps"]
 	path = jumps
 	url = https://github.com/cran/jumps
+[submodule "junco"]
+	path = junco
+	url = https://github.com/cran/junco
 [submodule "junctions"]
 	path = junctions
 	url = https://github.com/cran/junctions
@@ -43685,6 +43700,9 @@
 [submodule "manta"]
 	path = manta
 	url = https://github.com/cran/manta
+[submodule "mantar"]
+	path = mantar
+	url = https://github.com/cran/mantar
 [submodule "manydata"]
 	path = manydata
 	url = https://github.com/cran/manydata
@@ -64506,6 +64524,9 @@
 [submodule "tidytidbits"]
 	path = tidytidbits
 	url = https://github.com/cran/tidytidbits
+[submodule "tidytitanic"]
+	path = tidytitanic
+	url = https://github.com/cran/tidytitanic
 [submodule "tidytlg"]
 	path = tidytlg
 	url = https://github.com/cran/tidytlg
@@ -64944,6 +64965,9 @@
 [submodule "topologyGSA"]
 	path = topologyGSA
 	url = https://github.com/cran/topologyGSA
+[submodule "topolow"]
+	path = topolow
+	url = https://github.com/cran/topolow
 [submodule "toposort"]
 	path = toposort
 	url = https://github.com/cran/toposort
