@@ -3308,6 +3308,9 @@
 [submodule "Compositional"]
 	path = Compositional
 	url = https://github.com/cran/Compositional
+[submodule "CompositionalHDDA"]
+	path = CompositionalHDDA
+	url = https://github.com/cran/CompositionalHDDA
 [submodule "CompositionalML"]
 	path = CompositionalML
 	url = https://github.com/cran/CompositionalML
@@ -10313,6 +10316,9 @@
 [submodule "MRFcov"]
 	path = MRFcov
 	url = https://github.com/cran/MRFcov
+[submodule "MRG"]
+	path = MRG
+	url = https://github.com/cran/MRG
 [submodule "MRHawkes"]
 	path = MRHawkes
 	url = https://github.com/cran/MRHawkes
@@ -10709,6 +10715,9 @@
 [submodule "MeTo"]
 	path = MeTo
 	url = https://github.com/cran/MeTo
+[submodule "MeasurementDiagnostics"]
+	path = MeasurementDiagnostics
+	url = https://github.com/cran/MeasurementDiagnostics
 [submodule "MedDataSets"]
 	path = MedDataSets
 	url = https://github.com/cran/MedDataSets
@@ -52490,6 +52499,9 @@
 [submodule "pricesensitivitymeter"]
 	path = pricesensitivitymeter
 	url = https://github.com/cran/pricesensitivitymeter
+[submodule "pridit"]
+	path = pridit
+	url = https://github.com/cran/pridit
 [submodule "prim"]
 	path = prim
 	url = https://github.com/cran/prim
