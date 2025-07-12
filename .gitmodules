@@ -29366,9 +29366,6 @@
 [submodule "demography"]
 	path = demography
 	url = https://github.com/cran/demography
-[submodule "demu"]
-	path = demu
-	url = https://github.com/cran/demu
 [submodule "demulticoder"]
 	path = demulticoder
 	url = https://github.com/cran/demulticoder
