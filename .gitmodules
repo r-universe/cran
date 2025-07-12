@@ -9626,6 +9626,9 @@
 [submodule "MADPop"]
 	path = MADPop
 	url = https://github.com/cran/MADPop
+[submodule "MAGEE"]
+	path = MAGEE
+	url = https://github.com/cran/MAGEE
 [submodule "MAGMA.R"]
 	path = MAGMA.R
 	url = https://github.com/cran/MAGMA.R
@@ -54287,6 +54290,9 @@
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/cran/ragg
+[submodule "ragnar"]
+	path = ragnar
+	url = https://github.com/cran/ragnar
 [submodule "rags2ridges"]
 	path = rags2ridges
 	url = https://github.com/cran/rags2ridges
