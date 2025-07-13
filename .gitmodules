@@ -22268,9 +22268,6 @@
 [submodule "automagic"]
 	path = automagic
 	url = https://github.com/cran/automagic
-[submodule "automap"]
-	path = automap
-	url = https://github.com/cran/automap
 [submodule "automatedtests"]
 	path = automatedtests
 	url = https://github.com/cran/automatedtests
