@@ -39308,9 +39308,6 @@
 [submodule "i18n"]
 	path = i18n
 	url = https://github.com/cran/i18n
-[submodule "i2extras"]
-	path = i2extras
-	url = https://github.com/cran/i2extras
 [submodule "i3pack"]
 	path = i3pack
 	url = https://github.com/cran/i3pack
