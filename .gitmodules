@@ -11381,9 +11381,6 @@
 [submodule "NHSRplotthedots"]
 	path = NHSRplotthedots
 	url = https://github.com/cran/NHSRplotthedots
-[submodule "NHSRwaitinglist"]
-	path = NHSRwaitinglist
-	url = https://github.com/cran/NHSRwaitinglist
 [submodule "NIMAA"]
 	path = NIMAA
 	url = https://github.com/cran/NIMAA
