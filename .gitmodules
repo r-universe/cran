@@ -1538,6 +1538,9 @@
 [submodule "BayesMixSurv"]
 	path = BayesMixSurv
 	url = https://github.com/cran/BayesMixSurv
+[submodule "BayesMoFo"]
+	path = BayesMoFo
+	url = https://github.com/cran/BayesMoFo
 [submodule "BayesMortalityPlus"]
 	path = BayesMortalityPlus
 	url = https://github.com/cran/BayesMortalityPlus
@@ -23270,6 +23273,9 @@
 [submodule "bgw"]
 	path = bgw
 	url = https://github.com/cran/bgw
+[submodule "bhetGP"]
+	path = bhetGP
+	url = https://github.com/cran/bhetGP
 [submodule "bhm"]
 	path = bhm
 	url = https://github.com/cran/bhm
@@ -26306,6 +26312,9 @@
 [submodule "clusterSim"]
 	path = clusterSim
 	url = https://github.com/cran/clusterSim
+[submodule "clusterWebApp"]
+	path = clusterWebApp
+	url = https://github.com/cran/clusterWebApp
 [submodule "clusterhap"]
 	path = clusterhap
 	url = https://github.com/cran/clusterhap
@@ -26996,6 +27005,9 @@
 [submodule "con2lki"]
 	path = con2lki
 	url = https://github.com/cran/con2lki
+[submodule "conMItion"]
+	path = conMItion
+	url = https://github.com/cran/conMItion
 [submodule "conStruct"]
 	path = conStruct
 	url = https://github.com/cran/conStruct
@@ -31781,6 +31793,9 @@
 [submodule "emoa"]
 	path = emoa
 	url = https://github.com/cran/emoa
+[submodule "emodnet.wfs"]
+	path = emodnet.wfs
+	url = https://github.com/cran/emodnet.wfs
 [submodule "emoji"]
 	path = emoji
 	url = https://github.com/cran/emoji
@@ -35582,6 +35597,9 @@
 [submodule "genderBR"]
 	path = genderBR
 	url = https://github.com/cran/genderBR
+[submodule "genderapi"]
+	path = genderapi
+	url = https://github.com/cran/genderapi
 [submodule "genderstat"]
 	path = genderstat
 	url = https://github.com/cran/genderstat
@@ -37100,6 +37118,9 @@
 [submodule "glpkAPI"]
 	path = glpkAPI
 	url = https://github.com/cran/glpkAPI
+[submodule "glsm"]
+	path = glsm
+	url = https://github.com/cran/glsm
 [submodule "glue"]
 	path = glue
 	url = https://github.com/cran/glue
@@ -46853,6 +46874,9 @@
 [submodule "multimedia"]
 	path = multimedia
 	url = https://github.com/cran/multimedia
+[submodule "multimediate"]
+	path = multimediate
+	url = https://github.com/cran/multimediate
 [submodule "multimix"]
 	path = multimix
 	url = https://github.com/cran/multimix
@@ -57812,6 +57836,9 @@
 [submodule "saeHB.ME.beta"]
 	path = saeHB.ME.beta
 	url = https://github.com/cran/saeHB.ME.beta
+[submodule "saeHB.TF.beta"]
+	path = saeHB.TF.beta
+	url = https://github.com/cran/saeHB.TF.beta
 [submodule "saeHB.ZIB"]
 	path = saeHB.ZIB
 	url = https://github.com/cran/saeHB.ZIB
@@ -60713,6 +60740,9 @@
 [submodule "snazzieR"]
 	path = snazzieR
 	url = https://github.com/cran/snazzieR
+[submodule "snc"]
+	path = snc
+	url = https://github.com/cran/snc
 [submodule "snem"]
 	path = snem
 	url = https://github.com/cran/snem
@@ -66180,6 +66210,9 @@
 [submodule "urlchecker"]
 	path = urlchecker
 	url = https://github.com/cran/urlchecker
+[submodule "urlexplorer"]
+	path = urlexplorer
+	url = https://github.com/cran/urlexplorer
 [submodule "urlparse"]
 	path = urlparse
 	url = https://github.com/cran/urlparse
@@ -67767,6 +67800,9 @@
 [submodule "wpa"]
 	path = wpa
 	url = https://github.com/cran/wpa
+[submodule "wpeR"]
+	path = wpeR
+	url = https://github.com/cran/wpeR
 [submodule "wpp2008"]
 	path = wpp2008
 	url = https://github.com/cran/wpp2008
