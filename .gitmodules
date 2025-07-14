@@ -3587,9 +3587,6 @@
 [submodule "Crosstabs.Loglinear"]
 	path = Crosstabs.Loglinear
 	url = https://github.com/cran/Crosstabs.Loglinear
-[submodule "CruzPlot"]
-	path = CruzPlot
-	url = https://github.com/cran/CruzPlot
 [submodule "CryptRndTest"]
 	path = CryptRndTest
 	url = https://github.com/cran/CryptRndTest
@@ -5288,18 +5285,6 @@
 [submodule "EnsCat"]
 	path = EnsCat
 	url = https://github.com/cran/EnsCat
-[submodule "EnsembleBase"]
-	path = EnsembleBase
-	url = https://github.com/cran/EnsembleBase
-[submodule "EnsembleCV"]
-	path = EnsembleCV
-	url = https://github.com/cran/EnsembleCV
-[submodule "EnsemblePCReg"]
-	path = EnsemblePCReg
-	url = https://github.com/cran/EnsemblePCReg
-[submodule "EnsemblePenReg"]
-	path = EnsemblePenReg
-	url = https://github.com/cran/EnsemblePenReg
 [submodule "EntropicStatistics"]
 	path = EntropicStatistics
 	url = https://github.com/cran/EntropicStatistics
@@ -7415,9 +7400,6 @@
 [submodule "HDCurves"]
 	path = HDCurves
 	url = https://github.com/cran/HDCurves
-[submodule "HDDesign"]
-	path = HDDesign
-	url = https://github.com/cran/HDDesign
 [submodule "HDGLM"]
 	path = HDGLM
 	url = https://github.com/cran/HDGLM
@@ -9176,9 +9158,6 @@
 [submodule "LPS"]
 	path = LPS
 	url = https://github.com/cran/LPS
-[submodule "LPWC"]
-	path = LPWC
-	url = https://github.com/cran/LPWC
 [submodule "LPmerge"]
 	path = LPmerge
 	url = https://github.com/cran/LPmerge
@@ -20456,9 +20435,6 @@
 [submodule "ablasso"]
 	path = ablasso
 	url = https://github.com/cran/ablasso
-[submodule "abmR"]
-	path = abmR
-	url = https://github.com/cran/abmR
 [submodule "abms"]
 	path = abms
 	url = https://github.com/cran/abms
@@ -22268,6 +22244,9 @@
 [submodule "automagic"]
 	path = automagic
 	url = https://github.com/cran/automagic
+[submodule "automap"]
+	path = automap
+	url = https://github.com/cran/automap
 [submodule "automatedtests"]
 	path = automatedtests
 	url = https://github.com/cran/automatedtests
@@ -36089,9 +36068,6 @@
 [submodule "ggEDA"]
 	path = ggEDA
 	url = https://github.com/cran/ggEDA
-[submodule "ggESDA"]
-	path = ggESDA
-	url = https://github.com/cran/ggESDA
 [submodule "ggExtra"]
 	path = ggExtra
 	url = https://github.com/cran/ggExtra
@@ -50915,9 +50891,6 @@
 [submodule "pheatmap"]
 	path = pheatmap
 	url = https://github.com/cran/pheatmap
-[submodule "pheble"]
-	path = pheble
-	url = https://github.com/cran/pheble
 [submodule "phecodemap"]
 	path = phecodemap
 	url = https://github.com/cran/phecodemap
@@ -56750,9 +56723,6 @@
 [submodule "robustreg"]
 	path = robustreg
 	url = https://github.com/cran/robustreg
-[submodule "robustsae"]
-	path = robustsae
-	url = https://github.com/cran/robustsae
 [submodule "robustsur"]
 	path = robustsur
 	url = https://github.com/cran/robustsur
@@ -62538,9 +62508,6 @@
 [submodule "stratifiedyh"]
 	path = stratifiedyh
 	url = https://github.com/cran/stratifiedyh
-[submodule "stratifyR"]
-	path = stratifyR
-	url = https://github.com/cran/stratifyR
 [submodule "straweib"]
 	path = straweib
 	url = https://github.com/cran/straweib
@@ -63207,9 +63174,6 @@
 [submodule "swephR"]
 	path = swephR
 	url = https://github.com/cran/swephR
-[submodule "swfscAirDAS"]
-	path = swfscAirDAS
-	url = https://github.com/cran/swfscAirDAS
 [submodule "swfscDAS"]
 	path = swfscDAS
 	url = https://github.com/cran/swfscDAS
