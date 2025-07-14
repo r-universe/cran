@@ -21797,6 +21797,9 @@
 [submodule "arfima"]
 	path = arfima
 	url = https://github.com/cran/arfima
+[submodule "argminCS"]
+	path = argminCS
+	url = https://github.com/cran/argminCS
 [submodule "argo"]
 	path = argo
 	url = https://github.com/cran/argo
