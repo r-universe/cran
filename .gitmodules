@@ -17540,9 +17540,6 @@
 [submodule "SelectionBias"]
 	path = SelectionBias
 	url = https://github.com/cran/SelectionBias
-[submodule "SelfControlledCaseSeries"]
-	path = SelfControlledCaseSeries
-	url = https://github.com/cran/SelfControlledCaseSeries
 [submodule "SemNeT"]
 	path = SemNeT
 	url = https://github.com/cran/SemNeT
@@ -64509,6 +64506,9 @@
 [submodule "tidystringdist"]
 	path = tidystringdist
 	url = https://github.com/cran/tidystringdist
+[submodule "tidysummary"]
+	path = tidysummary
+	url = https://github.com/cran/tidysummary
 [submodule "tidysynth"]
 	path = tidysynth
 	url = https://github.com/cran/tidysynth
