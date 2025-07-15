@@ -50879,6 +50879,9 @@
 [submodule "pharmaverseadam"]
 	path = pharmaverseadam
 	url = https://github.com/cran/pharmaverseadam
+[submodule "pharmaverseadamjnj"]
+	path = pharmaverseadamjnj
+	url = https://github.com/cran/pharmaverseadamjnj
 [submodule "pharmaverseraw"]
 	path = pharmaverseraw
 	url = https://github.com/cran/pharmaverseraw
@@ -51152,6 +51155,9 @@
 [submodule "picker"]
 	path = picker
 	url = https://github.com/cran/picker
+[submodule "pickmax"]
+	path = pickmax
+	url = https://github.com/cran/pickmax
 [submodule "picohdr"]
 	path = picohdr
 	url = https://github.com/cran/picohdr
@@ -63774,6 +63780,9 @@
 [submodule "tempdisagg"]
 	path = tempdisagg
 	url = https://github.com/cran/tempdisagg
+[submodule "temper"]
+	path = temper
+	url = https://github.com/cran/temper
 [submodule "temperatureresponse"]
 	path = temperatureresponse
 	url = https://github.com/cran/temperatureresponse
