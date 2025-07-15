@@ -37106,6 +37106,9 @@
 [submodule "glorenz"]
 	path = glorenz
 	url = https://github.com/cran/glorenz
+[submodule "glossa"]
+	path = glossa
+	url = https://github.com/cran/glossa
 [submodule "glossary"]
 	path = glossary
 	url = https://github.com/cran/glossary
