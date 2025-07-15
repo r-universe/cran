@@ -764,6 +764,9 @@
 [submodule "AssocTests"]
 	path = AssocTests
 	url = https://github.com/cran/AssocTests
+[submodule "AssumpSure"]
+	path = AssumpSure
+	url = https://github.com/cran/AssumpSure
 [submodule "AsthmaNHANES"]
 	path = AsthmaNHANES
 	url = https://github.com/cran/AsthmaNHANES
@@ -63363,6 +63366,9 @@
 [submodule "tAI"]
 	path = tAI
 	url = https://github.com/cran/tAI
+[submodule "tEDM"]
+	path = tEDM
+	url = https://github.com/cran/tEDM
 [submodule "tLagInterim"]
 	path = tLagInterim
 	url = https://github.com/cran/tLagInterim
