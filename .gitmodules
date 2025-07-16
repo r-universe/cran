@@ -43292,6 +43292,9 @@
 [submodule "lsmeans"]
 	path = lsmeans
 	url = https://github.com/cran/lsmeans
+[submodule "lsnstat"]
+	path = lsnstat
+	url = https://github.com/cran/lsnstat
 [submodule "lsoda"]
 	path = lsoda
 	url = https://github.com/cran/lsoda
