@@ -638,6 +638,9 @@
 [submodule "AnanseSeurat"]
 	path = AnanseSeurat
 	url = https://github.com/cran/AnanseSeurat
+[submodule "AncReg"]
+	path = AncReg
+	url = https://github.com/cran/AncReg
 [submodule "AncestryMapper"]
 	path = AncestryMapper
 	url = https://github.com/cran/AncestryMapper
@@ -2939,6 +2942,9 @@
 [submodule "ChestVolume"]
 	path = ChestVolume
 	url = https://github.com/cran/ChestVolume
+[submodule "ChileDataAPI"]
+	path = ChileDataAPI
+	url = https://github.com/cran/ChileDataAPI
 [submodule "ChillModels"]
 	path = ChillModels
 	url = https://github.com/cran/ChillModels
@@ -10712,6 +10718,9 @@
 [submodule "MedLEA"]
 	path = MedLEA
 	url = https://github.com/cran/MedLEA
+[submodule "MedZIsc"]
+	path = MedZIsc
+	url = https://github.com/cran/MedZIsc
 [submodule "MediaK"]
 	path = MediaK
 	url = https://github.com/cran/MediaK
@@ -10829,6 +10838,9 @@
 [submodule "MexBrewer"]
 	path = MexBrewer
 	url = https://github.com/cran/MexBrewer
+[submodule "MexicoDataAPI"]
+	path = MexicoDataAPI
+	url = https://github.com/cran/MexicoDataAPI
 [submodule "MfUSampler"]
 	path = MfUSampler
 	url = https://github.com/cran/MfUSampler
@@ -20639,6 +20651,9 @@
 [submodule "adana"]
 	path = adana
 	url = https://github.com/cran/adana
+[submodule "adapt3"]
+	path = adapt3
+	url = https://github.com/cran/adapt3
 [submodule "adapt4pv"]
 	path = adapt4pv
 	url = https://github.com/cran/adapt4pv
@@ -34493,6 +34508,9 @@
 [submodule "fpCompare"]
 	path = fpCompare
 	url = https://github.com/cran/fpCompare
+[submodule "fpROC"]
+	path = fpROC
+	url = https://github.com/cran/fpROC
 [submodule "fpa"]
 	path = fpa
 	url = https://github.com/cran/fpa
@@ -36005,6 +36023,9 @@
 [submodule "getProxy"]
 	path = getProxy
 	url = https://github.com/cran/getProxy
+[submodule "getRad"]
+	path = getRad
+	url = https://github.com/cran/getRad
 [submodule "getable"]
 	path = getable
 	url = https://github.com/cran/getable
@@ -55940,6 +55961,9 @@
 [submodule "rfordummies"]
 	path = rfordummies
 	url = https://github.com/cran/rfordummies
+[submodule "rfriend"]
+	path = rfriend
+	url = https://github.com/cran/rfriend
 [submodule "rfvimptest"]
 	path = rfvimptest
 	url = https://github.com/cran/rfvimptest
