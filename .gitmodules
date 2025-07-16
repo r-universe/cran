@@ -62805,6 +62805,9 @@
 [submodule "supervisedPRIM"]
 	path = supervisedPRIM
 	url = https://github.com/cran/supervisedPRIM
+[submodule "support"]
+	path = support
+	url = https://github.com/cran/support
 [submodule "support.BWS"]
 	path = support.BWS
 	url = https://github.com/cran/support.BWS
