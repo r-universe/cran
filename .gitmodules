@@ -6416,6 +6416,9 @@
 [submodule "GCD"]
 	path = GCD
 	url = https://github.com/cran/GCD
+[submodule "GCEstim"]
+	path = GCEstim
+	url = https://github.com/cran/GCEstim
 [submodule "GCPBayes"]
 	path = GCPBayes
 	url = https://github.com/cran/GCPBayes
@@ -36221,6 +36224,9 @@
 [submodule "ggcharts"]
 	path = ggcharts
 	url = https://github.com/cran/ggcharts
+[submodule "ggchord"]
+	path = ggchord
+	url = https://github.com/cran/ggchord
 [submodule "ggcleveland"]
 	path = ggcleveland
 	url = https://github.com/cran/ggcleveland
@@ -47249,6 +47255,9 @@
 [submodule "mycobacrvR"]
 	path = mycobacrvR
 	url = https://github.com/cran/mycobacrvR
+[submodule "mycolorsTB"]
+	path = mycolorsTB
+	url = https://github.com/cran/mycolorsTB
 [submodule "mycor"]
 	path = mycor
 	url = https://github.com/cran/mycor
@@ -64995,6 +65004,9 @@
 [submodule "topolow"]
 	path = topolow
 	url = https://github.com/cran/topolow
+[submodule "toporanga"]
+	path = toporanga
+	url = https://github.com/cran/toporanga
 [submodule "toposort"]
 	path = toposort
 	url = https://github.com/cran/toposort
@@ -66732,6 +66744,9 @@
 [submodule "verification"]
 	path = verification
 	url = https://github.com/cran/verification
+[submodule "verifyr2"]
+	path = verifyr2
+	url = https://github.com/cran/verifyr2
 [submodule "vermeulen"]
 	path = vermeulen
 	url = https://github.com/cran/vermeulen
