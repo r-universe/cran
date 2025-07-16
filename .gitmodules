@@ -13091,9 +13091,6 @@
 [submodule "PerFit"]
 	path = PerFit
 	url = https://github.com/cran/PerFit
-[submodule "PerMallows"]
-	path = PerMallows
-	url = https://github.com/cran/PerMallows
 [submodule "PerMat"]
 	path = PerMat
 	url = https://github.com/cran/PerMat
@@ -21077,9 +21074,6 @@
 [submodule "aidar"]
 	path = aidar
 	url = https://github.com/cran/aidar
-[submodule "aides"]
-	path = aides
-	url = https://github.com/cran/aides
 [submodule "aifeducation"]
 	path = aifeducation
 	url = https://github.com/cran/aifeducation
@@ -43199,9 +43193,6 @@
 [submodule "lotri"]
 	path = lotri
 	url = https://github.com/cran/lotri
-[submodule "lotterybr"]
-	path = lotterybr
-	url = https://github.com/cran/lotterybr
 [submodule "lovecraftr"]
 	path = lovecraftr
 	url = https://github.com/cran/lovecraftr
@@ -48557,9 +48548,6 @@
 [submodule "nsyllable"]
 	path = nsyllable
 	url = https://github.com/cran/nsyllable
-[submodule "ntdr"]
-	path = ntdr
-	url = https://github.com/cran/ntdr
 [submodule "ntfy"]
 	path = ntfy
 	url = https://github.com/cran/ntfy
@@ -51041,9 +51029,6 @@
 [submodule "phrases"]
 	path = phrases
 	url = https://github.com/cran/phrases
-[submodule "phreeqc"]
-	path = phreeqc
-	url = https://github.com/cran/phreeqc
 [submodule "phsmethods"]
 	path = phsmethods
 	url = https://github.com/cran/phsmethods
@@ -60617,9 +60602,6 @@
 [submodule "smile"]
 	path = smile
 	url = https://github.com/cran/smile
-[submodule "smiles"]
-	path = smiles
-	url = https://github.com/cran/smiles
 [submodule "smirnov"]
 	path = smirnov
 	url = https://github.com/cran/smirnov
