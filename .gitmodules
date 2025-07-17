@@ -16319,9 +16319,6 @@
 [submodule "Rquake"]
 	path = Rquake
 	url = https://github.com/cran/Rquake
-[submodule "Rquefts"]
-	path = Rquefts
-	url = https://github.com/cran/Rquefts
 [submodule "Rramas"]
 	path = Rramas
 	url = https://github.com/cran/Rramas
@@ -52958,9 +52955,6 @@
 [submodule "psfmi"]
 	path = psfmi
 	url = https://github.com/cran/psfmi
-[submodule "psgp"]
-	path = psgp
-	url = https://github.com/cran/psgp
 [submodule "psica"]
 	path = psica
 	url = https://github.com/cran/psica
