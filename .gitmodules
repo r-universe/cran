@@ -21239,6 +21239,9 @@
 [submodule "allofus"]
 	path = allofus
 	url = https://github.com/cran/allofus
+[submodule "allometry"]
+	path = allometry
+	url = https://github.com/cran/allometry
 [submodule "allomr"]
 	path = allomr
 	url = https://github.com/cran/allomr
