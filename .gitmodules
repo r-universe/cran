@@ -8453,9 +8453,6 @@
 [submodule "IntNMF"]
 	path = IntNMF
 	url = https://github.com/cran/IntNMF
-[submodule "InteRD"]
-	path = InteRD
-	url = https://github.com/cran/InteRD
 [submodule "IntegrateBs"]
 	path = IntegrateBs
 	url = https://github.com/cran/IntegrateBs
@@ -12794,9 +12791,6 @@
 [submodule "PRROC"]
 	path = PRROC
 	url = https://github.com/cran/PRROC
-[submodule "PRSPGx"]
-	path = PRSPGx
-	url = https://github.com/cran/PRSPGx
 [submodule "PRTree"]
 	path = PRTree
 	url = https://github.com/cran/PRTree
@@ -24875,9 +24869,6 @@
 [submodule "canvasXpress.data"]
 	path = canvasXpress.data
 	url = https://github.com/cran/canvasXpress.data
-[submodule "cape"]
-	path = cape
-	url = https://github.com/cran/cape
 [submodule "caper"]
 	path = caper
 	url = https://github.com/cran/caper
