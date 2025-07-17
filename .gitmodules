@@ -14738,6 +14738,9 @@
 [submodule "ROCket"]
 	path = ROCket
 	url = https://github.com/cran/ROCket
+[submodule "ROCnGO"]
+	path = ROCnGO
+	url = https://github.com/cran/ROCnGO
 [submodule "ROCnReg"]
 	path = ROCnReg
 	url = https://github.com/cran/ROCnReg
@@ -25181,6 +25184,9 @@
 [submodule "cbbinom"]
 	path = cbbinom
 	url = https://github.com/cran/cbbinom
+[submodule "cbcTools"]
+	path = cbcTools
+	url = https://github.com/cran/cbcTools
 [submodule "cbinom"]
 	path = cbinom
 	url = https://github.com/cran/cbinom
@@ -29222,6 +29228,9 @@
 [submodule "decorators"]
 	path = decorators
 	url = https://github.com/cran/decorators
+[submodule "decorrelate"]
+	path = decorrelate
+	url = https://github.com/cran/decorrelate
 [submodule "decp"]
 	path = decp
 	url = https://github.com/cran/decp
@@ -44810,6 +44819,9 @@
 [submodule "metapack"]
 	path = metapack
 	url = https://github.com/cran/metapack
+[submodule "metaphonebr"]
+	path = metaphonebr
+	url = https://github.com/cran/metaphonebr
 [submodule "metaplot"]
 	path = metaplot
 	url = https://github.com/cran/metaplot
@@ -48227,6 +48239,9 @@
 [submodule "nomclust"]
 	path = nomclust
 	url = https://github.com/cran/nomclust
+[submodule "nomesbr"]
+	path = nomesbr
+	url = https://github.com/cran/nomesbr
 [submodule "nominatimlite"]
 	path = nominatimlite
 	url = https://github.com/cran/nominatimlite
