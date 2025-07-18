@@ -16319,6 +16319,9 @@
 [submodule "Rquake"]
 	path = Rquake
 	url = https://github.com/cran/Rquake
+[submodule "Rquefts"]
+	path = Rquefts
+	url = https://github.com/cran/Rquefts
 [submodule "Rramas"]
 	path = Rramas
 	url = https://github.com/cran/Rramas
@@ -27698,9 +27701,6 @@
 [submodule "covid19.analytics"]
 	path = covid19.analytics
 	url = https://github.com/cran/covid19.analytics
-[submodule "covid19br"]
-	path = covid19br
-	url = https://github.com/cran/covid19br
 [submodule "covid19dbcand"]
 	path = covid19dbcand
 	url = https://github.com/cran/covid19dbcand
@@ -52955,6 +52955,9 @@
 [submodule "psfmi"]
 	path = psfmi
 	url = https://github.com/cran/psfmi
+[submodule "psgp"]
+	path = psgp
+	url = https://github.com/cran/psgp
 [submodule "psica"]
 	path = psica
 	url = https://github.com/cran/psica
