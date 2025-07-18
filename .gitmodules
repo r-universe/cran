@@ -24428,6 +24428,9 @@
 [submodule "bsam"]
 	path = bsam
 	url = https://github.com/cran/bsam
+[submodule "bsamGP"]
+	path = bsamGP
+	url = https://github.com/cran/bsamGP
 [submodule "bscui"]
 	path = bscui
 	url = https://github.com/cran/bscui
