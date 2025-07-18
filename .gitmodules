@@ -24857,6 +24857,9 @@
 [submodule "cancerR"]
 	path = cancerR
 	url = https://github.com/cran/cancerR
+[submodule "cancerradarr"]
+	path = cancerradarr
+	url = https://github.com/cran/cancerradarr
 [submodule "cancerscreening"]
 	path = cancerscreening
 	url = https://github.com/cran/cancerscreening
@@ -25751,6 +25754,9 @@
 [submodule "choosepc"]
 	path = choosepc
 	url = https://github.com/cran/choosepc
+[submodule "chopin"]
+	path = chopin
+	url = https://github.com/cran/chopin
 [submodule "choplump"]
 	path = choplump
 	url = https://github.com/cran/choplump
@@ -26414,6 +26420,9 @@
 [submodule "cmfrec"]
 	path = cmfrec
 	url = https://github.com/cran/cmfrec
+[submodule "cmgnd"]
+	path = cmgnd
+	url = https://github.com/cran/cmgnd
 [submodule "cmhc"]
 	path = cmhc
 	url = https://github.com/cran/cmhc
@@ -28673,6 +28682,9 @@
 [submodule "dafs"]
 	path = dafs
 	url = https://github.com/cran/dafs
+[submodule "dagHMM"]
+	path = dagHMM
+	url = https://github.com/cran/dagHMM
 [submodule "dagR"]
 	path = dagR
 	url = https://github.com/cran/dagR
@@ -31136,6 +31148,9 @@
 [submodule "easySVG"]
 	path = easySVG
 	url = https://github.com/cran/easySVG
+[submodule "easyScieloPack"]
+	path = easyScieloPack
+	url = https://github.com/cran/easyScieloPack
 [submodule "easySdcTable"]
 	path = easySdcTable
 	url = https://github.com/cran/easySdcTable
@@ -33761,6 +33776,9 @@
 [submodule "filters"]
 	path = filters
 	url = https://github.com/cran/filters
+[submodule "filtro"]
+	path = filtro
+	url = https://github.com/cran/filtro
 [submodule "finalfit"]
 	path = finalfit
 	url = https://github.com/cran/finalfit
@@ -34886,6 +34904,9 @@
 [submodule "functional"]
 	path = functional
 	url = https://github.com/cran/functional
+[submodule "functionals"]
+	path = functionals
+	url = https://github.com/cran/functionals
 [submodule "functiondepends"]
 	path = functiondepends
 	url = https://github.com/cran/functiondepends
@@ -38318,6 +38339,9 @@
 [submodule "hbsae"]
 	path = hbsae
 	url = https://github.com/cran/hbsae
+[submodule "hbsaems"]
+	path = hbsaems
+	url = https://github.com/cran/hbsaems
 [submodule "hcandersenr"]
 	path = hcandersenr
 	url = https://github.com/cran/hcandersenr
@@ -44345,6 +44369,9 @@
 [submodule "mcprogress"]
 	path = mcprogress
 	url = https://github.com/cran/mcprogress
+[submodule "mcptools"]
+	path = mcptools
+	url = https://github.com/cran/mcptools
 [submodule "mcr"]
 	path = mcr
 	url = https://github.com/cran/mcr
@@ -48944,6 +48971,9 @@
 [submodule "omicwas"]
 	path = omicwas
 	url = https://github.com/cran/omicwas
+[submodule "omixVizR"]
+	path = omixVizR
+	url = https://github.com/cran/omixVizR
 [submodule "omnibus"]
 	path = omnibus
 	url = https://github.com/cran/omnibus
@@ -53537,6 +53567,9 @@
 [submodule "qrnn"]
 	path = qrnn
 	url = https://github.com/cran/qrnn
+[submodule "qryflow"]
+	path = qryflow
+	url = https://github.com/cran/qryflow
 [submodule "qs"]
 	path = qs
 	url = https://github.com/cran/qs
@@ -61484,6 +61517,9 @@
 [submodule "spectr"]
 	path = spectr
 	url = https://github.com/cran/spectr
+[submodule "spectrakit"]
+	path = spectrakit
+	url = https://github.com/cran/spectrakit
 [submodule "spectral"]
 	path = spectral
 	url = https://github.com/cran/spectral
