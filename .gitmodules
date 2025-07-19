@@ -25331,6 +25331,9 @@
 [submodule "ceas"]
 	path = ceas
 	url = https://github.com/cran/ceas
+[submodule "ceblR"]
+	path = ceblR
+	url = https://github.com/cran/ceblR
 [submodule "ceg"]
 	path = ceg
 	url = https://github.com/cran/ceg
@@ -30608,6 +30611,9 @@
 [submodule "drda"]
 	path = drda
 	url = https://github.com/cran/drda
+[submodule "dream"]
+	path = dream
+	url = https://github.com/cran/dream
 [submodule "dreamer"]
 	path = dreamer
 	url = https://github.com/cran/dreamer
@@ -30686,6 +30692,9 @@
 [submodule "ds4psy"]
 	path = ds4psy
 	url = https://github.com/cran/ds4psy
+[submodule "dsBase"]
+	path = dsBase
+	url = https://github.com/cran/dsBase
 [submodule "dsTidyverse"]
 	path = dsTidyverse
 	url = https://github.com/cran/dsTidyverse
@@ -35768,6 +35777,9 @@
 [submodule "gensvm"]
 	path = gensvm
 	url = https://github.com/cran/gensvm
+[submodule "gentransmuted"]
+	path = gentransmuted
+	url = https://github.com/cran/gentransmuted
 [submodule "geoAr"]
 	path = geoAr
 	url = https://github.com/cran/geoAr
@@ -49211,6 +49223,9 @@
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
+[submodule "openmpp"]
+	path = openmpp
+	url = https://github.com/cran/openmpp
 [submodule "openrouteservice"]
 	path = openrouteservice
 	url = https://github.com/cran/openrouteservice
@@ -66468,6 +66483,9 @@
 [submodule "valaddin"]
 	path = valaddin
 	url = https://github.com/cran/valaddin
+[submodule "valdr"]
+	path = valdr
+	url = https://github.com/cran/valdr
 [submodule "valection"]
 	path = valection
 	url = https://github.com/cran/valection
