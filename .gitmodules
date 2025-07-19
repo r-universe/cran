@@ -36281,6 +36281,9 @@
 [submodule "ggdmcHeaders"]
 	path = ggdmcHeaders
 	url = https://github.com/cran/ggdmcHeaders
+[submodule "ggdmcModel"]
+	path = ggdmcModel
+	url = https://github.com/cran/ggdmcModel
 [submodule "gge"]
 	path = gge
 	url = https://github.com/cran/gge
