@@ -11531,9 +11531,6 @@
 [submodule "NRejections"]
 	path = NRejections
 	url = https://github.com/cran/NRejections
-[submodule "NSAE"]
-	path = NSAE
-	url = https://github.com/cran/NSAE
 [submodule "NSM3"]
 	path = NSM3
 	url = https://github.com/cran/NSM3
@@ -14372,9 +14369,6 @@
 [submodule "RGN"]
 	path = RGN
 	url = https://github.com/cran/RGN
-[submodule "RGS"]
-	path = RGS
-	url = https://github.com/cran/RGS
 [submodule "RGenData"]
 	path = RGenData
 	url = https://github.com/cran/RGenData
@@ -15398,9 +15392,6 @@
 [submodule "Rchoice"]
 	path = Rchoice
 	url = https://github.com/cran/Rchoice
-[submodule "RclusTool"]
-	path = RclusTool
-	url = https://github.com/cran/RclusTool
 [submodule "Rcmdr"]
 	path = Rcmdr
 	url = https://github.com/cran/Rcmdr
@@ -17273,9 +17264,6 @@
 [submodule "SSIMmap"]
 	path = SSIMmap
 	url = https://github.com/cran/SSIMmap
-[submodule "SSLR"]
-	path = SSLR
-	url = https://github.com/cran/SSLR
 [submodule "SSM"]
 	path = SSM
 	url = https://github.com/cran/SSM
@@ -17570,9 +17558,6 @@
 [submodule "SemiMarkov"]
 	path = SemiMarkov
 	url = https://github.com/cran/SemiMarkov
-[submodule "SemiPar"]
-	path = SemiPar
-	url = https://github.com/cran/SemiPar
 [submodule "SemiPar.depCens"]
 	path = SemiPar.depCens
 	url = https://github.com/cran/SemiPar.depCens
@@ -18665,9 +18650,6 @@
 [submodule "TCIU"]
 	path = TCIU
 	url = https://github.com/cran/TCIU
-[submodule "TCPMOR"]
-	path = TCPMOR
-	url = https://github.com/cran/TCPMOR
 [submodule "TCRconvertR"]
 	path = TCRconvertR
 	url = https://github.com/cran/TCRconvertR
@@ -27047,9 +27029,6 @@
 [submodule "concaveman"]
 	path = concaveman
 	url = https://github.com/cran/concaveman
-[submodule "conclust"]
-	path = conclust
-	url = https://github.com/cran/conclust
 [submodule "concom"]
 	path = concom
 	url = https://github.com/cran/concom
@@ -27854,9 +27833,6 @@
 [submodule "cpp11qpdf"]
 	path = cpp11qpdf
 	url = https://github.com/cran/cpp11qpdf
-[submodule "cpp11tesseract"]
-	path = cpp11tesseract
-	url = https://github.com/cran/cpp11tesseract
 [submodule "cppRouting"]
 	path = cppRouting
 	url = https://github.com/cran/cppRouting
@@ -37475,9 +37451,6 @@
 [submodule "gpcp"]
 	path = gpcp
 	url = https://github.com/cran/gpcp
-[submodule "gpg"]
-	path = gpg
-	url = https://github.com/cran/gpg
 [submodule "gpindex"]
 	path = gpindex
 	url = https://github.com/cran/gpindex
@@ -37964,9 +37937,6 @@
 [submodule "gsloid"]
 	path = gsloid
 	url = https://github.com/cran/gsloid
-[submodule "gsmoothr"]
-	path = gsmoothr
-	url = https://github.com/cran/gsmoothr
 [submodule "gson"]
 	path = gson
 	url = https://github.com/cran/gson
