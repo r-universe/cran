@@ -67662,9 +67662,6 @@
 [submodule "widyr"]
 	path = widyr
 	url = https://github.com/cran/widyr
-[submodule "wiesbaden"]
-	path = wiesbaden
-	url = https://github.com/cran/wiesbaden
 [submodule "wig"]
 	path = wig
 	url = https://github.com/cran/wig
