@@ -4580,6 +4580,9 @@
 [submodule "DisaggregateTS"]
 	path = DisaggregateTS
 	url = https://github.com/cran/DisaggregateTS
+[submodule "DisasterAlert"]
+	path = DisasterAlert
+	url = https://github.com/cran/DisasterAlert
 [submodule "DiscreteDLM"]
 	path = DiscreteDLM
 	url = https://github.com/cran/DiscreteDLM
@@ -7676,6 +7679,9 @@
 [submodule "HaploSim"]
 	path = HaploSim
 	url = https://github.com/cran/HaploSim
+[submodule "HaploVar"]
+	path = HaploVar
+	url = https://github.com/cran/HaploVar
 [submodule "HardyWeinberg"]
 	path = HardyWeinberg
 	url = https://github.com/cran/HardyWeinberg
@@ -12257,6 +12263,9 @@
 [submodule "PAFit"]
 	path = PAFit
 	url = https://github.com/cran/PAFit
+[submodule "PAGE"]
+	path = PAGE
+	url = https://github.com/cran/PAGE
 [submodule "PAGFL"]
 	path = PAGFL
 	url = https://github.com/cran/PAGFL
@@ -17693,6 +17702,9 @@
 [submodule "ShrinkCovMat"]
 	path = ShrinkCovMat
 	url = https://github.com/cran/ShrinkCovMat
+[submodule "ShrinkageTrees"]
+	path = ShrinkageTrees
+	url = https://github.com/cran/ShrinkageTrees
 [submodule "SiER"]
 	path = SiER
 	url = https://github.com/cran/SiER
@@ -23681,9 +23693,6 @@
 [submodule "birk"]
 	path = birk
 	url = https://github.com/cran/birk
-[submodule "birp"]
-	path = birp
-	url = https://github.com/cran/birp
 [submodule "birtr"]
 	path = birtr
 	url = https://github.com/cran/birtr
@@ -25814,6 +25823,9 @@
 [submodule "cia"]
 	path = cia
 	url = https://github.com/cran/cia
+[submodule "cicalc"]
+	path = cicalc
+	url = https://github.com/cran/cicalc
 [submodule "ciccr"]
 	path = ciccr
 	url = https://github.com/cran/ciccr
@@ -35150,6 +35162,9 @@
 [submodule "galigor"]
 	path = galigor
 	url = https://github.com/cran/galigor
+[submodule "galisats"]
+	path = galisats
+	url = https://github.com/cran/galisats
 [submodule "gallery"]
 	path = gallery
 	url = https://github.com/cran/gallery
@@ -35510,6 +35525,9 @@
 [submodule "geeCRT"]
 	path = geeCRT
 	url = https://github.com/cran/geeCRT
+[submodule "geeLite"]
+	path = geeLite
+	url = https://github.com/cran/geeLite
 [submodule "geeM"]
 	path = geeM
 	url = https://github.com/cran/geeM
@@ -44852,6 +44870,9 @@
 [submodule "metasnf"]
 	path = metasnf
 	url = https://github.com/cran/metasnf
+[submodule "metasplines"]
+	path = metasplines
+	url = https://github.com/cran/metasplines
 [submodule "metatest"]
 	path = metatest
 	url = https://github.com/cran/metatest
@@ -54029,6 +54050,9 @@
 [submodule "rChoiceDialogs"]
 	path = rChoiceDialogs
 	url = https://github.com/cran/rChoiceDialogs
+[submodule "rCoinbase"]
+	path = rCoinbase
+	url = https://github.com/cran/rCoinbase
 [submodule "rD3plot"]
 	path = rD3plot
 	url = https://github.com/cran/rD3plot
@@ -63906,6 +63930,9 @@
 [submodule "tern.mmrm"]
 	path = tern.mmrm
 	url = https://github.com/cran/tern.mmrm
+[submodule "tern.rbmi"]
+	path = tern.rbmi
+	url = https://github.com/cran/tern.rbmi
 [submodule "ternvis"]
 	path = ternvis
 	url = https://github.com/cran/ternvis
