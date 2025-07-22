@@ -9839,6 +9839,9 @@
 [submodule "MChtest"]
 	path = MChtest
 	url = https://github.com/cran/MChtest
+[submodule "MD2sample"]
+	path = MD2sample
+	url = https://github.com/cran/MD2sample
 [submodule "MDBED"]
 	path = MDBED
 	url = https://github.com/cran/MDBED
@@ -10142,6 +10145,9 @@
 [submodule "MLpreemption"]
 	path = MLpreemption
 	url = https://github.com/cran/MLpreemption
+[submodule "MLwrap"]
+	path = MLwrap
+	url = https://github.com/cran/MLwrap
 [submodule "MM"]
 	path = MM
 	url = https://github.com/cran/MM
@@ -10379,6 +10385,9 @@
 [submodule "MSML"]
 	path = MSML
 	url = https://github.com/cran/MSML
+[submodule "MSMU"]
+	path = MSMU
+	url = https://github.com/cran/MSMU
 [submodule "MSMwRA"]
 	path = MSMwRA
 	url = https://github.com/cran/MSMwRA
@@ -20117,6 +20126,9 @@
 [submodule "WeightIt"]
 	path = WeightIt
 	url = https://github.com/cran/WeightIt
+[submodule "WeightMyItems"]
+	path = WeightMyItems
+	url = https://github.com/cran/WeightMyItems
 [submodule "WeightSVM"]
 	path = WeightSVM
 	url = https://github.com/cran/WeightSVM
@@ -22964,6 +22976,9 @@
 [submodule "bcROCsurface"]
 	path = bcROCsurface
 	url = https://github.com/cran/bcROCsurface
+[submodule "bcRP"]
+	path = bcRP
+	url = https://github.com/cran/bcRP
 [submodule "bcaboot"]
 	path = bcaboot
 	url = https://github.com/cran/bcaboot
@@ -26921,6 +26936,9 @@
 [submodule "commafree"]
 	path = commafree
 	url = https://github.com/cran/commafree
+[submodule "commecometrics"]
+	path = commecometrics
+	url = https://github.com/cran/commecometrics
 [submodule "common"]
 	path = common
 	url = https://github.com/cran/common
@@ -33611,6 +33629,9 @@
 [submodule "fedz1"]
 	path = fedz1
 	url = https://github.com/cran/fedz1
+[submodule "fee"]
+	path = fee
+	url = https://github.com/cran/fee
 [submodule "feisr"]
 	path = feisr
 	url = https://github.com/cran/feisr
@@ -35387,6 +35408,9 @@
 [submodule "gauseR"]
 	path = gauseR
 	url = https://github.com/cran/gauseR
+[submodule "gaussDiff"]
+	path = gaussDiff
+	url = https://github.com/cran/gaussDiff
 [submodule "gausscov"]
 	path = gausscov
 	url = https://github.com/cran/gausscov
@@ -40880,6 +40904,9 @@
 [submodule "ivaBSS"]
 	path = ivaBSS
 	url = https://github.com/cran/ivaBSS
+[submodule "ivdesc"]
+	path = ivdesc
+	url = https://github.com/cran/ivdesc
 [submodule "ivdesign"]
 	path = ivdesign
 	url = https://github.com/cran/ivdesign
@@ -44780,6 +44807,9 @@
 [submodule "metaconfoundr"]
 	path = metaconfoundr
 	url = https://github.com/cran/metaconfoundr
+[submodule "metacor"]
+	path = metacor
+	url = https://github.com/cran/metacor
 [submodule "metacore"]
 	path = metacore
 	url = https://github.com/cran/metacore
@@ -48341,6 +48371,9 @@
 [submodule "nonpar"]
 	path = nonpar
 	url = https://github.com/cran/nonpar
+[submodule "nonparTrendR"]
+	path = nonparTrendR
+	url = https://github.com/cran/nonparTrendR
 [submodule "nonparaeff"]
 	path = nonparaeff
 	url = https://github.com/cran/nonparaeff
@@ -49688,6 +49721,9 @@
 [submodule "overlapptest"]
 	path = overlapptest
 	url = https://github.com/cran/overlapptest
+[submodule "overshiny"]
+	path = overshiny
+	url = https://github.com/cran/overshiny
 [submodule "overture"]
 	path = overture
 	url = https://github.com/cran/overture
@@ -52304,6 +52340,9 @@
 [submodule "pplot"]
 	path = pplot
 	url = https://github.com/cran/pplot
+[submodule "ppls"]
+	path = ppls
+	url = https://github.com/cran/ppls
 [submodule "ppmHR"]
 	path = ppmHR
 	url = https://github.com/cran/ppmHR
@@ -59021,6 +59060,9 @@
 [submodule "seminr"]
 	path = seminr
 	url = https://github.com/cran/seminr
+[submodule "seminrExtras"]
+	path = seminrExtras
+	url = https://github.com/cran/seminrExtras
 [submodule "semlbci"]
 	path = semlbci
 	url = https://github.com/cran/semlbci
@@ -59900,6 +59942,9 @@
 [submodule "shorts"]
 	path = shorts
 	url = https://github.com/cran/shorts
+[submodule "shortuuid"]
+	path = shortuuid
+	url = https://github.com/cran/shortuuid
 [submodule "shotGroups"]
 	path = shotGroups
 	url = https://github.com/cran/shotGroups
@@ -63030,6 +63075,9 @@
 [submodule "survcompare"]
 	path = survcompare
 	url = https://github.com/cran/survcompare
+[submodule "survdnn"]
+	path = survdnn
+	url = https://github.com/cran/survdnn
 [submodule "surveil"]
 	path = surveil
 	url = https://github.com/cran/surveil
