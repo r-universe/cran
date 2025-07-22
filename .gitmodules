@@ -3428,6 +3428,9 @@
 [submodule "ConvergenceConcepts"]
 	path = ConvergenceConcepts
 	url = https://github.com/cran/ConvergenceConcepts
+[submodule "ConversationAlign"]
+	path = ConversationAlign
+	url = https://github.com/cran/ConversationAlign
 [submodule "ConvertPar"]
 	path = ConvertPar
 	url = https://github.com/cran/ConvertPar
@@ -12290,6 +12293,9 @@
 [submodule "PANACEA"]
 	path = PANACEA
 	url = https://github.com/cran/PANACEA
+[submodule "PANPRSnext"]
+	path = PANPRSnext
+	url = https://github.com/cran/PANPRSnext
 [submodule "PAS"]
 	path = PAS
 	url = https://github.com/cran/PAS
@@ -13418,6 +13424,9 @@
 [submodule "PottsUtils"]
 	path = PottsUtils
 	url = https://github.com/cran/PottsUtils
+[submodule "PoweR"]
+	path = PoweR
+	url = https://github.com/cran/PoweR
 [submodule "PoweREST"]
 	path = PoweREST
 	url = https://github.com/cran/PoweREST
@@ -17675,6 +17684,9 @@
 [submodule "SherlockHolmes"]
 	path = SherlockHolmes
 	url = https://github.com/cran/SherlockHolmes
+[submodule "ShiVa"]
+	path = ShiVa
+	url = https://github.com/cran/ShiVa
 [submodule "ShiftConvolvePoibin"]
 	path = ShiftConvolvePoibin
 	url = https://github.com/cran/ShiftConvolvePoibin
@@ -19241,6 +19253,9 @@
 [submodule "TipDatingBeast"]
 	path = TipDatingBeast
 	url = https://github.com/cran/TipDatingBeast
+[submodule "Tivy"]
+	path = Tivy
+	url = https://github.com/cran/Tivy
 [submodule "Tlasso"]
 	path = Tlasso
 	url = https://github.com/cran/Tlasso
@@ -24740,6 +24755,9 @@
 [submodule "calcUnique"]
 	path = calcUnique
 	url = https://github.com/cran/calcUnique
+[submodule "calcal"]
+	path = calcal
+	url = https://github.com/cran/calcal
 [submodule "calcite"]
 	path = calcite
 	url = https://github.com/cran/calcite
@@ -31148,6 +31166,9 @@
 [submodule "easyVerification"]
 	path = easyVerification
 	url = https://github.com/cran/easyVerification
+[submodule "easyViz"]
+	path = easyViz
+	url = https://github.com/cran/easyViz
 [submodule "easyalluvial"]
 	path = easyalluvial
 	url = https://github.com/cran/easyalluvial
@@ -34886,6 +34907,9 @@
 [submodule "func2vis"]
 	path = func2vis
 	url = https://github.com/cran/func2vis
+[submodule "funcMapper"]
+	path = funcMapper
+	url = https://github.com/cran/funcMapper
 [submodule "funcharts"]
 	path = funcharts
 	url = https://github.com/cran/funcharts
@@ -35363,9 +35387,6 @@
 [submodule "gauseR"]
 	path = gauseR
 	url = https://github.com/cran/gauseR
-[submodule "gaussDiff"]
-	path = gaussDiff
-	url = https://github.com/cran/gaussDiff
 [submodule "gausscov"]
 	path = gausscov
 	url = https://github.com/cran/gausscov
@@ -41393,6 +41414,9 @@
 [submodule "kdml"]
 	path = kdml
 	url = https://github.com/cran/kdml
+[submodule "kdps"]
+	path = kdps
+	url = https://github.com/cran/kdps
 [submodule "kdry"]
 	path = kdry
 	url = https://github.com/cran/kdry
@@ -55280,6 +55304,9 @@
 [submodule "recodeflow"]
 	path = recodeflow
 	url = https://github.com/cran/recodeflow
+[submodule "recoder"]
+	path = recoder
+	url = https://github.com/cran/recoder
 [submodule "recogito"]
 	path = recogito
 	url = https://github.com/cran/recogito
@@ -60713,6 +60740,9 @@
 [submodule "smoothedLasso"]
 	path = smoothedLasso
 	url = https://github.com/cran/smoothedLasso
+[submodule "smoothemplik"]
+	path = smoothemplik
+	url = https://github.com/cran/smoothemplik
 [submodule "smoother"]
 	path = smoother
 	url = https://github.com/cran/smoother
