@@ -14216,6 +14216,9 @@
 [submodule "RDM"]
 	path = RDM
 	url = https://github.com/cran/RDM
+[submodule "RDML"]
+	path = RDML
+	url = https://github.com/cran/RDML
 [submodule "RDP"]
 	path = RDP
 	url = https://github.com/cran/RDP
