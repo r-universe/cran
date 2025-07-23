@@ -7514,6 +7514,9 @@
 [submodule "HIMA"]
 	path = HIMA
 	url = https://github.com/cran/HIMA
+[submodule "HIViz"]
+	path = HIViz
+	url = https://github.com/cran/HIViz
 [submodule "HK80"]
 	path = HK80
 	url = https://github.com/cran/HK80
@@ -29495,6 +29498,9 @@
 [submodule "depend.truncation"]
 	path = depend.truncation
 	url = https://github.com/cran/depend.truncation
+[submodule "dependentsimr"]
+	path = dependentsimr
+	url = https://github.com/cran/dependentsimr
 [submodule "depigner"]
 	path = depigner
 	url = https://github.com/cran/depigner
@@ -31901,6 +31907,9 @@
 [submodule "emulator"]
 	path = emulator
 	url = https://github.com/cran/emulator
+[submodule "enaho"]
+	path = enaho
+	url = https://github.com/cran/enaho
 [submodule "encode"]
 	path = encode
 	url = https://github.com/cran/encode
@@ -53933,6 +53942,9 @@
 [submodule "quint"]
 	path = quint
 	url = https://github.com/cran/quint
+[submodule "quitefastmst"]
+	path = quitefastmst
+	url = https://github.com/cran/quitefastmst
 [submodule "quollr"]
 	path = quollr
 	url = https://github.com/cran/quollr
@@ -59933,6 +59945,9 @@
 [submodule "shopifyr"]
 	path = shopifyr
 	url = https://github.com/cran/shopifyr
+[submodule "shoppingwords"]
+	path = shoppingwords
+	url = https://github.com/cran/shoppingwords
 [submodule "shoredate"]
 	path = shoredate
 	url = https://github.com/cran/shoredate
@@ -65583,6 +65598,9 @@
 [submodule "tripack"]
 	path = tripack
 	url = https://github.com/cran/tripack
+[submodule "triplediff"]
+	path = triplediff
+	url = https://github.com/cran/triplediff
 [submodule "triplesmatch"]
 	path = triplesmatch
 	url = https://github.com/cran/triplesmatch
