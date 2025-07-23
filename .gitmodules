@@ -1151,6 +1151,9 @@
 [submodule "BISdata"]
 	path = BISdata
 	url = https://github.com/cran/BISdata
+[submodule "BKP"]
+	path = BKP
+	url = https://github.com/cran/BKP
 [submodule "BKT"]
 	path = BKT
 	url = https://github.com/cran/BKT
@@ -9845,6 +9848,9 @@
 [submodule "MDBED"]
 	path = MDBED
 	url = https://github.com/cran/MDBED
+[submodule "MDCcure"]
+	path = MDCcure
+	url = https://github.com/cran/MDCcure
 [submodule "MDDC"]
 	path = MDDC
 	url = https://github.com/cran/MDDC
