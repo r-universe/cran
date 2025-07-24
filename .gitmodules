@@ -635,6 +635,9 @@
 [submodule "AnalysisLin"]
 	path = AnalysisLin
 	url = https://github.com/cran/AnalysisLin
+[submodule "AnalyzeFMRI"]
+	path = AnalyzeFMRI
+	url = https://github.com/cran/AnalyzeFMRI
 [submodule "AnanseSeurat"]
 	path = AnanseSeurat
 	url = https://github.com/cran/AnanseSeurat
@@ -66549,6 +66552,9 @@
 [submodule "vaRiskScore"]
 	path = vaRiskScore
 	url = https://github.com/cran/vaRiskScore
+[submodule "vacalibration"]
+	path = vacalibration
+	url = https://github.com/cran/vacalibration
 [submodule "vaccine"]
 	path = vaccine
 	url = https://github.com/cran/vaccine
