@@ -296,6 +296,9 @@
 [submodule "APPEstimation"]
 	path = APPEstimation
 	url = https://github.com/cran/APPEstimation
+[submodule "APRScenario"]
+	path = APRScenario
+	url = https://github.com/cran/APRScenario
 [submodule "APTIcalc"]
 	path = APTIcalc
 	url = https://github.com/cran/APTIcalc
@@ -36353,6 +36356,9 @@
 [submodule "ggdmcModel"]
 	path = ggdmcModel
 	url = https://github.com/cran/ggdmcModel
+[submodule "ggdmcPrior"]
+	path = ggdmcPrior
+	url = https://github.com/cran/ggdmcPrior
 [submodule "gge"]
 	path = gge
 	url = https://github.com/cran/gge
@@ -50282,6 +50288,9 @@
 [submodule "partykit"]
 	path = partykit
 	url = https://github.com/cran/partykit
+[submodule "parzer"]
+	path = parzer
+	url = https://github.com/cran/parzer
 [submodule "pasadr"]
 	path = pasadr
 	url = https://github.com/cran/pasadr
