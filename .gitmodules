@@ -38309,9 +38309,6 @@
 [submodule "haplo.stats"]
 	path = haplo.stats
 	url = https://github.com/cran/haplo.stats
-[submodule "haploR"]
-	path = haploR
-	url = https://github.com/cran/haploR
 [submodule "haplotyper"]
 	path = haplotyper
 	url = https://github.com/cran/haplotyper
