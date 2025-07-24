@@ -50282,9 +50282,6 @@
 [submodule "partykit"]
 	path = partykit
 	url = https://github.com/cran/partykit
-[submodule "parzer"]
-	path = parzer
-	url = https://github.com/cran/parzer
 [submodule "pasadr"]
 	path = pasadr
 	url = https://github.com/cran/pasadr
