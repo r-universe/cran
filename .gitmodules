@@ -25250,9 +25250,6 @@
 [submodule "cbbinom"]
 	path = cbbinom
 	url = https://github.com/cran/cbbinom
-[submodule "cbbreadr"]
-	path = cbbreadr
-	url = https://github.com/cran/cbbreadr
 [submodule "cbcTools"]
 	path = cbcTools
 	url = https://github.com/cran/cbcTools
