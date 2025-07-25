@@ -1976,6 +1976,9 @@
 [submodule "BondValuation"]
 	path = BondValuation
 	url = https://github.com/cran/BondValuation
+[submodule "BoneDensityMapping"]
+	path = BoneDensityMapping
+	url = https://github.com/cran/BoneDensityMapping
 [submodule "BoneProfileR"]
 	path = BoneProfileR
 	url = https://github.com/cran/BoneProfileR
@@ -25226,6 +25229,9 @@
 [submodule "cbbinom"]
 	path = cbbinom
 	url = https://github.com/cran/cbbinom
+[submodule "cbbreadr"]
+	path = cbbreadr
+	url = https://github.com/cran/cbbreadr
 [submodule "cbcTools"]
 	path = cbcTools
 	url = https://github.com/cran/cbcTools
@@ -25646,6 +25652,9 @@
 [submodule "chattr"]
 	path = chattr
 	url = https://github.com/cran/chattr
+[submodule "chcd"]
+	path = chcd
+	url = https://github.com/cran/chcd
 [submodule "cheapr"]
 	path = cheapr
 	url = https://github.com/cran/cheapr
