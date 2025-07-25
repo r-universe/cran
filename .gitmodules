@@ -27206,6 +27206,9 @@
 [submodule "conformalInference.multi"]
 	path = conformalInference.multi
 	url = https://github.com/cran/conformalInference.multi
+[submodule "conformalbayes"]
+	path = conformalbayes
+	url = https://github.com/cran/conformalbayes
 [submodule "conformalpvalue"]
 	path = conformalpvalue
 	url = https://github.com/cran/conformalpvalue
