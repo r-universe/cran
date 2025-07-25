@@ -6821,6 +6821,9 @@
 [submodule "GPvecchia"]
 	path = GPvecchia
 	url = https://github.com/cran/GPvecchia
+[submodule "GRAB"]
+	path = GRAB
+	url = https://github.com/cran/GRAB
 [submodule "GRAPE"]
 	path = GRAPE
 	url = https://github.com/cran/GRAPE
@@ -9455,6 +9458,9 @@
 [submodule "LiftTest"]
 	path = LiftTest
 	url = https://github.com/cran/LiftTest
+[submodule "LightFitR"]
+	path = LightFitR
+	url = https://github.com/cran/LightFitR
 [submodule "LightLogR"]
 	path = LightLogR
 	url = https://github.com/cran/LightLogR
@@ -10379,6 +10385,9 @@
 [submodule "MSCA"]
 	path = MSCA
 	url = https://github.com/cran/MSCA
+[submodule "MSCCT"]
+	path = MSCCT
+	url = https://github.com/cran/MSCCT
 [submodule "MSCMT"]
 	path = MSCMT
 	url = https://github.com/cran/MSCMT
@@ -16988,6 +16997,9 @@
 [submodule "SLHD"]
 	path = SLHD
 	url = https://github.com/cran/SLHD
+[submodule "SLIC"]
+	path = SLIC
+	url = https://github.com/cran/SLIC
 [submodule "SLIDE"]
 	path = SLIDE
 	url = https://github.com/cran/SLIDE
@@ -18284,6 +18296,9 @@
 [submodule "StableEstim"]
 	path = StableEstim
 	url = https://github.com/cran/StableEstim
+[submodule "StablePopulation"]
+	path = StablePopulation
+	url = https://github.com/cran/StablePopulation
 [submodule "StackImpute"]
 	path = StackImpute
 	url = https://github.com/cran/StackImpute
@@ -19400,6 +19415,9 @@
 [submodule "TreeMineR"]
 	path = TreeMineR
 	url = https://github.com/cran/TreeMineR
+[submodule "TreeOrderTests"]
+	path = TreeOrderTests
+	url = https://github.com/cran/TreeOrderTests
 [submodule "TreeRingShape"]
 	path = TreeRingShape
 	url = https://github.com/cran/TreeRingShape
@@ -24092,6 +24110,9 @@
 [submodule "boostingDEA"]
 	path = boostingDEA
 	url = https://github.com/cran/boostingDEA
+[submodule "boostmath"]
+	path = boostmath
+	url = https://github.com/cran/boostmath
 [submodule "boostrq"]
 	path = boostrq
 	url = https://github.com/cran/boostrq
@@ -38321,6 +38342,9 @@
 [submodule "handyplots"]
 	path = handyplots
 	url = https://github.com/cran/handyplots
+[submodule "hann"]
+	path = hann
+	url = https://github.com/cran/hann
 [submodule "hans"]
 	path = hans
 	url = https://github.com/cran/hans
@@ -38789,6 +38813,9 @@
 [submodule "hicp"]
 	path = hicp
 	url = https://github.com/cran/hicp
+[submodule "hicream"]
+	path = hicream
+	url = https://github.com/cran/hicream
 [submodule "hiddenf"]
 	path = hiddenf
 	url = https://github.com/cran/hiddenf
@@ -48965,6 +48992,9 @@
 [submodule "odr"]
 	path = odr
 	url = https://github.com/cran/odr
+[submodule "oecdoda"]
+	path = oecdoda
+	url = https://github.com/cran/oecdoda
 [submodule "oeli"]
 	path = oeli
 	url = https://github.com/cran/oeli
