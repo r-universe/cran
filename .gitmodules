@@ -67188,6 +67188,9 @@
 [submodule "vkR"]
 	path = vkR
 	url = https://github.com/cran/vkR
+[submodule "vmTools"]
+	path = vmTools
+	url = https://github.com/cran/vmTools
 [submodule "vmdTDNN"]
 	path = vmdTDNN
 	url = https://github.com/cran/vmdTDNN
