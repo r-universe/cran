@@ -3407,6 +3407,9 @@
 [submodule "ConnectednessApproach"]
 	path = ConnectednessApproach
 	url = https://github.com/cran/ConnectednessApproach
+[submodule "Connection"]
+	path = Connection
+	url = https://github.com/cran/Connection
 [submodule "ConsRank"]
 	path = ConsRank
 	url = https://github.com/cran/ConsRank
@@ -19700,6 +19703,9 @@
 [submodule "VARshrink"]
 	path = VARshrink
 	url = https://github.com/cran/VARshrink
+[submodule "VARtests"]
+	path = VARtests
+	url = https://github.com/cran/VARtests
 [submodule "VBJM"]
 	path = VBJM
 	url = https://github.com/cran/VBJM
@@ -67719,6 +67725,9 @@
 [submodule "when"]
 	path = when
 	url = https://github.com/cran/when
+[submodule "whep"]
+	path = whep
+	url = https://github.com/cran/whep
 [submodule "where"]
 	path = where
 	url = https://github.com/cran/where
