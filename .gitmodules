@@ -44657,9 +44657,6 @@
 [submodule "medparser"]
 	path = medparser
 	url = https://github.com/cran/medparser
-[submodule "medrxivr"]
-	path = medrxivr
-	url = https://github.com/cran/medrxivr
 [submodule "meerva"]
 	path = meerva
 	url = https://github.com/cran/meerva
