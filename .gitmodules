@@ -40307,6 +40307,9 @@
 [submodule "inlcolor"]
 	path = inlcolor
 	url = https://github.com/cran/inlcolor
+[submodule "inldata"]
+	path = inldata
+	url = https://github.com/cran/inldata
 [submodule "inline"]
 	path = inline
 	url = https://github.com/cran/inline
