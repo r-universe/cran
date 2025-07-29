@@ -17942,6 +17942,9 @@
 [submodule "SlidingWindows"]
 	path = SlidingWindows
 	url = https://github.com/cran/SlidingWindows
+[submodule "SlimR"]
+	path = SlimR
+	url = https://github.com/cran/SlimR
 [submodule "SmCCNet"]
 	path = SmCCNet
 	url = https://github.com/cran/SmCCNet
@@ -25652,6 +25655,9 @@
 [submodule "chantrics"]
 	path = chantrics
 	url = https://github.com/cran/chantrics
+[submodule "chapensk"]
+	path = chapensk
+	url = https://github.com/cran/chapensk
 [submodule "charcuterie"]
 	path = charcuterie
 	url = https://github.com/cran/charcuterie
@@ -34598,6 +34604,9 @@
 [submodule "forstringr"]
 	path = forstringr
 	url = https://github.com/cran/forstringr
+[submodule "fortniteR"]
+	path = fortniteR
+	url = https://github.com/cran/fortniteR
 [submodule "fortunes"]
 	path = fortunes
 	url = https://github.com/cran/fortunes
