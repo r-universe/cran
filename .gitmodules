@@ -61064,6 +61064,9 @@
 [submodule "sociome"]
 	path = sociome
 	url = https://github.com/cran/sociome
+[submodule "socratadata"]
+	path = socratadata
+	url = https://github.com/cran/socratadata
 [submodule "socviz"]
 	path = socviz
 	url = https://github.com/cran/socviz
