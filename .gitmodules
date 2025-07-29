@@ -533,6 +533,9 @@
 [submodule "AeroSampleR"]
 	path = AeroSampleR
 	url = https://github.com/cran/AeroSampleR
+[submodule "AgeBandDecomposition"]
+	path = AgeBandDecomposition
+	url = https://github.com/cran/AgeBandDecomposition
 [submodule "AgePopDenom"]
 	path = AgePopDenom
 	url = https://github.com/cran/AgePopDenom
@@ -1661,6 +1664,9 @@
 [submodule "BayesianGLasso"]
 	path = BayesianGLasso
 	url = https://github.com/cran/BayesianGLasso
+[submodule "BayesianLasso"]
+	path = BayesianLasso
+	url = https://github.com/cran/BayesianLasso
 [submodule "BayesianLaterality"]
 	path = BayesianLaterality
 	url = https://github.com/cran/BayesianLaterality
@@ -3602,6 +3608,9 @@
 [submodule "CrossClustering"]
 	path = CrossClustering
 	url = https://github.com/cran/CrossClustering
+[submodule "CrossExpression"]
+	path = CrossExpression
+	url = https://github.com/cran/CrossExpression
 [submodule "CrossValidate"]
 	path = CrossValidate
 	url = https://github.com/cran/CrossValidate
@@ -14624,6 +14633,9 @@
 [submodule "RMCDA"]
 	path = RMCDA
 	url = https://github.com/cran/RMCDA
+[submodule "RMCLab"]
+	path = RMCLab
+	url = https://github.com/cran/RMCLab
 [submodule "RMFM"]
 	path = RMFM
 	url = https://github.com/cran/RMFM
@@ -36353,6 +36365,9 @@
 [submodule "ggcompare"]
 	path = ggcompare
 	url = https://github.com/cran/ggcompare
+[submodule "ggcorrheatmap"]
+	path = ggcorrheatmap
+	url = https://github.com/cran/ggcorrheatmap
 [submodule "ggcorrplot"]
 	path = ggcorrplot
 	url = https://github.com/cran/ggcorrplot
@@ -36644,6 +36659,9 @@
 [submodule "ggplate"]
 	path = ggplate
 	url = https://github.com/cran/ggplate
+[submodule "ggplayfair"]
+	path = ggplayfair
+	url = https://github.com/cran/ggplayfair
 [submodule "ggplot.multistats"]
 	path = ggplot.multistats
 	url = https://github.com/cran/ggplot.multistats
@@ -42179,6 +42197,9 @@
 [submodule "lattice"]
 	path = lattice
 	url = https://github.com/cran/lattice
+[submodule "latticeDensity"]
+	path = latticeDensity
+	url = https://github.com/cran/latticeDensity
 [submodule "latticeExtra"]
 	path = latticeExtra
 	url = https://github.com/cran/latticeExtra
@@ -43856,6 +43877,9 @@
 [submodule "mantar"]
 	path = mantar
 	url = https://github.com/cran/mantar
+[submodule "mantis"]
+	path = mantis
+	url = https://github.com/cran/mantis
 [submodule "manydata"]
 	path = manydata
 	url = https://github.com/cran/manydata
@@ -44027,6 +44051,9 @@
 [submodule "marginalizedRisk"]
 	path = marginalizedRisk
 	url = https://github.com/cran/marginalizedRisk
+[submodule "marginme"]
+	path = marginme
+	url = https://github.com/cran/marginme
 [submodule "margins"]
 	path = margins
 	url = https://github.com/cran/margins
@@ -44762,6 +44789,9 @@
 [submodule "meshed"]
 	path = meshed
 	url = https://github.com/cran/meshed
+[submodule "mesonet"]
+	path = mesonet
+	url = https://github.com/cran/mesonet
 [submodule "messaging"]
 	path = messaging
 	url = https://github.com/cran/messaging
@@ -46610,6 +46640,9 @@
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/cran/mr.pivw
+[submodule "mrIML"]
+	path = mrIML
+	url = https://github.com/cran/mrIML
 [submodule "mrMLM"]
 	path = mrMLM
 	url = https://github.com/cran/mrMLM
@@ -66978,6 +67011,9 @@
 [submodule "vfprogression"]
 	path = vfprogression
 	url = https://github.com/cran/vfprogression
+[submodule "vfunc"]
+	path = vfunc
+	url = https://github.com/cran/vfunc
 [submodule "vglmer"]
 	path = vglmer
 	url = https://github.com/cran/vglmer
