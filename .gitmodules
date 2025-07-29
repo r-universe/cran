@@ -40430,6 +40430,9 @@
 [submodule "intensitynet"]
 	path = intensitynet
 	url = https://github.com/cran/intensitynet
+[submodule "inteq"]
+	path = inteq
+	url = https://github.com/cran/inteq
 [submodule "interactionR"]
 	path = interactionR
 	url = https://github.com/cran/interactionR
@@ -64737,6 +64740,9 @@
 [submodule "tidyrgee"]
 	path = tidyrgee
 	url = https://github.com/cran/tidyrgee
+[submodule "tidyrhrv"]
+	path = tidyrhrv
+	url = https://github.com/cran/tidyrhrv
 [submodule "tidyrstats"]
 	path = tidyrstats
 	url = https://github.com/cran/tidyrstats
