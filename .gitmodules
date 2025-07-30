@@ -68505,9 +68505,6 @@
 [submodule "yardstick"]
 	path = yardstick
 	url = https://github.com/cran/yardstick
-[submodule "yarrr"]
-	path = yarrr
-	url = https://github.com/cran/yarrr
 [submodule "yasp"]
 	path = yasp
 	url = https://github.com/cran/yasp
