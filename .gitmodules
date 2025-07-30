@@ -1292,6 +1292,9 @@
 [submodule "BRL"]
 	path = BRL
 	url = https://github.com/cran/BRL
+[submodule "BRVM"]
+	path = BRVM
+	url = https://github.com/cran/BRVM
 [submodule "BRcal"]
 	path = BRcal
 	url = https://github.com/cran/BRcal
@@ -13340,6 +13343,9 @@
 [submodule "PointFore"]
 	path = PointFore
 	url = https://github.com/cran/PointFore
+[submodule "PointedSDMs"]
+	path = PointedSDMs
+	url = https://github.com/cran/PointedSDMs
 [submodule "PoisBinNonNor"]
 	path = PoisBinNonNor
 	url = https://github.com/cran/PoisBinNonNor
@@ -17252,6 +17258,9 @@
 [submodule "SPSP"]
 	path = SPSP
 	url = https://github.com/cran/SPSP
+[submodule "SPUTNIK"]
+	path = SPUTNIK
+	url = https://github.com/cran/SPUTNIK
 [submodule "SPYvsSPY"]
 	path = SPYvsSPY
 	url = https://github.com/cran/SPYvsSPY
@@ -34514,6 +34523,9 @@
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cran/forestdata
+[submodule "forestecology"]
+	path = forestecology
+	url = https://github.com/cran/forestecology
 [submodule "forested"]
 	path = forested
 	url = https://github.com/cran/forested
@@ -37265,6 +37277,9 @@
 [submodule "glorenz"]
 	path = glorenz
 	url = https://github.com/cran/glorenz
+[submodule "glossa"]
+	path = glossa
+	url = https://github.com/cran/glossa
 [submodule "glossary"]
 	path = glossary
 	url = https://github.com/cran/glossary
@@ -40391,6 +40406,9 @@
 [submodule "intRvals"]
 	path = intRvals
 	url = https://github.com/cran/intRvals
+[submodule "intSDM"]
+	path = intSDM
+	url = https://github.com/cran/intSDM
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cran/intamap
