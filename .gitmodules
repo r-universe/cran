@@ -14333,6 +14333,9 @@
 [submodule "REPPlabShiny"]
 	path = REPPlabShiny
 	url = https://github.com/cran/REPPlabShiny
+[submodule "REPS"]
+	path = REPS
+	url = https://github.com/cran/REPS
 [submodule "REPTILE"]
 	path = REPTILE
 	url = https://github.com/cran/REPTILE
@@ -17810,6 +17813,9 @@
 [submodule "SignifReg"]
 	path = SignifReg
 	url = https://github.com/cran/SignifReg
+[submodule "Silhouette"]
+	path = Silhouette
+	url = https://github.com/cran/Silhouette
 [submodule "SillyPutty"]
 	path = SillyPutty
 	url = https://github.com/cran/SillyPutty
@@ -36410,6 +36416,9 @@
 [submodule "ggdmcHeaders"]
 	path = ggdmcHeaders
 	url = https://github.com/cran/ggdmcHeaders
+[submodule "ggdmcLikelihood"]
+	path = ggdmcLikelihood
+	url = https://github.com/cran/ggdmcLikelihood
 [submodule "ggdmcModel"]
 	path = ggdmcModel
 	url = https://github.com/cran/ggdmcModel
@@ -62337,6 +62346,9 @@
 [submodule "standby"]
 	path = standby
 	url = https://github.com/cran/standby
+[submodule "staninside"]
+	path = staninside
+	url = https://github.com/cran/staninside
 [submodule "stanza"]
 	path = stanza
 	url = https://github.com/cran/stanza
@@ -62457,6 +62469,9 @@
 [submodule "staticryptR"]
 	path = staticryptR
 	url = https://github.com/cran/staticryptR
+[submodule "statioVAR"]
+	path = statioVAR
+	url = https://github.com/cran/statioVAR
 [submodule "stationaRy"]
 	path = stationaRy
 	url = https://github.com/cran/stationaRy
