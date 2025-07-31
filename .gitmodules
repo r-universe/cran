@@ -566,6 +566,9 @@
 [submodule "AirMonitor"]
 	path = AirMonitor
 	url = https://github.com/cran/AirMonitor
+[submodule "AirScreen"]
+	path = AirScreen
+	url = https://github.com/cran/AirScreen
 [submodule "AirportProblems"]
 	path = AirportProblems
 	url = https://github.com/cran/AirportProblems
@@ -13709,6 +13712,9 @@
 [submodule "Pursuit"]
 	path = Pursuit
 	url = https://github.com/cran/Pursuit
+[submodule "Pv3Rs"]
+	path = Pv3Rs
+	url = https://github.com/cran/Pv3Rs
 [submodule "PvSTATEM"]
 	path = PvSTATEM
 	url = https://github.com/cran/PvSTATEM
@@ -36407,6 +36413,9 @@
 [submodule "ggdensity"]
 	path = ggdensity
 	url = https://github.com/cran/ggdensity
+[submodule "ggdibbler"]
+	path = ggdibbler
+	url = https://github.com/cran/ggdibbler
 [submodule "ggdist"]
 	path = ggdist
 	url = https://github.com/cran/ggdist
@@ -49754,6 +49763,9 @@
 [submodule "otargen"]
 	path = otargen
 	url = https://github.com/cran/otargen
+[submodule "otel"]
+	path = otel
+	url = https://github.com/cran/otel
 [submodule "otinference"]
 	path = otinference
 	url = https://github.com/cran/otinference
@@ -60239,6 +60251,9 @@
 [submodule "simFrame"]
 	path = simFrame
 	url = https://github.com/cran/simFrame
+[submodule "simIC"]
+	path = simIC
+	url = https://github.com/cran/simIC
 [submodule "simIDM"]
 	path = simIDM
 	url = https://github.com/cran/simIDM
@@ -62937,6 +62952,9 @@
 [submodule "stylo"]
 	path = stylo
 	url = https://github.com/cran/stylo
+[submodule "suRface.analytics"]
+	path = suRface.analytics
+	url = https://github.com/cran/suRface.analytics
 [submodule "subcopem2D"]
 	path = subcopem2D
 	url = https://github.com/cran/subcopem2D
