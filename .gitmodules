@@ -19703,6 +19703,9 @@
 [submodule "WDI"]
 	path = WDI
 	url = https://github.com/cran/WDI
+[submodule "WData"]
+	path = WData
+	url = https://github.com/cran/WData
 [submodule "WEGE"]
 	path = WEGE
 	url = https://github.com/cran/WEGE
@@ -37691,6 +37694,9 @@
 [submodule "gtreg"]
 	path = gtreg
 	url = https://github.com/cran/gtreg
+[submodule "gtregression"]
+	path = gtregression
+	url = https://github.com/cran/gtregression
 [submodule "gtrendsR"]
 	path = gtrendsR
 	url = https://github.com/cran/gtrendsR
