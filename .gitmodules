@@ -8705,6 +8705,9 @@
 [submodule "KSEAapp"]
 	path = KSEAapp
 	url = https://github.com/cran/KSEAapp
+[submodule "KSIC"]
+	path = KSIC
+	url = https://github.com/cran/KSIC
 [submodule "KSPM"]
 	path = KSPM
 	url = https://github.com/cran/KSPM
@@ -27905,6 +27908,9 @@
 [submodule "csdata"]
 	path = csdata
 	url = https://github.com/cran/csdata
+[submodule "csdb"]
+	path = csdb
+	url = https://github.com/cran/csdb
 [submodule "cshapes"]
 	path = cshapes
 	url = https://github.com/cran/cshapes
@@ -34211,6 +34217,9 @@
 [submodule "fpp3"]
 	path = fpp3
 	url = https://github.com/cran/fpp3
+[submodule "fpsim"]
+	path = fpsim
+	url = https://github.com/cran/fpsim
 [submodule "fptdApprox"]
 	path = fptdApprox
 	url = https://github.com/cran/fptdApprox
@@ -39155,6 +39164,9 @@
 [submodule "ibd"]
 	path = ibd
 	url = https://github.com/cran/ibd
+[submodule "ibdfindr"]
+	path = ibdfindr
+	url = https://github.com/cran/ibdfindr
 [submodule "ibdsegments"]
 	path = ibdsegments
 	url = https://github.com/cran/ibdsegments
@@ -43742,6 +43754,9 @@
 [submodule "maxLik"]
 	path = maxLik
 	url = https://github.com/cran/maxLik
+[submodule "maxRgain"]
+	path = maxRgain
+	url = https://github.com/cran/maxRgain
 [submodule "maxaltall"]
 	path = maxaltall
 	url = https://github.com/cran/maxaltall
