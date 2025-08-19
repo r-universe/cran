@@ -2186,6 +2186,9 @@
 [submodule "CBT"]
 	path = CBT
 	url = https://github.com/cran/CBT
+[submodule "CBTF"]
+	path = CBTF
+	url = https://github.com/cran/CBTF
 [submodule "CBnetworkMA"]
 	path = CBnetworkMA
 	url = https://github.com/cran/CBnetworkMA
@@ -2198,6 +2201,9 @@
 [submodule "CCAMLRGIS"]
 	path = CCAMLRGIS
 	url = https://github.com/cran/CCAMLRGIS
+[submodule "CCI"]
+	path = CCI
+	url = https://github.com/cran/CCI
 [submodule "CCM"]
 	path = CCM
 	url = https://github.com/cran/CCM
@@ -12083,6 +12089,9 @@
 [submodule "OutliersO3"]
 	path = OutliersO3
 	url = https://github.com/cran/OutliersO3
+[submodule "OwenQ"]
+	path = OwenQ
+	url = https://github.com/cran/OwenQ
 [submodule "OxSR"]
 	path = OxSR
 	url = https://github.com/cran/OxSR
@@ -21329,6 +21338,9 @@
 [submodule "aos"]
 	path = aos
 	url = https://github.com/cran/aos
+[submodule "apLCMS"]
+	path = apLCMS
+	url = https://github.com/cran/apLCMS
 [submodule "apa"]
 	path = apa
 	url = https://github.com/cran/apa
@@ -35945,6 +35957,9 @@
 [submodule "ggdensity"]
 	path = ggdensity
 	url = https://github.com/cran/ggdensity
+[submodule "ggdiagram"]
+	path = ggdiagram
+	url = https://github.com/cran/ggdiagram
 [submodule "ggdibbler"]
 	path = ggdibbler
 	url = https://github.com/cran/ggdibbler
@@ -40118,6 +40133,9 @@
 [submodule "invgamstochvol"]
 	path = invgamstochvol
 	url = https://github.com/cran/invgamstochvol
+[submodule "invitroTKdata"]
+	path = invitroTKdata
+	url = https://github.com/cran/invitroTKdata
 [submodule "invivoPKfit"]
 	path = invivoPKfit
 	url = https://github.com/cran/invivoPKfit
