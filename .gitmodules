@@ -11597,6 +11597,9 @@
 [submodule "NonCompart"]
 	path = NonCompart
 	url = https://github.com/cran/NonCompart
+[submodule "NonNorMvtDist"]
+	path = NonNorMvtDist
+	url = https://github.com/cran/NonNorMvtDist
 [submodule "NonParRolCor"]
 	path = NonParRolCor
 	url = https://github.com/cran/NonParRolCor
