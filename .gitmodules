@@ -10103,6 +10103,9 @@
 [submodule "MOLHD"]
 	path = MOLHD
 	url = https://github.com/cran/MOLHD
+[submodule "MOM"]
+	path = MOM
+	url = https://github.com/cran/MOM
 [submodule "MOODE"]
 	path = MOODE
 	url = https://github.com/cran/MOODE
@@ -26873,6 +26876,9 @@
 [submodule "confidence"]
 	path = confidence
 	url = https://github.com/cran/confidence
+[submodule "confidenceCurves"]
+	path = confidenceCurves
+	url = https://github.com/cran/confidenceCurves
 [submodule "config"]
 	path = config
 	url = https://github.com/cran/config
@@ -30443,6 +30449,9 @@
 [submodule "dsos"]
 	path = dsos
 	url = https://github.com/cran/dsos
+[submodule "dsp"]
+	path = dsp
+	url = https://github.com/cran/dsp
 [submodule "dspline"]
 	path = dspline
 	url = https://github.com/cran/dspline
@@ -40136,6 +40145,9 @@
 [submodule "invitroTKdata"]
 	path = invitroTKdata
 	url = https://github.com/cran/invitroTKdata
+[submodule "invitroTKstats"]
+	path = invitroTKstats
+	url = https://github.com/cran/invitroTKstats
 [submodule "invivoPKfit"]
 	path = invivoPKfit
 	url = https://github.com/cran/invivoPKfit
@@ -44360,6 +44372,9 @@
 [submodule "metaSEM"]
 	path = metaSEM
 	url = https://github.com/cran/metaSEM
+[submodule "metaSVR"]
+	path = metaSVR
+	url = https://github.com/cran/metaSVR
 [submodule "metaSurvival"]
 	path = metaSurvival
 	url = https://github.com/cran/metaSurvival
