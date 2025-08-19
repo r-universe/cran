@@ -989,9 +989,6 @@
 [submodule "BCRA"]
 	path = BCRA
 	url = https://github.com/cran/BCRA
-[submodule "BCSub"]
-	path = BCSub
-	url = https://github.com/cran/BCSub
 [submodule "BCT"]
 	path = BCT
 	url = https://github.com/cran/BCT
@@ -25976,6 +25973,9 @@
 [submodule "cloudfs"]
 	path = cloudfs
 	url = https://github.com/cran/cloudfs
+[submodule "cloudml"]
+	path = cloudml
+	url = https://github.com/cran/cloudml
 [submodule "cloudos"]
 	path = cloudos
 	url = https://github.com/cran/cloudos
@@ -27428,6 +27428,9 @@
 [submodule "covid19.analytics"]
 	path = covid19.analytics
 	url = https://github.com/cran/covid19.analytics
+[submodule "covid19br"]
+	path = covid19br
+	url = https://github.com/cran/covid19br
 [submodule "covid19dbcand"]
 	path = covid19dbcand
 	url = https://github.com/cran/covid19dbcand
@@ -63624,6 +63627,9 @@
 [submodule "tfer"]
 	path = tfer
 	url = https://github.com/cran/tfer
+[submodule "tfestimators"]
+	path = tfestimators
+	url = https://github.com/cran/tfestimators
 [submodule "tfevents"]
 	path = tfevents
 	url = https://github.com/cran/tfevents
