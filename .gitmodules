@@ -13223,6 +13223,9 @@
 [submodule "PopGenReport"]
 	path = PopGenReport
 	url = https://github.com/cran/PopGenReport
+[submodule "PopPsiSeqR"]
+	path = PopPsiSeqR
+	url = https://github.com/cran/PopPsiSeqR
 [submodule "PopVar"]
 	path = PopVar
 	url = https://github.com/cran/PopVar
@@ -28805,6 +28808,9 @@
 [submodule "dcm2"]
 	path = dcm2
 	url = https://github.com/cran/dcm2
+[submodule "dcmdata"]
+	path = dcmdata
+	url = https://github.com/cran/dcmdata
 [submodule "dcmle"]
 	path = dcmle
 	url = https://github.com/cran/dcmle
@@ -39644,6 +39650,9 @@
 [submodule "import"]
 	path = import
 	url = https://github.com/cran/import
+[submodule "important"]
+	path = important
+	url = https://github.com/cran/important
 [submodule "importar"]
 	path = importar
 	url = https://github.com/cran/importar
