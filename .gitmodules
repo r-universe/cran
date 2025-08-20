@@ -22460,9 +22460,6 @@
 [submodule "batch"]
 	path = batch
 	url = https://github.com/cran/batch
-[submodule "batchLLM"]
-	path = batchLLM
-	url = https://github.com/cran/batchLLM
 [submodule "batchmeans"]
 	path = batchmeans
 	url = https://github.com/cran/batchmeans
@@ -38231,9 +38228,6 @@
 [submodule "helixvis"]
 	path = helixvis
 	url = https://github.com/cran/helixvis
-[submodule "hellmer"]
-	path = hellmer
-	url = https://github.com/cran/hellmer
 [submodule "hellno"]
 	path = hellno
 	url = https://github.com/cran/hellno
@@ -57575,9 +57569,6 @@
 [submodule "samc"]
 	path = samc
 	url = https://github.com/cran/samc
-[submodule "samesies"]
-	path = samesies
-	url = https://github.com/cran/samesies
 [submodule "samon"]
 	path = samon
 	url = https://github.com/cran/samon
