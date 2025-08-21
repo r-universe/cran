@@ -16379,9 +16379,6 @@
 [submodule "SBMSplitMerge"]
 	path = SBMSplitMerge
 	url = https://github.com/cran/SBMSplitMerge
-[submodule "SBMTrees"]
-	path = SBMTrees
-	url = https://github.com/cran/SBMTrees
 [submodule "SBN"]
 	path = SBN
 	url = https://github.com/cran/SBN
