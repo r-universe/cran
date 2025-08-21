@@ -23597,6 +23597,9 @@
 [submodule "blob"]
 	path = blob
 	url = https://github.com/cran/blob
+[submodule "blockCV"]
+	path = blockCV
+	url = https://github.com/cran/blockCV
 [submodule "blockForest"]
 	path = blockForest
 	url = https://github.com/cran/blockForest
@@ -47450,6 +47453,9 @@
 [submodule "nevada"]
 	path = nevada
 	url = https://github.com/cran/nevada
+[submodule "neverhpfilter"]
+	path = neverhpfilter
+	url = https://github.com/cran/neverhpfilter
 [submodule "new.dist"]
 	path = new.dist
 	url = https://github.com/cran/new.dist
