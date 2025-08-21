@@ -35975,6 +35975,9 @@
 [submodule "ggdibbler"]
 	path = ggdibbler
 	url = https://github.com/cran/ggdibbler
+[submodule "ggdiceplot"]
+	path = ggdiceplot
+	url = https://github.com/cran/ggdiceplot
 [submodule "ggdist"]
 	path = ggdist
 	url = https://github.com/cran/ggdist
@@ -52409,6 +52412,9 @@
 [submodule "propagate"]
 	path = propagate
 	url = https://github.com/cran/propagate
+[submodule "propertee"]
+	path = propertee
+	url = https://github.com/cran/propertee
 [submodule "properties"]
 	path = properties
 	url = https://github.com/cran/properties
@@ -56648,6 +56654,9 @@
 [submodule "rpf"]
 	path = rpf
 	url = https://github.com/cran/rpf
+[submodule "rpgconn"]
+	path = rpgconn
+	url = https://github.com/cran/rpgconn
 [submodule "rphylopic"]
 	path = rphylopic
 	url = https://github.com/cran/rphylopic
@@ -66300,6 +66309,9 @@
 [submodule "verbalisr"]
 	path = verbalisr
 	url = https://github.com/cran/verbalisr
+[submodule "verdadecu"]
+	path = verdadecu
+	url = https://github.com/cran/verdadecu
 [submodule "verdata"]
 	path = verdata
 	url = https://github.com/cran/verdata
