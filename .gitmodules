@@ -23597,9 +23597,6 @@
 [submodule "blob"]
 	path = blob
 	url = https://github.com/cran/blob
-[submodule "blockCV"]
-	path = blockCV
-	url = https://github.com/cran/blockCV
 [submodule "blockForest"]
 	path = blockForest
 	url = https://github.com/cran/blockForest
