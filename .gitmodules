@@ -2456,6 +2456,9 @@
 [submodule "CMShiny"]
 	path = CMShiny
 	url = https://github.com/cran/CMShiny
+[submodule "CMTFtoolbox"]
+	path = CMTFtoolbox
+	url = https://github.com/cran/CMTFtoolbox
 [submodule "CMapViz"]
 	path = CMapViz
 	url = https://github.com/cran/CMapViz
@@ -6743,6 +6746,9 @@
 [submodule "GRAB"]
 	path = GRAB
 	url = https://github.com/cran/GRAB
+[submodule "GRANDpriv"]
+	path = GRANDpriv
+	url = https://github.com/cran/GRANDpriv
 [submodule "GRAPE"]
 	path = GRAPE
 	url = https://github.com/cran/GRAPE
@@ -20150,6 +20156,9 @@
 [submodule "aPCoA"]
 	path = aPCoA
 	url = https://github.com/cran/aPCoA
+[submodule "aRD"]
+	path = aRD
+	url = https://github.com/cran/aRD
 [submodule "aRpsDCA"]
 	path = aRpsDCA
 	url = https://github.com/cran/aRpsDCA
@@ -31058,6 +31067,9 @@
 [submodule "ecodist"]
 	path = ecodist
 	url = https://github.com/cran/ecodist
+[submodule "ecodive"]
+	path = ecodive
+	url = https://github.com/cran/ecodive
 [submodule "ecolMod"]
 	path = ecolMod
 	url = https://github.com/cran/ecolMod
@@ -39596,6 +39608,9 @@
 [submodule "imf.data"]
 	path = imf.data
 	url = https://github.com/cran/imf.data
+[submodule "imfweo"]
+	path = imfweo
+	url = https://github.com/cran/imfweo
 [submodule "imgpalr"]
 	path = imgpalr
 	url = https://github.com/cran/imgpalr
@@ -42092,6 +42107,9 @@
 [submodule "letsR"]
 	path = letsR
 	url = https://github.com/cran/letsR
+[submodule "letsRept"]
+	path = letsRept
+	url = https://github.com/cran/letsRept
 [submodule "lettervalue"]
 	path = lettervalue
 	url = https://github.com/cran/lettervalue
@@ -43964,6 +43982,9 @@
 [submodule "mcgibbsit"]
 	path = mcgibbsit
 	url = https://github.com/cran/mcgibbsit
+[submodule "mclink"]
+	path = mclink
+	url = https://github.com/cran/mclink
 [submodule "mclm"]
 	path = mclm
 	url = https://github.com/cran/mclm
@@ -53792,6 +53813,9 @@
 [submodule "rPref"]
 	path = rPref
 	url = https://github.com/cran/rPref
+[submodule "rPublic"]
+	path = rPublic
+	url = https://github.com/cran/rPublic
 [submodule "rQCC"]
 	path = rQCC
 	url = https://github.com/cran/rQCC
