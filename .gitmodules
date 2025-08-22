@@ -5450,6 +5450,9 @@
 [submodule "ExactMultinom"]
 	path = ExactMultinom
 	url = https://github.com/cran/ExactMultinom
+[submodule "ExactVaRTest"]
+	path = ExactVaRTest
+	url = https://github.com/cran/ExactVaRTest
 [submodule "ExamPAData"]
 	path = ExamPAData
 	url = https://github.com/cran/ExamPAData
@@ -58604,6 +58607,9 @@
 [submodule "sensemakr"]
 	path = sensemakr
 	url = https://github.com/cran/sensemakr
+[submodule "senseweight"]
+	path = senseweight
+	url = https://github.com/cran/senseweight
 [submodule "sensiPhy"]
 	path = sensiPhy
 	url = https://github.com/cran/sensiPhy
