@@ -17198,6 +17198,9 @@
 [submodule "SWTools"]
 	path = SWTools
 	url = https://github.com/cran/SWTools
+[submodule "SYNCSA"]
+	path = SYNCSA
+	url = https://github.com/cran/SYNCSA
 [submodule "SafeVote"]
 	path = SafeVote
 	url = https://github.com/cran/SafeVote
