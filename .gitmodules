@@ -37817,6 +37817,9 @@
 [submodule "gwaRs"]
 	path = gwaRs
 	url = https://github.com/cran/gwaRs
+[submodule "gwas2crispr"]
+	path = gwas2crispr
+	url = https://github.com/cran/gwas2crispr
 [submodule "gwasforest"]
 	path = gwasforest
 	url = https://github.com/cran/gwasforest
@@ -51212,6 +51215,9 @@
 [submodule "plotSEMM"]
 	path = plotSEMM
 	url = https://github.com/cran/plotSEMM
+[submodule "plotannotate"]
+	path = plotannotate
+	url = https://github.com/cran/plotannotate
 [submodule "plotbb"]
 	path = plotbb
 	url = https://github.com/cran/plotbb
