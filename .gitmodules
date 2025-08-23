@@ -18080,9 +18080,6 @@
 [submodule "StatTools"]
 	path = StatTools
 	url = https://github.com/cran/StatTools
-[submodule "Statamarkdown"]
-	path = Statamarkdown
-	url = https://github.com/cran/Statamarkdown
 [submodule "StateLevelForest"]
 	path = StateLevelForest
 	url = https://github.com/cran/StateLevelForest
@@ -30506,9 +30503,6 @@
 [submodule "dtlcor"]
 	path = dtlcor
 	url = https://github.com/cran/dtlcor
-[submodule "dtmapi"]
-	path = dtmapi
-	url = https://github.com/cran/dtmapi
 [submodule "dtp"]
 	path = dtp
 	url = https://github.com/cran/dtp
@@ -66579,9 +66573,6 @@
 [submodule "vivaldi"]
 	path = vivaldi
 	url = https://github.com/cran/vivaldi
-[submodule "vivid"]
-	path = vivid
-	url = https://github.com/cran/vivid
 [submodule "vivo"]
 	path = vivo
 	url = https://github.com/cran/vivo
