@@ -12248,6 +12248,9 @@
 [submodule "PCObw"]
 	path = PCObw
 	url = https://github.com/cran/PCObw
+[submodule "PCPS"]
+	path = PCPS
+	url = https://github.com/cran/PCPS
 [submodule "PCRA"]
 	path = PCRA
 	url = https://github.com/cran/PCRA
