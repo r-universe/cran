@@ -37211,6 +37211,9 @@
 [submodule "gpmap"]
 	path = gpmap
 	url = https://github.com/cran/gpmap
+[submodule "gppm"]
+	path = gppm
+	url = https://github.com/cran/gppm
 [submodule "gprofiler2"]
 	path = gprofiler2
 	url = https://github.com/cran/gprofiler2
@@ -48260,6 +48263,9 @@
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/cran/nseq
+[submodule "nser"]
+	path = nser
+	url = https://github.com/cran/nser
 [submodule "nsga2R"]
 	path = nsga2R
 	url = https://github.com/cran/nsga2R
