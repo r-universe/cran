@@ -54395,6 +54395,9 @@
 [submodule "rbin"]
 	path = rbin
 	url = https://github.com/cran/rbin
+[submodule "rbioacc"]
+	path = rbioacc
+	url = https://github.com/cran/rbioacc
 [submodule "rbioapi"]
 	path = rbioapi
 	url = https://github.com/cran/rbioapi
@@ -63969,6 +63972,9 @@
 [submodule "tidycode"]
 	path = tidycode
 	url = https://github.com/cran/tidycode
+[submodule "tidycomm"]
+	path = tidycomm
+	url = https://github.com/cran/tidycomm
 [submodule "tidycountries"]
 	path = tidycountries
 	url = https://github.com/cran/tidycountries
