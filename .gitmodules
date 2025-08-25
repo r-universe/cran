@@ -13745,6 +13745,9 @@
 [submodule "R.rsp"]
 	path = R.rsp
 	url = https://github.com/cran/R.rsp
+[submodule "R.temis"]
+	path = R.temis
+	url = https://github.com/cran/R.temis
 [submodule "R.utils"]
 	path = R.utils
 	url = https://github.com/cran/R.utils
@@ -60464,6 +60467,9 @@
 [submodule "sobolnp"]
 	path = sobolnp
 	url = https://github.com/cran/sobolnp
+[submodule "soc.ca"]
+	path = soc.ca
+	url = https://github.com/cran/soc.ca
 [submodule "socceR"]
 	path = socceR
 	url = https://github.com/cran/socceR
