@@ -27458,6 +27458,9 @@
 [submodule "covequal"]
 	path = covequal
 	url = https://github.com/cran/covequal
+[submodule "covercorr"]
+	path = covercorr
+	url = https://github.com/cran/covercorr
 [submodule "covfefe"]
 	path = covfefe
 	url = https://github.com/cran/covfefe
