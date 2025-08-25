@@ -29066,6 +29066,9 @@
 [submodule "degday"]
 	path = degday
 	url = https://github.com/cran/degday
+[submodule "degradr"]
+	path = degradr
+	url = https://github.com/cran/degradr
 [submodule "degreenet"]
 	path = degreenet
 	url = https://github.com/cran/degreenet
@@ -33353,6 +33356,9 @@
 [submodule "ff"]
 	path = ff
 	url = https://github.com/cran/ff
+[submodule "ffaframework"]
+	path = ffaframework
+	url = https://github.com/cran/ffaframework
 [submodule "ffmanova"]
 	path = ffmanova
 	url = https://github.com/cran/ffmanova
@@ -54389,9 +54395,6 @@
 [submodule "rbin"]
 	path = rbin
 	url = https://github.com/cran/rbin
-[submodule "rbioacc"]
-	path = rbioacc
-	url = https://github.com/cran/rbioacc
 [submodule "rbioapi"]
 	path = rbioapi
 	url = https://github.com/cran/rbioapi
@@ -63153,6 +63156,9 @@
 [submodule "tailloss"]
 	path = tailloss
 	url = https://github.com/cran/tailloss
+[submodule "tailor"]
+	path = tailor
+	url = https://github.com/cran/tailor
 [submodule "tailplots"]
 	path = tailplots
 	url = https://github.com/cran/tailplots
@@ -63963,9 +63969,6 @@
 [submodule "tidycode"]
 	path = tidycode
 	url = https://github.com/cran/tidycode
-[submodule "tidycomm"]
-	path = tidycomm
-	url = https://github.com/cran/tidycomm
 [submodule "tidycountries"]
 	path = tidycountries
 	url = https://github.com/cran/tidycountries
@@ -64470,6 +64473,9 @@
 [submodule "tm1r"]
 	path = tm1r
 	url = https://github.com/cran/tm1r
+[submodule "tma"]
+	path = tma
+	url = https://github.com/cran/tma
 [submodule "tmap"]
 	path = tmap
 	url = https://github.com/cran/tmap
