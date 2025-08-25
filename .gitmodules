@@ -55685,9 +55685,6 @@
 [submodule "rgexf"]
 	path = rgexf
 	url = https://github.com/cran/rgexf
-[submodule "rgho"]
-	path = rgho
-	url = https://github.com/cran/rgho
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/cran/rgl
