@@ -2939,6 +2939,9 @@
 [submodule "ChillModels"]
 	path = ChillModels
 	url = https://github.com/cran/ChillModels
+[submodule "ChinAPIs"]
+	path = ChinAPIs
+	url = https://github.com/cran/ChinAPIs
 [submodule "ChineseNames"]
 	path = ChineseNames
 	url = https://github.com/cran/ChineseNames
@@ -19826,6 +19829,9 @@
 [submodule "WallomicsData"]
 	path = WallomicsData
 	url = https://github.com/cran/WallomicsData
+[submodule "WarnEpi"]
+	path = WarnEpi
+	url = https://github.com/cran/WarnEpi
 [submodule "Wats"]
 	path = Wats
 	url = https://github.com/cran/Wats
@@ -45581,6 +45587,9 @@
 [submodule "mlsjunkgen"]
 	path = mlsjunkgen
 	url = https://github.com/cran/mlsjunkgen
+[submodule "mlspatial"]
+	path = mlspatial
+	url = https://github.com/cran/mlspatial
 [submodule "mlstrOpalr"]
 	path = mlstrOpalr
 	url = https://github.com/cran/mlstrOpalr
@@ -66009,6 +66018,9 @@
 [submodule "utc"]
 	path = utc
 	url = https://github.com/cran/utc
+[submodule "utest"]
+	path = utest
+	url = https://github.com/cran/utest
 [submodule "utf8"]
 	path = utf8
 	url = https://github.com/cran/utf8
