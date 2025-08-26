@@ -23114,9 +23114,6 @@
 [submodule "biclust"]
 	path = biclust
 	url = https://github.com/cran/biclust
-[submodule "biclustermd"]
-	path = biclustermd
-	url = https://github.com/cran/biclustermd
 [submodule "bidask"]
 	path = bidask
 	url = https://github.com/cran/bidask
