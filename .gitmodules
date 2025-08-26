@@ -2147,6 +2147,9 @@
 [submodule "CAST"]
 	path = CAST
 	url = https://github.com/cran/CAST
+[submodule "CATAcode"]
+	path = CATAcode
+	url = https://github.com/cran/CATAcode
 [submodule "CATT"]
 	path = CATT
 	url = https://github.com/cran/CATT
@@ -5036,6 +5039,9 @@
 [submodule "EQUALSTATS"]
 	path = EQUALSTATS
 	url = https://github.com/cran/EQUALSTATS
+[submodule "EQUALencrypt"]
+	path = EQUALencrypt
+	url = https://github.com/cran/EQUALencrypt
 [submodule "EQUALrepeat"]
 	path = EQUALrepeat
 	url = https://github.com/cran/EQUALrepeat
@@ -8321,6 +8327,9 @@
 [submodule "IndexWizard"]
 	path = IndexWizard
 	url = https://github.com/cran/IndexWizard
+[submodule "IndiAPIs"]
+	path = IndiAPIs
+	url = https://github.com/cran/IndiAPIs
 [submodule "Indicator"]
 	path = Indicator
 	url = https://github.com/cran/Indicator
@@ -22184,6 +22193,9 @@
 [submodule "azlogr"]
 	path = azlogr
 	url = https://github.com/cran/azlogr
+[submodule "azuremapsr"]
+	path = azuremapsr
+	url = https://github.com/cran/azuremapsr
 [submodule "azuremlsdk"]
 	path = azuremlsdk
 	url = https://github.com/cran/azuremlsdk
@@ -31202,6 +31214,9 @@
 [submodule "edfReader"]
 	path = edfReader
 	url = https://github.com/cran/edfReader
+[submodule "edfinr"]
+	path = edfinr
+	url = https://github.com/cran/edfinr
 [submodule "edfun"]
 	path = edfun
 	url = https://github.com/cran/edfun
@@ -43781,6 +43796,9 @@
 [submodule "matrisk"]
 	path = matrisk
 	url = https://github.com/cran/matrisk
+[submodule "matrixCorr"]
+	path = matrixCorr
+	url = https://github.com/cran/matrixCorr
 [submodule "matrixLaplacian"]
 	path = matrixLaplacian
 	url = https://github.com/cran/matrixLaplacian
@@ -60944,6 +60962,9 @@
 [submodule "spatial"]
 	path = spatial
 	url = https://github.com/cran/spatial
+[submodule "spatialCatalogueViewer"]
+	path = spatialCatalogueViewer
+	url = https://github.com/cran/spatialCatalogueViewer
 [submodule "spatialCovariance"]
 	path = spatialCovariance
 	url = https://github.com/cran/spatialCovariance
