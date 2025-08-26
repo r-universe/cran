@@ -4757,6 +4757,9 @@
 [submodule "DysPIAData"]
 	path = DysPIAData
 	url = https://github.com/cran/DysPIAData
+[submodule "E2E"]
+	path = E2E
+	url = https://github.com/cran/E2E
 [submodule "EATME"]
 	path = EATME
 	url = https://github.com/cran/EATME
@@ -8588,6 +8591,9 @@
 [submodule "JamendoR"]
 	path = JamendoR
 	url = https://github.com/cran/JamendoR
+[submodule "JapanAPIs"]
+	path = JapanAPIs
+	url = https://github.com/cran/JapanAPIs
 [submodule "JavaGD"]
 	path = JavaGD
 	url = https://github.com/cran/JavaGD
@@ -65724,6 +65730,9 @@
 [submodule "undidR"]
 	path = undidR
 	url = https://github.com/cran/undidR
+[submodule "unfold"]
+	path = unfold
+	url = https://github.com/cran/unfold
 [submodule "unglue"]
 	path = unglue
 	url = https://github.com/cran/unglue
