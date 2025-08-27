@@ -2411,6 +2411,9 @@
 [submodule "CLAST"]
 	path = CLAST
 	url = https://github.com/cran/CLAST
+[submodule "CLIC"]
+	path = CLIC
+	url = https://github.com/cran/CLIC
 [submodule "CLME"]
 	path = CLME
 	url = https://github.com/cran/CLME
@@ -7313,6 +7316,9 @@
 [submodule "HARplus"]
 	path = HARplus
 	url = https://github.com/cran/HARplus
+[submodule "HARr"]
+	path = HARr
+	url = https://github.com/cran/HARr
 [submodule "HBSTM"]
 	path = HBSTM
 	url = https://github.com/cran/HBSTM
@@ -8912,6 +8918,9 @@
 [submodule "LCCR"]
 	path = LCCR
 	url = https://github.com/cran/LCCR
+[submodule "LCCkNN"]
+	path = LCCkNN
+	url = https://github.com/cran/LCCkNN
 [submodule "LCFdata"]
 	path = LCFdata
 	url = https://github.com/cran/LCFdata
@@ -14003,6 +14012,9 @@
 [submodule "RCarb"]
 	path = RCarb
 	url = https://github.com/cran/RCarb
+[submodule "RCaucTile"]
+	path = RCaucTile
+	url = https://github.com/cran/RCaucTile
 [submodule "RChest"]
 	path = RChest
 	url = https://github.com/cran/RChest
@@ -33614,6 +33626,9 @@
 [submodule "fireexposuR"]
 	path = fireexposuR
 	url = https://github.com/cran/fireexposuR
+[submodule "firesale"]
+	path = firesale
+	url = https://github.com/cran/firesale
 [submodule "first"]
 	path = first
 	url = https://github.com/cran/first
@@ -33761,6 +33776,9 @@
 [submodule "flan"]
 	path = flan
 	url = https://github.com/cran/flan
+[submodule "flankr"]
+	path = flankr
+	url = https://github.com/cran/flankr
 [submodule "flap"]
 	path = flap
 	url = https://github.com/cran/flap
@@ -58865,6 +58883,9 @@
 [submodule "settingsSync"]
 	path = settingsSync
 	url = https://github.com/cran/settingsSync
+[submodule "setwidth"]
+	path = setwidth
+	url = https://github.com/cran/setwidth
 [submodule "sevenbridges2"]
 	path = sevenbridges2
 	url = https://github.com/cran/sevenbridges2
@@ -59570,6 +59591,9 @@
 [submodule "sidier"]
 	path = sidier
 	url = https://github.com/cran/sidier
+[submodule "sidra"]
+	path = sidra
+	url = https://github.com/cran/sidra
 [submodule "sidrar"]
 	path = sidrar
 	url = https://github.com/cran/sidrar
