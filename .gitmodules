@@ -9335,9 +9335,6 @@
 [submodule "LifeInsureR"]
 	path = LifeInsureR
 	url = https://github.com/cran/LifeInsureR
-[submodule "LifemapR"]
-	path = LifemapR
-	url = https://github.com/cran/LifemapR
 [submodule "Lifertable"]
 	path = Lifertable
 	url = https://github.com/cran/Lifertable
@@ -34160,9 +34157,6 @@
 [submodule "forestdata"]
 	path = forestdata
 	url = https://github.com/cran/forestdata
-[submodule "forestecology"]
-	path = forestecology
-	url = https://github.com/cran/forestecology
 [submodule "forested"]
 	path = forested
 	url = https://github.com/cran/forested
@@ -37052,9 +37046,6 @@
 [submodule "goeveg"]
 	path = goeveg
 	url = https://github.com/cran/goeveg
-[submodule "gofCopula"]
-	path = gofCopula
-	url = https://github.com/cran/gofCopula
 [submodule "gofIG"]
 	path = gofIG
 	url = https://github.com/cran/gofIG
@@ -40037,9 +40028,6 @@
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cran/intamap
-[submodule "intamapInteractive"]
-	path = intamapInteractive
-	url = https://github.com/cran/intamapInteractive
 [submodule "intccr"]
 	path = intccr
 	url = https://github.com/cran/intccr
@@ -54707,9 +54695,6 @@
 [submodule "rdpower"]
 	path = rdpower
 	url = https://github.com/cran/rdpower
-[submodule "rdracor"]
-	path = rdracor
-	url = https://github.com/cran/rdracor
 [submodule "rdrobust"]
 	path = rdrobust
 	url = https://github.com/cran/rdrobust
