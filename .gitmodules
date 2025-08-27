@@ -482,6 +482,9 @@
 [submodule "AdaSampling"]
 	path = AdaSampling
 	url = https://github.com/cran/AdaSampling
+[submodule "AdapDiscom"]
+	path = AdapDiscom
+	url = https://github.com/cran/AdapDiscom
 [submodule "AdapSamp"]
 	path = AdapSamp
 	url = https://github.com/cran/AdapSamp
@@ -11333,6 +11336,9 @@
 [submodule "NMADiagT"]
 	path = NMADiagT
 	url = https://github.com/cran/NMADiagT
+[submodule "NMAforest"]
+	path = NMAforest
+	url = https://github.com/cran/NMAforest
 [submodule "NMAoutlier"]
 	path = NMAoutlier
 	url = https://github.com/cran/NMAoutlier
@@ -17255,6 +17261,9 @@
 [submodule "SampleSize4ClinicalTrials"]
 	path = SampleSize4ClinicalTrials
 	url = https://github.com/cran/SampleSize4ClinicalTrials
+[submodule "SampleSizeCalculator"]
+	path = SampleSizeCalculator
+	url = https://github.com/cran/SampleSizeCalculator
 [submodule "SampleSizeDiagnostics"]
 	path = SampleSizeDiagnostics
 	url = https://github.com/cran/SampleSizeDiagnostics
@@ -21065,6 +21074,9 @@
 [submodule "allestimates"]
 	path = allestimates
 	url = https://github.com/cran/allestimates
+[submodule "allocation"]
+	path = allocation
+	url = https://github.com/cran/allocation
 [submodule "allofus"]
 	path = allofus
 	url = https://github.com/cran/allofus
@@ -54257,6 +54269,9 @@
 [submodule "rappdirs"]
 	path = rappdirs
 	url = https://github.com/cran/rappdirs
+[submodule "rappleads"]
+	path = rappleads
+	url = https://github.com/cran/rappleads
 [submodule "rapport"]
 	path = rapport
 	url = https://github.com/cran/rapport
@@ -56105,6 +56120,9 @@
 [submodule "rlfsm"]
 	path = rlfsm
 	url = https://github.com/cran/rlfsm
+[submodule "rlibkriging"]
+	path = rlibkriging
+	url = https://github.com/cran/rlibkriging
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/cran/rliger
@@ -61028,6 +61046,9 @@
 [submodule "spatialreg"]
 	path = spatialreg
 	url = https://github.com/cran/spatialreg
+[submodule "spatialreg.hp"]
+	path = spatialreg.hp
+	url = https://github.com/cran/spatialreg.hp
 [submodule "spatialrisk"]
 	path = spatialrisk
 	url = https://github.com/cran/spatialrisk
