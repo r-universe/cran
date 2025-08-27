@@ -61580,10 +61580,6 @@
 [submodule "srppp"]
 	path = srppp
 	url = https://github.com/cran/srppp
-[submodule "srr"]
-	path = srr
-	url = https://github.com/ropenscilabs/srr
-	registered = false
 [submodule "srt"]
 	path = srt
 	url = https://github.com/cran/srt

@@ -1,8 +1,0 @@
-[
-  {
-    "package": "srr",
-    "url": "https://github.com/ropenscilabs/srr",
-    "via": ["capybara"],
-    "from": "capybara"
-  }
-]
