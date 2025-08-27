@@ -46613,6 +46613,9 @@
 [submodule "multid"]
 	path = multid
 	url = https://github.com/cran/multid
+[submodule "multideploy"]
+	path = multideploy
+	url = https://github.com/cran/multideploy
 [submodule "multidplyr"]
 	path = multidplyr
 	url = https://github.com/cran/multidplyr
@@ -64184,6 +64187,9 @@
 [submodule "tidypmc"]
 	path = tidypmc
 	url = https://github.com/cran/tidypmc
+[submodule "tidypopgen"]
+	path = tidypopgen
+	url = https://github.com/cran/tidypopgen
 [submodule "tidyposterior"]
 	path = tidyposterior
 	url = https://github.com/cran/tidyposterior
