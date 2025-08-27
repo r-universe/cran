@@ -56105,9 +56105,6 @@
 [submodule "rlfsm"]
 	path = rlfsm
 	url = https://github.com/cran/rlfsm
-[submodule "rlibkriging"]
-	path = rlibkriging
-	url = https://github.com/cran/rlibkriging
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/cran/rliger
