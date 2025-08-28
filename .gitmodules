@@ -3845,6 +3845,9 @@
 [submodule "DESA"]
 	path = DESA
 	url = https://github.com/cran/DESA
+[submodule "DET"]
+	path = DET
+	url = https://github.com/cran/DET
 [submodule "DEXiR"]
 	path = DEXiR
 	url = https://github.com/cran/DEXiR
