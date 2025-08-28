@@ -22145,6 +22145,9 @@
 [submodule "autovi"]
 	path = autovi
 	url = https://github.com/cran/autovi
+[submodule "auxvecLASSO"]
+	path = auxvecLASSO
+	url = https://github.com/cran/auxvecLASSO
 [submodule "av"]
 	path = av
 	url = https://github.com/cran/av
@@ -24644,6 +24647,9 @@
 [submodule "calmr"]
 	path = calmr
 	url = https://github.com/cran/calmr
+[submodule "calms"]
+	path = calms
+	url = https://github.com/cran/calms
 [submodule "calpassapi"]
 	path = calpassapi
 	url = https://github.com/cran/calpassapi
@@ -37559,6 +37565,9 @@
 [submodule "gridSVG"]
 	path = gridSVG
 	url = https://github.com/cran/gridSVG
+[submodule "gridify"]
+	path = gridify
+	url = https://github.com/cran/gridify
 [submodule "gridpattern"]
 	path = gridpattern
 	url = https://github.com/cran/gridpattern
@@ -38012,6 +38021,9 @@
 [submodule "halk"]
 	path = halk
 	url = https://github.com/cran/halk
+[submodule "ham"]
+	path = ham
+	url = https://github.com/cran/ham
 [submodule "hamlet"]
 	path = hamlet
 	url = https://github.com/cran/hamlet
@@ -49493,6 +49505,9 @@
 [submodule "pCalibrate"]
 	path = pCalibrate
 	url = https://github.com/cran/pCalibrate
+[submodule "pECV"]
+	path = pECV
+	url = https://github.com/cran/pECV
 [submodule "pEPA"]
 	path = pEPA
 	url = https://github.com/cran/pEPA
@@ -54581,6 +54596,9 @@
 [submodule "rcdd"]
 	path = rcdd
 	url = https://github.com/cran/rcdd
+[submodule "rcdf"]
+	path = rcdf
+	url = https://github.com/cran/rcdf
 [submodule "rcdk"]
 	path = rcdk
 	url = https://github.com/cran/rcdk
@@ -58034,6 +58052,9 @@
 [submodule "scOntoMatch"]
 	path = scOntoMatch
 	url = https://github.com/cran/scOntoMatch
+[submodule "scPOEM"]
+	path = scPOEM
+	url = https://github.com/cran/scPOEM
 [submodule "scPipeline"]
 	path = scPipeline
 	url = https://github.com/cran/scPipeline
