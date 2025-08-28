@@ -1307,6 +1307,9 @@
 [submodule "BSSprep"]
 	path = BSSprep
 	url = https://github.com/cran/BSSprep
+[submodule "BSTFA"]
+	path = BSTFA
+	url = https://github.com/cran/BSTFA
 [submodule "BSTZINB"]
 	path = BSTZINB
 	url = https://github.com/cran/BSTZINB
@@ -16856,6 +16859,9 @@
 [submodule "SMMA"]
 	path = SMMA
 	url = https://github.com/cran/SMMA
+[submodule "SMMAL"]
+	path = SMMAL
+	url = https://github.com/cran/SMMAL
 [submodule "SMME"]
 	path = SMME
 	url = https://github.com/cran/SMME
@@ -24743,6 +24749,9 @@
 [submodule "caracas"]
 	path = caracas
 	url = https://github.com/cran/caracas
+[submodule "caradpt"]
+	path = caradpt
+	url = https://github.com/cran/caradpt
 [submodule "carat"]
 	path = carat
 	url = https://github.com/cran/carat
@@ -41303,6 +41312,9 @@
 [submodule "kfino"]
 	path = kfino
 	url = https://github.com/cran/kfino
+[submodule "kfre"]
+	path = kfre
+	url = https://github.com/cran/kfre
 [submodule "kgc"]
 	path = kgc
 	url = https://github.com/cran/kgc
@@ -52838,6 +52850,9 @@
 [submodule "ptycho"]
 	path = ptycho
 	url = https://github.com/cran/ptycho
+[submodule "pubchem.bio"]
+	path = pubchem.bio
+	url = https://github.com/cran/pubchem.bio
 [submodule "pubh"]
 	path = pubh
 	url = https://github.com/cran/pubh
@@ -63587,6 +63602,9 @@
 [submodule "terminaldigits"]
 	path = terminaldigits
 	url = https://github.com/cran/terminaldigits
+[submodule "terminalgraphics"]
+	path = terminalgraphics
+	url = https://github.com/cran/terminalgraphics
 [submodule "tern"]
 	path = tern
 	url = https://github.com/cran/tern
