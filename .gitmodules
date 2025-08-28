@@ -6989,6 +6989,9 @@
 [submodule "GenMarkov"]
 	path = GenMarkov
 	url = https://github.com/cran/GenMarkov
+[submodule "GenOU"]
+	path = GenOU
+	url = https://github.com/cran/GenOU
 [submodule "GenOrd"]
 	path = GenOrd
 	url = https://github.com/cran/GenOrd
@@ -19013,6 +19016,9 @@
 [submodule "Thermimage"]
 	path = Thermimage
 	url = https://github.com/cran/Thermimage
+[submodule "TheseusPlot"]
+	path = TheseusPlot
+	url = https://github.com/cran/TheseusPlot
 [submodule "ThomasJeffersonUniv"]
 	path = ThomasJeffersonUniv
 	url = https://github.com/cran/ThomasJeffersonUniv
