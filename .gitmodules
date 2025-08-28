@@ -28640,6 +28640,9 @@
 [submodule "datacleanr"]
 	path = datacleanr
 	url = https://github.com/cran/datacleanr
+[submodule "datacommons"]
+	path = datacommons
+	url = https://github.com/cran/datacommons
 [submodule "datacutr"]
 	path = datacutr
 	url = https://github.com/cran/datacutr
@@ -58475,6 +58478,9 @@
 [submodule "sealasso"]
 	path = sealasso
 	url = https://github.com/cran/sealasso
+[submodule "searchAnalyzeR"]
+	path = searchAnalyzeR
+	url = https://github.com/cran/searchAnalyzeR
 [submodule "searcher"]
 	path = searcher
 	url = https://github.com/cran/searcher
@@ -62306,6 +62312,9 @@
 [submodule "stratbr"]
 	path = stratbr
 	url = https://github.com/cran/stratbr
+[submodule "stratcols"]
+	path = stratcols
+	url = https://github.com/cran/stratcols
 [submodule "strategicplayers"]
 	path = strategicplayers
 	url = https://github.com/cran/strategicplayers
