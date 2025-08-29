@@ -6005,9 +6005,6 @@
 [submodule "FedIRT"]
 	path = FedIRT
 	url = https://github.com/cran/FedIRT
-[submodule "FeedbackTS"]
-	path = FeedbackTS
-	url = https://github.com/cran/FeedbackTS
 [submodule "FertBoot"]
 	path = FertBoot
 	url = https://github.com/cran/FertBoot
@@ -6410,9 +6407,6 @@
 [submodule "GDAtools"]
 	path = GDAtools
 	url = https://github.com/cran/GDAtools
-[submodule "GDELTtools"]
-	path = GDELTtools
-	url = https://github.com/cran/GDELTtools
 [submodule "GDILM.ME"]
 	path = GDILM.ME
 	url = https://github.com/cran/GDILM.ME
@@ -9200,6 +9194,9 @@
 [submodule "LTCDM"]
 	path = LTCDM
 	url = https://github.com/cran/LTCDM
+[submodule "LTFGRS"]
+	path = LTFGRS
+	url = https://github.com/cran/LTFGRS
 [submodule "LTFHPlus"]
 	path = LTFHPlus
 	url = https://github.com/cran/LTFHPlus
@@ -9872,9 +9869,6 @@
 [submodule "MGBT"]
 	path = MGBT
 	url = https://github.com/cran/MGBT
-[submodule "MGDrivE2"]
-	path = MGDrivE2
-	url = https://github.com/cran/MGDrivE2
 [submodule "MGL"]
 	path = MGL
 	url = https://github.com/cran/MGL
@@ -11000,9 +10994,6 @@
 [submodule "MorphoTools2"]
 	path = MorphoTools2
 	url = https://github.com/cran/MorphoTools2
-[submodule "Morphoscape"]
-	path = Morphoscape
-	url = https://github.com/cran/Morphoscape
 [submodule "MortCast"]
 	path = MortCast
 	url = https://github.com/cran/MortCast
@@ -17219,9 +17210,6 @@
 [submodule "SUMO"]
 	path = SUMO
 	url = https://github.com/cran/SUMO
-[submodule "SUNGEO"]
-	path = SUNGEO
-	url = https://github.com/cran/SUNGEO
 [submodule "SUSENAS"]
 	path = SUSENAS
 	url = https://github.com/cran/SUSENAS
@@ -17576,9 +17564,6 @@
 [submodule "SigOptR"]
 	path = SigOptR
 	url = https://github.com/cran/SigOptR
-[submodule "SigTree"]
-	path = SigTree
-	url = https://github.com/cran/SigTree
 [submodule "SightabilityModel"]
 	path = SightabilityModel
 	url = https://github.com/cran/SightabilityModel
@@ -19331,9 +19316,6 @@
 [submodule "UBCRM"]
 	path = UBCRM
 	url = https://github.com/cran/UBCRM
-[submodule "UBL"]
-	path = UBL
-	url = https://github.com/cran/UBL
 [submodule "UBStats"]
 	path = UBStats
 	url = https://github.com/cran/UBStats
@@ -22760,9 +22742,6 @@
 [submodule "baymedr"]
 	path = baymedr
 	url = https://github.com/cran/baymedr
-[submodule "bayou"]
-	path = bayou
-	url = https://github.com/cran/bayou
 [submodule "baystability"]
 	path = baystability
 	url = https://github.com/cran/baystability
@@ -26957,6 +26936,9 @@
 [submodule "confSAM"]
 	path = confSAM
 	url = https://github.com/cran/confSAM
+[submodule "confcons"]
+	path = confcons
+	url = https://github.com/cran/confcons
 [submodule "confidence"]
 	path = confidence
 	url = https://github.com/cran/confidence
@@ -32213,9 +32195,6 @@
 [submodule "etrunct"]
 	path = etrunct
 	url = https://github.com/cran/etrunct
-[submodule "etwfe"]
-	path = etwfe
-	url = https://github.com/cran/etwfe
 [submodule "eudata"]
 	path = eudata
 	url = https://github.com/cran/eudata
@@ -47783,9 +47762,6 @@
 [submodule "nixtlar"]
 	path = nixtlar
 	url = https://github.com/cran/nixtlar
-[submodule "njgeo"]
-	path = njgeo
-	url = https://github.com/cran/njgeo
 [submodule "nlMS"]
 	path = nlMS
 	url = https://github.com/cran/nlMS
@@ -53204,9 +53180,6 @@
 [submodule "qlcMatrix"]
 	path = qlcMatrix
 	url = https://github.com/cran/qlcMatrix
-[submodule "qlcVisualize"]
-	path = qlcVisualize
-	url = https://github.com/cran/qlcVisualize
 [submodule "qlcal"]
 	path = qlcal
 	url = https://github.com/cran/qlcal
@@ -58499,9 +58472,6 @@
 [submodule "seastests"]
 	path = seastests
 	url = https://github.com/cran/seastests
-[submodule "seawaveQ"]
-	path = seawaveQ
-	url = https://github.com/cran/seawaveQ
 [submodule "secr"]
 	path = secr
 	url = https://github.com/cran/secr
@@ -61082,9 +61052,6 @@
 [submodule "spatialTIME"]
 	path = spatialTIME
 	url = https://github.com/cran/spatialTIME
-[submodule "spatialfusion"]
-	path = spatialfusion
-	url = https://github.com/cran/spatialfusion
 [submodule "spatialising"]
 	path = spatialising
 	url = https://github.com/cran/spatialising
@@ -63884,9 +63851,6 @@
 [submodule "tframe"]
 	path = tframe
 	url = https://github.com/cran/tframe
-[submodule "tframePlus"]
-	path = tframePlus
-	url = https://github.com/cran/tframePlus
 [submodule "tfrmt"]
 	path = tfrmt
 	url = https://github.com/cran/tfrmt
