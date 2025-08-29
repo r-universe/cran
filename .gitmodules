@@ -18221,6 +18221,9 @@
 [submodule "StuteTest"]
 	path = StuteTest
 	url = https://github.com/cran/StuteTest
+[submodule "Stype.est"]
+	path = Stype.est
+	url = https://github.com/cran/Stype.est
 [submodule "SuRF.vs"]
 	path = SuRF.vs
 	url = https://github.com/cran/SuRF.vs
@@ -19832,6 +19835,9 @@
 [submodule "WRestimates"]
 	path = WRestimates
 	url = https://github.com/cran/WRestimates
+[submodule "WSCdata"]
+	path = WSCdata
+	url = https://github.com/cran/WSCdata
 [submodule "WVPlots"]
 	path = WVPlots
 	url = https://github.com/cran/WVPlots
@@ -59495,6 +59501,9 @@
 [submodule "shinypanels"]
 	path = shinypanels
 	url = https://github.com/cran/shinypanels
+[submodule "shinypayload"]
+	path = shinypayload
+	url = https://github.com/cran/shinypayload
 [submodule "shinypivottabler"]
 	path = shinypivottabler
 	url = https://github.com/cran/shinypivottabler
@@ -63326,6 +63335,9 @@
 [submodule "tashu"]
 	path = tashu
 	url = https://github.com/cran/tashu
+[submodule "tastyR"]
+	path = tastyR
+	url = https://github.com/cran/tastyR
 [submodule "tastypie"]
 	path = tastypie
 	url = https://github.com/cran/tastypie
