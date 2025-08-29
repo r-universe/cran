@@ -52847,6 +52847,9 @@
 [submodule "pttstability"]
 	path = pttstability
 	url = https://github.com/cran/pttstability
+[submodule "ptvalue"]
+	path = ptvalue
+	url = https://github.com/cran/ptvalue
 [submodule "ptvapi"]
 	path = ptvapi
 	url = https://github.com/cran/ptvapi
