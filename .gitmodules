@@ -35936,9 +35936,6 @@
 [submodule "ggQQunif"]
 	path = ggQQunif
 	url = https://github.com/cran/ggQQunif
-[submodule "ggRandomForests"]
-	path = ggRandomForests
-	url = https://github.com/cran/ggRandomForests
 [submodule "ggResidpanel"]
 	path = ggResidpanel
 	url = https://github.com/cran/ggResidpanel
@@ -40331,9 +40328,6 @@
 [submodule "ipc"]
 	path = ipc
 	url = https://github.com/cran/ipc
-[submodule "ipcwswitch"]
-	path = ipcwswitch
-	url = https://github.com/cran/ipcwswitch
 [submodule "ipd"]
 	path = ipd
 	url = https://github.com/cran/ipd
@@ -51629,9 +51623,6 @@
 [submodule "pollen"]
 	path = pollen
 	url = https://github.com/cran/pollen
-[submodule "pollimetry"]
-	path = pollimetry
-	url = https://github.com/cran/pollimetry
 [submodule "pollster"]
 	path = pollster
 	url = https://github.com/cran/pollster
@@ -66791,9 +66782,6 @@
 [submodule "volker"]
 	path = volker
 	url = https://github.com/cran/volker
-[submodule "volleystat"]
-	path = volleystat
-	url = https://github.com/cran/volleystat
 [submodule "volrisk"]
 	path = volrisk
 	url = https://github.com/cran/volrisk
