@@ -52220,9 +52220,6 @@
 [submodule "pretestcad"]
 	path = pretestcad
 	url = https://github.com/cran/pretestcad
-[submodule "prettifyAddins"]
-	path = prettifyAddins
-	url = https://github.com/cran/prettifyAddins
 [submodule "prettyB"]
 	path = prettyB
 	url = https://github.com/cran/prettyB
