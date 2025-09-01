@@ -11921,6 +11921,9 @@
 [submodule "OmegaG"]
 	path = OmegaG
 	url = https://github.com/cran/OmegaG
+[submodule "OmicFlow"]
+	path = OmicFlow
+	url = https://github.com/cran/OmicFlow
 [submodule "OmicKriging"]
 	path = OmicKriging
 	url = https://github.com/cran/OmicKriging
@@ -13622,6 +13625,9 @@
 [submodule "QLearning"]
 	path = QLearning
 	url = https://github.com/cran/QLearning
+[submodule "QQreflimits"]
+	path = QQreflimits
+	url = https://github.com/cran/QQreflimits
 [submodule "QR"]
 	path = QR
 	url = https://github.com/cran/QR
@@ -17396,6 +17402,9 @@
 [submodule "SemNetDictionaries"]
 	path = SemNetDictionaries
 	url = https://github.com/cran/SemNetDictionaries
+[submodule "SemanticDistance"]
+	path = SemanticDistance
+	url = https://github.com/cran/SemanticDistance
 [submodule "Semblance"]
 	path = Semblance
 	url = https://github.com/cran/Semblance
@@ -23720,6 +23729,9 @@
 [submodule "blorr"]
 	path = blorr
 	url = https://github.com/cran/blorr
+[submodule "blosc"]
+	path = blosc
+	url = https://github.com/cran/blosc
 [submodule "blrm"]
 	path = blrm
 	url = https://github.com/cran/blrm
@@ -26366,6 +26378,9 @@
 [submodule "cobiclust"]
 	path = cobiclust
 	url = https://github.com/cran/cobiclust
+[submodule "cobin"]
+	path = cobin
+	url = https://github.com/cran/cobin
 [submodule "cobs"]
 	path = cobs
 	url = https://github.com/cran/cobs
@@ -31058,6 +31073,9 @@
 [submodule "ebnm"]
 	path = ebnm
 	url = https://github.com/cran/ebnm
+[submodule "ebrahim.gof"]
+	path = ebrahim.gof
+	url = https://github.com/cran/ebrahim.gof
 [submodule "ebreg"]
 	path = ebreg
 	url = https://github.com/cran/ebreg
@@ -33659,6 +33677,9 @@
 [submodule "firesale"]
 	path = firesale
 	url = https://github.com/cran/firesale
+[submodule "firestorm"]
+	path = firestorm
+	url = https://github.com/cran/firestorm
 [submodule "first"]
 	path = first
 	url = https://github.com/cran/first
@@ -38168,6 +38189,9 @@
 [submodule "hclusteasy"]
 	path = hclusteasy
 	url = https://github.com/cran/hclusteasy
+[submodule "hcruR"]
+	path = hcruR
+	url = https://github.com/cran/hcruR
 [submodule "hctrial"]
 	path = hctrial
 	url = https://github.com/cran/hctrial
@@ -44621,6 +44645,9 @@
 [submodule "metamisc"]
 	path = metamisc
 	url = https://github.com/cran/metamisc
+[submodule "metamorphr"]
+	path = metamorphr
+	url = https://github.com/cran/metamorphr
 [submodule "metan"]
 	path = metan
 	url = https://github.com/cran/metan
@@ -55577,6 +55604,9 @@
 [submodule "resourcecode"]
 	path = resourcecode
 	url = https://github.com/cran/resourcecode
+[submodule "resourcecodedata"]
+	path = resourcecodedata
+	url = https://github.com/cran/resourcecodedata
 [submodule "resourcer"]
 	path = resourcer
 	url = https://github.com/cran/resourcer
@@ -59558,6 +59588,9 @@
 [submodule "shinytest2"]
 	path = shinytest2
 	url = https://github.com/cran/shinytest2
+[submodule "shinytesters"]
+	path = shinytesters
+	url = https://github.com/cran/shinytesters
 [submodule "shinythemes"]
 	path = shinythemes
 	url = https://github.com/cran/shinythemes
