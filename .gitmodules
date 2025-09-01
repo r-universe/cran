@@ -3050,6 +3050,9 @@
 [submodule "ClimMobTools"]
 	path = ClimMobTools
 	url = https://github.com/cran/ClimMobTools
+[submodule "ClimProjDiags"]
+	path = ClimProjDiags
+	url = https://github.com/cran/ClimProjDiags
 [submodule "ClimaRep"]
 	path = ClimaRep
 	url = https://github.com/cran/ClimaRep
@@ -17816,6 +17819,9 @@
 [submodule "SoupX"]
 	path = SoupX
 	url = https://github.com/cran/SoupX
+[submodule "SouthKoreAPIs"]
+	path = SouthKoreAPIs
+	url = https://github.com/cran/SouthKoreAPIs
 [submodule "SouthParkRshiny"]
 	path = SouthParkRshiny
 	url = https://github.com/cran/SouthParkRshiny
@@ -43043,6 +43049,9 @@
 [submodule "lpacf"]
 	path = lpacf
 	url = https://github.com/cran/lpacf
+[submodule "lpanda"]
+	path = lpanda
+	url = https://github.com/cran/lpanda
 [submodule "lpc"]
 	path = lpc
 	url = https://github.com/cran/lpc
@@ -45128,6 +45137,9 @@
 [submodule "minimax"]
 	path = minimax
 	url = https://github.com/cran/minimax
+[submodule "minimaxALT"]
+	path = minimaxALT
+	url = https://github.com/cran/minimaxALT
 [submodule "minimaxApprox"]
 	path = minimaxApprox
 	url = https://github.com/cran/minimaxApprox
@@ -51944,6 +51956,9 @@
 [submodule "powerbiR"]
 	path = powerbiR
 	url = https://github.com/cran/powerbiR
+[submodule "powerbrmsINLA"]
+	path = powerbrmsINLA
+	url = https://github.com/cran/powerbrmsINLA
 [submodule "powerbydesign"]
 	path = powerbydesign
 	url = https://github.com/cran/powerbydesign
