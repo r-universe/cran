@@ -59882,9 +59882,6 @@
 [submodule "simpleMH"]
 	path = simpleMH
 	url = https://github.com/cran/simpleMH
-[submodule "simpleMLP"]
-	path = simpleMLP
-	url = https://github.com/cran/simpleMLP
 [submodule "simpleNeural"]
 	path = simpleNeural
 	url = https://github.com/cran/simpleNeural
