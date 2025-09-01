@@ -11024,6 +11024,9 @@
 [submodule "MuChPoint"]
 	path = MuChPoint
 	url = https://github.com/cran/MuChPoint
+[submodule "MuFiMeshGP"]
+	path = MuFiMeshGP
+	url = https://github.com/cran/MuFiMeshGP
 [submodule "MuMIn"]
 	path = MuMIn
 	url = https://github.com/cran/MuMIn
@@ -11036,6 +11039,9 @@
 [submodule "MullerPlot"]
 	path = MullerPlot
 	url = https://github.com/cran/MullerPlot
+[submodule "MultANOVA"]
+	path = MultANOVA
+	url = https://github.com/cran/MultANOVA
 [submodule "MultBiplotR"]
 	path = MultBiplotR
 	url = https://github.com/cran/MultBiplotR
@@ -40031,6 +40037,9 @@
 [submodule "inpdfr"]
 	path = inpdfr
 	url = https://github.com/cran/inpdfr
+[submodule "inphr"]
+	path = inphr
+	url = https://github.com/cran/inphr
 [submodule "inplace"]
 	path = inplace
 	url = https://github.com/cran/inplace
@@ -50852,6 +50861,9 @@
 [submodule "phsmethods"]
 	path = phsmethods
 	url = https://github.com/cran/phsmethods
+[submodule "phsopendata"]
+	path = phsopendata
+	url = https://github.com/cran/phsopendata
 [submodule "phuassess"]
 	path = phuassess
 	url = https://github.com/cran/phuassess
