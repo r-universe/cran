@@ -6866,6 +6866,9 @@
 [submodule "GTFSwizard"]
 	path = GTFSwizard
 	url = https://github.com/cran/GTFSwizard
+[submodule "GTRT"]
+	path = GTRT
+	url = https://github.com/cran/GTRT
 [submodule "GTbasedIM"]
 	path = GTbasedIM
 	url = https://github.com/cran/GTbasedIM
@@ -15998,6 +16001,9 @@
 [submodule "Rnanoflann"]
 	path = Rnanoflann
 	url = https://github.com/cran/Rnanoflann
+[submodule "Rnaught"]
+	path = Rnaught
+	url = https://github.com/cran/Rnaught
 [submodule "RnavGraphImageData"]
 	path = RnavGraphImageData
 	url = https://github.com/cran/RnavGraphImageData
@@ -18224,6 +18230,9 @@
 [submodule "StratigrapheR"]
 	path = StratigrapheR
 	url = https://github.com/cran/StratigrapheR
+[submodule "StreamCatTools"]
+	path = StreamCatTools
+	url = https://github.com/cran/StreamCatTools
 [submodule "StreamMetabolism"]
 	path = StreamMetabolism
 	url = https://github.com/cran/StreamMetabolism
@@ -28940,6 +28949,9 @@
 [submodule "dcurves"]
 	path = dcurves
 	url = https://github.com/cran/dcurves
+[submodule "ddModel"]
+	path = ddModel
+	url = https://github.com/cran/ddModel
 [submodule "dda"]
 	path = dda
 	url = https://github.com/cran/dda
@@ -35270,6 +35282,9 @@
 [submodule "gcite"]
 	path = gcite
 	url = https://github.com/cran/gcite
+[submodule "gclink"]
+	path = gclink
+	url = https://github.com/cran/gclink
 [submodule "gclm"]
 	path = gclm
 	url = https://github.com/cran/gclm
@@ -43328,6 +43343,9 @@
 [submodule "mHMMbayes"]
 	path = mHMMbayes
 	url = https://github.com/cran/mHMMbayes
+[submodule "mLLMCelltype"]
+	path = mLLMCelltype
+	url = https://github.com/cran/mLLMCelltype
 [submodule "mMARCH.AC"]
 	path = mMARCH.AC
 	url = https://github.com/cran/mMARCH.AC
@@ -48224,6 +48242,9 @@
 [submodule "notionR"]
 	path = notionR
 	url = https://github.com/cran/notionR
+[submodule "notionapi"]
+	path = notionapi
+	url = https://github.com/cran/notionapi
 [submodule "novelforestSG"]
 	path = novelforestSG
 	url = https://github.com/cran/novelforestSG
