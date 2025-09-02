@@ -33872,6 +33872,9 @@
 [submodule "flevr"]
 	path = flevr
 	url = https://github.com/cran/flevr
+[submodule "flex"]
+	path = flex
+	url = https://github.com/cran/flex
 [submodule "flexCWM"]
 	path = flexCWM
 	url = https://github.com/cran/flexCWM
@@ -50756,6 +50759,9 @@
 [submodule "phase"]
 	path = phase
 	url = https://github.com/cran/phase
+[submodule "phase12designs"]
+	path = phase12designs
+	url = https://github.com/cran/phase12designs
 [submodule "phase1PRMD"]
 	path = phase1PRMD
 	url = https://github.com/cran/phase1PRMD
