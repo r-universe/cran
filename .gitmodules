@@ -10052,6 +10052,9 @@
 [submodule "MLmetrics"]
 	path = MLmetrics
 	url = https://github.com/cran/MLmetrics
+[submodule "MLmorph"]
+	path = MLmorph
+	url = https://github.com/cran/MLmorph
 [submodule "MLpreemption"]
 	path = MLpreemption
 	url = https://github.com/cran/MLpreemption
@@ -16097,6 +16100,9 @@
 [submodule "RobustLinearReg"]
 	path = RobustLinearReg
 	url = https://github.com/cran/RobustLinearReg
+[submodule "RobustMetrics"]
+	path = RobustMetrics
+	url = https://github.com/cran/RobustMetrics
 [submodule "RobustPrediction"]
 	path = RobustPrediction
 	url = https://github.com/cran/RobustPrediction
@@ -45323,6 +45329,9 @@
 [submodule "misuvi"]
 	path = misuvi
 	url = https://github.com/cran/misuvi
+[submodule "mitey"]
+	path = mitey
+	url = https://github.com/cran/mitey
 [submodule "mitml"]
 	path = mitml
 	url = https://github.com/cran/mitml
@@ -46637,6 +46646,9 @@
 [submodule "multiROC"]
 	path = multiROC
 	url = https://github.com/cran/multiROC
+[submodule "multiScaleR"]
+	path = multiScaleR
+	url = https://github.com/cran/multiScaleR
 [submodule "multiUS"]
 	path = multiUS
 	url = https://github.com/cran/multiUS
@@ -55280,6 +55292,9 @@
 [submodule "regress"]
 	path = regress
 	url = https://github.com/cran/regress
+[submodule "regress3d"]
+	path = regress3d
+	url = https://github.com/cran/regress3d
 [submodule "regressinator"]
 	path = regressinator
 	url = https://github.com/cran/regressinator
@@ -57476,6 +57491,9 @@
 [submodule "rvmethod"]
 	path = rvmethod
 	url = https://github.com/cran/rvmethod
+[submodule "rvolleydata"]
+	path = rvolleydata
+	url = https://github.com/cran/rvolleydata
 [submodule "rwa"]
 	path = rwa
 	url = https://github.com/cran/rwa
@@ -65189,6 +65207,9 @@
 [submodule "trendsegmentR"]
 	path = trendsegmentR
 	url = https://github.com/cran/trendsegmentR
+[submodule "trendtestR"]
+	path = trendtestR
+	url = https://github.com/cran/trendtestR
 [submodule "trendyy"]
 	path = trendyy
 	url = https://github.com/cran/trendyy
