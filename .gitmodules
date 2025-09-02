@@ -12482,9 +12482,6 @@
 [submodule "PLSiMCpp"]
 	path = PLSiMCpp
 	url = https://github.com/cran/PLSiMCpp
-[submodule "PLStests"]
-	path = PLStests
-	url = https://github.com/cran/PLStests
 [submodule "PLindleyROC"]
 	path = PLindleyROC
 	url = https://github.com/cran/PLindleyROC
