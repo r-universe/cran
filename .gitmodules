@@ -56012,6 +56012,9 @@
 [submodule "rifttable"]
 	path = rifttable
 	url = https://github.com/cran/rifttable
+[submodule "rigr"]
+	path = rigr
+	url = https://github.com/cran/rigr
 [submodule "riingo"]
 	path = riingo
 	url = https://github.com/cran/riingo
