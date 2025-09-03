@@ -3272,6 +3272,9 @@
 [submodule "CompAREdesign"]
 	path = CompAREdesign
 	url = https://github.com/cran/CompAREdesign
+[submodule "CompClassMetrics"]
+	path = CompClassMetrics
+	url = https://github.com/cran/CompClassMetrics
 [submodule "CompDist"]
 	path = CompDist
 	url = https://github.com/cran/CompDist
@@ -5369,6 +5372,9 @@
 [submodule "EpistemicGameTheory"]
 	path = EpistemicGameTheory
 	url = https://github.com/cran/EpistemicGameTheory
+[submodule "Epoch"]
+	path = Epoch
+	url = https://github.com/cran/Epoch
 [submodule "Equalden.HD"]
 	path = Equalden.HD
 	url = https://github.com/cran/Equalden.HD
@@ -11168,6 +11174,9 @@
 [submodule "MultivariateRandomForest"]
 	path = MultivariateRandomForest
 	url = https://github.com/cran/MultivariateRandomForest
+[submodule "MultivariateTrendAnalysis"]
+	path = MultivariateTrendAnalysis
+	url = https://github.com/cran/MultivariateTrendAnalysis
 [submodule "MultiwayRegression"]
 	path = MultiwayRegression
 	url = https://github.com/cran/MultiwayRegression
@@ -19280,6 +19289,9 @@
 [submodule "TrialEmulation"]
 	path = TrialEmulation
 	url = https://github.com/cran/TrialEmulation
+[submodule "TrialSimulator"]
+	path = TrialSimulator
+	url = https://github.com/cran/TrialSimulator
 [submodule "TrialSize"]
 	path = TrialSize
 	url = https://github.com/cran/TrialSize
@@ -23678,6 +23690,9 @@
 [submodule "blavaan"]
 	path = blavaan
 	url = https://github.com/cran/blavaan
+[submodule "blendR"]
+	path = blendR
+	url = https://github.com/cran/blendR
 [submodule "blindrecalc"]
 	path = blindrecalc
 	url = https://github.com/cran/blindrecalc
@@ -27725,6 +27740,9 @@
 [submodule "cppRouting"]
 	path = cppRouting
 	url = https://github.com/cran/cppRouting
+[submodule "cppSim"]
+	path = cppSim
+	url = https://github.com/cran/cppSim
 [submodule "cppcheckR"]
 	path = cppcheckR
 	url = https://github.com/cran/cppcheckR
@@ -46667,6 +46685,9 @@
 [submodule "multiMarker"]
 	path = multiMarker
 	url = https://github.com/cran/multiMarker
+[submodule "multiModTest"]
+	path = multiModTest
+	url = https://github.com/cran/multiModTest
 [submodule "multiRDPG"]
 	path = multiRDPG
 	url = https://github.com/cran/multiRDPG
@@ -57338,6 +57359,9 @@
 [submodule "rtika"]
 	path = rtika
 	url = https://github.com/cran/rtika
+[submodule "rtiktokads"]
+	path = rtiktokads
+	url = https://github.com/cran/rtiktokads
 [submodule "rtiktoken"]
 	path = rtiktoken
 	url = https://github.com/cran/rtiktoken
@@ -61379,6 +61403,9 @@
 [submodule "speff2trial"]
 	path = speff2trial
 	url = https://github.com/cran/speff2trial
+[submodule "spell.replacer"]
+	path = spell.replacer
+	url = https://github.com/cran/spell.replacer
 [submodule "spellcheckr"]
 	path = spellcheckr
 	url = https://github.com/cran/spellcheckr
