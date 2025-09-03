@@ -32243,6 +32243,9 @@
 [submodule "etrunct"]
 	path = etrunct
 	url = https://github.com/cran/etrunct
+[submodule "etwfe"]
+	path = etwfe
+	url = https://github.com/cran/etwfe
 [submodule "eudata"]
 	path = eudata
 	url = https://github.com/cran/eudata
