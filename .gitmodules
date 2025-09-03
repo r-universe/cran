@@ -58796,9 +58796,6 @@
 [submodule "semidist"]
 	path = semidist
 	url = https://github.com/cran/semidist
-[submodule "seminr"]
-	path = seminr
-	url = https://github.com/cran/seminr
 [submodule "seminrExtras"]
 	path = seminrExtras
 	url = https://github.com/cran/seminrExtras
