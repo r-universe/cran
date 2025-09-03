@@ -3551,6 +3551,9 @@
 [submodule "CoxICPen"]
 	path = CoxICPen
 	url = https://github.com/cran/CoxICPen
+[submodule "CoxMK"]
+	path = CoxMK
+	url = https://github.com/cran/CoxMK
 [submodule "CoxPlus"]
 	path = CoxPlus
 	url = https://github.com/cran/CoxPlus
@@ -14891,6 +14894,9 @@
 [submodule "RSDA"]
 	path = RSDA
 	url = https://github.com/cran/RSDA
+[submodule "RSDC"]
+	path = RSDC
+	url = https://github.com/cran/RSDC
 [submodule "RSDK"]
 	path = RSDK
 	url = https://github.com/cran/RSDK
@@ -16742,6 +16748,9 @@
 [submodule "SIMPLE.REGRESSION"]
 	path = SIMPLE.REGRESSION
 	url = https://github.com/cran/SIMPLE.REGRESSION
+[submodule "SIMPLICA"]
+	path = SIMPLICA
+	url = https://github.com/cran/SIMPLICA
 [submodule "SIMle"]
 	path = SIMle
 	url = https://github.com/cran/SIMle
@@ -24995,6 +25004,9 @@
 [submodule "causalCmprsk"]
 	path = causalCmprsk
 	url = https://github.com/cran/causalCmprsk
+[submodule "causalDT"]
+	path = causalDT
+	url = https://github.com/cran/causalDT
 [submodule "causalDisco"]
 	path = causalDisco
 	url = https://github.com/cran/causalDisco
@@ -41282,6 +41294,9 @@
 [submodule "keras3"]
 	path = keras3
 	url = https://github.com/cran/keras3
+[submodule "kerasnip"]
+	path = kerasnip
+	url = https://github.com/cran/kerasnip
 [submodule "kerastuneR"]
 	path = kerastuneR
 	url = https://github.com/cran/kerastuneR
@@ -50591,6 +50606,9 @@
 [submodule "permPATH"]
 	path = permPATH
 	url = https://github.com/cran/permPATH
+[submodule "permRand"]
+	path = permRand
+	url = https://github.com/cran/permRand
 [submodule "permimp"]
 	path = permimp
 	url = https://github.com/cran/permimp
