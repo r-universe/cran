@@ -25226,9 +25226,6 @@
 [submodule "celltrackR"]
 	path = celltrackR
 	url = https://github.com/cran/celltrackR
-[submodule "cellularautomata"]
-	path = cellularautomata
-	url = https://github.com/cran/cellularautomata
 [submodule "cem"]
 	path = cem
 	url = https://github.com/cran/cem
@@ -36536,9 +36533,6 @@
 [submodule "ggsignif"]
 	path = ggsignif
 	url = https://github.com/cran/ggsignif
-[submodule "ggsmc"]
-	path = ggsmc
-	url = https://github.com/cran/ggsmc
 [submodule "ggsoccer"]
 	path = ggsoccer
 	url = https://github.com/cran/ggsoccer
@@ -41201,9 +41195,6 @@
 [submodule "karaoke"]
 	path = karaoke
 	url = https://github.com/cran/karaoke
-[submodule "karel"]
-	path = karel
-	url = https://github.com/cran/karel
 [submodule "karlen"]
 	path = karlen
 	url = https://github.com/cran/karlen
