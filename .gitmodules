@@ -65177,6 +65177,9 @@
 [submodule "treeclim"]
 	path = treeclim
 	url = https://github.com/cran/treeclim
+[submodule "treedater"]
+	path = treedater
+	url = https://github.com/cran/treedater
 [submodule "treediff"]
 	path = treediff
 	url = https://github.com/cran/treediff
