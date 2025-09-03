@@ -31514,6 +31514,9 @@
 [submodule "einet"]
 	path = einet
 	url = https://github.com/cran/einet
+[submodule "einops"]
+	path = einops
+	url = https://github.com/cran/einops
 [submodule "einsum"]
 	path = einsum
 	url = https://github.com/cran/einsum
