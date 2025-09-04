@@ -40166,6 +40166,9 @@
 [submodule "intRvals"]
 	path = intRvals
 	url = https://github.com/cran/intRvals
+[submodule "intSDM"]
+	path = intSDM
+	url = https://github.com/cran/intSDM
 [submodule "intamap"]
 	path = intamap
 	url = https://github.com/cran/intamap
