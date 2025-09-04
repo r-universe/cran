@@ -4943,6 +4943,9 @@
 [submodule "EL2Surv"]
 	path = EL2Surv
 	url = https://github.com/cran/EL2Surv
+[submodule "ELIC"]
+	path = ELIC
+	url = https://github.com/cran/ELIC
 [submodule "ELISAtools"]
 	path = ELISAtools
 	url = https://github.com/cran/ELISAtools
@@ -23918,6 +23921,9 @@
 [submodule "bonsaiforest"]
 	path = bonsaiforest
 	url = https://github.com/cran/bonsaiforest
+[submodule "booami"]
+	path = booami
+	url = https://github.com/cran/booami
 [submodule "boodd"]
 	path = boodd
 	url = https://github.com/cran/boodd
@@ -52037,6 +52043,9 @@
 [submodule "power.transform"]
 	path = power.transform
 	url = https://github.com/cran/power.transform
+[submodule "power4mome"]
+	path = power4mome
+	url = https://github.com/cran/power4mome
 [submodule "powerCompRisk"]
 	path = powerCompRisk
 	url = https://github.com/cran/powerCompRisk
@@ -56018,6 +56027,9 @@
 [submodule "ribd"]
 	path = ribd
 	url = https://github.com/cran/ribd
+[submodule "ricci"]
+	path = ricci
+	url = https://github.com/cran/ricci
 [submodule "rice"]
 	path = rice
 	url = https://github.com/cran/rice
