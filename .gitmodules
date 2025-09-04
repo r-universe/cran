@@ -19400,9 +19400,6 @@
 [submodule "UHM"]
 	path = UHM
 	url = https://github.com/cran/UHM
-[submodule "UKB.COVID19"]
-	path = UKB.COVID19
-	url = https://github.com/cran/UKB.COVID19
 [submodule "UKFE"]
 	path = UKFE
 	url = https://github.com/cran/UKFE
