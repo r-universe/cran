@@ -27746,6 +27746,9 @@
 [submodule "cppcheckR"]
 	path = cppcheckR
 	url = https://github.com/cran/cppcheckR
+[submodule "cppcontainers"]
+	path = cppcontainers
+	url = https://github.com/cran/cppcontainers
 [submodule "cppdoubles"]
 	path = cppdoubles
 	url = https://github.com/cran/cppdoubles
@@ -33719,6 +33722,9 @@
 [submodule "firebehavioR"]
 	path = firebehavioR
 	url = https://github.com/cran/firebehavioR
+[submodule "fireexposuR"]
+	path = fireexposuR
+	url = https://github.com/cran/fireexposuR
 [submodule "firesale"]
 	path = firesale
 	url = https://github.com/cran/firesale
