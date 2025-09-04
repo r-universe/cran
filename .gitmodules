@@ -16937,6 +16937,9 @@
 [submodule "SNPassoc"]
 	path = SNPassoc
 	url = https://github.com/cran/SNPassoc
+[submodule "SNPfiltR"]
+	path = SNPfiltR
+	url = https://github.com/cran/SNPfiltR
 [submodule "SNPknock"]
 	path = SNPknock
 	url = https://github.com/cran/SNPknock
@@ -25904,9 +25907,6 @@
 [submodule "classifierplots"]
 	path = classifierplots
 	url = https://github.com/cran/classifierplots
-[submodule "classifly"]
-	path = classifly
-	url = https://github.com/cran/classifly
 [submodule "classmap"]
 	path = classmap
 	url = https://github.com/cran/classmap
@@ -33719,9 +33719,6 @@
 [submodule "firebehavioR"]
 	path = firebehavioR
 	url = https://github.com/cran/firebehavioR
-[submodule "fireexposuR"]
-	path = fireexposuR
-	url = https://github.com/cran/fireexposuR
 [submodule "firesale"]
 	path = firesale
 	url = https://github.com/cran/firesale
