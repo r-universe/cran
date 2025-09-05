@@ -9044,6 +9044,9 @@
 [submodule "LLMR"]
 	path = LLMR
 	url = https://github.com/cran/LLMR
+[submodule "LLMTranslate"]
+	path = LLMTranslate
+	url = https://github.com/cran/LLMTranslate
 [submodule "LLSR"]
 	path = LLSR
 	url = https://github.com/cran/LLSR
@@ -12086,6 +12089,9 @@
 [submodule "OptM"]
 	path = OptM
 	url = https://github.com/cran/OptM
+[submodule "OptOTrials"]
+	path = OptOTrials
+	url = https://github.com/cran/OptOTrials
 [submodule "OptSig"]
 	path = OptSig
 	url = https://github.com/cran/OptSig
@@ -16823,6 +16829,9 @@
 [submodule "SLFPCA"]
 	path = SLFPCA
 	url = https://github.com/cran/SLFPCA
+[submodule "SLGP"]
+	path = SLGP
+	url = https://github.com/cran/SLGP
 [submodule "SLHD"]
 	path = SLHD
 	url = https://github.com/cran/SLHD
@@ -25052,6 +25061,9 @@
 [submodule "causaleffect"]
 	path = causaleffect
 	url = https://github.com/cran/causaleffect
+[submodule "causalnet"]
+	path = causalnet
+	url = https://github.com/cran/causalnet
 [submodule "causaloptim"]
 	path = causaloptim
 	url = https://github.com/cran/causaloptim
