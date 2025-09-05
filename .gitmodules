@@ -9887,6 +9887,9 @@
 [submodule "MGBT"]
 	path = MGBT
 	url = https://github.com/cran/MGBT
+[submodule "MGDrivE"]
+	path = MGDrivE
+	url = https://github.com/cran/MGDrivE
 [submodule "MGL"]
 	path = MGL
 	url = https://github.com/cran/MGL
@@ -14081,9 +14084,6 @@
 [submodule "RConics"]
 	path = RConics
 	url = https://github.com/cran/RConics
-[submodule "RCreliability"]
-	path = RCreliability
-	url = https://github.com/cran/RCreliability
 [submodule "RCriteo"]
 	path = RCriteo
 	url = https://github.com/cran/RCriteo
@@ -15056,9 +15056,6 @@
 [submodule "RVIpkg"]
 	path = RVIpkg
 	url = https://github.com/cran/RVIpkg
-[submodule "RVenn"]
-	path = RVenn
-	url = https://github.com/cran/RVenn
 [submodule "RVerbalExpressions"]
 	path = RVerbalExpressions
 	url = https://github.com/cran/RVerbalExpressions
