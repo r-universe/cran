@@ -27098,6 +27098,9 @@
 [submodule "connector"]
 	path = connector
 	url = https://github.com/cran/connector
+[submodule "connector.databricks"]
+	path = connector.databricks
+	url = https://github.com/cran/connector.databricks
 [submodule "connectwidgets"]
 	path = connectwidgets
 	url = https://github.com/cran/connectwidgets
@@ -31232,6 +31235,9 @@
 [submodule "economiccomplexity"]
 	path = economiccomplexity
 	url = https://github.com/cran/economiccomplexity
+[submodule "econtools"]
+	path = econtools
+	url = https://github.com/cran/econtools
 [submodule "econullnetr"]
 	path = econullnetr
 	url = https://github.com/cran/econullnetr
@@ -45188,6 +45194,9 @@
 [submodule "minesweeper"]
 	path = minesweeper
 	url = https://github.com/cran/minesweeper
+[submodule "mini007"]
+	path = mini007
+	url = https://github.com/cran/mini007
 [submodule "miniCRAN"]
 	path = miniCRAN
 	url = https://github.com/cran/miniCRAN
@@ -45236,6 +45245,9 @@
 [submodule "minioclient"]
 	path = minioclient
 	url = https://github.com/cran/minioclient
+[submodule "minipdf"]
+	path = minipdf
+	url = https://github.com/cran/minipdf
 [submodule "minired"]
 	path = minired
 	url = https://github.com/cran/minired
