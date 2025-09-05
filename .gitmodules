@@ -11783,6 +11783,9 @@
 [submodule "OECD"]
 	path = OECD
 	url = https://github.com/cran/OECD
+[submodule "OEFPIL"]
+	path = OEFPIL
+	url = https://github.com/cran/OEFPIL
 [submodule "OGI"]
 	path = OGI
 	url = https://github.com/cran/OGI
