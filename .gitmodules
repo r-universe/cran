@@ -28394,9 +28394,6 @@
 [submodule "cvsem"]
 	path = cvsem
 	url = https://github.com/cran/cvsem
-[submodule "cvwrapr"]
-	path = cvwrapr
-	url = https://github.com/cran/cvwrapr
 [submodule "cwot"]
 	path = cwot
 	url = https://github.com/cran/cwot
@@ -29810,9 +29807,6 @@
 [submodule "disagg2"]
 	path = disagg2
 	url = https://github.com/cran/disagg2
-[submodule "disaggR"]
-	path = disaggR
-	url = https://github.com/cran/disaggR
 [submodule "disaggregation"]
 	path = disaggregation
 	url = https://github.com/cran/disaggregation
