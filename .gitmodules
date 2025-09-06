@@ -4640,9 +4640,6 @@
 [submodule "Distributacalcul"]
 	path = Distributacalcul
 	url = https://github.com/cran/Distributacalcul
-[submodule "DistributionIV"]
-	path = DistributionIV
-	url = https://github.com/cran/DistributionIV
 [submodule "DistributionOptimization"]
 	path = DistributionOptimization
 	url = https://github.com/cran/DistributionOptimization
@@ -5033,9 +5030,6 @@
 [submodule "EMT"]
 	path = EMT
 	url = https://github.com/cran/EMT
-[submodule "EMTscore"]
-	path = EMTscore
-	url = https://github.com/cran/EMTscore
 [submodule "EMbC"]
 	path = EMbC
 	url = https://github.com/cran/EMbC
