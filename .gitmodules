@@ -66404,9 +66404,6 @@
 [submodule "valueEQ5D"]
 	path = valueEQ5D
 	url = https://github.com/cran/valueEQ5D
-[submodule "valueSetCompare"]
-	path = valueSetCompare
-	url = https://github.com/cran/valueSetCompare
 [submodule "valuemap"]
 	path = valuemap
 	url = https://github.com/cran/valuemap
