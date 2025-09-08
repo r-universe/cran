@@ -4622,6 +4622,9 @@
 [submodule "Distributacalcul"]
 	path = Distributacalcul
 	url = https://github.com/cran/Distributacalcul
+[submodule "DistributionIV"]
+	path = DistributionIV
+	url = https://github.com/cran/DistributionIV
 [submodule "DistributionOptimization"]
 	path = DistributionOptimization
 	url = https://github.com/cran/DistributionOptimization
