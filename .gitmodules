@@ -2504,6 +2504,9 @@
 [submodule "COAP"]
 	path = COAP
 	url = https://github.com/cran/COAP
+[submodule "COINT"]
+	path = COINT
+	url = https://github.com/cran/COINT
 [submodule "COINr"]
 	path = COINr
 	url = https://github.com/cran/COINr
@@ -3737,6 +3740,9 @@
 [submodule "DBfit"]
 	path = DBfit
 	url = https://github.com/cran/DBfit
+[submodule "DBmaps"]
+	path = DBmaps
+	url = https://github.com/cran/DBmaps
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
@@ -27368,6 +27374,9 @@
 [submodule "corrr"]
 	path = corrr
 	url = https://github.com/cran/corrr
+[submodule "corrselect"]
+	path = corrselect
+	url = https://github.com/cran/corrselect
 [submodule "corrsieve"]
 	path = corrsieve
 	url = https://github.com/cran/corrsieve
@@ -32783,6 +32792,9 @@
 [submodule "fabletools"]
 	path = fabletools
 	url = https://github.com/cran/fabletools
+[submodule "fabricQueryR"]
+	path = fabricQueryR
+	url = https://github.com/cran/fabricQueryR
 [submodule "fabricatr"]
 	path = fabricatr
 	url = https://github.com/cran/fabricatr
@@ -33050,6 +33062,9 @@
 [submodule "fastbeta"]
 	path = fastbeta
 	url = https://github.com/cran/fastbeta
+[submodule "fastbioclim"]
+	path = fastbioclim
+	url = https://github.com/cran/fastbioclim
 [submodule "fastcluster"]
 	path = fastcluster
 	url = https://github.com/cran/fastcluster
@@ -47603,6 +47618,9 @@
 [submodule "neutrostat"]
 	path = neutrostat
 	url = https://github.com/cran/neutrostat
+[submodule "nev"]
+	path = nev
+	url = https://github.com/cran/nev
 [submodule "nevada"]
 	path = nevada
 	url = https://github.com/cran/nevada
@@ -67925,6 +67943,9 @@
 [submodule "xtable"]
 	path = xtable
 	url = https://github.com/cran/xtable
+[submodule "xtdml"]
+	path = xtdml
+	url = https://github.com/cran/xtdml
 [submodule "xtranat"]
 	path = xtranat
 	url = https://github.com/cran/xtranat
