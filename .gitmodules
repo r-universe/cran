@@ -13055,6 +13055,9 @@
 [submodule "PhitestR"]
 	path = PhitestR
 	url = https://github.com/cran/PhitestR
+[submodule "PhoneValidator"]
+	path = PhoneValidator
+	url = https://github.com/cran/PhoneValidator
 [submodule "PhotoGEA"]
 	path = PhotoGEA
 	url = https://github.com/cran/PhotoGEA
@@ -36104,9 +36107,6 @@
 [submodule "ggeasy"]
 	path = ggeasy
 	url = https://github.com/cran/ggeasy
-[submodule "ggedit"]
-	path = ggedit
-	url = https://github.com/cran/ggedit
 [submodule "ggeffects"]
 	path = ggeffects
 	url = https://github.com/cran/ggeffects
@@ -39395,6 +39395,9 @@
 [submodule "icdpicr"]
 	path = icdpicr
 	url = https://github.com/cran/icdpicr
+[submodule "icdpicr2"]
+	path = icdpicr2
+	url = https://github.com/cran/icdpicr2
 [submodule "icecream"]
 	path = icecream
 	url = https://github.com/cran/icecream
@@ -39746,6 +39749,9 @@
 [submodule "impactr"]
 	path = impactr
 	url = https://github.com/cran/impactr
+[submodule "impectR"]
+	path = impectR
+	url = https://github.com/cran/impectR
 [submodule "impimp"]
 	path = impimp
 	url = https://github.com/cran/impimp
@@ -63080,6 +63086,9 @@
 [submodule "syntenyPlotteR"]
 	path = syntenyPlotteR
 	url = https://github.com/cran/syntenyPlotteR
+[submodule "synthReturn"]
+	path = synthReturn
+	url = https://github.com/cran/synthReturn
 [submodule "synthesis"]
 	path = synthesis
 	url = https://github.com/cran/synthesis
