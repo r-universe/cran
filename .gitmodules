@@ -5102,6 +5102,9 @@
 [submodule "ETC"]
 	path = ETC
 	url = https://github.com/cran/ETC
+[submodule "ETDQualitizer"]
+	path = ETDQualitizer
+	url = https://github.com/cran/ETDQualitizer
 [submodule "ETLUtils"]
 	path = ETLUtils
 	url = https://github.com/cran/ETLUtils
@@ -8345,6 +8348,9 @@
 [submodule "Indicator"]
 	path = Indicator
 	url = https://github.com/cran/Indicator
+[submodule "IndonesiAPIs"]
+	path = IndonesiAPIs
+	url = https://github.com/cran/IndonesiAPIs
 [submodule "InferenceSMR"]
 	path = InferenceSMR
 	url = https://github.com/cran/InferenceSMR
@@ -16055,6 +16061,9 @@
 [submodule "RobustANOVA"]
 	path = RobustANOVA
 	url = https://github.com/cran/RobustANOVA
+[submodule "RobustAdaptiveDecomposition"]
+	path = RobustAdaptiveDecomposition
+	url = https://github.com/cran/RobustAdaptiveDecomposition
 [submodule "RobustBF"]
 	path = RobustBF
 	url = https://github.com/cran/RobustBF
@@ -22124,6 +22133,9 @@
 [submodule "autostsm"]
 	path = autostsm
 	url = https://github.com/cran/autostsm
+[submodule "autotesteR"]
+	path = autotesteR
+	url = https://github.com/cran/autotesteR
 [submodule "autothresholdr"]
 	path = autothresholdr
 	url = https://github.com/cran/autothresholdr
@@ -40070,6 +40082,9 @@
 [submodule "insee"]
 	path = insee
 	url = https://github.com/cran/insee
+[submodule "inshiny"]
+	path = inshiny
+	url = https://github.com/cran/inshiny
 [submodule "insight"]
 	path = insight
 	url = https://github.com/cran/insight
@@ -44417,6 +44432,9 @@
 [submodule "memoria"]
 	path = memoria
 	url = https://github.com/cran/memoria
+[submodule "memshare"]
+	path = memshare
+	url = https://github.com/cran/memshare
 [submodule "memuse"]
 	path = memuse
 	url = https://github.com/cran/memuse
@@ -45287,6 +45305,9 @@
 [submodule "missSOM"]
 	path = missSOM
 	url = https://github.com/cran/missSOM
+[submodule "missalpha"]
+	path = missalpha
+	url = https://github.com/cran/missalpha
 [submodule "missingHE"]
 	path = missingHE
 	url = https://github.com/cran/missingHE
@@ -46001,6 +46022,9 @@
 [submodule "moexer"]
 	path = moexer
 	url = https://github.com/cran/moexer
+[submodule "mogiw"]
+	path = mogiw
+	url = https://github.com/cran/mogiw
 [submodule "mojson"]
 	path = mojson
 	url = https://github.com/cran/mojson
@@ -49076,6 +49100,9 @@
 [submodule "optbin"]
 	path = optbin
 	url = https://github.com/cran/optbin
+[submodule "optconerrf"]
+	path = optconerrf
+	url = https://github.com/cran/optconerrf
 [submodule "optedr"]
 	path = optedr
 	url = https://github.com/cran/optedr
@@ -50327,6 +50354,9 @@
 [submodule "pdfCluster"]
 	path = pdfCluster
 	url = https://github.com/cran/pdfCluster
+[submodule "pdfcombiner"]
+	path = pdfcombiner
+	url = https://github.com/cran/pdfcombiner
 [submodule "pdfetch"]
 	path = pdfetch
 	url = https://github.com/cran/pdfetch
@@ -51545,6 +51575,9 @@
 [submodule "pmsampsize"]
 	path = pmsampsize
 	url = https://github.com/cran/pmsampsize
+[submodule "pmsesampling"]
+	path = pmsesampling
+	url = https://github.com/cran/pmsesampling
 [submodule "pmultinom"]
 	path = pmultinom
 	url = https://github.com/cran/pmultinom
@@ -52085,6 +52118,9 @@
 [submodule "ppsr"]
 	path = ppsr
 	url = https://github.com/cran/ppsr
+[submodule "ppwdeming"]
+	path = ppwdeming
+	url = https://github.com/cran/ppwdeming
 [submodule "pql"]
 	path = pql
 	url = https://github.com/cran/pql
@@ -60926,6 +60962,9 @@
 [submodule "spant"]
 	path = spant
 	url = https://github.com/cran/spant
+[submodule "spantest"]
+	path = spantest
+	url = https://github.com/cran/spantest
 [submodule "sparcl"]
 	path = sparcl
 	url = https://github.com/cran/sparcl
@@ -61043,6 +61082,9 @@
 [submodule "sparsestep"]
 	path = sparsestep
 	url = https://github.com/cran/sparsestep
+[submodule "sparsesurv"]
+	path = sparsesurv
+	url = https://github.com/cran/sparsesurv
 [submodule "sparsesvd"]
 	path = sparsesvd
 	url = https://github.com/cran/sparsesvd
