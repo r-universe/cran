@@ -17177,6 +17177,9 @@
 [submodule "STCCGEV"]
 	path = STCCGEV
 	url = https://github.com/cran/STCCGEV
+[submodule "STCYP"]
+	path = STCYP
+	url = https://github.com/cran/STCYP
 [submodule "STDistance"]
 	path = STDistance
 	url = https://github.com/cran/STDistance
@@ -25313,6 +25316,9 @@
 [submodule "cfa"]
 	path = cfa
 	url = https://github.com/cran/cfa
+[submodule "cfbfastR"]
+	path = cfbfastR
+	url = https://github.com/cran/cfbfastR
 [submodule "cfda"]
 	path = cfda
 	url = https://github.com/cran/cfda
@@ -26054,6 +26060,9 @@
 [submodule "clockify"]
 	path = clockify
 	url = https://github.com/cran/clockify
+[submodule "clockplot"]
+	path = clockplot
+	url = https://github.com/cran/clockplot
 [submodule "clogitL1"]
 	path = clogitL1
 	url = https://github.com/cran/clogitL1
@@ -56177,6 +56186,9 @@
 [submodule "rjtools"]
 	path = rjtools
 	url = https://github.com/cran/rjtools
+[submodule "rjuliabugs"]
+	path = rjuliabugs
+	url = https://github.com/cran/rjuliabugs
 [submodule "rjwsacruncher"]
 	path = rjwsacruncher
 	url = https://github.com/cran/rjwsacruncher
