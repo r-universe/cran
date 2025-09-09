@@ -5051,6 +5051,9 @@
 [submodule "EQRN"]
 	path = EQRN
 	url = https://github.com/cran/EQRN
+[submodule "EQUALCompareImages"]
+	path = EQUALCompareImages
+	url = https://github.com/cran/EQUALCompareImages
 [submodule "EQUALSTATS"]
 	path = EQUALSTATS
 	url = https://github.com/cran/EQUALSTATS
@@ -30848,6 +30851,9 @@
 [submodule "eDNAjoint"]
 	path = eDNAjoint
 	url = https://github.com/cran/eDNAjoint
+[submodule "eFCM"]
+	path = eFCM
+	url = https://github.com/cran/eFCM
 [submodule "eFRED"]
 	path = eFRED
 	url = https://github.com/cran/eFRED
@@ -53843,6 +53849,9 @@
 [submodule "rEMM"]
 	path = rEMM
 	url = https://github.com/cran/rEMM
+[submodule "rFDP"]
+	path = rFDP
+	url = https://github.com/cran/rFDP
 [submodule "rFIA"]
 	path = rFIA
 	url = https://github.com/cran/rFIA
