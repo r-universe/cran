@@ -3527,6 +3527,9 @@
 [submodule "CovCorTest"]
 	path = CovCorTest
 	url = https://github.com/cran/CovCorTest
+[submodule "CovEsts"]
+	path = CovEsts
+	url = https://github.com/cran/CovEsts
 [submodule "CovSel"]
 	path = CovSel
 	url = https://github.com/cran/CovSel
@@ -6758,6 +6761,9 @@
 [submodule "GPfit"]
 	path = GPfit
 	url = https://github.com/cran/GPfit
+[submodule "GPflexViz"]
+	path = GPflexViz
+	url = https://github.com/cran/GPflexViz
 [submodule "GPoM"]
 	path = GPoM
 	url = https://github.com/cran/GPoM
@@ -15944,6 +15950,9 @@
 [submodule "RmecabKo"]
 	path = RmecabKo
 	url = https://github.com/cran/RmecabKo
+[submodule "Rmfrac"]
+	path = Rmfrac
+	url = https://github.com/cran/Rmfrac
 [submodule "Rmisc"]
 	path = Rmisc
 	url = https://github.com/cran/Rmisc
@@ -39296,6 +39305,9 @@
 [submodule "iPRISM"]
 	path = iPRISM
 	url = https://github.com/cran/iPRISM
+[submodule "iPRSue"]
+	path = iPRSue
+	url = https://github.com/cran/iPRSue
 [submodule "iRegression"]
 	path = iRegression
 	url = https://github.com/cran/iRegression
