@@ -18461,6 +18461,9 @@
 [submodule "SystemicR"]
 	path = SystemicR
 	url = https://github.com/cran/SystemicR
+[submodule "T2DFitTailor"]
+	path = T2DFitTailor
+	url = https://github.com/cran/T2DFitTailor
 [submodule "T2EQ"]
 	path = T2EQ
 	url = https://github.com/cran/T2EQ
