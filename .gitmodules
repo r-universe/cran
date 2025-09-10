@@ -2858,6 +2858,9 @@
 [submodule "Census2016"]
 	path = Census2016
 	url = https://github.com/cran/Census2016
+[submodule "CepReg"]
+	path = CepReg
+	url = https://github.com/cran/CepReg
 [submodule "CerioliOutlierDetection"]
 	path = CerioliOutlierDetection
 	url = https://github.com/cran/CerioliOutlierDetection
@@ -3341,6 +3344,9 @@
 [submodule "ConNEcT"]
 	path = ConNEcT
 	url = https://github.com/cran/ConNEcT
+[submodule "ConSciR"]
+	path = ConSciR
+	url = https://github.com/cran/ConSciR
 [submodule "ConSpline"]
 	path = ConSpline
 	url = https://github.com/cran/ConSpline
@@ -11216,6 +11222,9 @@
 [submodule "NBBDesigns"]
 	path = NBBDesigns
 	url = https://github.com/cran/NBBDesigns
+[submodule "NBDCtools"]
+	path = NBDCtools
+	url = https://github.com/cran/NBDCtools
 [submodule "NBDdirichlet"]
 	path = NBDdirichlet
 	url = https://github.com/cran/NBDdirichlet
@@ -18317,6 +18326,9 @@
 [submodule "SurfaceTortoise"]
 	path = SurfaceTortoise
 	url = https://github.com/cran/SurfaceTortoise
+[submodule "SurprisalAnalysis"]
+	path = SurprisalAnalysis
+	url = https://github.com/cran/SurprisalAnalysis
 [submodule "Surrogate"]
 	path = Surrogate
 	url = https://github.com/cran/Surrogate
@@ -21434,6 +21446,9 @@
 [submodule "apa"]
 	path = apa
 	url = https://github.com/cran/apa
+[submodule "apa7"]
+	path = apa7
+	url = https://github.com/cran/apa7
 [submodule "apaTables"]
 	path = apaTables
 	url = https://github.com/cran/apaTables
@@ -31190,6 +31205,9 @@
 [submodule "ecolottery"]
 	path = ecolottery
 	url = https://github.com/cran/ecolottery
+[submodule "econdataverse"]
+	path = econdataverse
+	url = https://github.com/cran/econdataverse
 [submodule "econet"]
 	path = econet
 	url = https://github.com/cran/econet
@@ -33698,6 +33716,9 @@
 [submodule "fireexposuR"]
 	path = fireexposuR
 	url = https://github.com/cran/fireexposuR
+[submodule "firesafety"]
+	path = firesafety
+	url = https://github.com/cran/firesafety
 [submodule "firesale"]
 	path = firesale
 	url = https://github.com/cran/firesale
@@ -44636,6 +44657,9 @@
 [submodule "metaggR"]
 	path = metaggR
 	url = https://github.com/cran/metaggR
+[submodule "metagroup"]
+	path = metagroup
+	url = https://github.com/cran/metagroup
 [submodule "metaheuristicOpt"]
 	path = metaheuristicOpt
 	url = https://github.com/cran/metaheuristicOpt
@@ -49436,6 +49460,9 @@
 [submodule "otel"]
 	path = otel
 	url = https://github.com/cran/otel
+[submodule "otelsdk"]
+	path = otelsdk
+	url = https://github.com/cran/otelsdk
 [submodule "otinference"]
 	path = otinference
 	url = https://github.com/cran/otinference
@@ -56603,6 +56630,9 @@
 [submodule "robustSFA"]
 	path = robustSFA
 	url = https://github.com/cran/robustSFA
+[submodule "robustT2"]
+	path = robustT2
+	url = https://github.com/cran/robustT2
 [submodule "robustX"]
 	path = robustX
 	url = https://github.com/cran/robustX
@@ -61049,6 +61079,9 @@
 [submodule "sparseFLMM"]
 	path = sparseFLMM
 	url = https://github.com/cran/sparseFLMM
+[submodule "sparseGFM"]
+	path = sparseGFM
+	url = https://github.com/cran/sparseGFM
 [submodule "sparseHessianFD"]
 	path = sparseHessianFD
 	url = https://github.com/cran/sparseHessianFD
