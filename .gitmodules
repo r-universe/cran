@@ -67553,9 +67553,6 @@
 [submodule "wktmo"]
 	path = wktmo
 	url = https://github.com/cran/wktmo
-[submodule "wkutils"]
-	path = wkutils
-	url = https://github.com/cran/wkutils
 [submodule "wmm"]
 	path = wmm
 	url = https://github.com/cran/wmm
