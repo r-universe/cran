@@ -24683,6 +24683,9 @@
 [submodule "camcorder"]
 	path = camcorder
 	url = https://github.com/cran/camcorder
+[submodule "camelsCL"]
+	path = camelsCL
+	url = https://github.com/cran/camelsCL
 [submodule "camerondata"]
 	path = camerondata
 	url = https://github.com/cran/camerondata
