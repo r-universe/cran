@@ -11,6 +11,9 @@
 [submodule "ABC.RAP"]
 	path = ABC.RAP
 	url = https://github.com/cran/ABC.RAP
+[submodule "ABCDscores"]
+	path = ABCDscores
+	url = https://github.com/cran/ABCDscores
 [submodule "ABCanalysis"]
 	path = ABCanalysis
 	url = https://github.com/cran/ABCanalysis
@@ -14189,6 +14192,9 @@
 [submodule "RESTK"]
 	path = RESTK
 	url = https://github.com/cran/RESTK
+[submodule "REXoplanets"]
+	path = REXoplanets
+	url = https://github.com/cran/REXoplanets
 [submodule "REdaS"]
 	path = REdaS
 	url = https://github.com/cran/REdaS
@@ -17732,6 +17738,9 @@
 [submodule "SlicedLHD"]
 	path = SlicedLHD
 	url = https://github.com/cran/SlicedLHD
+[submodule "Slick"]
+	path = Slick
+	url = https://github.com/cran/Slick
 [submodule "SlideCNA"]
 	path = SlideCNA
 	url = https://github.com/cran/SlideCNA
@@ -40781,6 +40790,9 @@
 [submodule "ivo.table"]
 	path = ivo.table
 	url = https://github.com/cran/ivo.table
+[submodule "ivolcano"]
+	path = ivolcano
+	url = https://github.com/cran/ivolcano
 [submodule "ivreg"]
 	path = ivreg
 	url = https://github.com/cran/ivreg
@@ -57125,6 +57137,9 @@
 [submodule "rsample"]
 	path = rsample
 	url = https://github.com/cran/rsample
+[submodule "rsamplr"]
+	path = rsamplr
+	url = https://github.com/cran/rsamplr
 [submodule "rsat"]
 	path = rsat
 	url = https://github.com/cran/rsat
