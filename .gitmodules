@@ -11222,6 +11222,9 @@
 [submodule "NBBDesigns"]
 	path = NBBDesigns
 	url = https://github.com/cran/NBBDesigns
+[submodule "NBDCtools"]
+	path = NBDCtools
+	url = https://github.com/cran/NBDCtools
 [submodule "NBDdirichlet"]
 	path = NBDdirichlet
 	url = https://github.com/cran/NBDdirichlet
@@ -67700,6 +67703,9 @@
 [submodule "workloopR"]
 	path = workloopR
 	url = https://github.com/cran/workloopR
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/cran/workspace
 [submodule "worldbank"]
 	path = worldbank
 	url = https://github.com/cran/worldbank
