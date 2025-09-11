@@ -11222,9 +11222,6 @@
 [submodule "NBBDesigns"]
 	path = NBBDesigns
 	url = https://github.com/cran/NBBDesigns
-[submodule "NBDCtools"]
-	path = NBDCtools
-	url = https://github.com/cran/NBDCtools
 [submodule "NBDdirichlet"]
 	path = NBDdirichlet
 	url = https://github.com/cran/NBDdirichlet
@@ -15458,6 +15455,9 @@
 [submodule "RcppEigen"]
 	path = RcppEigen
 	url = https://github.com/cran/RcppEigen
+[submodule "RcppEigenAD"]
+	path = RcppEigenAD
+	url = https://github.com/cran/RcppEigenAD
 [submodule "RcppEnsmallen"]
 	path = RcppEnsmallen
 	url = https://github.com/cran/RcppEnsmallen
@@ -32903,6 +32903,9 @@
 [submodule "factor256"]
 	path = factor256
 	url = https://github.com/cran/factor256
+[submodule "factorH"]
+	path = factorH
+	url = https://github.com/cran/factorH
 [submodule "factorial2x2"]
 	path = factorial2x2
 	url = https://github.com/cran/factorial2x2
