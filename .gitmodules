@@ -65417,9 +65417,6 @@
 [submodule "truncAIPW"]
 	path = truncAIPW
 	url = https://github.com/cran/truncAIPW
-[submodule "truncSP"]
-	path = truncSP
-	url = https://github.com/cran/truncSP
 [submodule "truncdist"]
 	path = truncdist
 	url = https://github.com/cran/truncdist
