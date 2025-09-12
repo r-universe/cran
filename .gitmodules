@@ -45713,6 +45713,9 @@
 [submodule "mlr3spatial"]
 	path = mlr3spatial
 	url = https://github.com/cran/mlr3spatial
+[submodule "mlr3spatiotempcv"]
+	path = mlr3spatiotempcv
+	url = https://github.com/cran/mlr3spatiotempcv
 [submodule "mlr3summary"]
 	path = mlr3summary
 	url = https://github.com/cran/mlr3summary
