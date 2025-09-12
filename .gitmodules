@@ -3662,9 +3662,6 @@
 [submodule "CytobankAPI"]
 	path = CytobankAPI
 	url = https://github.com/cran/CytobankAPI
-[submodule "D2MCS"]
-	path = D2MCS
-	url = https://github.com/cran/D2MCS
 [submodule "D3GB"]
 	path = D3GB
 	url = https://github.com/cran/D3GB
