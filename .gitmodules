@@ -6803,6 +6803,9 @@
 [submodule "GREMLINS"]
 	path = GREMLINS
 	url = https://github.com/cran/GREMLINS
+[submodule "GRIDCOPULA"]
+	path = GRIDCOPULA
+	url = https://github.com/cran/GRIDCOPULA
 [submodule "GRIN2"]
 	path = GRIN2
 	url = https://github.com/cran/GRIN2
@@ -43229,9 +43232,6 @@
 [submodule "lsmeans"]
 	path = lsmeans
 	url = https://github.com/cran/lsmeans
-[submodule "lsnstat"]
-	path = lsnstat
-	url = https://github.com/cran/lsnstat
 [submodule "lsoda"]
 	path = lsoda
 	url = https://github.com/cran/lsoda
@@ -49748,9 +49748,6 @@
 [submodule "pagenum"]
 	path = pagenum
 	url = https://github.com/cran/pagenum
-[submodule "pageviews"]
-	path = pageviews
-	url = https://github.com/cran/pageviews
 [submodule "pagoda2"]
 	path = pagoda2
 	url = https://github.com/cran/pagoda2
