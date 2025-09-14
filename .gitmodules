@@ -9878,6 +9878,9 @@
 [submodule "MGDrivE"]
 	path = MGDrivE
 	url = https://github.com/cran/MGDrivE
+[submodule "MGDrivE2"]
+	path = MGDrivE2
+	url = https://github.com/cran/MGDrivE2
 [submodule "MGL"]
 	path = MGL
 	url = https://github.com/cran/MGL
