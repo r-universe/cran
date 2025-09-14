@@ -4262,6 +4262,9 @@
 [submodule "DTwrappers2"]
 	path = DTwrappers2
 	url = https://github.com/cran/DTwrappers2
+[submodule "DUToolkit"]
+	path = DUToolkit
+	url = https://github.com/cran/DUToolkit
 [submodule "DVHmetrics"]
 	path = DVHmetrics
 	url = https://github.com/cran/DVHmetrics
@@ -5426,6 +5429,9 @@
 [submodule "Evacluster"]
 	path = Evacluster
 	url = https://github.com/cran/Evacluster
+[submodule "EvalTest"]
+	path = EvalTest
+	url = https://github.com/cran/EvalTest
 [submodule "EvaluationMeasures"]
 	path = EvaluationMeasures
 	url = https://github.com/cran/EvaluationMeasures
@@ -9548,6 +9554,9 @@
 [submodule "MADPop"]
 	path = MADPop
 	url = https://github.com/cran/MADPop
+[submodule "MAFLD"]
+	path = MAFLD
+	url = https://github.com/cran/MAFLD
 [submodule "MAGEE"]
 	path = MAGEE
 	url = https://github.com/cran/MAGEE
@@ -13175,6 +13184,9 @@
 [submodule "PlotTools"]
 	path = PlotTools
 	url = https://github.com/cran/PlotTools
+[submodule "PnT"]
+	path = PnT
+	url = https://github.com/cran/PnT
 [submodule "PoA"]
 	path = PoA
 	url = https://github.com/cran/PoA
@@ -17360,6 +17372,9 @@
 [submodule "ScriptMapR"]
 	path = ScriptMapR
 	url = https://github.com/cran/ScriptMapR
+[submodule "SdeaR"]
+	path = SdeaR
+	url = https://github.com/cran/SdeaR
 [submodule "SeBR"]
 	path = SeBR
 	url = https://github.com/cran/SeBR
@@ -18377,6 +18392,9 @@
 [submodule "SurvEval"]
 	path = SurvEval
 	url = https://github.com/cran/SurvEval
+[submodule "SurvGME"]
+	path = SurvGME
+	url = https://github.com/cran/SurvGME
 [submodule "SurvHiDim"]
 	path = SurvHiDim
 	url = https://github.com/cran/SurvHiDim
@@ -18908,6 +18926,9 @@
 [submodule "TailClassifier"]
 	path = TailClassifier
 	url = https://github.com/cran/TailClassifier
+[submodule "TailID"]
+	path = TailID
+	url = https://github.com/cran/TailID
 [submodule "TailRank"]
 	path = TailRank
 	url = https://github.com/cran/TailRank
@@ -20714,6 +20735,9 @@
 [submodule "admiralmetabolic"]
 	path = admiralmetabolic
 	url = https://github.com/cran/admiralmetabolic
+[submodule "admiralneuro"]
+	path = admiralneuro
+	url = https://github.com/cran/admiralneuro
 [submodule "admiralonco"]
 	path = admiralonco
 	url = https://github.com/cran/admiralonco
@@ -22901,9 +22925,15 @@
 [submodule "bdc"]
 	path = bdc
 	url = https://github.com/cran/bdc
+[submodule "bddkR"]
+	path = bddkR
+	url = https://github.com/cran/bddkR
 [submodule "bde"]
 	path = bde
 	url = https://github.com/cran/bde
+[submodule "bdf3"]
+	path = bdf3
+	url = https://github.com/cran/bdf3
 [submodule "bdl"]
 	path = bdl
 	url = https://github.com/cran/bdl
@@ -31985,6 +32015,9 @@
 [submodule "epitools"]
 	path = epitools
 	url = https://github.com/cran/epitools
+[submodule "epitraxr"]
+	path = epitraxr
+	url = https://github.com/cran/epitraxr
 [submodule "epitrix"]
 	path = epitrix
 	url = https://github.com/cran/epitrix
@@ -52328,6 +52361,9 @@
 [submodule "prefmod"]
 	path = prefmod
 	url = https://github.com/cran/prefmod
+[submodule "pregnancy"]
+	path = pregnancy
+	url = https://github.com/cran/pregnancy
 [submodule "prenoms"]
 	path = prenoms
 	url = https://github.com/cran/prenoms
