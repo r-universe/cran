@@ -16658,6 +16658,9 @@
 [submodule "SEPaLS"]
 	path = SEPaLS
 	url = https://github.com/cran/SEPaLS
+[submodule "SEQTaRget"]
+	path = SEQTaRget
+	url = https://github.com/cran/SEQTaRget
 [submodule "SESraster"]
 	path = SESraster
 	url = https://github.com/cran/SESraster
@@ -19445,6 +19448,9 @@
 [submodule "USA.state.boundaries"]
 	path = USA.state.boundaries
 	url = https://github.com/cran/USA.state.boundaries
+[submodule "USE"]
+	path = USE
+	url = https://github.com/cran/USE
 [submodule "USP"]
 	path = USP
 	url = https://github.com/cran/USP
@@ -25274,6 +25280,9 @@
 [submodule "celestial"]
 	path = celestial
 	url = https://github.com/cran/celestial
+[submodule "cellGeometry"]
+	path = cellGeometry
+	url = https://github.com/cran/cellGeometry
 [submodule "cellKey"]
 	path = cellKey
 	url = https://github.com/cran/cellKey
@@ -51779,6 +51788,9 @@
 [submodule "pokemon"]
 	path = pokemon
 	url = https://github.com/cran/pokemon
+[submodule "polarisR"]
+	path = polarisR
+	url = https://github.com/cran/polarisR
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/cran/polaroid
@@ -54887,6 +54899,9 @@
 [submodule "rdbnomics"]
 	path = rdbnomics
 	url = https://github.com/cran/rdbnomics
+[submodule "rdcmchecks"]
+	path = rdcmchecks
+	url = https://github.com/cran/rdcmchecks
 [submodule "rddapp"]
 	path = rddapp
 	url = https://github.com/cran/rddapp
@@ -56846,6 +56861,9 @@
 [submodule "romic"]
 	path = romic
 	url = https://github.com/cran/romic
+[submodule "ronfig"]
+	path = ronfig
+	url = https://github.com/cran/ronfig
 [submodule "rootSolve"]
 	path = rootSolve
 	url = https://github.com/cran/rootSolve
