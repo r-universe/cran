@@ -8540,9 +8540,6 @@
 [submodule "JFM"]
 	path = JFM
 	url = https://github.com/cran/JFM
-[submodule "JGL"]
-	path = JGL
-	url = https://github.com/cran/JGL
 [submodule "JGR"]
 	path = JGR
 	url = https://github.com/cran/JGR
@@ -33590,9 +33587,6 @@
 [submodule "fglsnet"]
 	path = fglsnet
 	url = https://github.com/cran/fglsnet
-[submodule "fgm"]
-	path = fgm
-	url = https://github.com/cran/fgm
 [submodule "fgui"]
 	path = fgui
 	url = https://github.com/cran/fgui
