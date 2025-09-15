@@ -62288,6 +62288,9 @@
 [submodule "steepness"]
 	path = steepness
 	url = https://github.com/cran/steepness
+[submodule "stelfi"]
+	path = stelfi
+	url = https://github.com/cran/stelfi
 [submodule "stellaR"]
 	path = stellaR
 	url = https://github.com/cran/stellaR
