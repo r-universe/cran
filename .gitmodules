@@ -1163,6 +1163,9 @@
 [submodule "BLCOP"]
 	path = BLCOP
 	url = https://github.com/cran/BLCOP
+[submodule "BLMEngineInR"]
+	path = BLMEngineInR
+	url = https://github.com/cran/BLMEngineInR
 [submodule "BLModel"]
 	path = BLModel
 	url = https://github.com/cran/BLModel
@@ -8246,6 +8249,9 @@
 [submodule "ISOweek"]
 	path = ISOweek
 	url = https://github.com/cran/ISOweek
+[submodule "ISPYARDSWinProbabilityGSDesign"]
+	path = ISPYARDSWinProbabilityGSDesign
+	url = https://github.com/cran/ISPYARDSWinProbabilityGSDesign
 [submodule "ISR"]
 	path = ISR
 	url = https://github.com/cran/ISR
@@ -24302,6 +24308,9 @@
 [submodule "brnn"]
 	path = brnn
 	url = https://github.com/cran/brnn
+[submodule "broadcast"]
+	path = broadcast
+	url = https://github.com/cran/broadcast
 [submodule "brokenstick"]
 	path = brokenstick
 	url = https://github.com/cran/brokenstick
@@ -63668,6 +63677,9 @@
 [submodule "td"]
 	path = td
 	url = https://github.com/cran/td
+[submodule "tdPRC"]
+	path = tdPRC
+	url = https://github.com/cran/tdPRC
 [submodule "tdROC"]
 	path = tdROC
 	url = https://github.com/cran/tdROC
@@ -65864,6 +65876,9 @@
 [submodule "twoStageDesignTMLE"]
 	path = twoStageDesignTMLE
 	url = https://github.com/cran/twoStageDesignTMLE
+[submodule "twomodeclusteringGA"]
+	path = twomodeclusteringGA
+	url = https://github.com/cran/twomodeclusteringGA
 [submodule "twopartm"]
 	path = twopartm
 	url = https://github.com/cran/twopartm
@@ -67229,6 +67244,9 @@
 [submodule "wand"]
 	path = wand
 	url = https://github.com/cran/wand
+[submodule "waou"]
+	path = waou
+	url = https://github.com/cran/waou
 [submodule "warabandi"]
 	path = warabandi
 	url = https://github.com/cran/warabandi
