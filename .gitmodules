@@ -27107,6 +27107,9 @@
 [submodule "conformalInference.fd"]
 	path = conformalInference.fd
 	url = https://github.com/cran/conformalInference.fd
+[submodule "conformalInference.multi"]
+	path = conformalInference.multi
+	url = https://github.com/cran/conformalInference.multi
 [submodule "conformalbayes"]
 	path = conformalbayes
 	url = https://github.com/cran/conformalbayes
