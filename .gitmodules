@@ -13043,6 +13043,9 @@
 [submodule "PersomicsArray"]
 	path = PersomicsArray
 	url = https://github.com/cran/PersomicsArray
+[submodule "PeruAPIs"]
+	path = PeruAPIs
+	url = https://github.com/cran/PeruAPIs
 [submodule "PesticideLoadIndicator"]
 	path = PesticideLoadIndicator
 	url = https://github.com/cran/PesticideLoadIndicator
@@ -17075,6 +17078,9 @@
 [submodule "SPREDA"]
 	path = SPREDA
 	url = https://github.com/cran/SPREDA
+[submodule "SPRT"]
+	path = SPRT
+	url = https://github.com/cran/SPRT
 [submodule "SPSL"]
 	path = SPSL
 	url = https://github.com/cran/SPSL
@@ -19577,6 +19583,9 @@
 [submodule "VBel"]
 	path = VBel
 	url = https://github.com/cran/VBel
+[submodule "VBphenoR"]
+	path = VBphenoR
+	url = https://github.com/cran/VBphenoR
 [submodule "VBsparsePCA"]
 	path = VBsparsePCA
 	url = https://github.com/cran/VBsparsePCA
@@ -40031,6 +40040,9 @@
 [submodule "ineAtlas"]
 	path = ineAtlas
 	url = https://github.com/cran/ineAtlas
+[submodule "ineapir"]
+	path = ineapir
+	url = https://github.com/cran/ineapir
 [submodule "inecolr"]
 	path = inecolr
 	url = https://github.com/cran/inecolr
@@ -42080,6 +42092,9 @@
 [submodule "lba"]
 	path = lba
 	url = https://github.com/cran/lba
+[submodule "lbaModel"]
+	path = lbaModel
+	url = https://github.com/cran/lbaModel
 [submodule "lbfgs"]
 	path = lbfgs
 	url = https://github.com/cran/lbfgs
@@ -55592,6 +55607,9 @@
 [submodule "repo"]
 	path = repo
 	url = https://github.com/cran/repo
+[submodule "repo.data"]
+	path = repo.data
+	url = https://github.com/cran/repo.data
 [submodule "repoRter.nih"]
 	path = repoRter.nih
 	url = https://github.com/cran/repoRter.nih
@@ -66542,6 +66560,9 @@
 [submodule "vaultr"]
 	path = vaultr
 	url = https://github.com/cran/vaultr
+[submodule "vaxineR"]
+	path = vaxineR
+	url = https://github.com/cran/vaxineR
 [submodule "vaxpmx"]
 	path = vaxpmx
 	url = https://github.com/cran/vaxpmx
