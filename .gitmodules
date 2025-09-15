@@ -740,9 +740,6 @@
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
-[submodule "ArctosR"]
-	path = ArctosR
-	url = https://github.com/cran/ArctosR
 [submodule "ArgentinAPI"]
 	path = ArgentinAPI
 	url = https://github.com/cran/ArgentinAPI
