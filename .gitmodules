@@ -755,6 +755,9 @@
 [submodule "Arothron"]
 	path = Arothron
 	url = https://github.com/cran/Arothron
+[submodule "Asiaverse"]
+	path = Asiaverse
+	url = https://github.com/cran/Asiaverse
 [submodule "AsioHeaders"]
 	path = AsioHeaders
 	url = https://github.com/cran/AsioHeaders
@@ -25175,6 +25178,9 @@
 [submodule "ccaPP"]
 	path = ccaPP
 	url = https://github.com/cran/ccaPP
+[submodule "ccar3"]
+	path = ccar3
+	url = https://github.com/cran/ccar3
 [submodule "cccd"]
 	path = cccd
 	url = https://github.com/cran/cccd
@@ -61829,6 +61835,9 @@
 [submodule "sqlparseR"]
 	path = sqlparseR
 	url = https://github.com/cran/sqlparseR
+[submodule "sqlq"]
+	path = sqlq
+	url = https://github.com/cran/sqlq
 [submodule "sqlscore"]
 	path = sqlscore
 	url = https://github.com/cran/sqlscore
