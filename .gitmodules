@@ -34214,6 +34214,9 @@
 [submodule "fmri"]
 	path = fmri
 	url = https://github.com/cran/fmri
+[submodule "fmrihrf"]
+	path = fmrihrf
+	url = https://github.com/cran/fmrihrf
 [submodule "fmriqa"]
 	path = fmriqa
 	url = https://github.com/cran/fmriqa
@@ -56015,6 +56018,9 @@
 [submodule "rgeoda"]
 	path = rgeoda
 	url = https://github.com/cran/rgeoda
+[submodule "rgeomorphon"]
+	path = rgeomorphon
+	url = https://github.com/cran/rgeomorphon
 [submodule "rgeomstats"]
 	path = rgeomstats
 	url = https://github.com/cran/rgeomstats
@@ -61988,6 +61994,9 @@
 [submodule "sssc"]
 	path = sssc
 	url = https://github.com/cran/sssc
+[submodule "sstn"]
+	path = sstn
+	url = https://github.com/cran/sstn
 [submodule "sstvars"]
 	path = sstvars
 	url = https://github.com/cran/sstvars
