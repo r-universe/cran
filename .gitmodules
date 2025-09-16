@@ -6764,6 +6764,9 @@
 [submodule "GPSeqClus"]
 	path = GPSeqClus
 	url = https://github.com/cran/GPSeqClus
+[submodule "GPTCM"]
+	path = GPTCM
+	url = https://github.com/cran/GPTCM
 [submodule "GPTreeO"]
 	path = GPTreeO
 	url = https://github.com/cran/GPTreeO
@@ -7052,6 +7055,9 @@
 [submodule "GeneNet"]
 	path = GeneNet
 	url = https://github.com/cran/GeneNet
+[submodule "GenePopStats"]
+	path = GenePopStats
+	url = https://github.com/cran/GenePopStats
 [submodule "GeneScape"]
 	path = GeneScape
 	url = https://github.com/cran/GeneScape
@@ -16181,6 +16187,9 @@
 [submodule "Rpadrino"]
 	path = Rpadrino
 	url = https://github.com/cran/Rpadrino
+[submodule "Rparadox"]
+	path = Rparadox
+	url = https://github.com/cran/Rparadox
 [submodule "Rpdb"]
 	path = Rpdb
 	url = https://github.com/cran/Rpdb
@@ -31340,6 +31349,9 @@
 [submodule "ecoteach"]
 	path = ecoteach
 	url = https://github.com/cran/ecoteach
+[submodule "ecotourism"]
+	path = ecotourism
+	url = https://github.com/cran/ecotourism
 [submodule "ecotox"]
 	path = ecotox
 	url = https://github.com/cran/ecotox
@@ -32801,6 +32813,9 @@
 [submodule "ezEDA"]
 	path = ezEDA
 	url = https://github.com/cran/ezEDA
+[submodule "ezTrack"]
+	path = ezTrack
+	url = https://github.com/cran/ezTrack
 [submodule "ezcox"]
 	path = ezcox
 	url = https://github.com/cran/ezcox
@@ -35903,6 +35918,9 @@
 [submodule "geospark"]
 	path = geospark
 	url = https://github.com/cran/geospark
+[submodule "geospatialsuite"]
+	path = geospatialsuite
+	url = https://github.com/cran/geospatialsuite
 [submodule "geosphere"]
 	path = geosphere
 	url = https://github.com/cran/geosphere
@@ -62327,6 +62345,9 @@
 [submodule "stepjglm"]
 	path = stepjglm
 	url = https://github.com/cran/stepjglm
+[submodule "stepmetrics"]
+	path = stepmetrics
+	url = https://github.com/cran/stepmetrics
 [submodule "stepmixr"]
 	path = stepmixr
 	url = https://github.com/cran/stepmixr
