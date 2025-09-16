@@ -35081,9 +35081,6 @@
 [submodule "gaawr2"]
 	path = gaawr2
 	url = https://github.com/cran/gaawr2
-[submodule "gadget2"]
-	path = gadget2
-	url = https://github.com/cran/gadget2
 [submodule "gadget3"]
 	path = gadget3
 	url = https://github.com/cran/gadget3
