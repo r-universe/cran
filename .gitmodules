@@ -2279,9 +2279,6 @@
 [submodule "CEGO"]
 	path = CEGO
 	url = https://github.com/cran/CEGO
-[submodule "CEOdata"]
-	path = CEOdata
-	url = https://github.com/cran/CEOdata
 [submodule "CERFIT"]
 	path = CERFIT
 	url = https://github.com/cran/CERFIT
