@@ -56642,6 +56642,9 @@
 [submodule "robCompositions"]
 	path = robCompositions
 	url = https://github.com/cran/robCompositions
+[submodule "robRatio"]
+	path = robRatio
+	url = https://github.com/cran/robRatio
 [submodule "robStepSplitReg"]
 	path = robStepSplitReg
 	url = https://github.com/cran/robStepSplitReg
