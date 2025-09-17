@@ -36134,9 +36134,6 @@
 [submodule "ggRtsy"]
 	path = ggRtsy
 	url = https://github.com/cran/ggRtsy
-[submodule "ggScatRidges"]
-	path = ggScatRidges
-	url = https://github.com/cran/ggScatRidges
 [submodule "ggThemeAssist"]
 	path = ggThemeAssist
 	url = https://github.com/cran/ggThemeAssist
