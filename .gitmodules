@@ -7532,9 +7532,6 @@
 [submodule "HMC"]
 	path = HMC
 	url = https://github.com/cran/HMC
-[submodule "HMDA"]
-	path = HMDA
-	url = https://github.com/cran/HMDA
 [submodule "HMDHFDplus"]
 	path = HMDHFDplus
 	url = https://github.com/cran/HMDHFDplus
