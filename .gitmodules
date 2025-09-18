@@ -49436,6 +49436,9 @@
 [submodule "ordinalRR"]
 	path = ordinalRR
 	url = https://github.com/cran/ordinalRR
+[submodule "ordinalTables"]
+	path = ordinalTables
+	url = https://github.com/cran/ordinalTables
 [submodule "ordinalbayes"]
 	path = ordinalbayes
 	url = https://github.com/cran/ordinalbayes
@@ -59798,6 +59801,9 @@
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/cran/shinystan
+[submodule "shinystate"]
+	path = shinystate
+	url = https://github.com/cran/shinystate
 [submodule "shinytest"]
 	path = shinytest
 	url = https://github.com/cran/shinytest
