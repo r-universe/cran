@@ -38543,6 +38543,9 @@
 [submodule "hemispheR"]
 	path = hemispheR
 	url = https://github.com/cran/hemispheR
+[submodule "henna"]
+	path = henna
+	url = https://github.com/cran/henna
 [submodule "heplots"]
 	path = heplots
 	url = https://github.com/cran/heplots
@@ -50432,6 +50435,9 @@
 [submodule "pccc"]
 	path = pccc
 	url = https://github.com/cran/pccc
+[submodule "pcdid"]
+	path = pcdid
+	url = https://github.com/cran/pcdid
 [submodule "pcds"]
 	path = pcds
 	url = https://github.com/cran/pcds
@@ -63233,6 +63239,9 @@
 [submodule "swagger"]
 	path = swagger
 	url = https://github.com/cran/swagger
+[submodule "swaglm"]
+	path = swaglm
+	url = https://github.com/cran/swaglm
 [submodule "swamp"]
 	path = swamp
 	url = https://github.com/cran/swamp
