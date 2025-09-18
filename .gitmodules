@@ -3332,6 +3332,9 @@
 [submodule "Compositional"]
 	path = Compositional
 	url = https://github.com/cran/Compositional
+[submodule "CompositionalClust"]
+	path = CompositionalClust
+	url = https://github.com/cran/CompositionalClust
 [submodule "CompositionalHDDA"]
 	path = CompositionalHDDA
 	url = https://github.com/cran/CompositionalHDDA
@@ -38474,6 +38477,9 @@
 [submodule "heapsofpapers"]
 	path = heapsofpapers
 	url = https://github.com/cran/heapsofpapers
+[submodule "heartbeatr"]
+	path = heartbeatr
+	url = https://github.com/cran/heartbeatr
 [submodule "heatex"]
 	path = heatex
 	url = https://github.com/cran/heatex
