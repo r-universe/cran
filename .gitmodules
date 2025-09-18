@@ -10091,9 +10091,6 @@
 [submodule "MLpreemption"]
 	path = MLpreemption
 	url = https://github.com/cran/MLpreemption
-[submodule "MLwrap"]
-	path = MLwrap
-	url = https://github.com/cran/MLwrap
 [submodule "MM"]
 	path = MM
 	url = https://github.com/cran/MM
@@ -30623,9 +30620,6 @@
 [submodule "ds4psy"]
 	path = ds4psy
 	url = https://github.com/cran/ds4psy
-[submodule "dsBase"]
-	path = dsBase
-	url = https://github.com/cran/dsBase
 [submodule "dsTidyverse"]
 	path = dsTidyverse
 	url = https://github.com/cran/dsTidyverse
@@ -59390,9 +59384,6 @@
 [submodule "shapes"]
 	path = shapes
 	url = https://github.com/cran/shapes
-[submodule "shapley"]
-	path = shapley
-	url = https://github.com/cran/shapley
 [submodule "shapper"]
 	path = shapper
 	url = https://github.com/cran/shapper
