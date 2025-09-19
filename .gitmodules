@@ -67460,9 +67460,6 @@
 [submodule "weathR"]
 	path = weathR
 	url = https://github.com/cran/weathR
-[submodule "weatherOz"]
-	path = weatherOz
-	url = https://github.com/cran/weatherOz
 [submodule "weatherindices"]
 	path = weatherindices
 	url = https://github.com/cran/weatherindices
