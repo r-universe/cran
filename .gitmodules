@@ -23657,9 +23657,6 @@
 [submodule "birk"]
 	path = birk
 	url = https://github.com/cran/birk
-[submodule "birp"]
-	path = birp
-	url = https://github.com/cran/birp
 [submodule "birtr"]
 	path = birtr
 	url = https://github.com/cran/birtr
