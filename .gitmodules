@@ -22541,9 +22541,6 @@
 [submodule "barcode"]
 	path = barcode
 	url = https://github.com/cran/barcode
-[submodule "bardr"]
-	path = bardr
-	url = https://github.com/cran/bardr
 [submodule "bark"]
 	path = bark
 	url = https://github.com/cran/bark
