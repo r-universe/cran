@@ -37670,6 +37670,9 @@
 [submodule "greport"]
 	path = greport
 	url = https://github.com/cran/greport
+[submodule "greta"]
+	path = greta
+	url = https://github.com/cran/greta
 [submodule "greta.censored"]
 	path = greta.censored
 	url = https://github.com/cran/greta.censored
