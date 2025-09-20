@@ -6749,9 +6749,6 @@
 [submodule "GPFDA"]
 	path = GPFDA
 	url = https://github.com/cran/GPFDA
-[submodule "GPGame"]
-	path = GPGame
-	url = https://github.com/cran/GPGame
 [submodule "GPL2025"]
 	path = GPL2025
 	url = https://github.com/cran/GPL2025
@@ -10034,6 +10031,9 @@
 [submodule "MLCM"]
 	path = MLCM
 	url = https://github.com/cran/MLCM
+[submodule "MLCOPULA"]
+	path = MLCOPULA
+	url = https://github.com/cran/MLCOPULA
 [submodule "MLDS"]
 	path = MLDS
 	url = https://github.com/cran/MLDS
@@ -25694,9 +25694,6 @@
 [submodule "chk"]
 	path = chk
 	url = https://github.com/cran/chk
-[submodule "chkptstanr"]
-	path = chkptstanr
-	url = https://github.com/cran/chkptstanr
 [submodule "chlorpromazineR"]
 	path = chlorpromazineR
 	url = https://github.com/cran/chlorpromazineR
@@ -32393,9 +32390,6 @@
 [submodule "euroleaguer"]
 	path = euroleaguer
 	url = https://github.com/cran/euroleaguer
-[submodule "europeanaR"]
-	path = europeanaR
-	url = https://github.com/cran/europeanaR
 [submodule "europepmc"]
 	path = europepmc
 	url = https://github.com/cran/europepmc
@@ -43619,9 +43613,6 @@
 [submodule "magrittr"]
 	path = magrittr
 	url = https://github.com/cran/magrittr
-[submodule "maic"]
-	path = maic
-	url = https://github.com/cran/maic
 [submodule "maicChecks"]
 	path = maicChecks
 	url = https://github.com/cran/maicChecks
@@ -50948,9 +50939,6 @@
 [submodule "phase1RMD"]
 	path = phase1RMD
 	url = https://github.com/cran/phase1RMD
-[submodule "phaseR"]
-	path = phaseR
-	url = https://github.com/cran/phaseR
 [submodule "phateR"]
 	path = phateR
 	url = https://github.com/cran/phateR
@@ -52655,9 +52643,6 @@
 [submodule "proceduralnames"]
 	path = proceduralnames
 	url = https://github.com/cran/proceduralnames
-[submodule "processanimateR"]
-	path = processanimateR
-	url = https://github.com/cran/processanimateR
 [submodule "processcheckR"]
 	path = processcheckR
 	url = https://github.com/cran/processcheckR
@@ -64691,9 +64676,6 @@
 [submodule "timbr"]
 	path = timbr
 	url = https://github.com/cran/timbr
-[submodule "time.slots"]
-	path = time.slots
-	url = https://github.com/cran/time.slots
 [submodule "timeDF"]
 	path = timeDF
 	url = https://github.com/cran/timeDF
