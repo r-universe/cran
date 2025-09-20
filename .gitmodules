@@ -55952,9 +55952,6 @@
 [submodule "rfacts"]
 	path = rfacts
 	url = https://github.com/cran/rfacts
-[submodule "rfars"]
-	path = rfars
-	url = https://github.com/cran/rfars
 [submodule "rfieldclimate"]
 	path = rfieldclimate
 	url = https://github.com/cran/rfieldclimate
