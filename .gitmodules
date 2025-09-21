@@ -32696,6 +32696,9 @@
 [submodule "extlasso"]
 	path = extlasso
 	url = https://github.com/cran/extlasso
+[submodule "extr"]
+	path = extr
+	url = https://github.com/cran/extr
 [submodule "extraDistr"]
 	path = extraDistr
 	url = https://github.com/cran/extraDistr
@@ -36074,6 +36077,9 @@
 [submodule "ggChernoff"]
 	path = ggChernoff
 	url = https://github.com/cran/ggChernoff
+[submodule "ggDNAvis"]
+	path = ggDNAvis
+	url = https://github.com/cran/ggDNAvis
 [submodule "ggDoE"]
 	path = ggDoE
 	url = https://github.com/cran/ggDoE
@@ -46046,6 +46052,9 @@
 [submodule "modelSSE"]
 	path = modelSSE
 	url = https://github.com/cran/modelSSE
+[submodule "modelSelection"]
+	path = modelSelection
+	url = https://github.com/cran/modelSelection
 [submodule "modelStudio"]
 	path = modelStudio
 	url = https://github.com/cran/modelStudio
@@ -54869,6 +54878,9 @@
 [submodule "rcorpora"]
 	path = rcorpora
 	url = https://github.com/cran/rcorpora
+[submodule "rcppmlpackexamples"]
+	path = rcppmlpackexamples
+	url = https://github.com/cran/rcppmlpackexamples
 [submodule "rcpptimer"]
 	path = rcpptimer
 	url = https://github.com/cran/rcpptimer
