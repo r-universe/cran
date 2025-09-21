@@ -2354,9 +2354,6 @@
 [submodule "CICI"]
 	path = CICI
 	url = https://github.com/cran/CICI
-[submodule "CIDER"]
-	path = CIDER
-	url = https://github.com/cran/CIDER
 [submodule "CIEE"]
 	path = CIEE
 	url = https://github.com/cran/CIEE
@@ -10910,9 +10907,6 @@
 [submodule "MixSIAR"]
 	path = MixSIAR
 	url = https://github.com/cran/MixSIAR
-[submodule "MixSemiRob"]
-	path = MixSemiRob
-	url = https://github.com/cran/MixSemiRob
 [submodule "MixSim"]
 	path = MixSim
 	url = https://github.com/cran/MixSim
@@ -15308,9 +15302,6 @@
 [submodule "RcextTools"]
 	path = RcextTools
 	url = https://github.com/cran/RcextTools
-[submodule "RchivalTag"]
-	path = RchivalTag
-	url = https://github.com/cran/RchivalTag
 [submodule "Rchoice"]
 	path = Rchoice
 	url = https://github.com/cran/Rchoice
@@ -16553,9 +16544,6 @@
 [submodule "SCINA"]
 	path = SCINA
 	url = https://github.com/cran/SCINA
-[submodule "SCIntRuler"]
-	path = SCIntRuler
-	url = https://github.com/cran/SCIntRuler
 [submodule "SCMA"]
 	path = SCMA
 	url = https://github.com/cran/SCMA
@@ -31193,9 +31181,6 @@
 [submodule "ebrahim.gof"]
 	path = ebrahim.gof
 	url = https://github.com/cran/ebrahim.gof
-[submodule "ebreg"]
-	path = ebreg
-	url = https://github.com/cran/ebreg
 [submodule "ebvcube"]
 	path = ebvcube
 	url = https://github.com/cran/ebvcube
@@ -31376,9 +31361,6 @@
 [submodule "ecp"]
 	path = ecp
 	url = https://github.com/cran/ecp
-[submodule "ecpc"]
-	path = ecpc
-	url = https://github.com/cran/ecpc
 [submodule "ecpdist"]
 	path = ecpdist
 	url = https://github.com/cran/ecpdist
@@ -48788,9 +48770,6 @@
 [submodule "oceanis"]
 	path = oceanis
 	url = https://github.com/cran/oceanis
-[submodule "oceanmap"]
-	path = oceanmap
-	url = https://github.com/cran/oceanmap
 [submodule "oceanwaves"]
 	path = oceanwaves
 	url = https://github.com/cran/oceanwaves
@@ -55952,6 +55931,9 @@
 [submodule "rfacts"]
 	path = rfacts
 	url = https://github.com/cran/rfacts
+[submodule "rfars"]
+	path = rfars
+	url = https://github.com/cran/rfars
 [submodule "rfieldclimate"]
 	path = rfieldclimate
 	url = https://github.com/cran/rfieldclimate
