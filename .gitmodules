@@ -3692,6 +3692,9 @@
 [submodule "DACF"]
 	path = DACF
 	url = https://github.com/cran/DACF
+[submodule "DAGassist"]
+	path = DAGassist
+	url = https://github.com/cran/DAGassist
 [submodule "DAIME"]
 	path = DAIME
 	url = https://github.com/cran/DAIME
@@ -12461,6 +12464,9 @@
 [submodule "PINstimation"]
 	path = PINstimation
 	url = https://github.com/cran/PINstimation
+[submodule "PJCcalculator"]
+	path = PJCcalculator
+	url = https://github.com/cran/PJCcalculator
 [submodule "PJFM"]
 	path = PJFM
 	url = https://github.com/cran/PJFM
@@ -36956,6 +36962,9 @@
 [submodule "glinvci"]
 	path = glinvci
 	url = https://github.com/cran/glinvci
+[submodule "glioblastomaEHRsData"]
+	path = glioblastomaEHRsData
+	url = https://github.com/cran/glioblastomaEHRsData
 [submodule "gllm"]
 	path = gllm
 	url = https://github.com/cran/gllm
@@ -42656,6 +42665,9 @@
 [submodule "link2GI"]
 	path = link2GI
 	url = https://github.com/cran/link2GI
+[submodule "linkeR"]
+	path = linkeR
+	url = https://github.com/cran/linkeR
 [submodule "linkedInadsR"]
 	path = linkedInadsR
 	url = https://github.com/cran/linkedInadsR
@@ -47366,6 +47378,9 @@
 [submodule "nardl"]
 	path = nardl
 	url = https://github.com/cran/nardl
+[submodule "narfima"]
+	path = narfima
+	url = https://github.com/cran/narfima
 [submodule "narray"]
 	path = narray
 	url = https://github.com/cran/narray
