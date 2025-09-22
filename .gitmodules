@@ -5990,6 +5990,9 @@
 [submodule "FastKNN"]
 	path = FastKNN
 	url = https://github.com/cran/FastKNN
+[submodule "FastKRR"]
+	path = FastKRR
+	url = https://github.com/cran/FastKRR
 [submodule "FastPCS"]
 	path = FastPCS
 	url = https://github.com/cran/FastPCS
@@ -11606,6 +11609,9 @@
 [submodule "NetSimR"]
 	path = NetSimR
 	url = https://github.com/cran/NetSimR
+[submodule "NetVAR"]
+	path = NetVAR
+	url = https://github.com/cran/NetVAR
 [submodule "NetWeaver"]
 	path = NetWeaver
 	url = https://github.com/cran/NetWeaver
@@ -15293,6 +15299,9 @@
 [submodule "RbyExample"]
 	path = RbyExample
 	url = https://github.com/cran/RbyExample
+[submodule "RcamelsCL"]
+	path = RcamelsCL
+	url = https://github.com/cran/RcamelsCL
 [submodule "Rcan"]
 	path = Rcan
 	url = https://github.com/cran/Rcan
@@ -15776,6 +15785,9 @@
 [submodule "Relatedness"]
 	path = Relatedness
 	url = https://github.com/cran/Relatedness
+[submodule "RelativeDistClust"]
+	path = RelativeDistClust
+	url = https://github.com/cran/RelativeDistClust
 [submodule "Relectoral"]
 	path = Relectoral
 	url = https://github.com/cran/Relectoral
@@ -31442,6 +31454,9 @@
 [submodule "edgedata"]
 	path = edgedata
 	url = https://github.com/cran/edgedata
+[submodule "edgemodelr"]
+	path = edgemodelr
+	url = https://github.com/cran/edgemodelr
 [submodule "edibble"]
 	path = edibble
 	url = https://github.com/cran/edibble
@@ -54911,6 +54926,9 @@
 [submodule "rcontroll"]
 	path = rcontroll
 	url = https://github.com/cran/rcontroll
+[submodule "rconvertu"]
+	path = rconvertu
+	url = https://github.com/cran/rconvertu
 [submodule "rcorpora"]
 	path = rcorpora
 	url = https://github.com/cran/rcorpora
@@ -64679,6 +64697,9 @@
 [submodule "tigris"]
 	path = tigris
 	url = https://github.com/cran/tigris
+[submodule "tikatuwq"]
+	path = tikatuwq
+	url = https://github.com/cran/tikatuwq
 [submodule "tiktokadsR"]
 	path = tiktokadsR
 	url = https://github.com/cran/tiktokadsR
@@ -64934,6 +64955,9 @@
 [submodule "tmap.glyphs"]
 	path = tmap.glyphs
 	url = https://github.com/cran/tmap.glyphs
+[submodule "tmap.mapgl"]
+	path = tmap.mapgl
+	url = https://github.com/cran/tmap.mapgl
 [submodule "tmap.networks"]
 	path = tmap.networks
 	url = https://github.com/cran/tmap.networks
@@ -65924,6 +65948,9 @@
 [submodule "twenty48"]
 	path = twenty48
 	url = https://github.com/cran/twenty48
+[submodule "twfeivdecomp"]
+	path = twfeivdecomp
+	url = https://github.com/cran/twfeivdecomp
 [submodule "twfy"]
 	path = twfy
 	url = https://github.com/cran/twfy
