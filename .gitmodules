@@ -12143,6 +12143,9 @@
 [submodule "OrdNor"]
 	path = OrdNor
 	url = https://github.com/cran/OrdNor
+[submodule "OrgHeatmap"]
+	path = OrgHeatmap
+	url = https://github.com/cran/OrgHeatmap
 [submodule "OrgMassSpecR"]
 	path = OrgMassSpecR
 	url = https://github.com/cran/OrgMassSpecR
@@ -13343,6 +13346,9 @@
 [submodule "PortfolioOptim"]
 	path = PortfolioOptim
 	url = https://github.com/cran/PortfolioOptim
+[submodule "PortfolioTesteR"]
+	path = PortfolioTesteR
+	url = https://github.com/cran/PortfolioTesteR
 [submodule "PosRatioDist"]
 	path = PosRatioDist
 	url = https://github.com/cran/PosRatioDist
@@ -17159,6 +17165,9 @@
 [submodule "SRTtools"]
 	path = SRTtools
 	url = https://github.com/cran/SRTtools
+[submodule "SSAforecast"]
+	path = SSAforecast
+	url = https://github.com/cran/SSAforecast
 [submodule "SSBtools"]
 	path = SSBtools
 	url = https://github.com/cran/SSBtools
@@ -27713,6 +27722,9 @@
 [submodule "cowbell"]
 	path = cowbell
 	url = https://github.com/cran/cowbell
+[submodule "cowfootR"]
+	path = cowfootR
+	url = https://github.com/cran/cowfootR
 [submodule "cowplot"]
 	path = cowplot
 	url = https://github.com/cran/cowplot
@@ -28976,6 +28988,9 @@
 [submodule "dbplyr"]
 	path = dbplyr
 	url = https://github.com/cran/dbplyr
+[submodule "dbrobust"]
+	path = dbrobust
+	url = https://github.com/cran/dbrobust
 [submodule "dbscan"]
 	path = dbscan
 	url = https://github.com/cran/dbscan
@@ -39236,6 +39251,9 @@
 [submodule "hydroMOPSO"]
 	path = hydroMOPSO
 	url = https://github.com/cran/hydroMOPSO
+[submodule "hydroState"]
+	path = hydroState
+	url = https://github.com/cran/hydroState
 [submodule "hydroTSM"]
 	path = hydroTSM
 	url = https://github.com/cran/hydroTSM
@@ -51197,6 +51215,9 @@
 [submodule "piecemaker"]
 	path = piecemaker
 	url = https://github.com/cran/piecemaker
+[submodule "piecemeal"]
+	path = piecemeal
+	url = https://github.com/cran/piecemeal
 [submodule "piecenorms"]
 	path = piecenorms
 	url = https://github.com/cran/piecenorms
@@ -51461,6 +51482,9 @@
 [submodule "play"]
 	path = play
 	url = https://github.com/cran/play
+[submodule "player"]
+	path = player
+	url = https://github.com/cran/player
 [submodule "pldamixture"]
 	path = pldamixture
 	url = https://github.com/cran/pldamixture
@@ -58583,6 +58607,9 @@
 [submodule "screenshot"]
 	path = screenshot
 	url = https://github.com/cran/screenshot
+[submodule "screenshotbase"]
+	path = screenshotbase
+	url = https://github.com/cran/screenshotbase
 [submodule "scregclust"]
 	path = scregclust
 	url = https://github.com/cran/scregclust
