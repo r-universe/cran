@@ -10829,6 +10829,9 @@
 [submodule "MicroNiche"]
 	path = MicroNiche
 	url = https://github.com/cran/MicroNiche
+[submodule "MicrobTiSDA"]
+	path = MicrobTiSDA
+	url = https://github.com/cran/MicrobTiSDA
 [submodule "MicrobialGrowth"]
 	path = MicrobialGrowth
 	url = https://github.com/cran/MicrobialGrowth
@@ -51698,6 +51701,9 @@
 [submodule "plumber"]
 	path = plumber
 	url = https://github.com/cran/plumber
+[submodule "plumber2"]
+	path = plumber2
+	url = https://github.com/cran/plumber2
 [submodule "plumberDeploy"]
 	path = plumberDeploy
 	url = https://github.com/cran/plumberDeploy
