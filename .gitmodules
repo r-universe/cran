@@ -30737,6 +30737,9 @@
 [submodule "dtlcor"]
 	path = dtlcor
 	url = https://github.com/cran/dtlcor
+[submodule "dtlg"]
+	path = dtlg
+	url = https://github.com/cran/dtlg
 [submodule "dtmapi"]
 	path = dtmapi
 	url = https://github.com/cran/dtmapi
@@ -37184,6 +37187,9 @@
 [submodule "glvmfit"]
 	path = glvmfit
 	url = https://github.com/cran/glvmfit
+[submodule "glyrepr"]
+	path = glyrepr
+	url = https://github.com/cran/glyrepr
 [submodule "gm"]
 	path = gm
 	url = https://github.com/cran/gm
