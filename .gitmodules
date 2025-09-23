@@ -20510,6 +20510,9 @@
 [submodule "acledR"]
 	path = acledR
 	url = https://github.com/cran/acledR
+[submodule "acmgscaler"]
+	path = acmgscaler
+	url = https://github.com/cran/acmgscaler
 [submodule "acnr"]
 	path = acnr
 	url = https://github.com/cran/acnr
@@ -29759,6 +29762,9 @@
 [submodule "didrooRFM"]
 	path = didrooRFM
 	url = https://github.com/cran/didrooRFM
+[submodule "diegr"]
+	path = diegr
+	url = https://github.com/cran/diegr
 [submodule "diemr"]
 	path = diemr
 	url = https://github.com/cran/diemr
@@ -33275,6 +33281,9 @@
 [submodule "fasterize"]
 	path = fasterize
 	url = https://github.com/cran/fasterize
+[submodule "fastfocal"]
+	path = fastfocal
+	url = https://github.com/cran/fastfocal
 [submodule "fastglm"]
 	path = fastglm
 	url = https://github.com/cran/fastglm
@@ -38360,6 +38369,9 @@
 [submodule "hclust1d"]
 	path = hclust1d
 	url = https://github.com/cran/hclust1d
+[submodule "hclustTeach"]
+	path = hclustTeach
+	url = https://github.com/cran/hclustTeach
 [submodule "hclusteasy"]
 	path = hclusteasy
 	url = https://github.com/cran/hclusteasy
