@@ -58037,6 +58037,9 @@
 [submodule "salesforcer"]
 	path = salesforcer
 	url = https://github.com/cran/salesforcer
+[submodule "salmonMSE"]
+	path = salmonMSE
+	url = https://github.com/cran/salmonMSE
 [submodule "salso"]
 	path = salso
 	url = https://github.com/cran/salso
@@ -63776,6 +63779,9 @@
 [submodule "tcplfit2"]
 	path = tcplfit2
 	url = https://github.com/cran/tcplfit2
+[submodule "tcv"]
+	path = tcv
+	url = https://github.com/cran/tcv
 [submodule "tcxr"]
 	path = tcxr
 	url = https://github.com/cran/tcxr
