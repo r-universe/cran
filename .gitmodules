@@ -54710,6 +54710,9 @@
 [submodule "rattle"]
 	path = rattle
 	url = https://github.com/cran/rattle
+[submodule "ravecore"]
+	path = ravecore
+	url = https://github.com/cran/ravecore
 [submodule "ravelRy"]
 	path = ravelRy
 	url = https://github.com/cran/ravelRy
