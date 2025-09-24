@@ -32786,9 +32786,6 @@
 [submodule "extractox"]
 	path = extractox
 	url = https://github.com/cran/extractox
-[submodule "extrafont"]
-	path = extrafont
-	url = https://github.com/cran/extrafont
 [submodule "extrafontdb"]
 	path = extrafontdb
 	url = https://github.com/cran/extrafontdb
