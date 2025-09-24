@@ -29594,6 +29594,9 @@
 [submodule "devRate"]
 	path = devRate
 	url = https://github.com/cran/devRate
+[submodule "devianLM"]
+	path = devianLM
+	url = https://github.com/cran/devianLM
 [submodule "devoid"]
 	path = devoid
 	url = https://github.com/cran/devoid
@@ -31718,6 +31721,9 @@
 [submodule "elitism"]
 	path = elitism
 	url = https://github.com/cran/elitism
+[submodule "elixir"]
+	path = elixir
+	url = https://github.com/cran/elixir
 [submodule "elliplot"]
 	path = elliplot
 	url = https://github.com/cran/elliplot
@@ -36470,6 +36476,9 @@
 [submodule "gglorenz"]
 	path = gglorenz
 	url = https://github.com/cran/gglorenz
+[submodule "gglyph"]
+	path = gglyph
+	url = https://github.com/cran/gglyph
 [submodule "ggm"]
 	path = ggm
 	url = https://github.com/cran/ggm
