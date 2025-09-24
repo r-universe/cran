@@ -16826,6 +16826,9 @@
 [submodule "SIPETool"]
 	path = SIPETool
 	url = https://github.com/cran/SIPETool
+[submodule "SIPmg"]
+	path = SIPmg
+	url = https://github.com/cran/SIPmg
 [submodule "SIRE"]
 	path = SIRE
 	url = https://github.com/cran/SIRE
@@ -17324,6 +17327,9 @@
 [submodule "SUSY"]
 	path = SUSY
 	url = https://github.com/cran/SUSY
+[submodule "SVAlignR"]
+	path = SVAlignR
+	url = https://github.com/cran/SVAlignR
 [submodule "SVDMx"]
 	path = SVDMx
 	url = https://github.com/cran/SVDMx
@@ -23945,6 +23951,9 @@
 [submodule "bnns"]
 	path = bnns
 	url = https://github.com/cran/bnns
+[submodule "bnpMTP"]
+	path = bnpMTP
+	url = https://github.com/cran/bnpMTP
 [submodule "bnpa"]
 	path = bnpa
 	url = https://github.com/cran/bnpa
@@ -27260,6 +27269,9 @@
 [submodule "container"]
 	path = container
 	url = https://github.com/cran/container
+[submodule "containr"]
+	path = containr
+	url = https://github.com/cran/containr
 [submodule "contdid"]
 	path = contdid
 	url = https://github.com/cran/contdid
