@@ -5354,6 +5354,9 @@
 [submodule "EpiForsk"]
 	path = EpiForsk
 	url = https://github.com/cran/EpiForsk
+[submodule "EpiILMCT"]
+	path = EpiILMCT
+	url = https://github.com/cran/EpiILMCT
 [submodule "EpiInvert"]
 	path = EpiInvert
 	url = https://github.com/cran/EpiInvert
@@ -6080,6 +6083,9 @@
 [submodule "FinancialMath"]
 	path = FinancialMath
 	url = https://github.com/cran/FinancialMath
+[submodule "FindIt"]
+	path = FindIt
+	url = https://github.com/cran/FindIt
 [submodule "FinePop"]
 	path = FinePop
 	url = https://github.com/cran/FinePop
@@ -11234,6 +11240,9 @@
 [submodule "NADA"]
 	path = NADA
 	url = https://github.com/cran/NADA
+[submodule "NADA2"]
+	path = NADA2
+	url = https://github.com/cran/NADA2
 [submodule "NAEPirtparams"]
 	path = NAEPirtparams
 	url = https://github.com/cran/NAEPirtparams
@@ -48476,6 +48485,9 @@
 [submodule "npROCRegression"]
 	path = npROCRegression
 	url = https://github.com/cran/npROCRegression
+[submodule "nparACT"]
+	path = nparACT
+	url = https://github.com/cran/nparACT
 [submodule "nparLD"]
 	path = nparLD
 	url = https://github.com/cran/nparLD
@@ -58343,6 +58355,9 @@
 [submodule "scDECO"]
 	path = scDECO
 	url = https://github.com/cran/scDECO
+[submodule "scDHA"]
+	path = scDHA
+	url = https://github.com/cran/scDHA
 [submodule "scDIFtest"]
 	path = scDIFtest
 	url = https://github.com/cran/scDIFtest
