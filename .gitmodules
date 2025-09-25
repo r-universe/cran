@@ -12449,6 +12449,9 @@
 [submodule "PH1XBAR"]
 	path = PH1XBAR
 	url = https://github.com/cran/PH1XBAR
+[submodule "PHENIX"]
+	path = PHENIX
+	url = https://github.com/cran/PHENIX
 [submodule "PHENTHAUproc"]
 	path = PHENTHAUproc
 	url = https://github.com/cran/PHENTHAUproc
@@ -57881,6 +57884,9 @@
 [submodule "s20x"]
 	path = s20x
 	url = https://github.com/cran/s20x
+[submodule "s2dv"]
+	path = s2dv
+	url = https://github.com/cran/s2dv
 [submodule "s2net"]
 	path = s2net
 	url = https://github.com/cran/s2net
