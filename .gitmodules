@@ -5354,6 +5354,9 @@
 [submodule "EpiForsk"]
 	path = EpiForsk
 	url = https://github.com/cran/EpiForsk
+[submodule "EpiILM"]
+	path = EpiILM
+	url = https://github.com/cran/EpiILM
 [submodule "EpiILMCT"]
 	path = EpiILMCT
 	url = https://github.com/cran/EpiILMCT
@@ -40274,9 +40277,6 @@
 [submodule "inlcolor"]
 	path = inlcolor
 	url = https://github.com/cran/inlcolor
-[submodule "inldata"]
-	path = inldata
-	url = https://github.com/cran/inldata
 [submodule "inline"]
 	path = inline
 	url = https://github.com/cran/inline
@@ -42197,9 +42197,6 @@
 [submodule "lazyData"]
 	path = lazyData
 	url = https://github.com/cran/lazyData
-[submodule "lazyWeave"]
-	path = lazyWeave
-	url = https://github.com/cran/lazyWeave
 [submodule "lazyarray"]
 	path = lazyarray
 	url = https://github.com/cran/lazyarray
