@@ -1874,6 +1874,9 @@
 [submodule "BioVizSeq"]
 	path = BioVizSeq
 	url = https://github.com/cran/BioVizSeq
+[submodule "BioWorldR"]
+	path = BioWorldR
+	url = https://github.com/cran/BioWorldR
 [submodule "BiocManager"]
 	path = BiocManager
 	url = https://github.com/cran/BiocManager
@@ -52340,6 +52343,9 @@
 [submodule "ppitables"]
 	path = ppitables
 	url = https://github.com/cran/ppitables
+[submodule "ppks"]
+	path = ppks
+	url = https://github.com/cran/ppks
 [submodule "pplot"]
 	path = pplot
 	url = https://github.com/cran/pplot
@@ -61937,6 +61943,9 @@
 [submodule "spup"]
 	path = spup
 	url = https://github.com/cran/spup
+[submodule "spuriouscorrelations"]
+	path = spuriouscorrelations
+	url = https://github.com/cran/spuriouscorrelations
 [submodule "sqlHelpers"]
 	path = sqlHelpers
 	url = https://github.com/cran/sqlHelpers
