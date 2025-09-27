@@ -48596,9 +48596,6 @@
 [submodule "npphen"]
 	path = npphen
 	url = https://github.com/cran/npphen
-[submodule "nprcgenekeepr"]
-	path = nprcgenekeepr
-	url = https://github.com/cran/nprcgenekeepr
 [submodule "npreg"]
 	path = npreg
 	url = https://github.com/cran/npreg
