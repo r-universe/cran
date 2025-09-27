@@ -3875,6 +3875,9 @@
 [submodule "DEXiR"]
 	path = DEXiR
 	url = https://github.com/cran/DEXiR
+[submodule "DEmixR"]
+	path = DEmixR
+	url = https://github.com/cran/DEmixR
 [submodule "DEoptim"]
 	path = DEoptim
 	url = https://github.com/cran/DEoptim
@@ -62804,6 +62807,9 @@
 [submodule "strucchangeRcpp"]
 	path = strucchangeRcpp
 	url = https://github.com/cran/strucchangeRcpp
+[submodule "structSSI"]
+	path = structSSI
+	url = https://github.com/cran/structSSI
 [submodule "structenforcement"]
 	path = structenforcement
 	url = https://github.com/cran/structenforcement
