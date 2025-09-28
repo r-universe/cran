@@ -1286,9 +1286,6 @@
 [submodule "BRL"]
 	path = BRL
 	url = https://github.com/cran/BRL
-[submodule "BRVM"]
-	path = BRVM
-	url = https://github.com/cran/BRVM
 [submodule "BRcal"]
 	path = BRcal
 	url = https://github.com/cran/BRcal
@@ -17153,9 +17150,6 @@
 [submodule "SPSP"]
 	path = SPSP
 	url = https://github.com/cran/SPSP
-[submodule "SPUTNIK"]
-	path = SPUTNIK
-	url = https://github.com/cran/SPUTNIK
 [submodule "SPYvsSPY"]
 	path = SPYvsSPY
 	url = https://github.com/cran/SPYvsSPY
@@ -45800,9 +45794,6 @@
 [submodule "mlmpower"]
 	path = mlmpower
 	url = https://github.com/cran/mlmpower
-[submodule "mlms"]
-	path = mlms
-	url = https://github.com/cran/mlms
 [submodule "mlmtools"]
 	path = mlmtools
 	url = https://github.com/cran/mlmtools
