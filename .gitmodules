@@ -52511,6 +52511,9 @@
 [submodule "preference"]
 	path = preference
 	url = https://github.com/cran/preference
+[submodule "prefio"]
+	path = prefio
+	url = https://github.com/cran/prefio
 [submodule "prefmod"]
 	path = prefmod
 	url = https://github.com/cran/prefmod
