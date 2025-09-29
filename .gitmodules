@@ -1250,6 +1250,9 @@
 [submodule "BOLDconnectR"]
 	path = BOLDconnectR
 	url = https://github.com/cran/BOLDconnectR
+[submodule "BOP2FE"]
+	path = BOP2FE
+	url = https://github.com/cran/BOP2FE
 [submodule "BOSSreg"]
 	path = BOSSreg
 	url = https://github.com/cran/BOSSreg
@@ -16760,6 +16763,9 @@
 [submodule "SGPdata"]
 	path = SGPdata
 	url = https://github.com/cran/SGPdata
+[submodule "SHAPBoost"]
+	path = SHAPBoost
+	url = https://github.com/cran/SHAPBoost
 [submodule "SHAPforxgboost"]
 	path = SHAPforxgboost
 	url = https://github.com/cran/SHAPforxgboost
