@@ -16271,9 +16271,6 @@
 [submodule "Rramas"]
 	path = Rramas
 	url = https://github.com/cran/Rramas
-[submodule "Rraven"]
-	path = Rraven
-	url = https://github.com/cran/Rraven
 [submodule "Rrdap"]
 	path = Rrdap
 	url = https://github.com/cran/Rrdap
@@ -22415,9 +22412,6 @@
 [submodule "baRcodeR"]
 	path = baRcodeR
 	url = https://github.com/cran/baRcodeR
-[submodule "baRulho"]
-	path = baRulho
-	url = https://github.com/cran/baRulho
 [submodule "babel"]
 	path = babel
 	url = https://github.com/cran/babel
@@ -30932,9 +30926,6 @@
 [submodule "dynRB"]
 	path = dynRB
 	url = https://github.com/cran/dynRB
-[submodule "dynaSpec"]
-	path = dynaSpec
-	url = https://github.com/cran/dynaSpec
 [submodule "dynaTree"]
 	path = dynaTree
 	url = https://github.com/cran/dynaTree
@@ -48341,9 +48332,6 @@
 [submodule "nominatimlite"]
 	path = nominatimlite
 	url = https://github.com/cran/nominatimlite
-[submodule "nomisr"]
-	path = nomisr
-	url = https://github.com/cran/nomisr
 [submodule "nomnoml"]
 	path = nomnoml
 	url = https://github.com/cran/nomnoml
@@ -48998,9 +48986,6 @@
 [submodule "ohsome"]
 	path = ohsome
 	url = https://github.com/cran/ohsome
-[submodule "ohun"]
-	path = ohun
-	url = https://github.com/cran/ohun
 [submodule "oii"]
 	path = oii
 	url = https://github.com/cran/oii
@@ -67433,9 +67418,6 @@
 [submodule "warabandi"]
 	path = warabandi
 	url = https://github.com/cran/warabandi
-[submodule "warbleR"]
-	path = warbleR
-	url = https://github.com/cran/warbleR
 [submodule "warehouseTools"]
 	path = warehouseTools
 	url = https://github.com/cran/warehouseTools
