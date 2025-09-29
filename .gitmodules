@@ -67718,6 +67718,9 @@
 [submodule "whSample"]
 	path = whSample
 	url = https://github.com/cran/whSample
+[submodule "whapi"]
+	path = whapi
+	url = https://github.com/cran/whapi
 [submodule "whatthreewords"]
 	path = whatthreewords
 	url = https://github.com/cran/whatthreewords
