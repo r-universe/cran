@@ -5318,6 +5318,9 @@
 [submodule "EnsCat"]
 	path = EnsCat
 	url = https://github.com/cran/EnsCat
+[submodule "EntropicStatistics"]
+	path = EntropicStatistics
+	url = https://github.com/cran/EntropicStatistics
 [submodule "EntropyEstimation"]
 	path = EntropyEstimation
 	url = https://github.com/cran/EntropyEstimation
@@ -26342,6 +26345,9 @@
 [submodule "clusterWebApp"]
 	path = clusterWebApp
 	url = https://github.com/cran/clusterWebApp
+[submodule "clusterability"]
+	path = clusterability
+	url = https://github.com/cran/clusterability
 [submodule "clusterhap"]
 	path = clusterhap
 	url = https://github.com/cran/clusterhap
@@ -48869,6 +48875,9 @@
 [submodule "oceanis"]
 	path = oceanis
 	url = https://github.com/cran/oceanis
+[submodule "oceanmap"]
+	path = oceanmap
+	url = https://github.com/cran/oceanmap
 [submodule "oceanwaves"]
 	path = oceanwaves
 	url = https://github.com/cran/oceanwaves
