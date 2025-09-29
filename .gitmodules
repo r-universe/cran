@@ -8192,6 +8192,9 @@
 [submodule "IPLGP"]
 	path = IPLGP
 	url = https://github.com/cran/IPLGP
+[submodule "IPMRF"]
+	path = IPMRF
+	url = https://github.com/cran/IPMRF
 [submodule "IPMbook"]
 	path = IPMbook
 	url = https://github.com/cran/IPMbook
@@ -23282,6 +23285,9 @@
 [submodule "bhmbasket"]
 	path = bhmbasket
 	url = https://github.com/cran/bhmbasket
+[submodule "bhpm"]
+	path = bhpm
+	url = https://github.com/cran/bhpm
 [submodule "biClassify"]
 	path = biClassify
 	url = https://github.com/cran/biClassify
