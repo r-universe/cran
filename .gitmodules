@@ -5318,9 +5318,6 @@
 [submodule "EnsCat"]
 	path = EnsCat
 	url = https://github.com/cran/EnsCat
-[submodule "EntropicStatistics"]
-	path = EntropicStatistics
-	url = https://github.com/cran/EntropicStatistics
 [submodule "EntropyEstimation"]
 	path = EntropyEstimation
 	url = https://github.com/cran/EntropyEstimation
