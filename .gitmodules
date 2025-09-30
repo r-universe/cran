@@ -16739,6 +16739,9 @@
 [submodule "SFDesign"]
 	path = SFDesign
 	url = https://github.com/cran/SFDesign
+[submodule "SFHNV"]
+	path = SFHNV
+	url = https://github.com/cran/SFHNV
 [submodule "SFM"]
 	path = SFM
 	url = https://github.com/cran/SFM
@@ -19442,6 +19445,9 @@
 [submodule "TwoArmSurvSim"]
 	path = TwoArmSurvSim
 	url = https://github.com/cran/TwoArmSurvSim
+[submodule "TwoDcDAPSA"]
+	path = TwoDcDAPSA
+	url = https://github.com/cran/TwoDcDAPSA
 [submodule "TwoPhaseCorR"]
 	path = TwoPhaseCorR
 	url = https://github.com/cran/TwoPhaseCorR
@@ -23885,6 +23891,9 @@
 [submodule "blosc"]
 	path = blosc
 	url = https://github.com/cran/blosc
+[submodule "blox"]
+	path = blox
+	url = https://github.com/cran/blox
 [submodule "blrm"]
 	path = blrm
 	url = https://github.com/cran/blrm
@@ -39077,6 +39086,9 @@
 [submodule "hotspots"]
 	path = hotspots
 	url = https://github.com/cran/hotspots
+[submodule "houba"]
+	path = houba
+	url = https://github.com/cran/houba
 [submodule "hours2lessons"]
 	path = hours2lessons
 	url = https://github.com/cran/hours2lessons
@@ -52319,6 +52331,9 @@
 [submodule "powerbydesign"]
 	path = powerbydesign
 	url = https://github.com/cran/powerbydesign
+[submodule "powergrid"]
+	path = powergrid
+	url = https://github.com/cran/powergrid
 [submodule "powerindexR"]
 	path = powerindexR
 	url = https://github.com/cran/powerindexR
@@ -61820,6 +61835,9 @@
 [submodule "splineCox"]
 	path = splineCox
 	url = https://github.com/cran/splineCox
+[submodule "splineplot"]
+	path = splineplot
+	url = https://github.com/cran/splineplot
 [submodule "splines2"]
 	path = splines2
 	url = https://github.com/cran/splines2
@@ -62777,6 +62795,9 @@
 [submodule "streambugs"]
 	path = streambugs
 	url = https://github.com/cran/streambugs
+[submodule "streamsampler"]
+	path = streamsampler
+	url = https://github.com/cran/streamsampler
 [submodule "streamy"]
 	path = streamy
 	url = https://github.com/cran/streamy
@@ -64778,6 +64799,9 @@
 [submodule "tidytuesdayR"]
 	path = tidytuesdayR
 	url = https://github.com/cran/tidytuesdayR
+[submodule "tidyusmacro"]
+	path = tidyusmacro
+	url = https://github.com/cran/tidyusmacro
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/cran/tidyverse
@@ -66050,6 +66074,9 @@
 [submodule "twangMediation"]
 	path = twangMediation
 	url = https://github.com/cran/twangMediation
+[submodule "twbparser"]
+	path = twbparser
+	url = https://github.com/cran/twbparser
 [submodule "twc"]
 	path = twc
 	url = https://github.com/cran/twc
@@ -68120,6 +68147,9 @@
 [submodule "wrassp"]
 	path = wrassp
 	url = https://github.com/cran/wrassp
+[submodule "writeAlizer"]
+	path = writeAlizer
+	url = https://github.com/cran/writeAlizer
 [submodule "writer"]
 	path = writer
 	url = https://github.com/cran/writer
