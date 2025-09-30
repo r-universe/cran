@@ -54146,6 +54146,9 @@
 [submodule "rEMM"]
 	path = rEMM
 	url = https://github.com/cran/rEMM
+[submodule "rENA"]
+	path = rENA
+	url = https://github.com/cran/rENA
 [submodule "rFDP"]
 	path = rFDP
 	url = https://github.com/cran/rFDP
