@@ -30374,6 +30374,9 @@
 [submodule "docopulae"]
 	path = docopulae
 	url = https://github.com/cran/docopulae
+[submodule "docorator"]
+	path = docorator
+	url = https://github.com/cran/docorator
 [submodule "docore"]
 	path = docore
 	url = https://github.com/cran/docore
