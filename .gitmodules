@@ -4766,6 +4766,9 @@
 [submodule "DySS"]
 	path = DySS
 	url = https://github.com/cran/DySS
+[submodule "DyadRatios"]
+	path = DyadRatios
+	url = https://github.com/cran/DyadRatios
 [submodule "DyadiCarma"]
 	path = DyadiCarma
 	url = https://github.com/cran/DyadiCarma
@@ -12008,6 +12011,9 @@
 [submodule "OmnibusFisher"]
 	path = OmnibusFisher
 	url = https://github.com/cran/OmnibusFisher
+[submodule "OmopConstructor"]
+	path = OmopConstructor
+	url = https://github.com/cran/OmopConstructor
 [submodule "OmopSketch"]
 	path = OmopSketch
 	url = https://github.com/cran/OmopSketch
@@ -20291,6 +20297,9 @@
 [submodule "ZIBR"]
 	path = ZIBR
 	url = https://github.com/cran/ZIBR
+[submodule "ZIDW"]
+	path = ZIDW
+	url = https://github.com/cran/ZIDW
 [submodule "ZIM"]
 	path = ZIM
 	url = https://github.com/cran/ZIM
@@ -24899,6 +24908,9 @@
 [submodule "capn"]
 	path = capn
 	url = https://github.com/cran/capn
+[submodule "captain"]
+	path = captain
+	url = https://github.com/cran/captain
 [submodule "captr"]
 	path = captr
 	url = https://github.com/cran/captr
@@ -26690,6 +26702,9 @@
 [submodule "coglasso"]
 	path = coglasso
 	url = https://github.com/cran/coglasso
+[submodule "coglyphr"]
+	path = coglyphr
+	url = https://github.com/cran/coglyphr
 [submodule "cogmapr"]
 	path = cogmapr
 	url = https://github.com/cran/cogmapr
@@ -34358,6 +34373,9 @@
 [submodule "foodwebWrapper"]
 	path = foodwebWrapper
 	url = https://github.com/cran/foodwebWrapper
+[submodule "foodwebr"]
+	path = foodwebr
+	url = https://github.com/cran/foodwebr
 [submodule "footBayes"]
 	path = footBayes
 	url = https://github.com/cran/footBayes
@@ -43769,6 +43787,9 @@
 [submodule "malvinas"]
 	path = malvinas
 	url = https://github.com/cran/malvinas
+[submodule "mammalcol"]
+	path = mammalcol
+	url = https://github.com/cran/mammalcol
 [submodule "managelocalrepo"]
 	path = managelocalrepo
 	url = https://github.com/cran/managelocalrepo
@@ -47372,6 +47393,9 @@
 [submodule "mycor"]
 	path = mycor
 	url = https://github.com/cran/mycor
+[submodule "myownrobs"]
+	path = myownrobs
+	url = https://github.com/cran/myownrobs
 [submodule "mzipmed"]
 	path = mzipmed
 	url = https://github.com/cran/mzipmed
@@ -48362,6 +48386,9 @@
 [submodule "nonLinearDotPlot"]
 	path = nonLinearDotPlot
 	url = https://github.com/cran/nonLinearDotPlot
+[submodule "nonParQuantileCausality"]
+	path = nonParQuantileCausality
+	url = https://github.com/cran/nonParQuantileCausality
 [submodule "noncompliance"]
 	path = noncompliance
 	url = https://github.com/cran/noncompliance
@@ -54413,6 +54440,9 @@
 [submodule "radsafer"]
 	path = radsafer
 	url = https://github.com/cran/radsafer
+[submodule "radviz3d"]
+	path = radviz3d
+	url = https://github.com/cran/radviz3d
 [submodule "raem"]
 	path = raem
 	url = https://github.com/cran/raem
@@ -54959,6 +54989,9 @@
 [submodule "rcites"]
 	path = rcites
 	url = https://github.com/cran/rcites
+[submodule "rcldf"]
+	path = rcldf
+	url = https://github.com/cran/rcldf
 [submodule "rclipboard"]
 	path = rclipboard
 	url = https://github.com/cran/rclipboard
