@@ -65258,6 +65258,9 @@
 [submodule "torch"]
 	path = torch
 	url = https://github.com/cran/torch
+[submodule "torchMAUM"]
+	path = torchMAUM
+	url = https://github.com/cran/torchMAUM
 [submodule "torchdatasets"]
 	path = torchdatasets
 	url = https://github.com/cran/torchdatasets
