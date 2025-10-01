@@ -34844,9 +34844,6 @@
 [submodule "fscache"]
 	path = fscache
 	url = https://github.com/cran/fscache
-[submodule "fscaret"]
-	path = fscaret
-	url = https://github.com/cran/fscaret
 [submodule "fsdaR"]
 	path = fsdaR
 	url = https://github.com/cran/fsdaR
@@ -36260,9 +36257,6 @@
 [submodule "ggalluvial"]
 	path = ggalluvial
 	url = https://github.com/cran/ggalluvial
-[submodule "ggalt"]
-	path = ggalt
-	url = https://github.com/cran/ggalt
 [submodule "ggamma"]
 	path = ggamma
 	url = https://github.com/cran/ggamma
@@ -38972,9 +38966,6 @@
 [submodule "hmde"]
 	path = hmde
 	url = https://github.com/cran/hmde
-[submodule "hmeasure"]
-	path = hmeasure
-	url = https://github.com/cran/hmeasure
 [submodule "hmer"]
 	path = hmer
 	url = https://github.com/cran/hmer
