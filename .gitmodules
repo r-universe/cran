@@ -1940,6 +1940,9 @@
 [submodule "BlockmodelingGUI"]
 	path = BlockmodelingGUI
 	url = https://github.com/cran/BlockmodelingGUI
+[submodule "BlockwiseRankTest"]
+	path = BlockwiseRankTest
+	url = https://github.com/cran/BlockwiseRankTest
 [submodule "BlueCarbon"]
 	path = BlueCarbon
 	url = https://github.com/cran/BlueCarbon
@@ -5381,6 +5384,9 @@
 [submodule "EpiNow2"]
 	path = EpiNow2
 	url = https://github.com/cran/EpiNow2
+[submodule "EpiPvr"]
+	path = EpiPvr
+	url = https://github.com/cran/EpiPvr
 [submodule "EpiReport"]
 	path = EpiReport
 	url = https://github.com/cran/EpiReport
@@ -5576,6 +5582,9 @@
 [submodule "ExtMallows"]
 	path = ExtMallows
 	url = https://github.com/cran/ExtMallows
+[submodule "ExtendedABSurvTDC"]
+	path = ExtendedABSurvTDC
+	url = https://github.com/cran/ExtendedABSurvTDC
 [submodule "ExtendedLaplace"]
 	path = ExtendedLaplace
 	url = https://github.com/cran/ExtendedLaplace
@@ -5690,6 +5699,9 @@
 [submodule "FD"]
 	path = FD
 	url = https://github.com/cran/FD
+[submodule "FDOTT"]
+	path = FDOTT
+	url = https://github.com/cran/FDOTT
 [submodule "FDRestimation"]
 	path = FDRestimation
 	url = https://github.com/cran/FDRestimation
@@ -6530,6 +6542,9 @@
 [submodule "GEVcdn"]
 	path = GEVcdn
 	url = https://github.com/cran/GEVcdn
+[submodule "GEint"]
+	path = GEint
+	url = https://github.com/cran/GEint
 [submodule "GEmetrics"]
 	path = GEmetrics
 	url = https://github.com/cran/GEmetrics
@@ -9350,6 +9365,9 @@
 [submodule "LeMaRns"]
 	path = LeMaRns
 	url = https://github.com/cran/LeMaRns
+[submodule "LePage"]
+	path = LePage
+	url = https://github.com/cran/LePage
 [submodule "LeadSense"]
 	path = LeadSense
 	url = https://github.com/cran/LeadSense
@@ -13184,6 +13202,9 @@
 [submodule "PhysicalActivity"]
 	path = PhysicalActivity
 	url = https://github.com/cran/PhysicalActivity
+[submodule "PhytoIn"]
+	path = PhytoIn
+	url = https://github.com/cran/PhytoIn
 [submodule "PhytosanitaryCalculator"]
 	path = PhytosanitaryCalculator
 	url = https://github.com/cran/PhytosanitaryCalculator
@@ -15356,6 +15377,9 @@
 [submodule "RcextTools"]
 	path = RcextTools
 	url = https://github.com/cran/RcextTools
+[submodule "RchivalTag"]
+	path = RchivalTag
+	url = https://github.com/cran/RchivalTag
 [submodule "Rchoice"]
 	path = Rchoice
 	url = https://github.com/cran/Rchoice
@@ -22538,6 +22562,9 @@
 [submodule "baker"]
 	path = baker
 	url = https://github.com/cran/baker
+[submodule "bakerrr"]
+	path = bakerrr
+	url = https://github.com/cran/bakerrr
 [submodule "baldur"]
 	path = baldur
 	url = https://github.com/cran/baldur
@@ -24179,6 +24206,9 @@
 [submodule "box.lsp"]
 	path = box.lsp
 	url = https://github.com/cran/box.lsp
+[submodule "boxTest"]
+	path = boxTest
+	url = https://github.com/cran/boxTest
 [submodule "boxcoxmix"]
 	path = boxcoxmix
 	url = https://github.com/cran/boxcoxmix
@@ -29549,6 +29579,9 @@
 [submodule "descstatsr"]
 	path = descstatsr
 	url = https://github.com/cran/descstatsr
+[submodule "descsuppR"]
+	path = descsuppR
+	url = https://github.com/cran/descsuppR
 [submodule "desctable"]
 	path = desctable
 	url = https://github.com/cran/desctable
@@ -31079,6 +31112,9 @@
 [submodule "eDMA"]
 	path = eDMA
 	url = https://github.com/cran/eDMA
+[submodule "eDNAfuns"]
+	path = eDNAfuns
+	url = https://github.com/cran/eDNAfuns
 [submodule "eDNAjoint"]
 	path = eDNAjoint
 	url = https://github.com/cran/eDNAjoint
@@ -51692,6 +51728,9 @@
 [submodule "plothelper"]
 	path = plothelper
 	url = https://github.com/cran/plothelper
+[submodule "plotlsirm"]
+	path = plotlsirm
+	url = https://github.com/cran/plotlsirm
 [submodule "plotluck"]
 	path = plotluck
 	url = https://github.com/cran/plotluck
@@ -55256,6 +55295,9 @@
 [submodule "readbulk"]
 	path = readbulk
 	url = https://github.com/cran/readbulk
+[submodule "readepi"]
+	path = readepi
+	url = https://github.com/cran/readepi
 [submodule "reader"]
 	path = reader
 	url = https://github.com/cran/reader
