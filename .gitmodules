@@ -28727,9 +28727,6 @@
 [submodule "daff"]
 	path = daff
 	url = https://github.com/cran/daff
-[submodule "dafishr"]
-	path = dafishr
-	url = https://github.com/cran/dafishr
 [submodule "dafs"]
 	path = dafs
 	url = https://github.com/cran/dafs
