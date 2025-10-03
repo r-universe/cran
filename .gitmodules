@@ -65264,6 +65264,9 @@
 [submodule "topologyGSA"]
 	path = topologyGSA
 	url = https://github.com/cran/topologyGSA
+[submodule "topologyR"]
+	path = topologyR
+	url = https://github.com/cran/topologyR
 [submodule "topolow"]
 	path = topolow
 	url = https://github.com/cran/topolow
