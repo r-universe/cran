@@ -2552,6 +2552,9 @@
 [submodule "CORElearn"]
 	path = CORElearn
 	url = https://github.com/cran/CORElearn
+[submodule "CORPlot"]
+	path = CORPlot
+	url = https://github.com/cran/CORPlot
 [submodule "COST"]
 	path = COST
 	url = https://github.com/cran/COST
@@ -20735,6 +20738,9 @@
 [submodule "adc"]
 	path = adc
 	url = https://github.com/cran/adc
+[submodule "adcontabil"]
+	path = adcontabil
+	url = https://github.com/cran/adcontabil
 [submodule "add2ggplot"]
 	path = add2ggplot
 	url = https://github.com/cran/add2ggplot
