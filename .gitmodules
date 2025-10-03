@@ -1844,6 +1844,9 @@
 [submodule "BioM2"]
 	path = BioM2
 	url = https://github.com/cran/BioM2
+[submodule "BioMoR"]
+	path = BioMoR
+	url = https://github.com/cran/BioMoR
 [submodule "BioPET"]
 	path = BioPET
 	url = https://github.com/cran/BioPET
