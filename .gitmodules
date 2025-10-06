@@ -50846,9 +50846,6 @@
 [submodule "pell"]
 	path = pell
 	url = https://github.com/cran/pell
-[submodule "pema"]
-	path = pema
-	url = https://github.com/cran/pema
 [submodule "pempi"]
 	path = pempi
 	url = https://github.com/cran/pempi
