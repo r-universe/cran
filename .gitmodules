@@ -572,6 +572,9 @@
 [submodule "AlgebraicHaploPackage"]
 	path = AlgebraicHaploPackage
 	url = https://github.com/cran/AlgebraicHaploPackage
+[submodule "AlgeriAPIs"]
+	path = AlgeriAPIs
+	url = https://github.com/cran/AlgeriAPIs
 [submodule "AlignLV"]
 	path = AlignLV
 	url = https://github.com/cran/AlignLV
@@ -5123,6 +5126,9 @@
 [submodule "ERSA"]
 	path = ERSA
 	url = https://github.com/cran/ERSA
+[submodule "ES"]
+	path = ES
+	url = https://github.com/cran/ES
 [submodule "ESG"]
 	path = ESG
 	url = https://github.com/cran/ESG
@@ -5981,6 +5987,9 @@
 [submodule "FairMclus"]
 	path = FairMclus
 	url = https://github.com/cran/FairMclus
+[submodule "FakeDataR"]
+	path = FakeDataR
+	url = https://github.com/cran/FakeDataR
 [submodule "FamEvent"]
 	path = FamEvent
 	url = https://github.com/cran/FamEvent
@@ -13226,6 +13235,9 @@
 [submodule "Pijavski"]
 	path = Pijavski
 	url = https://github.com/cran/Pijavski
+[submodule "Pinference"]
+	path = Pinference
+	url = https://github.com/cran/Pinference
 [submodule "PivotalP"]
 	path = PivotalP
 	url = https://github.com/cran/PivotalP
@@ -15818,6 +15830,9 @@
 [submodule "RegAssure"]
 	path = RegAssure
 	url = https://github.com/cran/RegAssure
+[submodule "RegCalReliab"]
+	path = RegCalReliab
+	url = https://github.com/cran/RegCalReliab
 [submodule "RegCombin"]
 	path = RegCombin
 	url = https://github.com/cran/RegCombin
@@ -17831,6 +17846,9 @@
 [submodule "Simile"]
 	path = Simile
 	url = https://github.com/cran/Simile
+[submodule "SimpleUpset"]
+	path = SimpleUpset
+	url = https://github.com/cran/SimpleUpset
 [submodule "SimplicialCubature"]
 	path = SimplicialCubature
 	url = https://github.com/cran/SimplicialCubature
@@ -19577,6 +19595,9 @@
 [submodule "UStatBookABSC"]
 	path = UStatBookABSC
 	url = https://github.com/cran/UStatBookABSC
+[submodule "UVdose"]
+	path = UVdose
+	url = https://github.com/cran/UVdose
 [submodule "UWHAM"]
 	path = UWHAM
 	url = https://github.com/cran/UWHAM
@@ -20684,6 +20705,9 @@
 [submodule "adana"]
 	path = adana
 	url = https://github.com/cran/adana
+[submodule "adaplots"]
+	path = adaplots
+	url = https://github.com/cran/adaplots
 [submodule "adapt3"]
 	path = adapt3
 	url = https://github.com/cran/adapt3
@@ -27230,6 +27254,9 @@
 [submodule "conformalClassification"]
 	path = conformalClassification
 	url = https://github.com/cran/conformalClassification
+[submodule "conformalForecast"]
+	path = conformalForecast
+	url = https://github.com/cran/conformalForecast
 [submodule "conformalInference.fd"]
 	path = conformalInference.fd
 	url = https://github.com/cran/conformalInference.fd
@@ -38603,6 +38630,9 @@
 [submodule "healthfinance"]
 	path = healthfinance
 	url = https://github.com/cran/healthfinance
+[submodule "healthmotionR"]
+	path = healthmotionR
+	url = https://github.com/cran/healthmotionR
 [submodule "healthyAddress"]
 	path = healthyAddress
 	url = https://github.com/cran/healthyAddress
@@ -39476,6 +39506,9 @@
 [submodule "hypsoLoop"]
 	path = hypsoLoop
 	url = https://github.com/cran/hypsoLoop
+[submodule "hyreg2"]
+	path = hyreg2
+	url = https://github.com/cran/hyreg2
 [submodule "hystReet"]
 	path = hystReet
 	url = https://github.com/cran/hystReet
@@ -48113,6 +48146,9 @@
 [submodule "nilde"]
 	path = nilde
 	url = https://github.com/cran/nilde
+[submodule "nilsier"]
+	path = nilsier
+	url = https://github.com/cran/nilsier
 [submodule "nima"]
 	path = nima
 	url = https://github.com/cran/nima
@@ -48533,6 +48569,9 @@
 [submodule "normfluodbf"]
 	path = normfluodbf
 	url = https://github.com/cran/normfluodbf
+[submodule "normref"]
+	path = normref
+	url = https://github.com/cran/normref
 [submodule "nortest"]
 	path = nortest
 	url = https://github.com/cran/nortest
@@ -49529,6 +49568,9 @@
 [submodule "optrefine"]
 	path = optrefine
 	url = https://github.com/cran/optrefine
+[submodule "optsize"]
+	path = optsize
+	url = https://github.com/cran/optsize
 [submodule "optweight"]
 	path = optweight
 	url = https://github.com/cran/optweight
@@ -63023,6 +63065,9 @@
 [submodule "sugrrants"]
 	path = sugrrants
 	url = https://github.com/cran/sugrrants
+[submodule "sulcimap"]
+	path = sulcimap
+	url = https://github.com/cran/sulcimap
 [submodule "sumFREGAT"]
 	path = sumFREGAT
 	url = https://github.com/cran/sumFREGAT
@@ -63035,6 +63080,9 @@
 [submodule "summariser"]
 	path = summariser
 	url = https://github.com/cran/summariser
+[submodule "summarytabl"]
+	path = summarytabl
+	url = https://github.com/cran/summarytabl
 [submodule "summarytools"]
 	path = summarytools
 	url = https://github.com/cran/summarytools
