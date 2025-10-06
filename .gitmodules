@@ -35255,6 +35255,9 @@
 [submodule "gafit"]
 	path = gafit
 	url = https://github.com/cran/gafit
+[submodule "gageRR"]
+	path = gageRR
+	url = https://github.com/cran/gageRR
 [submodule "gaiah"]
 	path = gaiah
 	url = https://github.com/cran/gaiah
@@ -45518,6 +45521,9 @@
 [submodule "minsample2"]
 	path = minsample2
 	url = https://github.com/cran/minsample2
+[submodule "minter"]
+	path = minter
+	url = https://github.com/cran/minter
 [submodule "minty"]
 	path = minty
 	url = https://github.com/cran/minty
@@ -48539,6 +48545,9 @@
 [submodule "nos"]
 	path = nos
 	url = https://github.com/cran/nos
+[submodule "nose"]
+	path = nose
+	url = https://github.com/cran/nose
 [submodule "nosoi"]
 	path = nosoi
 	url = https://github.com/cran/nosoi
