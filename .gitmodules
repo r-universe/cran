@@ -48530,9 +48530,6 @@
 [submodule "nopaco"]
 	path = nopaco
 	url = https://github.com/cran/nopaco
-[submodule "nopp"]
-	path = nopp
-	url = https://github.com/cran/nopp
 [submodule "nor1mix"]
 	path = nor1mix
 	url = https://github.com/cran/nor1mix
@@ -50846,6 +50843,9 @@
 [submodule "pell"]
 	path = pell
 	url = https://github.com/cran/pell
+[submodule "pema"]
+	path = pema
+	url = https://github.com/cran/pema
 [submodule "pempi"]
 	path = pempi
 	url = https://github.com/cran/pempi
