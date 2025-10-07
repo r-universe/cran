@@ -1337,6 +1337,9 @@
 [submodule "BT"]
 	path = BT
 	url = https://github.com/cran/BT
+[submodule "BTIME"]
+	path = BTIME
+	url = https://github.com/cran/BTIME
 [submodule "BTLLasso"]
 	path = BTLLasso
 	url = https://github.com/cran/BTLLasso
@@ -6842,6 +6845,9 @@
 [submodule "GPoM"]
 	path = GPoM
 	url = https://github.com/cran/GPoM
+[submodule "GPpenalty"]
+	path = GPpenalty
+	url = https://github.com/cran/GPpenalty
 [submodule "GPvam"]
 	path = GPvam
 	url = https://github.com/cran/GPvam
@@ -44579,6 +44585,9 @@
 [submodule "mda"]
 	path = mda
 	url = https://github.com/cran/mda
+[submodule "mda.biber"]
+	path = mda.biber
+	url = https://github.com/cran/mda.biber
 [submodule "mdatools"]
 	path = mdatools
 	url = https://github.com/cran/mdatools
