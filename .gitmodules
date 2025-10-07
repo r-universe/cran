@@ -464,6 +464,9 @@
 [submodule "ActiveDriver"]
 	path = ActiveDriver
 	url = https://github.com/cran/ActiveDriver
+[submodule "ActiveLearning4SPM"]
+	path = ActiveLearning4SPM
+	url = https://github.com/cran/ActiveLearning4SPM
 [submodule "ActivePathways"]
 	path = ActivePathways
 	url = https://github.com/cran/ActivePathways
@@ -9368,6 +9371,9 @@
 [submodule "LassoSIR"]
 	path = LassoSIR
 	url = https://github.com/cran/LassoSIR
+[submodule "Latamverse"]
+	path = Latamverse
+	url = https://github.com/cran/Latamverse
 [submodule "LatentBMA"]
 	path = LatentBMA
 	url = https://github.com/cran/LatentBMA
@@ -15137,6 +15143,9 @@
 [submodule "RTMB"]
 	path = RTMB
 	url = https://github.com/cran/RTMB
+[submodule "RTMBdist"]
+	path = RTMBdist
+	url = https://github.com/cran/RTMBdist
 [submodule "RTSA"]
 	path = RTSA
 	url = https://github.com/cran/RTSA
@@ -53477,6 +53486,9 @@
 [submodule "pwrRasch"]
 	path = pwrRasch
 	url = https://github.com/cran/pwrRasch
+[submodule "pwranova"]
+	path = pwranova
+	url = https://github.com/cran/pwranova
 [submodule "pwrss"]
 	path = pwrss
 	url = https://github.com/cran/pwrss
@@ -56570,6 +56582,9 @@
 [submodule "rix"]
 	path = rix
 	url = https://github.com/cran/rix
+[submodule "rixpress"]
+	path = rixpress
+	url = https://github.com/cran/rixpress
 [submodule "rjade"]
 	path = rjade
 	url = https://github.com/cran/rjade
