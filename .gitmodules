@@ -6383,6 +6383,9 @@
 [submodule "FuzzySimRes"]
 	path = FuzzySimRes
 	url = https://github.com/cran/FuzzySimRes
+[submodule "FuzzySpec"]
+	path = FuzzySpec
+	url = https://github.com/cran/FuzzySpec
 [submodule "FuzzyStatTra"]
 	path = FuzzyStatTra
 	url = https://github.com/cran/FuzzyStatTra
@@ -10148,6 +10151,9 @@
 [submodule "MLPUGS"]
 	path = MLPUGS
 	url = https://github.com/cran/MLPUGS
+[submodule "MLSP"]
+	path = MLSP
+	url = https://github.com/cran/MLSP
 [submodule "MLVSBM"]
 	path = MLVSBM
 	url = https://github.com/cran/MLVSBM
@@ -18878,6 +18884,9 @@
 [submodule "TPD"]
 	path = TPD
 	url = https://github.com/cran/TPD
+[submodule "TPDDev"]
+	path = TPDDev
+	url = https://github.com/cran/TPDDev
 [submodule "TPEA"]
 	path = TPEA
 	url = https://github.com/cran/TPEA
@@ -19739,6 +19748,9 @@
 [submodule "VBLPCM"]
 	path = VBLPCM
 	url = https://github.com/cran/VBLPCM
+[submodule "VBMS"]
+	path = VBMS
+	url = https://github.com/cran/VBMS
 [submodule "VBTree"]
 	path = VBTree
 	url = https://github.com/cran/VBTree
@@ -51521,6 +51533,9 @@
 [submodule "pipenostics"]
 	path = pipenostics
 	url = https://github.com/cran/pipenostics
+[submodule "pipetime"]
+	path = pipetime
+	url = https://github.com/cran/pipetime
 [submodule "piqp"]
 	path = piqp
 	url = https://github.com/cran/piqp
@@ -60755,6 +60770,9 @@
 [submodule "skyscapeR"]
 	path = skyscapeR
 	url = https://github.com/cran/skyscapeR
+[submodule "skytrackr"]
+	path = skytrackr
+	url = https://github.com/cran/skytrackr
 [submodule "slackr"]
 	path = slackr
 	url = https://github.com/cran/slackr
@@ -66461,6 +66479,9 @@
 [submodule "undidR"]
 	path = undidR
 	url = https://github.com/cran/undidR
+[submodule "unexcel"]
+	path = unexcel
+	url = https://github.com/cran/unexcel
 [submodule "unfold"]
 	path = unfold
 	url = https://github.com/cran/unfold
