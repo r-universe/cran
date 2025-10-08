@@ -5249,6 +5249,9 @@
 [submodule "EconAndProdEfficiency"]
 	path = EconAndProdEfficiency
 	url = https://github.com/cran/EconAndProdEfficiency
+[submodule "EconCausal"]
+	path = EconCausal
+	url = https://github.com/cran/EconCausal
 [submodule "EconDemand"]
 	path = EconDemand
 	url = https://github.com/cran/EconDemand
@@ -12920,6 +12923,9 @@
 [submodule "PVAClone"]
 	path = PVAClone
 	url = https://github.com/cran/PVAClone
+[submodule "PVBcorrect"]
+	path = PVBcorrect
+	url = https://github.com/cran/PVBcorrect
 [submodule "PVR"]
 	path = PVR
 	url = https://github.com/cran/PVR
@@ -15359,6 +15365,9 @@
 [submodule "RationalMatrix"]
 	path = RationalMatrix
 	url = https://github.com/cran/RationalMatrix
+[submodule "Rato"]
+	path = Rato
+	url = https://github.com/cran/Rato
 [submodule "Ravages"]
 	path = Ravages
 	url = https://github.com/cran/Ravages
@@ -17822,6 +17831,9 @@
 [submodule "SimJoint"]
 	path = SimJoint
 	url = https://github.com/cran/SimJoint
+[submodule "SimKid"]
+	path = SimKid
+	url = https://github.com/cran/SimKid
 [submodule "SimMultiCorrData"]
 	path = SimMultiCorrData
 	url = https://github.com/cran/SimMultiCorrData
