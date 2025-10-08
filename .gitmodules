@@ -68537,6 +68537,9 @@
 [submodule "xpose4"]
 	path = xpose4
 	url = https://github.com/cran/xpose4
+[submodule "xptr"]
+	path = xptr
+	url = https://github.com/cran/xptr
 [submodule "xray"]
 	path = xray
 	url = https://github.com/cran/xray
