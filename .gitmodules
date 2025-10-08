@@ -62462,6 +62462,9 @@
 [submodule "starschemar"]
 	path = starschemar
 	url = https://github.com/cran/starschemar
+[submodule "startR"]
+	path = startR
+	url = https://github.com/cran/startR
 [submodule "starter"]
 	path = starter
 	url = https://github.com/cran/starter
