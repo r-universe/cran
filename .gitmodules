@@ -36044,6 +36044,9 @@
 [submodule "geofi"]
 	path = geofi
 	url = https://github.com/cran/geofi
+[submodule "geoflow"]
+	path = geoflow
+	url = https://github.com/cran/geoflow
 [submodule "geogenr"]
 	path = geogenr
 	url = https://github.com/cran/geogenr
