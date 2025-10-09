@@ -53834,9 +53834,6 @@
 [submodule "qslice"]
 	path = qslice
 	url = https://github.com/cran/qslice
-[submodule "qsort"]
-	path = qsort
-	url = https://github.com/cran/qsort
 [submodule "qsplines"]
 	path = qsplines
 	url = https://github.com/cran/qsplines
