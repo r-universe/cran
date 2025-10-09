@@ -2756,6 +2756,9 @@
 [submodule "CaDENCE"]
 	path = CaDENCE
 	url = https://github.com/cran/CaDENCE
+[submodule "CaMeA"]
+	path = CaMeA
+	url = https://github.com/cran/CaMeA
 [submodule "CaPO4Sim"]
 	path = CaPO4Sim
 	url = https://github.com/cran/CaPO4Sim
@@ -8600,6 +8603,9 @@
 [submodule "IssueTrackeR"]
 	path = IssueTrackeR
 	url = https://github.com/cran/IssueTrackeR
+[submodule "ItemRest"]
+	path = ItemRest
+	url = https://github.com/cran/ItemRest
 [submodule "IterativeHardThresholding"]
 	path = IterativeHardThresholding
 	url = https://github.com/cran/IterativeHardThresholding
@@ -41591,6 +41597,9 @@
 [submodule "karaoke"]
 	path = karaoke
 	url = https://github.com/cran/karaoke
+[submodule "kardl"]
+	path = kardl
+	url = https://github.com/cran/kardl
 [submodule "karlen"]
 	path = karlen
 	url = https://github.com/cran/karlen
@@ -53267,6 +53276,9 @@
 [submodule "psm3mkv"]
 	path = psm3mkv
 	url = https://github.com/cran/psm3mkv
+[submodule "psme"]
+	path = psme
+	url = https://github.com/cran/psme
 [submodule "psmineR"]
 	path = psmineR
 	url = https://github.com/cran/psmineR
@@ -59240,6 +59252,9 @@
 [submodule "semPower"]
 	path = semPower
 	url = https://github.com/cran/semPower
+[submodule "semTests"]
+	path = semTests
+	url = https://github.com/cran/semTests
 [submodule "semTools"]
 	path = semTools
 	url = https://github.com/cran/semTools
@@ -60083,6 +60098,9 @@
 [submodule "shinymodels"]
 	path = shinymodels
 	url = https://github.com/cran/shinymodels
+[submodule "shinymrp"]
+	path = shinymrp
+	url = https://github.com/cran/shinymrp
 [submodule "shinyobjects"]
 	path = shinyobjects
 	url = https://github.com/cran/shinyobjects
@@ -65732,6 +65750,9 @@
 [submodule "treeclim"]
 	path = treeclim
 	url = https://github.com/cran/treeclim
+[submodule "treedata.table"]
+	path = treedata.table
+	url = https://github.com/cran/treedata.table
 [submodule "treedater"]
 	path = treedater
 	url = https://github.com/cran/treedater
@@ -65999,6 +66020,9 @@
 [submodule "tsdistributions"]
 	path = tsdistributions
 	url = https://github.com/cran/tsdistributions
+[submodule "tseffects"]
+	path = tseffects
+	url = https://github.com/cran/tseffects
 [submodule "tsensembler"]
 	path = tsensembler
 	url = https://github.com/cran/tsensembler
