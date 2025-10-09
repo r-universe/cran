@@ -3494,6 +3494,9 @@
 [submodule "CopSens"]
 	path = CopSens
 	url = https://github.com/cran/CopSens
+[submodule "CopernicusClimate"]
+	path = CopernicusClimate
+	url = https://github.com/cran/CopernicusClimate
 [submodule "CopernicusDEM"]
 	path = CopernicusDEM
 	url = https://github.com/cran/CopernicusDEM
@@ -12491,6 +12494,9 @@
 [submodule "PERMANOVA"]
 	path = PERMANOVA
 	url = https://github.com/cran/PERMANOVA
+[submodule "PERSUADE"]
+	path = PERSUADE
+	url = https://github.com/cran/PERSUADE
 [submodule "PEkit"]
 	path = PEkit
 	url = https://github.com/cran/PEkit
@@ -12578,6 +12584,9 @@
 [submodule "PKNCA"]
 	path = PKNCA
 	url = https://github.com/cran/PKNCA
+[submodule "PKPDindex"]
+	path = PKPDindex
+	url = https://github.com/cran/PKPDindex
 [submodule "PKPDsim"]
 	path = PKPDsim
 	url = https://github.com/cran/PKPDsim
@@ -25877,6 +25886,9 @@
 [submodule "choiceDes"]
 	path = choiceDes
 	url = https://github.com/cran/choiceDes
+[submodule "choicedata"]
+	path = choicedata
+	url = https://github.com/cran/choicedata
 [submodule "cholera"]
 	path = cholera
 	url = https://github.com/cran/cholera
@@ -37811,6 +37823,9 @@
 [submodule "graphon"]
 	path = graphon
 	url = https://github.com/cran/graphon
+[submodule "graphonmix"]
+	path = graphonmix
+	url = https://github.com/cran/graphonmix
 [submodule "graphpcor"]
 	path = graphpcor
 	url = https://github.com/cran/graphpcor
@@ -43319,6 +43334,9 @@
 [submodule "lognorm"]
 	path = lognorm
 	url = https://github.com/cran/lognorm
+[submodule "logolink"]
+	path = logolink
+	url = https://github.com/cran/logolink
 [submodule "logos"]
 	path = logos
 	url = https://github.com/cran/logos
