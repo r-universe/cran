@@ -14078,6 +14078,9 @@
 [submodule "RANSAC"]
 	path = RANSAC
 	url = https://github.com/cran/RANSAC
+[submodule "RAP"]
+	path = RAP
+	url = https://github.com/cran/RAP
 [submodule "RAPTOR"]
 	path = RAPTOR
 	url = https://github.com/cran/RAPTOR
@@ -21713,6 +21716,9 @@
 [submodule "apache.sedona"]
 	path = apache.sedona
 	url = https://github.com/cran/apache.sedona
+[submodule "apathe"]
+	path = apathe
+	url = https://github.com/cran/apathe
 [submodule "apc"]
 	path = apc
 	url = https://github.com/cran/apc
@@ -31301,6 +31307,9 @@
 [submodule "easyPubMed"]
 	path = easyPubMed
 	url = https://github.com/cran/easyPubMed
+[submodule "easyRef"]
+	path = easyRef
+	url = https://github.com/cran/easyRef
 [submodule "easySVG"]
 	path = easySVG
 	url = https://github.com/cran/easySVG
