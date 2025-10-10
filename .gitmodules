@@ -20201,6 +20201,9 @@
 [submodule "WeibullFit"]
 	path = WeibullFit
 	url = https://github.com/cran/WeibullFit
+[submodule "WeibullModiAMR"]
+	path = WeibullModiAMR
+	url = https://github.com/cran/WeibullModiAMR
 [submodule "WeibullR"]
 	path = WeibullR
 	url = https://github.com/cran/WeibullR
@@ -23729,6 +23732,9 @@
 [submodule "biocompute"]
 	path = biocompute
 	url = https://github.com/cran/biocompute
+[submodule "biodosetools"]
+	path = biodosetools
+	url = https://github.com/cran/biodosetools
 [submodule "biogas"]
 	path = biogas
 	url = https://github.com/cran/biogas
@@ -53783,6 +53789,9 @@
 [submodule "qoi"]
 	path = qoi
 	url = https://github.com/cran/qoi
+[submodule "qol"]
+	path = qol
+	url = https://github.com/cran/qol
 [submodule "qountstat"]
 	path = qountstat
 	url = https://github.com/cran/qountstat
