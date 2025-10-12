@@ -43157,6 +43157,9 @@
 [submodule "lmomco"]
 	path = lmomco
 	url = https://github.com/cran/lmomco
+[submodule "lmreg"]
+	path = lmreg
+	url = https://github.com/cran/lmreg
 [submodule "lmridge"]
 	path = lmridge
 	url = https://github.com/cran/lmridge
