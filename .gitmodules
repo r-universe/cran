@@ -57635,9 +57635,6 @@
 [submodule "rsem"]
 	path = rsem
 	url = https://github.com/cran/rsem
-[submodule "rsetse"]
-	path = rsetse
-	url = https://github.com/cran/rsetse
 [submodule "rsf"]
 	path = rsf
 	url = https://github.com/cran/rsf
