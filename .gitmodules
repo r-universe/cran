@@ -6674,6 +6674,9 @@
 [submodule "GIMMEgVAR"]
 	path = GIMMEgVAR
 	url = https://github.com/cran/GIMMEgVAR
+[submodule "GINAX"]
+	path = GINAX
+	url = https://github.com/cran/GINAX
 [submodule "GISINTEGRATION"]
 	path = GISINTEGRATION
 	url = https://github.com/cran/GISINTEGRATION
@@ -11477,6 +11480,9 @@
 [submodule "NMA"]
 	path = NMA
 	url = https://github.com/cran/NMA
+[submodule "NMADTA"]
+	path = NMADTA
+	url = https://github.com/cran/NMADTA
 [submodule "NMAforest"]
 	path = NMAforest
 	url = https://github.com/cran/NMAforest
@@ -33803,6 +33809,9 @@
 [submodule "feisr"]
 	path = feisr
 	url = https://github.com/cran/feisr
+[submodule "fejiv"]
+	path = fejiv
+	url = https://github.com/cran/fejiv
 [submodule "felp"]
 	path = felp
 	url = https://github.com/cran/felp
@@ -34838,6 +34847,9 @@
 [submodule "frailtyMMpen"]
 	path = frailtyMMpen
 	url = https://github.com/cran/frailtyMMpen
+[submodule "frailtyROC"]
+	path = frailtyROC
+	url = https://github.com/cran/frailtyROC
 [submodule "frailtySurv"]
 	path = frailtySurv
 	url = https://github.com/cran/frailtySurv
@@ -41381,6 +41393,9 @@
 [submodule "jointCalib"]
 	path = jointCalib
 	url = https://github.com/cran/jointCalib
+[submodule "jointCompRisk"]
+	path = jointCompRisk
+	url = https://github.com/cran/jointCompRisk
 [submodule "jointDiag"]
 	path = jointDiag
 	url = https://github.com/cran/jointDiag
