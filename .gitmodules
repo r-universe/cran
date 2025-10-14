@@ -4268,6 +4268,9 @@
 [submodule "DTDA.ni"]
 	path = DTDA.ni
 	url = https://github.com/cran/DTDA.ni
+[submodule "DTEAssurance"]
+	path = DTEAssurance
+	url = https://github.com/cran/DTEAssurance
 [submodule "DTEBOP2"]
 	path = DTEBOP2
 	url = https://github.com/cran/DTEBOP2
@@ -25082,6 +25085,9 @@
 [submodule "carbondate"]
 	path = carbondate
 	url = https://github.com/cran/carbondate
+[submodule "carbonpredict"]
+	path = carbonpredict
+	url = https://github.com/cran/carbonpredict
 [submodule "carbonr"]
 	path = carbonr
 	url = https://github.com/cran/carbonr
@@ -44015,6 +44021,9 @@
 [submodule "manynet"]
 	path = manynet
 	url = https://github.com/cran/manynet
+[submodule "manystates"]
+	path = manystates
+	url = https://github.com/cran/manystates
 [submodule "maotai"]
 	path = maotai
 	url = https://github.com/cran/maotai
@@ -47324,6 +47333,9 @@
 [submodule "multxpert"]
 	path = multxpert
 	url = https://github.com/cran/multxpert
+[submodule "mumarinex"]
+	path = mumarinex
+	url = https://github.com/cran/mumarinex
 [submodule "munfold"]
 	path = munfold
 	url = https://github.com/cran/munfold
@@ -50123,6 +50135,9 @@
 [submodule "pacu"]
 	path = pacu
 	url = https://github.com/cran/pacu
+[submodule "pacviz"]
+	path = pacviz
+	url = https://github.com/cran/pacviz
 [submodule "paddleR"]
 	path = paddleR
 	url = https://github.com/cran/paddleR
