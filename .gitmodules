@@ -17861,6 +17861,9 @@
 [submodule "SimHaz"]
 	path = SimHaz
 	url = https://github.com/cran/SimHaz
+[submodule "SimIndep"]
+	path = SimIndep
+	url = https://github.com/cran/SimIndep
 [submodule "SimInf"]
 	path = SimInf
 	url = https://github.com/cran/SimInf
@@ -25583,6 +25586,9 @@
 [submodule "censusapi"]
 	path = censusapi
 	url = https://github.com/cran/censusapi
+[submodule "censuspyrID"]
+	path = censuspyrID
+	url = https://github.com/cran/censuspyrID
 [submodule "censusr"]
 	path = censusr
 	url = https://github.com/cran/censusr
@@ -43238,6 +43244,9 @@
 [submodule "localIV"]
 	path = localIV
 	url = https://github.com/cran/localIV
+[submodule "localLLM"]
+	path = localLLM
+	url = https://github.com/cran/localLLM
 [submodule "localModel"]
 	path = localModel
 	url = https://github.com/cran/localModel
@@ -44816,6 +44825,9 @@
 [submodule "mediationsens"]
 	path = mediationsens
 	url = https://github.com/cran/mediationsens
+[submodule "medicalcoder"]
+	path = medicalcoder
+	url = https://github.com/cran/medicalcoder
 [submodule "medicaldata"]
 	path = medicaldata
 	url = https://github.com/cran/medicaldata
@@ -53555,6 +53567,9 @@
 [submodule "pvar"]
 	path = pvar
 	url = https://github.com/cran/pvar
+[submodule "pvars"]
+	path = pvars
+	url = https://github.com/cran/pvars
 [submodule "pvclass"]
 	path = pvclass
 	url = https://github.com/cran/pvclass
@@ -54383,6 +54398,9 @@
 [submodule "rCNV"]
 	path = rCNV
 	url = https://github.com/cran/rCNV
+[submodule "rChEA3"]
+	path = rChEA3
+	url = https://github.com/cran/rChEA3
 [submodule "rChoiceDialogs"]
 	path = rChoiceDialogs
 	url = https://github.com/cran/rChoiceDialogs
