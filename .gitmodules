@@ -3248,6 +3248,9 @@
 [submodule "CohortSymmetry"]
 	path = CohortSymmetry
 	url = https://github.com/cran/CohortSymmetry
+[submodule "CoinMinD"]
+	path = CoinMinD
+	url = https://github.com/cran/CoinMinD
 [submodule "Coinprofile"]
 	path = Coinprofile
 	url = https://github.com/cran/Coinprofile
@@ -15932,6 +15935,9 @@
 [submodule "ReliaGrowR"]
 	path = ReliaGrowR
 	url = https://github.com/cran/ReliaGrowR
+[submodule "ReliaPlotR"]
+	path = ReliaPlotR
+	url = https://github.com/cran/ReliaPlotR
 [submodule "ReliabilityTheory"]
 	path = ReliabilityTheory
 	url = https://github.com/cran/ReliabilityTheory
@@ -21566,6 +21572,9 @@
 [submodule "and"]
 	path = and
 	url = https://github.com/cran/and
+[submodule "andorR"]
+	path = andorR
+	url = https://github.com/cran/andorR
 [submodule "andrews"]
 	path = andrews
 	url = https://github.com/cran/andrews
@@ -26381,6 +26390,9 @@
 [submodule "clisymbols"]
 	path = clisymbols
 	url = https://github.com/cran/clisymbols
+[submodule "clitable"]
+	path = clitable
+	url = https://github.com/cran/clitable
 [submodule "clmplus"]
 	path = clmplus
 	url = https://github.com/cran/clmplus
@@ -55202,6 +55214,9 @@
 [submodule "rccola"]
 	path = rccola
 	url = https://github.com/cran/rccola
+[submodule "rcd3"]
+	path = rcd3
+	url = https://github.com/cran/rcd3
 [submodule "rcdd"]
 	path = rcdd
 	url = https://github.com/cran/rcdd
@@ -63239,6 +63254,9 @@
 [submodule "summariser"]
 	path = summariser
 	url = https://github.com/cran/summariser
+[submodule "summarySCI"]
+	path = summarySCI
+	url = https://github.com/cran/summarySCI
 [submodule "summarytabl"]
 	path = summarytabl
 	url = https://github.com/cran/summarytabl
