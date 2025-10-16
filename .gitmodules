@@ -8855,6 +8855,9 @@
 [submodule "KPC"]
 	path = KPC
 	url = https://github.com/cran/KPC
+[submodule "KQM"]
+	path = KQM
+	url = https://github.com/cran/KQM
 [submodule "KRIS"]
 	path = KRIS
 	url = https://github.com/cran/KRIS
@@ -10787,6 +10790,9 @@
 [submodule "MedianaDesigner"]
 	path = MedianaDesigner
 	url = https://github.com/cran/MedianaDesigner
+[submodule "MedxR"]
+	path = MedxR
+	url = https://github.com/cran/MedxR
 [submodule "MendelianRandomization"]
 	path = MendelianRandomization
 	url = https://github.com/cran/MendelianRandomization
@@ -20447,6 +20453,9 @@
 [submodule "ZIDW"]
 	path = ZIDW
 	url = https://github.com/cran/ZIDW
+[submodule "ZIHINAR1"]
+	path = ZIHINAR1
+	url = https://github.com/cran/ZIHINAR1
 [submodule "ZIM"]
 	path = ZIM
 	url = https://github.com/cran/ZIM
@@ -29090,6 +29099,9 @@
 [submodule "datardis"]
 	path = datardis
 	url = https://github.com/cran/datardis
+[submodule "datareportR"]
+	path = datareportR
+	url = https://github.com/cran/datareportR
 [submodule "dataresqc"]
 	path = dataresqc
 	url = https://github.com/cran/dataresqc
