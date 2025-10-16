@@ -11543,6 +11543,9 @@
 [submodule "NO.PING.PONG"]
 	path = NO.PING.PONG
 	url = https://github.com/cran/NO.PING.PONG
+[submodule "NOVA"]
+	path = NOVA
+	url = https://github.com/cran/NOVA
 [submodule "NPBBBDAefficiency"]
 	path = NPBBBDAefficiency
 	url = https://github.com/cran/NPBBBDAefficiency
@@ -27119,6 +27122,9 @@
 [submodule "commafree"]
 	path = commafree
 	url = https://github.com/cran/commafree
+[submodule "command"]
+	path = command
+	url = https://github.com/cran/command
 [submodule "commecometrics"]
 	path = commecometrics
 	url = https://github.com/cran/commecometrics
@@ -28070,6 +28076,9 @@
 [submodule "cpp11qpdf"]
 	path = cpp11qpdf
 	url = https://github.com/cran/cpp11qpdf
+[submodule "cpp4r"]
+	path = cpp4r
+	url = https://github.com/cran/cpp4r
 [submodule "cppRouting"]
 	path = cppRouting
 	url = https://github.com/cran/cppRouting
@@ -65498,6 +65507,9 @@
 [submodule "tomba"]
 	path = tomba
 	url = https://github.com/cran/tomba
+[submodule "toml"]
+	path = toml
+	url = https://github.com/cran/toml
 [submodule "tomledit"]
 	path = tomledit
 	url = https://github.com/cran/tomledit
