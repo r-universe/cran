@@ -1652,6 +1652,9 @@
 [submodule "BayesfMRI"]
 	path = BayesfMRI
 	url = https://github.com/cran/BayesfMRI
+[submodule "BayesianDisaggregation"]
+	path = BayesianDisaggregation
+	url = https://github.com/cran/BayesianDisaggregation
 [submodule "BayesianFactorZoo"]
 	path = BayesianFactorZoo
 	url = https://github.com/cran/BayesianFactorZoo
@@ -13904,6 +13907,9 @@
 [submodule "QuadratiK"]
 	path = QuadratiK
 	url = https://github.com/cran/QuadratiK
+[submodule "QualityMeasure"]
+	path = QualityMeasure
+	url = https://github.com/cran/QualityMeasure
 [submodule "Quandl"]
 	path = Quandl
 	url = https://github.com/cran/Quandl
@@ -24275,6 +24281,9 @@
 [submodule "bootf2"]
 	path = bootf2
 	url = https://github.com/cran/bootf2
+[submodule "bootkmeans"]
+	path = bootkmeans
+	url = https://github.com/cran/bootkmeans
 [submodule "bootnet"]
 	path = bootnet
 	url = https://github.com/cran/bootnet
@@ -24479,6 +24488,9 @@
 [submodule "brew"]
 	path = brew
 	url = https://github.com/cran/brew
+[submodule "brfinance"]
+	path = brfinance
+	url = https://github.com/cran/brfinance
 [submodule "brglm"]
 	path = brglm
 	url = https://github.com/cran/brglm
@@ -29717,6 +29729,9 @@
 [submodule "descsuppR"]
 	path = descsuppR
 	url = https://github.com/cran/descsuppR
+[submodule "descsuppRplots"]
+	path = descsuppRplots
+	url = https://github.com/cran/descsuppRplots
 [submodule "desctable"]
 	path = desctable
 	url = https://github.com/cran/desctable
@@ -30236,6 +30251,9 @@
 [submodule "dispeRse"]
 	path = dispeRse
 	url = https://github.com/cran/dispeRse
+[submodule "dispersionIndicators"]
+	path = dispersionIndicators
+	url = https://github.com/cran/dispersionIndicators
 [submodule "displease"]
 	path = displease
 	url = https://github.com/cran/displease
@@ -32204,6 +32222,9 @@
 [submodule "envoutliers"]
 	path = envoutliers
 	url = https://github.com/cran/envoutliers
+[submodule "envsetup"]
+	path = envsetup
+	url = https://github.com/cran/envsetup
 [submodule "envstat"]
 	path = envstat
 	url = https://github.com/cran/envstat
@@ -32720,6 +32741,9 @@
 [submodule "eventglm"]
 	path = eventglm
 	url = https://github.com/cran/eventglm
+[submodule "eventreport"]
+	path = eventreport
+	url = https://github.com/cran/eventreport
 [submodule "eventstream"]
 	path = eventstream
 	url = https://github.com/cran/eventstream
@@ -53708,6 +53732,9 @@
 [submodule "qape"]
 	path = qape
 	url = https://github.com/cran/qape
+[submodule "qatarcars"]
+	path = qatarcars
+	url = https://github.com/cran/qatarcars
 [submodule "qbinplots"]
 	path = qbinplots
 	url = https://github.com/cran/qbinplots
@@ -59456,6 +59483,9 @@
 [submodule "sensitivityCalibration"]
 	path = sensitivityCalibration
 	url = https://github.com/cran/sensitivityCalibration
+[submodule "sensitivityIxJ"]
+	path = sensitivityIxJ
+	url = https://github.com/cran/sensitivityIxJ
 [submodule "sensitivityfull"]
 	path = sensitivityfull
 	url = https://github.com/cran/sensitivityfull
@@ -60863,6 +60893,9 @@
 [submodule "skewunit"]
 	path = skewunit
 	url = https://github.com/cran/skewunit
+[submodule "skiftiTools"]
+	path = skiftiTools
+	url = https://github.com/cran/skiftiTools
 [submodule "skilljaR"]
 	path = skilljaR
 	url = https://github.com/cran/skilljaR
@@ -65381,6 +65414,9 @@
 [submodule "tmaptools"]
 	path = tmaptools
 	url = https://github.com/cran/tmaptools
+[submodule "tmapverse"]
+	path = tmapverse
+	url = https://github.com/cran/tmapverse
 [submodule "tmbstan"]
 	path = tmbstan
 	url = https://github.com/cran/tmbstan
