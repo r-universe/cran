@@ -10460,6 +10460,9 @@
 [submodule "MSTest"]
 	path = MSTest
 	url = https://github.com/cran/MSTest
+[submodule "MSUthemes"]
+	path = MSUthemes
+	url = https://github.com/cran/MSUthemes
 [submodule "MSbox"]
 	path = MSbox
 	url = https://github.com/cran/MSbox
@@ -26534,6 +26537,9 @@
 [submodule "clusterCrit"]
 	path = clusterCrit
 	url = https://github.com/cran/clusterCrit
+[submodule "clusterGGM"]
+	path = clusterGGM
+	url = https://github.com/cran/clusterGGM
 [submodule "clusterGeneration"]
 	path = clusterGeneration
 	url = https://github.com/cran/clusterGeneration
@@ -47507,6 +47513,9 @@
 [submodule "mvabund"]
 	path = mvabund
 	url = https://github.com/cran/mvabund
+[submodule "mvalpha"]
+	path = mvalpha
+	url = https://github.com/cran/mvalpha
 [submodule "mvbutils"]
 	path = mvbutils
 	url = https://github.com/cran/mvbutils
@@ -47849,6 +47858,9 @@
 [submodule "nbody"]
 	path = nbody
 	url = https://github.com/cran/nbody
+[submodule "nbpInference"]
+	path = nbpInference
+	url = https://github.com/cran/nbpInference
 [submodule "nbpMatching"]
 	path = nbpMatching
 	url = https://github.com/cran/nbpMatching
@@ -50543,6 +50555,9 @@
 [submodule "partialised"]
 	path = partialised
 	url = https://github.com/cran/partialised
+[submodule "partialling.out"]
+	path = partialling.out
+	url = https://github.com/cran/partialling.out
 [submodule "particle.swarm.optimisation"]
 	path = particle.swarm.optimisation
 	url = https://github.com/cran/particle.swarm.optimisation
