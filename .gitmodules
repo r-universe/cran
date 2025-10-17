@@ -33329,9 +33329,6 @@
 [submodule "factory"]
 	path = factory
 	url = https://github.com/cran/factory
-[submodule "factset.analyticsapi.engines"]
-	path = factset.analyticsapi.engines
-	url = https://github.com/cran/factset.analyticsapi.engines
 [submodule "factset.protobuf.stach.v2"]
 	path = factset.protobuf.stach.v2
 	url = https://github.com/cran/factset.protobuf.stach.v2
