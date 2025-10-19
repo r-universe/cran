@@ -6638,9 +6638,6 @@
 [submodule "GGMridge"]
 	path = GGMridge
 	url = https://github.com/cran/GGMridge
-[submodule "GGMselect"]
-	path = GGMselect
-	url = https://github.com/cran/GGMselect
 [submodule "GGRidge"]
 	path = GGRidge
 	url = https://github.com/cran/GGRidge
@@ -31529,9 +31526,6 @@
 [submodule "ecespa"]
 	path = ecespa
 	url = https://github.com/cran/ecespa
-[submodule "ech"]
-	path = ech
-	url = https://github.com/cran/ech
 [submodule "echarts4r"]
 	path = echarts4r
 	url = https://github.com/cran/echarts4r
@@ -36293,9 +36287,6 @@
 [submodule "geotopbricks"]
 	path = geotopbricks
 	url = https://github.com/cran/geotopbricks
-[submodule "geouy"]
-	path = geouy
-	url = https://github.com/cran/geouy
 [submodule "geovol"]
 	path = geovol
 	url = https://github.com/cran/geovol
@@ -60317,9 +60308,6 @@
 [submodule "shipunov"]
 	path = shipunov
 	url = https://github.com/cran/shipunov
-[submodule "shock"]
-	path = shock
-	url = https://github.com/cran/shock
 [submodule "shopifyadsR"]
 	path = shopifyadsR
 	url = https://github.com/cran/shopifyadsR
