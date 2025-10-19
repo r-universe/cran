@@ -14957,6 +14957,9 @@
 [submodule "RPEnsemble"]
 	path = RPEnsemble
 	url = https://github.com/cran/RPEnsemble
+[submodule "RPIV"]
+	path = RPIV
+	url = https://github.com/cran/RPIV
 [submodule "RPMG"]
 	path = RPMG
 	url = https://github.com/cran/RPMG
@@ -42905,6 +42908,9 @@
 [submodule "lightr"]
 	path = lightr
 	url = https://github.com/cran/lightr
+[submodule "lightsf"]
+	path = lightsf
+	url = https://github.com/cran/lightsf
 [submodule "lightsout"]
 	path = lightsout
 	url = https://github.com/cran/lightsout
