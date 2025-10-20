@@ -61982,6 +61982,9 @@
 [submodule "spect"]
 	path = spect
 	url = https://github.com/cran/spect
+[submodule "spectacles"]
+	path = spectacles
+	url = https://github.com/cran/spectacles
 [submodule "spectator"]
 	path = spectator
 	url = https://github.com/cran/spectator
