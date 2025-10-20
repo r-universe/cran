@@ -5969,6 +5969,9 @@
 [submodule "FSelectorRcpp"]
 	path = FSelectorRcpp
 	url = https://github.com/cran/FSelectorRcpp
+[submodule "FSinR"]
+	path = FSinR
+	url = https://github.com/cran/FSinR
 [submodule "FTSgof"]
 	path = FTSgof
 	url = https://github.com/cran/FTSgof
@@ -17939,6 +17942,9 @@
 [submodule "SimpleUpset"]
 	path = SimpleUpset
 	url = https://github.com/cran/SimpleUpset
+[submodule "SimplicialComplex"]
+	path = SimplicialComplex
+	url = https://github.com/cran/SimplicialComplex
 [submodule "SimplicialCubature"]
 	path = SimplicialCubature
 	url = https://github.com/cran/SimplicialCubature
@@ -23543,6 +23549,9 @@
 [submodule "bigMap"]
 	path = bigMap
 	url = https://github.com/cran/bigMap
+[submodule "bigPCAcpp"]
+	path = bigPCAcpp
+	url = https://github.com/cran/bigPCAcpp
 [submodule "bigQF"]
 	path = bigQF
 	url = https://github.com/cran/bigQF
@@ -27167,6 +27176,9 @@
 [submodule "comorosmaps"]
 	path = comorosmaps
 	url = https://github.com/cran/comorosmaps
+[submodule "compIndexBuilder"]
+	path = compIndexBuilder
+	url = https://github.com/cran/compIndexBuilder
 [submodule "comparator"]
 	path = comparator
 	url = https://github.com/cran/comparator
@@ -33653,6 +33665,9 @@
 [submodule "fat2Lpoly"]
 	path = fat2Lpoly
 	url = https://github.com/cran/fat2Lpoly
+[submodule "faunabr"]
+	path = faunabr
+	url = https://github.com/cran/faunabr
 [submodule "faux"]
 	path = faux
 	url = https://github.com/cran/faux
@@ -57422,6 +57437,9 @@
 [submodule "rorqual.morpho"]
 	path = rorqual.morpho
 	url = https://github.com/cran/rorqual.morpho
+[submodule "rosario"]
+	path = rosario
+	url = https://github.com/cran/rosario
 [submodule "roseRF"]
 	path = roseRF
 	url = https://github.com/cran/roseRF
