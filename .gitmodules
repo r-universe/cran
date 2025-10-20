@@ -21983,6 +21983,9 @@
 [submodule "arenar"]
 	path = arenar
 	url = https://github.com/cran/arenar
+[submodule "arete"]
+	path = arete
+	url = https://github.com/cran/arete
 [submodule "arf"]
 	path = arf
 	url = https://github.com/cran/arf
@@ -35177,6 +35180,9 @@
 [submodule "funStatTest"]
 	path = funStatTest
 	url = https://github.com/cran/funStatTest
+[submodule "funbootband"]
+	path = funbootband
+	url = https://github.com/cran/funbootband
 [submodule "func2vis"]
 	path = func2vis
 	url = https://github.com/cran/func2vis
