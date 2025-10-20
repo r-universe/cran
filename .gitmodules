@@ -3563,6 +3563,9 @@
 [submodule "Correlplot"]
 	path = Correlplot
 	url = https://github.com/cran/Correlplot
+[submodule "CortSineScore"]
+	path = CortSineScore
+	url = https://github.com/cran/CortSineScore
 [submodule "Counterfactual"]
 	path = Counterfactual
 	url = https://github.com/cran/Counterfactual
@@ -32411,6 +32414,9 @@
 [submodule "epm"]
 	path = epm
 	url = https://github.com/cran/epm
+[submodule "epmfd"]
+	path = epmfd
+	url = https://github.com/cran/epmfd
 [submodule "epmrob"]
 	path = epmrob
 	url = https://github.com/cran/epmrob
@@ -66338,6 +66344,9 @@
 [submodule "ttdo"]
 	path = ttdo
 	url = https://github.com/cran/ttdo
+[submodule "tteICE"]
+	path = tteICE
+	url = https://github.com/cran/tteICE
 [submodule "tth"]
 	path = tth
 	url = https://github.com/cran/tth
