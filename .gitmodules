@@ -6311,6 +6311,9 @@
 [submodule "FrF2.catlg128"]
 	path = FrF2.catlg128
 	url = https://github.com/cran/FrF2.catlg128
+[submodule "FracFixR"]
+	path = FracFixR
+	url = https://github.com/cran/FracFixR
 [submodule "FracKrigingR"]
 	path = FracKrigingR
 	url = https://github.com/cran/FracKrigingR
