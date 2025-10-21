@@ -16085,6 +16085,9 @@
 [submodule "Rfssa"]
 	path = Rfssa
 	url = https://github.com/cran/Rfssa
+[submodule "Rfuzzycoco"]
+	path = Rfuzzycoco
+	url = https://github.com/cran/Rfuzzycoco
 [submodule "Rgbp"]
 	path = Rgbp
 	url = https://github.com/cran/Rgbp
@@ -31586,6 +31589,9 @@
 [submodule "ecmwfr"]
 	path = ecmwfr
 	url = https://github.com/cran/ecmwfr
+[submodule "eco"]
+	path = eco
+	url = https://github.com/cran/eco
 [submodule "ecoCopula"]
 	path = ecoCopula
 	url = https://github.com/cran/ecoCopula
@@ -32750,6 +32756,9 @@
 [submodule "evaluate"]
 	path = evaluate
 	url = https://github.com/cran/evaluate
+[submodule "evanverse"]
+	path = evanverse
+	url = https://github.com/cran/evanverse
 [submodule "evapoRe"]
 	path = evapoRe
 	url = https://github.com/cran/evapoRe
@@ -50294,6 +50303,9 @@
 [submodule "pairwiseCI"]
 	path = pairwiseCI
 	url = https://github.com/cran/pairwiseCI
+[submodule "paisaje"]
+	path = paisaje
+	url = https://github.com/cran/paisaje
 [submodule "pak"]
 	path = pak
 	url = https://github.com/cran/pak
