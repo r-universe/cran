@@ -533,6 +533,9 @@
 [submodule "AgePopDenom"]
 	path = AgePopDenom
 	url = https://github.com/cran/AgePopDenom
+[submodule "AgeTopicModels"]
+	path = AgeTopicModels
+	url = https://github.com/cran/AgeTopicModels
 [submodule "AggregateR"]
 	path = AggregateR
 	url = https://github.com/cran/AggregateR
@@ -4958,6 +4961,9 @@
 [submodule "EFDR"]
 	path = EFDR
 	url = https://github.com/cran/EFDR
+[submodule "EFM"]
+	path = EFM
+	url = https://github.com/cran/EFM
 [submodule "EGAnet"]
 	path = EGAnet
 	url = https://github.com/cran/EGAnet
@@ -6665,6 +6671,9 @@
 [submodule "GHRexplore"]
 	path = GHRexplore
 	url = https://github.com/cran/GHRexplore
+[submodule "GHRmodel"]
+	path = GHRmodel
+	url = https://github.com/cran/GHRmodel
 [submodule "GHS"]
 	path = GHS
 	url = https://github.com/cran/GHS
@@ -9164,6 +9173,9 @@
 [submodule "LLMTranslate"]
 	path = LLMTranslate
 	url = https://github.com/cran/LLMTranslate
+[submodule "LLMing"]
+	path = LLMing
+	url = https://github.com/cran/LLMing
 [submodule "LLSR"]
 	path = LLSR
 	url = https://github.com/cran/LLSR
@@ -64550,6 +64562,9 @@
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/cran/testthat
+[submodule "testthatdocs"]
+	path = testthatdocs
+	url = https://github.com/cran/testthatdocs
 [submodule "testthatmulti"]
 	path = testthatmulti
 	url = https://github.com/cran/testthatmulti
