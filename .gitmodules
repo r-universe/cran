@@ -23666,9 +23666,6 @@
 [submodule "billboarder"]
 	path = billboarder
 	url = https://github.com/cran/billboarder
-[submodule "bimets"]
-	path = bimets
-	url = https://github.com/cran/bimets
 [submodule "binGroup"]
 	path = binGroup
 	url = https://github.com/cran/binGroup
