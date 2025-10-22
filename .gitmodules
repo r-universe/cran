@@ -2327,6 +2327,9 @@
 [submodule "CFF"]
 	path = CFF
 	url = https://github.com/cran/CFF
+[submodule "CFM"]
+	path = CFM
+	url = https://github.com/cran/CFM
 [submodule "CFO"]
 	path = CFO
 	url = https://github.com/cran/CFO
@@ -11684,6 +11687,9 @@
 [submodule "NbClust"]
 	path = NbClust
 	url = https://github.com/cran/NbClust
+[submodule "NeEDS4BigData"]
+	path = NeEDS4BigData
+	url = https://github.com/cran/NeEDS4BigData
 [submodule "Necklaces"]
 	path = Necklaces
 	url = https://github.com/cran/Necklaces
@@ -12128,6 +12134,9 @@
 [submodule "OmopConstructor"]
 	path = OmopConstructor
 	url = https://github.com/cran/OmopConstructor
+[submodule "OmopOnSpark"]
+	path = OmopOnSpark
+	url = https://github.com/cran/OmopOnSpark
 [submodule "OmopSketch"]
 	path = OmopSketch
 	url = https://github.com/cran/OmopSketch
@@ -22991,6 +23000,9 @@
 [submodule "bayesQR"]
 	path = bayesQR
 	url = https://github.com/cran/bayesQR
+[submodule "bayesQRsurvey"]
+	path = bayesQRsurvey
+	url = https://github.com/cran/bayesQRsurvey
 [submodule "bayesROE"]
 	path = bayesROE
 	url = https://github.com/cran/bayesROE
@@ -26081,6 +26093,9 @@
 [submodule "chyper"]
 	path = chyper
 	url = https://github.com/cran/chyper
+[submodule "ci"]
+	path = ci
+	url = https://github.com/cran/ci
 [submodule "ciCalibrate"]
 	path = ciCalibrate
 	url = https://github.com/cran/ciCalibrate
@@ -44741,6 +44756,9 @@
 [submodule "mcmcse"]
 	path = mcmcse
 	url = https://github.com/cran/mcmcse
+[submodule "mcmodule"]
+	path = mcmodule
+	url = https://github.com/cran/mcmodule
 [submodule "mcmsupply"]
 	path = mcmsupply
 	url = https://github.com/cran/mcmsupply
@@ -58973,6 +58991,9 @@
 [submodule "scenes"]
 	path = scenes
 	url = https://github.com/cran/scenes
+[submodule "scf"]
+	path = scf
+	url = https://github.com/cran/scf
 [submodule "scgwr"]
 	path = scgwr
 	url = https://github.com/cran/scgwr
@@ -65333,6 +65354,9 @@
 [submodule "timsac"]
 	path = timsac
 	url = https://github.com/cran/timsac
+[submodule "tind"]
+	path = tind
+	url = https://github.com/cran/tind
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/cran/tinkr
