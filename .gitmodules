@@ -13727,9 +13727,6 @@
 [submodule "PubMedWordcloud"]
 	path = PubMedWordcloud
 	url = https://github.com/cran/PubMedWordcloud
-[submodule "PublicWorksFinanceIT"]
-	path = PublicWorksFinanceIT
-	url = https://github.com/cran/PublicWorksFinanceIT
 [submodule "PublicationBias"]
 	path = PublicationBias
 	url = https://github.com/cran/PublicationBias
