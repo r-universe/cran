@@ -1298,6 +1298,9 @@
 [submodule "BRL"]
 	path = BRL
 	url = https://github.com/cran/BRL
+[submodule "BRPL"]
+	path = BRPL
+	url = https://github.com/cran/BRPL
 [submodule "BRcal"]
 	path = BRcal
 	url = https://github.com/cran/BRcal
@@ -21485,6 +21488,9 @@
 [submodule "alphavantager"]
 	path = alphavantager
 	url = https://github.com/cran/alphavantager
+[submodule "alpmixBayes"]
+	path = alpmixBayes
+	url = https://github.com/cran/alpmixBayes
 [submodule "alqrfe"]
 	path = alqrfe
 	url = https://github.com/cran/alqrfe
