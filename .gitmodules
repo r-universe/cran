@@ -67916,6 +67916,9 @@
 [submodule "warabandi"]
 	path = warabandi
 	url = https://github.com/cran/warabandi
+[submodule "warbleR"]
+	path = warbleR
+	url = https://github.com/cran/warbleR
 [submodule "warehouseTools"]
 	path = warehouseTools
 	url = https://github.com/cran/warehouseTools
