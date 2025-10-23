@@ -3383,6 +3383,9 @@
 [submodule "CompositionalRF"]
 	path = CompositionalRF
 	url = https://github.com/cran/CompositionalRF
+[submodule "CompositionalSR"]
+	path = CompositionalSR
+	url = https://github.com/cran/CompositionalSR
 [submodule "CompoundEvents"]
 	path = CompoundEvents
 	url = https://github.com/cran/CompoundEvents
@@ -56087,6 +56090,9 @@
 [submodule "relgam"]
 	path = relgam
 	url = https://github.com/cran/relgam
+[submodule "reliaR"]
+	path = reliaR
+	url = https://github.com/cran/reliaR
 [submodule "reliabilitydiag"]
 	path = reliabilitydiag
 	url = https://github.com/cran/reliabilitydiag
@@ -63413,6 +63419,9 @@
 [submodule "summclust"]
 	path = summclust
 	url = https://github.com/cran/summclust
+[submodule "sumup"]
+	path = sumup
+	url = https://github.com/cran/sumup
 [submodule "sumvar"]
 	path = sumvar
 	url = https://github.com/cran/sumvar
