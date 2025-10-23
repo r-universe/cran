@@ -49388,6 +49388,9 @@
 [submodule "ohsome"]
 	path = ohsome
 	url = https://github.com/cran/ohsome
+[submodule "ohun"]
+	path = ohun
+	url = https://github.com/cran/ohun
 [submodule "oii"]
 	path = oii
 	url = https://github.com/cran/oii
