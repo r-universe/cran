@@ -16448,6 +16448,9 @@
 [submodule "Rramas"]
 	path = Rramas
 	url = https://github.com/cran/Rramas
+[submodule "Rraven"]
+	path = Rraven
+	url = https://github.com/cran/Rraven
 [submodule "Rrdap"]
 	path = Rrdap
 	url = https://github.com/cran/Rrdap
@@ -55481,6 +55484,9 @@
 [submodule "rdataretriever"]
 	path = rdataretriever
 	url = https://github.com/cran/rdataretriever
+[submodule "rdav"]
+	path = rdav
+	url = https://github.com/cran/rdav
 [submodule "rdbnomics"]
 	path = rdbnomics
 	url = https://github.com/cran/rdbnomics
