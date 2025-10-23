@@ -52580,6 +52580,9 @@
 [submodule "poset"]
 	path = poset
 	url = https://github.com/cran/poset
+[submodule "poseticDataAnalysis"]
+	path = poseticDataAnalysis
+	url = https://github.com/cran/poseticDataAnalysis
 [submodule "positron.tutorials"]
 	path = positron.tutorials
 	url = https://github.com/cran/positron.tutorials
