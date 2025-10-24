@@ -22646,6 +22646,9 @@
 [submodule "baRcodeR"]
 	path = baRcodeR
 	url = https://github.com/cran/baRcodeR
+[submodule "baRulho"]
+	path = baRulho
+	url = https://github.com/cran/baRulho
 [submodule "babel"]
 	path = babel
 	url = https://github.com/cran/babel
