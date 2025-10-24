@@ -31022,6 +31022,9 @@
 [submodule "dsm"]
 	path = dsm
 	url = https://github.com/cran/dsm
+[submodule "dsmSearch"]
+	path = dsmSearch
+	url = https://github.com/cran/dsmSearch
 [submodule "dsmisc"]
 	path = dsmisc
 	url = https://github.com/cran/dsmisc
@@ -47228,6 +47231,9 @@
 [submodule "multiColl"]
 	path = multiColl
 	url = https://github.com/cran/multiColl
+[submodule "multiDEGGs"]
+	path = multiDEGGs
+	url = https://github.com/cran/multiDEGGs
 [submodule "multiDimBio"]
 	path = multiDimBio
 	url = https://github.com/cran/multiDimBio
