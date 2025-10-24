@@ -22631,9 +22631,6 @@
 [submodule "b64"]
 	path = b64
 	url = https://github.com/cran/b64
-[submodule "bRacatus"]
-	path = bRacatus
-	url = https://github.com/cran/bRacatus
 [submodule "bReeze"]
 	path = bReeze
 	url = https://github.com/cran/bReeze
@@ -27242,9 +27239,6 @@
 [submodule "compareMCMCs"]
 	path = compareMCMCs
 	url = https://github.com/cran/compareMCMCs
-[submodule "comparer"]
-	path = comparer
-	url = https://github.com/cran/comparer
 [submodule "comparison"]
 	path = comparison
 	url = https://github.com/cran/comparison
@@ -33110,9 +33104,6 @@
 [submodule "extractFAERS"]
 	path = extractFAERS
 	url = https://github.com/cran/extractFAERS
-[submodule "extractox"]
-	path = extractox
-	url = https://github.com/cran/extractox
 [submodule "extrafont"]
 	path = extrafont
 	url = https://github.com/cran/extrafont
@@ -33200,9 +33191,6 @@
 [submodule "ezECM"]
 	path = ezECM
 	url = https://github.com/cran/ezECM
-[submodule "ezEDA"]
-	path = ezEDA
-	url = https://github.com/cran/ezEDA
 [submodule "ezTrack"]
 	path = ezTrack
 	url = https://github.com/cran/ezTrack
@@ -53522,9 +53510,6 @@
 [submodule "pstest"]
 	path = pstest
 	url = https://github.com/cran/pstest
-[submodule "psvd"]
-	path = psvd
-	url = https://github.com/cran/psvd
 [submodule "psvmSDR"]
 	path = psvmSDR
 	url = https://github.com/cran/psvmSDR
@@ -56687,9 +56672,6 @@
 [submodule "rhub"]
 	path = rhub
 	url = https://github.com/cran/rhub
-[submodule "rhymer"]
-	path = rhymer
-	url = https://github.com/cran/rhymer
 [submodule "rhype"]
 	path = rhype
 	url = https://github.com/cran/rhype
@@ -59864,9 +59846,6 @@
 [submodule "sgPLS"]
 	path = sgPLS
 	url = https://github.com/cran/sgPLS
-[submodule "sgapi"]
-	path = sgapi
-	url = https://github.com/cran/sgapi
 [submodule "sgboost"]
 	path = sgboost
 	url = https://github.com/cran/sgboost
@@ -62465,9 +62444,6 @@
 [submodule "squat"]
 	path = squat
 	url = https://github.com/cran/squat
-[submodule "squeezy"]
-	path = squeezy
-	url = https://github.com/cran/squeezy
 [submodule "squid"]
 	path = squid
 	url = https://github.com/cran/squid
@@ -65600,9 +65576,6 @@
 [submodule "tnl.Test"]
 	path = tnl.Test
 	url = https://github.com/cran/tnl.Test
-[submodule "tntpr"]
-	path = tntpr
-	url = https://github.com/cran/tntpr
 [submodule "toOrdinal"]
 	path = toOrdinal
 	url = https://github.com/cran/toOrdinal
