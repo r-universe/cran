@@ -9272,6 +9272,9 @@
 [submodule "LRMF3"]
 	path = LRMF3
 	url = https://github.com/cran/LRMF3
+[submodule "LRQVB"]
+	path = LRQVB
+	url = https://github.com/cran/LRQVB
 [submodule "LRTesteR"]
 	path = LRTesteR
 	url = https://github.com/cran/LRTesteR
@@ -13097,6 +13100,9 @@
 [submodule "PanelMatch"]
 	path = PanelMatch
 	url = https://github.com/cran/PanelMatch
+[submodule "PanelSelect"]
+	path = PanelSelect
+	url = https://github.com/cran/PanelSelect
 [submodule "PanelTM"]
 	path = PanelTM
 	url = https://github.com/cran/PanelTM
@@ -18029,6 +18035,9 @@
 [submodule "SlimR"]
 	path = SlimR
 	url = https://github.com/cran/SlimR
+[submodule "SlotLim"]
+	path = SlotLim
+	url = https://github.com/cran/SlotLim
 [submodule "SmallCountRounding"]
 	path = SmallCountRounding
 	url = https://github.com/cran/SmallCountRounding
@@ -27410,6 +27419,9 @@
 [submodule "confidenceCurves"]
 	path = confidenceCurves
 	url = https://github.com/cran/confidenceCurves
+[submodule "confidenceSim"]
+	path = confidenceSim
+	url = https://github.com/cran/confidenceSim
 [submodule "config"]
 	path = config
 	url = https://github.com/cran/config
@@ -59108,6 +59120,9 @@
 [submodule "scoutbaR"]
 	path = scoutbaR
 	url = https://github.com/cran/scoutbaR
+[submodule "scov"]
+	path = scov
+	url = https://github.com/cran/scov
 [submodule "scperturbR"]
 	path = scperturbR
 	url = https://github.com/cran/scperturbR
