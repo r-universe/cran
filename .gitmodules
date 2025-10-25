@@ -4910,9 +4910,6 @@
 [submodule "EDCimport"]
 	path = EDCimport
 	url = https://github.com/cran/EDCimport
-[submodule "EDFtest"]
-	path = EDFtest
-	url = https://github.com/cran/EDFtest
 [submodule "EDISON"]
 	path = EDISON
 	url = https://github.com/cran/EDISON
