@@ -6254,6 +6254,9 @@
 [submodule "FoReco"]
 	path = FoReco
 	url = https://github.com/cran/FoReco
+[submodule "ForCausality"]
+	path = ForCausality
+	url = https://github.com/cran/ForCausality
 [submodule "ForIT"]
 	path = ForIT
 	url = https://github.com/cran/ForIT
@@ -33983,6 +33986,9 @@
 [submodule "ffaframework"]
 	path = ffaframework
 	url = https://github.com/cran/ffaframework
+[submodule "ffiec"]
+	path = ffiec
+	url = https://github.com/cran/ffiec
 [submodule "ffmanova"]
 	path = ffmanova
 	url = https://github.com/cran/ffmanova
@@ -40310,6 +40316,9 @@
 [submodule "imf.data"]
 	path = imf.data
 	url = https://github.com/cran/imf.data
+[submodule "imfapi"]
+	path = imfapi
+	url = https://github.com/cran/imfapi
 [submodule "imfweo"]
 	path = imfweo
 	url = https://github.com/cran/imfweo
@@ -40715,6 +40724,9 @@
 [submodule "integr"]
 	path = integr
 	url = https://github.com/cran/integr
+[submodule "inteli"]
+	path = inteli
+	url = https://github.com/cran/inteli
 [submodule "intendo"]
 	path = intendo
 	url = https://github.com/cran/intendo
@@ -42440,6 +42452,9 @@
 [submodule "lassopv"]
 	path = lassopv
 	url = https://github.com/cran/lassopv
+[submodule "latbias"]
+	path = latbias
+	url = https://github.com/cran/latbias
 [submodule "latcontrol"]
 	path = latcontrol
 	url = https://github.com/cran/latcontrol
@@ -61367,6 +61382,9 @@
 [submodule "snha"]
 	path = snha
 	url = https://github.com/cran/snha
+[submodule "snirh.lab"]
+	path = snirh.lab
+	url = https://github.com/cran/snirh.lab
 [submodule "snn"]
 	path = snn
 	url = https://github.com/cran/snn
