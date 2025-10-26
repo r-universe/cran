@@ -27587,6 +27587,9 @@
 [submodule "contentid"]
 	path = contentid
 	url = https://github.com/cran/contentid
+[submodule "contextFind"]
+	path = contextFind
+	url = https://github.com/cran/contextFind
 [submodule "contfrac"]
 	path = contfrac
 	url = https://github.com/cran/contfrac
@@ -32990,6 +32993,9 @@
 [submodule "exceldata"]
 	path = exceldata
 	url = https://github.com/cran/exceldata
+[submodule "excerptr"]
+	path = excerptr
+	url = https://github.com/cran/excerptr
 [submodule "excessmort"]
 	path = excessmort
 	url = https://github.com/cran/excessmort
@@ -33419,6 +33425,9 @@
 [submodule "fail"]
 	path = fail
 	url = https://github.com/cran/fail
+[submodule "fairGNN"]
+	path = fairGNN
+	url = https://github.com/cran/fairGNN
 [submodule "fairadapt"]
 	path = fairadapt
 	url = https://github.com/cran/fairadapt
