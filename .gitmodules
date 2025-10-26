@@ -16475,6 +16475,9 @@
 [submodule "Rsconctdply"]
 	path = Rsconctdply
 	url = https://github.com/cran/Rsconctdply
+[submodule "Rsearch"]
+	path = Rsearch
+	url = https://github.com/cran/Rsearch
 [submodule "Rserve"]
 	path = Rserve
 	url = https://github.com/cran/Rserve
@@ -42716,6 +42719,9 @@
 [submodule "leaftime"]
 	path = leaftime
 	url = https://github.com/cran/leaftime
+[submodule "leakr"]
+	path = leakr
+	url = https://github.com/cran/leakr
 [submodule "leakyIV"]
 	path = leakyIV
 	url = https://github.com/cran/leakyIV
