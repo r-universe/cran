@@ -40808,9 +40808,6 @@
 [submodule "interpolators"]
 	path = interpolators
 	url = https://github.com/cran/interpolators
-[submodule "interpret"]
-	path = interpret
-	url = https://github.com/cran/interpret
 [submodule "interpretCI"]
 	path = interpretCI
 	url = https://github.com/cran/interpretCI
