@@ -3677,6 +3677,9 @@
 [submodule "CsChange"]
 	path = CsChange
 	url = https://github.com/cran/CsChange
+[submodule "CspStandSegmentation"]
+	path = CspStandSegmentation
+	url = https://github.com/cran/CspStandSegmentation
 [submodule "Cubist"]
 	path = Cubist
 	url = https://github.com/cran/Cubist
@@ -7691,6 +7694,9 @@
 [submodule "HPLB"]
 	path = HPLB
 	url = https://github.com/cran/HPLB
+[submodule "HPZoneAPI"]
+	path = HPZoneAPI
+	url = https://github.com/cran/HPZoneAPI
 [submodule "HQM"]
 	path = HQM
 	url = https://github.com/cran/HQM
@@ -31511,6 +31517,9 @@
 [submodule "easylabel"]
 	path = easylabel
 	url = https://github.com/cran/easylabel
+[submodule "easynem"]
+	path = easynem
+	url = https://github.com/cran/easynem
 [submodule "easynls"]
 	path = easynls
 	url = https://github.com/cran/easynls
@@ -35690,6 +35699,9 @@
 [submodule "gander"]
 	path = gander
 	url = https://github.com/cran/gander
+[submodule "ganttify"]
+	path = ganttify
+	url = https://github.com/cran/ganttify
 [submodule "gap"]
 	path = gap
 	url = https://github.com/cran/gap
@@ -42251,6 +42263,9 @@
 [submodule "ksharp"]
 	path = ksharp
 	url = https://github.com/cran/ksharp
+[submodule "ksm"]
+	path = ksm
+	url = https://github.com/cran/ksm
 [submodule "ksrlive"]
 	path = ksrlive
 	url = https://github.com/cran/ksrlive
@@ -46619,6 +46634,9 @@
 [submodule "modeltools"]
 	path = modeltools
 	url = https://github.com/cran/modeltools
+[submodule "modeltuning"]
+	path = modeltuning
+	url = https://github.com/cran/modeltuning
 [submodule "modelwordcloud"]
 	path = modelwordcloud
 	url = https://github.com/cran/modelwordcloud
@@ -62081,6 +62099,9 @@
 [submodule "spdesign"]
 	path = spdesign
 	url = https://github.com/cran/spdesign
+[submodule "spdgp"]
+	path = spdgp
+	url = https://github.com/cran/spdgp
 [submodule "spdl"]
 	path = spdl
 	url = https://github.com/cran/spdl
