@@ -29939,9 +29939,6 @@
 [submodule "devFunc"]
 	path = devFunc
 	url = https://github.com/cran/devFunc
-[submodule "devRate"]
-	path = devRate
-	url = https://github.com/cran/devRate
 [submodule "devianLM"]
 	path = devianLM
 	url = https://github.com/cran/devianLM
