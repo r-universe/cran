@@ -7457,6 +7457,9 @@
 [submodule "Guerry"]
 	path = Guerry
 	url = https://github.com/cran/Guerry
+[submodule "GulFM"]
+	path = GulFM
+	url = https://github.com/cran/GulFM
 [submodule "GxEScanR"]
 	path = GxEScanR
 	url = https://github.com/cran/GxEScanR
@@ -18923,6 +18926,9 @@
 [submodule "TH.data"]
 	path = TH.data
 	url = https://github.com/cran/TH.data
+[submodule "THETASVM"]
+	path = THETASVM
+	url = https://github.com/cran/THETASVM
 [submodule "THREC"]
 	path = THREC
 	url = https://github.com/cran/THREC
@@ -21167,6 +21173,9 @@
 [submodule "afmToolkit"]
 	path = afmToolkit
 	url = https://github.com/cran/afmToolkit
+[submodule "afmpar"]
+	path = afmpar
+	url = https://github.com/cran/afmpar
 [submodule "afpt"]
 	path = afpt
 	url = https://github.com/cran/afpt
@@ -39008,6 +39017,9 @@
 [submodule "hetGP"]
 	path = hetGP
 	url = https://github.com/cran/hetGP
+[submodule "hetcorFS"]
+	path = hetcorFS
+	url = https://github.com/cran/hetcorFS
 [submodule "heterocop"]
 	path = heterocop
 	url = https://github.com/cran/heterocop
@@ -39893,6 +39905,9 @@
 [submodule "iSTATS"]
 	path = iSTATS
 	url = https://github.com/cran/iSTATS
+[submodule "iSTAY"]
+	path = iSTAY
+	url = https://github.com/cran/iSTAY
 [submodule "iSubGen"]
 	path = iSubGen
 	url = https://github.com/cran/iSubGen
@@ -54740,6 +54755,9 @@
 [submodule "rSDI"]
 	path = rSDI
 	url = https://github.com/cran/rSDI
+[submodule "rSDR"]
+	path = rSDR
+	url = https://github.com/cran/rSDR
 [submodule "rSEA"]
 	path = rSEA
 	url = https://github.com/cran/rSEA
@@ -57422,6 +57440,9 @@
 [submodule "rockx"]
 	path = rockx
 	url = https://github.com/cran/rockx
+[submodule "roclab"]
+	path = roclab
+	url = https://github.com/cran/roclab
 [submodule "roclang"]
 	path = roclang
 	url = https://github.com/cran/roclang
