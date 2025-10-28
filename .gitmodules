@@ -52013,6 +52013,9 @@
 [submodule "pleio"]
 	path = pleio
 	url = https://github.com/cran/pleio
+[submodule "pleioh2g"]
+	path = pleioh2g
+	url = https://github.com/cran/pleioh2g
 [submodule "pleiotest"]
 	path = pleiotest
 	url = https://github.com/cran/pleiotest
