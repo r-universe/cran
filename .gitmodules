@@ -55568,6 +55568,9 @@
 [submodule "rddi"]
 	path = rddi
 	url = https://github.com/cran/rddi
+[submodule "rddtools"]
+	path = rddtools
+	url = https://github.com/cran/rddtools
 [submodule "rde"]
 	path = rde
 	url = https://github.com/cran/rde
