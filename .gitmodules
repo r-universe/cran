@@ -1595,6 +1595,9 @@
 [submodule "BayesPostEst"]
 	path = BayesPostEst
 	url = https://github.com/cran/BayesPostEst
+[submodule "BayesPower"]
+	path = BayesPower
+	url = https://github.com/cran/BayesPower
 [submodule "BayesProject"]
 	path = BayesProject
 	url = https://github.com/cran/BayesProject
@@ -6023,6 +6026,9 @@
 [submodule "FactorCopula"]
 	path = FactorCopula
 	url = https://github.com/cran/FactorCopula
+[submodule "FactorCopulaModel"]
+	path = FactorCopulaModel
+	url = https://github.com/cran/FactorCopulaModel
 [submodule "FactorHet"]
 	path = FactorHet
 	url = https://github.com/cran/FactorHet
@@ -31799,6 +31805,9 @@
 [submodule "eda4treeR"]
 	path = eda4treeR
 	url = https://github.com/cran/eda4treeR
+[submodule "edar"]
+	path = edar
+	url = https://github.com/cran/edar
 [submodule "edcpR"]
 	path = edcpR
 	url = https://github.com/cran/edcpR
@@ -45860,6 +45869,9 @@
 [submodule "minired"]
 	path = minired
 	url = https://github.com/cran/minired
+[submodule "minorparties"]
+	path = minorparties
+	url = https://github.com/cran/minorparties
 [submodule "minpack.lm"]
 	path = minpack.lm
 	url = https://github.com/cran/minpack.lm
@@ -49727,6 +49739,9 @@
 [submodule "openeo"]
 	path = openeo
 	url = https://github.com/cran/openeo
+[submodule "openesm"]
+	path = openesm
+	url = https://github.com/cran/openesm
 [submodule "opengraph"]
 	path = opengraph
 	url = https://github.com/cran/opengraph
@@ -53321,6 +53336,9 @@
 [submodule "projmgr"]
 	path = projmgr
 	url = https://github.com/cran/projmgr
+[submodule "projoint"]
+	path = projoint
+	url = https://github.com/cran/projoint
 [submodule "projpred"]
 	path = projpred
 	url = https://github.com/cran/projpred
@@ -58676,6 +58694,9 @@
 [submodule "samplesizelogisticcasecontrol"]
 	path = samplesizelogisticcasecontrol
 	url = https://github.com/cran/samplesizelogisticcasecontrol
+[submodule "samplex"]
+	path = samplex
+	url = https://github.com/cran/samplex
 [submodule "samplezoo"]
 	path = samplezoo
 	url = https://github.com/cran/samplezoo
@@ -59300,6 +59321,9 @@
 [submodule "sdamr"]
 	path = sdamr
 	url = https://github.com/cran/sdamr
+[submodule "sdbuildR"]
+	path = sdbuildR
+	url = https://github.com/cran/sdbuildR
 [submodule "sdcHierarchies"]
 	path = sdcHierarchies
 	url = https://github.com/cran/sdcHierarchies
@@ -63614,6 +63638,9 @@
 [submodule "survBootOutliers"]
 	path = survBootOutliers
 	url = https://github.com/cran/survBootOutliers
+[submodule "survC"]
+	path = survC
+	url = https://github.com/cran/survC
 [submodule "survC1"]
 	path = survC1
 	url = https://github.com/cran/survC1
