@@ -7049,9 +7049,6 @@
 [submodule "GWASbyCluster"]
 	path = GWASbyCluster
 	url = https://github.com/cran/GWASbyCluster
-[submodule "GWASinlps"]
-	path = GWASinlps
-	url = https://github.com/cran/GWASinlps
 [submodule "GWASinspector"]
 	path = GWASinspector
 	url = https://github.com/cran/GWASinspector
