@@ -31268,6 +31268,9 @@
 [submodule "dynRB"]
 	path = dynRB
 	url = https://github.com/cran/dynRB
+[submodule "dynaSpec"]
+	path = dynaSpec
+	url = https://github.com/cran/dynaSpec
 [submodule "dynaTree"]
 	path = dynaTree
 	url = https://github.com/cran/dynaTree
