@@ -1622,6 +1622,9 @@
 [submodule "BayesS5"]
 	path = BayesS5
 	url = https://github.com/cran/BayesS5
+[submodule "BayesSIM"]
+	path = BayesSIM
+	url = https://github.com/cran/BayesSIM
 [submodule "BayesSUR"]
 	path = BayesSUR
 	url = https://github.com/cran/BayesSUR
@@ -4076,6 +4079,9 @@
 [submodule "DLEGFM"]
 	path = DLEGFM
 	url = https://github.com/cran/DLEGFM
+[submodule "DLFM"]
+	path = DLFM
+	url = https://github.com/cran/DLFM
 [submodule "DLL"]
 	path = DLL
 	url = https://github.com/cran/DLL
@@ -6779,6 +6785,9 @@
 [submodule "GMAC"]
 	path = GMAC
 	url = https://github.com/cran/GMAC
+[submodule "GMC"]
+	path = GMC
+	url = https://github.com/cran/GMC
 [submodule "GMCM"]
 	path = GMCM
 	url = https://github.com/cran/GMCM
@@ -16412,6 +16421,9 @@
 [submodule "RootsExtremaInflections"]
 	path = RootsExtremaInflections
 	url = https://github.com/cran/RootsExtremaInflections
+[submodule "RootscanR"]
+	path = RootscanR
+	url = https://github.com/cran/RootscanR
 [submodule "Ropj"]
 	path = Ropj
 	url = https://github.com/cran/Ropj
@@ -20120,6 +20132,9 @@
 [submodule "W3CMarkupValidator"]
 	path = W3CMarkupValidator
 	url = https://github.com/cran/W3CMarkupValidator
+[submodule "W4MRUtils"]
+	path = W4MRUtils
+	url = https://github.com/cran/W4MRUtils
 [submodule "WA"]
 	path = WA
 	url = https://github.com/cran/WA
@@ -23738,6 +23753,9 @@
 [submodule "billboarder"]
 	path = billboarder
 	url = https://github.com/cran/billboarder
+[submodule "bimets"]
+	path = bimets
+	url = https://github.com/cran/bimets
 [submodule "binGroup"]
 	path = binGroup
 	url = https://github.com/cran/binGroup
@@ -27605,6 +27623,9 @@
 [submodule "contdid"]
 	path = contdid
 	url = https://github.com/cran/contdid
+[submodule "contentanalysis"]
+	path = contentanalysis
+	url = https://github.com/cran/contentanalysis
 [submodule "contentid"]
 	path = contentid
 	url = https://github.com/cran/contentid
@@ -38114,6 +38135,9 @@
 [submodule "greenR"]
 	path = greenR
 	url = https://github.com/cran/greenR
+[submodule "greenSD"]
+	path = greenSD
+	url = https://github.com/cran/greenSD
 [submodule "greenclust"]
 	path = greenclust
 	url = https://github.com/cran/greenclust
@@ -42476,6 +42500,9 @@
 [submodule "landsepi"]
 	path = landsepi
 	url = https://github.com/cran/landsepi
+[submodule "lang"]
+	path = lang
+	url = https://github.com/cran/lang
 [submodule "langevitour"]
 	path = langevitour
 	url = https://github.com/cran/langevitour
@@ -63932,6 +63959,9 @@
 [submodule "svylme"]
 	path = svylme
 	url = https://github.com/cran/svylme
+[submodule "svytest"]
+	path = svytest
+	url = https://github.com/cran/svytest
 [submodule "svyweight"]
 	path = svyweight
 	url = https://github.com/cran/svyweight
