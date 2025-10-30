@@ -40649,6 +40649,9 @@
 [submodule "informedSen"]
 	path = informedSen
 	url = https://github.com/cran/informedSen
+[submodule "infotest"]
+	path = infotest
+	url = https://github.com/cran/infotest
 [submodule "infotheo"]
 	path = infotheo
 	url = https://github.com/cran/infotheo
@@ -61526,6 +61529,9 @@
 [submodule "social"]
 	path = social
 	url = https://github.com/cran/social
+[submodule "socialSim"]
+	path = socialSim
+	url = https://github.com/cran/socialSim
 [submodule "socialh"]
 	path = socialh
 	url = https://github.com/cran/socialh
