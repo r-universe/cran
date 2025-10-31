@@ -13706,6 +13706,9 @@
 [submodule "ProcMod"]
 	path = ProcMod
 	url = https://github.com/cran/ProcMod
+[submodule "ProduceR"]
+	path = ProduceR
+	url = https://github.com/cran/ProduceR
 [submodule "ProfessR"]
 	path = ProfessR
 	url = https://github.com/cran/ProfessR
