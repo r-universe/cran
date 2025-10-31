@@ -68165,6 +68165,9 @@
 [submodule "waver"]
 	path = waver
 	url = https://github.com/cran/waver
+[submodule "waves"]
+	path = waves
+	url = https://github.com/cran/waves
 [submodule "waveslim"]
 	path = waveslim
 	url = https://github.com/cran/waveslim
