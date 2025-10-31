@@ -13226,6 +13226,9 @@
 [submodule "PenIC"]
 	path = PenIC
 	url = https://github.com/cran/PenIC
+[submodule "PenguinR"]
+	path = PenguinR
+	url = https://github.com/cran/PenguinR
 [submodule "PepMapViz"]
 	path = PepMapViz
 	url = https://github.com/cran/PepMapViz
@@ -16925,6 +16928,9 @@
 [submodule "SEMsens"]
 	path = SEMsens
 	url = https://github.com/cran/SEMsens
+[submodule "SEMsensitivity"]
+	path = SEMsensitivity
+	url = https://github.com/cran/SEMsensitivity
 [submodule "SEPaLS"]
 	path = SEPaLS
 	url = https://github.com/cran/SEPaLS
@@ -21656,6 +21662,9 @@
 [submodule "amregtest"]
 	path = amregtest
 	url = https://github.com/cran/amregtest
+[submodule "amsSim"]
+	path = amsSim
+	url = https://github.com/cran/amsSim
 [submodule "amscorer"]
 	path = amscorer
 	url = https://github.com/cran/amscorer
@@ -39296,6 +39305,9 @@
 [submodule "hipread"]
 	path = hipread
 	url = https://github.com/cran/hipread
+[submodule "hirisplexr"]
+	path = hirisplexr
+	url = https://github.com/cran/hirisplexr
 [submodule "hisse"]
 	path = hisse
 	url = https://github.com/cran/hisse
@@ -44018,6 +44030,9 @@
 [submodule "mHMMbayes"]
 	path = mHMMbayes
 	url = https://github.com/cran/mHMMbayes
+[submodule "mKBO"]
+	path = mKBO
+	url = https://github.com/cran/mKBO
 [submodule "mLLMCelltype"]
 	path = mLLMCelltype
 	url = https://github.com/cran/mLLMCelltype
@@ -52049,6 +52064,9 @@
 [submodule "plasma"]
 	path = plasma
 	url = https://github.com/cran/plasma
+[submodule "plasso"]
+	path = plasso
+	url = https://github.com/cran/plasso
 [submodule "plater"]
 	path = plater
 	url = https://github.com/cran/plater
@@ -64232,6 +64250,9 @@
 [submodule "tableone"]
 	path = tableone
 	url = https://github.com/cran/tableone
+[submodule "tabler"]
+	path = tabler
+	url = https://github.com/cran/tabler
 [submodule "tablerDash"]
 	path = tablerDash
 	url = https://github.com/cran/tablerDash
