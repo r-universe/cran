@@ -21848,9 +21848,6 @@
 [submodule "aos"]
 	path = aos
 	url = https://github.com/cran/aos
-[submodule "apLCMS"]
-	path = apLCMS
-	url = https://github.com/cran/apLCMS
 [submodule "apa"]
 	path = apa
 	url = https://github.com/cran/apa
