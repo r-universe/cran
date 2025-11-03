@@ -10688,6 +10688,9 @@
 [submodule "ManlyMix"]
 	path = ManlyMix
 	url = https://github.com/cran/ManlyMix
+[submodule "MannWhitneyCopula"]
+	path = MannWhitneyCopula
+	url = https://github.com/cran/MannWhitneyCopula
 [submodule "MantaID"]
 	path = MantaID
 	url = https://github.com/cran/MantaID
@@ -50570,6 +50573,9 @@
 [submodule "pandemics"]
 	path = pandemics
 	url = https://github.com/cran/pandemics
+[submodule "pandemonium"]
+	path = pandemonium
+	url = https://github.com/cran/pandemonium
 [submodule "pander"]
 	path = pander
 	url = https://github.com/cran/pander
