@@ -62693,6 +62693,9 @@
 [submodule "ssdtools"]
 	path = ssdtools
 	url = https://github.com/cran/ssdtools
+[submodule "ssebiEF"]
+	path = ssebiEF
+	url = https://github.com/cran/ssebiEF
 [submodule "ssev"]
 	path = ssev
 	url = https://github.com/cran/ssev
