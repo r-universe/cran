@@ -6686,6 +6686,9 @@
 [submodule "GGally"]
 	path = GGally
 	url = https://github.com/cran/GGally
+[submodule "GGenemy"]
+	path = GGenemy
+	url = https://github.com/cran/GGenemy
 [submodule "GGoutlieR"]
 	path = GGoutlieR
 	url = https://github.com/cran/GGoutlieR
@@ -11084,6 +11087,9 @@
 [submodule "MixSim"]
 	path = MixSim
 	url = https://github.com/cran/MixSim
+[submodule "MixStable"]
+	path = MixStable
+	url = https://github.com/cran/MixStable
 [submodule "MixTwice"]
 	path = MixTwice
 	url = https://github.com/cran/MixTwice
@@ -18515,6 +18521,9 @@
 [submodule "StepReg"]
 	path = StepReg
 	url = https://github.com/cran/StepReg
+[submodule "StepRegShiny"]
+	path = StepRegShiny
+	url = https://github.com/cran/StepRegShiny
 [submodule "StepSignalMargiLike"]
 	path = StepSignalMargiLike
 	url = https://github.com/cran/StepSignalMargiLike
@@ -19136,6 +19145,9 @@
 [submodule "TSLSTMplus"]
 	path = TSLSTMplus
 	url = https://github.com/cran/TSLSTMplus
+[submodule "TSMCP"]
+	path = TSMCP
+	url = https://github.com/cran/TSMCP
 [submodule "TSMN"]
 	path = TSMN
 	url = https://github.com/cran/TSMN
@@ -22151,6 +22163,9 @@
 [submodule "armaOptions"]
 	path = armaOptions
 	url = https://github.com/cran/armaOptions
+[submodule "armadillo4r"]
+	path = armadillo4r
+	url = https://github.com/cran/armadillo4r
 [submodule "armspp"]
 	path = armspp
 	url = https://github.com/cran/armspp
@@ -22883,6 +22898,9 @@
 [submodule "bark"]
 	path = bark
 	url = https://github.com/cran/bark
+[submodule "barrel"]
+	path = barrel
+	url = https://github.com/cran/barrel
 [submodule "barrks"]
 	path = barrks
 	url = https://github.com/cran/barrks
@@ -28409,6 +28427,9 @@
 [submodule "cronologia"]
 	path = cronologia
 	url = https://github.com/cran/cronologia
+[submodule "crookR"]
+	path = crookR
+	url = https://github.com/cran/crookR
 [submodule "crop"]
 	path = crop
 	url = https://github.com/cran/crop
@@ -40688,6 +40709,9 @@
 [submodule "infoDecompuTE"]
 	path = infoDecompuTE
 	url = https://github.com/cran/infoDecompuTE
+[submodule "infocausality"]
+	path = infocausality
+	url = https://github.com/cran/infocausality
 [submodule "informativeSCI"]
 	path = informativeSCI
 	url = https://github.com/cran/informativeSCI
@@ -54656,6 +54680,9 @@
 [submodule "rATTAINS"]
 	path = rATTAINS
 	url = https://github.com/cran/rATTAINS
+[submodule "rAccess"]
+	path = rAccess
+	url = https://github.com/cran/rAccess
 [submodule "rAmCharts"]
 	path = rAmCharts
 	url = https://github.com/cran/rAmCharts
@@ -65663,6 +65690,9 @@
 [submodule "tldr"]
 	path = tldr
 	url = https://github.com/cran/tldr
+[submodule "tldrDocs"]
+	path = tldrDocs
+	url = https://github.com/cran/tldrDocs
 [submodule "tlm"]
 	path = tlm
 	url = https://github.com/cran/tlm
