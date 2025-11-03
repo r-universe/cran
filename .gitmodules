@@ -21926,6 +21926,9 @@
 [submodule "apollo"]
 	path = apollo
 	url = https://github.com/cran/apollo
+[submodule "apor"]
+	path = apor
+	url = https://github.com/cran/apor
 [submodule "appRiori"]
 	path = appRiori
 	url = https://github.com/cran/appRiori
@@ -34691,6 +34694,9 @@
 [submodule "fmri"]
 	path = fmri
 	url = https://github.com/cran/fmri
+[submodule "fmriAR"]
+	path = fmriAR
+	url = https://github.com/cran/fmriAR
 [submodule "fmrihrf"]
 	path = fmrihrf
 	url = https://github.com/cran/fmrihrf
@@ -67283,6 +67289,9 @@
 [submodule "vacalibration"]
 	path = vacalibration
 	url = https://github.com/cran/vacalibration
+[submodule "vaccinationimpact"]
+	path = vaccinationimpact
+	url = https://github.com/cran/vaccinationimpact
 [submodule "vaccine"]
 	path = vaccine
 	url = https://github.com/cran/vaccine
@@ -68426,6 +68435,9 @@
 [submodule "whapi"]
 	path = whapi
 	url = https://github.com/cran/whapi
+[submodule "whatifbandit"]
+	path = whatifbandit
+	url = https://github.com/cran/whatifbandit
 [submodule "whatthreewords"]
 	path = whatthreewords
 	url = https://github.com/cran/whatthreewords
