@@ -34511,9 +34511,6 @@
 [submodule "flexCWM"]
 	path = flexCWM
 	url = https://github.com/cran/flexCWM
-[submodule "flexFitR"]
-	path = flexFitR
-	url = https://github.com/cran/flexFitR
 [submodule "flexIC"]
 	path = flexIC
 	url = https://github.com/cran/flexIC
