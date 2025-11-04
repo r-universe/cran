@@ -28088,9 +28088,6 @@
 [submodule "covid19.analytics"]
 	path = covid19.analytics
 	url = https://github.com/cran/covid19.analytics
-[submodule "covid19br"]
-	path = covid19br
-	url = https://github.com/cran/covid19br
 [submodule "covid19dbcand"]
 	path = covid19dbcand
 	url = https://github.com/cran/covid19dbcand
@@ -30332,6 +30329,9 @@
 [submodule "disagg2"]
 	path = disagg2
 	url = https://github.com/cran/disagg2
+[submodule "disaggR"]
+	path = disaggR
+	url = https://github.com/cran/disaggR
 [submodule "disaggregation"]
 	path = disaggregation
 	url = https://github.com/cran/disaggregation
