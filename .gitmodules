@@ -42665,6 +42665,9 @@
 [submodule "lavacreg"]
 	path = lavacreg
 	url = https://github.com/cran/lavacreg
+[submodule "lavinteract"]
+	path = lavinteract
+	url = https://github.com/cran/lavinteract
 [submodule "lawstat"]
 	path = lawstat
 	url = https://github.com/cran/lawstat
@@ -44240,6 +44243,9 @@
 [submodule "makeunique"]
 	path = makeunique
 	url = https://github.com/cran/makeunique
+[submodule "makicoint"]
+	path = makicoint
+	url = https://github.com/cran/makicoint
 [submodule "malan"]
 	path = malan
 	url = https://github.com/cran/malan
