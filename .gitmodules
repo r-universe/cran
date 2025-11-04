@@ -3698,6 +3698,9 @@
 [submodule "CurricularAnalytics"]
 	path = CurricularAnalytics
 	url = https://github.com/cran/CurricularAnalytics
+[submodule "CurricularComplexity"]
+	path = CurricularComplexity
+	url = https://github.com/cran/CurricularComplexity
 [submodule "CustomDerivative"]
 	path = CustomDerivative
 	url = https://github.com/cran/CustomDerivative
@@ -4400,6 +4403,9 @@
 [submodule "DataExplorer"]
 	path = DataExplorer
 	url = https://github.com/cran/DataExplorer
+[submodule "DataFusionGDM"]
+	path = DataFusionGDM
+	url = https://github.com/cran/DataFusionGDM
 [submodule "DataGraph"]
 	path = DataGraph
 	url = https://github.com/cran/DataGraph
@@ -17459,6 +17465,9 @@
 [submodule "SSIMmap"]
 	path = SSIMmap
 	url = https://github.com/cran/SSIMmap
+[submodule "SSLASSO"]
+	path = SSLASSO
+	url = https://github.com/cran/SSLASSO
 [submodule "SSM"]
 	path = SSM
 	url = https://github.com/cran/SSM
@@ -20744,6 +20753,9 @@
 [submodule "abundant"]
 	path = abundant
 	url = https://github.com/cran/abundant
+[submodule "abwm"]
+	path = abwm
+	url = https://github.com/cran/abwm
 [submodule "academictwitteR"]
 	path = academictwitteR
 	url = https://github.com/cran/academictwitteR
@@ -22700,6 +22712,9 @@
 [submodule "azlogr"]
 	path = azlogr
 	url = https://github.com/cran/azlogr
+[submodule "azr"]
+	path = azr
+	url = https://github.com/cran/azr
 [submodule "azuremapsr"]
 	path = azuremapsr
 	url = https://github.com/cran/azuremapsr
@@ -24851,6 +24866,9 @@
 [submodule "btrm"]
 	path = btrm
 	url = https://github.com/cran/btrm
+[submodule "btw"]
+	path = btw
+	url = https://github.com/cran/btw
 [submodule "bubbleHeatmap"]
 	path = bubbleHeatmap
 	url = https://github.com/cran/bubbleHeatmap
@@ -32783,6 +32801,9 @@
 [submodule "estatapi"]
 	path = estatapi
 	url = https://github.com/cran/estatapi
+[submodule "estats"]
+	path = estats
+	url = https://github.com/cran/estats
 [submodule "estimability"]
 	path = estimability
 	url = https://github.com/cran/estimability
@@ -33971,6 +33992,9 @@
 [submodule "fdm2id"]
 	path = fdm2id
 	url = https://github.com/cran/fdm2id
+[submodule "fdp"]
+	path = fdp
+	url = https://github.com/cran/fdp
 [submodule "fdq"]
 	path = fdq
 	url = https://github.com/cran/fdq
@@ -37673,6 +37697,9 @@
 [submodule "glvmfit"]
 	path = glvmfit
 	url = https://github.com/cran/glvmfit
+[submodule "glyparse"]
+	path = glyparse
+	url = https://github.com/cran/glyparse
 [submodule "glyrepr"]
 	path = glyrepr
 	url = https://github.com/cran/glyrepr
@@ -51473,6 +51500,9 @@
 [submodule "perutimber"]
 	path = perutimber
 	url = https://github.com/cran/perutimber
+[submodule "pervasive"]
+	path = pervasive
+	url = https://github.com/cran/pervasive
 [submodule "pesel"]
 	path = pesel
 	url = https://github.com/cran/pesel
