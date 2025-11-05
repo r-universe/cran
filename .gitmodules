@@ -5477,6 +5477,9 @@
 [submodule "EpiTest"]
 	path = EpiTest
 	url = https://github.com/cran/EpiTest
+[submodule "EpidigiR"]
+	path = EpidigiR
+	url = https://github.com/cran/EpidigiR
 [submodule "EpistemicGameTheory"]
 	path = EpistemicGameTheory
 	url = https://github.com/cran/EpistemicGameTheory
@@ -13796,6 +13799,9 @@
 [submodule "PublicationBias"]
 	path = PublicationBias
 	url = https://github.com/cran/PublicationBias
+[submodule "PublicationBiasBenchmark"]
+	path = PublicationBiasBenchmark
+	url = https://github.com/cran/PublicationBiasBenchmark
 [submodule "Publish"]
 	path = Publish
 	url = https://github.com/cran/Publish
@@ -20828,6 +20834,9 @@
 [submodule "acledR"]
 	path = acledR
 	url = https://github.com/cran/acledR
+[submodule "aclhs"]
+	path = aclhs
+	url = https://github.com/cran/aclhs
 [submodule "acmgscaler"]
 	path = acmgscaler
 	url = https://github.com/cran/acmgscaler
@@ -25892,6 +25901,9 @@
 [submodule "cgmanalysis"]
 	path = cgmanalysis
 	url = https://github.com/cran/cgmanalysis
+[submodule "cgmguru"]
+	path = cgmguru
+	url = https://github.com/cran/cgmguru
 [submodule "cgmquantify"]
 	path = cgmquantify
 	url = https://github.com/cran/cgmquantify
@@ -40838,6 +40850,9 @@
 [submodule "instantiate"]
 	path = instantiate
 	url = https://github.com/cran/instantiate
+[submodule "insulin.secretion"]
+	path = insulin.secretion
+	url = https://github.com/cran/insulin.secretion
 [submodule "insuranceData"]
 	path = insuranceData
 	url = https://github.com/cran/insuranceData
@@ -49490,6 +49505,9 @@
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/cran/odbc
+[submodule "odbc.resourcer"]
+	path = odbc.resourcer
+	url = https://github.com/cran/odbc.resourcer
 [submodule "odbr"]
 	path = odbr
 	url = https://github.com/cran/odbr
