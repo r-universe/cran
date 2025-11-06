@@ -40526,9 +40526,6 @@
 [submodule "implicitExpansion"]
 	path = implicitExpansion
 	url = https://github.com/cran/implicitExpansion
-[submodule "implicitMeasures"]
-	path = implicitMeasures
-	url = https://github.com/cran/implicitMeasures
 [submodule "implied"]
 	path = implied
 	url = https://github.com/cran/implied
