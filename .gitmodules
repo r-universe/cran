@@ -24290,9 +24290,6 @@
 [submodule "bnclassify"]
 	path = bnclassify
 	url = https://github.com/cran/bnclassify
-[submodule "bndesr"]
-	path = bndesr
-	url = https://github.com/cran/bndesr
 [submodule "bndovb"]
 	path = bndovb
 	url = https://github.com/cran/bndovb
@@ -65624,9 +65621,6 @@
 [submodule "timsac"]
 	path = timsac
 	url = https://github.com/cran/timsac
-[submodule "tind"]
-	path = tind
-	url = https://github.com/cran/tind
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/cran/tinkr
