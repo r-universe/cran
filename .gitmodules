@@ -19763,6 +19763,9 @@
 [submodule "UEI"]
 	path = UEI
 	url = https://github.com/cran/UEI
+[submodule "UGarima"]
+	path = UGarima
+	url = https://github.com/cran/UGarima
 [submodule "UHM"]
 	path = UHM
 	url = https://github.com/cran/UHM
@@ -24614,6 +24617,9 @@
 [submodule "branchingprocess"]
 	path = branchingprocess
 	url = https://github.com/cran/branchingprocess
+[submodule "brand.yml"]
+	path = brand.yml
+	url = https://github.com/cran/brand.yml
 [submodule "brandr"]
 	path = brandr
 	url = https://github.com/cran/brandr
@@ -32876,6 +32882,9 @@
 [submodule "etrunct"]
 	path = etrunct
 	url = https://github.com/cran/etrunct
+[submodule "etsi"]
+	path = etsi
+	url = https://github.com/cran/etsi
 [submodule "etwfe"]
 	path = etwfe
 	url = https://github.com/cran/etwfe
