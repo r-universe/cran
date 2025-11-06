@@ -25475,6 +25475,9 @@
 [submodule "catool"]
 	path = catool
 	url = https://github.com/cran/catool
+[submodule "catregs"]
+	path = catregs
+	url = https://github.com/cran/catregs
 [submodule "cats"]
 	path = cats
 	url = https://github.com/cran/cats
@@ -53762,9 +53765,6 @@
 [submodule "psycCleaning"]
 	path = psycCleaning
 	url = https://github.com/cran/psycCleaning
-[submodule "psycModel"]
-	path = psycModel
-	url = https://github.com/cran/psycModel
 [submodule "psych"]
 	path = psych
 	url = https://github.com/cran/psych
