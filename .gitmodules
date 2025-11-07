@@ -9911,9 +9911,6 @@
 [submodule "MCM"]
 	path = MCM
 	url = https://github.com/cran/MCM
-[submodule "MCMC.qpcr"]
-	path = MCMC.qpcr
-	url = https://github.com/cran/MCMC.qpcr
 [submodule "MCMC4Extremes"]
 	path = MCMC4Extremes
 	url = https://github.com/cran/MCMC4Extremes
@@ -29570,9 +29567,6 @@
 [submodule "ddpca"]
 	path = ddpca
 	url = https://github.com/cran/ddpca
-[submodule "ddpcr"]
-	path = ddpcr
-	url = https://github.com/cran/ddpcr
 [submodule "ddplot"]
 	path = ddplot
 	url = https://github.com/cran/ddplot
@@ -35231,9 +35225,6 @@
 [submodule "freqparcoord"]
 	path = freqparcoord
 	url = https://github.com/cran/freqparcoord
-[submodule "freqpcr"]
-	path = freqpcr
-	url = https://github.com/cran/freqpcr
 [submodule "freqtables"]
 	path = freqtables
 	url = https://github.com/cran/freqtables
@@ -38516,9 +38507,6 @@
 [submodule "gson"]
 	path = gson
 	url = https://github.com/cran/gson
-[submodule "gspcr"]
-	path = gspcr
-	url = https://github.com/cran/gspcr
 [submodule "gsrs"]
 	path = gsrs
 	url = https://github.com/cran/gsrs
@@ -44057,9 +44045,6 @@
 [submodule "lulab.utils"]
 	path = lulab.utils
 	url = https://github.com/cran/lulab.utils
-[submodule "lulcc"]
-	path = lulcc
-	url = https://github.com/cran/lulcc
 [submodule "lumberjack"]
 	path = lumberjack
 	url = https://github.com/cran/lumberjack
@@ -54113,9 +54098,6 @@
 [submodule "qbr"]
 	path = qbr
 	url = https://github.com/cran/qbr
-[submodule "qcQpcr"]
-	path = qcQpcr
-	url = https://github.com/cran/qcQpcr
 [submodule "qcapower"]
 	path = qcapower
 	url = https://github.com/cran/qcapower
@@ -58376,9 +58358,6 @@
 [submodule "rtop"]
 	path = rtop
 	url = https://github.com/cran/rtop
-[submodule "rtpcr"]
-	path = rtpcr
-	url = https://github.com/cran/rtpcr
 [submodule "rtrek"]
 	path = rtrek
 	url = https://github.com/cran/rtrek
@@ -62309,9 +62288,6 @@
 [submodule "spcov"]
 	path = spcov
 	url = https://github.com/cran/spcov
-[submodule "spcr"]
-	path = spcr
-	url = https://github.com/cran/spcr
 [submodule "spd"]
 	path = spd
 	url = https://github.com/cran/spd
