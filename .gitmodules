@@ -54872,6 +54872,9 @@
 [submodule "rLakeAnalyzer"]
 	path = rLakeAnalyzer
 	url = https://github.com/cran/rLakeAnalyzer
+[submodule "rLakeHabitat"]
+	path = rLakeHabitat
+	url = https://github.com/cran/rLakeHabitat
 [submodule "rMEA"]
 	path = rMEA
 	url = https://github.com/cran/rMEA
@@ -65636,6 +65639,9 @@
 [submodule "timsac"]
 	path = timsac
 	url = https://github.com/cran/timsac
+[submodule "tind"]
+	path = tind
+	url = https://github.com/cran/tind
 [submodule "tinkr"]
 	path = tinkr
 	url = https://github.com/cran/tinkr
