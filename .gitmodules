@@ -5507,6 +5507,9 @@
 [submodule "EstMix"]
 	path = EstMix
 	url = https://github.com/cran/EstMix
+[submodule "EstemPMM"]
+	path = EstemPMM
+	url = https://github.com/cran/EstemPMM
 [submodule "EstimDiagnostics"]
 	path = EstimDiagnostics
 	url = https://github.com/cran/EstimDiagnostics
@@ -6485,6 +6488,9 @@
 [submodule "GAIPE"]
 	path = GAIPE
 	url = https://github.com/cran/GAIPE
+[submodule "GALAHAD"]
+	path = GALAHAD
+	url = https://github.com/cran/GALAHAD
 [submodule "GALLO"]
 	path = GALLO
 	url = https://github.com/cran/GALLO
@@ -12776,6 +12782,9 @@
 [submodule "PNAR"]
 	path = PNAR
 	url = https://github.com/cran/PNAR
+[submodule "PNC"]
+	path = PNC
+	url = https://github.com/cran/PNC
 [submodule "PND.heter.cluster"]
 	path = PND.heter.cluster
 	url = https://github.com/cran/PND.heter.cluster
@@ -21941,6 +21950,9 @@
 [submodule "apisensr"]
 	path = apisensr
 	url = https://github.com/cran/apisensr
+[submodule "aplms"]
+	path = aplms
+	url = https://github.com/cran/aplms
 [submodule "aplore3"]
 	path = aplore3
 	url = https://github.com/cran/aplore3
@@ -33854,6 +33866,9 @@
 [submodule "fasttime"]
 	path = fasttime
 	url = https://github.com/cran/fasttime
+[submodule "fasttreeid"]
+	path = fasttreeid
+	url = https://github.com/cran/fasttreeid
 [submodule "fastverse"]
 	path = fastverse
 	url = https://github.com/cran/fastverse
@@ -38843,6 +38858,9 @@
 [submodule "hashids"]
 	path = hashids
 	url = https://github.com/cran/hashids
+[submodule "hashmapR"]
+	path = hashmapR
+	url = https://github.com/cran/hashmapR
 [submodule "hashr"]
 	path = hashr
 	url = https://github.com/cran/hashr
@@ -47945,6 +47963,9 @@
 [submodule "myClim"]
 	path = myClim
 	url = https://github.com/cran/myClim
+[submodule "myTAI"]
+	path = myTAI
+	url = https://github.com/cran/myTAI
 [submodule "mycaas"]
 	path = mycaas
 	url = https://github.com/cran/mycaas
@@ -49805,6 +49826,9 @@
 [submodule "opGMMassessment"]
 	path = opGMMassessment
 	url = https://github.com/cran/opGMMassessment
+[submodule "opImputation"]
+	path = opImputation
+	url = https://github.com/cran/opImputation
 [submodule "opa"]
 	path = opa
 	url = https://github.com/cran/opa
@@ -55220,6 +55244,9 @@
 [submodule "randomizr"]
 	path = randomizr
 	url = https://github.com/cran/randomizr
+[submodule "randotools"]
+	path = randotools
+	url = https://github.com/cran/randotools
 [submodule "randtests"]
 	path = randtests
 	url = https://github.com/cran/randtests
@@ -56525,6 +56552,9 @@
 [submodule "repsd"]
 	path = repsd
 	url = https://github.com/cran/repsd
+[submodule "repsim"]
+	path = repsim
+	url = https://github.com/cran/repsim
 [submodule "reptiledb.data"]
 	path = reptiledb.data
 	url = https://github.com/cran/reptiledb.data
@@ -57653,6 +57683,9 @@
 [submodule "rococo"]
 	path = rococo
 	url = https://github.com/cran/rococo
+[submodule "rocrateR"]
+	path = rocrateR
+	url = https://github.com/cran/rocrateR
 [submodule "rocsvm.path"]
 	path = rocsvm.path
 	url = https://github.com/cran/rocsvm.path
@@ -65996,6 +66029,9 @@
 [submodule "tosca"]
 	path = tosca
 	url = https://github.com/cran/tosca
+[submodule "toscca"]
+	path = toscca
+	url = https://github.com/cran/toscca
 [submodule "toscmask"]
 	path = toscmask
 	url = https://github.com/cran/toscmask
@@ -66017,6 +66053,9 @@
 [submodule "tourr"]
 	path = tourr
 	url = https://github.com/cran/tourr
+[submodule "tout"]
+	path = tout
+	url = https://github.com/cran/tout
 [submodule "tower"]
 	path = tower
 	url = https://github.com/cran/tower
