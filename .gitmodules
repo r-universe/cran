@@ -2138,6 +2138,9 @@
 [submodule "CADFtest"]
 	path = CADFtest
 	url = https://github.com/cran/CADFtest
+[submodule "CAESAR.Suite"]
+	path = CAESAR.Suite
+	url = https://github.com/cran/CAESAR.Suite
 [submodule "CAGR"]
 	path = CAGR
 	url = https://github.com/cran/CAGR
