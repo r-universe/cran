@@ -24689,9 +24689,6 @@
 [submodule "bridgedist"]
 	path = bridgedist
 	url = https://github.com/cran/bridgedist
-[submodule "bridger"]
-	path = bridger
-	url = https://github.com/cran/bridger
 [submodule "bridger2"]
 	path = bridger2
 	url = https://github.com/cran/bridger2
