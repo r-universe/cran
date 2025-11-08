@@ -2054,9 +2054,6 @@
 [submodule "BradleyTerry2"]
 	path = BradleyTerry2
 	url = https://github.com/cran/BradleyTerry2
-[submodule "BrailleR"]
-	path = BrailleR
-	url = https://github.com/cran/BrailleR
 [submodule "BrainCon"]
 	path = BrainCon
 	url = https://github.com/cran/BrainCon
@@ -2687,9 +2684,6 @@
 [submodule "CSESA"]
 	path = CSESA
 	url = https://github.com/cran/CSESA
-[submodule "CSGo"]
-	path = CSGo
-	url = https://github.com/cran/CSGo
 [submodule "CSHShydRology"]
 	path = CSHShydRology
 	url = https://github.com/cran/CSHShydRology
@@ -7049,9 +7043,6 @@
 [submodule "GTEs"]
 	path = GTEs
 	url = https://github.com/cran/GTEs
-[submodule "GTFSwizard"]
-	path = GTFSwizard
-	url = https://github.com/cran/GTFSwizard
 [submodule "GTRT"]
 	path = GTRT
 	url = https://github.com/cran/GTRT
@@ -34112,9 +34103,6 @@
 [submodule "fence"]
 	path = fence
 	url = https://github.com/cran/fence
-[submodule "fergm"]
-	path = fergm
-	url = https://github.com/cran/fergm
 [submodule "fermicatsR"]
 	path = fermicatsR
 	url = https://github.com/cran/fermicatsR
@@ -34898,9 +34886,6 @@
 [submodule "foreign"]
 	path = foreign
 	url = https://github.com/cran/foreign
-[submodule "forensIT"]
-	path = forensIT
-	url = https://github.com/cran/forensIT
 [submodule "forensicolors"]
 	path = forensicolors
 	url = https://github.com/cran/forensicolors
@@ -35726,9 +35711,6 @@
 [submodule "gambin"]
 	path = gambin
 	url = https://github.com/cran/gambin
-[submodule "gamblers.ruin.gameplay"]
-	path = gamblers.ruin.gameplay
-	url = https://github.com/cran/gamblers.ruin.gameplay
 [submodule "gamboostLSS"]
 	path = gamboostLSS
 	url = https://github.com/cran/gamboostLSS
@@ -39602,9 +39584,6 @@
 [submodule "hqreg"]
 	path = hqreg
 	url = https://github.com/cran/hqreg
-[submodule "hrbrthemes"]
-	path = hrbrthemes
-	url = https://github.com/cran/hrbrthemes
 [submodule "hrcomprisk"]
 	path = hrcomprisk
 	url = https://github.com/cran/hrcomprisk
@@ -47567,9 +47546,6 @@
 [submodule "multilevelTools"]
 	path = multilevelTools
 	url = https://github.com/cran/multilevelTools
-[submodule "multilevelcoda"]
-	path = multilevelcoda
-	url = https://github.com/cran/multilevelcoda
 [submodule "multilevelmediation"]
 	path = multilevelmediation
 	url = https://github.com/cran/multilevelmediation
@@ -49574,9 +49550,6 @@
 [submodule "oenb"]
 	path = oenb
 	url = https://github.com/cran/oenb
-[submodule "oesr"]
-	path = oesr
-	url = https://github.com/cran/oesr
 [submodule "oews2020"]
 	path = oews2020
 	url = https://github.com/cran/oews2020
@@ -53681,9 +53654,6 @@
 [submodule "psborrow2"]
 	path = psborrow2
 	url = https://github.com/cran/psborrow2
-[submodule "psc"]
-	path = psc
-	url = https://github.com/cran/psc
 [submodule "pscl"]
 	path = pscl
 	url = https://github.com/cran/pscl
@@ -55424,9 +55394,6 @@
 [submodule "ratios"]
 	path = ratios
 	url = https://github.com/cran/ratios
-[submodule "ratlas"]
-	path = ratlas
-	url = https://github.com/cran/ratlas
 [submodule "rattle"]
 	path = rattle
 	url = https://github.com/cran/rattle
@@ -62636,9 +62603,6 @@
 [submodule "spray"]
 	path = spray
 	url = https://github.com/cran/spray
-[submodule "spreadr"]
-	path = spreadr
-	url = https://github.com/cran/spreadr
 [submodule "spreval"]
 	path = spreval
 	url = https://github.com/cran/spreval
@@ -63938,9 +63902,6 @@
 [submodule "survival.svb"]
 	path = survival.svb
 	url = https://github.com/cran/survival.svb
-[submodule "survivalAnalysis"]
-	path = survivalAnalysis
-	url = https://github.com/cran/survivalAnalysis
 [submodule "survivalMPL"]
 	path = survivalMPL
 	url = https://github.com/cran/survivalMPL
@@ -65492,9 +65453,6 @@
 [submodule "tidytext"]
 	path = tidytext
 	url = https://github.com/cran/tidytext
-[submodule "tidytidbits"]
-	path = tidytidbits
-	url = https://github.com/cran/tidytidbits
 [submodule "tidytitanic"]
 	path = tidytitanic
 	url = https://github.com/cran/tidytitanic
@@ -66803,9 +66761,6 @@
 [submodule "tvmediation"]
 	path = tvmediation
 	url = https://github.com/cran/tvmediation
-[submodule "tvthemes"]
-	path = tvthemes
-	url = https://github.com/cran/tvthemes
 [submodule "tvtools"]
 	path = tvtools
 	url = https://github.com/cran/tvtools
@@ -67271,9 +67226,6 @@
 [submodule "usa"]
 	path = usa
 	url = https://github.com/cran/usa
-[submodule "usaidplot"]
-	path = usaidplot
-	url = https://github.com/cran/usaidplot
 [submodule "uscoauditlog"]
 	path = uscoauditlog
 	url = https://github.com/cran/uscoauditlog
@@ -68204,9 +68156,6 @@
 [submodule "waetr"]
 	path = waetr
 	url = https://github.com/cran/waetr
-[submodule "waffle"]
-	path = waffle
-	url = https://github.com/cran/waffle
 [submodule "waiter"]
 	path = waiter
 	url = https://github.com/cran/waiter
@@ -69062,9 +69011,6 @@
 [submodule "xhaz"]
 	path = xhaz
 	url = https://github.com/cran/xhaz
-[submodule "xkcd"]
-	path = xkcd
-	url = https://github.com/cran/xkcd
 [submodule "xkcdcolors"]
 	path = xkcdcolors
 	url = https://github.com/cran/xkcdcolors
