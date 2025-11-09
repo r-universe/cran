@@ -35477,6 +35477,9 @@
 [submodule "funtimes"]
 	path = funtimes
 	url = https://github.com/cran/funtimes
+[submodule "funviewR"]
+	path = funviewR
+	url = https://github.com/cran/funviewR
 [submodule "furniture"]
 	path = furniture
 	url = https://github.com/cran/furniture
@@ -51791,6 +51794,9 @@
 [submodule "phrases"]
 	path = phrases
 	url = https://github.com/cran/phrases
+[submodule "phscs"]
+	path = phscs
+	url = https://github.com/cran/phscs
 [submodule "phsmethods"]
 	path = phsmethods
 	url = https://github.com/cran/phsmethods
