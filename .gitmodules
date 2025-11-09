@@ -34139,6 +34139,9 @@
 [submodule "ffiec"]
 	path = ffiec
 	url = https://github.com/cran/ffiec
+[submodule "ffm"]
+	path = ffm
+	url = https://github.com/cran/ffm
 [submodule "ffmanova"]
 	path = ffmanova
 	url = https://github.com/cran/ffmanova
@@ -49097,6 +49100,9 @@
 [submodule "np"]
 	path = np
 	url = https://github.com/cran/np
+[submodule "npANCOVA"]
+	path = npANCOVA
+	url = https://github.com/cran/npANCOVA
 [submodule "npDoseResponse"]
 	path = npDoseResponse
 	url = https://github.com/cran/npDoseResponse
@@ -60428,6 +60434,9 @@
 [submodule "shinyNotes"]
 	path = shinyNotes
 	url = https://github.com/cran/shinyNotes
+[submodule "shinyOAuth"]
+	path = shinyOAuth
+	url = https://github.com/cran/shinyOAuth
 [submodule "shinyPredict"]
 	path = shinyPredict
 	url = https://github.com/cran/shinyPredict
@@ -60539,6 +60548,9 @@
 [submodule "shinydrive"]
 	path = shinydrive
 	url = https://github.com/cran/shinydrive
+[submodule "shinyfa"]
+	path = shinyfa
+	url = https://github.com/cran/shinyfa
 [submodule "shinyfilter"]
 	path = shinyfilter
 	url = https://github.com/cran/shinyfilter
@@ -66581,6 +66593,9 @@
 [submodule "tsfngm"]
 	path = tsfngm
 	url = https://github.com/cran/tsfngm
+[submodule "tsg"]
+	path = tsg
+	url = https://github.com/cran/tsg
 [submodule "tsgarch"]
 	path = tsgarch
 	url = https://github.com/cran/tsgarch
