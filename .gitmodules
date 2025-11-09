@@ -48209,6 +48209,9 @@
 [submodule "neat"]
 	path = neat
 	url = https://github.com/cran/neat
+[submodule "neatR"]
+	path = neatR
+	url = https://github.com/cran/neatR
 [submodule "neatRanges"]
 	path = neatRanges
 	url = https://github.com/cran/neatRanges
