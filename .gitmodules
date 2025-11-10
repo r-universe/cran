@@ -2276,6 +2276,9 @@
 [submodule "CDCPLACES"]
 	path = CDCPLACES
 	url = https://github.com/cran/CDCPLACES
+[submodule "CDF"]
+	path = CDF
+	url = https://github.com/cran/CDF
 [submodule "CDFt"]
 	path = CDFt
 	url = https://github.com/cran/CDFt
@@ -38954,6 +38957,9 @@
 [submodule "hdd"]
 	path = hdd
 	url = https://github.com/cran/hdd
+[submodule "hdf5lib"]
+	path = hdf5lib
+	url = https://github.com/cran/hdf5lib
 [submodule "hdf5r"]
 	path = hdf5r
 	url = https://github.com/cran/hdf5r
@@ -65930,6 +65936,9 @@
 [submodule "tools4uplift"]
 	path = tools4uplift
 	url = https://github.com/cran/tools4uplift
+[submodule "toon"]
+	path = toon
+	url = https://github.com/cran/toon
 [submodule "topChef"]
 	path = topChef
 	url = https://github.com/cran/topChef
