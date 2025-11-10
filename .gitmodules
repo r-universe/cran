@@ -29966,9 +29966,6 @@
 [submodule "designit"]
 	path = designit
 	url = https://github.com/cran/designit
-[submodule "designmatch"]
-	path = designmatch
-	url = https://github.com/cran/designmatch
 [submodule "designr"]
 	path = designr
 	url = https://github.com/cran/designr
