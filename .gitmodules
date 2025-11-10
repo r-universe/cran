@@ -28133,6 +28133,9 @@
 [submodule "covid19.analytics"]
 	path = covid19.analytics
 	url = https://github.com/cran/covid19.analytics
+[submodule "covid19br"]
+	path = covid19br
+	url = https://github.com/cran/covid19br
 [submodule "covid19dbcand"]
 	path = covid19dbcand
 	url = https://github.com/cran/covid19dbcand
@@ -51296,6 +51299,9 @@
 [submodule "pec"]
 	path = pec
 	url = https://github.com/cran/pec
+[submodule "pecan"]
+	path = pecan
+	url = https://github.com/cran/pecan
 [submodule "pecora"]
 	path = pecora
 	url = https://github.com/cran/pecora
@@ -65282,6 +65288,9 @@
 [submodule "tidycensus"]
 	path = tidycensus
 	url = https://github.com/cran/tidycensus
+[submodule "tidycensuskr"]
+	path = tidycensuskr
+	url = https://github.com/cran/tidycensuskr
 [submodule "tidychangepoint"]
 	path = tidychangepoint
 	url = https://github.com/cran/tidychangepoint
