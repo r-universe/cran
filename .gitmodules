@@ -51152,9 +51152,6 @@
 [submodule "pcFactorStan"]
 	path = pcFactorStan
 	url = https://github.com/cran/pcFactorStan
-[submodule "pcIRT"]
-	path = pcIRT
-	url = https://github.com/cran/pcIRT
 [submodule "pcLasso"]
 	path = pcLasso
 	url = https://github.com/cran/pcLasso
