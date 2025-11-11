@@ -2819,6 +2819,9 @@
 [submodule "Canopy"]
 	path = Canopy
 	url = https://github.com/cran/Canopy
+[submodule "Capsule"]
+	path = Capsule
+	url = https://github.com/cran/Capsule
 [submodule "CardioCurveR"]
 	path = CardioCurveR
 	url = https://github.com/cran/CardioCurveR
@@ -4052,6 +4055,9 @@
 [submodule "DISTRIB"]
 	path = DISTRIB
 	url = https://github.com/cran/DISTRIB
+[submodule "DIVINE"]
+	path = DIVINE
+	url = https://github.com/cran/DIVINE
 [submodule "DIZtools"]
 	path = DIZtools
 	url = https://github.com/cran/DIZtools
@@ -9164,6 +9170,9 @@
 [submodule "LEGIT"]
 	path = LEGIT
 	url = https://github.com/cran/LEGIT
+[submodule "LEdecomp"]
+	path = LEdecomp
+	url = https://github.com/cran/LEdecomp
 [submodule "LFApp"]
 	path = LFApp
 	url = https://github.com/cran/LFApp
@@ -12011,6 +12020,9 @@
 [submodule "OLStrajr"]
 	path = OLStrajr
 	url = https://github.com/cran/OLStrajr
+[submodule "ONAM"]
+	path = ONAM
+	url = https://github.com/cran/ONAM
 [submodule "ONEST"]
 	path = ONEST
 	url = https://github.com/cran/ONEST
@@ -32969,6 +32981,9 @@
 [submodule "evdbayes"]
 	path = evdbayes
 	url = https://github.com/cran/evdbayes
+[submodule "eve"]
+	path = eve
+	url = https://github.com/cran/eve
 [submodule "evenBreak"]
 	path = evenBreak
 	url = https://github.com/cran/evenBreak
@@ -34355,6 +34370,9 @@
 [submodule "fio"]
 	path = fio
 	url = https://github.com/cran/fio
+[submodule "fioRa"]
+	path = fioRa
+	url = https://github.com/cran/fioRa
 [submodule "fipio"]
 	path = fipio
 	url = https://github.com/cran/fipio
@@ -35576,6 +35594,9 @@
 [submodule "fwsim"]
 	path = fwsim
 	url = https://github.com/cran/fwsim
+[submodule "fwtraits"]
+	path = fwtraits
+	url = https://github.com/cran/fwtraits
 [submodule "fxTWAPLS"]
 	path = fxTWAPLS
 	url = https://github.com/cran/fxTWAPLS
@@ -39044,6 +39065,9 @@
 [submodule "healthfinance"]
 	path = healthfinance
 	url = https://github.com/cran/healthfinance
+[submodule "healthiar"]
+	path = healthiar
+	url = https://github.com/cran/healthiar
 [submodule "healthmotionR"]
 	path = healthmotionR
 	url = https://github.com/cran/healthmotionR
