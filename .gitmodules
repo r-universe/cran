@@ -8387,6 +8387,9 @@
 [submodule "ISCA"]
 	path = ISCA
 	url = https://github.com/cran/ISCA
+[submodule "ISCAM"]
+	path = ISCAM
+	url = https://github.com/cran/ISCAM
 [submodule "ISCO08ConveRsions"]
 	path = ISCO08ConveRsions
 	url = https://github.com/cran/ISCO08ConveRsions
@@ -17747,6 +17750,9 @@
 [submodule "SelectBoost"]
 	path = SelectBoost
 	url = https://github.com/cran/SelectBoost
+[submodule "SelectBoost.beta"]
+	path = SelectBoost.beta
+	url = https://github.com/cran/SelectBoost.beta
 [submodule "SelectionBias"]
 	path = SelectionBias
 	url = https://github.com/cran/SelectionBias
@@ -47573,6 +47579,9 @@
 [submodule "multilevelTools"]
 	path = multilevelTools
 	url = https://github.com/cran/multilevelTools
+[submodule "multilevelcoda"]
+	path = multilevelcoda
+	url = https://github.com/cran/multilevelcoda
 [submodule "multilevelmediation"]
 	path = multilevelmediation
 	url = https://github.com/cran/multilevelmediation
