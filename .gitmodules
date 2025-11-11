@@ -10469,6 +10469,9 @@
 [submodule "MRReg"]
 	path = MRReg
 	url = https://github.com/cran/MRReg
+[submodule "MRStdCRT"]
+	path = MRStdCRT
+	url = https://github.com/cran/MRStdCRT
 [submodule "MRTAnalysis"]
 	path = MRTAnalysis
 	url = https://github.com/cran/MRTAnalysis
@@ -12188,6 +12191,9 @@
 [submodule "OmicsPLS"]
 	path = OmicsPLS
 	url = https://github.com/cran/OmicsPLS
+[submodule "OmicsPrepR"]
+	path = OmicsPrepR
+	url = https://github.com/cran/OmicsPrepR
 [submodule "OmicsQC"]
 	path = OmicsQC
 	url = https://github.com/cran/OmicsQC
@@ -16067,6 +16073,9 @@
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/cran/ReliaPlotR
+[submodule "ReliaShiny"]
+	path = ReliaShiny
+	url = https://github.com/cran/ReliaShiny
 [submodule "ReliabilityTheory"]
 	path = ReliabilityTheory
 	url = https://github.com/cran/ReliabilityTheory
@@ -23018,6 +23027,9 @@
 [submodule "baseq"]
 	path = baseq
 	url = https://github.com/cran/baseq
+[submodule "baserater"]
+	path = baserater
+	url = https://github.com/cran/baserater
 [submodule "bases"]
 	path = bases
 	url = https://github.com/cran/bases
@@ -33122,6 +33134,9 @@
 [submodule "exametrika"]
 	path = exametrika
 	url = https://github.com/cran/exametrika
+[submodule "examly"]
+	path = examly
+	url = https://github.com/cran/examly
 [submodule "exampletestr"]
 	path = exampletestr
 	url = https://github.com/cran/exampletestr
@@ -36983,6 +36998,9 @@
 [submodule "ggimg"]
 	path = ggimg
 	url = https://github.com/cran/ggimg
+[submodule "ggincerta"]
+	path = ggincerta
+	url = https://github.com/cran/ggincerta
 [submodule "gginference"]
 	path = gginference
 	url = https://github.com/cran/gginference
@@ -53003,6 +53021,9 @@
 [submodule "powerpkg"]
 	path = powerpkg
 	url = https://github.com/cran/powerpkg
+[submodule "powerprior"]
+	path = powerprior
+	url = https://github.com/cran/powerprior
 [submodule "powertools"]
 	path = powertools
 	url = https://github.com/cran/powertools
@@ -53561,6 +53582,9 @@
 [submodule "promises"]
 	path = promises
 	url = https://github.com/cran/promises
+[submodule "promor"]
+	path = promor
+	url = https://github.com/cran/promor
 [submodule "promote"]
 	path = promote
 	url = https://github.com/cran/promote
@@ -59582,6 +59606,9 @@
 [submodule "sdsfun"]
 	path = sdsfun
 	url = https://github.com/cran/sdsfun
+[submodule "sdstudio"]
+	path = sdstudio
+	url = https://github.com/cran/sdstudio
 [submodule "sdtm.oak"]
 	path = sdtm.oak
 	url = https://github.com/cran/sdtm.oak
@@ -68984,6 +69011,9 @@
 [submodule "wsrf"]
 	path = wsrf
 	url = https://github.com/cran/wsrf
+[submodule "wstdiff"]
+	path = wstdiff
+	url = https://github.com/cran/wstdiff
 [submodule "wsyn"]
 	path = wsyn
 	url = https://github.com/cran/wsyn
