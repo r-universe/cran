@@ -23729,6 +23729,9 @@
 [submodule "bigPCAcpp"]
 	path = bigPCAcpp
 	url = https://github.com/cran/bigPCAcpp
+[submodule "bigPLScox"]
+	path = bigPLScox
+	url = https://github.com/cran/bigPLScox
 [submodule "bigQF"]
 	path = bigQF
 	url = https://github.com/cran/bigQF
@@ -53558,9 +53561,6 @@
 [submodule "promises"]
 	path = promises
 	url = https://github.com/cran/promises
-[submodule "promor"]
-	path = promor
-	url = https://github.com/cran/promor
 [submodule "promote"]
 	path = promote
 	url = https://github.com/cran/promote
@@ -65531,6 +65531,9 @@
 [submodule "tidysynth"]
 	path = tidysynth
 	url = https://github.com/cran/tidysynth
+[submodule "tidysynthesis"]
+	path = tidysynthesis
+	url = https://github.com/cran/tidysynthesis
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/cran/tidytable
@@ -68222,6 +68225,9 @@
 [submodule "vwline"]
 	path = vwline
 	url = https://github.com/cran/vwline
+[submodule "vws"]
+	path = vws
+	url = https://github.com/cran/vws
 [submodule "wCorr"]
 	path = wCorr
 	url = https://github.com/cran/wCorr
