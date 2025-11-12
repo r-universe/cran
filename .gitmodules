@@ -3041,6 +3041,9 @@
 [submodule "CircStats"]
 	path = CircStats
 	url = https://github.com/cran/CircStats
+[submodule "CircaCP"]
+	path = CircaCP
+	url = https://github.com/cran/CircaCP
 [submodule "CirceR"]
 	path = CirceR
 	url = https://github.com/cran/CirceR
@@ -13397,6 +13400,9 @@
 [submodule "PhysicalActivity"]
 	path = PhysicalActivity
 	url = https://github.com/cran/PhysicalActivity
+[submodule "PhysioIndexR"]
+	path = PhysioIndexR
+	url = https://github.com/cran/PhysioIndexR
 [submodule "PhytoIn"]
 	path = PhytoIn
 	url = https://github.com/cran/PhytoIn
