@@ -5780,6 +5780,9 @@
 [submodule "FCPS"]
 	path = FCPS
 	url = https://github.com/cran/FCPS
+[submodule "FCUSUM"]
+	path = FCUSUM
+	url = https://github.com/cran/FCUSUM
 [submodule "FCVAR"]
 	path = FCVAR
 	url = https://github.com/cran/FCVAR
@@ -7439,6 +7442,9 @@
 [submodule "GramQuad"]
 	path = GramQuad
 	url = https://github.com/cran/GramQuad
+[submodule "GraphRankTest"]
+	path = GraphRankTest
+	url = https://github.com/cran/GraphRankTest
 [submodule "GrapheR"]
 	path = GrapheR
 	url = https://github.com/cran/GrapheR
@@ -27758,6 +27764,9 @@
 [submodule "contingencytables"]
 	path = contingencytables
 	url = https://github.com/cran/contingencytables
+[submodule "contoso"]
+	path = contoso
+	url = https://github.com/cran/contoso
 [submodule "contourPlot"]
 	path = contourPlot
 	url = https://github.com/cran/contourPlot
@@ -29756,6 +29765,9 @@
 [submodule "deepregression"]
 	path = deepregression
 	url = https://github.com/cran/deepregression
+[submodule "deepspat"]
+	path = deepspat
+	url = https://github.com/cran/deepspat
 [submodule "deeptime"]
 	path = deeptime
 	url = https://github.com/cran/deeptime
@@ -42125,6 +42137,9 @@
 [submodule "kernelFactory"]
 	path = kernelFactory
 	url = https://github.com/cran/kernelFactory
+[submodule "kernelPhil"]
+	path = kernelPhil
+	url = https://github.com/cran/kernelPhil
 [submodule "kernelboot"]
 	path = kernelboot
 	url = https://github.com/cran/kernelboot
@@ -66452,6 +66467,9 @@
 [submodule "trendsegmentR"]
 	path = trendsegmentR
 	url = https://github.com/cran/trendsegmentR
+[submodule "trendseries"]
+	path = trendseries
+	url = https://github.com/cran/trendseries
 [submodule "trendtestR"]
 	path = trendtestR
 	url = https://github.com/cran/trendtestR
