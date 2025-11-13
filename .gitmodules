@@ -4628,6 +4628,9 @@
 [submodule "DiceKriging"]
 	path = DiceKriging
 	url = https://github.com/cran/DiceKriging
+[submodule "DiceOptim"]
+	path = DiceOptim
+	url = https://github.com/cran/DiceOptim
 [submodule "DiceView"]
 	path = DiceView
 	url = https://github.com/cran/DiceView
