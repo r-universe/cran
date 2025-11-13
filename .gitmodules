@@ -18491,6 +18491,9 @@
 [submodule "SqueakR"]
 	path = SqueakR
 	url = https://github.com/cran/SqueakR
+[submodule "Ssarkartrim"]
+	path = Ssarkartrim
+	url = https://github.com/cran/Ssarkartrim
 [submodule "SscSrs"]
 	path = SscSrs
 	url = https://github.com/cran/SscSrs
@@ -20576,6 +20579,9 @@
 [submodule "XRSCC"]
 	path = XRSCC
 	url = https://github.com/cran/XRSCC
+[submodule "XYomics"]
+	path = XYomics
+	url = https://github.com/cran/XYomics
 [submodule "Xcertainty"]
 	path = Xcertainty
 	url = https://github.com/cran/Xcertainty
@@ -24065,6 +24071,9 @@
 [submodule "biostat3"]
 	path = biostat3
 	url = https://github.com/cran/biostat3
+[submodule "biostats"]
+	path = biostats
+	url = https://github.com/cran/biostats
 [submodule "biostats101"]
 	path = biostats101
 	url = https://github.com/cran/biostats101
@@ -25442,6 +25451,9 @@
 [submodule "cartography"]
 	path = cartography
 	url = https://github.com/cran/cartography
+[submodule "carts"]
+	path = carts
+	url = https://github.com/cran/carts
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/cran/cascadeSelect
@@ -35732,6 +35744,9 @@
 [submodule "gTestsMulti"]
 	path = gTestsMulti
 	url = https://github.com/cran/gTestsMulti
+[submodule "gTestsPair"]
+	path = gTestsPair
+	url = https://github.com/cran/gTestsPair
 [submodule "gWQS"]
 	path = gWQS
 	url = https://github.com/cran/gWQS
@@ -48827,6 +48842,9 @@
 [submodule "nlmixr2"]
 	path = nlmixr2
 	url = https://github.com/cran/nlmixr2
+[submodule "nlmixr2autoinit"]
+	path = nlmixr2autoinit
+	url = https://github.com/cran/nlmixr2autoinit
 [submodule "nlmixr2data"]
 	path = nlmixr2data
 	url = https://github.com/cran/nlmixr2data
