@@ -37301,6 +37301,9 @@
 [submodule "ggsignif"]
 	path = ggsignif
 	url = https://github.com/cran/ggsignif
+[submodule "ggsmc"]
+	path = ggsmc
+	url = https://github.com/cran/ggsmc
 [submodule "ggsoccer"]
 	path = ggsoccer
 	url = https://github.com/cran/ggsoccer
@@ -53771,6 +53774,9 @@
 [submodule "psborrow2"]
 	path = psborrow2
 	url = https://github.com/cran/psborrow2
+[submodule "psc"]
+	path = psc
+	url = https://github.com/cran/psc
 [submodule "pscl"]
 	path = pscl
 	url = https://github.com/cran/pscl
