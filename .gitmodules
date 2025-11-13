@@ -66290,6 +66290,9 @@
 [submodule "transDA"]
 	path = transDA
 	url = https://github.com/cran/transDA
+[submodule "transGFM"]
+	path = transGFM
+	url = https://github.com/cran/transGFM
 [submodule "transPlotR"]
 	path = transPlotR
 	url = https://github.com/cran/transPlotR
