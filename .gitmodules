@@ -13022,6 +13022,9 @@
 [submodule "PSPManalysis"]
 	path = PSPManalysis
 	url = https://github.com/cran/PSPManalysis
+[submodule "PSRICalc"]
+	path = PSRICalc
+	url = https://github.com/cran/PSRICalc
 [submodule "PSS.Health"]
 	path = PSS.Health
 	url = https://github.com/cran/PSS.Health
@@ -26474,6 +26477,9 @@
 [submodule "clc"]
 	path = clc
 	url = https://github.com/cran/clc
+[submodule "cld"]
+	path = cld
+	url = https://github.com/cran/cld
 [submodule "cld2"]
 	path = cld2
 	url = https://github.com/cran/cld2
@@ -32582,6 +32588,9 @@
 [submodule "epidatr"]
 	path = epidatr
 	url = https://github.com/cran/epidatr
+[submodule "epidict"]
+	path = epidict
+	url = https://github.com/cran/epidict
 [submodule "epidm"]
 	path = epidm
 	url = https://github.com/cran/epidm
@@ -32630,6 +32639,9 @@
 [submodule "epitab"]
 	path = epitab
 	url = https://github.com/cran/epitab
+[submodule "epitabulate"]
+	path = epitabulate
+	url = https://github.com/cran/epitabulate
 [submodule "epitools"]
 	path = epitools
 	url = https://github.com/cran/epitools
@@ -37568,6 +37580,9 @@
 [submodule "gkmSVM"]
 	path = gkmSVM
 	url = https://github.com/cran/gkmSVM
+[submodule "gkwdist"]
+	path = gkwdist
+	url = https://github.com/cran/gkwdist
 [submodule "gkwreg"]
 	path = gkwreg
 	url = https://github.com/cran/gkwreg
@@ -44996,6 +45011,9 @@
 [submodule "mccmeiv"]
 	path = mccmeiv
 	url = https://github.com/cran/mccmeiv
+[submodule "mccount"]
+	path = mccount
+	url = https://github.com/cran/mccount
 [submodule "mccr"]
 	path = mccr
 	url = https://github.com/cran/mccr
@@ -67223,6 +67241,9 @@
 [submodule "unifed"]
 	path = unifed
 	url = https://github.com/cran/unifed
+[submodule "unifiedml"]
+	path = unifiedml
+	url = https://github.com/cran/unifiedml
 [submodule "unifir"]
 	path = unifir
 	url = https://github.com/cran/unifir
