@@ -2696,6 +2696,9 @@
 [submodule "CSTE"]
 	path = CSTE
 	url = https://github.com/cran/CSTE
+[submodule "CSTools"]
+	path = CSTools
+	url = https://github.com/cran/CSTools
 [submodule "CSclone"]
 	path = CSclone
 	url = https://github.com/cran/CSclone
@@ -6908,6 +6911,9 @@
 [submodule "GPFDA"]
 	path = GPFDA
 	url = https://github.com/cran/GPFDA
+[submodule "GPGame"]
+	path = GPGame
+	url = https://github.com/cran/GPGame
 [submodule "GPL2025"]
 	path = GPL2025
 	url = https://github.com/cran/GPL2025
@@ -36998,6 +37004,9 @@
 [submodule "gggenes"]
 	path = gggenes
 	url = https://github.com/cran/gggenes
+[submodule "gggenomes"]
+	path = gggenomes
+	url = https://github.com/cran/gggenomes
 [submodule "ggghost"]
 	path = ggghost
 	url = https://github.com/cran/ggghost
