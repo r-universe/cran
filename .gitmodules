@@ -28592,9 +28592,6 @@
 [submodule "crosstalk"]
 	path = crosstalk
 	url = https://github.com/cran/crosstalk
-[submodule "crosstalkr"]
-	path = crosstalkr
-	url = https://github.com/cran/crosstalkr
 [submodule "crossurr"]
 	path = crossurr
 	url = https://github.com/cran/crossurr
