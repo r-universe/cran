@@ -36998,9 +36998,6 @@
 [submodule "gggenes"]
 	path = gggenes
 	url = https://github.com/cran/gggenes
-[submodule "gggenomes"]
-	path = gggenomes
-	url = https://github.com/cran/gggenomes
 [submodule "ggghost"]
 	path = ggghost
 	url = https://github.com/cran/ggghost
