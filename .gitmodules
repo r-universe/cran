@@ -24830,9 +24830,6 @@
 [submodule "brotli"]
 	path = brotli
 	url = https://github.com/cran/brotli
-[submodule "brpop"]
-	path = brpop
-	url = https://github.com/cran/brpop
 [submodule "brsim"]
 	path = brsim
 	url = https://github.com/cran/brsim
