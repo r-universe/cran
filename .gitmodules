@@ -686,9 +686,6 @@
 [submodule "AntAngioCOOL"]
 	path = AntAngioCOOL
 	url = https://github.com/cran/AntAngioCOOL
-[submodule "AntMAN"]
-	path = AntMAN
-	url = https://github.com/cran/AntMAN
 [submodule "AnthropMMD"]
 	path = AnthropMMD
 	url = https://github.com/cran/AnthropMMD
@@ -1037,9 +1034,6 @@
 [submodule "BEACH"]
 	path = BEACH
 	url = https://github.com/cran/BEACH
-[submodule "BEAMR"]
-	path = BEAMR
-	url = https://github.com/cran/BEAMR
 [submodule "BED"]
 	path = BED
 	url = https://github.com/cran/BED
@@ -1616,9 +1610,6 @@
 [submodule "BayesRepDesign"]
 	path = BayesRepDesign
 	url = https://github.com/cran/BayesRepDesign
-[submodule "BayesReversePLLH"]
-	path = BayesReversePLLH
-	url = https://github.com/cran/BayesReversePLLH
 [submodule "BayesS5"]
 	path = BayesS5
 	url = https://github.com/cran/BayesS5
@@ -3857,9 +3848,6 @@
 [submodule "DCPO"]
 	path = DCPO
 	url = https://github.com/cran/DCPO
-[submodule "DCSmooth"]
-	path = DCSmooth
-	url = https://github.com/cran/DCSmooth
 [submodule "DCchoice"]
 	path = DCchoice
 	url = https://github.com/cran/DCchoice
@@ -5915,9 +5903,6 @@
 [submodule "FMC"]
 	path = FMC
 	url = https://github.com/cran/FMC
-[submodule "FMCCSD"]
-	path = FMCCSD
-	url = https://github.com/cran/FMCCSD
 [submodule "FME"]
 	path = FME
 	url = https://github.com/cran/FME
@@ -6089,9 +6074,6 @@
 [submodule "Families"]
 	path = Families
 	url = https://github.com/cran/Families
-[submodule "FamilyRank"]
-	path = FamilyRank
-	url = https://github.com/cran/FamilyRank
 [submodule "FarmTest"]
 	path = FarmTest
 	url = https://github.com/cran/FarmTest
@@ -7694,9 +7676,6 @@
 [submodule "HLSM"]
 	path = HLSM
 	url = https://github.com/cran/HLSM
-[submodule "HMB"]
-	path = HMB
-	url = https://github.com/cran/HMB
 [submodule "HMC"]
 	path = HMC
 	url = https://github.com/cran/HMC
@@ -8264,9 +8243,6 @@
 [submodule "ILSAstats"]
 	path = ILSAstats
 	url = https://github.com/cran/ILSAstats
-[submodule "ILSE"]
-	path = ILSE
-	url = https://github.com/cran/ILSE
 [submodule "ILSM"]
 	path = ILSM
 	url = https://github.com/cran/ILSM
@@ -9818,9 +9794,6 @@
 [submodule "MAPCtools"]
 	path = MAPCtools
 	url = https://github.com/cran/MAPCtools
-[submodule "MAPITR"]
-	path = MAPITR
-	url = https://github.com/cran/MAPITR
 [submodule "MARMoT"]
 	path = MARMoT
 	url = https://github.com/cran/MARMoT
@@ -19949,9 +19922,6 @@
 [submodule "UsingR"]
 	path = UsingR
 	url = https://github.com/cran/UsingR
-[submodule "UtilityFrailtyPH12"]
-	path = UtilityFrailtyPH12
-	url = https://github.com/cran/UtilityFrailtyPH12
 [submodule "V8"]
 	path = V8
 	url = https://github.com/cran/V8
@@ -24134,9 +24104,6 @@
 [submodule "bispdep"]
 	path = bispdep
 	url = https://github.com/cran/bispdep
-[submodule "bisque"]
-	path = bisque
-	url = https://github.com/cran/bisque
 [submodule "bistablehistory"]
 	path = bistablehistory
 	url = https://github.com/cran/bistablehistory
@@ -28010,9 +27977,6 @@
 [submodule "corrViz"]
 	path = corrViz
 	url = https://github.com/cran/corrViz
-[submodule "corrcoverage"]
-	path = corrcoverage
-	url = https://github.com/cran/corrcoverage
 [submodule "correctR"]
 	path = correctR
 	url = https://github.com/cran/correctR
@@ -34034,9 +33998,6 @@
 [submodule "fcros"]
 	path = fcros
 	url = https://github.com/cran/fcros
-[submodule "fctbases"]
-	path = fctbases
-	url = https://github.com/cran/fctbases
 [submodule "fctutils"]
 	path = fctutils
 	url = https://github.com/cran/fctutils
@@ -39050,9 +39011,6 @@
 [submodule "hdbinseg"]
 	path = hdbinseg
 	url = https://github.com/cran/hdbinseg
-[submodule "hdbm"]
-	path = hdbm
-	url = https://github.com/cran/hdbm
 [submodule "hdbma"]
 	path = hdbma
 	url = https://github.com/cran/hdbma
@@ -43361,9 +43319,6 @@
 [submodule "lincom"]
 	path = lincom
 	url = https://github.com/cran/lincom
-[submodule "linconGaussR"]
-	path = linconGaussR
-	url = https://github.com/cran/linconGaussR
 [submodule "lindia"]
 	path = lindia
 	url = https://github.com/cran/lindia
@@ -43748,9 +43703,6 @@
 [submodule "lodi"]
 	path = lodi
 	url = https://github.com/cran/lodi
-[submodule "lodr"]
-	path = lodr
-	url = https://github.com/cran/lodr
 [submodule "loedata"]
 	path = loedata
 	url = https://github.com/cran/loedata
@@ -45401,9 +45353,6 @@
 [submodule "merror"]
 	path = merror
 	url = https://github.com/cran/merror
-[submodule "meshed"]
-	path = meshed
-	url = https://github.com/cran/meshed
 [submodule "mesonet"]
 	path = mesonet
 	url = https://github.com/cran/mesonet
@@ -48464,9 +48413,6 @@
 [submodule "netassoc"]
 	path = netassoc
 	url = https://github.com/cran/netassoc
-[submodule "netcmc"]
-	path = netcmc
-	url = https://github.com/cran/netcmc
 [submodule "netcom"]
 	path = netcom
 	url = https://github.com/cran/netcom
@@ -57719,9 +57665,6 @@
 [submodule "robustbetareg"]
 	path = robustbetareg
 	url = https://github.com/cran/robustbetareg
-[submodule "robustcov"]
-	path = robustcov
-	url = https://github.com/cran/robustcov
 [submodule "robustfa"]
 	path = robustfa
 	url = https://github.com/cran/robustfa
@@ -57758,9 +57701,6 @@
 [submodule "rocNIT"]
 	path = rocNIT
 	url = https://github.com/cran/rocNIT
-[submodule "rocTree"]
-	path = rocTree
-	url = https://github.com/cran/rocTree
 [submodule "rocbc"]
 	path = rocbc
 	url = https://github.com/cran/rocbc
@@ -59774,9 +59714,6 @@
 [submodule "seedr"]
 	path = seedr
 	url = https://github.com/cran/seedr
-[submodule "seedreg"]
-	path = seedreg
-	url = https://github.com/cran/seedreg
 [submodule "seekr"]
 	path = seekr
 	url = https://github.com/cran/seekr
@@ -63020,9 +62957,6 @@
 [submodule "sss"]
 	path = sss
 	url = https://github.com/cran/sss
-[submodule "sssc"]
-	path = sssc
-	url = https://github.com/cran/sssc
 [submodule "sstn"]
 	path = sstn
 	url = https://github.com/cran/sstn
@@ -64853,9 +64787,6 @@
 [submodule "teigen"]
 	path = teigen
 	url = https://github.com/cran/teigen
-[submodule "telefit"]
-	path = telefit
-	url = https://github.com/cran/telefit
 [submodule "telegram"]
 	path = telegram
 	url = https://github.com/cran/telegram
@@ -66464,9 +66395,6 @@
 [submodule "treemapify"]
 	path = treemapify
 	url = https://github.com/cran/treemapify
-[submodule "treenomial"]
-	path = treenomial
-	url = https://github.com/cran/treenomial
 [submodule "treeshap"]
 	path = treeshap
 	url = https://github.com/cran/treeshap
@@ -67658,9 +67586,6 @@
 [submodule "vannstats"]
 	path = vannstats
 	url = https://github.com/cran/vannstats
-[submodule "vanquish"]
-	path = vanquish
-	url = https://github.com/cran/vanquish
 [submodule "vapour"]
 	path = vapour
 	url = https://github.com/cran/vapour
