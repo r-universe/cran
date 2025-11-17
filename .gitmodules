@@ -5051,6 +5051,9 @@
 [submodule "ELYP"]
 	path = ELYP
 	url = https://github.com/cran/ELYP
+[submodule "ELmethodVar"]
+	path = ELmethodVar
+	url = https://github.com/cran/ELmethodVar
 [submodule "EM.Fuzzy"]
 	path = EM.Fuzzy
 	url = https://github.com/cran/EM.Fuzzy
@@ -12575,6 +12578,9 @@
 [submodule "PDE"]
 	path = PDE
 	url = https://github.com/cran/PDE
+[submodule "PDEnaiveBayes"]
+	path = PDEnaiveBayes
+	url = https://github.com/cran/PDEnaiveBayes
 [submodule "PDFEstimator"]
 	path = PDFEstimator
 	url = https://github.com/cran/PDFEstimator
@@ -16466,6 +16472,9 @@
 [submodule "RolWinWavCor"]
 	path = RolWinWavCor
 	url = https://github.com/cran/RolWinWavCor
+[submodule "Romeb"]
+	path = Romeb
+	url = https://github.com/cran/Romeb
 [submodule "RonFHIR"]
 	path = RonFHIR
 	url = https://github.com/cran/RonFHIR
@@ -26948,6 +26957,9 @@
 [submodule "cnum"]
 	path = cnum
 	url = https://github.com/cran/cnum
+[submodule "coFAST"]
+	path = coFAST
+	url = https://github.com/cran/coFAST
 [submodule "coRanking"]
 	path = coRanking
 	url = https://github.com/cran/coRanking
@@ -32420,6 +32432,9 @@
 [submodule "engression"]
 	path = engression
 	url = https://github.com/cran/engression
+[submodule "enhancer"]
+	path = enhancer
+	url = https://github.com/cran/enhancer
 [submodule "enmSdmX"]
 	path = enmSdmX
 	url = https://github.com/cran/enmSdmX
