@@ -60248,6 +60248,9 @@
 [submodule "sgPLS"]
 	path = sgPLS
 	url = https://github.com/cran/sgPLS
+[submodule "sgapi"]
+	path = sgapi
+	url = https://github.com/cran/sgapi
 [submodule "sgboost"]
 	path = sgboost
 	url = https://github.com/cran/sgboost
