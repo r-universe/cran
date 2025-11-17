@@ -7235,6 +7235,9 @@
 [submodule "GeneralizedUmatrix"]
 	path = GeneralizedUmatrix
 	url = https://github.com/cran/GeneralizedUmatrix
+[submodule "GeneralizedUmatrixGPU"]
+	path = GeneralizedUmatrixGPU
+	url = https://github.com/cran/GeneralizedUmatrixGPU
 [submodule "GeneralizedWendland"]
 	path = GeneralizedWendland
 	url = https://github.com/cran/GeneralizedWendland
@@ -12521,6 +12524,9 @@
 [submodule "PCAmixdata"]
 	path = PCAmixdata
 	url = https://github.com/cran/PCAmixdata
+[submodule "PCBN"]
+	path = PCBN
+	url = https://github.com/cran/PCBN
 [submodule "PCBS"]
 	path = PCBS
 	url = https://github.com/cran/PCBS
@@ -16895,6 +16901,9 @@
 [submodule "SCdeconR"]
 	path = SCdeconR
 	url = https://github.com/cran/SCdeconR
+[submodule "SCoRES"]
+	path = SCoRES
+	url = https://github.com/cran/SCoRES
 [submodule "SCperf"]
 	path = SCperf
 	url = https://github.com/cran/SCperf
@@ -23867,6 +23876,9 @@
 [submodule "bimets"]
 	path = bimets
 	url = https://github.com/cran/bimets
+[submodule "bin2norm"]
+	path = bin2norm
+	url = https://github.com/cran/bin2norm
 [submodule "binGroup"]
 	path = binGroup
 	url = https://github.com/cran/binGroup
@@ -25451,6 +25463,9 @@
 [submodule "cases"]
 	path = cases
 	url = https://github.com/cran/cases
+[submodule "casimir"]
+	path = casimir
+	url = https://github.com/cran/casimir
 [submodule "casino"]
 	path = casino
 	url = https://github.com/cran/casino
@@ -34829,6 +34844,9 @@
 [submodule "fmf"]
 	path = fmf
 	url = https://github.com/cran/fmf
+[submodule "fmi"]
+	path = fmi
+	url = https://github.com/cran/fmi
 [submodule "fmpapi"]
 	path = fmpapi
 	url = https://github.com/cran/fmpapi
@@ -49454,6 +49472,9 @@
 [submodule "nvmix"]
 	path = nvmix
 	url = https://github.com/cran/nvmix
+[submodule "nycOpenData"]
+	path = nycOpenData
+	url = https://github.com/cran/nycOpenData
 [submodule "nycflights13"]
 	path = nycflights13
 	url = https://github.com/cran/nycflights13
@@ -53459,6 +53480,9 @@
 [submodule "prithulib"]
 	path = prithulib
 	url = https://github.com/cran/prithulib
+[submodule "privacyR"]
+	path = privacyR
+	url = https://github.com/cran/privacyR
 [submodule "prmisc"]
 	path = prmisc
 	url = https://github.com/cran/prmisc
@@ -55739,6 +55763,9 @@
 [submodule "rclipboard"]
 	path = rclipboard
 	url = https://github.com/cran/rclipboard
+[submodule "rclsp"]
+	path = rclsp
+	url = https://github.com/cran/rclsp
 [submodule "rcmdcheck"]
 	path = rcmdcheck
 	url = https://github.com/cran/rcmdcheck
@@ -57086,6 +57113,9 @@
 [submodule "riem"]
 	path = riem
 	url = https://github.com/cran/riem
+[submodule "riemstats"]
+	path = riemstats
+	url = https://github.com/cran/riemstats
 [submodule "riemtan"]
 	path = riemtan
 	url = https://github.com/cran/riemtan
