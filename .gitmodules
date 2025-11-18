@@ -5078,6 +5078,9 @@
 [submodule "EMDSVRhybrid"]
 	path = EMDSVRhybrid
 	url = https://github.com/cran/EMDSVRhybrid
+[submodule "EMGCR"]
+	path = EMGCR
+	url = https://github.com/cran/EMGCR
 [submodule "EMJMCMC"]
 	path = EMJMCMC
 	url = https://github.com/cran/EMJMCMC
@@ -22088,6 +22091,9 @@
 [submodule "arakno"]
 	path = arakno
 	url = https://github.com/cran/arakno
+[submodule "aramappings"]
+	path = aramappings
+	url = https://github.com/cran/aramappings
 [submodule "arc"]
 	path = arc
 	url = https://github.com/cran/arc
