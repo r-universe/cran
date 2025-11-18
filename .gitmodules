@@ -22643,6 +22643,9 @@
 [submodule "automap"]
 	path = automap
 	url = https://github.com/cran/automap
+[submodule "automatedRecLin"]
+	path = automatedRecLin
+	url = https://github.com/cran/automatedRecLin
 [submodule "automatedtests"]
 	path = automatedtests
 	url = https://github.com/cran/automatedtests
@@ -54641,6 +54644,9 @@
 [submodule "quartose"]
 	path = quartose
 	url = https://github.com/cran/quartose
+[submodule "quasar"]
+	path = quasar
+	url = https://github.com/cran/quasar
 [submodule "quaxnat"]
 	path = quaxnat
 	url = https://github.com/cran/quaxnat
