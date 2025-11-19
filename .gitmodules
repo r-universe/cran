@@ -17474,6 +17474,9 @@
 [submodule "SQUAREM"]
 	path = SQUAREM
 	url = https://github.com/cran/SQUAREM
+[submodule "SQUIRE"]
+	path = SQUIRE
+	url = https://github.com/cran/SQUIRE
 [submodule "SRCS"]
 	path = SRCS
 	url = https://github.com/cran/SRCS
@@ -69179,6 +69182,9 @@
 [submodule "xhaz"]
 	path = xhaz
 	url = https://github.com/cran/xhaz
+[submodule "xkcd"]
+	path = xkcd
+	url = https://github.com/cran/xkcd
 [submodule "xkcdcolors"]
 	path = xkcdcolors
 	url = https://github.com/cran/xkcdcolors
