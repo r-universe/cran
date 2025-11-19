@@ -5354,9 +5354,6 @@
 [submodule "ElectDecomp"]
 	path = ElectDecomp
 	url = https://github.com/cran/ElectDecomp
-[submodule "ElevDistr"]
-	path = ElevDistr
-	url = https://github.com/cran/ElevDistr
 [submodule "Elja"]
 	path = Elja
 	url = https://github.com/cran/Elja
@@ -13775,9 +13772,6 @@
 [submodule "ProfileLikelihood"]
 	path = ProfileLikelihood
 	url = https://github.com/cran/ProfileLikelihood
-[submodule "ProgModule"]
-	path = ProgModule
-	url = https://github.com/cran/ProgModule
 [submodule "ProjectManagement"]
 	path = ProjectManagement
 	url = https://github.com/cran/ProjectManagement
@@ -38360,21 +38354,6 @@
 [submodule "greport"]
 	path = greport
 	url = https://github.com/cran/greport
-[submodule "greta"]
-	path = greta
-	url = https://github.com/cran/greta
-[submodule "greta.censored"]
-	path = greta.censored
-	url = https://github.com/cran/greta.censored
-[submodule "greta.dynamics"]
-	path = greta.dynamics
-	url = https://github.com/cran/greta.dynamics
-[submodule "greta.gam"]
-	path = greta.gam
-	url = https://github.com/cran/greta.gam
-[submodule "greta.gp"]
-	path = greta.gp
-	url = https://github.com/cran/greta.gp
 [submodule "gretel"]
 	path = gretel
 	url = https://github.com/cran/gretel
@@ -51095,9 +51074,6 @@
 [submodule "pathviewr"]
 	path = pathviewr
 	url = https://github.com/cran/pathviewr
-[submodule "pathwayTMB"]
-	path = pathwayTMB
-	url = https://github.com/cran/pathwayTMB
 [submodule "patientProfilesVis"]
 	path = patientProfilesVis
 	url = https://github.com/cran/patientProfilesVis
