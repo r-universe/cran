@@ -4364,6 +4364,9 @@
 [submodule "DYM"]
 	path = DYM
 	url = https://github.com/cran/DYM
+[submodule "DYNATE"]
+	path = DYNATE
+	url = https://github.com/cran/DYNATE
 [submodule "DamageDetective"]
 	path = DamageDetective
 	url = https://github.com/cran/DamageDetective
