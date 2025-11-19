@@ -2900,6 +2900,9 @@
 [submodule "CensMFM"]
 	path = CensMFM
 	url = https://github.com/cran/CensMFM
+[submodule "CensRegSMSN"]
+	path = CensRegSMSN
+	url = https://github.com/cran/CensRegSMSN
 [submodule "CensSpatial"]
 	path = CensSpatial
 	url = https://github.com/cran/CensSpatial
@@ -5285,6 +5288,9 @@
 [submodule "Ecfun"]
 	path = Ecfun
 	url = https://github.com/cran/Ecfun
+[submodule "EcoCleanR"]
+	path = EcoCleanR
+	url = https://github.com/cran/EcoCleanR
 [submodule "EcoDiet"]
 	path = EcoDiet
 	url = https://github.com/cran/EcoDiet
@@ -8033,6 +8039,9 @@
 [submodule "IBFS"]
 	path = IBFS
 	url = https://github.com/cran/IBFS
+[submodule "IBLM"]
+	path = IBLM
+	url = https://github.com/cran/IBLM
 [submodule "IBMPopSim"]
 	path = IBMPopSim
 	url = https://github.com/cran/IBMPopSim
@@ -18227,6 +18236,9 @@
 [submodule "SoilTesting"]
 	path = SoilTesting
 	url = https://github.com/cran/SoilTesting
+[submodule "Sojourn"]
+	path = Sojourn
+	url = https://github.com/cran/Sojourn
 [submodule "Sojourn.Data"]
 	path = Sojourn.Data
 	url = https://github.com/cran/Sojourn.Data
@@ -19766,6 +19778,9 @@
 [submodule "TwoPhaseCorR"]
 	path = TwoPhaseCorR
 	url = https://github.com/cran/TwoPhaseCorR
+[submodule "TwoRegression"]
+	path = TwoRegression
+	url = https://github.com/cran/TwoRegression
 [submodule "TwoSampleTest.HD"]
 	path = TwoSampleTest.HD
 	url = https://github.com/cran/TwoSampleTest.HD
@@ -21398,6 +21413,9 @@
 [submodule "agrmt"]
 	path = agrmt
 	url = https://github.com/cran/agrmt
+[submodule "agrobox"]
+	path = agrobox
+	url = https://github.com/cran/agrobox
 [submodule "agrostab"]
 	path = agrostab
 	url = https://github.com/cran/agrostab
