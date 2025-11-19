@@ -33650,6 +33650,9 @@
 [submodule "fail"]
 	path = fail
 	url = https://github.com/cran/fail
+[submodule "fairGATE"]
+	path = fairGATE
+	url = https://github.com/cran/fairGATE
 [submodule "fairGNN"]
 	path = fairGNN
 	url = https://github.com/cran/fairGNN
@@ -34010,6 +34013,9 @@
 [submodule "fcaR"]
 	path = fcaR
 	url = https://github.com/cran/fcaR
+[submodule "fcall"]
+	path = fcall
+	url = https://github.com/cran/fcall
 [submodule "fcci"]
 	path = fcci
 	url = https://github.com/cran/fcci
@@ -44549,6 +44555,9 @@
 [submodule "mappeR"]
 	path = mappeR
 	url = https://github.com/cran/mappeR
+[submodule "mappestRisk"]
+	path = mappestRisk
+	url = https://github.com/cran/mappestRisk
 [submodule "mappings"]
 	path = mappings
 	url = https://github.com/cran/mappings
@@ -61838,6 +61847,9 @@
 [submodule "socviz"]
 	path = socviz
 	url = https://github.com/cran/socviz
+[submodule "sodaR"]
+	path = sodaR
+	url = https://github.com/cran/sodaR
 [submodule "sodavis"]
 	path = sodavis
 	url = https://github.com/cran/sodavis
