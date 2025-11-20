@@ -22001,6 +22001,9 @@
 [submodule "aphid"]
 	path = aphid
 	url = https://github.com/cran/aphid
+[submodule "aphylo"]
+	path = aphylo
+	url = https://github.com/cran/aphylo
 [submodule "api2lm"]
 	path = api2lm
 	url = https://github.com/cran/api2lm
