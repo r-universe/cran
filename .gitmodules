@@ -15542,6 +15542,9 @@
 [submodule "RaschSampler"]
 	path = RaschSampler
 	url = https://github.com/cran/RaschSampler
+[submodule "RastaRocket"]
+	path = RastaRocket
+	url = https://github.com/cran/RastaRocket
 [submodule "Rata"]
 	path = Rata
 	url = https://github.com/cran/Rata
