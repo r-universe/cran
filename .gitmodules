@@ -33146,6 +33146,9 @@
 [submodule "evolqg"]
 	path = evolqg
 	url = https://github.com/cran/evolqg
+[submodule "evolution"]
+	path = evolution
+	url = https://github.com/cran/evolution
 [submodule "evolvability"]
 	path = evolvability
 	url = https://github.com/cran/evolvability
@@ -40457,6 +40460,9 @@
 [submodule "ife"]
 	path = ife
 	url = https://github.com/cran/ife
+[submodule "ifit"]
+	path = ifit
+	url = https://github.com/cran/ifit
 [submodule "ifo"]
 	path = ifo
 	url = https://github.com/cran/ifo
@@ -59540,6 +59546,9 @@
 [submodule "scpoisson"]
 	path = scpoisson
 	url = https://github.com/cran/scpoisson
+[submodule "scpropreg"]
+	path = scpropreg
+	url = https://github.com/cran/scpropreg
 [submodule "scqe"]
 	path = scqe
 	url = https://github.com/cran/scqe
