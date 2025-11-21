@@ -59447,9 +59447,6 @@
 [submodule "schrute"]
 	path = schrute
 	url = https://github.com/cran/schrute
-[submodule "schtools"]
-	path = schtools
-	url = https://github.com/cran/schtools
 [submodule "schumaker"]
 	path = schumaker
 	url = https://github.com/cran/schumaker
