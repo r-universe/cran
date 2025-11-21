@@ -10856,6 +10856,9 @@
 [submodule "MazamaTimeSeries"]
 	path = MazamaTimeSeries
 	url = https://github.com/cran/MazamaTimeSeries
+[submodule "McMiso"]
+	path = McMiso
+	url = https://github.com/cran/McMiso
 [submodule "Mcomp"]
 	path = Mcomp
 	url = https://github.com/cran/Mcomp
@@ -20747,6 +20750,9 @@
 [submodule "abc.data"]
 	path = abc.data
 	url = https://github.com/cran/abc.data
+[submodule "abcel"]
+	path = abcel
+	url = https://github.com/cran/abcel
 [submodule "abclass"]
 	path = abclass
 	url = https://github.com/cran/abclass
@@ -32819,6 +32825,9 @@
 [submodule "ergm.rank"]
 	path = ergm.rank
 	url = https://github.com/cran/ergm.rank
+[submodule "ergm.sign"]
+	path = ergm.sign
+	url = https://github.com/cran/ergm.sign
 [submodule "ergmgp"]
 	path = ergmgp
 	url = https://github.com/cran/ergmgp
@@ -32924,6 +32933,9 @@
 [submodule "estadistica"]
 	path = estadistica
 	url = https://github.com/cran/estadistica
+[submodule "estar"]
+	path = estar
+	url = https://github.com/cran/estar
 [submodule "estatapi"]
 	path = estatapi
 	url = https://github.com/cran/estatapi
@@ -40487,6 +40499,9 @@
 [submodule "igcop"]
 	path = igcop
 	url = https://github.com/cran/igcop
+[submodule "igfetchr"]
+	path = igfetchr
+	url = https://github.com/cran/igfetchr
 [submodule "iglu"]
 	path = iglu
 	url = https://github.com/cran/iglu
@@ -54116,6 +54131,9 @@
 [submodule "pwSEM"]
 	path = pwSEM
 	url = https://github.com/cran/pwSEM
+[submodule "pwlapprox2d"]
+	path = pwlapprox2d
+	url = https://github.com/cran/pwlapprox2d
 [submodule "pwlmm"]
 	path = pwlmm
 	url = https://github.com/cran/pwlmm
@@ -55697,6 +55715,9 @@
 [submodule "rbounds"]
 	path = rbounds
 	url = https://github.com/cran/rbounds
+[submodule "rbranding"]
+	path = rbranding
+	url = https://github.com/cran/rbranding
 [submodule "rbridge"]
 	path = rbridge
 	url = https://github.com/cran/rbridge
@@ -58595,6 +58616,9 @@
 [submodule "runstats"]
 	path = runstats
 	url = https://github.com/cran/runstats
+[submodule "rupturesRcpp"]
+	path = rupturesRcpp
+	url = https://github.com/cran/rupturesRcpp
 [submodule "rush"]
 	path = rush
 	url = https://github.com/cran/rush
@@ -67028,6 +67052,9 @@
 [submodule "twn"]
 	path = twn
 	url = https://github.com/cran/twn
+[submodule "twoCoprimary"]
+	path = twoCoprimary
+	url = https://github.com/cran/twoCoprimary
 [submodule "twoStageDesignTMLE"]
 	path = twoStageDesignTMLE
 	url = https://github.com/cran/twoStageDesignTMLE
