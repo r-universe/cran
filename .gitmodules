@@ -31895,6 +31895,9 @@
 [submodule "ecolottery"]
 	path = ecolottery
 	url = https://github.com/cran/ecolottery
+[submodule "econdatasets"]
+	path = econdatasets
+	url = https://github.com/cran/econdatasets
 [submodule "econdataverse"]
 	path = econdataverse
 	url = https://github.com/cran/econdataverse
@@ -35156,6 +35159,9 @@
 [submodule "fourierin"]
 	path = fourierin
 	url = https://github.com/cran/fourierin
+[submodule "fourinarow"]
+	path = fourinarow
+	url = https://github.com/cran/fourinarow
 [submodule "fpCompare"]
 	path = fpCompare
 	url = https://github.com/cran/fpCompare
