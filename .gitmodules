@@ -16091,9 +16091,6 @@
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/cran/ReliaPlotR
-[submodule "ReliaShiny"]
-	path = ReliaShiny
-	url = https://github.com/cran/ReliaShiny
 [submodule "ReliabilityTheory"]
 	path = ReliabilityTheory
 	url = https://github.com/cran/ReliabilityTheory
@@ -20441,12 +20438,6 @@
 [submodule "WeibullR.ALT"]
 	path = WeibullR.ALT
 	url = https://github.com/cran/WeibullR.ALT
-[submodule "WeibullR.learnr"]
-	path = WeibullR.learnr
-	url = https://github.com/cran/WeibullR.learnr
-[submodule "WeibullR.plotly"]
-	path = WeibullR.plotly
-	url = https://github.com/cran/WeibullR.plotly
 [submodule "WeibullR.shiny"]
 	path = WeibullR.shiny
 	url = https://github.com/cran/WeibullR.shiny
