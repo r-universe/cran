@@ -10268,9 +10268,6 @@
 [submodule "MLSP"]
 	path = MLSP
 	url = https://github.com/cran/MLSP
-[submodule "MLVSBM"]
-	path = MLVSBM
-	url = https://github.com/cran/MLVSBM
 [submodule "MLZ"]
 	path = MLZ
 	url = https://github.com/cran/MLZ
@@ -17867,9 +17864,6 @@
 [submodule "SeqDetect"]
 	path = SeqDetect
 	url = https://github.com/cran/SeqDetect
-[submodule "SeqExpMatch"]
-	path = SeqExpMatch
-	url = https://github.com/cran/SeqExpMatch
 [submodule "SeqFeatR"]
 	path = SeqFeatR
 	url = https://github.com/cran/SeqFeatR
@@ -33671,9 +33665,6 @@
 [submodule "factset.protobuf.stach.v2"]
 	path = factset.protobuf.stach.v2
 	url = https://github.com/cran/factset.protobuf.stach.v2
-[submodule "factset.protobuf.stachextensions"]
-	path = factset.protobuf.stachextensions
-	url = https://github.com/cran/factset.protobuf.stachextensions
 [submodule "fad"]
 	path = fad
 	url = https://github.com/cran/fad
@@ -40895,9 +40886,6 @@
 [submodule "influential"]
 	path = influential
 	url = https://github.com/cran/influential
-[submodule "influxdbclient"]
-	path = influxdbclient
-	url = https://github.com/cran/influxdbclient
 [submodule "influxdbr"]
 	path = influxdbr
 	url = https://github.com/cran/influxdbr
@@ -47480,9 +47468,6 @@
 [submodule "mstknnclust"]
 	path = mstknnclust
 	url = https://github.com/cran/mstknnclust
-[submodule "mstrio"]
-	path = mstrio
-	url = https://github.com/cran/mstrio
 [submodule "mstudentd"]
 	path = mstudentd
 	url = https://github.com/cran/mstudentd
@@ -50006,9 +49991,6 @@
 [submodule "openairmaps"]
 	path = openairmaps
 	url = https://github.com/cran/openairmaps
-[submodule "openaistream"]
-	path = openaistream
-	url = https://github.com/cran/openaistream
 [submodule "openalexR"]
 	path = openalexR
 	url = https://github.com/cran/openalexR
@@ -57500,9 +57482,6 @@
 [submodule "rminer"]
 	path = rminer
 	url = https://github.com/cran/rminer
-[submodule "rminizinc"]
-	path = rminizinc
-	url = https://github.com/cran/rminizinc
 [submodule "rminqa"]
 	path = rminqa
 	url = https://github.com/cran/rminqa
@@ -60809,9 +60788,6 @@
 [submodule "shinyrecipes"]
 	path = shinyrecipes
 	url = https://github.com/cran/shinyrecipes
-[submodule "shinyreforms"]
-	path = shinyreforms
-	url = https://github.com/cran/shinyreforms
 [submodule "shinyscholar"]
 	path = shinyscholar
 	url = https://github.com/cran/shinyscholar
