@@ -53903,6 +53903,9 @@
 [submodule "pstest"]
 	path = pstest
 	url = https://github.com/cran/pstest
+[submodule "psvd"]
+	path = psvd
+	url = https://github.com/cran/psvd
 [submodule "psvmSDR"]
 	path = psvmSDR
 	url = https://github.com/cran/psvmSDR
