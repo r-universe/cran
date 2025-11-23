@@ -19253,6 +19253,9 @@
 [submodule "TSclust"]
 	path = TSclust
 	url = https://github.com/cran/TSclust
+[submodule "TSdeeplearning"]
+	path = TSdeeplearning
+	url = https://github.com/cran/TSdeeplearning
 [submodule "TSdisaggregation"]
 	path = TSdisaggregation
 	url = https://github.com/cran/TSdisaggregation
@@ -29726,6 +29729,9 @@
 [submodule "decoder"]
 	path = decoder
 	url = https://github.com/cran/decoder
+[submodule "decompDL"]
+	path = decompDL
+	url = https://github.com/cran/decompDL
 [submodule "decompML"]
 	path = decompML
 	url = https://github.com/cran/decompML
