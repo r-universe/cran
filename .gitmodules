@@ -14171,6 +14171,9 @@
 [submodule "R2sample"]
 	path = R2sample
 	url = https://github.com/cran/R2sample
+[submodule "R2ucare"]
+	path = R2ucare
+	url = https://github.com/cran/R2ucare
 [submodule "R3port"]
 	path = R3port
 	url = https://github.com/cran/R3port
