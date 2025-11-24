@@ -2681,6 +2681,9 @@
 [submodule "CSHShydRology"]
 	path = CSHShydRology
 	url = https://github.com/cran/CSHShydRology
+[submodule "CSIndicators"]
+	path = CSIndicators
+	url = https://github.com/cran/CSIndicators
 [submodule "CSMES"]
 	path = CSMES
 	url = https://github.com/cran/CSMES
@@ -10688,6 +10691,9 @@
 [submodule "MadanTextNetwork"]
 	path = MadanTextNetwork
 	url = https://github.com/cran/MadanTextNetwork
+[submodule "MaddisonData"]
+	path = MaddisonData
+	url = https://github.com/cran/MaddisonData
 [submodule "Maeswrap"]
 	path = Maeswrap
 	url = https://github.com/cran/Maeswrap
@@ -22700,6 +22706,9 @@
 [submodule "autostsm"]
 	path = autostsm
 	url = https://github.com/cran/autostsm
+[submodule "autotab"]
+	path = autotab
+	url = https://github.com/cran/autotab
 [submodule "autotesteR"]
 	path = autotesteR
 	url = https://github.com/cran/autotesteR
@@ -53927,6 +53936,9 @@
 [submodule "psqn"]
 	path = psqn
 	url = https://github.com/cran/psqn
+[submodule "psre"]
+	path = psre
+	url = https://github.com/cran/psre
 [submodule "pssmooth"]
 	path = pssmooth
 	url = https://github.com/cran/pssmooth
@@ -65801,6 +65813,9 @@
 [submodule "timechange"]
 	path = timechange
 	url = https://github.com/cran/timechange
+[submodule "timechecker"]
+	path = timechecker
+	url = https://github.com/cran/timechecker
 [submodule "timedelay"]
 	path = timedelay
 	url = https://github.com/cran/timedelay
@@ -66353,6 +66368,9 @@
 [submodule "trajr"]
 	path = trajr
 	url = https://github.com/cran/trajr
+[submodule "traktok"]
+	path = traktok
+	url = https://github.com/cran/traktok
 [submodule "tram"]
 	path = tram
 	url = https://github.com/cran/tram
