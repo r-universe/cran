@@ -14051,6 +14051,9 @@
 [submodule "QualityMeasure"]
 	path = QualityMeasure
 	url = https://github.com/cran/QualityMeasure
+[submodule "QuanDA"]
+	path = QuanDA
+	url = https://github.com/cran/QuanDA
 [submodule "Quandl"]
 	path = Quandl
 	url = https://github.com/cran/Quandl
@@ -22958,6 +22961,9 @@
 [submodule "bamp"]
 	path = bamp
 	url = https://github.com/cran/bamp
+[submodule "banR"]
+	path = banR
+	url = https://github.com/cran/banR
 [submodule "bandicoot"]
 	path = bandicoot
 	url = https://github.com/cran/bandicoot
@@ -29603,6 +29609,9 @@
 [submodule "dcmodify"]
 	path = dcmodify
 	url = https://github.com/cran/dcmodify
+[submodule "dcmstan"]
+	path = dcmstan
+	url = https://github.com/cran/dcmstan
 [submodule "dcorVS"]
 	path = dcorVS
 	url = https://github.com/cran/dcorVS
@@ -46709,6 +46718,9 @@
 [submodule "mmcm"]
 	path = mmcm
 	url = https://github.com/cran/mmcm
+[submodule "mmcmcBayes"]
+	path = mmcmcBayes
+	url = https://github.com/cran/mmcmcBayes
 [submodule "mmconvert"]
 	path = mmconvert
 	url = https://github.com/cran/mmconvert
@@ -49085,6 +49097,9 @@
 [submodule "nominatimlite"]
 	path = nominatimlite
 	url = https://github.com/cran/nominatimlite
+[submodule "nomisdata"]
+	path = nomisdata
+	url = https://github.com/cran/nomisdata
 [submodule "nomnoml"]
 	path = nomnoml
 	url = https://github.com/cran/nomnoml
@@ -61880,6 +61895,9 @@
 [submodule "socviz"]
 	path = socviz
 	url = https://github.com/cran/socviz
+[submodule "sodaR"]
+	path = sodaR
+	url = https://github.com/cran/sodaR
 [submodule "sodavis"]
 	path = sodavis
 	url = https://github.com/cran/sodavis
@@ -63020,6 +63038,9 @@
 [submodule "ssmsn"]
 	path = ssmsn
 	url = https://github.com/cran/ssmsn
+[submodule "sspm"]
+	path = sspm
+	url = https://github.com/cran/sspm
 [submodule "sspse"]
 	path = sspse
 	url = https://github.com/cran/sspse
