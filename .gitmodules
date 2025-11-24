@@ -52727,6 +52727,9 @@
 [submodule "poismf"]
 	path = poismf
 	url = https://github.com/cran/poismf
+[submodule "poisonfrogs"]
+	path = poisonfrogs
+	url = https://github.com/cran/poisonfrogs
 [submodule "poisson.glm.mix"]
 	path = poisson.glm.mix
 	url = https://github.com/cran/poisson.glm.mix
