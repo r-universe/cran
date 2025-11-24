@@ -11912,6 +11912,9 @@
 [submodule "Nmix"]
 	path = Nmix
 	url = https://github.com/cran/Nmix
+[submodule "NoSleepR"]
+	path = NoSleepR
+	url = https://github.com/cran/NoSleepR
 [submodule "NobBS"]
 	path = NobBS
 	url = https://github.com/cran/NobBS
@@ -23669,6 +23672,9 @@
 [submodule "bfboinet"]
 	path = bfboinet
 	url = https://github.com/cran/bfboinet
+[submodule "bfcluster"]
+	path = bfcluster
+	url = https://github.com/cran/bfcluster
 [submodule "bfp"]
 	path = bfp
 	url = https://github.com/cran/bfp
@@ -34472,6 +34478,9 @@
 [submodule "finnts"]
 	path = finnts
 	url = https://github.com/cran/finnts
+[submodule "finto"]
+	path = finto
+	url = https://github.com/cran/finto
 [submodule "fio"]
 	path = fio
 	url = https://github.com/cran/fio
@@ -50045,6 +50054,9 @@
 [submodule "opengraph"]
 	path = opengraph
 	url = https://github.com/cran/opengraph
+[submodule "openholidaysR"]
+	path = openholidaysR
+	url = https://github.com/cran/openholidaysR
 [submodule "openintro"]
 	path = openintro
 	url = https://github.com/cran/openintro
@@ -55499,6 +55511,9 @@
 [submodule "rapsimng"]
 	path = rapsimng
 	url = https://github.com/cran/rapsimng
+[submodule "raptools"]
+	path = raptools
+	url = https://github.com/cran/raptools
 [submodule "raptr"]
 	path = raptr
 	url = https://github.com/cran/raptr
