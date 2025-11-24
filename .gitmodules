@@ -61880,9 +61880,6 @@
 [submodule "socviz"]
 	path = socviz
 	url = https://github.com/cran/socviz
-[submodule "sodaR"]
-	path = sodaR
-	url = https://github.com/cran/sodaR
 [submodule "sodavis"]
 	path = sodavis
 	url = https://github.com/cran/sodavis
@@ -63023,9 +63020,6 @@
 [submodule "ssmsn"]
 	path = ssmsn
 	url = https://github.com/cran/ssmsn
-[submodule "sspm"]
-	path = sspm
-	url = https://github.com/cran/sspm
 [submodule "sspse"]
 	path = sspse
 	url = https://github.com/cran/sspse
