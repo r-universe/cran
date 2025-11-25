@@ -25670,6 +25670,9 @@
 [submodule "caviarpd"]
 	path = caviarpd
 	url = https://github.com/cran/caviarpd
+[submodule "cayleyR"]
+	path = cayleyR
+	url = https://github.com/cran/cayleyR
 [submodule "cba"]
 	path = cba
 	url = https://github.com/cran/cba
@@ -30749,6 +30752,9 @@
 [submodule "diversitree"]
 	path = diversitree
 	url = https://github.com/cran/diversitree
+[submodule "diversityArch"]
+	path = diversityArch
+	url = https://github.com/cran/diversityArch
 [submodule "diversityForest"]
 	path = diversityForest
 	url = https://github.com/cran/diversityForest
@@ -34718,6 +34724,9 @@
 [submodule "flex"]
 	path = flex
 	url = https://github.com/cran/flex
+[submodule "flexBCF"]
+	path = flexBCF
+	url = https://github.com/cran/flexBCF
 [submodule "flexCWM"]
 	path = flexCWM
 	url = https://github.com/cran/flexCWM
@@ -40529,6 +40538,9 @@
 [submodule "igfetchr"]
 	path = igfetchr
 	url = https://github.com/cran/igfetchr
+[submodule "iglm"]
+	path = iglm
+	url = https://github.com/cran/iglm
 [submodule "iglu"]
 	path = iglu
 	url = https://github.com/cran/iglu
@@ -44507,6 +44519,9 @@
 [submodule "manet"]
 	path = manet
 	url = https://github.com/cran/manet
+[submodule "mangoro"]
+	path = mangoro
+	url = https://github.com/cran/mangoro
 [submodule "manhplot"]
 	path = manhplot
 	url = https://github.com/cran/manhplot
@@ -50354,6 +50369,9 @@
 [submodule "orgR"]
 	path = orgR
 	url = https://github.com/cran/orgR
+[submodule "organik"]
+	path = organik
+	url = https://github.com/cran/organik
 [submodule "organizr"]
 	path = organizr
 	url = https://github.com/cran/organizr
