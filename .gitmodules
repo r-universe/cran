@@ -1196,6 +1196,9 @@
 [submodule "BLSM"]
 	path = BLSM
 	url = https://github.com/cran/BLSM
+[submodule "BLSloadR"]
+	path = BLSloadR
+	url = https://github.com/cran/BLSloadR
 [submodule "BMA"]
 	path = BMA
 	url = https://github.com/cran/BMA
@@ -34403,9 +34406,6 @@
 [submodule "filesstrings"]
 	path = filesstrings
 	url = https://github.com/cran/filesstrings
-[submodule "filibustr"]
-	path = filibustr
-	url = https://github.com/cran/filibustr
 [submodule "filling"]
 	path = filling
 	url = https://github.com/cran/filling
@@ -47333,6 +47333,9 @@
 [submodule "mrMLM.GUI"]
 	path = mrMLM.GUI
 	url = https://github.com/cran/mrMLM.GUI
+[submodule "mrap"]
+	path = mrap
+	url = https://github.com/cran/mrap
 [submodule "mratios"]
 	path = mratios
 	url = https://github.com/cran/mratios
@@ -54929,6 +54932,9 @@
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/cran/r5r
+[submodule "r5rgui"]
+	path = r5rgui
+	url = https://github.com/cran/r5rgui
 [submodule "r6methods"]
 	path = r6methods
 	url = https://github.com/cran/r6methods
