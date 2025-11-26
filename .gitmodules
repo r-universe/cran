@@ -50072,6 +50072,9 @@
 [submodule "opencv"]
 	path = opencv
 	url = https://github.com/cran/opencv
+[submodule "opendataformat"]
+	path = opendataformat
+	url = https://github.com/cran/opendataformat
 [submodule "opendatatoronto"]
 	path = opendatatoronto
 	url = https://github.com/cran/opendatatoronto
