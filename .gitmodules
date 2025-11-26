@@ -8978,6 +8978,9 @@
 [submodule "KTensorGraphs"]
 	path = KTensorGraphs
 	url = https://github.com/cran/KTensorGraphs
+[submodule "KWCChangepoint"]
+	path = KWCChangepoint
+	url = https://github.com/cran/KWCChangepoint
 [submodule "KappaGUI"]
 	path = KappaGUI
 	url = https://github.com/cran/KappaGUI
@@ -42635,6 +42638,9 @@
 [submodule "kutils"]
 	path = kutils
 	url = https://github.com/cran/kutils
+[submodule "kuzuR"]
+	path = kuzuR
+	url = https://github.com/cran/kuzuR
 [submodule "kvh"]
 	path = kvh
 	url = https://github.com/cran/kvh
@@ -44369,6 +44375,9 @@
 [submodule "maclogp"]
 	path = maclogp
 	url = https://github.com/cran/maclogp
+[submodule "macro"]
+	path = macro
+	url = https://github.com/cran/macro
 [submodule "macroBiome"]
 	path = macroBiome
 	url = https://github.com/cran/macroBiome
@@ -69467,6 +69476,9 @@
 [submodule "xtune"]
 	path = xtune
 	url = https://github.com/cran/xtune
+[submodule "xtvfreg"]
+	path = xtvfreg
+	url = https://github.com/cran/xtvfreg
 [submodule "xutils"]
 	path = xutils
 	url = https://github.com/cran/xutils
