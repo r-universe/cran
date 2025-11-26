@@ -15125,6 +15125,9 @@
 [submodule "RPatternJoin"]
 	path = RPatternJoin
 	url = https://github.com/cran/RPatternJoin
+[submodule "RPesto"]
+	path = RPesto
+	url = https://github.com/cran/RPesto
 [submodule "RPhosFate"]
 	path = RPhosFate
 	url = https://github.com/cran/RPhosFate
