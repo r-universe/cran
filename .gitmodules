@@ -34706,6 +34706,9 @@
 [submodule "flashr"]
 	path = flashr
 	url = https://github.com/cran/flashr
+[submodule "flassomsm"]
+	path = flassomsm
+	url = https://github.com/cran/flassomsm
 [submodule "flatr"]
 	path = flatr
 	url = https://github.com/cran/flatr
@@ -52691,6 +52694,9 @@
 [submodule "pmwg"]
 	path = pmwg
 	url = https://github.com/cran/pmwg
+[submodule "pmxNODE"]
+	path = pmxNODE
+	url = https://github.com/cran/pmxNODE
 [submodule "pmxTools"]
 	path = pmxTools
 	url = https://github.com/cran/pmxTools
