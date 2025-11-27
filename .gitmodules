@@ -6047,6 +6047,9 @@
 [submodule "FaaSr"]
 	path = FaaSr
 	url = https://github.com/cran/FaaSr
+[submodule "FactEff"]
+	path = FactEff
+	url = https://github.com/cran/FactEff
 [submodule "FactoClass"]
 	path = FactoClass
 	url = https://github.com/cran/FactoClass
@@ -27344,6 +27347,9 @@
 [submodule "colorist"]
 	path = colorist
 	url = https://github.com/cran/colorist
+[submodule "colorize"]
+	path = colorize
+	url = https://github.com/cran/colorize
 [submodule "colorizer"]
 	path = colorizer
 	url = https://github.com/cran/colorizer
@@ -37904,6 +37910,9 @@
 [submodule "glpkAPI"]
 	path = glpkAPI
 	url = https://github.com/cran/glpkAPI
+[submodule "glscalibrator"]
+	path = glscalibrator
+	url = https://github.com/cran/glscalibrator
 [submodule "glsm"]
 	path = glsm
 	url = https://github.com/cran/glsm
@@ -38378,6 +38387,9 @@
 [submodule "graposas"]
 	path = graposas
 	url = https://github.com/cran/graposas
+[submodule "grasps"]
+	path = grasps
+	url = https://github.com/cran/grasps
 [submodule "grateful"]
 	path = grateful
 	url = https://github.com/cran/grateful
@@ -44804,6 +44816,9 @@
 [submodule "mars"]
 	path = mars
 	url = https://github.com/cran/mars
+[submodule "marsrad"]
+	path = marsrad
+	url = https://github.com/cran/marsrad
 [submodule "mas"]
 	path = mas
 	url = https://github.com/cran/mas
@@ -65570,6 +65585,9 @@
 [submodule "tidydice"]
 	path = tidydice
 	url = https://github.com/cran/tidydice
+[submodule "tidydp"]
+	path = tidydp
+	url = https://github.com/cran/tidydp
 [submodule "tidydr"]
 	path = tidydr
 	url = https://github.com/cran/tidydr
