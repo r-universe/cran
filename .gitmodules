@@ -21488,9 +21488,6 @@
 [submodule "aiRthermo"]
 	path = aiRthermo
 	url = https://github.com/cran/aiRthermo
-[submodule "aidar"]
-	path = aidar
-	url = https://github.com/cran/aidar
 [submodule "aifeducation"]
 	path = aifeducation
 	url = https://github.com/cran/aifeducation
@@ -34331,9 +34328,6 @@
 [submodule "fftwtools"]
 	path = fftwtools
 	url = https://github.com/cran/fftwtools
-[submodule "fgdr"]
-	path = fgdr
-	url = https://github.com/cran/fgdr
 [submodule "fgeo"]
 	path = fgeo
 	url = https://github.com/cran/fgeo
@@ -42047,9 +42041,6 @@
 [submodule "jstager"]
 	path = jstager
 	url = https://github.com/cran/jstager
-[submodule "jstor"]
-	path = jstor
-	url = https://github.com/cran/jstor
 [submodule "jsutils"]
 	path = jsutils
 	url = https://github.com/cran/jsutils
