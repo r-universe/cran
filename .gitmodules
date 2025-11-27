@@ -27911,9 +27911,6 @@
 [submodule "cookiecutter"]
 	path = cookiecutter
 	url = https://github.com/cran/cookiecutter
-[submodule "cookiemonster"]
-	path = cookiemonster
-	url = https://github.com/cran/cookiemonster
 [submodule "cookies"]
 	path = cookies
 	url = https://github.com/cran/cookies
