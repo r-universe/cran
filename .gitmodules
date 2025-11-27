@@ -10124,9 +10124,6 @@
 [submodule "MHCtools"]
 	path = MHCtools
 	url = https://github.com/cran/MHCtools
-[submodule "MHD"]
-	path = MHD
-	url = https://github.com/cran/MHD
 [submodule "MHDA"]
 	path = MHDA
 	url = https://github.com/cran/MHDA
@@ -34520,9 +34517,6 @@
 [submodule "fipio"]
 	path = fipio
 	url = https://github.com/cran/fipio
-[submodule "fipp"]
-	path = fipp
-	url = https://github.com/cran/fipp
 [submodule "firebase"]
 	path = firebase
 	url = https://github.com/cran/firebase
@@ -44543,9 +44537,6 @@
 [submodule "manifestoR"]
 	path = manifestoR
 	url = https://github.com/cran/manifestoR
-[submodule "manifold"]
-	path = manifold
-	url = https://github.com/cran/manifold
 [submodule "manipulate"]
 	path = manipulate
 	url = https://github.com/cran/manipulate
@@ -45863,9 +45854,6 @@
 [submodule "mgpStreamingSDK"]
 	path = mgpStreamingSDK
 	url = https://github.com/cran/mgpStreamingSDK
-[submodule "mgss"]
-	path = mgss
-	url = https://github.com/cran/mgss
 [submodule "mgsub"]
 	path = mgsub
 	url = https://github.com/cran/mgsub
@@ -47447,9 +47435,6 @@
 [submodule "msamp"]
 	path = msamp
 	url = https://github.com/cran/msamp
-[submodule "msce"]
-	path = msce
-	url = https://github.com/cran/msce
 [submodule "mschart"]
 	path = mschart
 	url = https://github.com/cran/mschart
@@ -59312,9 +59297,6 @@
 [submodule "sbmSDP"]
 	path = sbmSDP
 	url = https://github.com/cran/sbmSDP
-[submodule "sbo"]
-	path = sbo
-	url = https://github.com/cran/sbo
 [submodule "sboost"]
 	path = sboost
 	url = https://github.com/cran/sboost
