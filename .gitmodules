@@ -44534,6 +44534,9 @@
 [submodule "manet"]
 	path = manet
 	url = https://github.com/cran/manet
+[submodule "mangoro"]
+	path = mangoro
+	url = https://github.com/cran/mangoro
 [submodule "manhplot"]
 	path = manhplot
 	url = https://github.com/cran/manhplot
