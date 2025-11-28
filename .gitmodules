@@ -46670,9 +46670,6 @@
 [submodule "mlr3oml"]
 	path = mlr3oml
 	url = https://github.com/cran/mlr3oml
-[submodule "mlr3pipelines"]
-	path = mlr3pipelines
-	url = https://github.com/cran/mlr3pipelines
 [submodule "mlr3resampling"]
 	path = mlr3resampling
 	url = https://github.com/cran/mlr3resampling
