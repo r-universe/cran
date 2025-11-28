@@ -104,6 +104,9 @@
 [submodule "ADPclust"]
 	path = ADPclust
 	url = https://github.com/cran/ADPclust
+[submodule "ADSIHT"]
+	path = ADSIHT
+	url = https://github.com/cran/ADSIHT
 [submodule "ADTSA"]
 	path = ADTSA
 	url = https://github.com/cran/ADTSA
