@@ -32330,6 +32330,9 @@
 [submodule "elfDistr"]
 	path = elfDistr
 	url = https://github.com/cran/elfDistr
+[submodule "elfgen"]
+	path = elfgen
+	url = https://github.com/cran/elfgen
 [submodule "elgbd"]
 	path = elgbd
 	url = https://github.com/cran/elgbd
@@ -33701,6 +33704,9 @@
 [submodule "factor256"]
 	path = factor256
 	url = https://github.com/cran/factor256
+[submodule "factorEx"]
+	path = factorEx
+	url = https://github.com/cran/factorEx
 [submodule "factorH"]
 	path = factorH
 	url = https://github.com/cran/factorH
@@ -56126,6 +56132,9 @@
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
+[submodule "read.dbc"]
+	path = read.dbc
+	url = https://github.com/cran/read.dbc
 [submodule "read.gb"]
 	path = read.gb
 	url = https://github.com/cran/read.gb
@@ -57056,6 +57065,9 @@
 [submodule "rfishnet2"]
 	path = rfishnet2
 	url = https://github.com/cran/rfishnet2
+[submodule "rflexscan"]
+	path = rflexscan
+	url = https://github.com/cran/rflexscan
 [submodule "rflsgen"]
 	path = rflsgen
 	url = https://github.com/cran/rflsgen
