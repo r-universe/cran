@@ -1811,6 +1811,9 @@
 [submodule "BigDataPE"]
 	path = BigDataPE
 	url = https://github.com/cran/BigDataPE
+[submodule "BigDataStatMeth"]
+	path = BigDataStatMeth
+	url = https://github.com/cran/BigDataStatMeth
 [submodule "BigQuic"]
 	path = BigQuic
 	url = https://github.com/cran/BigQuic
