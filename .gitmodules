@@ -764,9 +764,6 @@
 [submodule "Arothron"]
 	path = Arothron
 	url = https://github.com/cran/Arothron
-[submodule "Asiaverse"]
-	path = Asiaverse
-	url = https://github.com/cran/Asiaverse
 [submodule "AsioHeaders"]
 	path = AsioHeaders
 	url = https://github.com/cran/AsioHeaders
@@ -18302,9 +18299,6 @@
 [submodule "SoupX"]
 	path = SoupX
 	url = https://github.com/cran/SoupX
-[submodule "SouthKoreAPIs"]
-	path = SouthKoreAPIs
-	url = https://github.com/cran/SouthKoreAPIs
 [submodule "SouthParkRshiny"]
 	path = SouthParkRshiny
 	url = https://github.com/cran/SouthParkRshiny
@@ -29090,9 +29084,6 @@
 [submodule "cxr"]
 	path = cxr
 	url = https://github.com/cran/cxr
-[submodule "cxreg"]
-	path = cxreg
-	url = https://github.com/cran/cxreg
 [submodule "cxxfunplus"]
 	path = cxxfunplus
 	url = https://github.com/cran/cxxfunplus
@@ -34406,9 +34397,6 @@
 [submodule "figpatch"]
 	path = figpatch
 	url = https://github.com/cran/figpatch
-[submodule "figuRes2"]
-	path = figuRes2
-	url = https://github.com/cran/figuRes2
 [submodule "file2meco"]
 	path = file2meco
 	url = https://github.com/cran/file2meco
@@ -46880,9 +46868,6 @@
 [submodule "mnormt"]
 	path = mnormt
 	url = https://github.com/cran/mnormt
-[submodule "mnreadR"]
-	path = mnreadR
-	url = https://github.com/cran/mnreadR
 [submodule "mnt"]
 	path = mnt
 	url = https://github.com/cran/mnt
@@ -47432,9 +47417,6 @@
 [submodule "mrfse"]
 	path = mrfse
 	url = https://github.com/cran/mrfse
-[submodule "mrgdp"]
-	path = mrgdp
-	url = https://github.com/cran/mrgdp
 [submodule "mrgsim.parallel"]
 	path = mrgsim.parallel
 	url = https://github.com/cran/mrgsim.parallel
@@ -56753,9 +56735,6 @@
 [submodule "repo"]
 	path = repo
 	url = https://github.com/cran/repo
-[submodule "repo.data"]
-	path = repo.data
-	url = https://github.com/cran/repo.data
 [submodule "repoRter.nih"]
 	path = repoRter.nih
 	url = https://github.com/cran/repoRter.nih
