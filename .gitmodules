@@ -27917,9 +27917,6 @@
 [submodule "cookiecutter"]
 	path = cookiecutter
 	url = https://github.com/cran/cookiecutter
-[submodule "cookiemonster"]
-	path = cookiemonster
-	url = https://github.com/cran/cookiemonster
 [submodule "cookies"]
 	path = cookies
 	url = https://github.com/cran/cookies
@@ -60938,6 +60935,9 @@
 [submodule "shinyvalidate"]
 	path = shinyvalidate
 	url = https://github.com/cran/shinyvalidate
+[submodule "shipunov"]
+	path = shipunov
+	url = https://github.com/cran/shipunov
 [submodule "shopifyadsR"]
 	path = shopifyadsR
 	url = https://github.com/cran/shopifyadsR
