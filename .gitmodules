@@ -57206,6 +57206,9 @@
 [submodule "rhub"]
 	path = rhub
 	url = https://github.com/cran/rhub
+[submodule "rhymer"]
+	path = rhymer
+	url = https://github.com/cran/rhymer
 [submodule "rhype"]
 	path = rhype
 	url = https://github.com/cran/rhype
