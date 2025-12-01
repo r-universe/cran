@@ -9125,6 +9125,9 @@
 [submodule "LAWBL"]
 	path = LAWBL
 	url = https://github.com/cran/LAWBL
+[submodule "LBBNN"]
+	path = LBBNN
+	url = https://github.com/cran/LBBNN
 [submodule "LBDiscover"]
 	path = LBDiscover
 	url = https://github.com/cran/LBDiscover
@@ -13037,6 +13040,9 @@
 [submodule "PSLM2015"]
 	path = PSLM2015
 	url = https://github.com/cran/PSLM2015
+[submodule "PSPI"]
+	path = PSPI
+	url = https://github.com/cran/PSPI
 [submodule "PSPManalysis"]
 	path = PSPManalysis
 	url = https://github.com/cran/PSPManalysis
@@ -19613,6 +19619,9 @@
 [submodule "TopicScore"]
 	path = TopicScore
 	url = https://github.com/cran/TopicScore
+[submodule "TopicTestlet"]
+	path = TopicTestlet
+	url = https://github.com/cran/TopicTestlet
 [submodule "TotalCopheneticIndex"]
 	path = TotalCopheneticIndex
 	url = https://github.com/cran/TotalCopheneticIndex
@@ -23036,6 +23045,9 @@
 [submodule "barrks"]
 	path = barrks
 	url = https://github.com/cran/barrks
+[submodule "barry"]
+	path = barry
+	url = https://github.com/cran/barry
 [submodule "bartCause"]
 	path = bartCause
 	url = https://github.com/cran/bartCause
@@ -27878,6 +27890,9 @@
 [submodule "convergEU"]
 	path = convergEU
 	url = https://github.com/cran/convergEU
+[submodule "convergenceDFM"]
+	path = convergenceDFM
+	url = https://github.com/cran/convergenceDFM
 [submodule "conversim"]
 	path = conversim
 	url = https://github.com/cran/conversim
@@ -30665,6 +30680,9 @@
 [submodule "distinctiveness"]
 	path = distinctiveness
 	url = https://github.com/cran/distinctiveness
+[submodule "distionary"]
+	path = distionary
+	url = https://github.com/cran/distionary
 [submodule "disto"]
 	path = disto
 	url = https://github.com/cran/disto
@@ -63620,6 +63638,9 @@
 [submodule "stodom"]
 	path = stodom
 	url = https://github.com/cran/stodom
+[submodule "stoichUtilities"]
+	path = stoichUtilities
+	url = https://github.com/cran/stoichUtilities
 [submodule "stoichcalc"]
 	path = stoichcalc
 	url = https://github.com/cran/stoichcalc
