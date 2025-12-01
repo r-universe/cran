@@ -49601,6 +49601,9 @@
 [submodule "o2ools"]
 	path = o2ools
 	url = https://github.com/cran/o2ools
+[submodule "o2plsda"]
+	path = o2plsda
+	url = https://github.com/cran/o2plsda
 [submodule "oHMMed"]
 	path = oHMMed
 	url = https://github.com/cran/oHMMed
