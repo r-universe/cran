@@ -6323,9 +6323,6 @@
 [submodule "ForecastCombinations"]
 	path = ForecastCombinations
 	url = https://github.com/cran/ForecastCombinations
-[submodule "ForecastTB"]
-	path = ForecastTB
-	url = https://github.com/cran/ForecastTB
 [submodule "ForecastingEnsembles"]
 	path = ForecastingEnsembles
 	url = https://github.com/cran/ForecastingEnsembles
@@ -13622,9 +13619,6 @@
 [submodule "PopGenReport"]
 	path = PopGenReport
 	url = https://github.com/cran/PopGenReport
-[submodule "PopPsiSeqR"]
-	path = PopPsiSeqR
-	url = https://github.com/cran/PopPsiSeqR
 [submodule "PopVar"]
 	path = PopVar
 	url = https://github.com/cran/PopVar
@@ -21473,9 +21467,6 @@
 [submodule "ahnr"]
 	path = ahnr
 	url = https://github.com/cran/ahnr
-[submodule "ahpsurvey"]
-	path = ahpsurvey
-	url = https://github.com/cran/ahpsurvey
 [submodule "ahptopsis2n"]
 	path = ahptopsis2n
 	url = https://github.com/cran/ahptopsis2n
@@ -32096,9 +32087,6 @@
 [submodule "edgedata"]
 	path = edgedata
 	url = https://github.com/cran/edgedata
-[submodule "edgemodelr"]
-	path = edgemodelr
-	url = https://github.com/cran/edgemodelr
 [submodule "edibble"]
 	path = edibble
 	url = https://github.com/cran/edibble
