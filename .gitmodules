@@ -4262,6 +4262,9 @@
 [submodule "DSBayes"]
 	path = DSBayes
 	url = https://github.com/cran/DSBayes
+[submodule "DSFM"]
+	path = DSFM
+	url = https://github.com/cran/DSFM
 [submodule "DSI"]
 	path = DSI
 	url = https://github.com/cran/DSI
@@ -5651,6 +5654,9 @@
 [submodule "ExpAnalysis3d"]
 	path = ExpAnalysis3d
 	url = https://github.com/cran/ExpAnalysis3d
+[submodule "ExpBites"]
+	path = ExpBites
+	url = https://github.com/cran/ExpBites
 [submodule "ExpDE"]
 	path = ExpDE
 	url = https://github.com/cran/ExpDE
@@ -10253,6 +10259,9 @@
 [submodule "MLEcens"]
 	path = MLEcens
 	url = https://github.com/cran/MLEcens
+[submodule "MLFDR"]
+	path = MLFDR
+	url = https://github.com/cran/MLFDR
 [submodule "MLFS"]
 	path = MLFS
 	url = https://github.com/cran/MLFS
@@ -18524,6 +18533,9 @@
 [submodule "Spower"]
 	path = Spower
 	url = https://github.com/cran/Spower
+[submodule "SpuriousMemory"]
+	path = SpuriousMemory
+	url = https://github.com/cran/SpuriousMemory
 [submodule "SqlRender"]
 	path = SqlRender
 	url = https://github.com/cran/SqlRender
@@ -23825,6 +23837,9 @@
 [submodule "bigPCAcpp"]
 	path = bigPCAcpp
 	url = https://github.com/cran/bigPCAcpp
+[submodule "bigPLSR"]
+	path = bigPLSR
+	url = https://github.com/cran/bigPLSR
 [submodule "bigPLScox"]
 	path = bigPLScox
 	url = https://github.com/cran/bigPLScox
@@ -32510,6 +32525,9 @@
 [submodule "energy"]
 	path = energy
 	url = https://github.com/cran/energy
+[submodule "energyGOF"]
+	path = energyGOF
+	url = https://github.com/cran/energyGOF
 [submodule "energymethod"]
 	path = energymethod
 	url = https://github.com/cran/energymethod
@@ -39278,6 +39296,9 @@
 [submodule "heatwaveR"]
 	path = heatwaveR
 	url = https://github.com/cran/heatwaveR
+[submodule "heavytails"]
+	path = heavytails
+	url = https://github.com/cran/heavytails
 [submodule "heck"]
 	path = heck
 	url = https://github.com/cran/heck
@@ -49775,6 +49796,9 @@
 [submodule "odetector"]
 	path = odetector
 	url = https://github.com/cran/odetector
+[submodule "odiffr"]
+	path = odiffr
+	url = https://github.com/cran/odiffr
 [submodule "odin"]
 	path = odin
 	url = https://github.com/cran/odin
@@ -59873,6 +59897,9 @@
 [submodule "secrettext"]
 	path = secrettext
 	url = https://github.com/cran/secrettext
+[submodule "secrfunc"]
+	path = secrfunc
+	url = https://github.com/cran/secrfunc
 [submodule "secrlinear"]
 	path = secrlinear
 	url = https://github.com/cran/secrlinear
@@ -66782,6 +66809,9 @@
 [submodule "truncreg"]
 	path = truncreg
 	url = https://github.com/cran/truncreg
+[submodule "trunmnt"]
+	path = trunmnt
+	url = https://github.com/cran/trunmnt
 [submodule "trust"]
 	path = trust
 	url = https://github.com/cran/trust
