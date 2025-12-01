@@ -22472,9 +22472,6 @@
 [submodule "assortnet"]
 	path = assortnet
 	url = https://github.com/cran/assortnet
-[submodule "ast2ast"]
-	path = ast2ast
-	url = https://github.com/cran/ast2ast
 [submodule "asteRisk"]
 	path = asteRisk
 	url = https://github.com/cran/asteRisk
@@ -30209,9 +30206,6 @@
 [submodule "dfcrm"]
 	path = dfcrm
 	url = https://github.com/cran/dfcrm
-[submodule "dfdr"]
-	path = dfdr
-	url = https://github.com/cran/dfdr
 [submodule "dfeR"]
 	path = dfeR
 	url = https://github.com/cran/dfeR
