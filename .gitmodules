@@ -25985,9 +25985,6 @@
 [submodule "ces"]
 	path = ces
 	url = https://github.com/cran/ces
-[submodule "cesR"]
-	path = cesR
-	url = https://github.com/cran/cesR
 [submodule "ceser"]
 	path = ceser
 	url = https://github.com/cran/ceser
@@ -37868,9 +37865,6 @@
 [submodule "glmtrans"]
 	path = glmtrans
 	url = https://github.com/cran/glmtrans
-[submodule "glmtree"]
-	path = glmtree
-	url = https://github.com/cran/glmtree
 [submodule "glmulti"]
 	path = glmulti
 	url = https://github.com/cran/glmulti
