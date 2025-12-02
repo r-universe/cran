@@ -39161,9 +39161,6 @@
 [submodule "hdd"]
 	path = hdd
 	url = https://github.com/cran/hdd
-[submodule "hdf5lib"]
-	path = hdf5lib
-	url = https://github.com/cran/hdf5lib
 [submodule "hdf5r"]
 	path = hdf5r
 	url = https://github.com/cran/hdf5r
@@ -47261,6 +47258,9 @@
 [submodule "mosum"]
 	path = mosum
 	url = https://github.com/cran/mosum
+[submodule "motherduck"]
+	path = motherduck
+	url = https://github.com/cran/motherduck
 [submodule "motif"]
 	path = motif
 	url = https://github.com/cran/motif
