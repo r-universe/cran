@@ -12653,6 +12653,9 @@
 [submodule "PDtoolkit"]
 	path = PDtoolkit
 	url = https://github.com/cran/PDtoolkit
+[submodule "PEAXAI"]
+	path = PEAXAI
+	url = https://github.com/cran/PEAXAI
 [submodule "PEGroupTesting"]
 	path = PEGroupTesting
 	url = https://github.com/cran/PEGroupTesting
@@ -18239,6 +18242,9 @@
 [submodule "SnowballC"]
 	path = SnowballC
 	url = https://github.com/cran/SnowballC
+[submodule "Sobol4R"]
+	path = Sobol4R
+	url = https://github.com/cran/Sobol4R
 [submodule "SobolSequence"]
 	path = SobolSequence
 	url = https://github.com/cran/SobolSequence
@@ -18623,6 +18629,9 @@
 [submodule "StateLevelForest"]
 	path = StateLevelForest
 	url = https://github.com/cran/StateLevelForest
+[submodule "StealLikeBayes"]
+	path = StealLikeBayes
+	url = https://github.com/cran/StealLikeBayes
 [submodule "SteinIV"]
 	path = SteinIV
 	url = https://github.com/cran/SteinIV
@@ -39161,6 +39170,9 @@
 [submodule "hdd"]
 	path = hdd
 	url = https://github.com/cran/hdd
+[submodule "hdf5lib"]
+	path = hdf5lib
+	url = https://github.com/cran/hdf5lib
 [submodule "hdf5r"]
 	path = hdf5r
 	url = https://github.com/cran/hdf5r
@@ -46151,6 +46163,9 @@
 [submodule "mimsy"]
 	path = mimsy
 	url = https://github.com/cran/mimsy
+[submodule "min2HalfFFD"]
+	path = min2HalfFFD
+	url = https://github.com/cran/min2HalfFFD
 [submodule "minFactorial"]
 	path = minFactorial
 	url = https://github.com/cran/minFactorial
