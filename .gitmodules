@@ -17102,6 +17102,9 @@
 [submodule "SGPdata"]
 	path = SGPdata
 	url = https://github.com/cran/SGPdata
+[submodule "SHAKTI"]
+	path = SHAKTI
+	url = https://github.com/cran/SHAKTI
 [submodule "SHAPBoost"]
 	path = SHAPBoost
 	url = https://github.com/cran/SHAPBoost
@@ -57542,6 +57545,9 @@
 [submodule "rlowdb"]
 	path = rlowdb
 	url = https://github.com/cran/rlowdb
+[submodule "rlppinv"]
+	path = rlppinv
+	url = https://github.com/cran/rlppinv
 [submodule "rly"]
 	path = rly
 	url = https://github.com/cran/rly
@@ -58634,6 +58640,9 @@
 [submodule "rtlr"]
 	path = rtlr
 	url = https://github.com/cran/rtlr
+[submodule "rtmpinv"]
+	path = rtmpinv
+	url = https://github.com/cran/rtmpinv
 [submodule "rtmpt"]
 	path = rtmpt
 	url = https://github.com/cran/rtmpt
@@ -61940,6 +61949,9 @@
 [submodule "snha"]
 	path = snha
 	url = https://github.com/cran/snha
+[submodule "snic"]
+	path = snic
+	url = https://github.com/cran/snic
 [submodule "snirh.lab"]
 	path = snirh.lab
 	url = https://github.com/cran/snirh.lab
@@ -64829,6 +64841,9 @@
 [submodule "tashu"]
 	path = tashu
 	url = https://github.com/cran/tashu
+[submodule "taskqueue"]
+	path = taskqueue
+	url = https://github.com/cran/taskqueue
 [submodule "tastyR"]
 	path = tastyR
 	url = https://github.com/cran/tastyR
