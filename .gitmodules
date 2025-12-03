@@ -35777,9 +35777,6 @@
 [submodule "fwlplot"]
 	path = fwlplot
 	url = https://github.com/cran/fwlplot
-[submodule "fwsim"]
-	path = fwsim
-	url = https://github.com/cran/fwsim
 [submodule "fwtraits"]
 	path = fwtraits
 	url = https://github.com/cran/fwtraits
