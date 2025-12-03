@@ -3023,6 +3023,9 @@
 [submodule "CholWishart"]
 	path = CholWishart
 	url = https://github.com/cran/CholWishart
+[submodule "CimpleG"]
+	path = CimpleG
+	url = https://github.com/cran/CimpleG
 [submodule "CircMLE"]
 	path = CircMLE
 	url = https://github.com/cran/CircMLE
@@ -6305,6 +6308,9 @@
 [submodule "FoCo2"]
 	path = FoCo2
 	url = https://github.com/cran/FoCo2
+[submodule "FoRDM"]
+	path = FoRDM
+	url = https://github.com/cran/FoRDM
 [submodule "FoReco"]
 	path = FoReco
 	url = https://github.com/cran/FoReco
@@ -11387,6 +11393,9 @@
 [submodule "MultiPhen"]
 	path = MultiPhen
 	url = https://github.com/cran/MultiPhen
+[submodule "MultiRFM"]
+	path = MultiRFM
+	url = https://github.com/cran/MultiRFM
 [submodule "MultiRNG"]
 	path = MultiRNG
 	url = https://github.com/cran/MultiRNG
@@ -36686,6 +36695,9 @@
 [submodule "geoprofiler"]
 	path = geoprofiler
 	url = https://github.com/cran/geoprofiler
+[submodule "geopsych"]
+	path = geopsych
+	url = https://github.com/cran/geopsych
 [submodule "georefdatar"]
 	path = georefdatar
 	url = https://github.com/cran/georefdatar
@@ -50528,6 +50540,9 @@
 [submodule "osrm"]
 	path = osrm
 	url = https://github.com/cran/osrm
+[submodule "osrm.backend"]
+	path = osrm.backend
+	url = https://github.com/cran/osrm.backend
 [submodule "osrmr"]
 	path = osrmr
 	url = https://github.com/cran/osrmr
@@ -61253,6 +61268,9 @@
 [submodule "simer"]
 	path = simer
 	url = https://github.com/cran/simer
+[submodule "simest"]
+	path = simest
+	url = https://github.com/cran/simest
 [submodule "simex"]
 	path = simex
 	url = https://github.com/cran/simex
@@ -63440,6 +63458,9 @@
 [submodule "statip"]
 	path = statip
 	url = https://github.com/cran/statip
+[submodule "statisR"]
+	path = statisR
+	url = https://github.com/cran/statisR
 [submodule "statisfactory"]
 	path = statisfactory
 	url = https://github.com/cran/statisfactory
