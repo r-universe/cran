@@ -17084,6 +17084,9 @@
 [submodule "SFM"]
 	path = SFM
 	url = https://github.com/cran/SFM
+[submodule "SFOCDs"]
+	path = SFOCDs
+	url = https://github.com/cran/SFOCDs
 [submodule "SFPL"]
 	path = SFPL
 	url = https://github.com/cran/SFPL
@@ -19091,6 +19094,9 @@
 [submodule "TFMPvalue"]
 	path = TFMPvalue
 	url = https://github.com/cran/TFMPvalue
+[submodule "TFORGE"]
+	path = TFORGE
+	url = https://github.com/cran/TFORGE
 [submodule "TFRE"]
 	path = TFRE
 	url = https://github.com/cran/TFRE
@@ -24353,6 +24359,9 @@
 [submodule "blockcluster"]
 	path = blockcluster
 	url = https://github.com/cran/blockcluster
+[submodule "blockedFF"]
+	path = blockedFF
+	url = https://github.com/cran/blockedFF
 [submodule "blocking"]
 	path = blocking
 	url = https://github.com/cran/blocking
@@ -26414,6 +26423,9 @@
 [submodule "ciflyr"]
 	path = ciflyr
 	url = https://github.com/cran/ciflyr
+[submodule "cifmodeling"]
+	path = cifmodeling
+	url = https://github.com/cran/cifmodeling
 [submodule "cifti"]
 	path = cifti
 	url = https://github.com/cran/cifti
@@ -29564,6 +29576,9 @@
 [submodule "datrProfile"]
 	path = datrProfile
 	url = https://github.com/cran/datrProfile
+[submodule "dauR"]
+	path = dauR
+	url = https://github.com/cran/dauR
 [submodule "dauphin"]
 	path = dauphin
 	url = https://github.com/cran/dauphin
@@ -30056,6 +30071,9 @@
 [submodule "denstrip"]
 	path = denstrip
 	url = https://github.com/cran/denstrip
+[submodule "dentomedical"]
+	path = dentomedical
+	url = https://github.com/cran/dentomedical
 [submodule "denvax"]
 	path = denvax
 	url = https://github.com/cran/denvax
@@ -41624,6 +41642,9 @@
 [submodule "istacr"]
 	path = istacr
 	url = https://github.com/cran/istacr
+[submodule "istat"]
+	path = istat
+	url = https://github.com/cran/istat
 [submodule "isva"]
 	path = isva
 	url = https://github.com/cran/isva
