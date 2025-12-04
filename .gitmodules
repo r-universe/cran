@@ -8021,6 +8021,9 @@
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cran/HypergeoMat
+[submodule "I14Y"]
+	path = I14Y
+	url = https://github.com/cran/I14Y
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
@@ -49640,9 +49643,6 @@
 [submodule "nzilbb.labbcat"]
 	path = nzilbb.labbcat
 	url = https://github.com/cran/nzilbb.labbcat
-[submodule "nzilbb.vowels"]
-	path = nzilbb.vowels
-	url = https://github.com/cran/nzilbb.vowels
 [submodule "nzpullover"]
 	path = nzpullover
 	url = https://github.com/cran/nzpullover
@@ -49967,6 +49967,9 @@
 [submodule "oncomsm"]
 	path = oncomsm
 	url = https://github.com/cran/oncomsm
+[submodule "oncrawlR"]
+	path = oncrawlR
+	url = https://github.com/cran/oncrawlR
 [submodule "oneclust"]
 	path = oneclust
 	url = https://github.com/cran/oneclust
