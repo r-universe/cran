@@ -25655,6 +25655,9 @@
 [submodule "cauchypca"]
 	path = cauchypca
 	url = https://github.com/cran/cauchypca
+[submodule "caugi"]
+	path = caugi
+	url = https://github.com/cran/caugi
 [submodule "cauphy"]
 	path = cauphy
 	url = https://github.com/cran/cauphy
