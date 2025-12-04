@@ -8021,9 +8021,6 @@
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cran/HypergeoMat
-[submodule "I14Y"]
-	path = I14Y
-	url = https://github.com/cran/I14Y
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
@@ -49970,9 +49967,6 @@
 [submodule "oncomsm"]
 	path = oncomsm
 	url = https://github.com/cran/oncomsm
-[submodule "oncrawlR"]
-	path = oncrawlR
-	url = https://github.com/cran/oncrawlR
 [submodule "oneclust"]
 	path = oneclust
 	url = https://github.com/cran/oneclust
