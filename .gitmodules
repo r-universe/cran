@@ -49643,6 +49643,9 @@
 [submodule "nzilbb.labbcat"]
 	path = nzilbb.labbcat
 	url = https://github.com/cran/nzilbb.labbcat
+[submodule "nzilbb.vowels"]
+	path = nzilbb.vowels
+	url = https://github.com/cran/nzilbb.vowels
 [submodule "nzpullover"]
 	path = nzpullover
 	url = https://github.com/cran/nzpullover
