@@ -41624,9 +41624,6 @@
 [submodule "istacr"]
 	path = istacr
 	url = https://github.com/cran/istacr
-[submodule "istat"]
-	path = istat
-	url = https://github.com/cran/istat
 [submodule "isva"]
 	path = isva
 	url = https://github.com/cran/isva
