@@ -64847,9 +64847,6 @@
 [submodule "tanaka"]
 	path = tanaka
 	url = https://github.com/cran/tanaka
-[submodule "tangles"]
-	path = tangles
-	url = https://github.com/cran/tangles
 [submodule "tangram"]
 	path = tangram
 	url = https://github.com/cran/tangram
