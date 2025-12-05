@@ -4757,6 +4757,9 @@
 [submodule "DistributionUtils"]
 	path = DistributionUtils
 	url = https://github.com/cran/DistributionUtils
+[submodule "Ditwah"]
+	path = Ditwah
+	url = https://github.com/cran/Ditwah
 [submodule "DivE"]
 	path = DivE
 	url = https://github.com/cran/DivE
@@ -51248,6 +51251,9 @@
 [submodule "patentsview"]
 	path = patentsview
 	url = https://github.com/cran/patentsview
+[submodule "pater"]
+	path = pater
+	url = https://github.com/cran/pater
 [submodule "path.chain"]
 	path = path.chain
 	url = https://github.com/cran/path.chain
