@@ -44321,6 +44321,9 @@
 [submodule "luzlogr"]
 	path = luzlogr
 	url = https://github.com/cran/luzlogr
+[submodule "lvimp"]
+	path = lvimp
+	url = https://github.com/cran/lvimp
 [submodule "lvmcomp"]
 	path = lvmcomp
 	url = https://github.com/cran/lvmcomp
@@ -47222,6 +47225,9 @@
 [submodule "moodleR"]
 	path = moodleR
 	url = https://github.com/cran/moodleR
+[submodule "moodlequiz"]
+	path = moodlequiz
+	url = https://github.com/cran/moodlequiz
 [submodule "moodlequizR"]
 	path = moodlequizR
 	url = https://github.com/cran/moodlequizR
@@ -69716,6 +69722,9 @@
 [submodule "zalpha"]
 	path = zalpha
 	url = https://github.com/cran/zalpha
+[submodule "zarr"]
+	path = zarr
+	url = https://github.com/cran/zarr
 [submodule "zctaCrosswalk"]
 	path = zctaCrosswalk
 	url = https://github.com/cran/zctaCrosswalk
