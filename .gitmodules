@@ -55313,9 +55313,6 @@
 [submodule "rSRD"]
 	path = rSRD
 	url = https://github.com/cran/rSRD
-[submodule "rSpectral"]
-	path = rSpectral
-	url = https://github.com/cran/rSpectral
 [submodule "rStrava"]
 	path = rStrava
 	url = https://github.com/cran/rStrava
