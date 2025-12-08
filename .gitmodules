@@ -9809,6 +9809,9 @@
 [submodule "MAINT.Data"]
 	path = MAINT.Data
 	url = https://github.com/cran/MAINT.Data
+[submodule "MAIVE"]
+	path = MAIVE
+	url = https://github.com/cran/MAIVE
 [submodule "MAKL"]
 	path = MAKL
 	url = https://github.com/cran/MAKL
@@ -26144,6 +26147,9 @@
 [submodule "charcuterie"]
 	path = charcuterie
 	url = https://github.com/cran/charcuterie
+[submodule "charisma"]
+	path = charisma
+	url = https://github.com/cran/charisma
 [submodule "charlatan"]
 	path = charlatan
 	url = https://github.com/cran/charlatan
@@ -30749,6 +30755,9 @@
 [submodule "distory"]
 	path = distory
 	url = https://github.com/cran/distory
+[submodule "distplyr"]
+	path = distplyr
+	url = https://github.com/cran/distplyr
 [submodule "distr"]
 	path = distr
 	url = https://github.com/cran/distr
@@ -33848,6 +33857,9 @@
 [submodule "familiar"]
 	path = familiar
 	url = https://github.com/cran/familiar
+[submodule "famish"]
+	path = famish
+	url = https://github.com/cran/famish
 [submodule "fanc"]
 	path = fanc
 	url = https://github.com/cran/fanc
@@ -46115,6 +46127,9 @@
 [submodule "micss"]
 	path = micss
 	url = https://github.com/cran/micss
+[submodule "micvar"]
+	path = micvar
+	url = https://github.com/cran/micvar
 [submodule "midas"]
 	path = midas
 	url = https://github.com/cran/midas
@@ -56081,6 +56096,9 @@
 [submodule "rdcmchecks"]
 	path = rdcmchecks
 	url = https://github.com/cran/rdcmchecks
+[submodule "rdcor"]
+	path = rdcor
+	url = https://github.com/cran/rdcor
 [submodule "rddapp"]
 	path = rddapp
 	url = https://github.com/cran/rddapp
