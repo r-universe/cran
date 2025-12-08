@@ -8339,9 +8339,6 @@
 [submodule "INetTool"]
 	path = INetTool
 	url = https://github.com/cran/INetTool
-[submodule "IOHanalyzer"]
-	path = IOHanalyzer
-	url = https://github.com/cran/IOHanalyzer
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
@@ -21818,9 +21815,6 @@
 [submodule "amen"]
 	path = amen
 	url = https://github.com/cran/amen
-[submodule "amerifluxr"]
-	path = amerifluxr
-	url = https://github.com/cran/amerifluxr
 [submodule "amerika"]
 	path = amerika
 	url = https://github.com/cran/amerika
@@ -29195,9 +29189,6 @@
 [submodule "d3plus"]
 	path = d3plus
 	url = https://github.com/cran/d3plus
-[submodule "d3po"]
-	path = d3po
-	url = https://github.com/cran/d3po
 [submodule "d3r"]
 	path = d3r
 	url = https://github.com/cran/d3r
@@ -36737,9 +36728,6 @@
 [submodule "geoscale"]
 	path = geoscale
 	url = https://github.com/cran/geoscale
-[submodule "geosed"]
-	path = geosed
-	url = https://github.com/cran/geosed
 [submodule "geosimilarity"]
 	path = geosimilarity
 	url = https://github.com/cran/geosimilarity
@@ -52175,9 +52163,6 @@
 [submodule "phylosignalDB"]
 	path = phylosignalDB
 	url = https://github.com/cran/phylosignalDB
-[submodule "phylospatial"]
-	path = phylospatial
-	url = https://github.com/cran/phylospatial
 [submodule "phylotate"]
 	path = phylotate
 	url = https://github.com/cran/phylotate
@@ -65468,9 +65453,6 @@
 [submodule "tgstat"]
 	path = tgstat
 	url = https://github.com/cran/tgstat
-[submodule "tgver"]
-	path = tgver
-	url = https://github.com/cran/tgver
 [submodule "thaipdf"]
 	path = thaipdf
 	url = https://github.com/cran/thaipdf
