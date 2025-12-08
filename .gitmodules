@@ -57299,9 +57299,6 @@
 [submodule "rhosa"]
 	path = rhosa
 	url = https://github.com/cran/rhosa
-[submodule "rhosp"]
-	path = rhosp
-	url = https://github.com/cran/rhosp
 [submodule "rhub"]
 	path = rhub
 	url = https://github.com/cran/rhub
