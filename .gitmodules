@@ -17201,9 +17201,6 @@
 [submodule "SIPETool"]
 	path = SIPETool
 	url = https://github.com/cran/SIPETool
-[submodule "SIPmg"]
-	path = SIPmg
-	url = https://github.com/cran/SIPmg
 [submodule "SIRE"]
 	path = SIRE
 	url = https://github.com/cran/SIRE
@@ -39809,9 +39806,6 @@
 [submodule "hornpa"]
 	path = hornpa
 	url = https://github.com/cran/hornpa
-[submodule "horseshoe"]
-	path = horseshoe
-	url = https://github.com/cran/horseshoe
 [submodule "horseshoenlm"]
 	path = horseshoenlm
 	url = https://github.com/cran/horseshoenlm
