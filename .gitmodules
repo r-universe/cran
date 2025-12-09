@@ -23570,9 +23570,6 @@
 [submodule "beans"]
 	path = beans
 	url = https://github.com/cran/beans
-[submodule "beanz"]
-	path = beanz
-	url = https://github.com/cran/beanz
 [submodule "bearishTrader"]
 	path = bearishTrader
 	url = https://github.com/cran/bearishTrader
@@ -41636,9 +41633,6 @@
 [submodule "isotonic.pen"]
 	path = isotonic.pen
 	url = https://github.com/cran/isotonic.pen
-[submodule "isotracer"]
-	path = isotracer
-	url = https://github.com/cran/isotracer
 [submodule "isotree"]
 	path = isotree
 	url = https://github.com/cran/isotree
@@ -42164,9 +42158,6 @@
 [submodule "k5"]
 	path = k5
 	url = https://github.com/cran/k5
-[submodule "kDGLM"]
-	path = kDGLM
-	url = https://github.com/cran/kDGLM
 [submodule "kNNvs"]
 	path = kNNvs
 	url = https://github.com/cran/kNNvs
@@ -45860,9 +45851,6 @@
 [submodule "metrica"]
 	path = metrica
 	url = https://github.com/cran/metrica
-[submodule "metricminer"]
-	path = metricminer
-	url = https://github.com/cran/metricminer
 [submodule "metrix"]
 	path = metrix
 	url = https://github.com/cran/metrix
