@@ -3206,6 +3206,9 @@
 [submodule "ClusterVAR"]
 	path = ClusterVAR
 	url = https://github.com/cran/ClusterVAR
+[submodule "ClusteredMutations"]
+	path = ClusteredMutations
+	url = https://github.com/cran/ClusteredMutations
 [submodule "Clustering"]
 	path = Clustering
 	url = https://github.com/cran/Clustering
@@ -13100,6 +13103,9 @@
 [submodule "PSpower"]
 	path = PSpower
 	url = https://github.com/cran/PSpower
+[submodule "PSsurvival"]
+	path = PSsurvival
+	url = https://github.com/cran/PSsurvival
 [submodule "PStrata"]
 	path = PStrata
 	url = https://github.com/cran/PStrata
@@ -16058,6 +16064,9 @@
 [submodule "ReadDIM"]
 	path = ReadDIM
 	url = https://github.com/cran/ReadDIM
+[submodule "RealSurvSim"]
+	path = RealSurvSim
+	url = https://github.com/cran/RealSurvSim
 [submodule "RealVAMS"]
 	path = RealVAMS
 	url = https://github.com/cran/RealVAMS
@@ -17129,6 +17138,9 @@
 [submodule "SHAPforxgboost"]
 	path = SHAPforxgboost
 	url = https://github.com/cran/SHAPforxgboost
+[submodule "SHARK4R"]
+	path = SHARK4R
+	url = https://github.com/cran/SHARK4R
 [submodule "SHELF"]
 	path = SHELF
 	url = https://github.com/cran/SHELF
@@ -17195,6 +17207,9 @@
 [submodule "SINRELEF.LD"]
 	path = SINRELEF.LD
 	url = https://github.com/cran/SINRELEF.LD
+[submodule "SIP"]
+	path = SIP
+	url = https://github.com/cran/SIP
 [submodule "SIPDIBGE"]
 	path = SIPDIBGE
 	url = https://github.com/cran/SIPDIBGE
@@ -20789,6 +20804,9 @@
 [submodule "aMNLFA"]
 	path = aMNLFA
 	url = https://github.com/cran/aMNLFA
+[submodule "aNCA"]
+	path = aNCA
+	url = https://github.com/cran/aNCA
 [submodule "aPCoA"]
 	path = aPCoA
 	url = https://github.com/cran/aPCoA
@@ -28733,6 +28751,9 @@
 [submodule "crov"]
 	path = crov
 	url = https://github.com/cran/crov
+[submodule "crownsegmentr"]
+	path = crownsegmentr
+	url = https://github.com/cran/crownsegmentr
 [submodule "crqa"]
 	path = crqa
 	url = https://github.com/cran/crqa
@@ -29849,6 +29870,9 @@
 [submodule "decomposedPSF"]
 	path = decomposedPSF
 	url = https://github.com/cran/decomposedPSF
+[submodule "decompositionLE"]
+	path = decompositionLE
+	url = https://github.com/cran/decompositionLE
 [submodule "decompr"]
 	path = decompr
 	url = https://github.com/cran/decompr
@@ -38906,6 +38930,9 @@
 [submodule "gvc"]
 	path = gvc
 	url = https://github.com/cran/gvc
+[submodule "gvcAnalyzer"]
+	path = gvcAnalyzer
+	url = https://github.com/cran/gvcAnalyzer
 [submodule "gvcR"]
 	path = gvcR
 	url = https://github.com/cran/gvcR
@@ -47519,6 +47546,9 @@
 [submodule "mrregression"]
 	path = mrregression
 	url = https://github.com/cran/mrregression
+[submodule "msPCA"]
+	path = msPCA
+	url = https://github.com/cran/msPCA
 [submodule "msSPChelpR"]
 	path = msSPChelpR
 	url = https://github.com/cran/msSPChelpR
@@ -56957,6 +56987,9 @@
 [submodule "resilience"]
 	path = resilience
 	url = https://github.com/cran/resilience
+[submodule "resizableSplitLayout"]
+	path = resizableSplitLayout
+	url = https://github.com/cran/resizableSplitLayout
 [submodule "reslife"]
 	path = reslife
 	url = https://github.com/cran/reslife
@@ -67898,6 +67931,9 @@
 [submodule "valuemap"]
 	path = valuemap
 	url = https://github.com/cran/valuemap
+[submodule "valueprhr"]
+	path = valueprhr
+	url = https://github.com/cran/valueprhr
 [submodule "vamc"]
 	path = vamc
 	url = https://github.com/cran/vamc
