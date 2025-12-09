@@ -500,6 +500,9 @@
 [submodule "AdaptGauss"]
 	path = AdaptGauss
 	url = https://github.com/cran/AdaptGauss
+[submodule "AdaptiveBoxplot"]
+	path = AdaptiveBoxplot
+	url = https://github.com/cran/AdaptiveBoxplot
 [submodule "AdequacyModel"]
 	path = AdequacyModel
 	url = https://github.com/cran/AdequacyModel
@@ -11015,6 +11018,9 @@
 [submodule "MethEvolSIM"]
 	path = MethEvolSIM
 	url = https://github.com/cran/MethEvolSIM
+[submodule "MethScope"]
+	path = MethScope
+	url = https://github.com/cran/MethScope
 [submodule "MethodCompare"]
 	path = MethodCompare
 	url = https://github.com/cran/MethodCompare
@@ -17606,6 +17612,9 @@
 [submodule "SSLASSO"]
 	path = SSLASSO
 	url = https://github.com/cran/SSLASSO
+[submodule "SSLfmm"]
+	path = SSLfmm
+	url = https://github.com/cran/SSLfmm
 [submodule "SSM"]
 	path = SSM
 	url = https://github.com/cran/SSM
@@ -20108,6 +20117,9 @@
 [submodule "VCA"]
 	path = VCA
 	url = https://github.com/cran/VCA
+[submodule "VCBART"]
+	path = VCBART
+	url = https://github.com/cran/VCBART
 [submodule "VDAP"]
 	path = VDAP
 	url = https://github.com/cran/VDAP
@@ -52466,6 +52478,9 @@
 [submodule "pkgsearch"]
 	path = pkgsearch
 	url = https://github.com/cran/pkgsearch
+[submodule "pkgstats"]
+	path = pkgstats
+	url = https://github.com/cran/pkgstats
 [submodule "pkgverse"]
 	path = pkgverse
 	url = https://github.com/cran/pkgverse
