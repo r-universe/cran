@@ -5285,6 +5285,9 @@
 [submodule "EZFragility"]
 	path = EZFragility
 	url = https://github.com/cran/EZFragility
+[submodule "EZbakR"]
+	path = EZbakR
+	url = https://github.com/cran/EZbakR
 [submodule "EZtune"]
 	path = EZtune
 	url = https://github.com/cran/EZtune
@@ -33824,6 +33827,9 @@
 [submodule "factory"]
 	path = factory
 	url = https://github.com/cran/factory
+[submodule "factree"]
+	path = factree
+	url = https://github.com/cran/factree
 [submodule "factset.protobuf.stach.v2"]
 	path = factset.protobuf.stach.v2
 	url = https://github.com/cran/factset.protobuf.stach.v2
@@ -39989,6 +39995,9 @@
 [submodule "httk"]
 	path = httk
 	url = https://github.com/cran/httk
+[submodule "httkexamples"]
+	path = httkexamples
+	url = https://github.com/cran/httkexamples
 [submodule "httpRequest"]
 	path = httpRequest
 	url = https://github.com/cran/httpRequest
@@ -41771,6 +41780,9 @@
 [submodule "ivaBSS"]
 	path = ivaBSS
 	url = https://github.com/cran/ivaBSS
+[submodule "ivd"]
+	path = ivd
+	url = https://github.com/cran/ivd
 [submodule "ivdesc"]
 	path = ivdesc
 	url = https://github.com/cran/ivdesc
@@ -46562,6 +46574,9 @@
 [submodule "mixedbiastest"]
 	path = mixedbiastest
 	url = https://github.com/cran/mixedbiastest
+[submodule "mixedfact"]
+	path = mixedfact
+	url = https://github.com/cran/mixedfact
 [submodule "mixedsde"]
 	path = mixedsde
 	url = https://github.com/cran/mixedsde
@@ -50594,6 +50609,9 @@
 [submodule "osdatahub"]
 	path = osdatahub
 	url = https://github.com/cran/osdatahub
+[submodule "osdc"]
+	path = osdc
+	url = https://github.com/cran/osdc
 [submodule "osfr"]
 	path = osfr
 	url = https://github.com/cran/osfr
@@ -53858,6 +53876,9 @@
 [submodule "proj4"]
 	path = proj4
 	url = https://github.com/cran/proj4
+[submodule "projectLSA"]
+	path = projectLSA
+	url = https://github.com/cran/projectLSA
 [submodule "projections"]
 	path = projections
 	url = https://github.com/cran/projections
@@ -54479,6 +54500,9 @@
 [submodule "qbr"]
 	path = qbr
 	url = https://github.com/cran/qbr
+[submodule "qbrms"]
+	path = qbrms
+	url = https://github.com/cran/qbrms
 [submodule "qcQpcr"]
 	path = qcQpcr
 	url = https://github.com/cran/qcQpcr
@@ -62606,6 +62630,9 @@
 [submodule "spatial"]
 	path = spatial
 	url = https://github.com/cran/spatial
+[submodule "spatialAtomizeR"]
+	path = spatialAtomizeR
+	url = https://github.com/cran/spatialAtomizeR
 [submodule "spatialCatalogueViewer"]
 	path = spatialCatalogueViewer
 	url = https://github.com/cran/spatialCatalogueViewer
@@ -66056,6 +66083,9 @@
 [submodule "timedeppar"]
 	path = timedeppar
 	url = https://github.com/cran/timedeppar
+[submodule "timefully"]
+	path = timefully
+	url = https://github.com/cran/timefully
 [submodule "timelineS"]
 	path = timelineS
 	url = https://github.com/cran/timelineS
@@ -66767,6 +66797,9 @@
 [submodule "treesitter"]
 	path = treesitter
 	url = https://github.com/cran/treesitter
+[submodule "treesitter.c"]
+	path = treesitter.c
+	url = https://github.com/cran/treesitter.c
 [submodule "treesitter.r"]
 	path = treesitter.r
 	url = https://github.com/cran/treesitter.r
