@@ -7586,6 +7586,9 @@
 [submodule "HCTR"]
 	path = HCTR
 	url = https://github.com/cran/HCTR
+[submodule "HCUPtools"]
+	path = HCUPtools
+	url = https://github.com/cran/HCUPtools
 [submodule "HCmodelSets"]
 	path = HCmodelSets
 	url = https://github.com/cran/HCmodelSets
