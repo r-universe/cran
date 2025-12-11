@@ -6005,6 +6005,9 @@
 [submodule "FRCC"]
 	path = FRCC
 	url = https://github.com/cran/FRCC
+[submodule "FRCI"]
+	path = FRCI
+	url = https://github.com/cran/FRCI
 [submodule "FREEtree"]
 	path = FREEtree
 	url = https://github.com/cran/FREEtree
