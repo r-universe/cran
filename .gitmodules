@@ -6515,6 +6515,9 @@
 [submodule "GABB"]
 	path = GABB
 	url = https://github.com/cran/GABB
+[submodule "GACE"]
+	path = GACE
+	url = https://github.com/cran/GACE
 [submodule "GACFF"]
 	path = GACFF
 	url = https://github.com/cran/GACFF
@@ -42056,6 +42059,9 @@
 [submodule "joinet"]
 	path = joinet
 	url = https://github.com/cran/joinet
+[submodule "joinless"]
+	path = joinless
+	url = https://github.com/cran/joinless
 [submodule "joint.Cox"]
 	path = joint.Cox
 	url = https://github.com/cran/joint.Cox
@@ -42089,6 +42095,9 @@
 [submodule "joker"]
 	path = joker
 	url = https://github.com/cran/joker
+[submodule "jollofR"]
+	path = jollofR
+	url = https://github.com/cran/jollofR
 [submodule "jomo"]
 	path = jomo
 	url = https://github.com/cran/jomo
@@ -68045,6 +68054,9 @@
 [submodule "varImp"]
 	path = varImp
 	url = https://github.com/cran/varImp
+[submodule "varPro"]
+	path = varPro
+	url = https://github.com/cran/varPro
 [submodule "varSel"]
 	path = varSel
 	url = https://github.com/cran/varSel
