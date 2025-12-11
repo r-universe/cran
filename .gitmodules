@@ -3638,6 +3638,9 @@
 [submodule "CoxBcv"]
 	path = CoxBcv
 	url = https://github.com/cran/CoxBcv
+[submodule "CoxBoost"]
+	path = CoxBoost
+	url = https://github.com/cran/CoxBoost
 [submodule "CoxICPen"]
 	path = CoxICPen
 	url = https://github.com/cran/CoxICPen
@@ -16736,6 +16739,9 @@
 [submodule "Rtwobitlib"]
 	path = Rtwobitlib
 	url = https://github.com/cran/Rtwobitlib
+[submodule "Ruido"]
+	path = Ruido
+	url = https://github.com/cran/Ruido
 [submodule "RulesTools"]
 	path = RulesTools
 	url = https://github.com/cran/RulesTools
@@ -24419,6 +24425,9 @@
 [submodule "blockr.core"]
 	path = blockr.core
 	url = https://github.com/cran/blockr.core
+[submodule "blockr.dock"]
+	path = blockr.dock
+	url = https://github.com/cran/blockr.dock
 [submodule "blockrand"]
 	path = blockrand
 	url = https://github.com/cran/blockrand
@@ -24791,6 +24800,9 @@
 [submodule "bpr"]
 	path = bpr
 	url = https://github.com/cran/bpr
+[submodule "bpvars"]
+	path = bpvars
+	url = https://github.com/cran/bpvars
 [submodule "bqror"]
 	path = bqror
 	url = https://github.com/cran/bqror
@@ -34790,6 +34802,9 @@
 [submodule "fizzbuzzR"]
 	path = fizzbuzzR
 	url = https://github.com/cran/fizzbuzzR
+[submodule "fjoin"]
+	path = fjoin
+	url = https://github.com/cran/fjoin
 [submodule "fkbma"]
 	path = fkbma
 	url = https://github.com/cran/fkbma
@@ -40220,6 +40235,9 @@
 [submodule "hypothesisr"]
 	path = hypothesisr
 	url = https://github.com/cran/hypothesisr
+[submodule "hypothesize"]
+	path = hypothesize
+	url = https://github.com/cran/hypothesize
 [submodule "hypr"]
 	path = hypr
 	url = https://github.com/cran/hypr
@@ -40859,6 +40877,9 @@
 [submodule "impectR"]
 	path = impectR
 	url = https://github.com/cran/impectR
+[submodule "impermanentlosscalc"]
+	path = impermanentlosscalc
+	url = https://github.com/cran/impermanentlosscalc
 [submodule "impimp"]
 	path = impimp
 	url = https://github.com/cran/impimp
@@ -41552,6 +41573,9 @@
 [submodule "irlba"]
 	path = irlba
 	url = https://github.com/cran/irlba
+[submodule "irls"]
+	path = irls
+	url = https://github.com/cran/irls
 [submodule "ironseed"]
 	path = ironseed
 	url = https://github.com/cran/ironseed
@@ -47147,6 +47171,9 @@
 [submodule "moderate.mediation"]
 	path = moderate.mediation
 	url = https://github.com/cran/moderate.mediation
+[submodule "modernBoot"]
+	path = modernBoot
+	url = https://github.com/cran/modernBoot
 [submodule "modernVA"]
 	path = modernVA
 	url = https://github.com/cran/modernVA
@@ -48347,6 +48374,9 @@
 [submodule "nabor"]
 	path = nabor
 	url = https://github.com/cran/nabor
+[submodule "nadaverse"]
+	path = nadaverse
+	url = https://github.com/cran/nadaverse
 [submodule "nadiv"]
 	path = nadiv
 	url = https://github.com/cran/nadiv
@@ -64436,6 +64466,9 @@
 [submodule "survivoR"]
 	path = survivoR
 	url = https://github.com/cran/survivoR
+[submodule "survlab"]
+	path = survlab
+	url = https://github.com/cran/survlab
 [submodule "survminer"]
 	path = survminer
 	url = https://github.com/cran/survminer
@@ -64514,6 +64547,9 @@
 [submodule "svgViewR"]
 	path = svgViewR
 	url = https://github.com/cran/svgViewR
+[submodule "svgedit"]
+	path = svgedit
+	url = https://github.com/cran/svgedit
 [submodule "svglite"]
 	path = svglite
 	url = https://github.com/cran/svglite
@@ -69410,6 +69446,9 @@
 [submodule "wru"]
 	path = wru
 	url = https://github.com/cran/wru
+[submodule "wsMed"]
+	path = wsMed
+	url = https://github.com/cran/wsMed
 [submodule "wsbackfit"]
 	path = wsbackfit
 	url = https://github.com/cran/wsbackfit
