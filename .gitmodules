@@ -69767,6 +69767,9 @@
 [submodule "yaml"]
 	path = yaml
 	url = https://github.com/cran/yaml
+[submodule "yaml12"]
+	path = yaml12
+	url = https://github.com/cran/yaml12
 [submodule "yamlet"]
 	path = yamlet
 	url = https://github.com/cran/yamlet
