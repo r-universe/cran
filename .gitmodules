@@ -21665,9 +21665,6 @@
 [submodule "alakazam"]
 	path = alakazam
 	url = https://github.com/cran/alakazam
-[submodule "alarmdata"]
-	path = alarmdata
-	url = https://github.com/cran/alarmdata
 [submodule "albatross"]
 	path = albatross
 	url = https://github.com/cran/albatross
@@ -49673,9 +49670,6 @@
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/cran/nseq
-[submodule "nser"]
-	path = nser
-	url = https://github.com/cran/nser
 [submodule "nsga2R"]
 	path = nsga2R
 	url = https://github.com/cran/nsga2R
