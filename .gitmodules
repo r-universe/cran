@@ -6083,6 +6083,9 @@
 [submodule "FaaSr"]
 	path = FaaSr
 	url = https://github.com/cran/FaaSr
+[submodule "FactChar"]
+	path = FactChar
+	url = https://github.com/cran/FactChar
 [submodule "FactEff"]
 	path = FactEff
 	url = https://github.com/cran/FactEff
