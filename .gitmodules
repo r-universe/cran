@@ -2369,6 +2369,9 @@
 [submodule "CGR"]
 	path = CGR
 	url = https://github.com/cran/CGR
+[submodule "CHAPGWAS"]
+	path = CHAPGWAS
+	url = https://github.com/cran/CHAPGWAS
 [submodule "CHEMIST"]
 	path = CHEMIST
 	url = https://github.com/cran/CHEMIST
@@ -4169,6 +4172,9 @@
 [submodule "DOEM"]
 	path = DOEM
 	url = https://github.com/cran/DOEM
+[submodule "DOIcreator"]
+	path = DOIcreator
+	url = https://github.com/cran/DOIcreator
 [submodule "DOPE"]
 	path = DOPE
 	url = https://github.com/cran/DOPE
@@ -11159,6 +11165,9 @@
 [submodule "MittagLeffleR"]
 	path = MittagLeffleR
 	url = https://github.com/cran/MittagLeffleR
+[submodule "MixFrac"]
+	path = MixFrac
+	url = https://github.com/cran/MixFrac
 [submodule "MixGHD"]
 	path = MixGHD
 	url = https://github.com/cran/MixGHD
@@ -23444,6 +23453,9 @@
 [submodule "bayestestR"]
 	path = bayestestR
 	url = https://github.com/cran/bayestestR
+[submodule "bayestransmission"]
+	path = bayestransmission
+	url = https://github.com/cran/bayestransmission
 [submodule "bayesvl"]
 	path = bayesvl
 	url = https://github.com/cran/bayesvl
@@ -38399,6 +38411,9 @@
 [submodule "gpx"]
 	path = gpx
 	url = https://github.com/cran/gpx
+[submodule "gpyramid"]
+	path = gpyramid
+	url = https://github.com/cran/gpyramid
 [submodule "gqlr"]
 	path = gqlr
 	url = https://github.com/cran/gqlr
@@ -51770,6 +51785,9 @@
 [submodule "pegas"]
 	path = pegas
 	url = https://github.com/cran/pegas
+[submodule "pegs"]
+	path = pegs
+	url = https://github.com/cran/pegs
 [submodule "pell"]
 	path = pell
 	url = https://github.com/cran/pell
@@ -55199,6 +55217,9 @@
 [submodule "r6qualitytools"]
 	path = r6qualitytools
 	url = https://github.com/cran/r6qualitytools
+[submodule "rACMEMEEV"]
+	path = rACMEMEEV
+	url = https://github.com/cran/rACMEMEEV
 [submodule "rADA"]
 	path = rADA
 	url = https://github.com/cran/rADA
@@ -67130,6 +67151,9 @@
 [submodule "tsfngm"]
 	path = tsfngm
 	url = https://github.com/cran/tsfngm
+[submodule "tsforecast"]
+	path = tsforecast
+	url = https://github.com/cran/tsforecast
 [submodule "tsg"]
 	path = tsg
 	url = https://github.com/cran/tsg
@@ -67574,6 +67598,9 @@
 [submodule "umbridge"]
 	path = umbridge
 	url = https://github.com/cran/umbridge
+[submodule "ume"]
+	path = ume
+	url = https://github.com/cran/ume
 [submodule "umiAnalyzer"]
 	path = umiAnalyzer
 	url = https://github.com/cran/umiAnalyzer
