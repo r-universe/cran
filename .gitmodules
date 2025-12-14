@@ -54335,6 +54335,9 @@
 [submodule "pubmedtk"]
 	path = pubmedtk
 	url = https://github.com/cran/pubmedtk
+[submodule "pubtatordb"]
+	path = pubtatordb
+	url = https://github.com/cran/pubtatordb
 [submodule "pudu"]
 	path = pudu
 	url = https://github.com/cran/pudu
@@ -55430,6 +55433,9 @@
 [submodule "rSFA"]
 	path = rSFA
 	url = https://github.com/cran/rSFA
+[submodule "rSHAPE"]
+	path = rSHAPE
+	url = https://github.com/cran/rSHAPE
 [submodule "rSPARCS"]
 	path = rSPARCS
 	url = https://github.com/cran/rSPARCS
@@ -56330,6 +56336,9 @@
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
+[submodule "read.dbc"]
+	path = read.dbc
+	url = https://github.com/cran/read.dbc
 [submodule "read.gb"]
 	path = read.gb
 	url = https://github.com/cran/read.gb
