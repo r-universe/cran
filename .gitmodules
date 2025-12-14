@@ -647,9 +647,6 @@
 [submodule "Analitica"]
 	path = Analitica
 	url = https://github.com/cran/Analitica
-[submodule "AnalysisLin"]
-	path = AnalysisLin
-	url = https://github.com/cran/AnalysisLin
 [submodule "AnalyzeFMRI"]
 	path = AnalyzeFMRI
 	url = https://github.com/cran/AnalyzeFMRI
@@ -33527,9 +33524,6 @@
 [submodule "export"]
 	path = export
 	url = https://github.com/cran/export
-[submodule "expowo"]
-	path = expowo
-	url = https://github.com/cran/expowo
 [submodule "expperm"]
 	path = expperm
 	url = https://github.com/cran/expperm
@@ -52748,9 +52742,6 @@
 [submodule "plotfunctions"]
 	path = plotfunctions
 	url = https://github.com/cran/plotfunctions
-[submodule "plothelper"]
-	path = plothelper
-	url = https://github.com/cran/plothelper
 [submodule "plotlsirm"]
 	path = plotlsirm
 	url = https://github.com/cran/plotlsirm
@@ -55022,9 +55013,6 @@
 [submodule "queueing"]
 	path = queueing
 	url = https://github.com/cran/queueing
-[submodule "quicR"]
-	path = quicR
-	url = https://github.com/cran/quicR
 [submodule "quickNmix"]
 	path = quickNmix
 	url = https://github.com/cran/quickNmix
