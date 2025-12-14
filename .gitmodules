@@ -3701,6 +3701,9 @@
 [submodule "Crosstabs.Loglinear"]
 	path = Crosstabs.Loglinear
 	url = https://github.com/cran/Crosstabs.Loglinear
+[submodule "CrownScorchTLS"]
+	path = CrownScorchTLS
+	url = https://github.com/cran/CrownScorchTLS
 [submodule "CryptRndTest"]
 	path = CryptRndTest
 	url = https://github.com/cran/CryptRndTest
@@ -13724,6 +13727,9 @@
 [submodule "PottsUtils"]
 	path = PottsUtils
 	url = https://github.com/cran/PottsUtils
+[submodule "PowRPriori"]
+	path = PowRPriori
+	url = https://github.com/cran/PowRPriori
 [submodule "PoweR"]
 	path = PoweR
 	url = https://github.com/cran/PoweR
@@ -42125,6 +42131,9 @@
 [submodule "jot"]
 	path = jot
 	url = https://github.com/cran/jot
+[submodule "journalR"]
+	path = journalR
+	url = https://github.com/cran/journalR
 [submodule "journalabbr"]
 	path = journalabbr
 	url = https://github.com/cran/journalabbr
@@ -53825,6 +53834,9 @@
 [submodule "probably"]
 	path = probably
 	url = https://github.com/cran/probably
+[submodule "probaverse"]
+	path = probaverse
+	url = https://github.com/cran/probaverse
 [submodule "probe"]
 	path = probe
 	url = https://github.com/cran/probe
@@ -54335,6 +54347,9 @@
 [submodule "pubmedtk"]
 	path = pubmedtk
 	url = https://github.com/cran/pubmedtk
+[submodule "pubrplot"]
+	path = pubrplot
+	url = https://github.com/cran/pubrplot
 [submodule "pubtatordb"]
 	path = pubtatordb
 	url = https://github.com/cran/pubtatordb
