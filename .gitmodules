@@ -11525,9 +11525,6 @@
 [submodule "NAEPprimer"]
 	path = NAEPprimer
 	url = https://github.com/cran/NAEPprimer
-[submodule "NAIR"]
-	path = NAIR
-	url = https://github.com/cran/NAIR
 [submodule "NAM"]
 	path = NAM
 	url = https://github.com/cran/NAM
@@ -27566,9 +27563,6 @@
 [submodule "comclim"]
 	path = comclim
 	url = https://github.com/cran/comclim
-[submodule "cometExactTest"]
-	path = cometExactTest
-	url = https://github.com/cran/cometExactTest
 [submodule "cometr"]
 	path = cometr
 	url = https://github.com/cran/cometr
@@ -50831,9 +50825,6 @@
 [submodule "ows4R"]
 	path = ows4R
 	url = https://github.com/cran/ows4R
-[submodule "ox"]
-	path = ox
-	url = https://github.com/cran/ox
 [submodule "oxcAAR"]
 	path = oxcAAR
 	url = https://github.com/cran/oxcAAR
