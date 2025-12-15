@@ -55088,9 +55088,6 @@
 [submodule "quoradsR"]
 	path = quoradsR
 	url = https://github.com/cran/quoradsR
-[submodule "quotedargs"]
-	path = quotedargs
-	url = https://github.com/cran/quotedargs
 [submodule "qvcalc"]
 	path = qvcalc
 	url = https://github.com/cran/qvcalc
