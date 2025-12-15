@@ -49694,6 +49694,9 @@
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/cran/nseq
+[submodule "nser"]
+	path = nser
+	url = https://github.com/cran/nser
 [submodule "nsga2R"]
 	path = nsga2R
 	url = https://github.com/cran/nsga2R
@@ -56624,9 +56627,6 @@
 [submodule "redistmetrics"]
 	path = redistmetrics
 	url = https://github.com/cran/redistmetrics
-[submodule "redistverse"]
-	path = redistverse
-	url = https://github.com/cran/redistverse
 [submodule "redland"]
 	path = redland
 	url = https://github.com/cran/redland
