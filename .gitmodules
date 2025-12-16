@@ -68930,6 +68930,9 @@
 [submodule "waydown"]
 	path = waydown
 	url = https://github.com/cran/waydown
+[submodule "waysign"]
+	path = waysign
+	url = https://github.com/cran/waysign
 [submodule "waywiser"]
 	path = waywiser
 	url = https://github.com/cran/waywiser
