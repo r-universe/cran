@@ -49145,6 +49145,9 @@
 [submodule "nleqslv"]
 	path = nleqslv
 	url = https://github.com/cran/nleqslv
+[submodule "nlgeocoder"]
+	path = nlgeocoder
+	url = https://github.com/cran/nlgeocoder
 [submodule "nlgm"]
 	path = nlgm
 	url = https://github.com/cran/nlgm
