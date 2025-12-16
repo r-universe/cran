@@ -776,6 +776,9 @@
 [submodule "AssocBin"]
 	path = AssocBin
 	url = https://github.com/cran/AssocBin
+[submodule "AssociationExplorer2"]
+	path = AssociationExplorer2
+	url = https://github.com/cran/AssociationExplorer2
 [submodule "AssumpSure"]
 	path = AssumpSure
 	url = https://github.com/cran/AssumpSure
@@ -2294,6 +2297,9 @@
 [submodule "CDSS"]
 	path = CDSS
 	url = https://github.com/cran/CDSS
+[submodule "CDSim"]
+	path = CDSim
+	url = https://github.com/cran/CDSim
 [submodule "CDVI"]
 	path = CDVI
 	url = https://github.com/cran/CDVI
@@ -5900,6 +5906,9 @@
 [submodule "FILEST"]
 	path = FILEST
 	url = https://github.com/cran/FILEST
+[submodule "FIND"]
+	path = FIND
+	url = https://github.com/cran/FIND
 [submodule "FIT"]
 	path = FIT
 	url = https://github.com/cran/FIT
@@ -11525,6 +11534,9 @@
 [submodule "NAEPprimer"]
 	path = NAEPprimer
 	url = https://github.com/cran/NAEPprimer
+[submodule "NAIR"]
+	path = NAIR
+	url = https://github.com/cran/NAIR
 [submodule "NAM"]
 	path = NAM
 	url = https://github.com/cran/NAM
@@ -13067,6 +13079,9 @@
 [submodule "PReMiuM"]
 	path = PReMiuM
 	url = https://github.com/cran/PReMiuM
+[submodule "PResiduals"]
+	path = PResiduals
+	url = https://github.com/cran/PResiduals
 [submodule "PSAWR"]
 	path = PSAWR
 	url = https://github.com/cran/PSAWR
@@ -27563,6 +27578,9 @@
 [submodule "comclim"]
 	path = comclim
 	url = https://github.com/cran/comclim
+[submodule "cometExactTest"]
+	path = cometExactTest
+	url = https://github.com/cran/cometExactTest
 [submodule "cometr"]
 	path = cometr
 	url = https://github.com/cran/cometr
@@ -28256,6 +28274,9 @@
 [submodule "corx"]
 	path = corx
 	url = https://github.com/cran/corx
+[submodule "cosCorr"]
+	path = cosCorr
+	url = https://github.com/cran/cosCorr
 [submodule "cosa"]
 	path = cosa
 	url = https://github.com/cran/cosa
@@ -34208,6 +34229,9 @@
 [submodule "favnums"]
 	path = favnums
 	url = https://github.com/cran/favnums
+[submodule "favr"]
+	path = favr
+	url = https://github.com/cran/favr
 [submodule "fbRads"]
 	path = fbRads
 	url = https://github.com/cran/fbRads
@@ -43685,6 +43709,9 @@
 [submodule "linkspotter"]
 	path = linkspotter
 	url = https://github.com/cran/linkspotter
+[submodule "linktree"]
+	path = linktree
+	url = https://github.com/cran/linktree
 [submodule "linl"]
 	path = linl
 	url = https://github.com/cran/linl
@@ -44972,6 +44999,9 @@
 [submodule "markowitz"]
 	path = markowitz
 	url = https://github.com/cran/markowitz
+[submodule "markstat"]
+	path = markstat
+	url = https://github.com/cran/markstat
 [submodule "marlod"]
 	path = marlod
 	url = https://github.com/cran/marlod
@@ -56567,6 +56597,9 @@
 [submodule "reconstructr"]
 	path = reconstructr
 	url = https://github.com/cran/reconstructr
+[submodule "recor"]
+	path = recor
+	url = https://github.com/cran/recor
 [submodule "recorder"]
 	path = recorder
 	url = https://github.com/cran/recorder
@@ -57629,6 +57662,9 @@
 [submodule "rjags"]
 	path = rjags
 	url = https://github.com/cran/rjags
+[submodule "rjd3jars"]
+	path = rjd3jars
+	url = https://github.com/cran/rjd3jars
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
 	url = https://github.com/cran/rjdmarkdown
@@ -61952,6 +61988,9 @@
 [submodule "smartsnp"]
 	path = smartsnp
 	url = https://github.com/cran/smartsnp
+[submodule "smashr"]
+	path = smashr
+	url = https://github.com/cran/smashr
 [submodule "smatr"]
 	path = smatr
 	url = https://github.com/cran/smatr
