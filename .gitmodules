@@ -34502,6 +34502,9 @@
 [submodule "fftwtools"]
 	path = fftwtools
 	url = https://github.com/cran/fftwtools
+[submodule "fgdiR"]
+	path = fgdiR
+	url = https://github.com/cran/fgdiR
 [submodule "fgeo"]
 	path = fgeo
 	url = https://github.com/cran/fgeo
@@ -40523,6 +40526,9 @@
 [submodule "icarus"]
 	path = icarus
 	url = https://github.com/cran/icarus
+[submodule "iccCompare"]
+	path = iccCompare
+	url = https://github.com/cran/iccCompare
 [submodule "iccCounts"]
 	path = iccCounts
 	url = https://github.com/cran/iccCounts
@@ -60119,6 +60125,9 @@
 [submodule "seasonalview"]
 	path = seasonalview
 	url = https://github.com/cran/seasonalview
+[submodule "seasonalytics"]
+	path = seasonalytics
+	url = https://github.com/cran/seasonalytics
 [submodule "seastests"]
 	path = seastests
 	url = https://github.com/cran/seastests
