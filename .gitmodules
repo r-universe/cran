@@ -9794,9 +9794,6 @@
 [submodule "LowWAFOMNX"]
 	path = LowWAFOMNX
 	url = https://github.com/cran/LowWAFOMNX
-[submodule "LowWAFOMSobol"]
-	path = LowWAFOMSobol
-	url = https://github.com/cran/LowWAFOMSobol
 [submodule "LqG"]
 	path = LqG
 	url = https://github.com/cran/LqG
@@ -16808,9 +16805,6 @@
 [submodule "Ryacas"]
 	path = Ryacas
 	url = https://github.com/cran/Ryacas
-[submodule "Ryacas0"]
-	path = Ryacas0
-	url = https://github.com/cran/Ryacas0
 [submodule "S4DM"]
 	path = S4DM
 	url = https://github.com/cran/S4DM
