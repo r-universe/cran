@@ -2690,6 +2690,9 @@
 [submodule "CSCNet"]
 	path = CSCNet
 	url = https://github.com/cran/CSCNet
+[submodule "CSDownscale"]
+	path = CSDownscale
+	url = https://github.com/cran/CSDownscale
 [submodule "CSESA"]
 	path = CSESA
 	url = https://github.com/cran/CSESA
@@ -29153,6 +29156,9 @@
 [submodule "customizedTraining"]
 	path = customizedTraining
 	url = https://github.com/cran/customizedTraining
+[submodule "customknitrender"]
+	path = customknitrender
+	url = https://github.com/cran/customknitrender
 [submodule "cusum"]
 	path = cusum
 	url = https://github.com/cran/cusum
@@ -34703,6 +34709,9 @@
 [submodule "fireexposuR"]
 	path = fireexposuR
 	url = https://github.com/cran/fireexposuR
+[submodule "fireproof"]
+	path = fireproof
+	url = https://github.com/cran/fireproof
 [submodule "firesafety"]
 	path = firesafety
 	url = https://github.com/cran/firesafety
@@ -36350,6 +36359,9 @@
 [submodule "gcplyr"]
 	path = gcplyr
 	url = https://github.com/cran/gcplyr
+[submodule "gctsc"]
+	path = gctsc
+	url = https://github.com/cran/gctsc
 [submodule "gcxgclab"]
 	path = gcxgclab
 	url = https://github.com/cran/gcxgclab
@@ -50120,6 +50132,9 @@
 [submodule "omopgenerics"]
 	path = omopgenerics
 	url = https://github.com/cran/omopgenerics
+[submodule "omophub"]
+	path = omophub
+	url = https://github.com/cran/omophub
 [submodule "ompr"]
 	path = ompr
 	url = https://github.com/cran/ompr
@@ -54962,6 +54977,9 @@
 [submodule "quanteda.textstats"]
 	path = quanteda.textstats
 	url = https://github.com/cran/quanteda.textstats
+[submodule "quanteda.tidy"]
+	path = quanteda.tidy
+	url = https://github.com/cran/quanteda.tidy
 [submodule "quantification"]
 	path = quantification
 	url = https://github.com/cran/quantification
@@ -61097,6 +61115,9 @@
 [submodule "shinyfilter"]
 	path = shinyfilter
 	url = https://github.com/cran/shinyfilter
+[submodule "shinyfilters"]
+	path = shinyfilters
+	url = https://github.com/cran/shinyfilters
 [submodule "shinyfullscreen"]
 	path = shinyfullscreen
 	url = https://github.com/cran/shinyfullscreen
@@ -61409,6 +61430,9 @@
 [submodule "simExam"]
 	path = simExam
 	url = https://github.com/cran/simExam
+[submodule "simFastBOIN"]
+	path = simFastBOIN
+	url = https://github.com/cran/simFastBOIN
 [submodule "simFrame"]
 	path = simFrame
 	url = https://github.com/cran/simFrame
@@ -65711,6 +65735,9 @@
 [submodule "this.path"]
 	path = this.path
 	url = https://github.com/cran/this.path
+[submodule "thisplot"]
+	path = thisplot
+	url = https://github.com/cran/thisplot
 [submodule "thisutils"]
 	path = thisutils
 	url = https://github.com/cran/thisutils
