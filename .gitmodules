@@ -38345,6 +38345,9 @@
 [submodule "googleway"]
 	path = googleway
 	url = https://github.com/cran/googleway
+[submodule "gooseR"]
+	path = gooseR
+	url = https://github.com/cran/gooseR
 [submodule "gor"]
 	path = gor
 	url = https://github.com/cran/gor
