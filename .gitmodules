@@ -21722,6 +21722,9 @@
 [submodule "algaeClassify"]
 	path = algaeClassify
 	url = https://github.com/cran/algaeClassify
+[submodule "algebraic.dist"]
+	path = algebraic.dist
+	url = https://github.com/cran/algebraic.dist
 [submodule "algo"]
 	path = algo
 	url = https://github.com/cran/algo
