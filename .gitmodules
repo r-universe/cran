@@ -9791,6 +9791,9 @@
 [submodule "LowWAFOMNX"]
 	path = LowWAFOMNX
 	url = https://github.com/cran/LowWAFOMNX
+[submodule "LowWAFOMSobol"]
+	path = LowWAFOMSobol
+	url = https://github.com/cran/LowWAFOMSobol
 [submodule "LqG"]
 	path = LqG
 	url = https://github.com/cran/LqG
@@ -39410,6 +39413,12 @@
 [submodule "healthyR.data"]
 	path = healthyR.data
 	url = https://github.com/cran/healthyR.data
+[submodule "healthyR.ts"]
+	path = healthyR.ts
+	url = https://github.com/cran/healthyR.ts
+[submodule "healthyverse"]
+	path = healthyverse
+	url = https://github.com/cran/healthyverse
 [submodule "heapsofpapers"]
 	path = heapsofpapers
 	url = https://github.com/cran/heapsofpapers
@@ -55157,6 +55166,9 @@
 [submodule "r2mlm"]
 	path = r2mlm
 	url = https://github.com/cran/r2mlm
+[submodule "r2pmml"]
+	path = r2pmml
+	url = https://github.com/cran/r2pmml
 [submodule "r2pptx"]
 	path = r2pptx
 	url = https://github.com/cran/r2pptx
@@ -59204,6 +59216,9 @@
 [submodule "sae"]
 	path = sae
 	url = https://github.com/cran/sae
+[submodule "sae.projection"]
+	path = sae.projection
+	url = https://github.com/cran/sae.projection
 [submodule "sae.prop"]
 	path = sae.prop
 	url = https://github.com/cran/sae.prop
@@ -60749,6 +60764,9 @@
 [submodule "shapper"]
 	path = shapper
 	url = https://github.com/cran/shapper
+[submodule "shapr"]
+	path = shapr
+	url = https://github.com/cran/shapr
 [submodule "shapviz"]
 	path = shapviz
 	url = https://github.com/cran/shapviz
@@ -66878,6 +66896,9 @@
 [submodule "treemapify"]
 	path = treemapify
 	url = https://github.com/cran/treemapify
+[submodule "treeshap"]
+	path = treeshap
+	url = https://github.com/cran/treeshap
 [submodule "treesitter"]
 	path = treesitter
 	url = https://github.com/cran/treesitter
