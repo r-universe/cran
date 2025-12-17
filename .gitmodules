@@ -32627,6 +32627,9 @@
 [submodule "emplikAUC"]
 	path = emplikAUC
 	url = https://github.com/cran/emplikAUC
+[submodule "emreliability"]
+	path = emreliability
+	url = https://github.com/cran/emreliability
 [submodule "ems"]
 	path = ems
 	url = https://github.com/cran/ems
