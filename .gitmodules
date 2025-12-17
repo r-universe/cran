@@ -4580,9 +4580,6 @@
 [submodule "DescToolsAddIns"]
 	path = DescToolsAddIns
 	url = https://github.com/cran/DescToolsAddIns
-[submodule "DescrTab2"]
-	path = DescrTab2
-	url = https://github.com/cran/DescrTab2
 [submodule "DescribeDF"]
 	path = DescribeDF
 	url = https://github.com/cran/DescribeDF
@@ -45800,9 +45797,6 @@
 [submodule "metacart"]
 	path = metacart
 	url = https://github.com/cran/metacart
-[submodule "metacoder"]
-	path = metacoder
-	url = https://github.com/cran/metacoder
 [submodule "metacom"]
 	path = metacom
 	url = https://github.com/cran/metacom
@@ -66041,9 +66035,6 @@
 [submodule "tidysq"]
 	path = tidysq
 	url = https://github.com/cran/tidysq
-[submodule "tidystats"]
-	path = tidystats
-	url = https://github.com/cran/tidystats
 [submodule "tidystopwords"]
 	path = tidystopwords
 	url = https://github.com/cran/tidystopwords
