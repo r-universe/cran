@@ -4229,6 +4229,9 @@
 [submodule "DPtree"]
 	path = DPtree
 	url = https://github.com/cran/DPtree
+[submodule "DQA"]
+	path = DQA
+	url = https://github.com/cran/DQA
 [submodule "DQAgui"]
 	path = DQAgui
 	url = https://github.com/cran/DQAgui
@@ -4685,6 +4688,9 @@
 [submodule "DigestiveDataSets"]
 	path = DigestiveDataSets
 	url = https://github.com/cran/DigestiveDataSets
+[submodule "Dimodal"]
+	path = Dimodal
+	url = https://github.com/cran/Dimodal
 [submodule "DirStats"]
 	path = DirStats
 	url = https://github.com/cran/DirStats
@@ -5594,6 +5600,9 @@
 [submodule "EvalTest"]
 	path = EvalTest
 	url = https://github.com/cran/EvalTest
+[submodule "EvaluateCore"]
+	path = EvaluateCore
+	url = https://github.com/cran/EvaluateCore
 [submodule "EvaluationMeasures"]
 	path = EvaluationMeasures
 	url = https://github.com/cran/EvaluationMeasures
@@ -7766,6 +7775,9 @@
 [submodule "HMMEsolver"]
 	path = HMMEsolver
 	url = https://github.com/cran/HMMEsolver
+[submodule "HMMHSMM"]
+	path = HMMHSMM
+	url = https://github.com/cran/HMMHSMM
 [submodule "HMMRel"]
 	path = HMMRel
 	url = https://github.com/cran/HMMRel
@@ -13877,6 +13889,9 @@
 [submodule "ProfessR"]
 	path = ProfessR
 	url = https://github.com/cran/ProfessR
+[submodule "ProfileGLMM"]
+	path = ProfileGLMM
+	url = https://github.com/cran/ProfileGLMM
 [submodule "ProfileLadder"]
 	path = ProfileLadder
 	url = https://github.com/cran/ProfileLadder
@@ -24461,9 +24476,18 @@
 [submodule "blockr.core"]
 	path = blockr.core
 	url = https://github.com/cran/blockr.core
+[submodule "blockr.dag"]
+	path = blockr.dag
+	url = https://github.com/cran/blockr.dag
 [submodule "blockr.dock"]
 	path = blockr.dock
 	url = https://github.com/cran/blockr.dock
+[submodule "blockr.dplyr"]
+	path = blockr.dplyr
+	url = https://github.com/cran/blockr.dplyr
+[submodule "blockr.ggplot"]
+	path = blockr.ggplot
+	url = https://github.com/cran/blockr.ggplot
 [submodule "blockrand"]
 	path = blockrand
 	url = https://github.com/cran/blockrand
@@ -25367,6 +25391,9 @@
 [submodule "calACS"]
 	path = calACS
 	url = https://github.com/cran/calACS
+[submodule "calba"]
+	path = calba
+	url = https://github.com/cran/calba
 [submodule "calcUnique"]
 	path = calcUnique
 	url = https://github.com/cran/calcUnique
@@ -37550,6 +37577,9 @@
 [submodule "ggrcs"]
 	path = ggrcs
 	url = https://github.com/cran/ggrcs
+[submodule "ggrecipes"]
+	path = ggrecipes
+	url = https://github.com/cran/ggrecipes
 [submodule "ggredist"]
 	path = ggredist
 	url = https://github.com/cran/ggredist
@@ -39242,6 +39272,9 @@
 [submodule "hatchR"]
 	path = hatchR
 	url = https://github.com/cran/hatchR
+[submodule "havel"]
+	path = havel
+	url = https://github.com/cran/havel
 [submodule "haven"]
 	path = haven
 	url = https://github.com/cran/haven
@@ -41240,6 +41273,9 @@
 [submodule "insee"]
 	path = insee
 	url = https://github.com/cran/insee
+[submodule "insetplot"]
+	path = insetplot
+	url = https://github.com/cran/insetplot
 [submodule "inshiny"]
 	path = inshiny
 	url = https://github.com/cran/inshiny
@@ -49787,6 +49823,9 @@
 [submodule "nullabor"]
 	path = nullabor
 	url = https://github.com/cran/nullabor
+[submodule "nullcat"]
+	path = nullcat
+	url = https://github.com/cran/nullcat
 [submodule "numDeriv"]
 	path = numDeriv
 	url = https://github.com/cran/numDeriv
@@ -54968,6 +55007,9 @@
 [submodule "quantCurves"]
 	path = quantCurves
 	url = https://github.com/cran/quantCurves
+[submodule "quantbayes"]
+	path = quantbayes
+	url = https://github.com/cran/quantbayes
 [submodule "quantdates"]
 	path = quantdates
 	url = https://github.com/cran/quantdates
@@ -57521,6 +57563,9 @@
 [submodule "riceware"]
 	path = riceware
 	url = https://github.com/cran/riceware
+[submodule "richCluster"]
+	path = richCluster
+	url = https://github.com/cran/richCluster
 [submodule "ricu"]
 	path = ricu
 	url = https://github.com/cran/ricu
@@ -62549,6 +62594,9 @@
 [submodule "spTimer"]
 	path = spTimer
 	url = https://github.com/cran/spTimer
+[submodule "spaAlign"]
+	path = spaAlign
+	url = https://github.com/cran/spaAlign
 [submodule "spaMM"]
 	path = spaMM
 	url = https://github.com/cran/spaMM
@@ -63128,6 +63176,9 @@
 [submodule "splinetree"]
 	path = splinetree
 	url = https://github.com/cran/splinetree
+[submodule "splinetrials"]
+	path = splinetrials
+	url = https://github.com/cran/splinetrials
 [submodule "splitSelect"]
 	path = splitSelect
 	url = https://github.com/cran/splitSelect
@@ -66389,6 +66440,9 @@
 [submodule "tls"]
 	path = tls
 	url = https://github.com/cran/tls
+[submodule "tlsR"]
+	path = tlsR
+	url = https://github.com/cran/tlsR
 [submodule "tm"]
 	path = tm
 	url = https://github.com/cran/tm
