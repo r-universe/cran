@@ -13964,6 +13964,9 @@
 [submodule "PulmoDataSets"]
 	path = PulmoDataSets
 	url = https://github.com/cran/PulmoDataSets
+[submodule "PupillometryR"]
+	path = PupillometryR
+	url = https://github.com/cran/PupillometryR
 [submodule "PurpleAir"]
 	path = PurpleAir
 	url = https://github.com/cran/PurpleAir
@@ -15191,6 +15194,9 @@
 [submodule "RPDTest"]
 	path = RPDTest
 	url = https://github.com/cran/RPDTest
+[submodule "RPEGLMEN"]
+	path = RPEGLMEN
+	url = https://github.com/cran/RPEGLMEN
 [submodule "RPEIF"]
 	path = RPEIF
 	url = https://github.com/cran/RPEIF
@@ -16211,6 +16217,9 @@
 [submodule "ReliaPlotR"]
 	path = ReliaPlotR
 	url = https://github.com/cran/ReliaPlotR
+[submodule "ReliaShiny"]
+	path = ReliaShiny
+	url = https://github.com/cran/ReliaShiny
 [submodule "ReliabilityTheory"]
 	path = ReliabilityTheory
 	url = https://github.com/cran/ReliabilityTheory
@@ -42737,6 +42746,9 @@
 [submodule "knitrProgressBar"]
 	path = knitrProgressBar
 	url = https://github.com/cran/knitrProgressBar
+[submodule "knitrdata"]
+	path = knitrdata
+	url = https://github.com/cran/knitrdata
 [submodule "knitxl"]
 	path = knitxl
 	url = https://github.com/cran/knitxl
