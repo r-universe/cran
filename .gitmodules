@@ -7892,6 +7892,9 @@
 [submodule "HYPEtools"]
 	path = HYPEtools
 	url = https://github.com/cran/HYPEtools
+[submodule "HZIP"]
+	path = HZIP
+	url = https://github.com/cran/HZIP
 [submodule "HaDeX"]
 	path = HaDeX
 	url = https://github.com/cran/HaDeX
@@ -16169,6 +16172,9 @@
 [submodule "RedisBaseContainer"]
 	path = RedisBaseContainer
 	url = https://github.com/cran/RedisBaseContainer
+[submodule "Rediscover"]
+	path = Rediscover
+	url = https://github.com/cran/Rediscover
 [submodule "Redmonder"]
 	path = Redmonder
 	url = https://github.com/cran/Redmonder
