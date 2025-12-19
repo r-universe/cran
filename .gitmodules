@@ -4952,6 +4952,9 @@
 [submodule "EBrank"]
 	path = EBrank
 	url = https://github.com/cran/EBrank
+[submodule "ECDFniche"]
+	path = ECDFniche
+	url = https://github.com/cran/ECDFniche
 [submodule "ECG"]
 	path = ECG
 	url = https://github.com/cran/ECG
@@ -21908,6 +21911,9 @@
 [submodule "amberr"]
 	path = amberr
 	url = https://github.com/cran/amberr
+[submodule "ambiR"]
+	path = ambiR
+	url = https://github.com/cran/ambiR
 [submodule "ambient"]
 	path = ambient
 	url = https://github.com/cran/ambient
@@ -23444,6 +23450,9 @@
 [submodule "bayesianETAS"]
 	path = bayesianETAS
 	url = https://github.com/cran/bayesianETAS
+[submodule "bayesianOU"]
+	path = bayesianOU
+	url = https://github.com/cran/bayesianOU
 [submodule "bayesianVARs"]
 	path = bayesianVARs
 	url = https://github.com/cran/bayesianVARs
@@ -24368,6 +24377,9 @@
 [submodule "bittermelon"]
 	path = bittermelon
 	url = https://github.com/cran/bittermelon
+[submodule "bivarhr"]
+	path = bivarhr
+	url = https://github.com/cran/bivarhr
 [submodule "bivariateLeaflet"]
 	path = bivariateLeaflet
 	url = https://github.com/cran/bivariateLeaflet
@@ -31883,6 +31895,9 @@
 [submodule "eSIR"]
 	path = eSIR
 	url = https://github.com/cran/eSIR
+[submodule "eVCGsampler"]
+	path = eVCGsampler
+	url = https://github.com/cran/eVCGsampler
 [submodule "eadrm"]
 	path = eadrm
 	url = https://github.com/cran/eadrm
@@ -44990,6 +45005,9 @@
 [submodule "mapview"]
 	path = mapview
 	url = https://github.com/cran/mapview
+[submodule "mapycusmaximus"]
+	path = mapycusmaximus
+	url = https://github.com/cran/mapycusmaximus
 [submodule "maq"]
 	path = maq
 	url = https://github.com/cran/maq
@@ -46436,6 +46454,9 @@
 [submodule "mind"]
 	path = mind
 	url = https://github.com/cran/mind
+[submodule "mindr"]
+	path = mindr
+	url = https://github.com/cran/mindr
 [submodule "mineCitrus"]
 	path = mineCitrus
 	url = https://github.com/cran/mineCitrus
@@ -52811,6 +52832,9 @@
 [submodule "plot3Drgl"]
 	path = plot3Drgl
 	url = https://github.com/cran/plot3Drgl
+[submodule "plot3logit"]
+	path = plot3logit
+	url = https://github.com/cran/plot3logit
 [submodule "plot4fun"]
 	path = plot4fun
 	url = https://github.com/cran/plot4fun
@@ -56762,6 +56786,9 @@
 [submodule "ref.ICAR"]
 	path = ref.ICAR
 	url = https://github.com/cran/ref.ICAR
+[submodule "refdb"]
+	path = refdb
+	url = https://github.com/cran/refdb
 [submodule "refer"]
 	path = refer
 	url = https://github.com/cran/refer
@@ -66419,6 +66446,9 @@
 [submodule "tipsae"]
 	path = tipsae
 	url = https://github.com/cran/tipsae
+[submodule "tipse"]
+	path = tipse
+	url = https://github.com/cran/tipse
 [submodule "tis"]
 	path = tis
 	url = https://github.com/cran/tis
