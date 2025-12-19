@@ -16169,9 +16169,6 @@
 [submodule "RedisBaseContainer"]
 	path = RedisBaseContainer
 	url = https://github.com/cran/RedisBaseContainer
-[submodule "Rediscover"]
-	path = Rediscover
-	url = https://github.com/cran/Rediscover
 [submodule "Redmonder"]
 	path = Redmonder
 	url = https://github.com/cran/Redmonder
