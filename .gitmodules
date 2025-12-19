@@ -34847,6 +34847,9 @@
 [submodule "fitPS"]
 	path = fitPS
 	url = https://github.com/cran/fitPS
+[submodule "fitPlotR"]
+	path = fitPlotR
+	url = https://github.com/cran/fitPlotR
 [submodule "fitPoly"]
 	path = fitPoly
 	url = https://github.com/cran/fitPoly
@@ -40253,6 +40256,9 @@
 [submodule "hySpc.testthat"]
 	path = hySpc.testthat
 	url = https://github.com/cran/hySpc.testthat
+[submodule "hybridEHR"]
+	path = hybridEHR
+	url = https://github.com/cran/hybridEHR
 [submodule "hybridModels"]
 	path = hybridModels
 	url = https://github.com/cran/hybridModels
@@ -56555,6 +56561,9 @@
 [submodule "readmission"]
 	path = readmission
 	url = https://github.com/cran/readmission
+[submodule "readmit"]
+	path = readmit
+	url = https://github.com/cran/readmit
 [submodule "readmoRe"]
 	path = readmoRe
 	url = https://github.com/cran/readmoRe
