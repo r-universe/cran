@@ -4208,6 +4208,9 @@
 [submodule "DOvalidation"]
 	path = DOvalidation
 	url = https://github.com/cran/DOvalidation
+[submodule "DPCD"]
+	path = DPCD
+	url = https://github.com/cran/DPCD
 [submodule "DPI"]
 	path = DPI
 	url = https://github.com/cran/DPI
@@ -16115,6 +16118,9 @@
 [submodule "ReSurv"]
 	path = ReSurv
 	url = https://github.com/cran/ReSurv
+[submodule "ReVAMP"]
+	path = ReVAMP
+	url = https://github.com/cran/ReVAMP
 [submodule "ReacTran"]
 	path = ReacTran
 	url = https://github.com/cran/ReacTran
@@ -33731,6 +33737,9 @@
 [submodule "f1dataR"]
 	path = f1dataR
 	url = https://github.com/cran/f1dataR
+[submodule "f1pits"]
+	path = f1pits
+	url = https://github.com/cran/f1pits
 [submodule "fANCOVA"]
 	path = fANCOVA
 	url = https://github.com/cran/fANCOVA
@@ -69407,6 +69416,9 @@
 [submodule "wmm"]
 	path = wmm
 	url = https://github.com/cran/wmm
+[submodule "wmwAUC"]
+	path = wmwAUC
+	url = https://github.com/cran/wmwAUC
 [submodule "wmwm"]
 	path = wmwm
 	url = https://github.com/cran/wmwm
