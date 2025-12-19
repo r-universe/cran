@@ -26528,9 +26528,6 @@
 [submodule "cicalc"]
 	path = cicalc
 	url = https://github.com/cran/cicalc
-[submodule "ciccr"]
-	path = ciccr
-	url = https://github.com/cran/ciccr
 [submodule "cicerone"]
 	path = cicerone
 	url = https://github.com/cran/cicerone
@@ -35321,9 +35318,6 @@
 [submodule "forestat"]
 	path = forestat
 	url = https://github.com/cran/forestat
-[submodule "forestdata"]
-	path = forestdata
-	url = https://github.com/cran/forestdata
 [submodule "forestecology"]
 	path = forestecology
 	url = https://github.com/cran/forestecology
