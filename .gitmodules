@@ -9458,6 +9458,9 @@
 [submodule "LSMRealOptions"]
 	path = LSMRealOptions
 	url = https://github.com/cran/LSMRealOptions
+[submodule "LSMjml"]
+	path = LSMjml
+	url = https://github.com/cran/LSMjml
 [submodule "LSMonteCarlo"]
 	path = LSMonteCarlo
 	url = https://github.com/cran/LSMonteCarlo
@@ -11027,6 +11030,9 @@
 [submodule "MetaNet"]
 	path = MetaNet
 	url = https://github.com/cran/MetaNet
+[submodule "MetaRVM"]
+	path = MetaRVM
+	url = https://github.com/cran/MetaRVM
 [submodule "MetaSKAT"]
 	path = MetaSKAT
 	url = https://github.com/cran/MetaSKAT
@@ -20516,6 +20522,9 @@
 [submodule "WarnEpi"]
 	path = WarnEpi
 	url = https://github.com/cran/WarnEpi
+[submodule "WaterBalanceR"]
+	path = WaterBalanceR
+	url = https://github.com/cran/WaterBalanceR
 [submodule "Wats"]
 	path = Wats
 	url = https://github.com/cran/Wats
@@ -27443,6 +27452,9 @@
 [submodule "collett"]
 	path = collett
 	url = https://github.com/cran/collett
+[submodule "colleyRstats"]
+	path = colleyRstats
+	url = https://github.com/cran/colleyRstats
 [submodule "collidr"]
 	path = collidr
 	url = https://github.com/cran/collidr
@@ -30095,6 +30107,9 @@
 [submodule "deldir"]
 	path = deldir
 	url = https://github.com/cran/deldir
+[submodule "deliberr"]
+	path = deliberr
+	url = https://github.com/cran/deliberr
 [submodule "delimtools"]
 	path = delimtools
 	url = https://github.com/cran/delimtools
@@ -55121,6 +55136,9 @@
 [submodule "quickNmix"]
 	path = quickNmix
 	url = https://github.com/cran/quickNmix
+[submodule "quickOutlier"]
+	path = quickOutlier
+	url = https://github.com/cran/quickOutlier
 [submodule "quickPWCR"]
 	path = quickPWCR
 	url = https://github.com/cran/quickPWCR
@@ -67691,6 +67709,9 @@
 [submodule "ukbnmr"]
 	path = ukbnmr
 	url = https://github.com/cran/ukbnmr
+[submodule "ukc19"]
+	path = ukc19
+	url = https://github.com/cran/ukc19
 [submodule "ukgasapi"]
 	path = ukgasapi
 	url = https://github.com/cran/ukgasapi
