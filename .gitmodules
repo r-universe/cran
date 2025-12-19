@@ -1769,9 +1769,6 @@
 [submodule "Bhat"]
 	path = Bhat
 	url = https://github.com/cran/Bhat
-[submodule "BiBitR"]
-	path = BiBitR
-	url = https://github.com/cran/BiBitR
 [submodule "BiCausality"]
 	path = BiCausality
 	url = https://github.com/cran/BiCausality
@@ -6491,9 +6488,6 @@
 [submodule "FuzzyClass"]
 	path = FuzzyClass
 	url = https://github.com/cran/FuzzyClass
-[submodule "FuzzyDBScan"]
-	path = FuzzyDBScan
-	url = https://github.com/cran/FuzzyDBScan
 [submodule "FuzzyImputationTest"]
 	path = FuzzyImputationTest
 	url = https://github.com/cran/FuzzyImputationTest
@@ -6593,9 +6587,6 @@
 [submodule "GARCOM"]
 	path = GARCOM
 	url = https://github.com/cran/GARCOM
-[submodule "GAS"]
-	path = GAS
-	url = https://github.com/cran/GAS
 [submodule "GAparsimony"]
 	path = GAparsimony
 	url = https://github.com/cran/GAparsimony
@@ -7001,9 +6992,6 @@
 [submodule "GPTreeO"]
 	path = GPTreeO
 	url = https://github.com/cran/GPTreeO
-[submodule "GPUmatrix"]
-	path = GPUmatrix
-	url = https://github.com/cran/GPUmatrix
 [submodule "GPareto"]
 	path = GPareto
 	url = https://github.com/cran/GPareto
@@ -9125,9 +9113,6 @@
 [submodule "KoboconnectR"]
 	path = KoboconnectR
 	url = https://github.com/cran/KoboconnectR
-[submodule "KoulMde"]
-	path = KoulMde
-	url = https://github.com/cran/KoulMde
 [submodule "Kpart"]
 	path = Kpart
 	url = https://github.com/cran/Kpart
@@ -14969,9 +14954,6 @@
 [submodule "RMX"]
 	path = RMX
 	url = https://github.com/cran/RMX
-[submodule "RMaCzek"]
-	path = RMaCzek
-	url = https://github.com/cran/RMaCzek
 [submodule "RMallow"]
 	path = RMallow
 	url = https://github.com/cran/RMallow
@@ -22403,9 +22385,6 @@
 [submodule "argus"]
 	path = argus
 	url = https://github.com/cran/argus
-[submodule "ari"]
-	path = ari
-	url = https://github.com/cran/ari
 [submodule "aricode"]
 	path = aricode
 	url = https://github.com/cran/aricode
@@ -23924,9 +23903,6 @@
 [submodule "bibtex"]
 	path = bibtex
 	url = https://github.com/cran/bibtex
-[submodule "biclust"]
-	path = biclust
-	url = https://github.com/cran/biclust
 [submodule "bidask"]
 	path = bidask
 	url = https://github.com/cran/bidask
@@ -25193,9 +25169,6 @@
 [submodule "bulletcp"]
 	path = bulletcp
 	url = https://github.com/cran/bulletcp
-[submodule "bulletr"]
-	path = bulletr
-	url = https://github.com/cran/bulletr
 [submodule "bullishTrader"]
 	path = bullishTrader
 	url = https://github.com/cran/bullishTrader
@@ -61391,9 +61364,6 @@
 [submodule "sigInt"]
 	path = sigInt
 	url = https://github.com/cran/sigInt
-[submodule "sigQC"]
-	path = sigQC
-	url = https://github.com/cran/sigQC
 [submodule "sigclust"]
 	path = sigclust
 	url = https://github.com/cran/sigclust
@@ -62153,9 +62123,6 @@
 [submodule "smoothemplik"]
 	path = smoothemplik
 	url = https://github.com/cran/smoothemplik
-[submodule "smoother"]
-	path = smoother
-	url = https://github.com/cran/smoother
 [submodule "smoothic"]
 	path = smoothic
 	url = https://github.com/cran/smoothic
@@ -64361,9 +64328,6 @@
 [submodule "superb"]
 	path = superb
 	url = https://github.com/cran/superb
-[submodule "superbiclust"]
-	path = superbiclust
-	url = https://github.com/cran/superbiclust
 [submodule "supercells"]
 	path = supercells
 	url = https://github.com/cran/supercells
@@ -65579,9 +65543,6 @@
 [submodule "text2sdgData"]
 	path = text2sdgData
 	url = https://github.com/cran/text2sdgData
-[submodule "text2speech"]
-	path = text2speech
-	url = https://github.com/cran/text2speech
 [submodule "text2vec"]
 	path = text2vec
 	url = https://github.com/cran/text2vec
