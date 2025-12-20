@@ -13979,6 +13979,9 @@
 [submodule "PulmoDataSets"]
 	path = PulmoDataSets
 	url = https://github.com/cran/PulmoDataSets
+[submodule "PupilPre"]
+	path = PupilPre
+	url = https://github.com/cran/PupilPre
 [submodule "PupillometryR"]
 	path = PupillometryR
 	url = https://github.com/cran/PupillometryR
