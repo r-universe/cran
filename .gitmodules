@@ -2036,6 +2036,9 @@
 [submodule "BootstrapQTL"]
 	path = BootstrapQTL
 	url = https://github.com/cran/BootstrapQTL
+[submodule "BootstrapTests"]
+	path = BootstrapTests
+	url = https://github.com/cran/BootstrapTests
 [submodule "Boptbd"]
 	path = Boptbd
 	url = https://github.com/cran/Boptbd
@@ -9986,6 +9989,9 @@
 [submodule "MBNMAtime"]
 	path = MBNMAtime
 	url = https://github.com/cran/MBNMAtime
+[submodule "MBRM"]
+	path = MBRM
+	url = https://github.com/cran/MBRM
 [submodule "MBSGS"]
 	path = MBSGS
 	url = https://github.com/cran/MBSGS
@@ -45731,6 +45737,9 @@
 [submodule "meetupapi"]
 	path = meetupapi
 	url = https://github.com/cran/meetupapi
+[submodule "meetupr"]
+	path = meetupr
+	url = https://github.com/cran/meetupr
 [submodule "mefa"]
 	path = mefa
 	url = https://github.com/cran/mefa
@@ -51167,6 +51176,9 @@
 [submodule "pairwiseCI"]
 	path = pairwiseCI
 	url = https://github.com/cran/pairwiseCI
+[submodule "pairwiseLLM"]
+	path = pairwiseLLM
+	url = https://github.com/cran/pairwiseLLM
 [submodule "paisaje"]
 	path = paisaje
 	url = https://github.com/cran/paisaje
@@ -61910,6 +61922,9 @@
 [submodule "sitreeE"]
 	path = sitreeE
 	url = https://github.com/cran/sitreeE
+[submodule "sitrep"]
+	path = sitrep
+	url = https://github.com/cran/sitrep
 [submodule "sits"]
 	path = sits
 	url = https://github.com/cran/sits
