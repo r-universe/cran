@@ -16553,9 +16553,6 @@
 [submodule "RobLox"]
 	path = RobLox
 	url = https://github.com/cran/RobLox
-[submodule "RobLoxBioC"]
-	path = RobLoxBioC
-	url = https://github.com/cran/RobLoxBioC
 [submodule "RobMixReg"]
 	path = RobMixReg
 	url = https://github.com/cran/RobMixReg
@@ -50261,9 +50258,6 @@
 [submodule "oncmap"]
 	path = oncmap
 	url = https://github.com/cran/oncmap
-[submodule "oncoPredict"]
-	path = oncoPredict
-	url = https://github.com/cran/oncoPredict
 [submodule "oncomsm"]
 	path = oncomsm
 	url = https://github.com/cran/oncomsm
