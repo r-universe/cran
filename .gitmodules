@@ -14984,6 +14984,9 @@
 [submodule "RMX"]
 	path = RMX
 	url = https://github.com/cran/RMX
+[submodule "RMaCzek"]
+	path = RMaCzek
+	url = https://github.com/cran/RMaCzek
 [submodule "RMallow"]
 	path = RMallow
 	url = https://github.com/cran/RMallow
