@@ -40253,9 +40253,6 @@
 [submodule "hySAINT"]
 	path = hySAINT
 	url = https://github.com/cran/hySAINT
-[submodule "hySpc.testthat"]
-	path = hySpc.testthat
-	url = https://github.com/cran/hySpc.testthat
 [submodule "hybridEHR"]
 	path = hybridEHR
 	url = https://github.com/cran/hybridEHR
