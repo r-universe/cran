@@ -42107,9 +42107,6 @@
 [submodule "jetpack"]
 	path = jetpack
 	url = https://github.com/cran/jetpack
-[submodule "jetset"]
-	path = jetset
-	url = https://github.com/cran/jetset
 [submodule "jetty"]
 	path = jetty
 	url = https://github.com/cran/jetty
