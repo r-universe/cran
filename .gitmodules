@@ -764,6 +764,9 @@
 [submodule "Arothron"]
 	path = Arothron
 	url = https://github.com/cran/Arothron
+[submodule "AsianOption"]
+	path = AsianOption
+	url = https://github.com/cran/AsianOption
 [submodule "AsioHeaders"]
 	path = AsioHeaders
 	url = https://github.com/cran/AsioHeaders
@@ -5975,6 +5978,9 @@
 [submodule "FMC"]
 	path = FMC
 	url = https://github.com/cran/FMC
+[submodule "FMCensSkewReg"]
+	path = FMCensSkewReg
+	url = https://github.com/cran/FMCensSkewReg
 [submodule "FME"]
 	path = FME
 	url = https://github.com/cran/FME
@@ -13580,6 +13586,9 @@
 [submodule "Plasmidprofiler"]
 	path = Plasmidprofiler
 	url = https://github.com/cran/Plasmidprofiler
+[submodule "PlateVision"]
+	path = PlateVision
+	url = https://github.com/cran/PlateVision
 [submodule "PlatformDesign"]
 	path = PlatformDesign
 	url = https://github.com/cran/PlatformDesign
@@ -16202,6 +16211,9 @@
 [submodule "RegDDM"]
 	path = RegDDM
 	url = https://github.com/cran/RegDDM
+[submodule "RegEnRF"]
+	path = RegEnRF
+	url = https://github.com/cran/RegEnRF
 [submodule "RegKink"]
 	path = RegKink
 	url = https://github.com/cran/RegKink
@@ -28061,6 +28073,9 @@
 [submodule "contoureR"]
 	path = contoureR
 	url = https://github.com/cran/contoureR
+[submodule "contourforest"]
+	path = contourforest
+	url = https://github.com/cran/contourforest
 [submodule "contrast"]
 	path = contrast
 	url = https://github.com/cran/contrast
@@ -44876,6 +44891,9 @@
 [submodule "mantis"]
 	path = mantis
 	url = https://github.com/cran/mantis
+[submodule "manureshed"]
+	path = manureshed
+	url = https://github.com/cran/manureshed
 [submodule "manydata"]
 	path = manydata
 	url = https://github.com/cran/manydata
@@ -52589,6 +52607,9 @@
 [submodule "pipetime"]
 	path = pipetime
 	url = https://github.com/cran/pipetime
+[submodule "pipr"]
+	path = pipr
+	url = https://github.com/cran/pipr
 [submodule "piqp"]
 	path = piqp
 	url = https://github.com/cran/piqp
