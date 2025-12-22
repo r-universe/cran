@@ -19565,6 +19565,9 @@
 [submodule "Temporal"]
 	path = Temporal
 	url = https://github.com/cran/Temporal
+[submodule "TemporalForest"]
+	path = TemporalForest
+	url = https://github.com/cran/TemporalForest
 [submodule "TemporalGSSA"]
 	path = TemporalGSSA
 	url = https://github.com/cran/TemporalGSSA
@@ -26660,6 +26663,9 @@
 [submodule "citrus"]
 	path = citrus
 	url = https://github.com/cran/citrus
+[submodule "citsr"]
+	path = citsr
+	url = https://github.com/cran/citsr
 [submodule "ciu"]
 	path = ciu
 	url = https://github.com/cran/ciu
@@ -32768,6 +32774,9 @@
 [submodule "enrichR"]
 	path = enrichR
 	url = https://github.com/cran/enrichR
+[submodule "enrichit"]
+	path = enrichit
+	url = https://github.com/cran/enrichit
 [submodule "enrichwith"]
 	path = enrichwith
 	url = https://github.com/cran/enrichwith
@@ -49946,6 +49955,9 @@
 [submodule "o2plsda"]
 	path = o2plsda
 	url = https://github.com/cran/o2plsda
+[submodule "oCELLoc"]
+	path = oCELLoc
+	url = https://github.com/cran/oCELLoc
 [submodule "oHMMed"]
 	path = oHMMed
 	url = https://github.com/cran/oHMMed
@@ -69245,6 +69257,9 @@
 [submodule "weightedScores"]
 	path = weightedScores
 	url = https://github.com/cran/weightedScores
+[submodule "weightedsurv"]
+	path = weightedsurv
+	url = https://github.com/cran/weightedsurv
 [submodule "weightr"]
 	path = weightr
 	url = https://github.com/cran/weightr
