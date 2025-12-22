@@ -43406,9 +43406,6 @@
 [submodule "leakyIV"]
 	path = leakyIV
 	url = https://github.com/cran/leakyIV
-[submodule "leanpubr"]
-	path = leanpubr
-	url = https://github.com/cran/leanpubr
 [submodule "leapgp"]
 	path = leapgp
 	url = https://github.com/cran/leapgp
