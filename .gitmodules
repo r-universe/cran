@@ -9926,9 +9926,6 @@
 [submodule "MARSSVRhybrid"]
 	path = MARSSVRhybrid
 	url = https://github.com/cran/MARSSVRhybrid
-[submodule "MARVEL"]
-	path = MARVEL
-	url = https://github.com/cran/MARVEL
 [submodule "MASS"]
 	path = MASS
 	url = https://github.com/cran/MASS
@@ -62027,9 +62024,6 @@
 [submodule "skylight"]
 	path = skylight
 	url = https://github.com/cran/skylight
-[submodule "skyscapeR"]
-	path = skyscapeR
-	url = https://github.com/cran/skyscapeR
 [submodule "skytrackr"]
 	path = skytrackr
 	url = https://github.com/cran/skytrackr
