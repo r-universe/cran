@@ -47528,9 +47528,6 @@
 [submodule "mopac"]
 	path = mopac
 	url = https://github.com/cran/mopac
-[submodule "moranajp"]
-	path = moranajp
-	url = https://github.com/cran/moranajp
 [submodule "moreparty"]
 	path = moreparty
 	url = https://github.com/cran/moreparty
@@ -52763,9 +52760,6 @@
 [submodule "planets"]
 	path = planets
 	url = https://github.com/cran/planets
-[submodule "planningML"]
-	path = planningML
-	url = https://github.com/cran/planningML
 [submodule "planr"]
 	path = planr
 	url = https://github.com/cran/planr
