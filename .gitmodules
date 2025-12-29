@@ -4139,9 +4139,6 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
-[submodule "DLSSM"]
-	path = DLSSM
-	url = https://github.com/cran/DLSSM
 [submodule "DMCfun"]
 	path = DMCfun
 	url = https://github.com/cran/DMCfun
@@ -27338,9 +27335,6 @@
 [submodule "codeCollection"]
 	path = codeCollection
 	url = https://github.com/cran/codeCollection
-[submodule "codebook"]
-	path = codebook
-	url = https://github.com/cran/codebook
 [submodule "codebookr"]
 	path = codebookr
 	url = https://github.com/cran/codebookr
@@ -61919,9 +61913,6 @@
 [submodule "sits"]
 	path = sits
 	url = https://github.com/cran/sits
-[submodule "sivirep"]
-	path = sivirep
-	url = https://github.com/cran/sivirep
 [submodule "sivs"]
 	path = sivs
 	url = https://github.com/cran/sivs
