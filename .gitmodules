@@ -4283,6 +4283,9 @@
 [submodule "DRquality"]
 	path = DRquality
 	url = https://github.com/cran/DRquality
+[submodule "DRsurvCRT"]
+	path = DRsurvCRT
+	url = https://github.com/cran/DRsurvCRT
 [submodule "DRviaSPCN"]
 	path = DRviaSPCN
 	url = https://github.com/cran/DRviaSPCN
@@ -52790,6 +52793,9 @@
 [submodule "plattice"]
 	path = plattice
 	url = https://github.com/cran/plattice
+[submodule "plavaan"]
+	path = plavaan
+	url = https://github.com/cran/plavaan
 [submodule "play"]
 	path = play
 	url = https://github.com/cran/play
@@ -60584,6 +60590,9 @@
 [submodule "sensobol"]
 	path = sensobol
 	url = https://github.com/cran/sensobol
+[submodule "sensortowerR"]
+	path = sensortowerR
+	url = https://github.com/cran/sensortowerR
 [submodule "sensory"]
 	path = sensory
 	url = https://github.com/cran/sensory
