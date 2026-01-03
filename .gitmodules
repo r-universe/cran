@@ -5780,9 +5780,6 @@
 [submodule "FAIRmaterials"]
 	path = FAIRmaterials
 	url = https://github.com/cran/FAIRmaterials
-[submodule "FAMT"]
-	path = FAMT
-	url = https://github.com/cran/FAMT
 [submodule "FAMetA"]
 	path = FAMetA
 	url = https://github.com/cran/FAMetA
@@ -8570,9 +8567,6 @@
 [submodule "ImFoR"]
 	path = ImFoR
 	url = https://github.com/cran/ImFoR
-[submodule "ImHD"]
-	path = ImHD
-	url = https://github.com/cran/ImHD
 [submodule "ImML"]
 	path = ImML
 	url = https://github.com/cran/ImML
@@ -15479,9 +15473,6 @@
 [submodule "RTFA"]
 	path = RTFA
 	url = https://github.com/cran/RTFA
-[submodule "RTIGER"]
-	path = RTIGER
-	url = https://github.com/cran/RTIGER
 [submodule "RTL"]
 	path = RTL
 	url = https://github.com/cran/RTL
@@ -18431,9 +18422,6 @@
 [submodule "SorptionAnalysis"]
 	path = SorptionAnalysis
 	url = https://github.com/cran/SorptionAnalysis
-[submodule "SortedEffects"]
-	path = SortedEffects
-	url = https://github.com/cran/SortedEffects
 [submodule "SoundShape"]
 	path = SoundShape
 	url = https://github.com/cran/SoundShape
@@ -23435,9 +23423,6 @@
 [submodule "bayesanova"]
 	path = bayesanova
 	url = https://github.com/cran/bayesanova
-[submodule "bayesassurance"]
-	path = bayesassurance
-	url = https://github.com/cran/bayesassurance
 [submodule "bayesbio"]
 	path = bayesbio
 	url = https://github.com/cran/bayesbio
@@ -26945,9 +26930,6 @@
 [submodule "clock"]
 	path = clock
 	url = https://github.com/cran/clock
-[submodule "clockSim"]
-	path = clockSim
-	url = https://github.com/cran/clockSim
 [submodule "clockify"]
 	path = clockify
 	url = https://github.com/cran/clockify
@@ -36647,9 +36629,6 @@
 [submodule "geneNR"]
 	path = geneNR
 	url = https://github.com/cran/geneNR
-[submodule "geneSLOPE"]
-	path = geneSLOPE
-	url = https://github.com/cran/geneSLOPE
 [submodule "genekitr"]
 	path = genekitr
 	url = https://github.com/cran/genekitr
@@ -40397,9 +40376,6 @@
 [submodule "hypr"]
 	path = hypr
 	url = https://github.com/cran/hypr
-[submodule "hypsoLoop"]
-	path = hypsoLoop
-	url = https://github.com/cran/hypsoLoop
 [submodule "hyreg2"]
 	path = hyreg2
 	url = https://github.com/cran/hyreg2
@@ -57902,9 +57878,6 @@
 [submodule "rlfsm"]
 	path = rlfsm
 	url = https://github.com/cran/rlfsm
-[submodule "rlibkriging"]
-	path = rlibkriging
-	url = https://github.com/cran/rlibkriging
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/cran/rliger
@@ -61460,9 +61433,6 @@
 [submodule "sidier"]
 	path = sidier
 	url = https://github.com/cran/sidier
-[submodule "sidra"]
-	path = sidra
-	url = https://github.com/cran/sidra
 [submodule "sidrar"]
 	path = sidrar
 	url = https://github.com/cran/sidrar
@@ -64424,9 +64394,6 @@
 [submodule "summarytools"]
 	path = summarytools
 	url = https://github.com/cran/summarytools
-[submodule "summclust"]
-	path = summclust
-	url = https://github.com/cran/summclust
 [submodule "sumup"]
 	path = sumup
 	url = https://github.com/cran/sumup
