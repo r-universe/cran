@@ -4529,6 +4529,9 @@
 [submodule "DecorateR"]
 	path = DecorateR
 	url = https://github.com/cran/DecorateR
+[submodule "DedooseR"]
+	path = DedooseR
+	url = https://github.com/cran/DedooseR
 [submodule "Deducer"]
 	path = Deducer
 	url = https://github.com/cran/Deducer
@@ -15605,6 +15608,9 @@
 [submodule "RandomForestsGLS"]
 	path = RandomForestsGLS
 	url = https://github.com/cran/RandomForestsGLS
+[submodule "RandomGaussianNB"]
+	path = RandomGaussianNB
+	url = https://github.com/cran/RandomGaussianNB
 [submodule "RandomProjectionTest"]
 	path = RandomProjectionTest
 	url = https://github.com/cran/RandomProjectionTest
@@ -19382,6 +19388,9 @@
 [submodule "TSPred"]
 	path = TSPred
 	url = https://github.com/cran/TSPred
+[submodule "TSQCA"]
+	path = TSQCA
+	url = https://github.com/cran/TSQCA
 [submodule "TSS.RESTREND"]
 	path = TSS.RESTREND
 	url = https://github.com/cran/TSS.RESTREND
@@ -24470,6 +24479,9 @@
 [submodule "blockr.ggplot"]
 	path = blockr.ggplot
 	url = https://github.com/cran/blockr.ggplot
+[submodule "blockr.io"]
+	path = blockr.io
+	url = https://github.com/cran/blockr.io
 [submodule "blockrand"]
 	path = blockrand
 	url = https://github.com/cran/blockrand
@@ -26576,6 +26588,9 @@
 [submodule "circularEV"]
 	path = circularEV
 	url = https://github.com/cran/circularEV
+[submodule "circularKDE"]
+	path = circularKDE
+	url = https://github.com/cran/circularKDE
 [submodule "circumplex"]
 	path = circumplex
 	url = https://github.com/cran/circumplex
@@ -31421,6 +31436,9 @@
 [submodule "dsBase"]
 	path = dsBase
 	url = https://github.com/cran/dsBase
+[submodule "dsBaseClient"]
+	path = dsBaseClient
+	url = https://github.com/cran/dsBaseClient
 [submodule "dsTidyverse"]
 	path = dsTidyverse
 	url = https://github.com/cran/dsTidyverse
@@ -32549,6 +32567,9 @@
 [submodule "embryogrowth"]
 	path = embryogrowth
 	url = https://github.com/cran/embryogrowth
+[submodule "emburden"]
+	path = emburden
+	url = https://github.com/cran/emburden
 [submodule "emcAdr"]
 	path = emcAdr
 	url = https://github.com/cran/emcAdr
@@ -47564,6 +47585,9 @@
 [submodule "mpwR"]
 	path = mpwR
 	url = https://github.com/cran/mpwR
+[submodule "mr.mashr"]
+	path = mr.mashr
+	url = https://github.com/cran/mr.mashr
 [submodule "mr.pivw"]
 	path = mr.pivw
 	url = https://github.com/cran/mr.pivw
@@ -48311,6 +48335,9 @@
 [submodule "mvtsplot"]
 	path = mvtsplot
 	url = https://github.com/cran/mvtsplot
+[submodule "mvtweedie"]
+	path = mvtweedie
+	url = https://github.com/cran/mvtweedie
 [submodule "mvvg"]
 	path = mvvg
 	url = https://github.com/cran/mvvg
@@ -61883,6 +61910,9 @@
 [submodule "slgf"]
 	path = slgf
 	url = https://github.com/cran/slgf
+[submodule "slideimp"]
+	path = slideimp
+	url = https://github.com/cran/slideimp
 [submodule "slider"]
 	path = slider
 	url = https://github.com/cran/slider
@@ -68177,6 +68207,9 @@
 [submodule "vayr"]
 	path = vayr
 	url = https://github.com/cran/vayr
+[submodule "vbracket"]
+	path = vbracket
+	url = https://github.com/cran/vbracket
 [submodule "vcPB"]
 	path = vcPB
 	url = https://github.com/cran/vcPB
