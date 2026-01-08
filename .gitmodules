@@ -5012,9 +5012,6 @@
 [submodule "EEMDelm"]
 	path = EEMDelm
 	url = https://github.com/cran/EEMDelm
-[submodule "EEMDlstm"]
-	path = EEMDlstm
-	url = https://github.com/cran/EEMDlstm
 [submodule "EEML"]
 	path = EEML
 	url = https://github.com/cran/EEML
@@ -7298,9 +7295,6 @@
 [submodule "GeneScoreR"]
 	path = GeneScoreR
 	url = https://github.com/cran/GeneScoreR
-[submodule "GeneSelectR"]
-	path = GeneSelectR
-	url = https://github.com/cran/GeneSelectR
 [submodule "GeneralOaxaca"]
 	path = GeneralOaxaca
 	url = https://github.com/cran/GeneralOaxaca
