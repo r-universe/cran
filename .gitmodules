@@ -17639,6 +17639,9 @@
 [submodule "SRTtools"]
 	path = SRTtools
 	url = https://github.com/cran/SRTtools
+[submodule "SRscore"]
+	path = SRscore
+	url = https://github.com/cran/SRscore
 [submodule "SSAforecast"]
 	path = SSAforecast
 	url = https://github.com/cran/SSAforecast
@@ -33188,6 +33191,9 @@
 [submodule "esvis"]
 	path = esvis
 	url = https://github.com/cran/esvis
+[submodule "esviz"]
+	path = esviz
+	url = https://github.com/cran/esviz
 [submodule "et.nwfva"]
 	path = et.nwfva
 	url = https://github.com/cran/et.nwfva
@@ -50804,6 +50810,9 @@
 [submodule "outliers.ts.oga"]
 	path = outliers.ts.oga
 	url = https://github.com/cran/outliers.ts.oga
+[submodule "outlierspinner"]
+	path = outlierspinner
+	url = https://github.com/cran/outlierspinner
 [submodule "outliertree"]
 	path = outliertree
 	url = https://github.com/cran/outliertree
@@ -51560,6 +51569,9 @@
 [submodule "pbo"]
 	path = pbo
 	url = https://github.com/cran/pbo
+[submodule "pboost"]
+	path = pboost
+	url = https://github.com/cran/pboost
 [submodule "pbox"]
 	path = pbox
 	url = https://github.com/cran/pbox
