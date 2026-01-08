@@ -530,6 +530,9 @@
 [submodule "AeRobiology"]
 	path = AeRobiology
 	url = https://github.com/cran/AeRobiology
+[submodule "AeroEvapR"]
+	path = AeroEvapR
+	url = https://github.com/cran/AeroEvapR
 [submodule "AeroSampleR"]
 	path = AeroSampleR
 	url = https://github.com/cran/AeroSampleR
@@ -2543,6 +2546,9 @@
 [submodule "CNPS"]
 	path = CNPS
 	url = https://github.com/cran/CNPS
+[submodule "CNSigs"]
+	path = CNSigs
+	url = https://github.com/cran/CNSigs
 [submodule "CNVRG"]
 	path = CNVRG
 	url = https://github.com/cran/CNVRG
@@ -12290,6 +12296,9 @@
 [submodule "OmicNavigator"]
 	path = OmicNavigator
 	url = https://github.com/cran/OmicNavigator
+[submodule "OmicNetR"]
+	path = OmicNetR
+	url = https://github.com/cran/OmicNetR
 [submodule "OmicSense"]
 	path = OmicSense
 	url = https://github.com/cran/OmicSense
@@ -12368,6 +12377,9 @@
 [submodule "OnomasticDiversity"]
 	path = OnomasticDiversity
 	url = https://github.com/cran/OnomasticDiversity
+[submodule "OpEnCAST"]
+	path = OpEnCAST
+	url = https://github.com/cran/OpEnCAST
 [submodule "OpEnHiMR"]
 	path = OpEnHiMR
 	url = https://github.com/cran/OpEnHiMR
@@ -33365,6 +33377,9 @@
 [submodule "evitaicossa"]
 	path = evitaicossa
 	url = https://github.com/cran/evitaicossa
+[submodule "evmissing"]
+	path = evmissing
+	url = https://github.com/cran/evmissing
 [submodule "evmix"]
 	path = evmix
 	url = https://github.com/cran/evmix
@@ -38456,6 +38471,9 @@
 [submodule "grabsampling"]
 	path = grabsampling
 	url = https://github.com/cran/grabsampling
+[submodule "gradLasso"]
+	path = gradLasso
+	url = https://github.com/cran/gradLasso
 [submodule "grade"]
 	path = grade
 	url = https://github.com/cran/grade
@@ -45350,6 +45368,9 @@
 [submodule "mcgibbsit"]
 	path = mcgibbsit
 	url = https://github.com/cran/mcgibbsit
+[submodule "mcglm"]
+	path = mcglm
+	url = https://github.com/cran/mcglm
 [submodule "mclink"]
 	path = mclink
 	url = https://github.com/cran/mclink
@@ -50021,6 +50042,9 @@
 [submodule "odr"]
 	path = odr
 	url = https://github.com/cran/odr
+[submodule "odyssey"]
+	path = odyssey
+	url = https://github.com/cran/odyssey
 [submodule "oecdoda"]
 	path = oecdoda
 	url = https://github.com/cran/oecdoda
@@ -65969,6 +65993,9 @@
 [submodule "tidymodlr"]
 	path = tidymodlr
 	url = https://github.com/cran/tidymodlr
+[submodule "tidyna"]
+	path = tidyna
+	url = https://github.com/cran/tidyna
 [submodule "tidync"]
 	path = tidync
 	url = https://github.com/cran/tidync
