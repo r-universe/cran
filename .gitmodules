@@ -23567,9 +23567,6 @@
 [submodule "bcf"]
 	path = bcf
 	url = https://github.com/cran/bcf
-[submodule "bcfrailph"]
-	path = bcfrailph
-	url = https://github.com/cran/bcfrailph
 [submodule "bcmaps"]
 	path = bcmaps
 	url = https://github.com/cran/bcmaps
@@ -37403,9 +37400,6 @@
 [submodule "ggmix"]
 	path = ggmix
 	url = https://github.com/cran/ggmix
-[submodule "ggmosaic"]
-	path = ggmosaic
-	url = https://github.com/cran/ggmosaic
 [submodule "ggmr"]
 	path = ggmr
 	url = https://github.com/cran/ggmr
@@ -67430,9 +67424,6 @@
 [submodule "tvmComp"]
 	path = tvmComp
 	url = https://github.com/cran/tvmComp
-[submodule "tvmediation"]
-	path = tvmediation
-	url = https://github.com/cran/tvmediation
 [submodule "tvtools"]
 	path = tvtools
 	url = https://github.com/cran/tvtools
