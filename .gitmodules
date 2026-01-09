@@ -1505,6 +1505,9 @@
 [submodule "BayesDLMfMRI"]
 	path = BayesDLMfMRI
 	url = https://github.com/cran/BayesDLMfMRI
+[submodule "BayesDecon"]
+	path = BayesDecon
+	url = https://github.com/cran/BayesDecon
 [submodule "BayesDesign"]
 	path = BayesDesign
 	url = https://github.com/cran/BayesDesign
@@ -19964,6 +19967,9 @@
 [submodule "TwoWayFEWeights"]
 	path = TwoWayFEWeights
 	url = https://github.com/cran/TwoWayFEWeights
+[submodule "TxEffectsSurvival"]
+	path = TxEffectsSurvival
+	url = https://github.com/cran/TxEffectsSurvival
 [submodule "UAHDataScienceO"]
 	path = UAHDataScienceO
 	url = https://github.com/cran/UAHDataScienceO
@@ -21755,6 +21761,9 @@
 [submodule "algebraic.dist"]
 	path = algebraic.dist
 	url = https://github.com/cran/algebraic.dist
+[submodule "algebraic.mle"]
+	path = algebraic.mle
+	url = https://github.com/cran/algebraic.mle
 [submodule "algo"]
 	path = algo
 	url = https://github.com/cran/algo
@@ -33533,6 +33542,9 @@
 [submodule "expandFunctions"]
 	path = expandFunctions
 	url = https://github.com/cran/expandFunctions
+[submodule "expectreg"]
+	path = expectreg
+	url = https://github.com/cran/expectreg
 [submodule "experDesign"]
 	path = experDesign
 	url = https://github.com/cran/experDesign
@@ -35780,6 +35792,9 @@
 [submodule "funGp"]
 	path = funGp
 	url = https://github.com/cran/funGp
+[submodule "funIHC"]
+	path = funIHC
+	url = https://github.com/cran/funIHC
 [submodule "funMoDisco"]
 	path = funMoDisco
 	url = https://github.com/cran/funMoDisco
@@ -36842,6 +36857,9 @@
 [submodule "geonode4R"]
 	path = geonode4R
 	url = https://github.com/cran/geonode4R
+[submodule "geonuts"]
+	path = geonuts
+	url = https://github.com/cran/geonuts
 [submodule "geoperu"]
 	path = geoperu
 	url = https://github.com/cran/geoperu
@@ -37295,6 +37313,9 @@
 [submodule "gggrid"]
 	path = gggrid
 	url = https://github.com/cran/gggrid
+[submodule "ggguides"]
+	path = ggguides
+	url = https://github.com/cran/ggguides
 [submodule "ggh4x"]
 	path = ggh4x
 	url = https://github.com/cran/ggh4x
@@ -37964,6 +37985,9 @@
 [submodule "glmmEP"]
 	path = glmmEP
 	url = https://github.com/cran/glmmEP
+[submodule "glmmFEL"]
+	path = glmmFEL
+	url = https://github.com/cran/glmmFEL
 [submodule "glmmLasso"]
 	path = glmmLasso
 	url = https://github.com/cran/glmmLasso
@@ -39530,6 +39554,9 @@
 [submodule "heritability"]
 	path = heritability
 	url = https://github.com/cran/heritability
+[submodule "heritable"]
+	path = heritable
+	url = https://github.com/cran/heritable
 [submodule "hermite"]
 	path = hermite
 	url = https://github.com/cran/hermite
@@ -49340,6 +49367,9 @@
 [submodule "nnls"]
 	path = nnls
 	url = https://github.com/cran/nnls
+[submodule "nnmf"]
+	path = nnmf
+	url = https://github.com/cran/nnmf
 [submodule "nnspat"]
 	path = nnspat
 	url = https://github.com/cran/nnspat
@@ -59903,6 +59933,9 @@
 [submodule "scitb"]
 	path = scitb
 	url = https://github.com/cran/scitb
+[submodule "scmSpillover"]
+	path = scmSpillover
+	url = https://github.com/cran/scmSpillover
 [submodule "scoper"]
 	path = scoper
 	url = https://github.com/cran/scoper
@@ -62108,6 +62141,9 @@
 [submodule "smoothSurv"]
 	path = smoothSurv
 	url = https://github.com/cran/smoothSurv
+[submodule "smoothedIPW"]
+	path = smoothedIPW
+	url = https://github.com/cran/smoothedIPW
 [submodule "smoothedLasso"]
 	path = smoothedLasso
 	url = https://github.com/cran/smoothedLasso
