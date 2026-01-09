@@ -25547,9 +25547,6 @@
 [submodule "captain"]
 	path = captain
 	url = https://github.com/cran/captain
-[submodule "captr"]
-	path = captr
-	url = https://github.com/cran/captr
 [submodule "capushe"]
 	path = capushe
 	url = https://github.com/cran/capushe
