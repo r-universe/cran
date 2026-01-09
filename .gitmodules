@@ -8489,6 +8489,9 @@
 [submodule "ISCO08ConveRsions"]
 	path = ISCO08ConveRsions
 	url = https://github.com/cran/ISCO08ConveRsions
+[submodule "ISEtools"]
+	path = ISEtools
+	url = https://github.com/cran/ISEtools
 [submodule "ISLR"]
 	path = ISLR
 	url = https://github.com/cran/ISLR
@@ -18494,6 +18497,9 @@
 [submodule "SparseMSE"]
 	path = SparseMSE
 	url = https://github.com/cran/SparseMSE
+[submodule "SparseTSCGM"]
+	path = SparseTSCGM
+	url = https://github.com/cran/SparseTSCGM
 [submodule "SparseVFC"]
 	path = SparseVFC
 	url = https://github.com/cran/SparseVFC
