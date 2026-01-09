@@ -8489,9 +8489,6 @@
 [submodule "ISCO08ConveRsions"]
 	path = ISCO08ConveRsions
 	url = https://github.com/cran/ISCO08ConveRsions
-[submodule "ISEtools"]
-	path = ISEtools
-	url = https://github.com/cran/ISEtools
 [submodule "ISLR"]
 	path = ISLR
 	url = https://github.com/cran/ISLR
