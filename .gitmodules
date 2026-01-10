@@ -52688,6 +52688,9 @@
 [submodule "planscorer"]
 	path = planscorer
 	url = https://github.com/cran/planscorer
+[submodule "plantTracker"]
+	path = plantTracker
+	url = https://github.com/cran/plantTracker
 [submodule "plantecophys"]
 	path = plantecophys
 	url = https://github.com/cran/plantecophys
@@ -55622,6 +55625,9 @@
 [submodule "radiant.design"]
 	path = radiant.design
 	url = https://github.com/cran/radiant.design
+[submodule "radiant.model"]
+	path = radiant.model
+	url = https://github.com/cran/radiant.model
 [submodule "radiant.multivariate"]
 	path = radiant.multivariate
 	url = https://github.com/cran/radiant.multivariate
