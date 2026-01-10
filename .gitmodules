@@ -34403,9 +34403,6 @@
 [submodule "fdesigns"]
 	path = fdesigns
 	url = https://github.com/cran/fdesigns
-[submodule "fdicdata"]
-	path = fdicdata
-	url = https://github.com/cran/fdicdata
 [submodule "fdm2id"]
 	path = fdm2id
 	url = https://github.com/cran/fdm2id
@@ -55625,9 +55622,6 @@
 [submodule "radiant.design"]
 	path = radiant.design
 	url = https://github.com/cran/radiant.design
-[submodule "radiant.model"]
-	path = radiant.model
-	url = https://github.com/cran/radiant.model
 [submodule "radiant.multivariate"]
 	path = radiant.multivariate
 	url = https://github.com/cran/radiant.multivariate
