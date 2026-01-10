@@ -49763,9 +49763,6 @@
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/cran/nseq
-[submodule "nser"]
-	path = nser
-	url = https://github.com/cran/nser
 [submodule "nsga2R"]
 	path = nsga2R
 	url = https://github.com/cran/nsga2R
