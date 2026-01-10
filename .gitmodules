@@ -48656,9 +48656,6 @@
 [submodule "ncdfgeom"]
 	path = ncdfgeom
 	url = https://github.com/cran/ncdfgeom
-[submodule "ncdump"]
-	path = ncdump
-	url = https://github.com/cran/ncdump
 [submodule "ncf"]
 	path = ncf
 	url = https://github.com/cran/ncf
@@ -49763,6 +49760,9 @@
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/cran/nseq
+[submodule "nser"]
+	path = nser
+	url = https://github.com/cran/nser
 [submodule "nsga2R"]
 	path = nsga2R
 	url = https://github.com/cran/nsga2R
