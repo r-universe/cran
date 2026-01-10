@@ -23579,6 +23579,9 @@
 [submodule "bcf"]
 	path = bcf
 	url = https://github.com/cran/bcf
+[submodule "bcfrailph"]
+	path = bcfrailph
+	url = https://github.com/cran/bcfrailph
 [submodule "bcmaps"]
 	path = bcmaps
 	url = https://github.com/cran/bcmaps
@@ -55625,6 +55628,9 @@
 [submodule "radiant.model"]
 	path = radiant.model
 	url = https://github.com/cran/radiant.model
+[submodule "radiant.multivariate"]
+	path = radiant.multivariate
+	url = https://github.com/cran/radiant.multivariate
 [submodule "radir"]
 	path = radir
 	url = https://github.com/cran/radir
@@ -59918,6 +59924,9 @@
 [submodule "sciplot"]
 	path = sciplot
 	url = https://github.com/cran/sciplot
+[submodule "scipub"]
+	path = scipub
+	url = https://github.com/cran/scipub
 [submodule "scistreer"]
 	path = scistreer
 	url = https://github.com/cran/scistreer
