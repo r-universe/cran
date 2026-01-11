@@ -44186,9 +44186,6 @@
 [submodule "lolR"]
 	path = lolR
 	url = https://github.com/cran/lolR
-[submodule "lolliplot"]
-	path = lolliplot
-	url = https://github.com/cran/lolliplot
 [submodule "lolog"]
 	path = lolog
 	url = https://github.com/cran/lolog
