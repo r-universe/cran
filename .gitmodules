@@ -1010,6 +1010,9 @@
 [submodule "BCRA"]
 	path = BCRA
 	url = https://github.com/cran/BCRA
+[submodule "BCSreg"]
+	path = BCSreg
+	url = https://github.com/cran/BCSreg
 [submodule "BCT"]
 	path = BCT
 	url = https://github.com/cran/BCT
@@ -11333,6 +11336,9 @@
 [submodule "MonteCarloSEM"]
 	path = MonteCarloSEM
 	url = https://github.com/cran/MonteCarloSEM
+[submodule "MorphSim"]
+	path = MorphSim
+	url = https://github.com/cran/MorphSim
 [submodule "Morpho"]
 	path = Morpho
 	url = https://github.com/cran/Morpho
@@ -19577,6 +19583,9 @@
 [submodule "TensorClustering"]
 	path = TensorClustering
 	url = https://github.com/cran/TensorClustering
+[submodule "TensorMCMC"]
+	path = TensorMCMC
+	url = https://github.com/cran/TensorMCMC
 [submodule "TensorPreAve"]
 	path = TensorPreAve
 	url = https://github.com/cran/TensorPreAve
@@ -24485,6 +24494,9 @@
 [submodule "blockmodels"]
 	path = blockmodels
 	url = https://github.com/cran/blockmodels
+[submodule "blockr"]
+	path = blockr
+	url = https://github.com/cran/blockr
 [submodule "blockr.core"]
 	path = blockr.core
 	url = https://github.com/cran/blockr.core
@@ -28250,6 +28262,9 @@
 [submodule "correctedAUC"]
 	path = correctedAUC
 	url = https://github.com/cran/correctedAUC
+[submodule "correctref"]
+	path = correctref
+	url = https://github.com/cran/correctref
 [submodule "correlatio"]
 	path = correlatio
 	url = https://github.com/cran/correlatio
@@ -28688,6 +28703,9 @@
 [submodule "crctStepdown"]
 	path = crctStepdown
 	url = https://github.com/cran/crctStepdown
+[submodule "cre.dcf"]
+	path = cre.dcf
+	url = https://github.com/cran/cre.dcf
 [submodule "createLogicalPCM"]
 	path = createLogicalPCM
 	url = https://github.com/cran/createLogicalPCM
@@ -37628,6 +37646,9 @@
 [submodule "ggsignif"]
 	path = ggsignif
 	url = https://github.com/cran/ggsignif
+[submodule "ggskewboxplots"]
+	path = ggskewboxplots
+	url = https://github.com/cran/ggskewboxplots
 [submodule "ggsmc"]
 	path = ggsmc
 	url = https://github.com/cran/ggsmc
@@ -38519,6 +38540,9 @@
 [submodule "grangers"]
 	path = grangers
 	url = https://github.com/cran/grangers
+[submodule "grangersearch"]
+	path = grangersearch
+	url = https://github.com/cran/grangersearch
 [submodule "granova"]
 	path = granova
 	url = https://github.com/cran/granova
@@ -63524,6 +63548,9 @@
 [submodule "stCEG"]
 	path = stCEG
 	url = https://github.com/cran/stCEG
+[submodule "stIHC"]
+	path = stIHC
+	url = https://github.com/cran/stIHC
 [submodule "stR"]
 	path = stR
 	url = https://github.com/cran/stR
