@@ -11018,6 +11018,9 @@
 [submodule "MetaCycle"]
 	path = MetaCycle
 	url = https://github.com/cran/MetaCycle
+[submodule "MetaDose"]
+	path = MetaDose
+	url = https://github.com/cran/MetaDose
 [submodule "MetaHD"]
 	path = MetaHD
 	url = https://github.com/cran/MetaHD
@@ -18854,6 +18857,9 @@
 [submodule "Stype.est"]
 	path = Stype.est
 	url = https://github.com/cran/Stype.est
+[submodule "Styperidge.reg"]
+	path = Styperidge.reg
+	url = https://github.com/cran/Styperidge.reg
 [submodule "SuRF.vs"]
 	path = SuRF.vs
 	url = https://github.com/cran/SuRF.vs
@@ -45086,6 +45092,9 @@
 [submodule "mas"]
 	path = mas
 	url = https://github.com/cran/mas
+[submodule "mascarade"]
+	path = mascarade
+	url = https://github.com/cran/mascarade
 [submodule "mase"]
 	path = mase
 	url = https://github.com/cran/mase
@@ -55106,6 +55115,9 @@
 [submodule "queryBuilder"]
 	path = queryBuilder
 	url = https://github.com/cran/queryBuilder
+[submodule "querychat"]
+	path = querychat
+	url = https://github.com/cran/querychat
 [submodule "queryparser"]
 	path = queryparser
 	url = https://github.com/cran/queryparser
@@ -68525,6 +68537,9 @@
 [submodule "villager"]
 	path = villager
 	url = https://github.com/cran/villager
+[submodule "vimixr"]
+	path = vimixr
+	url = https://github.com/cran/vimixr
 [submodule "vimp"]
 	path = vimp
 	url = https://github.com/cran/vimp
