@@ -13727,6 +13727,9 @@
 [submodule "PopGenReport"]
 	path = PopGenReport
 	url = https://github.com/cran/PopGenReport
+[submodule "PopPsiSeqR"]
+	path = PopPsiSeqR
+	url = https://github.com/cran/PopPsiSeqR
 [submodule "PopVar"]
 	path = PopVar
 	url = https://github.com/cran/PopVar
