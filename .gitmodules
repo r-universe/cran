@@ -2882,9 +2882,6 @@
 [submodule "CatEncoders"]
 	path = CatEncoders
 	url = https://github.com/cran/CatEncoders
-[submodule "CatPredi"]
-	path = CatPredi
-	url = https://github.com/cran/CatPredi
 [submodule "CatReg"]
 	path = CatReg
 	url = https://github.com/cran/CatReg
