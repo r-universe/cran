@@ -14198,9 +14198,6 @@
 [submodule "QuanDA"]
 	path = QuanDA
 	url = https://github.com/cran/QuanDA
-[submodule "Quandl"]
-	path = Quandl
-	url = https://github.com/cran/Quandl
 [submodule "QuantBondCurves"]
 	path = QuantBondCurves
 	url = https://github.com/cran/QuantBondCurves
@@ -21929,9 +21926,6 @@
 [submodule "amazonspR"]
 	path = amazonspR
 	url = https://github.com/cran/amazonspR
-[submodule "amberr"]
-	path = amberr
-	url = https://github.com/cran/amberr
 [submodule "ambiR"]
 	path = ambiR
 	url = https://github.com/cran/ambiR
@@ -36131,9 +36125,6 @@
 [submodule "galts"]
 	path = galts
 	url = https://github.com/cran/galts
-[submodule "galvanizer"]
-	path = galvanizer
-	url = https://github.com/cran/galvanizer
 [submodule "gam"]
 	path = gam
 	url = https://github.com/cran/gam
@@ -50786,9 +50777,6 @@
 [submodule "osfr"]
 	path = osfr
 	url = https://github.com/cran/osfr
-[submodule "oshka"]
-	path = oshka
-	url = https://github.com/cran/oshka
 [submodule "oskeyring"]
 	path = oskeyring
 	url = https://github.com/cran/oskeyring
@@ -53009,9 +52997,6 @@
 [submodule "pmev"]
 	path = pmev
 	url = https://github.com/cran/pmev
-[submodule "pmhtutorial"]
-	path = pmhtutorial
-	url = https://github.com/cran/pmhtutorial
 [submodule "pminternal"]
 	path = pminternal
 	url = https://github.com/cran/pminternal
@@ -59003,9 +58988,6 @@
 [submodule "rts2"]
 	path = rts2
 	url = https://github.com/cran/rts2
-[submodule "rtsdata"]
-	path = rtsdata
-	url = https://github.com/cran/rtsdata
 [submodule "rtson"]
 	path = rtson
 	url = https://github.com/cran/rtson
@@ -66035,9 +66017,6 @@
 [submodule "tidyindex"]
 	path = tidyindex
 	url = https://github.com/cran/tidyindex
-[submodule "tidyjson"]
-	path = tidyjson
-	url = https://github.com/cran/tidyjson
 [submodule "tidyklips"]
 	path = tidyklips
 	url = https://github.com/cran/tidyklips
