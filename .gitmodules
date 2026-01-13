@@ -1682,6 +1682,9 @@
 [submodule "BayesianGLasso"]
 	path = BayesianGLasso
 	url = https://github.com/cran/BayesianGLasso
+[submodule "BayesianInference"]
+	path = BayesianInference
+	url = https://github.com/cran/BayesianInference
 [submodule "BayesianLasso"]
 	path = BayesianLasso
 	url = https://github.com/cran/BayesianLasso
@@ -16844,6 +16847,9 @@
 [submodule "Ryacas"]
 	path = Ryacas
 	url = https://github.com/cran/Ryacas
+[submodule "S3VS"]
+	path = S3VS
+	url = https://github.com/cran/S3VS
 [submodule "S4DM"]
 	path = S4DM
 	url = https://github.com/cran/S4DM
@@ -57761,6 +57767,9 @@
 [submodule "rjd3jars"]
 	path = rjd3jars
 	url = https://github.com/cran/rjd3jars
+[submodule "rjd3toolkit"]
+	path = rjd3toolkit
+	url = https://github.com/cran/rjd3toolkit
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
 	url = https://github.com/cran/rjdmarkdown
@@ -58319,6 +58328,9 @@
 [submodule "rollmatch"]
 	path = rollmatch
 	url = https://github.com/cran/rollmatch
+[submodule "rollout"]
+	path = rollout
+	url = https://github.com/cran/rollout
 [submodule "rollup"]
 	path = rollup
 	url = https://github.com/cran/rollup
