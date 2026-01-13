@@ -11312,9 +11312,6 @@
 [submodule "MomTrunc"]
 	path = MomTrunc
 	url = https://github.com/cran/MomTrunc
-[submodule "Momocs"]
-	path = Momocs
-	url = https://github.com/cran/Momocs
 [submodule "Mondrian"]
 	path = Mondrian
 	url = https://github.com/cran/Mondrian
@@ -21446,9 +21443,6 @@
 [submodule "adpss"]
 	path = adpss
 	url = https://github.com/cran/adpss
-[submodule "ads"]
-	path = ads
-	url = https://github.com/cran/ads
 [submodule "adsDataHubR"]
 	path = adsDataHubR
 	url = https://github.com/cran/adsDataHubR
@@ -28853,9 +28847,6 @@
 [submodule "crosstalk"]
 	path = crosstalk
 	url = https://github.com/cran/crosstalk
-[submodule "crosstalkr"]
-	path = crosstalkr
-	url = https://github.com/cran/crosstalkr
 [submodule "crossurr"]
 	path = crossurr
 	url = https://github.com/cran/crossurr
@@ -50252,9 +50243,6 @@
 [submodule "onelogin"]
 	path = onelogin
 	url = https://github.com/cran/onelogin
-[submodule "onemap"]
-	path = onemap
-	url = https://github.com/cran/onemap
 [submodule "onemapsgapi"]
 	path = onemapsgapi
 	url = https://github.com/cran/onemapsgapi
