@@ -503,6 +503,9 @@
 [submodule "AdaptiveBoxplot"]
 	path = AdaptiveBoxplot
 	url = https://github.com/cran/AdaptiveBoxplot
+[submodule "AddiVortes"]
+	path = AddiVortes
+	url = https://github.com/cran/AddiVortes
 [submodule "AdequacyModel"]
 	path = AdequacyModel
 	url = https://github.com/cran/AdequacyModel
@@ -17660,6 +17663,9 @@
 [submodule "SRMData"]
 	path = SRMData
 	url = https://github.com/cran/SRMData
+[submodule "SRMERS"]
+	path = SRMERS
+	url = https://github.com/cran/SRMERS
 [submodule "SRS"]
 	path = SRS
 	url = https://github.com/cran/SRS
@@ -44030,6 +44036,9 @@
 [submodule "loadshaper"]
 	path = loadshaper
 	url = https://github.com/cran/loadshaper
+[submodule "lobbyR"]
+	path = lobbyR
+	url = https://github.com/cran/lobbyR
 [submodule "lobstr"]
 	path = lobstr
 	url = https://github.com/cran/lobstr
