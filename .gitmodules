@@ -47051,6 +47051,9 @@
 [submodule "mlts"]
 	path = mlts
 	url = https://github.com/cran/mlts
+[submodule "mlxR"]
+	path = mlxR
+	url = https://github.com/cran/mlxR
 [submodule "mma"]
 	path = mma
 	url = https://github.com/cran/mma
