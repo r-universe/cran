@@ -23378,6 +23378,9 @@
 [submodule "bayesDccGarch"]
 	path = bayesDccGarch
 	url = https://github.com/cran/bayesDccGarch
+[submodule "bayesDiagnostics"]
+	path = bayesDiagnostics
+	url = https://github.com/cran/bayesDiagnostics
 [submodule "bayesEO"]
 	path = bayesEO
 	url = https://github.com/cran/bayesEO
@@ -32513,9 +32516,6 @@
 [submodule "elastes"]
 	path = elastes
 	url = https://github.com/cran/elastes
-[submodule "elastic"]
-	path = elastic
-	url = https://github.com/cran/elastic
 [submodule "elasticnet"]
 	path = elasticnet
 	url = https://github.com/cran/elasticnet
@@ -47051,9 +47051,6 @@
 [submodule "mlts"]
 	path = mlts
 	url = https://github.com/cran/mlts
-[submodule "mlxR"]
-	path = mlxR
-	url = https://github.com/cran/mlxR
 [submodule "mma"]
 	path = mma
 	url = https://github.com/cran/mma
@@ -49184,6 +49181,9 @@
 [submodule "nimbleNoBounds"]
 	path = nimbleNoBounds
 	url = https://github.com/cran/nimbleNoBounds
+[submodule "nimbleQuad"]
+	path = nimbleQuad
+	url = https://github.com/cran/nimbleQuad
 [submodule "nimbleSCR"]
 	path = nimbleSCR
 	url = https://github.com/cran/nimbleSCR
@@ -66749,6 +66749,9 @@
 [submodule "toxSummary"]
 	path = toxSummary
 	url = https://github.com/cran/toxSummary
+[submodule "toxdrc"]
+	path = toxdrc
+	url = https://github.com/cran/toxdrc
 [submodule "toxpiR"]
 	path = toxpiR
 	url = https://github.com/cran/toxpiR
@@ -67643,9 +67646,6 @@
 [submodule "tzupdater"]
 	path = tzupdater
 	url = https://github.com/cran/tzupdater
-[submodule "u5mr"]
-	path = u5mr
-	url = https://github.com/cran/u5mr
 [submodule "uGMAR"]
 	path = uGMAR
 	url = https://github.com/cran/uGMAR
