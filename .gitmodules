@@ -24446,6 +24446,9 @@
 [submodule "blapsr"]
 	path = blapsr
 	url = https://github.com/cran/blapsr
+[submodule "blastar"]
+	path = blastar
+	url = https://github.com/cran/blastar
 [submodule "blaster"]
 	path = blaster
 	url = https://github.com/cran/blaster
@@ -24578,6 +24581,9 @@
 [submodule "bluebike"]
 	path = bluebike
 	url = https://github.com/cran/bluebike
+[submodule "blvim"]
+	path = blvim
+	url = https://github.com/cran/blvim
 [submodule "bmabart"]
 	path = bmabart
 	url = https://github.com/cran/bmabart
@@ -30521,6 +30527,9 @@
 [submodule "diagL1"]
 	path = diagL1
 	url = https://github.com/cran/diagL1
+[submodule "diagcounts"]
+	path = diagcounts
+	url = https://github.com/cran/diagcounts
 [submodule "diagis"]
 	path = diagis
 	url = https://github.com/cran/diagis
@@ -35711,6 +35720,9 @@
 [submodule "frontiles"]
 	path = frontiles
 	url = https://github.com/cran/frontiles
+[submodule "frontmatter"]
+	path = frontmatter
+	url = https://github.com/cran/frontmatter
 [submodule "frostr"]
 	path = frostr
 	url = https://github.com/cran/frostr
@@ -38768,6 +38780,9 @@
 [submodule "grmsem"]
 	path = grmsem
 	url = https://github.com/cran/grmsem
+[submodule "grmtree"]
+	path = grmtree
+	url = https://github.com/cran/grmtree
 [submodule "grnn"]
 	path = grnn
 	url = https://github.com/cran/grnn
@@ -58991,6 +59006,9 @@
 [submodule "rtms"]
 	path = rtms
 	url = https://github.com/cran/rtms
+[submodule "rtmsEcho"]
+	path = rtmsEcho
+	url = https://github.com/cran/rtmsEcho
 [submodule "rtodoist"]
 	path = rtodoist
 	url = https://github.com/cran/rtodoist
@@ -63650,6 +63668,9 @@
 [submodule "stagedtrees"]
 	path = stagedtrees
 	url = https://github.com/cran/stagedtrees
+[submodule "staggR"]
+	path = staggR
+	url = https://github.com/cran/staggR
 [submodule "staggered"]
 	path = staggered
 	url = https://github.com/cran/staggered
