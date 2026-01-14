@@ -59450,6 +59450,9 @@
 [submodule "salad"]
 	path = salad
 	url = https://github.com/cran/salad
+[submodule "salem"]
+	path = salem
+	url = https://github.com/cran/salem
 [submodule "salesforcer"]
 	path = salesforcer
 	url = https://github.com/cran/salesforcer
