@@ -10574,6 +10574,9 @@
 [submodule "MRStdCRT"]
 	path = MRStdCRT
 	url = https://github.com/cran/MRStdCRT
+[submodule "MRStdLCRT"]
+	path = MRStdLCRT
+	url = https://github.com/cran/MRStdLCRT
 [submodule "MRTAnalysis"]
 	path = MRTAnalysis
 	url = https://github.com/cran/MRTAnalysis
@@ -12725,6 +12728,9 @@
 [submodule "PDFEstimator"]
 	path = PDFEstimator
 	url = https://github.com/cran/PDFEstimator
+[submodule "PDIndex"]
+	path = PDIndex
+	url = https://github.com/cran/PDIndex
 [submodule "PDM"]
 	path = PDM
 	url = https://github.com/cran/PDM
@@ -22820,6 +22826,9 @@
 [submodule "autoFRK"]
 	path = autoFRK
 	url = https://github.com/cran/autoFRK
+[submodule "autoFlagR"]
+	path = autoFlagR
+	url = https://github.com/cran/autoFlagR
 [submodule "autoGO"]
 	path = autoGO
 	url = https://github.com/cran/autoGO
@@ -22841,6 +22850,9 @@
 [submodule "autoTS"]
 	path = autoTS
 	url = https://github.com/cran/autoTS
+[submodule "autoann"]
+	path = autoann
+	url = https://github.com/cran/autoann
 [submodule "autocogs"]
 	path = autocogs
 	url = https://github.com/cran/autocogs
@@ -31322,6 +31334,9 @@
 [submodule "dowser"]
 	path = dowser
 	url = https://github.com/cran/dowser
+[submodule "dpGMM"]
+	path = dpGMM
+	url = https://github.com/cran/dpGMM
 [submodule "dparser"]
 	path = dparser
 	url = https://github.com/cran/dparser
@@ -31772,6 +31787,9 @@
 [submodule "dynamicTreeCut"]
 	path = dynamicTreeCut
 	url = https://github.com/cran/dynamicTreeCut
+[submodule "dynamicpv"]
+	path = dynamicpv
+	url = https://github.com/cran/dynamicpv
 [submodule "dynamite"]
 	path = dynamite
 	url = https://github.com/cran/dynamite
@@ -45398,6 +45416,9 @@
 [submodule "mcStats"]
 	path = mcStats
 	url = https://github.com/cran/mcStats
+[submodule "mcanalysis"]
+	path = mcanalysis
+	url = https://github.com/cran/mcanalysis
 [submodule "mcauchyd"]
 	path = mcauchyd
 	url = https://github.com/cran/mcauchyd
@@ -50654,6 +50675,9 @@
 [submodule "orcamentoBR"]
 	path = orcamentoBR
 	url = https://github.com/cran/orcamentoBR
+[submodule "orcidtr"]
+	path = orcidtr
+	url = https://github.com/cran/orcidtr
 [submodule "orclus"]
 	path = orclus
 	url = https://github.com/cran/orclus
@@ -54359,6 +54383,9 @@
 [submodule "psre"]
 	path = psre
 	url = https://github.com/cran/psre
+[submodule "psrwe"]
+	path = psrwe
+	url = https://github.com/cran/psrwe
 [submodule "pssmooth"]
 	path = pssmooth
 	url = https://github.com/cran/pssmooth
@@ -63896,6 +63923,9 @@
 [submodule "stddiff"]
 	path = stddiff
 	url = https://github.com/cran/stddiff
+[submodule "stddiff.spark"]
+	path = stddiff.spark
+	url = https://github.com/cran/stddiff.spark
 [submodule "stdmod"]
 	path = stdmod
 	url = https://github.com/cran/stdmod
