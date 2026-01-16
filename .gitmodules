@@ -3284,24 +3284,15 @@
 [submodule "CodelistGenerator"]
 	path = CodelistGenerator
 	url = https://github.com/cran/CodelistGenerator
-[submodule "CohortAlgebra"]
-	path = CohortAlgebra
-	url = https://github.com/cran/CohortAlgebra
 [submodule "CohortCharacteristics"]
 	path = CohortCharacteristics
 	url = https://github.com/cran/CohortCharacteristics
 [submodule "CohortConstructor"]
 	path = CohortConstructor
 	url = https://github.com/cran/CohortConstructor
-[submodule "CohortExplorer"]
-	path = CohortExplorer
-	url = https://github.com/cran/CohortExplorer
 [submodule "CohortGenerator"]
 	path = CohortGenerator
 	url = https://github.com/cran/CohortGenerator
-[submodule "CohortPathways"]
-	path = CohortPathways
-	url = https://github.com/cran/CohortPathways
 [submodule "CohortPlat"]
 	path = CohortPlat
 	url = https://github.com/cran/CohortPlat
@@ -69977,9 +69968,6 @@
 [submodule "xtsum"]
 	path = xtsum
 	url = https://github.com/cran/xtsum
-[submodule "xtune"]
-	path = xtune
-	url = https://github.com/cran/xtune
 [submodule "xtvfreg"]
 	path = xtvfreg
 	url = https://github.com/cran/xtvfreg
