@@ -5444,6 +5444,9 @@
 [submodule "EmpiricalCalibration"]
 	path = EmpiricalCalibration
 	url = https://github.com/cran/EmpiricalCalibration
+[submodule "EmpiricalDynamics"]
+	path = EmpiricalDynamics
+	url = https://github.com/cran/EmpiricalDynamics
 [submodule "EncompassTest"]
 	path = EncompassTest
 	url = https://github.com/cran/EncompassTest
@@ -8405,6 +8408,9 @@
 [submodule "IP"]
 	path = IP
 	url = https://github.com/cran/IP
+[submodule "IPAG"]
+	path = IPAG
+	url = https://github.com/cran/IPAG
 [submodule "IPCWK"]
 	path = IPCWK
 	url = https://github.com/cran/IPCWK
@@ -11705,6 +11711,9 @@
 [submodule "NMADTA"]
 	path = NMADTA
 	url = https://github.com/cran/NMADTA
+[submodule "NMAR"]
+	path = NMAR
+	url = https://github.com/cran/NMAR
 [submodule "NMAforest"]
 	path = NMAforest
 	url = https://github.com/cran/NMAforest
@@ -11972,6 +11981,9 @@
 [submodule "NetworkToolbox"]
 	path = NetworkToolbox
 	url = https://github.com/cran/NetworkToolbox
+[submodule "NeuDist"]
+	path = NeuDist
+	url = https://github.com/cran/NeuDist
 [submodule "NeuralEstimators"]
 	path = NeuralEstimators
 	url = https://github.com/cran/NeuralEstimators
@@ -12206,6 +12218,9 @@
 [submodule "ORTSC"]
 	path = ORTSC
 	url = https://github.com/cran/ORTSC
+[submodule "ORscraper"]
+	path = ORscraper
+	url = https://github.com/cran/ORscraper
 [submodule "OSCV"]
 	path = OSCV
 	url = https://github.com/cran/OSCV
@@ -16832,6 +16847,9 @@
 [submodule "Rwave"]
 	path = Rwave
 	url = https://github.com/cran/Rwave
+[submodule "Rwbo"]
+	path = Rwbo
+	url = https://github.com/cran/Rwbo
 [submodule "RweaveExtra"]
 	path = RweaveExtra
 	url = https://github.com/cran/RweaveExtra
@@ -22067,6 +22085,9 @@
 [submodule "aniview"]
 	path = aniview
 	url = https://github.com/cran/aniview
+[submodule "ankiR"]
+	path = ankiR
+	url = https://github.com/cran/ankiR
 [submodule "anndata"]
 	path = anndata
 	url = https://github.com/cran/anndata
@@ -23594,9 +23615,6 @@
 [submodule "bcROCsurface"]
 	path = bcROCsurface
 	url = https://github.com/cran/bcROCsurface
-[submodule "bcRP"]
-	path = bcRP
-	url = https://github.com/cran/bcRP
 [submodule "bcaboot"]
 	path = bcaboot
 	url = https://github.com/cran/bcaboot
@@ -27389,6 +27407,9 @@
 [submodule "codyn"]
 	path = codyn
 	url = https://github.com/cran/codyn
+[submodule "codyna"]
+	path = codyna
+	url = https://github.com/cran/codyna
 [submodule "coefa"]
 	path = coefa
 	url = https://github.com/cran/coefa
@@ -37802,6 +37823,9 @@
 [submodule "ggvis"]
 	path = ggvis
 	url = https://github.com/cran/ggvis
+[submodule "ggvolc"]
+	path = ggvolc
+	url = https://github.com/cran/ggvolc
 [submodule "ggvolcano"]
 	path = ggvolcano
 	url = https://github.com/cran/ggvolcano
@@ -44486,6 +44510,9 @@
 [submodule "ltable"]
 	path = ltable
 	url = https://github.com/cran/ltable
+[submodule "ltc"]
+	path = ltc
+	url = https://github.com/cran/ltc
 [submodule "lterdatasampler"]
 	path = lterdatasampler
 	url = https://github.com/cran/lterdatasampler
@@ -57059,6 +57086,9 @@
 [submodule "remmy"]
 	path = remmy
 	url = https://github.com/cran/remmy
+[submodule "remode"]
+	path = remode
+	url = https://github.com/cran/remode
 [submodule "remote"]
 	path = remote
 	url = https://github.com/cran/remote
