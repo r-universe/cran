@@ -8813,9 +8813,6 @@
 [submodule "JFE"]
 	path = JFE
 	url = https://github.com/cran/JFE
-[submodule "JFM"]
-	path = JFM
-	url = https://github.com/cran/JFM
 [submodule "JGR"]
 	path = JGR
 	url = https://github.com/cran/JGR
@@ -23615,6 +23612,9 @@
 [submodule "bcROCsurface"]
 	path = bcROCsurface
 	url = https://github.com/cran/bcROCsurface
+[submodule "bcRP"]
+	path = bcRP
+	url = https://github.com/cran/bcRP
 [submodule "bcaboot"]
 	path = bcaboot
 	url = https://github.com/cran/bcaboot
@@ -66317,9 +66317,6 @@
 [submodule "tigris"]
 	path = tigris
 	url = https://github.com/cran/tigris
-[submodule "tikatuwq"]
-	path = tikatuwq
-	url = https://github.com/cran/tikatuwq
 [submodule "tiktokadsR"]
 	path = tiktokadsR
 	url = https://github.com/cran/tiktokadsR
