@@ -5447,6 +5447,9 @@
 [submodule "EmpiricalDynamics"]
 	path = EmpiricalDynamics
 	url = https://github.com/cran/EmpiricalDynamics
+[submodule "EnTraineR"]
+	path = EnTraineR
+	url = https://github.com/cran/EnTraineR
 [submodule "EncompassTest"]
 	path = EncompassTest
 	url = https://github.com/cran/EncompassTest
@@ -14702,6 +14705,9 @@
 [submodule "REndo"]
 	path = REndo
 	url = https://github.com/cran/REndo
+[submodule "RFAE"]
+	path = RFAE
+	url = https://github.com/cran/RFAE
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
@@ -18680,6 +18686,9 @@
 [submodule "SpoMAG"]
 	path = SpoMAG
 	url = https://github.com/cran/SpoMAG
+[submodule "SportMiner"]
+	path = SportMiner
+	url = https://github.com/cran/SportMiner
 [submodule "SportsTour"]
 	path = SportsTour
 	url = https://github.com/cran/SportsTour
@@ -54275,6 +54284,9 @@
 [submodule "proverbs"]
 	path = proverbs
 	url = https://github.com/cran/proverbs
+[submodule "provolleyballr"]
+	path = provolleyballr
+	url = https://github.com/cran/provolleyballr
 [submodule "proxirr"]
 	path = proxirr
 	url = https://github.com/cran/proxirr
@@ -66290,6 +66302,9 @@
 [submodule "tidywater"]
 	path = tidywater
 	url = https://github.com/cran/tidywater
+[submodule "tidyweather"]
+	path = tidyweather
+	url = https://github.com/cran/tidyweather
 [submodule "tidywikidatar"]
 	path = tidywikidatar
 	url = https://github.com/cran/tidywikidatar
@@ -68234,6 +68249,9 @@
 [submodule "valdr"]
 	path = valdr
 	url = https://github.com/cran/valdr
+[submodule "valdrViz"]
+	path = valdrViz
+	url = https://github.com/cran/valdrViz
 [submodule "valection"]
 	path = valection
 	url = https://github.com/cran/valection
