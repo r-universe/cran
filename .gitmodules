@@ -15449,6 +15449,9 @@
 [submodule "RSSthemes"]
 	path = RSSthemes
 	url = https://github.com/cran/RSSthemes
+[submodule "RSTr"]
+	path = RSTr
+	url = https://github.com/cran/RSTr
 [submodule "RScelestial"]
 	path = RScelestial
 	url = https://github.com/cran/RScelestial
@@ -20714,6 +20717,9 @@
 [submodule "WeightedTreemaps"]
 	path = WeightedTreemaps
 	url = https://github.com/cran/WeightedTreemaps
+[submodule "Westerlund"]
+	path = Westerlund
+	url = https://github.com/cran/Westerlund
 [submodule "WgtEff"]
 	path = WgtEff
 	url = https://github.com/cran/WgtEff
@@ -26384,6 +26390,9 @@
 [submodule "cheatsheet"]
 	path = cheatsheet
 	url = https://github.com/cran/cheatsheet
+[submodule "checkCLI"]
+	path = checkCLI
+	url = https://github.com/cran/checkCLI
 [submodule "checkLuhn"]
 	path = checkLuhn
 	url = https://github.com/cran/checkLuhn
@@ -31964,6 +31973,9 @@
 [submodule "eaf"]
 	path = eaf
 	url = https://github.com/cran/eaf
+[submodule "eam"]
+	path = eam
+	url = https://github.com/cran/eam
 [submodule "earlyR"]
 	path = earlyR
 	url = https://github.com/cran/earlyR
