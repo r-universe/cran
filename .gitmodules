@@ -57449,9 +57449,6 @@
 [submodule "revtools"]
 	path = revtools
 	url = https://github.com/cran/revtools
-[submodule "revulyticsR"]
-	path = revulyticsR
-	url = https://github.com/cran/revulyticsR
 [submodule "rewie"]
 	path = rewie
 	url = https://github.com/cran/rewie
@@ -57485,9 +57482,6 @@
 [submodule "rfieldclimate"]
 	path = rfieldclimate
 	url = https://github.com/cran/rfieldclimate
-[submodule "rfigshare"]
-	path = rfigshare
-	url = https://github.com/cran/rfigshare
 [submodule "rfinterval"]
 	path = rfinterval
 	url = https://github.com/cran/rfinterval
