@@ -43235,6 +43235,9 @@
 [submodule "latticeExtra"]
 	path = latticeExtra
 	url = https://github.com/cran/latticeExtra
+[submodule "lavDiag"]
+	path = lavDiag
+	url = https://github.com/cran/lavDiag
 [submodule "lava"]
 	path = lava
 	url = https://github.com/cran/lava
@@ -58958,6 +58961,9 @@
 [submodule "rsurveycto"]
 	path = rsurveycto
 	url = https://github.com/cran/rsurveycto
+[submodule "rsurvstat"]
+	path = rsurvstat
+	url = https://github.com/cran/rsurvstat
 [submodule "rsvd"]
 	path = rsvd
 	url = https://github.com/cran/rsvd
