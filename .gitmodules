@@ -935,6 +935,9 @@
 [submodule "BANAM"]
 	path = BANAM
 	url = https://github.com/cran/BANAM
+[submodule "BAQM"]
+	path = BAQM
+	url = https://github.com/cran/BAQM
 [submodule "BAR"]
 	path = BAR
 	url = https://github.com/cran/BAR
@@ -12443,6 +12446,9 @@
 [submodule "OpenRepGrid.ic"]
 	path = OpenRepGrid.ic
 	url = https://github.com/cran/OpenRepGrid.ic
+[submodule "OpenSourceAP.DownloadR"]
+	path = OpenSourceAP.DownloadR
+	url = https://github.com/cran/OpenSourceAP.DownloadR
 [submodule "OpenSpecy"]
 	path = OpenSpecy
 	url = https://github.com/cran/OpenSpecy
