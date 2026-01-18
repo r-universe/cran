@@ -662,9 +662,6 @@
 [submodule "AncReg"]
 	path = AncReg
 	url = https://github.com/cran/AncReg
-[submodule "AncestryMapper"]
-	path = AncestryMapper
-	url = https://github.com/cran/AncestryMapper
 [submodule "AnchorRegression"]
 	path = AnchorRegression
 	url = https://github.com/cran/AnchorRegression
@@ -1181,9 +1178,6 @@
 [submodule "BLA"]
 	path = BLA
 	url = https://github.com/cran/BLA
-[submodule "BLCOP"]
-	path = BLCOP
-	url = https://github.com/cran/BLCOP
 [submodule "BLMEngineInR"]
 	path = BLMEngineInR
 	url = https://github.com/cran/BLMEngineInR
@@ -5252,9 +5246,6 @@
 [submodule "ESG"]
 	path = ESG
 	url = https://github.com/cran/ESG
-[submodule "ESTER"]
-	path = ESTER
-	url = https://github.com/cran/ESTER
 [submodule "EScvtmle"]
 	path = EScvtmle
 	url = https://github.com/cran/EScvtmle
@@ -7079,9 +7070,6 @@
 [submodule "GRSxE"]
 	path = GRSxE
 	url = https://github.com/cran/GRSxE
-[submodule "GRTo"]
-	path = GRTo
-	url = https://github.com/cran/GRTo
 [submodule "GRelevance"]
 	path = GRelevance
 	url = https://github.com/cran/GRelevance
@@ -10145,9 +10133,6 @@
 [submodule "MEGENA"]
 	path = MEGENA
 	url = https://github.com/cran/MEGENA
-[submodule "MEMSS"]
-	path = MEMSS
-	url = https://github.com/cran/MEMSS
 [submodule "MEPDF"]
 	path = MEPDF
 	url = https://github.com/cran/MEPDF
@@ -18407,9 +18392,6 @@
 [submodule "Sobol4R"]
 	path = Sobol4R
 	url = https://github.com/cran/Sobol4R
-[submodule "SobolSequence"]
-	path = SobolSequence
-	url = https://github.com/cran/SobolSequence
 [submodule "Sofi"]
 	path = Sofi
 	url = https://github.com/cran/Sofi
@@ -22589,9 +22571,6 @@
 [submodule "asbio"]
 	path = asbio
 	url = https://github.com/cran/asbio
-[submodule "ascentTraining"]
-	path = ascentTraining
-	url = https://github.com/cran/ascentTraining
 [submodule "ascii"]
 	path = ascii
 	url = https://github.com/cran/ascii
@@ -27077,9 +27056,6 @@
 [submodule "clustEff"]
 	path = clustEff
 	url = https://github.com/cran/clustEff
-[submodule "clustMD"]
-	path = clustMD
-	url = https://github.com/cran/clustMD
 [submodule "clustMixType"]
 	path = clustMixType
 	url = https://github.com/cran/clustMixType
@@ -35855,9 +35831,6 @@
 [submodule "ftsa"]
 	path = ftsa
 	url = https://github.com/cran/ftsa
-[submodule "ftsspec"]
-	path = ftsspec
-	url = https://github.com/cran/ftsspec
 [submodule "fucom"]
 	path = fucom
 	url = https://github.com/cran/fucom
@@ -36416,9 +36389,6 @@
 [submodule "gawdis"]
 	path = gawdis
 	url = https://github.com/cran/gawdis
-[submodule "gb"]
-	path = gb
-	url = https://github.com/cran/gb
 [submodule "gbRd"]
 	path = gbRd
 	url = https://github.com/cran/gbRd
@@ -38072,9 +38042,6 @@
 [submodule "glmbb"]
 	path = glmbb
 	url = https://github.com/cran/glmbb
-[submodule "glmc"]
-	path = glmc
-	url = https://github.com/cran/glmc
 [submodule "glme"]
 	path = glme
 	url = https://github.com/cran/glme
@@ -59402,9 +59369,6 @@
 [submodule "sabre"]
 	path = sabre
 	url = https://github.com/cran/sabre
-[submodule "sac"]
-	path = sac
-	url = https://github.com/cran/sac
 [submodule "sacRebleu"]
 	path = sacRebleu
 	url = https://github.com/cran/sacRebleu
