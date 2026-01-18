@@ -18404,6 +18404,9 @@
 [submodule "Sobol4R"]
 	path = Sobol4R
 	url = https://github.com/cran/Sobol4R
+[submodule "SobolSequence"]
+	path = SobolSequence
+	url = https://github.com/cran/SobolSequence
 [submodule "Sofi"]
 	path = Sofi
 	url = https://github.com/cran/Sofi
