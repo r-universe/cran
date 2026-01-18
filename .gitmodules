@@ -4418,9 +4418,6 @@
 [submodule "DYM"]
 	path = DYM
 	url = https://github.com/cran/DYM
-[submodule "DYNATE"]
-	path = DYNATE
-	url = https://github.com/cran/DYNATE
 [submodule "DamageDetective"]
 	path = DamageDetective
 	url = https://github.com/cran/DamageDetective
@@ -56240,12 +56237,6 @@
 [submodule "rbm25"]
 	path = rbm25
 	url = https://github.com/cran/rbm25
-[submodule "rbmi"]
-	path = rbmi
-	url = https://github.com/cran/rbmi
-[submodule "rbmiUtils"]
-	path = rbmiUtils
-	url = https://github.com/cran/rbmiUtils
 [submodule "rbmn"]
 	path = rbmn
 	url = https://github.com/cran/rbmn
@@ -65612,9 +65603,6 @@
 [submodule "tern.mmrm"]
 	path = tern.mmrm
 	url = https://github.com/cran/tern.mmrm
-[submodule "tern.rbmi"]
-	path = tern.rbmi
-	url = https://github.com/cran/tern.rbmi
 [submodule "ternvis"]
 	path = ternvis
 	url = https://github.com/cran/ternvis
