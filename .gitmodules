@@ -9437,9 +9437,6 @@
 [submodule "LS2Wstat"]
 	path = LS2Wstat
 	url = https://github.com/cran/LS2Wstat
-[submodule "LSAMBA"]
-	path = LSAMBA
-	url = https://github.com/cran/LSAMBA
 [submodule "LSAfun"]
 	path = LSAfun
 	url = https://github.com/cran/LSAfun
