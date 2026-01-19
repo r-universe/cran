@@ -34265,6 +34265,9 @@
 [submodule "fastfocal"]
 	path = fastfocal
 	url = https://github.com/cran/fastfocal
+[submodule "fastgeojson"]
+	path = fastgeojson
+	url = https://github.com/cran/fastgeojson
 [submodule "fastglm"]
 	path = fastglm
 	url = https://github.com/cran/fastglm
@@ -55691,6 +55694,9 @@
 [submodule "rTG"]
 	path = rTG
 	url = https://github.com/cran/rTG
+[submodule "rTLS"]
+	path = rTLS
+	url = https://github.com/cran/rTLS
 [submodule "rTLsDeep"]
 	path = rTLsDeep
 	url = https://github.com/cran/rTLsDeep
