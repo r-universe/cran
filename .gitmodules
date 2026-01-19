@@ -19235,9 +19235,6 @@
 [submodule "TFM"]
 	path = TFM
 	url = https://github.com/cran/TFM
-[submodule "TFMPvalue"]
-	path = TFMPvalue
-	url = https://github.com/cran/TFMPvalue
 [submodule "TFORGE"]
 	path = TFORGE
 	url = https://github.com/cran/TFORGE
@@ -25322,6 +25319,9 @@
 [submodule "bunsen"]
 	path = bunsen
 	url = https://github.com/cran/bunsen
+[submodule "buoyant"]
+	path = buoyant
+	url = https://github.com/cran/buoyant
 [submodule "bupaR"]
 	path = bupaR
 	url = https://github.com/cran/bupaR
@@ -49310,6 +49310,9 @@
 [submodule "nivm"]
 	path = nivm
 	url = https://github.com/cran/nivm
+[submodule "nivo.bubblechart"]
+	path = nivo.bubblechart
+	url = https://github.com/cran/nivo.bubblechart
 [submodule "nixmass"]
 	path = nixmass
 	url = https://github.com/cran/nixmass
@@ -55082,9 +55085,6 @@
 [submodule "qtlcharts"]
 	path = qtlcharts
 	url = https://github.com/cran/qtlcharts
-[submodule "qtlhot"]
-	path = qtlhot
-	url = https://github.com/cran/qtlhot
 [submodule "qtlnet"]
 	path = qtlnet
 	url = https://github.com/cran/qtlnet
@@ -62699,6 +62699,9 @@
 [submodule "spBayesSurv"]
 	path = spBayesSurv
 	url = https://github.com/cran/spBayesSurv
+[submodule "spCF"]
+	path = spCF
+	url = https://github.com/cran/spCF
 [submodule "spCP"]
 	path = spCP
 	url = https://github.com/cran/spCP
@@ -69572,6 +69575,9 @@
 [submodule "wkb"]
 	path = wkb
 	url = https://github.com/cran/wkb
+[submodule "wklsr"]
+	path = wklsr
+	url = https://github.com/cran/wklsr
 [submodule "wktmo"]
 	path = wktmo
 	url = https://github.com/cran/wktmo
