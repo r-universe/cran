@@ -62090,9 +62090,6 @@
 [submodule "slash"]
 	path = slash
 	url = https://github.com/cran/slash
-[submodule "slasso"]
-	path = slasso
-	url = https://github.com/cran/slasso
 [submodule "slca"]
 	path = slca
 	url = https://github.com/cran/slca
