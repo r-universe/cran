@@ -6005,9 +6005,6 @@
 [submodule "FORD"]
 	path = FORD
 	url = https://github.com/cran/FORD
-[submodule "FORTLS"]
-	path = FORTLS
-	url = https://github.com/cran/FORTLS
 [submodule "FPCA3D"]
 	path = FPCA3D
 	url = https://github.com/cran/FPCA3D
