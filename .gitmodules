@@ -30095,6 +30095,9 @@
 [submodule "deepRstudio"]
 	path = deepRstudio
 	url = https://github.com/cran/deepRstudio
+[submodule "deepSTRAPP"]
+	path = deepSTRAPP
+	url = https://github.com/cran/deepSTRAPP
 [submodule "deepdep"]
 	path = deepdep
 	url = https://github.com/cran/deepdep
