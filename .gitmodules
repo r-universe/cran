@@ -10001,9 +10001,6 @@
 [submodule "MCCM"]
 	path = MCCM
 	url = https://github.com/cran/MCCM
-[submodule "MCDA"]
-	path = MCDA
-	url = https://github.com/cran/MCDA
 [submodule "MCI"]
 	path = MCI
 	url = https://github.com/cran/MCI
@@ -29549,9 +29546,6 @@
 [submodule "dann"]
 	path = dann
 	url = https://github.com/cran/dann
-[submodule "danstat"]
-	path = danstat
-	url = https://github.com/cran/danstat
 [submodule "dapper"]
 	path = dapper
 	url = https://github.com/cran/dapper
