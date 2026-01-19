@@ -19235,6 +19235,9 @@
 [submodule "TFM"]
 	path = TFM
 	url = https://github.com/cran/TFM
+[submodule "TFMPvalue"]
+	path = TFMPvalue
+	url = https://github.com/cran/TFMPvalue
 [submodule "TFORGE"]
 	path = TFORGE
 	url = https://github.com/cran/TFORGE
@@ -55085,6 +55088,9 @@
 [submodule "qtlcharts"]
 	path = qtlcharts
 	url = https://github.com/cran/qtlcharts
+[submodule "qtlhot"]
+	path = qtlhot
+	url = https://github.com/cran/qtlhot
 [submodule "qtlnet"]
 	path = qtlnet
 	url = https://github.com/cran/qtlnet
