@@ -20390,6 +20390,9 @@
 [submodule "VennDiagram"]
 	path = VennDiagram
 	url = https://github.com/cran/VennDiagram
+[submodule "VennItem"]
+	path = VennItem
+	url = https://github.com/cran/VennItem
 [submodule "VertexSimilarity"]
 	path = VertexSimilarity
 	url = https://github.com/cran/VertexSimilarity
@@ -35066,6 +35069,9 @@
 [submodule "flexCWM"]
 	path = flexCWM
 	url = https://github.com/cran/flexCWM
+[submodule "flexCountReg"]
+	path = flexCountReg
+	url = https://github.com/cran/flexCountReg
 [submodule "flexFitR"]
 	path = flexFitR
 	url = https://github.com/cran/flexFitR
@@ -39647,6 +39653,9 @@
 [submodule "helloJavaWorld"]
 	path = helloJavaWorld
 	url = https://github.com/cran/helloJavaWorld
+[submodule "hellodatascience"]
+	path = hellodatascience
+	url = https://github.com/cran/hellodatascience
 [submodule "hellorust"]
 	path = hellorust
 	url = https://github.com/cran/hellorust
@@ -47777,6 +47786,9 @@
 [submodule "mrMLM.GUI"]
 	path = mrMLM.GUI
 	url = https://github.com/cran/mrMLM.GUI
+[submodule "mrangr"]
+	path = mrangr
+	url = https://github.com/cran/mrangr
 [submodule "mrap"]
 	path = mrap
 	url = https://github.com/cran/mrap
@@ -64466,6 +64478,9 @@
 [submodule "sulcimap"]
 	path = sulcimap
 	url = https://github.com/cran/sulcimap
+[submodule "sumExtras"]
+	path = sumExtras
+	url = https://github.com/cran/sumExtras
 [submodule "sumFREGAT"]
 	path = sumFREGAT
 	url = https://github.com/cran/sumFREGAT
@@ -68513,6 +68528,9 @@
 [submodule "vectorbitops"]
 	path = vectorbitops
 	url = https://github.com/cran/vectorbitops
+[submodule "vectorialcalculus"]
+	path = vectorialcalculus
+	url = https://github.com/cran/vectorialcalculus
 [submodule "vectorsurvR"]
 	path = vectorsurvR
 	url = https://github.com/cran/vectorsurvR
@@ -69746,6 +69764,9 @@
 [submodule "wrassp"]
 	path = wrassp
 	url = https://github.com/cran/wrassp
+[submodule "wrds"]
+	path = wrds
+	url = https://github.com/cran/wrds
 [submodule "writeAlizer"]
 	path = writeAlizer
 	url = https://github.com/cran/writeAlizer
