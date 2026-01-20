@@ -19748,9 +19748,6 @@
 [submodule "Tides"]
 	path = Tides
 	url = https://github.com/cran/Tides
-[submodule "TidyConsultant"]
-	path = TidyConsultant
-	url = https://github.com/cran/TidyConsultant
 [submodule "TidyDensity"]
 	path = TidyDensity
 	url = https://github.com/cran/TidyDensity
@@ -20675,15 +20672,6 @@
 [submodule "WeibullR.ALT"]
 	path = WeibullR.ALT
 	url = https://github.com/cran/WeibullR.ALT
-[submodule "WeibullR.learnr"]
-	path = WeibullR.learnr
-	url = https://github.com/cran/WeibullR.learnr
-[submodule "WeibullR.plotly"]
-	path = WeibullR.plotly
-	url = https://github.com/cran/WeibullR.plotly
-[submodule "WeibullR.shiny"]
-	path = WeibullR.shiny
-	url = https://github.com/cran/WeibullR.shiny
 [submodule "WeightIt"]
 	path = WeightIt
 	url = https://github.com/cran/WeightIt
