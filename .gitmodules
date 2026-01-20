@@ -3953,9 +3953,6 @@
 [submodule "DEM"]
 	path = DEM
 	url = https://github.com/cran/DEM
-[submodule "DEMOVA"]
-	path = DEMOVA
-	url = https://github.com/cran/DEMOVA
 [submodule "DEPONS2R"]
 	path = DEPONS2R
 	url = https://github.com/cran/DEPONS2R
@@ -11570,6 +11567,9 @@
 [submodule "NAP"]
 	path = NAP
 	url = https://github.com/cran/NAP
+[submodule "NAPrior"]
+	path = NAPrior
+	url = https://github.com/cran/NAPrior
 [submodule "NB.MClust"]
 	path = NB.MClust
 	url = https://github.com/cran/NB.MClust
@@ -17117,6 +17117,9 @@
 [submodule "SDEFSR"]
 	path = SDEFSR
 	url = https://github.com/cran/SDEFSR
+[submodule "SDGLM"]
+	path = SDGLM
+	url = https://github.com/cran/SDGLM
 [submodule "SDGdetector"]
 	path = SDGdetector
 	url = https://github.com/cran/SDGdetector
@@ -28469,6 +28472,9 @@
 [submodule "countts"]
 	path = countts
 	url = https://github.com/cran/countts
+[submodule "couplr"]
+	path = couplr
+	url = https://github.com/cran/couplr
 [submodule "coursekata"]
 	path = coursekata
 	url = https://github.com/cran/coursekata
@@ -32831,6 +32837,9 @@
 [submodule "enrichwith"]
 	path = enrichwith
 	url = https://github.com/cran/enrichwith
+[submodule "ensModelVis"]
+	path = ensModelVis
+	url = https://github.com/cran/ensModelVis
 [submodule "ensembleBMA"]
 	path = ensembleBMA
 	url = https://github.com/cran/ensembleBMA
@@ -39752,6 +39761,9 @@
 [submodule "hexfont"]
 	path = hexfont
 	url = https://github.com/cran/hexfont
+[submodule "hexify"]
+	path = hexify
+	url = https://github.com/cran/hexify
 [submodule "hextri"]
 	path = hextri
 	url = https://github.com/cran/hextri
@@ -52865,6 +52877,9 @@
 [submodule "plattice"]
 	path = plattice
 	url = https://github.com/cran/plattice
+[submodule "plausibounds"]
+	path = plausibounds
+	url = https://github.com/cran/plausibounds
 [submodule "plavaan"]
 	path = plavaan
 	url = https://github.com/cran/plavaan
@@ -62228,6 +62243,9 @@
 [submodule "smatr"]
 	path = smatr
 	url = https://github.com/cran/smatr
+[submodule "smbdata"]
+	path = smbdata
+	url = https://github.com/cran/smbdata
 [submodule "smbinning"]
 	path = smbinning
 	url = https://github.com/cran/smbinning
