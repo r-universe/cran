@@ -15416,6 +15416,9 @@
 [submodule "RSNNS"]
 	path = RSNNS
 	url = https://github.com/cran/RSNNS
+[submodule "RSP"]
+	path = RSP
+	url = https://github.com/cran/RSP
 [submodule "RSQL"]
 	path = RSQL
 	url = https://github.com/cran/RSQL
