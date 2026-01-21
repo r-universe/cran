@@ -55235,6 +55235,9 @@
 [submodule "quartets"]
 	path = quartets
 	url = https://github.com/cran/quartets
+[submodule "quartify"]
+	path = quartify
+	url = https://github.com/cran/quartify
 [submodule "quarto"]
 	path = quarto
 	url = https://github.com/cran/quarto
