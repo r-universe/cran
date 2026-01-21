@@ -1910,6 +1910,9 @@
 [submodule "BioTIMEr"]
 	path = BioTIMEr
 	url = https://github.com/cran/BioTIMEr
+[submodule "BioThermR"]
+	path = BioThermR
+	url = https://github.com/cran/BioThermR
 [submodule "BioTrajectory"]
 	path = BioTrajectory
 	url = https://github.com/cran/BioTrajectory
@@ -6644,6 +6647,9 @@
 [submodule "GCalignR"]
 	path = GCalignR
 	url = https://github.com/cran/GCalignR
+[submodule "GCubeR"]
+	path = GCubeR
+	url = https://github.com/cran/GCubeR
 [submodule "GD"]
 	path = GD
 	url = https://github.com/cran/GD
@@ -12404,6 +12410,9 @@
 [submodule "OpeNoise"]
 	path = OpeNoise
 	url = https://github.com/cran/OpeNoise
+[submodule "Open.Visualization.Academy"]
+	path = Open.Visualization.Academy
+	url = https://github.com/cran/Open.Visualization.Academy
 [submodule "OpenBARD"]
 	path = OpenBARD
 	url = https://github.com/cran/OpenBARD
@@ -24008,6 +24017,9 @@
 [submodule "bife"]
 	path = bife
 	url = https://github.com/cran/bife
+[submodule "bifrost"]
+	path = bifrost
+	url = https://github.com/cran/bifrost
 [submodule "bifurcatingr"]
 	path = bifurcatingr
 	url = https://github.com/cran/bifurcatingr
@@ -27491,6 +27503,9 @@
 [submodule "cointmonitoR"]
 	path = cointmonitoR
 	url = https://github.com/cran/cointmonitoR
+[submodule "col2hex2col"]
+	path = col2hex2col
+	url = https://github.com/cran/col2hex2col
 [submodule "cold"]
 	path = cold
 	url = https://github.com/cran/cold
@@ -58019,6 +58034,9 @@
 [submodule "rmake"]
 	path = rmake
 	url = https://github.com/cran/rmake
+[submodule "rmangal"]
+	path = rmangal
+	url = https://github.com/cran/rmangal
 [submodule "rmapshaper"]
 	path = rmapshaper
 	url = https://github.com/cran/rmapshaper
@@ -58880,6 +58898,9 @@
 [submodule "rsinaica"]
 	path = rsinaica
 	url = https://github.com/cran/rsinaica
+[submodule "rsixel"]
+	path = rsixel
+	url = https://github.com/cran/rsixel
 [submodule "rskey"]
 	path = rskey
 	url = https://github.com/cran/rskey
@@ -60836,6 +60857,9 @@
 [submodule "sf"]
 	path = sf
 	url = https://github.com/cran/sf
+[submodule "sfa"]
+	path = sfa
+	url = https://github.com/cran/sfa
 [submodule "sfaR"]
 	path = sfaR
 	url = https://github.com/cran/sfaR
@@ -62543,6 +62567,9 @@
 [submodule "softclassval"]
 	path = softclassval
 	url = https://github.com/cran/softclassval
+[submodule "softwareRisk"]
+	path = softwareRisk
+	url = https://github.com/cran/softwareRisk
 [submodule "soilDB"]
 	path = soilDB
 	url = https://github.com/cran/soilDB
