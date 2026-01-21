@@ -3659,6 +3659,9 @@
 [submodule "CoxICPen"]
 	path = CoxICPen
 	url = https://github.com/cran/CoxICPen
+[submodule "CoxLikelihood"]
+	path = CoxLikelihood
+	url = https://github.com/cran/CoxLikelihood
 [submodule "CoxMK"]
 	path = CoxMK
 	url = https://github.com/cran/CoxMK
@@ -11573,6 +11576,9 @@
 [submodule "NAPrior"]
 	path = NAPrior
 	url = https://github.com/cran/NAPrior
+[submodule "NAVAECI"]
+	path = NAVAECI
+	url = https://github.com/cran/NAVAECI
 [submodule "NB.MClust"]
 	path = NB.MClust
 	url = https://github.com/cran/NB.MClust
@@ -33482,6 +33488,9 @@
 [submodule "evidenceFactors"]
 	path = evidenceFactors
 	url = https://github.com/cran/evidenceFactors
+[submodule "evidenceratio"]
+	path = evidenceratio
+	url = https://github.com/cran/evidenceratio
 [submodule "evident"]
 	path = evident
 	url = https://github.com/cran/evident
@@ -37715,6 +37724,9 @@
 [submodule "ggsankeyfier"]
 	path = ggsankeyfier
 	url = https://github.com/cran/ggsankeyfier
+[submodule "ggsced"]
+	path = ggsced
+	url = https://github.com/cran/ggsced
 [submodule "ggsci"]
 	path = ggsci
 	url = https://github.com/cran/ggsci
@@ -48353,6 +48365,9 @@
 [submodule "munsellinterpol"]
 	path = munsellinterpol
 	url = https://github.com/cran/munsellinterpol
+[submodule "mupet"]
+	path = mupet
+	url = https://github.com/cran/mupet
 [submodule "murphydiagram"]
 	path = murphydiagram
 	url = https://github.com/cran/murphydiagram
@@ -51032,6 +51047,9 @@
 [submodule "outreg"]
 	path = outreg
 	url = https://github.com/cran/outreg
+[submodule "outstandR"]
+	path = outstandR
+	url = https://github.com/cran/outstandR
 [submodule "ovbsa"]
 	path = ovbsa
 	url = https://github.com/cran/ovbsa
@@ -68792,6 +68810,9 @@
 [submodule "visOmopResults"]
 	path = visOmopResults
 	url = https://github.com/cran/visOmopResults
+[submodule "visPedigree"]
+	path = visPedigree
+	url = https://github.com/cran/visPedigree
 [submodule "visStatistics"]
 	path = visStatistics
 	url = https://github.com/cran/visStatistics
