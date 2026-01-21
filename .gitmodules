@@ -776,9 +776,6 @@
 [submodule "AsioHeaders"]
 	path = AsioHeaders
 	url = https://github.com/cran/AsioHeaders
-[submodule "AssetCorr"]
-	path = AssetCorr
-	url = https://github.com/cran/AssetCorr
 [submodule "AssetPricing"]
 	path = AssetPricing
 	url = https://github.com/cran/AssetPricing
@@ -22850,9 +22847,6 @@
 [submodule "autoGO"]
 	path = autoGO
 	url = https://github.com/cran/autoGO
-[submodule "autoMFA"]
-	path = autoMFA
-	url = https://github.com/cran/autoMFA
 [submodule "autoMrP"]
 	path = autoMrP
 	url = https://github.com/cran/autoMrP
