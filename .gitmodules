@@ -23834,6 +23834,9 @@
 [submodule "berryFunctions"]
 	path = berryFunctions
 	url = https://github.com/cran/berryFunctions
+[submodule "bertopicr"]
+	path = bertopicr
+	url = https://github.com/cran/bertopicr
 [submodule "bespatial"]
 	path = bespatial
 	url = https://github.com/cran/bespatial
@@ -29363,6 +29366,9 @@
 [submodule "cxxfunplus"]
 	path = cxxfunplus
 	url = https://github.com/cran/cxxfunplus
+[submodule "cycleTrendR"]
+	path = cycleTrendR
+	url = https://github.com/cran/cycleTrendR
 [submodule "cyclestreets"]
 	path = cyclestreets
 	url = https://github.com/cran/cyclestreets
@@ -40100,6 +40106,9 @@
 [submodule "horseshoenlm"]
 	path = horseshoenlm
 	url = https://github.com/cran/horseshoenlm
+[submodule "horsey"]
+	path = horsey
+	url = https://github.com/cran/horsey
 [submodule "hosm"]
 	path = hosm
 	url = https://github.com/cran/hosm
@@ -56618,6 +56627,9 @@
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
+[submodule "read.abares"]
+	path = read.abares
+	url = https://github.com/cran/read.abares
 [submodule "read.dbc"]
 	path = read.dbc
 	url = https://github.com/cran/read.dbc
@@ -62732,9 +62744,6 @@
 [submodule "spAddins"]
 	path = spAddins
 	url = https://github.com/cran/spAddins
-[submodule "spBFA"]
-	path = spBFA
-	url = https://github.com/cran/spBFA
 [submodule "spBPS"]
 	path = spBPS
 	url = https://github.com/cran/spBPS
