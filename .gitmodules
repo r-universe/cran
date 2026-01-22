@@ -32390,6 +32390,9 @@
 [submodule "edgedata"]
 	path = edgedata
 	url = https://github.com/cran/edgedata
+[submodule "edgemodelr"]
+	path = edgemodelr
+	url = https://github.com/cran/edgemodelr
 [submodule "edibble"]
 	path = edibble
 	url = https://github.com/cran/edibble
