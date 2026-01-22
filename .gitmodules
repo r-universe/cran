@@ -9935,6 +9935,9 @@
 [submodule "MATA"]
 	path = MATA
 	url = https://github.com/cran/MATA
+[submodule "MATES"]
+	path = MATES
+	url = https://github.com/cran/MATES
 [submodule "MAVE"]
 	path = MAVE
 	url = https://github.com/cran/MAVE
@@ -11819,6 +11822,9 @@
 [submodule "NPRED"]
 	path = NPRED
 	url = https://github.com/cran/NPRED
+[submodule "NPStability"]
+	path = NPStability
+	url = https://github.com/cran/NPStability
 [submodule "NPflow"]
 	path = NPflow
 	url = https://github.com/cran/NPflow
@@ -21914,6 +21920,9 @@
 [submodule "alphastable"]
 	path = alphastable
 	url = https://github.com/cran/alphastable
+[submodule "alphavantagepf"]
+	path = alphavantagepf
+	url = https://github.com/cran/alphavantagepf
 [submodule "alphavantager"]
 	path = alphavantager
 	url = https://github.com/cran/alphavantager
