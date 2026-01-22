@@ -9233,6 +9233,9 @@
 [submodule "LCMSQA"]
 	path = LCMSQA
 	url = https://github.com/cran/LCMSQA
+[submodule "LCPA"]
+	path = LCPA
+	url = https://github.com/cran/LCPA
 [submodule "LDATS"]
 	path = LDATS
 	url = https://github.com/cran/LDATS
@@ -68336,6 +68339,9 @@
 [submodule "valaddin"]
 	path = valaddin
 	url = https://github.com/cran/valaddin
+[submodule "vald.extractor"]
+	path = vald.extractor
+	url = https://github.com/cran/vald.extractor
 [submodule "valdr"]
 	path = valdr
 	url = https://github.com/cran/valdr
