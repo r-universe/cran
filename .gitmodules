@@ -1286,9 +1286,6 @@
 [submodule "BRACoD.R"]
 	path = BRACoD.R
 	url = https://github.com/cran/BRACoD.R
-[submodule "BRBVS"]
-	path = BRBVS
-	url = https://github.com/cran/BRBVS
 [submodule "BRDT"]
 	path = BRDT
 	url = https://github.com/cran/BRDT
@@ -19490,9 +19487,6 @@
 [submodule "TSclust"]
 	path = TSclust
 	url = https://github.com/cran/TSclust
-[submodule "TSdeeplearning"]
-	path = TSdeeplearning
-	url = https://github.com/cran/TSdeeplearning
 [submodule "TSdisaggregation"]
 	path = TSdisaggregation
 	url = https://github.com/cran/TSdisaggregation
@@ -30059,9 +30053,6 @@
 [submodule "decoder"]
 	path = decoder
 	url = https://github.com/cran/decoder
-[submodule "decompDL"]
-	path = decompDL
-	url = https://github.com/cran/decompDL
 [submodule "decompML"]
 	path = decompML
 	url = https://github.com/cran/decompML
@@ -41351,9 +41342,6 @@
 [submodule "infotheo"]
 	path = infotheo
 	url = https://github.com/cran/infotheo
-[submodule "infraFDTD.assist"]
-	path = infraFDTD.assist
-	url = https://github.com/cran/infraFDTD.assist
 [submodule "ingredients"]
 	path = ingredients
 	url = https://github.com/cran/ingredients
@@ -55544,9 +55532,6 @@
 [submodule "rCBA"]
 	path = rCBA
 	url = https://github.com/cran/rCBA
-[submodule "rCMA"]
-	path = rCMA
-	url = https://github.com/cran/rCMA
 [submodule "rCNV"]
 	path = rCNV
 	url = https://github.com/cran/rCNV
