@@ -19058,6 +19058,9 @@
 [submodule "SurveyDefense"]
 	path = SurveyDefense
 	url = https://github.com/cran/SurveyDefense
+[submodule "SurveyStat"]
+	path = SurveyStat
+	url = https://github.com/cran/SurveyStat
 [submodule "SurviMChd"]
 	path = SurviMChd
 	url = https://github.com/cran/SurviMChd
@@ -36068,6 +36071,9 @@
 [submodule "futureverse"]
 	path = futureverse
 	url = https://github.com/cran/futureverse
+[submodule "futurize"]
+	path = futurize
+	url = https://github.com/cran/futurize
 [submodule "fuzzr"]
 	path = fuzzr
 	url = https://github.com/cran/fuzzr
@@ -68405,6 +68411,9 @@
 [submodule "valueprhr"]
 	path = valueprhr
 	url = https://github.com/cran/valueprhr
+[submodule "valytics"]
+	path = valytics
+	url = https://github.com/cran/valytics
 [submodule "vamc"]
 	path = vamc
 	url = https://github.com/cran/vamc
