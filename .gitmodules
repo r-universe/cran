@@ -30806,6 +30806,9 @@
 [submodule "dir2json"]
 	path = dir2json
 	url = https://github.com/cran/dir2json
+[submodule "directAgeStd"]
+	path = directAgeStd
+	url = https://github.com/cran/directAgeStd
 [submodule "directPA"]
 	path = directPA
 	url = https://github.com/cran/directPA
@@ -51077,6 +51080,9 @@
 [submodule "outliertree"]
 	path = outliertree
 	url = https://github.com/cran/outliertree
+[submodule "outlying"]
+	path = outlying
+	url = https://github.com/cran/outlying
 [submodule "outreg"]
 	path = outreg
 	url = https://github.com/cran/outreg
@@ -56336,6 +56342,9 @@
 [submodule "rbm25"]
 	path = rbm25
 	url = https://github.com/cran/rbm25
+[submodule "rbmi"]
+	path = rbmi
+	url = https://github.com/cran/rbmi
 [submodule "rbmn"]
 	path = rbmn
 	url = https://github.com/cran/rbmn
