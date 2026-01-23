@@ -62759,6 +62759,9 @@
 [submodule "spAddins"]
 	path = spAddins
 	url = https://github.com/cran/spAddins
+[submodule "spBFA"]
+	path = spBFA
+	url = https://github.com/cran/spBFA
 [submodule "spBPS"]
 	path = spBPS
 	url = https://github.com/cran/spBPS
