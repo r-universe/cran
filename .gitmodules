@@ -7433,6 +7433,9 @@
 [submodule "GimmeMyPlot"]
 	path = GimmeMyPlot
 	url = https://github.com/cran/GimmeMyPlot
+[submodule "GimmeMyStats"]
+	path = GimmeMyStats
+	url = https://github.com/cran/GimmeMyStats
 [submodule "Gini"]
 	path = Gini
 	url = https://github.com/cran/Gini
@@ -23072,6 +23075,9 @@
 [submodule "azuremlsdk"]
 	path = azuremlsdk
 	url = https://github.com/cran/azuremlsdk
+[submodule "b32"]
+	path = b32
+	url = https://github.com/cran/b32
 [submodule "b64"]
 	path = b64
 	url = https://github.com/cran/b64
@@ -42311,6 +42317,9 @@
 [submodule "joinless"]
 	path = joinless
 	url = https://github.com/cran/joinless
+[submodule "joinspy"]
+	path = joinspy
+	url = https://github.com/cran/joinspy
 [submodule "joint.Cox"]
 	path = joint.Cox
 	url = https://github.com/cran/joint.Cox
@@ -46262,6 +46271,9 @@
 [submodule "mfaces"]
 	path = mfaces
 	url = https://github.com/cran/mfaces
+[submodule "mfcurve"]
+	path = mfcurve
+	url = https://github.com/cran/mfcurve
 [submodule "mfdb"]
 	path = mfdb
 	url = https://github.com/cran/mfdb
@@ -64565,6 +64577,9 @@
 [submodule "sumSome"]
 	path = sumSome
 	url = https://github.com/cran/sumSome
+[submodule "sumer"]
+	path = sumer
+	url = https://github.com/cran/sumer
 [submodule "summariser"]
 	path = summariser
 	url = https://github.com/cran/summariser
@@ -70214,6 +70229,9 @@
 [submodule "yfR"]
 	path = yfR
 	url = https://github.com/cran/yfR
+[submodule "yfhist"]
+	path = yfhist
+	url = https://github.com/cran/yfhist
 [submodule "yfinancer"]
 	path = yfinancer
 	url = https://github.com/cran/yfinancer
