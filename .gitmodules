@@ -53942,6 +53942,9 @@
 [submodule "prepdat"]
 	path = prepdat
 	url = https://github.com/cran/prepdat
+[submodule "prepkit"]
+	path = prepkit
+	url = https://github.com/cran/prepkit
 [submodule "prepost"]
 	path = prepost
 	url = https://github.com/cran/prepost
