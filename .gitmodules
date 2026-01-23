@@ -2744,6 +2744,9 @@
 [submodule "CTD"]
 	path = CTD
 	url = https://github.com/cran/CTD
+[submodule "CTE"]
+	path = CTE
+	url = https://github.com/cran/CTE
 [submodule "CTNote"]
 	path = CTNote
 	url = https://github.com/cran/CTNote
