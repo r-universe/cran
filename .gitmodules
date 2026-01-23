@@ -1865,6 +1865,9 @@
 [submodule "BinaryEPPM"]
 	path = BinaryEPPM
 	url = https://github.com/cran/BinaryEPPM
+[submodule "BinaryReplicates"]
+	path = BinaryReplicates
+	url = https://github.com/cran/BinaryReplicates
 [submodule "BinarybalancedCut"]
 	path = BinarybalancedCut
 	url = https://github.com/cran/BinarybalancedCut
@@ -12503,6 +12506,9 @@
 [submodule "OptimaRegion"]
 	path = OptimaRegion
 	url = https://github.com/cran/OptimaRegion
+[submodule "OptimalBinningWoE"]
+	path = OptimalBinningWoE
+	url = https://github.com/cran/OptimalBinningWoE
 [submodule "OptimalCutpoints"]
 	path = OptimalCutpoints
 	url = https://github.com/cran/OptimalCutpoints
@@ -38834,6 +38840,9 @@
 [submodule "greport"]
 	path = greport
 	url = https://github.com/cran/greport
+[submodule "grepreaper"]
+	path = grepreaper
+	url = https://github.com/cran/grepreaper
 [submodule "gretel"]
 	path = gretel
 	url = https://github.com/cran/gretel
@@ -39053,6 +39062,9 @@
 [submodule "gscramble"]
 	path = gscramble
 	url = https://github.com/cran/gscramble
+[submodule "gsearly"]
+	path = gsearly
+	url = https://github.com/cran/gsearly
 [submodule "gseries"]
 	path = gseries
 	url = https://github.com/cran/gseries
@@ -55586,6 +55598,9 @@
 [submodule "rCBA"]
 	path = rCBA
 	url = https://github.com/cran/rCBA
+[submodule "rCISSVAE"]
+	path = rCISSVAE
+	url = https://github.com/cran/rCISSVAE
 [submodule "rCNV"]
 	path = rCNV
 	url = https://github.com/cran/rCNV
@@ -64523,6 +64538,9 @@
 [submodule "submax"]
 	path = submax
 	url = https://github.com/cran/submax
+[submodule "subniche"]
+	path = subniche
+	url = https://github.com/cran/subniche
 [submodule "subplex"]
 	path = subplex
 	url = https://github.com/cran/subplex
