@@ -56372,6 +56372,9 @@
 [submodule "rbmi"]
 	path = rbmi
 	url = https://github.com/cran/rbmi
+[submodule "rbmiUtils"]
+	path = rbmiUtils
+	url = https://github.com/cran/rbmiUtils
 [submodule "rbmn"]
 	path = rbmn
 	url = https://github.com/cran/rbmn
