@@ -6920,6 +6920,9 @@
 [submodule "GMMBoost"]
 	path = GMMBoost
 	url = https://github.com/cran/GMMBoost
+[submodule "GMMinit"]
+	path = GMMinit
+	url = https://github.com/cran/GMMinit
 [submodule "GMPro"]
 	path = GMPro
 	url = https://github.com/cran/GMPro
@@ -35804,6 +35807,9 @@
 [submodule "freshr"]
 	path = freshr
 	url = https://github.com/cran/freshr
+[submodule "frheritage"]
+	path = frheritage
+	url = https://github.com/cran/frheritage
 [submodule "frictionless"]
 	path = frictionless
 	url = https://github.com/cran/frictionless
