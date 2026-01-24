@@ -25679,6 +25679,9 @@
 [submodule "capn"]
 	path = capn
 	url = https://github.com/cran/capn
+[submodule "capr"]
+	path = capr
+	url = https://github.com/cran/capr
 [submodule "captain"]
 	path = captain
 	url = https://github.com/cran/captain
@@ -38987,6 +38990,9 @@
 [submodule "growthPheno"]
 	path = growthPheno
 	url = https://github.com/cran/growthPheno
+[submodule "growthTrendR"]
+	path = growthTrendR
+	url = https://github.com/cran/growthTrendR
 [submodule "growthcleanr"]
 	path = growthcleanr
 	url = https://github.com/cran/growthcleanr
