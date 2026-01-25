@@ -10157,6 +10157,9 @@
 [submodule "MEGENA"]
 	path = MEGENA
 	url = https://github.com/cran/MEGENA
+[submodule "MEMSS"]
+	path = MEMSS
+	url = https://github.com/cran/MEMSS
 [submodule "MEPDF"]
 	path = MEPDF
 	url = https://github.com/cran/MEPDF
@@ -32630,6 +32633,9 @@
 [submodule "elastes"]
 	path = elastes
 	url = https://github.com/cran/elastes
+[submodule "elastic"]
+	path = elastic
+	url = https://github.com/cran/elastic
 [submodule "elasticnet"]
 	path = elasticnet
 	url = https://github.com/cran/elasticnet
