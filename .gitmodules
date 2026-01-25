@@ -43394,9 +43394,6 @@
 [submodule "layer"]
 	path = layer
 	url = https://github.com/cran/layer
-[submodule "lazy"]
-	path = lazy
-	url = https://github.com/cran/lazy
 [submodule "lazyData"]
 	path = lazyData
 	url = https://github.com/cran/lazyData
