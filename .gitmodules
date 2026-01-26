@@ -1058,6 +1058,9 @@
 [submodule "BEND"]
 	path = BEND
 	url = https://github.com/cran/BEND
+[submodule "BERTopic"]
+	path = BERTopic
+	url = https://github.com/cran/BERTopic
 [submodule "BESTree"]
 	path = BESTree
 	url = https://github.com/cran/BESTree
@@ -6287,6 +6290,9 @@
 [submodule "FisPro"]
 	path = FisPro
 	url = https://github.com/cran/FisPro
+[submodule "FishDiveR"]
+	path = FishDiveR
+	url = https://github.com/cran/FishDiveR
 [submodule "FishPhyloMaker"]
 	path = FishPhyloMaker
 	url = https://github.com/cran/FishPhyloMaker
@@ -18599,6 +18605,9 @@
 [submodule "SpatialDDLS"]
 	path = SpatialDDLS
 	url = https://github.com/cran/SpatialDDLS
+[submodule "SpatialDownscaling"]
+	path = SpatialDownscaling
+	url = https://github.com/cran/SpatialDownscaling
 [submodule "SpatialEpi"]
 	path = SpatialEpi
 	url = https://github.com/cran/SpatialEpi
@@ -22355,6 +22364,9 @@
 [submodule "aqp"]
 	path = aqp
 	url = https://github.com/cran/aqp
+[submodule "aquacultuR"]
+	path = aquacultuR
+	url = https://github.com/cran/aquacultuR
 [submodule "aquodom"]
 	path = aquodom
 	url = https://github.com/cran/aquodom
@@ -31055,6 +31067,9 @@
 [submodule "dittodb"]
 	path = dittodb
 	url = https://github.com/cran/dittodb
+[submodule "ditwahLandslide"]
+	path = ditwahLandslide
+	url = https://github.com/cran/ditwahLandslide
 [submodule "div"]
 	path = div
 	url = https://github.com/cran/div
@@ -38111,6 +38126,9 @@
 [submodule "glmMisrep"]
 	path = glmMisrep
 	url = https://github.com/cran/glmMisrep
+[submodule "glmSTARMA"]
+	path = glmSTARMA
+	url = https://github.com/cran/glmSTARMA
 [submodule "glmbb"]
 	path = glmbb
 	url = https://github.com/cran/glmbb
@@ -43055,6 +43073,9 @@
 [submodule "kutils"]
 	path = kutils
 	url = https://github.com/cran/kutils
+[submodule "kuzco"]
+	path = kuzco
+	url = https://github.com/cran/kuzco
 [submodule "kuzuR"]
 	path = kuzuR
 	url = https://github.com/cran/kuzuR
@@ -48056,6 +48077,12 @@
 [submodule "muhaz"]
 	path = muhaz
 	url = https://github.com/cran/muhaz
+[submodule "muiMaterial"]
+	path = muiMaterial
+	url = https://github.com/cran/muiMaterial
+[submodule "muiTreeView"]
+	path = muiTreeView
+	url = https://github.com/cran/muiTreeView
 [submodule "muir"]
 	path = muir
 	url = https://github.com/cran/muir
@@ -48137,6 +48164,9 @@
 [submodule "multiRDPG"]
 	path = multiRDPG
 	url = https://github.com/cran/multiRDPG
+[submodule "multiRL"]
+	path = multiRL
+	url = https://github.com/cran/multiRL
 [submodule "multiROC"]
 	path = multiROC
 	url = https://github.com/cran/multiROC
@@ -57257,6 +57287,9 @@
 [submodule "repfdr"]
 	path = repfdr
 	url = https://github.com/cran/repfdr
+[submodule "repfun"]
+	path = repfun
+	url = https://github.com/cran/repfun
 [submodule "replacer"]
 	path = replacer
 	url = https://github.com/cran/replacer
@@ -63869,6 +63902,9 @@
 [submodule "stargazer"]
 	path = stargazer
 	url = https://github.com/cran/stargazer
+[submodule "starling"]
+	path = starling
+	url = https://github.com/cran/starling
 [submodule "starm"]
 	path = starm
 	url = https://github.com/cran/starm
@@ -68009,6 +68045,9 @@
 [submodule "uni.survival.tree"]
 	path = uni.survival.tree
 	url = https://github.com/cran/uni.survival.tree
+[submodule "uniLasso"]
+	path = uniLasso
+	url = https://github.com/cran/uniLasso
 [submodule "uniReg"]
 	path = uniReg
 	url = https://github.com/cran/uniReg
