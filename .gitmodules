@@ -674,9 +674,6 @@
 [submodule "AnglerCreelSurveySimulation"]
 	path = AnglerCreelSurveySimulation
 	url = https://github.com/cran/AnglerCreelSurveySimulation
-[submodule "AnimalHabitatNetwork"]
-	path = AnimalHabitatNetwork
-	url = https://github.com/cran/AnimalHabitatNetwork
 [submodule "AnimalSequences"]
 	path = AnimalSequences
 	url = https://github.com/cran/AnimalSequences
@@ -5837,9 +5834,6 @@
 [submodule "FBN"]
 	path = FBN
 	url = https://github.com/cran/FBN
-[submodule "FCMapper"]
-	path = FCMapper
-	url = https://github.com/cran/FCMapper
 [submodule "FCO"]
 	path = FCO
 	url = https://github.com/cran/FCO
@@ -10097,9 +10091,6 @@
 [submodule "MDDC"]
 	path = MDDC
 	url = https://github.com/cran/MDDC
-[submodule "MDEI"]
-	path = MDEI
-	url = https://github.com/cran/MDEI
 [submodule "MDFS"]
 	path = MDFS
 	url = https://github.com/cran/MDFS
@@ -13052,9 +13043,6 @@
 [submodule "PPCI"]
 	path = PPCI
 	url = https://github.com/cran/PPCI
-[submodule "PPLasso"]
-	path = PPLasso
-	url = https://github.com/cran/PPLasso
 [submodule "PPMR"]
 	path = PPMR
 	url = https://github.com/cran/PPMR
@@ -13214,9 +13202,6 @@
 [submodule "PSSMCOOL"]
 	path = PSSMCOOL
 	url = https://github.com/cran/PSSMCOOL
-[submodule "PST"]
-	path = PST
-	url = https://github.com/cran/PST
 [submodule "PSW"]
 	path = PSW
 	url = https://github.com/cran/PSW
@@ -22892,9 +22877,6 @@
 [submodule "autoMrP"]
 	path = autoMrP
 	url = https://github.com/cran/autoMrP
-[submodule "autoRasch"]
-	path = autoRasch
-	url = https://github.com/cran/autoRasch
 [submodule "autoReg"]
 	path = autoReg
 	url = https://github.com/cran/autoReg
@@ -23549,9 +23531,6 @@
 [submodule "bayeslist"]
 	path = bayeslist
 	url = https://github.com/cran/bayeslist
-[submodule "bayeslm"]
-	path = bayeslm
-	url = https://github.com/cran/bayeslm
 [submodule "bayeslongitudinal"]
 	path = bayeslongitudinal
 	url = https://github.com/cran/bayeslongitudinal
@@ -28553,9 +28532,6 @@
 [submodule "covatest"]
 	path = covatest
 	url = https://github.com/cran/covatest
-[submodule "covdepGE"]
-	path = covdepGE
-	url = https://github.com/cran/covdepGE
 [submodule "coveR2"]
 	path = coveR2
 	url = https://github.com/cran/coveR2
@@ -31637,9 +31613,6 @@
 [submodule "dslabs"]
 	path = dslabs
 	url = https://github.com/cran/dslabs
-[submodule "dsld"]
-	path = dsld
-	url = https://github.com/cran/dsld
 [submodule "dslice"]
 	path = dslice
 	url = https://github.com/cran/dslice
@@ -31982,9 +31955,6 @@
 [submodule "eHDPrep"]
 	path = eHDPrep
 	url = https://github.com/cran/eHDPrep
-[submodule "eHOF"]
-	path = eHOF
-	url = https://github.com/cran/eHOF
 [submodule "eLNNpairedCov"]
 	path = eLNNpairedCov
 	url = https://github.com/cran/eLNNpairedCov
@@ -34904,9 +34874,6 @@
 [submodule "fipio"]
 	path = fipio
 	url = https://github.com/cran/fipio
-[submodule "fipp"]
-	path = fipp
-	url = https://github.com/cran/fipp
 [submodule "firebase"]
 	path = firebase
 	url = https://github.com/cran/firebase
@@ -35327,9 +35294,6 @@
 [submodule "fmesher"]
 	path = fmesher
 	url = https://github.com/cran/fmesher
-[submodule "fmf"]
-	path = fmf
-	url = https://github.com/cran/fmf
 [submodule "fmi"]
 	path = fmi
 	url = https://github.com/cran/fmi
@@ -44999,9 +44963,6 @@
 [submodule "manet"]
 	path = manet
 	url = https://github.com/cran/manet
-[submodule "mangoro"]
-	path = mangoro
-	url = https://github.com/cran/mangoro
 [submodule "manhplot"]
 	path = manhplot
 	url = https://github.com/cran/manhplot
@@ -45872,9 +45833,6 @@
 [submodule "meerva"]
 	path = meerva
 	url = https://github.com/cran/meerva
-[submodule "meetupapi"]
-	path = meetupapi
-	url = https://github.com/cran/meetupapi
 [submodule "meetupr"]
 	path = meetupr
 	url = https://github.com/cran/meetupr
@@ -46244,9 +46202,6 @@
 [submodule "meteor"]
 	path = meteor
 	url = https://github.com/cran/meteor
-[submodule "meteorits"]
-	path = meteorits
-	url = https://github.com/cran/meteorits
 [submodule "meteospain"]
 	path = meteospain
 	url = https://github.com/cran/meteospain
@@ -46352,9 +46307,6 @@
 [submodule "mgpStreamingSDK"]
 	path = mgpStreamingSDK
 	url = https://github.com/cran/mgpStreamingSDK
-[submodule "mgss"]
-	path = mgss
-	url = https://github.com/cran/mgss
 [submodule "mgsub"]
 	path = mgsub
 	url = https://github.com/cran/mgsub
@@ -49061,9 +49013,6 @@
 [submodule "netcom"]
 	path = netcom
 	url = https://github.com/cran/netcom
-[submodule "netcontrol"]
-	path = netcontrol
-	url = https://github.com/cran/netcontrol
 [submodule "netcutter"]
 	path = netcutter
 	url = https://github.com/cran/netcutter
@@ -50843,9 +50792,6 @@
 [submodule "ordDisp"]
 	path = ordDisp
 	url = https://github.com/cran/ordDisp
-[submodule "ordPens"]
-	path = ordPens
-	url = https://github.com/cran/ordPens
 [submodule "ordbetareg"]
 	path = ordbetareg
 	url = https://github.com/cran/ordbetareg
@@ -57095,9 +57041,6 @@
 [submodule "regions"]
 	path = regions
 	url = https://github.com/cran/regions
-[submodule "registr"]
-	path = registr
-	url = https://github.com/cran/registr
 [submodule "registry"]
 	path = registry
 	url = https://github.com/cran/registry
@@ -59306,9 +59249,6 @@
 [submodule "runExamplesWrapper"]
 	path = runExamplesWrapper
 	url = https://github.com/cran/runExamplesWrapper
-[submodule "runMCMCbtadjust"]
-	path = runMCMCbtadjust
-	url = https://github.com/cran/runMCMCbtadjust
 [submodule "runcharter"]
 	path = runcharter
 	url = https://github.com/cran/runcharter
@@ -59882,9 +59822,6 @@
 [submodule "sasLM"]
 	path = sasLM
 	url = https://github.com/cran/sasLM
-[submodule "sasfunclust"]
-	path = sasfunclust
-	url = https://github.com/cran/sasfunclust
 [submodule "sasr"]
 	path = sasr
 	url = https://github.com/cran/sasr
@@ -59948,9 +59885,6 @@
 [submodule "sbmSDP"]
 	path = sbmSDP
 	url = https://github.com/cran/sbmSDP
-[submodule "sbo"]
-	path = sbo
-	url = https://github.com/cran/sbo
 [submodule "sboost"]
 	path = sboost
 	url = https://github.com/cran/sboost
