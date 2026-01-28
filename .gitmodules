@@ -3248,6 +3248,9 @@
 [submodule "CoDiNA"]
 	path = CoDiNA
 	url = https://github.com/cran/CoDiNA
+[submodule "CoFM"]
+	path = CoFM
+	url = https://github.com/cran/CoFM
 [submodule "CoImp"]
 	path = CoImp
 	url = https://github.com/cran/CoImp
@@ -7367,6 +7370,9 @@
 [submodule "GeomArchetypal"]
 	path = GeomArchetypal
 	url = https://github.com/cran/GeomArchetypal
+[submodule "GeometricMorphometricsMix"]
+	path = GeometricMorphometricsMix
+	url = https://github.com/cran/GeometricMorphometricsMix
 [submodule "GephiForR"]
 	path = GephiForR
 	url = https://github.com/cran/GephiForR
@@ -10472,6 +10478,9 @@
 [submodule "MOQA"]
 	path = MOQA
 	url = https://github.com/cran/MOQA
+[submodule "MOSAlloc"]
+	path = MOSAlloc
+	url = https://github.com/cran/MOSAlloc
 [submodule "MOST"]
 	path = MOST
 	url = https://github.com/cran/MOST
@@ -26612,6 +26621,9 @@
 [submodule "cicerone"]
 	path = cicerone
 	url = https://github.com/cran/cicerone
+[submodule "ciecl"]
+	path = ciecl
+	url = https://github.com/cran/ciecl
 [submodule "cif"]
 	path = cif
 	url = https://github.com/cran/cif
@@ -35192,6 +35204,9 @@
 [submodule "flowml"]
 	path = flowml
 	url = https://github.com/cran/flowml
+[submodule "flownet"]
+	path = flownet
+	url = https://github.com/cran/flownet
 [submodule "flps"]
 	path = flps
 	url = https://github.com/cran/flps
@@ -47207,6 +47222,9 @@
 [submodule "mmstat4"]
 	path = mmstat4
 	url = https://github.com/cran/mmstat4
+[submodule "mmtdiff"]
+	path = mmtdiff
+	url = https://github.com/cran/mmtdiff
 [submodule "mmtsne"]
 	path = mmtsne
 	url = https://github.com/cran/mmtsne
@@ -51551,6 +51569,9 @@
 [submodule "party"]
 	path = party
 	url = https://github.com/cran/party
+[submodule "partycoloR"]
+	path = partycoloR
+	url = https://github.com/cran/partycoloR
 [submodule "partykit"]
 	path = partykit
 	url = https://github.com/cran/partykit
@@ -54353,6 +54374,9 @@
 [submodule "psc"]
 	path = psc
 	url = https://github.com/cran/psc
+[submodule "pscDesign"]
+	path = pscDesign
+	url = https://github.com/cran/pscDesign
 [submodule "pscl"]
 	path = pscl
 	url = https://github.com/cran/pscl
@@ -57875,6 +57899,12 @@
 [submodule "rjd3toolkit"]
 	path = rjd3toolkit
 	url = https://github.com/cran/rjd3toolkit
+[submodule "rjd3tramoseats"]
+	path = rjd3tramoseats
+	url = https://github.com/cran/rjd3tramoseats
+[submodule "rjd3x13"]
+	path = rjd3x13
+	url = https://github.com/cran/rjd3x13
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
 	url = https://github.com/cran/rjdmarkdown
@@ -59867,6 +59897,9 @@
 [submodule "scMappR"]
 	path = scMappR
 	url = https://github.com/cran/scMappR
+[submodule "scMetaTraj"]
+	path = scMetaTraj
+	url = https://github.com/cran/scMetaTraj
 [submodule "scModels"]
 	path = scModels
 	url = https://github.com/cran/scModels
@@ -65033,6 +65066,9 @@
 [submodule "synMicrodata"]
 	path = synMicrodata
 	url = https://github.com/cran/synMicrodata
+[submodule "syncdr"]
+	path = syncdr
+	url = https://github.com/cran/syncdr
 [submodule "synchronicity"]
 	path = synchronicity
 	url = https://github.com/cran/synchronicity
@@ -65150,6 +65186,9 @@
 [submodule "tableMatrix"]
 	path = tableMatrix
 	url = https://github.com/cran/tableMatrix
+[submodule "tableParser"]
+	path = tableParser
+	url = https://github.com/cran/tableParser
 [submodule "tablecompare"]
 	path = tablecompare
 	url = https://github.com/cran/tablecompare
@@ -66941,6 +66980,9 @@
 [submodule "tradestatistics"]
 	path = tradestatistics
 	url = https://github.com/cran/tradestatistics
+[submodule "trafficCAR"]
+	path = trafficCAR
+	url = https://github.com/cran/trafficCAR
 [submodule "trafo"]
 	path = trafo
 	url = https://github.com/cran/trafo
