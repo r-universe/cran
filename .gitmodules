@@ -4463,6 +4463,9 @@
 [submodule "DataPackageR"]
 	path = DataPackageR
 	url = https://github.com/cran/DataPackageR
+[submodule "DataQualityDashboard"]
+	path = DataQualityDashboard
+	url = https://github.com/cran/DataQualityDashboard
 [submodule "DataSetsUni"]
 	path = DataSetsUni
 	url = https://github.com/cran/DataSetsUni
@@ -5210,6 +5213,9 @@
 [submodule "EQUALCompareImages"]
 	path = EQUALCompareImages
 	url = https://github.com/cran/EQUALCompareImages
+[submodule "EQUALPrognosis"]
+	path = EQUALPrognosis
+	url = https://github.com/cran/EQUALPrognosis
 [submodule "EQUALSTATS"]
 	path = EQUALSTATS
 	url = https://github.com/cran/EQUALSTATS
@@ -18206,6 +18212,9 @@
 [submodule "SignacX"]
 	path = SignacX
 	url = https://github.com/cran/SignacX
+[submodule "SignalY"]
+	path = SignalY
+	url = https://github.com/cran/SignalY
 [submodule "SignifReg"]
 	path = SignifReg
 	url = https://github.com/cran/SignifReg
@@ -30671,6 +30680,9 @@
 [submodule "diffIRT"]
 	path = diffIRT
 	url = https://github.com/cran/diffIRT
+[submodule "diffMeshGP"]
+	path = diffMeshGP
+	url = https://github.com/cran/diffMeshGP
 [submodule "diffcor"]
 	path = diffcor
 	url = https://github.com/cran/diffcor
@@ -33398,6 +33410,9 @@
 [submodule "evabic"]
 	path = evabic
 	url = https://github.com/cran/evabic
+[submodule "evalHTE"]
+	path = evalHTE
+	url = https://github.com/cran/evalHTE
 [submodule "evalITR"]
 	path = evalITR
 	url = https://github.com/cran/evalITR
@@ -58790,6 +58805,9 @@
 [submodule "rreg"]
 	path = rreg
 	url = https://github.com/cran/rreg
+[submodule "rregm"]
+	path = rregm
+	url = https://github.com/cran/rregm
 [submodule "rrepast"]
 	path = rrepast
 	url = https://github.com/cran/rrepast
@@ -68486,6 +68504,9 @@
 [submodule "vayr"]
 	path = vayr
 	url = https://github.com/cran/vayr
+[submodule "vazul"]
+	path = vazul
+	url = https://github.com/cran/vazul
 [submodule "vbracket"]
 	path = vbracket
 	url = https://github.com/cran/vbracket
