@@ -18797,6 +18797,9 @@
 [submodule "StateLevelForest"]
 	path = StateLevelForest
 	url = https://github.com/cran/StateLevelForest
+[submodule "StatsTFLValR"]
+	path = StatsTFLValR
+	url = https://github.com/cran/StatsTFLValR
 [submodule "StealLikeBayes"]
 	path = StealLikeBayes
 	url = https://github.com/cran/StealLikeBayes
@@ -27512,6 +27515,9 @@
 [submodule "cold"]
 	path = cold
 	url = https://github.com/cran/cold
+[submodule "coldrift"]
+	path = coldrift
+	url = https://github.com/cran/coldrift
 [submodule "colf"]
 	path = colf
 	url = https://github.com/cran/colf
@@ -69308,6 +69314,9 @@
 [submodule "weatherindices"]
 	path = weatherindices
 	url = https://github.com/cran/weatherindices
+[submodule "weatherjoin"]
+	path = weatherjoin
+	url = https://github.com/cran/weatherjoin
 [submodule "weathermetrics"]
 	path = weathermetrics
 	url = https://github.com/cran/weathermetrics
