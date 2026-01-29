@@ -2483,6 +2483,9 @@
 [submodule "CLONETv2"]
 	path = CLONETv2
 	url = https://github.com/cran/CLONETv2
+[submodule "CLRtools"]
+	path = CLRtools
+	url = https://github.com/cran/CLRtools
 [submodule "CLSIEP15"]
 	path = CLSIEP15
 	url = https://github.com/cran/CLSIEP15
@@ -20102,6 +20105,9 @@
 [submodule "USA.state.boundaries"]
 	path = USA.state.boundaries
 	url = https://github.com/cran/USA.state.boundaries
+[submodule "USAboundaries"]
+	path = USAboundaries
+	url = https://github.com/cran/USAboundaries
 [submodule "USE"]
 	path = USE
 	url = https://github.com/cran/USE
@@ -26597,6 +26603,9 @@
 [submodule "chronochrt"]
 	path = chronochrt
 	url = https://github.com/cran/chronochrt
+[submodule "chronometre"]
+	path = chronometre
+	url = https://github.com/cran/chronometre
 [submodule "chronosphere"]
 	path = chronosphere
 	url = https://github.com/cran/chronosphere
@@ -39260,6 +39269,9 @@
 [submodule "h3r"]
 	path = h3r
 	url = https://github.com/cran/h3r
+[submodule "h5lite"]
+	path = h5lite
+	url = https://github.com/cran/h5lite
 [submodule "hBayesDM"]
 	path = hBayesDM
 	url = https://github.com/cran/hBayesDM
@@ -41960,6 +41972,9 @@
 [submodule "istat"]
 	path = istat
 	url = https://github.com/cran/istat
+[submodule "istatR"]
+	path = istatR
+	url = https://github.com/cran/istatR
 [submodule "isva"]
 	path = isva
 	url = https://github.com/cran/isva
