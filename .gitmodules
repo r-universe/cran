@@ -7331,6 +7331,9 @@
 [submodule "GenoPop"]
 	path = GenoPop
 	url = https://github.com/cran/GenoPop
+[submodule "GenoScan"]
+	path = GenoScan
+	url = https://github.com/cran/GenoScan
 [submodule "GenoTriplo"]
 	path = GenoTriplo
 	url = https://github.com/cran/GenoTriplo
