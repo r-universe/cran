@@ -1241,6 +1241,9 @@
 [submodule "BNPTSclust"]
 	path = BNPTSclust
 	url = https://github.com/cran/BNPTSclust
+[submodule "BNPdensity"]
+	path = BNPdensity
+	url = https://github.com/cran/BNPdensity
 [submodule "BNPmix"]
 	path = BNPmix
 	url = https://github.com/cran/BNPmix
@@ -3938,6 +3941,9 @@
 [submodule "DEEVD"]
 	path = DEEVD
 	url = https://github.com/cran/DEEVD
+[submodule "DEGRE"]
+	path = DEGRE
+	url = https://github.com/cran/DEGRE
 [submodule "DEHOGT"]
 	path = DEHOGT
 	url = https://github.com/cran/DEHOGT
@@ -7406,6 +7412,9 @@
 [submodule "Ghost"]
 	path = Ghost
 	url = https://github.com/cran/Ghost
+[submodule "GhostKnockoff"]
+	path = GhostKnockoff
+	url = https://github.com/cran/GhostKnockoff
 [submodule "GiANT"]
 	path = GiANT
 	url = https://github.com/cran/GiANT
@@ -9119,6 +9128,9 @@
 [submodule "KnockoffHybrid"]
 	path = KnockoffHybrid
 	url = https://github.com/cran/KnockoffHybrid
+[submodule "KnockoffScreen"]
+	path = KnockoffScreen
+	url = https://github.com/cran/KnockoffScreen
 [submodule "KnockoffTrio"]
 	path = KnockoffTrio
 	url = https://github.com/cran/KnockoffTrio
@@ -20510,6 +20522,9 @@
 [submodule "WGCNA"]
 	path = WGCNA
 	url = https://github.com/cran/WGCNA
+[submodule "WGScan"]
+	path = WGScan
+	url = https://github.com/cran/WGScan
 [submodule "WH"]
 	path = WH
 	url = https://github.com/cran/WH
@@ -38687,6 +38702,9 @@
 [submodule "graphonmix"]
 	path = graphonmix
 	url = https://github.com/cran/graphonmix
+[submodule "graphpcor"]
+	path = graphpcor
+	url = https://github.com/cran/graphpcor
 [submodule "graphql"]
 	path = graphql
 	url = https://github.com/cran/graphql
@@ -41510,6 +41528,9 @@
 [submodule "interp"]
 	path = interp
 	url = https://github.com/cran/interp
+[submodule "interplex"]
+	path = interplex
+	url = https://github.com/cran/interplex
 [submodule "interplot"]
 	path = interplot
 	url = https://github.com/cran/interplot
@@ -51470,6 +51491,9 @@
 [submodule "pargasite"]
 	path = pargasite
 	url = https://github.com/cran/pargasite
+[submodule "parglm"]
+	path = parglm
+	url = https://github.com/cran/parglm
 [submodule "parma"]
 	path = parma
 	url = https://github.com/cran/parma
@@ -60728,6 +60752,9 @@
 [submodule "seqmagick"]
 	path = seqmagick
 	url = https://github.com/cran/seqmagick
+[submodule "seqminer"]
+	path = seqminer
+	url = https://github.com/cran/seqminer
 [submodule "seqmon"]
 	path = seqmon
 	url = https://github.com/cran/seqmon
@@ -61808,6 +61835,9 @@
 [submodule "simpletex"]
 	path = simpletex
 	url = https://github.com/cran/simpletex
+[submodule "simplextree"]
+	path = simplextree
+	url = https://github.com/cran/simplextree
 [submodule "simplifyNet"]
 	path = simplifyNet
 	url = https://github.com/cran/simplifyNet
@@ -64478,6 +64508,9 @@
 [submodule "sumExtras"]
 	path = sumExtras
 	url = https://github.com/cran/sumExtras
+[submodule "sumFREGAT"]
+	path = sumFREGAT
+	url = https://github.com/cran/sumFREGAT
 [submodule "sumR"]
 	path = sumR
 	url = https://github.com/cran/sumR
