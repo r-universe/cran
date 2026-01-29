@@ -9593,6 +9593,9 @@
 [submodule "LassoGEE"]
 	path = LassoGEE
 	url = https://github.com/cran/LassoGEE
+[submodule "LassoHiDFastGibbs"]
+	path = LassoHiDFastGibbs
+	url = https://github.com/cran/LassoHiDFastGibbs
 [submodule "LassoNet"]
 	path = LassoNet
 	url = https://github.com/cran/LassoNet
@@ -32780,6 +32783,9 @@
 [submodule "emplikAUC"]
 	path = emplikAUC
 	url = https://github.com/cran/emplikAUC
+[submodule "emplikCS"]
+	path = emplikCS
+	url = https://github.com/cran/emplikCS
 [submodule "emreliability"]
 	path = emreliability
 	url = https://github.com/cran/emreliability
@@ -46133,6 +46139,9 @@
 [submodule "metaquant"]
 	path = metaquant
 	url = https://github.com/cran/metaquant
+[submodule "metarep"]
+	path = metarep
+	url = https://github.com/cran/metarep
 [submodule "metasens"]
 	path = metasens
 	url = https://github.com/cran/metasens
@@ -53330,6 +53339,9 @@
 [submodule "pollen"]
 	path = pollen
 	url = https://github.com/cran/pollen
+[submodule "pollster"]
+	path = pollster
+	url = https://github.com/cran/pollster
 [submodule "polmineR"]
 	path = polmineR
 	url = https://github.com/cran/polmineR
@@ -57812,6 +57824,9 @@
 [submodule "rineq"]
 	path = rineq
 	url = https://github.com/cran/rineq
+[submodule "rinet"]
+	path = rinet
+	url = https://github.com/cran/rinet
 [submodule "ring"]
 	path = ring
 	url = https://github.com/cran/ring
