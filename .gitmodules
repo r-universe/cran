@@ -24068,9 +24068,6 @@
 [submodule "bigassertr"]
 	path = bigassertr
 	url = https://github.com/cran/bigassertr
-[submodule "bigchess"]
-	path = bigchess
-	url = https://github.com/cran/bigchess
 [submodule "bigdatadist"]
 	path = bigdatadist
 	url = https://github.com/cran/bigdatadist
