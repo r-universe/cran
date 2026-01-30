@@ -7628,6 +7628,9 @@
 [submodule "HCD"]
 	path = HCD
 	url = https://github.com/cran/HCD
+[submodule "HCPclust"]
+	path = HCPclust
+	url = https://github.com/cran/HCPclust
 [submodule "HCR"]
 	path = HCR
 	url = https://github.com/cran/HCR
@@ -30827,6 +30830,9 @@
 [submodule "disaggregation"]
 	path = disaggregation
 	url = https://github.com/cran/disaggregation
+[submodule "disagmethod"]
+	path = disagmethod
+	url = https://github.com/cran/disagmethod
 [submodule "disastr.api"]
 	path = disastr.api
 	url = https://github.com/cran/disastr.api
@@ -68072,6 +68078,9 @@
 [submodule "unittest"]
 	path = unittest
 	url = https://github.com/cran/unittest
+[submodule "unityForest"]
+	path = unityForest
+	url = https://github.com/cran/unityForest
 [submodule "univOutl"]
 	path = univOutl
 	url = https://github.com/cran/univOutl
@@ -70100,6 +70109,9 @@
 [submodule "xplain"]
 	path = xplain
 	url = https://github.com/cran/xplain
+[submodule "xplainfi"]
+	path = xplainfi
+	url = https://github.com/cran/xplainfi
 [submodule "xplorerr"]
 	path = xplorerr
 	url = https://github.com/cran/xplorerr
