@@ -53195,6 +53195,9 @@
 [submodule "pmr"]
 	path = pmr
 	url = https://github.com/cran/pmr
+[submodule "pmrm"]
+	path = pmrm
+	url = https://github.com/cran/pmrm
 [submodule "pmsampsize"]
 	path = pmsampsize
 	url = https://github.com/cran/pmsampsize
@@ -54041,6 +54044,9 @@
 [submodule "printr"]
 	path = printr
 	url = https://github.com/cran/printr
+[submodule "printtree"]
+	path = printtree
+	url = https://github.com/cran/printtree
 [submodule "prinvars"]
 	path = prinvars
 	url = https://github.com/cran/prinvars
