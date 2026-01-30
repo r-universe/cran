@@ -54386,9 +54386,6 @@
 [submodule "prt"]
 	path = prt
 	url = https://github.com/cran/prt
-[submodule "pryr"]
-	path = pryr
-	url = https://github.com/cran/pryr
 [submodule "ps"]
 	path = ps
 	url = https://github.com/cran/ps
