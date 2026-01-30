@@ -32729,9 +32729,6 @@
 [submodule "emdist"]
 	path = emdist
 	url = https://github.com/cran/emdist
-[submodule "emend"]
-	path = emend
-	url = https://github.com/cran/emend
 [submodule "emery"]
 	path = emery
 	url = https://github.com/cran/emery
