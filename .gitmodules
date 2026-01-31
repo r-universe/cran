@@ -5474,9 +5474,6 @@
 [submodule "EntropyEstimation"]
 	path = EntropyEstimation
 	url = https://github.com/cran/EntropyEstimation
-[submodule "EntropyMCMC"]
-	path = EntropyMCMC
-	url = https://github.com/cran/EntropyMCMC
 [submodule "EnvCpt"]
 	path = EnvCpt
 	url = https://github.com/cran/EnvCpt
@@ -57797,9 +57794,6 @@
 [submodule "riem"]
 	path = riem
 	url = https://github.com/cran/riem
-[submodule "riemstats"]
-	path = riemstats
-	url = https://github.com/cran/riemstats
 [submodule "riemtan"]
 	path = riemtan
 	url = https://github.com/cran/riemtan
