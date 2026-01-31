@@ -58574,9 +58574,6 @@
 [submodule "rolr"]
 	path = rolr
 	url = https://github.com/cran/rolr
-[submodule "romic"]
-	path = romic
-	url = https://github.com/cran/romic
 [submodule "ronfig"]
 	path = ronfig
 	url = https://github.com/cran/ronfig
