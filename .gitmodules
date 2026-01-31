@@ -185,6 +185,9 @@
 [submodule "AIscreenR"]
 	path = AIscreenR
 	url = https://github.com/cran/AIscreenR
+[submodule "ALDEx3"]
+	path = ALDEx3
+	url = https://github.com/cran/ALDEx3
 [submodule "ALDqr"]
 	path = ALDqr
 	url = https://github.com/cran/ALDqr
@@ -17891,6 +17894,9 @@
 [submodule "SYNCSA"]
 	path = SYNCSA
 	url = https://github.com/cran/SYNCSA
+[submodule "SafeMapper"]
+	path = SafeMapper
+	url = https://github.com/cran/SafeMapper
 [submodule "SafeVote"]
 	path = SafeVote
 	url = https://github.com/cran/SafeVote
@@ -20990,6 +20996,9 @@
 [submodule "aVirtualTwins"]
 	path = aVirtualTwins
 	url = https://github.com/cran/aVirtualTwins
+[submodule "aae.pop"]
+	path = aae.pop
+	url = https://github.com/cran/aae.pop
 [submodule "aamatch"]
 	path = aamatch
 	url = https://github.com/cran/aamatch
@@ -22928,6 +22937,9 @@
 [submodule "automatedtests"]
 	path = automatedtests
 	url = https://github.com/cran/automatedtests
+[submodule "automerge"]
+	path = automerge
+	url = https://github.com/cran/automerge
 [submodule "autometric"]
 	path = autometric
 	url = https://github.com/cran/autometric
@@ -25703,6 +25715,9 @@
 [submodule "card.pro"]
 	path = card.pro
 	url = https://github.com/cran/card.pro
+[submodule "cardargus"]
+	path = cardargus
+	url = https://github.com/cran/cardargus
 [submodule "cardidates"]
 	path = cardidates
 	url = https://github.com/cran/cardidates
@@ -28106,6 +28121,9 @@
 [submodule "contactdata"]
 	path = contactdata
 	url = https://github.com/cran/contactdata
+[submodule "contactsurveys"]
+	path = contactsurveys
+	url = https://github.com/cran/contactsurveys
 [submodule "container"]
 	path = container
 	url = https://github.com/cran/container
@@ -34181,6 +34199,9 @@
 [submodule "fase"]
 	path = fase
 	url = https://github.com/cran/fase
+[submodule "fasster"]
+	path = fasster
+	url = https://github.com/cran/fasster
 [submodule "fasstr"]
 	path = fasstr
 	url = https://github.com/cran/fasstr
@@ -42794,6 +42815,9 @@
 [submodule "kindisperse"]
 	path = kindisperse
 	url = https://github.com/cran/kindisperse
+[submodule "kindling"]
+	path = kindling
+	url = https://github.com/cran/kindling
 [submodule "kinematics"]
 	path = kinematics
 	url = https://github.com/cran/kinematics
@@ -42830,6 +42854,9 @@
 [submodule "kiwisR"]
 	path = kiwisR
 	url = https://github.com/cran/kiwisR
+[submodule "kkmeans"]
+	path = kkmeans
+	url = https://github.com/cran/kkmeans
 [submodule "kknn"]
 	path = kknn
 	url = https://github.com/cran/kknn
@@ -44030,6 +44057,12 @@
 [submodule "llbayesireg"]
 	path = llbayesireg
 	url = https://github.com/cran/llbayesireg
+[submodule "llmflow"]
+	path = llmflow
+	url = https://github.com/cran/llmflow
+[submodule "llmhelper"]
+	path = llmhelper
+	url = https://github.com/cran/llmhelper
 [submodule "llogistic"]
 	path = llogistic
 	url = https://github.com/cran/llogistic
@@ -52772,6 +52805,9 @@
 [submodule "pixmap"]
 	path = pixmap
 	url = https://github.com/cran/pixmap
+[submodule "pixr"]
+	path = pixr
+	url = https://github.com/cran/pixr
 [submodule "pk.unit.trans"]
 	path = pk.unit.trans
 	url = https://github.com/cran/pk.unit.trans
@@ -53186,6 +53222,9 @@
 [submodule "pmledecon"]
 	path = pmledecon
 	url = https://github.com/cran/pmledecon
+[submodule "pmlsp"]
+	path = pmlsp
+	url = https://github.com/cran/pmlsp
 [submodule "pmml"]
 	path = pmml
 	url = https://github.com/cran/pmml
@@ -59654,6 +59693,9 @@
 [submodule "samc"]
 	path = samc
 	url = https://github.com/cran/samc
+[submodule "sameplot"]
+	path = sameplot
+	url = https://github.com/cran/sameplot
 [submodule "samon"]
 	path = samon
 	url = https://github.com/cran/samon
