@@ -21509,6 +21509,9 @@
 [submodule "adsDataHubR"]
 	path = adsDataHubR
 	url = https://github.com/cran/adsDataHubR
+[submodule "adsasi"]
+	path = adsasi
+	url = https://github.com/cran/adsasi
 [submodule "adsoRptionCMF"]
 	path = adsoRptionCMF
 	url = https://github.com/cran/adsoRptionCMF
@@ -27818,6 +27821,9 @@
 [submodule "competitiontoolbox"]
 	path = competitiontoolbox
 	url = https://github.com/cran/competitiontoolbox
+[submodule "comphy"]
+	path = comphy
+	url = https://github.com/cran/comphy
 [submodule "compindPCA"]
 	path = compindPCA
 	url = https://github.com/cran/compindPCA
@@ -29795,6 +29801,9 @@
 [submodule "date"]
 	path = date
 	url = https://github.com/cran/date
+[submodule "date4ts"]
+	path = date4ts
+	url = https://github.com/cran/date4ts
 [submodule "dateback"]
 	path = dateback
 	url = https://github.com/cran/dateback
