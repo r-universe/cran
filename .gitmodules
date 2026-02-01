@@ -365,9 +365,6 @@
 [submodule "ARUtools"]
 	path = ARUtools
 	url = https://github.com/cran/ARUtools
-[submodule "ARpLMEC"]
-	path = ARpLMEC
-	url = https://github.com/cran/ARpLMEC
 [submodule "ASGS.foyer"]
 	path = ASGS.foyer
 	url = https://github.com/cran/ASGS.foyer
@@ -14921,9 +14918,6 @@
 [submodule "RKEELdata"]
 	path = RKEELdata
 	url = https://github.com/cran/RKEELdata
-[submodule "RKHSMetaMod"]
-	path = RKHSMetaMod
-	url = https://github.com/cran/RKHSMetaMod
 [submodule "RKUM"]
 	path = RKUM
 	url = https://github.com/cran/RKUM
@@ -28595,9 +28589,6 @@
 [submodule "covid19srilanka"]
 	path = covid19srilanka
 	url = https://github.com/cran/covid19srilanka
-[submodule "covid19swiss"]
-	path = covid19swiss
-	url = https://github.com/cran/covid19swiss
 [submodule "covid19tunisia"]
 	path = covid19tunisia
 	url = https://github.com/cran/covid19tunisia
@@ -37976,9 +37967,6 @@
 [submodule "gim"]
 	path = gim
 	url = https://github.com/cran/gim
-[submodule "gimap"]
-	path = gimap
-	url = https://github.com/cran/gimap
 [submodule "gimme"]
 	path = gimme
 	url = https://github.com/cran/gimme
@@ -48671,9 +48659,6 @@
 [submodule "nFunNN"]
 	path = nFunNN
 	url = https://github.com/cran/nFunNN
-[submodule "nJira"]
-	path = nJira
-	url = https://github.com/cran/nJira
 [submodule "nLTT"]
 	path = nLTT
 	url = https://github.com/cran/nLTT
@@ -63962,9 +63947,6 @@
 [submodule "statar"]
 	path = statar
 	url = https://github.com/cran/statar
-[submodule "statcanR"]
-	path = statcanR
-	url = https://github.com/cran/statcanR
 [submodule "statcheck"]
 	path = statcheck
 	url = https://github.com/cran/statcheck
