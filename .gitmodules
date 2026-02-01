@@ -17867,6 +17867,9 @@
 [submodule "SVEMnet"]
 	path = SVEMnet
 	url = https://github.com/cran/SVEMnet
+[submodule "SVG"]
+	path = SVG
+	url = https://github.com/cran/SVG
 [submodule "SVMD"]
 	path = SVMD
 	url = https://github.com/cran/SVMD
@@ -24605,6 +24608,9 @@
 [submodule "blocksdesign"]
 	path = blocksdesign
 	url = https://github.com/cran/blocksdesign
+[submodule "blockstrap"]
+	path = blockstrap
+	url = https://github.com/cran/blockstrap
 [submodule "blocs"]
 	path = blocs
 	url = https://github.com/cran/blocs
