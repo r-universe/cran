@@ -16838,6 +16838,9 @@
 [submodule "Rtumblr"]
 	path = Rtumblr
 	url = https://github.com/cran/Rtumblr
+[submodule "Rtwalk"]
+	path = Rtwalk
+	url = https://github.com/cran/Rtwalk
 [submodule "Rtwobitlib"]
 	path = Rtwobitlib
 	url = https://github.com/cran/Rtwobitlib
@@ -24515,6 +24518,9 @@
 [submodule "blindreview"]
 	path = blindreview
 	url = https://github.com/cran/blindreview
+[submodule "blindspiker"]
+	path = blindspiker
+	url = https://github.com/cran/blindspiker
 [submodule "blink"]
 	path = blink
 	url = https://github.com/cran/blink
