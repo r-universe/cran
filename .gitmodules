@@ -1667,9 +1667,6 @@
 [submodule "BayesianDisaggregation"]
 	path = BayesianDisaggregation
 	url = https://github.com/cran/BayesianDisaggregation
-[submodule "BayesianFactorZoo"]
-	path = BayesianFactorZoo
-	url = https://github.com/cran/BayesianFactorZoo
 [submodule "BayesianFitForecast"]
 	path = BayesianFitForecast
 	url = https://github.com/cran/BayesianFitForecast
@@ -8096,9 +8093,6 @@
 [submodule "HypergeoMat"]
 	path = HypergeoMat
 	url = https://github.com/cran/HypergeoMat
-[submodule "I14Y"]
-	path = I14Y
-	url = https://github.com/cran/I14Y
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
@@ -10685,9 +10679,6 @@
 [submodule "MSinference"]
 	path = MSinference
 	url = https://github.com/cran/MSinference
-[submodule "MSmix"]
-	path = MSmix
-	url = https://github.com/cran/MSmix
 [submodule "MSoutcomes"]
 	path = MSoutcomes
 	url = https://github.com/cran/MSoutcomes
@@ -15254,9 +15245,6 @@
 [submodule "ROracle"]
 	path = ROracle
 	url = https://github.com/cran/ROracle
-[submodule "RPANDA"]
-	path = RPANDA
-	url = https://github.com/cran/RPANDA
 [submodule "RPDTest"]
 	path = RPDTest
 	url = https://github.com/cran/RPDTest
@@ -19253,9 +19241,6 @@
 [submodule "TEQR"]
 	path = TEQR
 	url = https://github.com/cran/TEQR
-[submodule "TESS"]
-	path = TESS
-	url = https://github.com/cran/TESS
 [submodule "TExPosition"]
 	path = TExPosition
 	url = https://github.com/cran/TExPosition
@@ -19799,9 +19784,6 @@
 [submodule "Tivy"]
 	path = Tivy
 	url = https://github.com/cran/Tivy
-[submodule "Tlasso"]
-	path = Tlasso
-	url = https://github.com/cran/Tlasso
 [submodule "TmCalculator"]
 	path = TmCalculator
 	url = https://github.com/cran/TmCalculator
@@ -19880,9 +19862,6 @@
 [submodule "TransProR"]
 	path = TransProR
 	url = https://github.com/cran/TransProR
-[submodule "TransTGGM"]
-	path = TransTGGM
-	url = https://github.com/cran/TransTGGM
 [submodule "Transform"]
 	path = Transform
 	url = https://github.com/cran/Transform
@@ -26159,9 +26138,6 @@
 [submodule "cellWise"]
 	path = cellWise
 	url = https://github.com/cran/cellWise
-[submodule "cellpypes"]
-	path = cellpypes
-	url = https://github.com/cran/cellpypes
 [submodule "cellranger"]
 	path = cellranger
 	url = https://github.com/cran/cellranger
@@ -36398,9 +36374,6 @@
 [submodule "gapclosing"]
 	path = gapclosing
 	url = https://github.com/cran/gapclosing
-[submodule "gapfill"]
-	path = gapfill
-	url = https://github.com/cran/gapfill
 [submodule "gapmap"]
 	path = gapmap
 	url = https://github.com/cran/gapmap
@@ -37328,9 +37301,6 @@
 [submodule "ggbuildr"]
 	path = ggbuildr
 	url = https://github.com/cran/ggbuildr
-[submodule "ggbump"]
-	path = ggbump
-	url = https://github.com/cran/ggbump
 [submodule "ggchangepoint"]
 	path = ggchangepoint
 	url = https://github.com/cran/ggchangepoint
@@ -37352,9 +37322,6 @@
 [submodule "ggcorrplot"]
 	path = ggcorrplot
 	url = https://github.com/cran/ggcorrplot
-[submodule "ggcorset"]
-	path = ggcorset
-	url = https://github.com/cran/ggcorset
 [submodule "ggdag"]
 	path = ggdag
 	url = https://github.com/cran/ggdag
@@ -37484,15 +37451,9 @@
 [submodule "gghalfnorm"]
 	path = gghalfnorm
 	url = https://github.com/cran/gghalfnorm
-[submodule "gghalves"]
-	path = gghalves
-	url = https://github.com/cran/gghalves
 [submodule "gghdx"]
 	path = gghdx
 	url = https://github.com/cran/gghdx
-[submodule "ggheatmap"]
-	path = ggheatmap
-	url = https://github.com/cran/ggheatmap
 [submodule "gghexsize"]
 	path = gghexsize
 	url = https://github.com/cran/gghexsize
@@ -37682,9 +37643,6 @@
 [submodule "ggpointless"]
 	path = ggpointless
 	url = https://github.com/cran/ggpointless
-[submodule "ggpol"]
-	path = ggpol
-	url = https://github.com/cran/ggpol
 [submodule "ggpolar"]
 	path = ggpolar
 	url = https://github.com/cran/ggpolar
@@ -40964,9 +40922,6 @@
 [submodule "ig.vancouver.2014.topcolour"]
 	path = ig.vancouver.2014.topcolour
 	url = https://github.com/cran/ig.vancouver.2014.topcolour
-[submodule "igapfill"]
-	path = igapfill
-	url = https://github.com/cran/igapfill
 [submodule "igate"]
 	path = igate
 	url = https://github.com/cran/igate
@@ -41123,9 +41078,6 @@
 [submodule "iml"]
 	path = iml
 	url = https://github.com/cran/iml
-[submodule "immcp"]
-	path = immcp
-	url = https://github.com/cran/immcp
 [submodule "immer"]
 	path = immer
 	url = https://github.com/cran/immer
@@ -45629,9 +45581,6 @@
 [submodule "mcmc"]
 	path = mcmc
 	url = https://github.com/cran/mcmc
-[submodule "mcmcOutput"]
-	path = mcmcOutput
-	url = https://github.com/cran/mcmcOutput
 [submodule "mcmcderive"]
 	path = mcmcderive
 	url = https://github.com/cran/mcmcderive
@@ -46106,9 +46055,6 @@
 [submodule "metainc"]
 	path = metainc
 	url = https://github.com/cran/metainc
-[submodule "metajam"]
-	path = metajam
-	url = https://github.com/cran/metajam
 [submodule "metalite"]
 	path = metalite
 	url = https://github.com/cran/metalite
@@ -48995,9 +48941,6 @@
 [submodule "neptune"]
 	path = neptune
 	url = https://github.com/cran/neptune
-[submodule "nesRdata"]
-	path = nesRdata
-	url = https://github.com/cran/nesRdata
 [submodule "nestcolor"]
 	path = nestcolor
 	url = https://github.com/cran/nestcolor
@@ -49976,9 +49919,6 @@
 [submodule "nscancor"]
 	path = nscancor
 	url = https://github.com/cran/nscancor
-[submodule "nse"]
-	path = nse
-	url = https://github.com/cran/nse
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/cran/nseq
@@ -50426,9 +50366,6 @@
 [submodule "oncomsm"]
 	path = oncomsm
 	url = https://github.com/cran/oncomsm
-[submodule "oncrawlR"]
-	path = oncrawlR
-	url = https://github.com/cran/oncrawlR
 [submodule "oneclust"]
 	path = oneclust
 	url = https://github.com/cran/oneclust
@@ -60035,9 +59972,6 @@
 [submodule "scTenifoldNet"]
 	path = scTenifoldNet
 	url = https://github.com/cran/scTenifoldNet
-[submodule "scUtils"]
-	path = scUtils
-	url = https://github.com/cran/scUtils
 [submodule "sca"]
 	path = sca
 	url = https://github.com/cran/sca
@@ -68354,9 +68288,6 @@
 [submodule "uxr"]
 	path = uxr
 	url = https://github.com/cran/uxr
-[submodule "vDiveR"]
-	path = vDiveR
-	url = https://github.com/cran/vDiveR
 [submodule "vMF"]
 	path = vMF
 	url = https://github.com/cran/vMF
@@ -69680,9 +69611,6 @@
 [submodule "wintime"]
 	path = wintime
 	url = https://github.com/cran/wintime
-[submodule "wiqid"]
-	path = wiqid
-	url = https://github.com/cran/wiqid
 [submodule "wishmom"]
 	path = wishmom
 	url = https://github.com/cran/wishmom
