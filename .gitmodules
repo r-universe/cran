@@ -1562,6 +1562,9 @@
 [submodule "BayesMallows"]
 	path = BayesMallows
 	url = https://github.com/cran/BayesMallows
+[submodule "BayesMallowsSMC2"]
+	path = BayesMallowsSMC2
+	url = https://github.com/cran/BayesMallowsSMC2
 [submodule "BayesMixSurv"]
 	path = BayesMixSurv
 	url = https://github.com/cran/BayesMixSurv
@@ -8153,6 +8156,9 @@
 [submodule "ICAMS"]
 	path = ICAMS
 	url = https://github.com/cran/ICAMS
+[submodule "ICAOD"]
+	path = ICAOD
+	url = https://github.com/cran/ICAOD
 [submodule "ICBioMark"]
 	path = ICBioMark
 	url = https://github.com/cran/ICBioMark
@@ -9869,6 +9875,9 @@
 [submodule "MADPop"]
 	path = MADPop
 	url = https://github.com/cran/MADPop
+[submodule "MADtests"]
+	path = MADtests
+	url = https://github.com/cran/MADtests
 [submodule "MAFLD"]
 	path = MAFLD
 	url = https://github.com/cran/MAFLD
@@ -18050,6 +18059,9 @@
 [submodule "SemiPar.depCens"]
 	path = SemiPar.depCens
 	url = https://github.com/cran/SemiPar.depCens
+[submodule "SemiparMF"]
+	path = SemiparMF
+	url = https://github.com/cran/SemiparMF
 [submodule "SenSpe"]
 	path = SenSpe
 	url = https://github.com/cran/SenSpe
@@ -18074,6 +18086,9 @@
 [submodule "SentimentAnalysis"]
 	path = SentimentAnalysis
 	url = https://github.com/cran/SentimentAnalysis
+[submodule "SepTest"]
+	path = SepTest
+	url = https://github.com/cran/SepTest
 [submodule "SeqAlignR"]
 	path = SeqAlignR
 	url = https://github.com/cran/SeqAlignR
@@ -32459,6 +32474,9 @@
 [submodule "edstan"]
 	path = edstan
 	url = https://github.com/cran/edstan
+[submodule "educabR"]
+	path = educabR
+	url = https://github.com/cran/educabR
 [submodule "educationR"]
 	path = educationR
 	url = https://github.com/cran/educationR
@@ -34847,6 +34865,9 @@
 [submodule "findSVI"]
 	path = findSVI
 	url = https://github.com/cran/findSVI
+[submodule "findn"]
+	path = findn
+	url = https://github.com/cran/findn
 [submodule "findpython"]
 	path = findpython
 	url = https://github.com/cran/findpython
@@ -37973,6 +37994,9 @@
 [submodule "gips"]
 	path = gips
 	url = https://github.com/cran/gips
+[submodule "gipsDA"]
+	path = gipsDA
+	url = https://github.com/cran/gipsDA
 [submodule "giscoR"]
 	path = giscoR
 	url = https://github.com/cran/giscoR
@@ -48134,6 +48158,12 @@
 [submodule "multiROC"]
 	path = multiROC
 	url = https://github.com/cran/multiROC
+[submodule "multiRec"]
+	path = multiRec
+	url = https://github.com/cran/multiRec
+[submodule "multiSA"]
+	path = multiSA
+	url = https://github.com/cran/multiSA
 [submodule "multiScaleR"]
 	path = multiScaleR
 	url = https://github.com/cran/multiScaleR
@@ -52433,6 +52463,9 @@
 [submodule "philentropy"]
 	path = philentropy
 	url = https://github.com/cran/philentropy
+[submodule "phinterval"]
+	path = phinterval
+	url = https://github.com/cran/phinterval
 [submodule "phm"]
 	path = phm
 	url = https://github.com/cran/phm
@@ -59831,6 +59864,9 @@
 [submodule "sasLM"]
 	path = sasLM
 	url = https://github.com/cran/sasLM
+[submodule "sasif"]
+	path = sasif
+	url = https://github.com/cran/sasif
 [submodule "sasr"]
 	path = sasr
 	url = https://github.com/cran/sasr
@@ -60098,6 +60134,9 @@
 [submodule "scenes"]
 	path = scenes
 	url = https://github.com/cran/scenes
+[submodule "scenfire"]
+	path = scenfire
+	url = https://github.com/cran/scenfire
 [submodule "scf"]
 	path = scf
 	url = https://github.com/cran/scf
