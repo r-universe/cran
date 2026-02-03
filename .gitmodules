@@ -56390,6 +56390,9 @@
 [submodule "rcartocolor"]
 	path = rcartocolor
 	url = https://github.com/cran/rcartocolor
+[submodule "rcatfish"]
+	path = rcatfish
+	url = https://github.com/cran/rcatfish
 [submodule "rcausim"]
 	path = rcausim
 	url = https://github.com/cran/rcausim
@@ -62216,6 +62219,9 @@
 [submodule "sld"]
 	path = sld
 	url = https://github.com/cran/sld
+[submodule "sleacr"]
+	path = sleacr
+	url = https://github.com/cran/sleacr
 [submodule "sleekts"]
 	path = sleekts
 	url = https://github.com/cran/sleekts
@@ -68912,6 +68918,9 @@
 [submodule "vismeteor"]
 	path = vismeteor
 	url = https://github.com/cran/vismeteor
+[submodule "vismi"]
+	path = vismi
+	url = https://github.com/cran/vismi
 [submodule "visor"]
 	path = visor
 	url = https://github.com/cran/visor
