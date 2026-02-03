@@ -26744,9 +26744,6 @@
 [submodule "cities"]
 	path = cities
 	url = https://github.com/cran/cities
-[submodule "citmre"]
-	path = citmre
-	url = https://github.com/cran/citmre
 [submodule "cito"]
 	path = cito
 	url = https://github.com/cran/cito
