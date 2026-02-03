@@ -2372,6 +2372,9 @@
 [submodule "CGManalyzer"]
 	path = CGManalyzer
 	url = https://github.com/cran/CGManalyzer
+[submodule "CGMissingDataR"]
+	path = CGMissingDataR
+	url = https://github.com/cran/CGMissingDataR
 [submodule "CGNM"]
 	path = CGNM
 	url = https://github.com/cran/CGNM
@@ -23321,6 +23324,9 @@
 [submodule "baseline"]
 	path = baseline
 	url = https://github.com/cran/baseline
+[submodule "baselinenowcast"]
+	path = baselinenowcast
+	url = https://github.com/cran/baselinenowcast
 [submodule "basemaps"]
 	path = basemaps
 	url = https://github.com/cran/basemaps
@@ -39578,6 +39584,9 @@
 [submodule "healthatlas"]
 	path = healthatlas
 	url = https://github.com/cran/healthatlas
+[submodule "healthbR"]
+	path = healthbR
+	url = https://github.com/cran/healthbR
 [submodule "healthcare.antitrust"]
 	path = healthcare.antitrust
 	url = https://github.com/cran/healthcare.antitrust
@@ -49604,6 +49613,9 @@
 [submodule "nomesbr"]
 	path = nomesbr
 	url = https://github.com/cran/nomesbr
+[submodule "nomiShape"]
+	path = nomiShape
+	url = https://github.com/cran/nomiShape
 [submodule "nominatimlite"]
 	path = nominatimlite
 	url = https://github.com/cran/nominatimlite
@@ -50744,6 +50756,9 @@
 [submodule "opusminer"]
 	path = opusminer
 	url = https://github.com/cran/opusminer
+[submodule "opusreader2"]
+	path = opusreader2
+	url = https://github.com/cran/opusreader2
 [submodule "orbital"]
 	path = orbital
 	url = https://github.com/cran/orbital
@@ -57740,6 +57755,9 @@
 [submodule "ribd"]
 	path = ribd
 	url = https://github.com/cran/ribd
+[submodule "ribiosUtils"]
+	path = ribiosUtils
+	url = https://github.com/cran/ribiosUtils
 [submodule "ricci"]
 	path = ricci
 	url = https://github.com/cran/ricci
@@ -62843,6 +62861,9 @@
 [submodule "spanishoddata"]
 	path = spanishoddata
 	url = https://github.com/cran/spanishoddata
+[submodule "spanner"]
+	path = spanner
+	url = https://github.com/cran/spanner
 [submodule "spant"]
 	path = spant
 	url = https://github.com/cran/spant
