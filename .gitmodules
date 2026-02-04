@@ -3740,9 +3740,6 @@
 [submodule "Cubist"]
 	path = Cubist
 	url = https://github.com/cran/Cubist
-[submodule "CureAuxSP"]
-	path = CureAuxSP
-	url = https://github.com/cran/CureAuxSP
 [submodule "CureDepCens"]
 	path = CureDepCens
 	url = https://github.com/cran/CureDepCens
@@ -48797,6 +48794,9 @@
 [submodule "natserv"]
 	path = natserv
 	url = https://github.com/cran/natserv
+[submodule "natstrat"]
+	path = natstrat
+	url = https://github.com/cran/natstrat
 [submodule "naturaList"]
 	path = naturaList
 	url = https://github.com/cran/naturaList
