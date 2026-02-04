@@ -60890,9 +60890,6 @@
 [submodule "serrsBayes"]
 	path = serrsBayes
 	url = https://github.com/cran/serrsBayes
-[submodule "servosphereR"]
-	path = servosphereR
-	url = https://github.com/cran/servosphereR
 [submodule "servr"]
 	path = servr
 	url = https://github.com/cran/servr
@@ -63620,6 +63617,9 @@
 [submodule "sqliteutils"]
 	path = sqliteutils
 	url = https://github.com/cran/sqliteutils
+[submodule "sqlm"]
+	path = sqlm
+	url = https://github.com/cran/sqlm
 [submodule "sqlparseR"]
 	path = sqlparseR
 	url = https://github.com/cran/sqlparseR
@@ -67877,6 +67877,9 @@
 [submodule "txtq"]
 	path = txtq
 	url = https://github.com/cran/txtq
+[submodule "typeR"]
+	path = typeR
+	url = https://github.com/cran/typeR
 [submodule "typed"]
 	path = typed
 	url = https://github.com/cran/typed
