@@ -7226,6 +7226,9 @@
 [submodule "GaSP"]
 	path = GaSP
 	url = https://github.com/cran/GaSP
+[submodule "GalaxyR"]
+	path = GalaxyR
+	url = https://github.com/cran/GalaxyR
 [submodule "GameTheory"]
 	path = GameTheory
 	url = https://github.com/cran/GameTheory
@@ -12536,6 +12539,9 @@
 [submodule "OralOpioids"]
 	path = OralOpioids
 	url = https://github.com/cran/OralOpioids
+[submodule "Orangutan"]
+	path = Orangutan
+	url = https://github.com/cran/Orangutan
 [submodule "Orcs"]
 	path = Orcs
 	url = https://github.com/cran/Orcs
@@ -27845,6 +27851,9 @@
 [submodule "completejourney"]
 	path = completejourney
 	url = https://github.com/cran/completejourney
+[submodule "complex"]
+	path = complex
+	url = https://github.com/cran/complex
 [submodule "complexNet"]
 	path = complexNet
 	url = https://github.com/cran/complexNet
@@ -30842,6 +30851,9 @@
 [submodule "directPA"]
 	path = directPA
 	url = https://github.com/cran/directPA
+[submodule "directadjusting"]
+	path = directadjusting
+	url = https://github.com/cran/directadjusting
 [submodule "directlabels"]
 	path = directlabels
 	url = https://github.com/cran/directlabels
@@ -69752,6 +69764,9 @@
 [submodule "wktmo"]
 	path = wktmo
 	url = https://github.com/cran/wktmo
+[submodule "wlsd"]
+	path = wlsd
+	url = https://github.com/cran/wlsd
 [submodule "wmm"]
 	path = wmm
 	url = https://github.com/cran/wmm
