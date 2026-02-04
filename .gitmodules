@@ -50036,9 +50036,6 @@
 [submodule "numOSL"]
 	path = numOSL
 	url = https://github.com/cran/numOSL
-[submodule "numbat"]
-	path = numbat
-	url = https://github.com/cran/numbat
 [submodule "numberize"]
 	path = numberize
 	url = https://github.com/cran/numberize
@@ -59552,9 +59549,6 @@
 [submodule "sae"]
 	path = sae
 	url = https://github.com/cran/sae
-[submodule "sae.projection"]
-	path = sae.projection
-	url = https://github.com/cran/sae.projection
 [submodule "sae.prop"]
 	path = sae.prop
 	url = https://github.com/cran/sae.prop
