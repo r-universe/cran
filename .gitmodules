@@ -50417,9 +50417,6 @@
 [submodule "oncmap"]
 	path = oncmap
 	url = https://github.com/cran/oncmap
-[submodule "oncomsm"]
-	path = oncomsm
-	url = https://github.com/cran/oncomsm
 [submodule "oneclust"]
 	path = oneclust
 	url = https://github.com/cran/oneclust
