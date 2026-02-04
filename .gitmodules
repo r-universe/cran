@@ -3749,6 +3749,9 @@
 [submodule "CurricularComplexity"]
 	path = CurricularComplexity
 	url = https://github.com/cran/CurricularComplexity
+[submodule "CurricularComplexityData"]
+	path = CurricularComplexityData
+	url = https://github.com/cran/CurricularComplexityData
 [submodule "CustomDerivative"]
 	path = CustomDerivative
 	url = https://github.com/cran/CustomDerivative
@@ -17513,6 +17516,9 @@
 [submodule "SNFtool"]
 	path = SNFtool
 	url = https://github.com/cran/SNFtool
+[submodule "SNMA"]
+	path = SNMA
+	url = https://github.com/cran/SNMA
 [submodule "SNPannotator"]
 	path = SNPannotator
 	url = https://github.com/cran/SNPannotator
@@ -23012,6 +23018,9 @@
 [submodule "avseqmc"]
 	path = avseqmc
 	url = https://github.com/cran/avseqmc
+[submodule "avstrat"]
+	path = avstrat
+	url = https://github.com/cran/avstrat
 [submodule "awdb"]
 	path = awdb
 	url = https://github.com/cran/awdb
@@ -35861,6 +35870,9 @@
 [submodule "frscore"]
 	path = frscore
 	url = https://github.com/cran/frscore
+[submodule "fru"]
+	path = fru
+	url = https://github.com/cran/fru
 [submodule "fruclimadapt"]
 	path = fruclimadapt
 	url = https://github.com/cran/fruclimadapt
@@ -39026,6 +39038,9 @@
 [submodule "gsDesign2"]
 	path = gsDesign2
 	url = https://github.com/cran/gsDesign2
+[submodule "gsDesignTune"]
+	path = gsDesignTune
+	url = https://github.com/cran/gsDesignTune
 [submodule "gsEasy"]
 	path = gsEasy
 	url = https://github.com/cran/gsEasy
@@ -45200,6 +45215,9 @@
 [submodule "marima"]
 	path = marima
 	url = https://github.com/cran/marima
+[submodule "marinepredator"]
+	path = marinepredator
+	url = https://github.com/cran/marinepredator
 [submodule "mark"]
 	path = mark
 	url = https://github.com/cran/mark
@@ -53798,6 +53816,9 @@
 [submodule "ppwdeming"]
 	path = ppwdeming
 	url = https://github.com/cran/ppwdeming
+[submodule "ppweibull"]
+	path = ppweibull
+	url = https://github.com/cran/ppweibull
 [submodule "pql"]
 	path = pql
 	url = https://github.com/cran/pql
@@ -60917,6 +60938,9 @@
 [submodule "settingsSync"]
 	path = settingsSync
 	url = https://github.com/cran/settingsSync
+[submodule "setweaver"]
+	path = setweaver
+	url = https://github.com/cran/setweaver
 [submodule "setwidth"]
 	path = setwidth
 	url = https://github.com/cran/setwidth
@@ -63038,6 +63062,9 @@
 [submodule "sparsesvd"]
 	path = sparsesvd
 	url = https://github.com/cran/sparsesvd
+[submodule "sparsevar"]
+	path = sparsevar
+	url = https://github.com/cran/sparsevar
 [submodule "sparsevb"]
 	path = sparsevb
 	url = https://github.com/cran/sparsevb
@@ -66254,6 +66281,9 @@
 [submodule "tidyestimate"]
 	path = tidyestimate
 	url = https://github.com/cran/tidyestimate
+[submodule "tidyextreme"]
+	path = tidyextreme
+	url = https://github.com/cran/tidyextreme
 [submodule "tidyfast"]
 	path = tidyfast
 	url = https://github.com/cran/tidyfast
