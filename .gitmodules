@@ -38000,6 +38000,9 @@
 [submodule "gim"]
 	path = gim
 	url = https://github.com/cran/gim
+[submodule "gimap"]
+	path = gimap
+	url = https://github.com/cran/gimap
 [submodule "gimme"]
 	path = gimme
 	url = https://github.com/cran/gimme
