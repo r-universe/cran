@@ -58715,6 +58715,9 @@
 [submodule "routr"]
 	path = routr
 	url = https://github.com/cran/routr
+[submodule "roxigraph"]
+	path = roxigraph
+	url = https://github.com/cran/roxigraph
 [submodule "roxut"]
 	path = roxut
 	url = https://github.com/cran/roxut
