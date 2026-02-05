@@ -57092,6 +57092,9 @@
 [submodule "regexSelect"]
 	path = regexSelect
 	url = https://github.com/cran/regexSelect
+[submodule "regextable"]
+	path = regextable
+	url = https://github.com/cran/regextable
 [submodule "reghelper"]
 	path = reghelper
 	url = https://github.com/cran/reghelper
