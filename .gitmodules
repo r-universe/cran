@@ -1676,6 +1676,9 @@
 [submodule "BayesianGLasso"]
 	path = BayesianGLasso
 	url = https://github.com/cran/BayesianGLasso
+[submodule "BayesianHybridDesign"]
+	path = BayesianHybridDesign
+	url = https://github.com/cran/BayesianHybridDesign
 [submodule "BayesianInference"]
 	path = BayesianInference
 	url = https://github.com/cran/BayesianInference
@@ -22472,6 +22475,9 @@
 [submodule "area"]
 	path = area
 	url = https://github.com/cran/area
+[submodule "areaOfEffect"]
+	path = areaOfEffect
+	url = https://github.com/cran/areaOfEffect
 [submodule "areabiplot"]
 	path = areabiplot
 	url = https://github.com/cran/areabiplot
@@ -24314,6 +24320,9 @@
 [submodule "bioC.logs"]
 	path = bioC.logs
 	url = https://github.com/cran/bioC.logs
+[submodule "bioLeak"]
+	path = bioLeak
+	url = https://github.com/cran/bioLeak
 [submodule "bioRad"]
 	path = bioRad
 	url = https://github.com/cran/bioRad
@@ -41327,6 +41336,9 @@
 [submodule "indirect"]
 	path = indirect
 	url = https://github.com/cran/indirect
+[submodule "indonesiaFootballScoutR"]
+	path = indonesiaFootballScoutR
+	url = https://github.com/cran/indonesiaFootballScoutR
 [submodule "industRial"]
 	path = industRial
 	url = https://github.com/cran/industRial
@@ -42764,6 +42776,9 @@
 [submodule "keyclust"]
 	path = keyclust
 	url = https://github.com/cran/keyclust
+[submodule "keyed"]
+	path = keyed
+	url = https://github.com/cran/keyed
 [submodule "keyholder"]
 	path = keyholder
 	url = https://github.com/cran/keyholder
@@ -49454,6 +49469,9 @@
 [submodule "nlmixr2"]
 	path = nlmixr2
 	url = https://github.com/cran/nlmixr2
+[submodule "nlmixr2auto"]
+	path = nlmixr2auto
+	url = https://github.com/cran/nlmixr2auto
 [submodule "nlmixr2autoinit"]
 	path = nlmixr2autoinit
 	url = https://github.com/cran/nlmixr2autoinit
@@ -66752,6 +66770,9 @@
 [submodule "tipse"]
 	path = tipse
 	url = https://github.com/cran/tipse
+[submodule "tirt"]
+	path = tirt
+	url = https://github.com/cran/tirt
 [submodule "tis"]
 	path = tis
 	url = https://github.com/cran/tis
@@ -68636,6 +68657,9 @@
 [submodule "varycoef"]
 	path = varycoef
 	url = https://github.com/cran/varycoef
+[submodule "vascr"]
+	path = vascr
+	url = https://github.com/cran/vascr
 [submodule "vasicek"]
 	path = vasicek
 	url = https://github.com/cran/vasicek
@@ -69653,6 +69677,9 @@
 [submodule "whisker"]
 	path = whisker
 	url = https://github.com/cran/whisker
+[submodule "whisper"]
+	path = whisper
+	url = https://github.com/cran/whisper
 [submodule "whitebox"]
 	path = whitebox
 	url = https://github.com/cran/whitebox
