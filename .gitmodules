@@ -13082,6 +13082,9 @@
 [submodule "PPforest"]
 	path = PPforest
 	url = https://github.com/cran/PPforest
+[submodule "PPtreeExt"]
+	path = PPtreeExt
+	url = https://github.com/cran/PPtreeExt
 [submodule "PPtreeViz"]
 	path = PPtreeViz
 	url = https://github.com/cran/PPtreeViz
@@ -17024,6 +17027,9 @@
 [submodule "SBMSplitMerge"]
 	path = SBMSplitMerge
 	url = https://github.com/cran/SBMSplitMerge
+[submodule "SBMTrees"]
+	path = SBMTrees
+	url = https://github.com/cran/SBMTrees
 [submodule "SBN"]
 	path = SBN
 	url = https://github.com/cran/SBN
@@ -23555,6 +23561,9 @@
 [submodule "bayesianVARs"]
 	path = bayesianVARs
 	url = https://github.com/cran/bayesianVARs
+[submodule "bayesics"]
+	path = bayesics
+	url = https://github.com/cran/bayesics
 [submodule "bayeslist"]
 	path = bayeslist
 	url = https://github.com/cran/bayeslist
@@ -26966,6 +26975,9 @@
 [submodule "clime"]
 	path = clime
 	url = https://github.com/cran/clime
+[submodule "climenu"]
+	path = climenu
+	url = https://github.com/cran/climenu
 [submodule "climetrics"]
 	path = climetrics
 	url = https://github.com/cran/climetrics
@@ -47693,6 +47705,9 @@
 [submodule "mortAAR"]
 	path = mortAAR
 	url = https://github.com/cran/mortAAR
+[submodule "mortSOA"]
+	path = mortSOA
+	url = https://github.com/cran/mortSOA
 [submodule "mos"]
 	path = mos
 	url = https://github.com/cran/mos
@@ -50081,6 +50096,9 @@
 [submodule "numform"]
 	path = numform
 	url = https://github.com/cran/numform
+[submodule "numspellR"]
+	path = numspellR
+	url = https://github.com/cran/numspellR
 [submodule "nutriNetwork"]
 	path = nutriNetwork
 	url = https://github.com/cran/nutriNetwork
@@ -55385,6 +55403,9 @@
 [submodule "quickPlot"]
 	path = quickPlot
 	url = https://github.com/cran/quickPlot
+[submodule "quickSentiment"]
+	path = quickSentiment
+	url = https://github.com/cran/quickSentiment
 [submodule "quickblock"]
 	path = quickblock
 	url = https://github.com/cran/quickblock
@@ -57428,6 +57449,9 @@
 [submodule "rerddapXtracto"]
 	path = rerddapXtracto
 	url = https://github.com/cran/rerddapXtracto
+[submodule "resLIK"]
+	path = resLIK
+	url = https://github.com/cran/resLIK
 [submodule "resample"]
 	path = resample
 	url = https://github.com/cran/resample
@@ -62606,6 +62630,9 @@
 [submodule "snpsettest"]
 	path = snpsettest
 	url = https://github.com/cran/snpsettest
+[submodule "snreg"]
+	path = snreg
+	url = https://github.com/cran/snreg
 [submodule "sns"]
 	path = sns
 	url = https://github.com/cran/sns
@@ -66347,6 +66374,9 @@
 [submodule "tidylda"]
 	path = tidylda
 	url = https://github.com/cran/tidylda
+[submodule "tidylearn"]
+	path = tidylearn
+	url = https://github.com/cran/tidylearn
 [submodule "tidyllm"]
 	path = tidyllm
 	url = https://github.com/cran/tidyllm
@@ -69731,6 +69761,9 @@
 [submodule "wintime"]
 	path = wintime
 	url = https://github.com/cran/wintime
+[submodule "wired"]
+	path = wired
+	url = https://github.com/cran/wired
 [submodule "wishmom"]
 	path = wishmom
 	url = https://github.com/cran/wishmom
