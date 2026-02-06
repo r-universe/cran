@@ -8426,9 +8426,6 @@
 [submodule "INetTool"]
 	path = INetTool
 	url = https://github.com/cran/INetTool
-[submodule "IOHanalyzer"]
-	path = IOHanalyzer
-	url = https://github.com/cran/IOHanalyzer
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
@@ -22025,9 +22022,6 @@
 [submodule "amen"]
 	path = amen
 	url = https://github.com/cran/amen
-[submodule "amerifluxr"]
-	path = amerifluxr
-	url = https://github.com/cran/amerifluxr
 [submodule "amerika"]
 	path = amerika
 	url = https://github.com/cran/amerika
@@ -37082,9 +37076,6 @@
 [submodule "geoscale"]
 	path = geoscale
 	url = https://github.com/cran/geoscale
-[submodule "geosed"]
-	path = geosed
-	url = https://github.com/cran/geosed
 [submodule "geosimilarity"]
 	path = geosimilarity
 	url = https://github.com/cran/geosimilarity
@@ -55205,9 +55196,6 @@
 [submodule "qtlnet"]
 	path = qtlnet
 	url = https://github.com/cran/qtlnet
-[submodule "qtlpoly"]
-	path = qtlpoly
-	url = https://github.com/cran/qtlpoly
 [submodule "qtwAcademic"]
 	path = qtwAcademic
 	url = https://github.com/cran/qtwAcademic
@@ -66071,9 +66059,6 @@
 [submodule "tgstat"]
 	path = tgstat
 	url = https://github.com/cran/tgstat
-[submodule "tgver"]
-	path = tgver
-	url = https://github.com/cran/tgver
 [submodule "thames"]
 	path = thames
 	url = https://github.com/cran/thames
