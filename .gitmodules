@@ -18743,6 +18743,9 @@
 [submodule "Spower"]
 	path = Spower
 	url = https://github.com/cran/Spower
+[submodule "SppTrend"]
+	path = SppTrend
+	url = https://github.com/cran/SppTrend
 [submodule "SpuriousMemory"]
 	path = SpuriousMemory
 	url = https://github.com/cran/SpuriousMemory
@@ -50771,6 +50774,9 @@
 [submodule "optimbase"]
 	path = optimbase
 	url = https://github.com/cran/optimbase
+[submodule "optimflex"]
+	path = optimflex
+	url = https://github.com/cran/optimflex
 [submodule "optimg"]
 	path = optimg
 	url = https://github.com/cran/optimg
@@ -56804,6 +56810,9 @@
 [submodule "readobj"]
 	path = readobj
 	url = https://github.com/cran/readobj
+[submodule "readosense"]
+	path = readosense
+	url = https://github.com/cran/readosense
 [submodule "readr"]
 	path = readr
 	url = https://github.com/cran/readr
