@@ -18623,9 +18623,6 @@
 [submodule "SpatialBSS"]
 	path = SpatialBSS
 	url = https://github.com/cran/SpatialBSS
-[submodule "SpatialDDLS"]
-	path = SpatialDDLS
-	url = https://github.com/cran/SpatialDDLS
 [submodule "SpatialDownscaling"]
 	path = SpatialDownscaling
 	url = https://github.com/cran/SpatialDownscaling
@@ -23798,9 +23795,6 @@
 [submodule "beans"]
 	path = beans
 	url = https://github.com/cran/beans
-[submodule "beanz"]
-	path = beanz
-	url = https://github.com/cran/beanz
 [submodule "bearishTrader"]
 	path = bearishTrader
 	url = https://github.com/cran/bearishTrader
@@ -28040,9 +28034,6 @@
 [submodule "conflicted"]
 	path = conflicted
 	url = https://github.com/cran/conflicted
-[submodule "conflr"]
-	path = conflr
-	url = https://github.com/cran/conflr
 [submodule "conformalClassification"]
 	path = conformalClassification
 	url = https://github.com/cran/conformalClassification
@@ -31397,9 +31388,6 @@
 [submodule "dosedesignR"]
 	path = dosedesignR
 	url = https://github.com/cran/dosedesignR
-[submodule "doseminer"]
-	path = doseminer
-	url = https://github.com/cran/doseminer
 [submodule "dosresmeta"]
 	path = dosresmeta
 	url = https://github.com/cran/dosresmeta
@@ -31631,9 +31619,6 @@
 [submodule "drugdevelopR"]
 	path = drugdevelopR
 	url = https://github.com/cran/drugdevelopR
-[submodule "drugprepr"]
-	path = drugprepr
-	url = https://github.com/cran/drugprepr
 [submodule "drugsens"]
 	path = drugsens
 	url = https://github.com/cran/drugsens
@@ -42023,9 +42008,6 @@
 [submodule "isotonic.pen"]
 	path = isotonic.pen
 	url = https://github.com/cran/isotonic.pen
-[submodule "isotracer"]
-	path = isotracer
-	url = https://github.com/cran/isotracer
 [submodule "isotree"]
 	path = isotree
 	url = https://github.com/cran/isotree
@@ -58691,9 +58673,6 @@
 [submodule "roseRF"]
 	path = roseRF
 	url = https://github.com/cran/roseRF
-[submodule "rosetteApi"]
-	path = rosetteApi
-	url = https://github.com/cran/rosetteApi
 [submodule "rosm"]
 	path = rosm
 	url = https://github.com/cran/rosm
