@@ -39038,9 +39038,6 @@
 [submodule "grpseq"]
 	path = grpseq
 	url = https://github.com/cran/grpseq
-[submodule "grr"]
-	path = grr
-	url = https://github.com/cran/grr
 [submodule "grt"]
 	path = grt
 	url = https://github.com/cran/grt
@@ -63311,9 +63308,6 @@
 [submodule "specklestar"]
 	path = specklestar
 	url = https://github.com/cran/specklestar
-[submodule "specleanr"]
-	path = specleanr
-	url = https://github.com/cran/specleanr
 [submodule "specr"]
 	path = specr
 	url = https://github.com/cran/specr
