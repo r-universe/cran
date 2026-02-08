@@ -58361,6 +58361,9 @@
 [submodule "rnrfa"]
 	path = rnrfa
 	url = https://github.com/cran/rnrfa
+[submodule "roadDB"]
+	path = roadDB
+	url = https://github.com/cran/roadDB
 [submodule "roadoi"]
 	path = roadoi
 	url = https://github.com/cran/roadoi
