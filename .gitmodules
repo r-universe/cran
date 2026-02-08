@@ -7883,6 +7883,9 @@
 [submodule "HTGM2D"]
 	path = HTGM2D
 	url = https://github.com/cran/HTGM2D
+[submodule "HTGM3D"]
+	path = HTGM3D
+	url = https://github.com/cran/HTGM3D
 [submodule "HTLR"]
 	path = HTLR
 	url = https://github.com/cran/HTLR
