@@ -57035,9 +57035,6 @@
 [submodule "ref.ICAR"]
 	path = ref.ICAR
 	url = https://github.com/cran/ref.ICAR
-[submodule "refdb"]
-	path = refdb
-	url = https://github.com/cran/refdb
 [submodule "refer"]
 	path = refer
 	url = https://github.com/cran/refer
