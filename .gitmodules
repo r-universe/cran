@@ -7838,6 +7838,9 @@
 [submodule "HMTL"]
 	path = HMTL
 	url = https://github.com/cran/HMTL
+[submodule "HNPclassifier"]
+	path = HNPclassifier
+	url = https://github.com/cran/HNPclassifier
 [submodule "HOIFCar"]
 	path = HOIFCar
 	url = https://github.com/cran/HOIFCar
@@ -14276,6 +14279,9 @@
 [submodule "QuantileNPCI"]
 	path = QuantileNPCI
 	url = https://github.com/cran/QuantileNPCI
+[submodule "QuantileOnQuantile"]
+	path = QuantileOnQuantile
+	url = https://github.com/cran/QuantileOnQuantile
 [submodule "QuantilePeer"]
 	path = QuantilePeer
 	url = https://github.com/cran/QuantilePeer
@@ -25370,6 +25376,9 @@
 [submodule "bunchr"]
 	path = bunchr
 	url = https://github.com/cran/bunchr
+[submodule "bunddev"]
+	path = bunddev
+	url = https://github.com/cran/bunddev
 [submodule "bundesbank"]
 	path = bundesbank
 	url = https://github.com/cran/bundesbank
@@ -36161,6 +36170,9 @@
 [submodule "fuzzylink"]
 	path = fuzzylink
 	url = https://github.com/cran/fuzzylink
+[submodule "fuzzystring"]
+	path = fuzzystring
+	url = https://github.com/cran/fuzzystring
 [submodule "fuzzywuzzyR"]
 	path = fuzzywuzzyR
 	url = https://github.com/cran/fuzzywuzzyR
@@ -60116,6 +60128,9 @@
 [submodule "scaleAlign"]
 	path = scaleAlign
 	url = https://github.com/cran/scaleAlign
+[submodule "scaledescr"]
+	path = scaledescr
+	url = https://github.com/cran/scaledescr
 [submodule "scales"]
 	path = scales
 	url = https://github.com/cran/scales
@@ -61316,6 +61331,9 @@
 [submodule "shinyDatetimePickers"]
 	path = shinyDatetimePickers
 	url = https://github.com/cran/shinyDatetimePickers
+[submodule "shinyEditor"]
+	path = shinyEditor
+	url = https://github.com/cran/shinyEditor
 [submodule "shinyEffects"]
 	path = shinyEffects
 	url = https://github.com/cran/shinyEffects
