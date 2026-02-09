@@ -6614,6 +6614,9 @@
 [submodule "GARCOM"]
 	path = GARCOM
 	url = https://github.com/cran/GARCOM
+[submodule "GAReg"]
+	path = GAReg
+	url = https://github.com/cran/GAReg
 [submodule "GAS"]
 	path = GAS
 	url = https://github.com/cran/GAS
@@ -22358,6 +22361,9 @@
 [submodule "apportion"]
 	path = apportion
 	url = https://github.com/cran/apportion
+[submodule "appraise"]
+	path = appraise
+	url = https://github.com/cran/appraise
 [submodule "approxOT"]
 	path = approxOT
 	url = https://github.com/cran/approxOT
@@ -32600,6 +32606,9 @@
 [submodule "eglhmm"]
 	path = eglhmm
 	url = https://github.com/cran/eglhmm
+[submodule "egnyte"]
+	path = egnyte
+	url = https://github.com/cran/egnyte
 [submodule "egor"]
 	path = egor
 	url = https://github.com/cran/egor
@@ -37631,6 +37640,9 @@
 [submodule "ggmix"]
 	path = ggmix
 	url = https://github.com/cran/ggmix
+[submodule "ggmlR"]
+	path = ggmlR
+	url = https://github.com/cran/ggmlR
 [submodule "ggmr"]
 	path = ggmr
 	url = https://github.com/cran/ggmr
@@ -39698,6 +39710,9 @@
 [submodule "healthyverse"]
 	path = healthyverse
 	url = https://github.com/cran/healthyverse
+[submodule "heaping"]
+	path = heaping
+	url = https://github.com/cran/heaping
 [submodule "heapsofpapers"]
 	path = heapsofpapers
 	url = https://github.com/cran/heapsofpapers
@@ -39776,6 +39791,9 @@
 [submodule "helsinki"]
 	path = helsinki
 	url = https://github.com/cran/helsinki
+[submodule "hemat"]
+	path = hemat
+	url = https://github.com/cran/hemat
 [submodule "hemispheR"]
 	path = hemispheR
 	url = https://github.com/cran/hemispheR
@@ -48290,6 +48308,9 @@
 [submodule "multigraphr"]
 	path = multigraphr
 	url = https://github.com/cran/multigraphr
+[submodule "multigroup.vaccine"]
+	path = multigroup.vaccine
+	url = https://github.com/cran/multigroup.vaccine
 [submodule "multilandr"]
 	path = multilandr
 	url = https://github.com/cran/multilandr
@@ -67091,6 +67112,9 @@
 [submodule "tosr"]
 	path = tosr
 	url = https://github.com/cran/tosr
+[submodule "tost.suite"]
+	path = tost.suite
+	url = https://github.com/cran/tost.suite
 [submodule "totalcensus"]
 	path = totalcensus
 	url = https://github.com/cran/totalcensus
