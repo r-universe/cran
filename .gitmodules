@@ -10949,6 +10949,9 @@
 [submodule "MatrixModels"]
 	path = MatrixModels
 	url = https://github.com/cran/MatrixModels
+[submodule "MaxIntTools"]
+	path = MaxIntTools
+	url = https://github.com/cran/MaxIntTools
 [submodule "MaxMC"]
 	path = MaxMC
 	url = https://github.com/cran/MaxMC
@@ -28364,6 +28367,9 @@
 [submodule "coreSim"]
 	path = coreSim
 	url = https://github.com/cran/coreSim
+[submodule "coreheat"]
+	path = coreheat
+	url = https://github.com/cran/coreheat
 [submodule "corehunter"]
 	path = corehunter
 	url = https://github.com/cran/corehunter
@@ -64166,6 +64172,9 @@
 [submodule "statswalesr"]
 	path = statswalesr
 	url = https://github.com/cran/statswalesr
+[submodule "statuser"]
+	path = statuser
+	url = https://github.com/cran/statuser
 [submodule "stbl"]
 	path = stbl
 	url = https://github.com/cran/stbl
@@ -66974,6 +66983,9 @@
 [submodule "toon"]
 	path = toon
 	url = https://github.com/cran/toon
+[submodule "toonlite"]
+	path = toonlite
+	url = https://github.com/cran/toonlite
 [submodule "topChef"]
 	path = topChef
 	url = https://github.com/cran/topChef
