@@ -7934,6 +7934,9 @@
 [submodule "HaDeX"]
 	path = HaDeX
 	url = https://github.com/cran/HaDeX
+[submodule "HaDeX2"]
+	path = HaDeX2
+	url = https://github.com/cran/HaDeX2
 [submodule "HadIBDs"]
 	path = HadIBDs
 	url = https://github.com/cran/HadIBDs
@@ -44597,6 +44600,9 @@
 [submodule "lpl"]
 	path = lpl
 	url = https://github.com/cran/lpl
+[submodule "lpmec"]
+	path = lpmec
+	url = https://github.com/cran/lpmec
 [submodule "lpridge"]
 	path = lpridge
 	url = https://github.com/cran/lpridge
@@ -48560,6 +48566,9 @@
 [submodule "mverse"]
 	path = mverse
 	url = https://github.com/cran/mverse
+[submodule "mvfmr"]
+	path = mvfmr
+	url = https://github.com/cran/mvfmr
 [submodule "mvgam"]
 	path = mvgam
 	url = https://github.com/cran/mvgam
@@ -50279,6 +50288,9 @@
 [submodule "ocp"]
 	path = ocp
 	url = https://github.com/cran/ocp
+[submodule "ocrRBBR"]
+	path = ocrRBBR
+	url = https://github.com/cran/ocrRBBR
 [submodule "ocs4R"]
 	path = ocs4R
 	url = https://github.com/cran/ocs4R
@@ -50396,6 +50408,9 @@
 [submodule "ohun"]
 	path = ohun
 	url = https://github.com/cran/ohun
+[submodule "ohvbd"]
+	path = ohvbd
+	url = https://github.com/cran/ohvbd
 [submodule "oii"]
 	path = oii
 	url = https://github.com/cran/oii
@@ -65354,6 +65369,9 @@
 [submodule "tab2xml"]
 	path = tab2xml
 	url = https://github.com/cran/tab2xml
+[submodule "tabbitR"]
+	path = tabbitR
+	url = https://github.com/cran/tabbitR
 [submodule "tabbycat"]
 	path = tabbycat
 	url = https://github.com/cran/tabbycat
