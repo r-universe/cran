@@ -35303,9 +35303,6 @@
 [submodule "flowmapper"]
 	path = flowmapper
 	url = https://github.com/cran/flowmapper
-[submodule "flowml"]
-	path = flowml
-	url = https://github.com/cran/flowml
 [submodule "flownet"]
 	path = flownet
 	url = https://github.com/cran/flownet
@@ -47675,9 +47672,6 @@
 [submodule "mopac"]
 	path = mopac
 	url = https://github.com/cran/mopac
-[submodule "moreparty"]
-	path = moreparty
-	url = https://github.com/cran/moreparty
 [submodule "morepls"]
 	path = morepls
 	url = https://github.com/cran/morepls
@@ -50024,6 +50018,9 @@
 [submodule "nscancor"]
 	path = nscancor
 	url = https://github.com/cran/nscancor
+[submodule "nse"]
+	path = nse
+	url = https://github.com/cran/nse
 [submodule "nseq"]
 	path = nseq
 	url = https://github.com/cran/nseq
@@ -54068,9 +54065,6 @@
 [submodule "prettydoc"]
 	path = prettydoc
 	url = https://github.com/cran/prettydoc
-[submodule "prettyglm"]
-	path = prettyglm
-	url = https://github.com/cran/prettyglm
 [submodule "prettymapr"]
 	path = prettymapr
 	url = https://github.com/cran/prettymapr
