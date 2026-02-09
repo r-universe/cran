@@ -413,6 +413,9 @@
 [submodule "AUC"]
 	path = AUC
 	url = https://github.com/cran/AUC
+[submodule "AUKtest"]
+	path = AUKtest
+	url = https://github.com/cran/AUKtest
 [submodule "AUtests"]
 	path = AUtests
 	url = https://github.com/cran/AUtests
@@ -27893,6 +27896,9 @@
 [submodule "compositeReliabilityInNestedDesigns"]
 	path = compositeReliabilityInNestedDesigns
 	url = https://github.com/cran/compositeReliabilityInNestedDesigns
+[submodule "compositional.mle"]
+	path = compositional.mle
+	url = https://github.com/cran/compositional.mle
 [submodule "compositions"]
 	path = compositions
 	url = https://github.com/cran/compositions
