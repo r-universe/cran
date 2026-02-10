@@ -45872,6 +45872,9 @@
 [submodule "measuRing"]
 	path = measuRing
 	url = https://github.com/cran/measuRing
+[submodule "measureR"]
+	path = measureR
+	url = https://github.com/cran/measureR
 [submodule "measurementProtocol"]
 	path = measurementProtocol
 	url = https://github.com/cran/measurementProtocol
@@ -48779,6 +48782,9 @@
 [submodule "naaccr"]
 	path = naaccr
 	url = https://github.com/cran/naaccr
+[submodule "nabla"]
+	path = nabla
+	url = https://github.com/cran/nabla
 [submodule "nabor"]
 	path = nabor
 	url = https://github.com/cran/nabor
@@ -55739,6 +55745,9 @@
 [submodule "rENA"]
 	path = rENA
 	url = https://github.com/cran/rENA
+[submodule "rFAMS"]
+	path = rFAMS
+	url = https://github.com/cran/rFAMS
 [submodule "rFDP"]
 	path = rFDP
 	url = https://github.com/cran/rFDP
