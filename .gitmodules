@@ -1004,6 +1004,9 @@
 [submodule "BCEE"]
 	path = BCEE
 	url = https://github.com/cran/BCEE
+[submodule "BCFM"]
+	path = BCFM
+	url = https://github.com/cran/BCFM
 [submodule "BCHM"]
 	path = BCHM
 	url = https://github.com/cran/BCHM
@@ -9770,6 +9773,9 @@
 [submodule "LipinskiFilters"]
 	path = LipinskiFilters
 	url = https://github.com/cran/LipinskiFilters
+[submodule "LitFetchR"]
+	path = LitFetchR
+	url = https://github.com/cran/LitFetchR
 [submodule "Lmoments"]
 	path = Lmoments
 	url = https://github.com/cran/Lmoments
@@ -13760,6 +13766,9 @@
 [submodule "PolyHaplotyper"]
 	path = PolyHaplotyper
 	url = https://github.com/cran/PolyHaplotyper
+[submodule "PolyMigR"]
+	path = PolyMigR
+	url = https://github.com/cran/PolyMigR
 [submodule "PolyPatEx"]
 	path = PolyPatEx
 	url = https://github.com/cran/PolyPatEx
@@ -22466,6 +22475,9 @@
 [submodule "archiDART"]
 	path = archiDART
 	url = https://github.com/cran/archiDART
+[submodule "archipelago"]
+	path = archipelago
+	url = https://github.com/cran/archipelago
 [submodule "archive"]
 	path = archive
 	url = https://github.com/cran/archive
@@ -27083,6 +27095,9 @@
 [submodule "clmplus"]
 	path = clmplus
 	url = https://github.com/cran/clmplus
+[submodule "clmstan"]
+	path = clmstan
+	url = https://github.com/cran/clmstan
 [submodule "clock"]
 	path = clock
 	url = https://github.com/cran/clock
@@ -66245,6 +66260,9 @@
 [submodule "thurstonianIRT"]
 	path = thurstonianIRT
 	url = https://github.com/cran/thurstonianIRT
+[submodule "ti"]
+	path = ti
+	url = https://github.com/cran/ti
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/cran/tibble
