@@ -2645,9 +2645,6 @@
 [submodule "CP"]
 	path = CP
 	url = https://github.com/cran/CP
-[submodule "CPAT"]
-	path = CPAT
-	url = https://github.com/cran/CPAT
 [submodule "CPBayes"]
 	path = CPBayes
 	url = https://github.com/cran/CPBayes
@@ -25886,9 +25883,6 @@
 [submodule "casimir"]
 	path = casimir
 	url = https://github.com/cran/casimir
-[submodule "casino"]
-	path = casino
-	url = https://github.com/cran/casino
 [submodule "cassandRa"]
 	path = cassandRa
 	url = https://github.com/cran/cassandRa
@@ -42758,9 +42752,6 @@
 [submodule "kerasnip"]
 	path = kerasnip
 	url = https://github.com/cran/kerasnip
-[submodule "kerastuneR"]
-	path = kerastuneR
-	url = https://github.com/cran/kerastuneR
 [submodule "kerdiest"]
 	path = kerdiest
 	url = https://github.com/cran/kerdiest
@@ -47474,9 +47465,6 @@
 [submodule "modehunt"]
 	path = modehunt
 	url = https://github.com/cran/modehunt
-[submodule "model4you"]
-	path = model4you
-	url = https://github.com/cran/model4you
 [submodule "modelDown"]
 	path = modelDown
 	url = https://github.com/cran/modelDown
@@ -48062,9 +48050,6 @@
 [submodule "msir"]
 	path = msir
 	url = https://github.com/cran/msir
-[submodule "mskcc.oncotree"]
-	path = mskcc.oncotree
-	url = https://github.com/cran/mskcc.oncotree
 [submodule "msltrend"]
 	path = msltrend
 	url = https://github.com/cran/msltrend
@@ -55517,9 +55502,6 @@
 [submodule "quiltr"]
 	path = quiltr
 	url = https://github.com/cran/quiltr
-[submodule "quincunx"]
-	path = quincunx
-	url = https://github.com/cran/quincunx
 [submodule "quint"]
 	path = quint
 	url = https://github.com/cran/quint
@@ -64400,9 +64382,6 @@
 [submodule "stminsights"]
 	path = stminsights
 	url = https://github.com/cran/stminsights
-[submodule "stoRy"]
-	path = stoRy
-	url = https://github.com/cran/stoRy
 [submodule "stocc"]
 	path = stocc
 	url = https://github.com/cran/stocc
@@ -66344,9 +66323,6 @@
 [submodule "tidybayes"]
 	path = tidybayes
 	url = https://github.com/cran/tidybayes
-[submodule "tidybins"]
-	path = tidybins
-	url = https://github.com/cran/tidybins
 [submodule "tidyboot"]
 	path = tidyboot
 	url = https://github.com/cran/tidyboot
@@ -70592,9 +70568,6 @@
 [submodule "zipR"]
 	path = zipR
 	url = https://github.com/cran/zipR
-[submodule "zipangu"]
-	path = zipangu
-	url = https://github.com/cran/zipangu
 [submodule "zipcodeR"]
 	path = zipcodeR
 	url = https://github.com/cran/zipcodeR
