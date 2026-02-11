@@ -4595,6 +4595,9 @@
 [submodule "DepLogo"]
 	path = DepLogo
 	url = https://github.com/cran/DepLogo
+[submodule "DepMod"]
+	path = DepMod
+	url = https://github.com/cran/DepMod
 [submodule "DepthProc"]
 	path = DepthProc
 	url = https://github.com/cran/DepthProc
@@ -19346,6 +19349,9 @@
 [submodule "THREC"]
 	path = THREC
 	url = https://github.com/cran/THREC
+[submodule "TICM"]
+	path = TICM
+	url = https://github.com/cran/TICM
 [submodule "TIGERr"]
 	path = TIGERr
 	url = https://github.com/cran/TIGERr
@@ -21593,6 +21599,9 @@
 [submodule "aelab"]
 	path = aelab
 	url = https://github.com/cran/aelab
+[submodule "aesopR"]
+	path = aesopR
+	url = https://github.com/cran/aesopR
 [submodule "afc"]
 	path = afc
 	url = https://github.com/cran/afc
@@ -27386,6 +27395,9 @@
 [submodule "cnd"]
 	path = cnd
 	url = https://github.com/cran/cnd
+[submodule "cnefetools"]
+	path = cnefetools
+	url = https://github.com/cran/cnefetools
 [submodule "cnmap"]
 	path = cnmap
 	url = https://github.com/cran/cnmap
@@ -31760,6 +31772,9 @@
 [submodule "dtangle"]
 	path = dtangle
 	url = https://github.com/cran/dtangle
+[submodule "dtaudit"]
+	path = dtaudit
+	url = https://github.com/cran/dtaudit
 [submodule "dtgiw"]
 	path = dtgiw
 	url = https://github.com/cran/dtgiw
@@ -35003,6 +35018,9 @@
 [submodule "firestorm"]
 	path = firestorm
 	url = https://github.com/cran/firestorm
+[submodule "firmmatchr"]
+	path = firmmatchr
+	url = https://github.com/cran/firmmatchr
 [submodule "first"]
 	path = first
 	url = https://github.com/cran/first
@@ -36971,6 +36989,9 @@
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/cran/geoarrow
+[submodule "geobounds"]
+	path = geobounds
+	url = https://github.com/cran/geobounds
 [submodule "geobr"]
 	path = geobr
 	url = https://github.com/cran/geobr
@@ -42149,6 +42170,9 @@
 [submodule "iucnr"]
 	path = iucnr
 	url = https://github.com/cran/iucnr
+[submodule "iv.sensemakr"]
+	path = iv.sensemakr
+	url = https://github.com/cran/iv.sensemakr
 [submodule "ivDiag"]
 	path = ivDiag
 	url = https://github.com/cran/ivDiag
@@ -53003,6 +53027,9 @@
 [submodule "plac"]
 	path = plac
 	url = https://github.com/cran/plac
+[submodule "placematchr"]
+	path = placematchr
+	url = https://github.com/cran/placematchr
 [submodule "placer"]
 	path = placer
 	url = https://github.com/cran/placer
@@ -61955,6 +61982,9 @@
 [submodule "simest"]
 	path = simest
 	url = https://github.com/cran/simest
+[submodule "simevent"]
+	path = simevent
+	url = https://github.com/cran/simevent
 [submodule "simex"]
 	path = simex
 	url = https://github.com/cran/simex
