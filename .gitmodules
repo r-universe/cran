@@ -43904,6 +43904,9 @@
 [submodule "likelihood"]
 	path = likelihood
 	url = https://github.com/cran/likelihood
+[submodule "likelihood.model"]
+	path = likelihood.model
+	url = https://github.com/cran/likelihood.model
 [submodule "likelihoodAsy"]
 	path = likelihoodAsy
 	url = https://github.com/cran/likelihoodAsy
