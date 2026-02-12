@@ -3053,6 +3053,9 @@
 [submodule "ChillModels"]
 	path = ChillModels
 	url = https://github.com/cran/ChillModels
+[submodule "ChinAPIs"]
+	path = ChinAPIs
+	url = https://github.com/cran/ChinAPIs
 [submodule "ChineseNames"]
 	path = ChineseNames
 	url = https://github.com/cran/ChineseNames
@@ -27497,6 +27500,9 @@
 [submodule "codeCollection"]
 	path = codeCollection
 	url = https://github.com/cran/codeCollection
+[submodule "codebookr"]
+	path = codebookr
+	url = https://github.com/cran/codebookr
 [submodule "codebreaker"]
 	path = codebreaker
 	url = https://github.com/cran/codebreaker
@@ -53381,6 +53387,9 @@
 [submodule "pmml"]
 	path = pmml
 	url = https://github.com/cran/pmml
+[submodule "pmmlTransformations"]
+	path = pmmlTransformations
+	url = https://github.com/cran/pmmlTransformations
 [submodule "pmparser"]
 	path = pmparser
 	url = https://github.com/cran/pmparser
