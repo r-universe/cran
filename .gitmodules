@@ -39083,6 +39083,9 @@
 [submodule "growthPheno"]
 	path = growthPheno
 	url = https://github.com/cran/growthPheno
+[submodule "growthTrendR"]
+	path = growthTrendR
+	url = https://github.com/cran/growthTrendR
 [submodule "growthcleanr"]
 	path = growthcleanr
 	url = https://github.com/cran/growthcleanr
