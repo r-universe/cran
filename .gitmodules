@@ -1592,6 +1592,9 @@
 [submodule "BayesNetBP"]
 	path = BayesNetBP
 	url = https://github.com/cran/BayesNetBP
+[submodule "BayesPET"]
+	path = BayesPET
+	url = https://github.com/cran/BayesPET
 [submodule "BayesPIM"]
 	path = BayesPIM
 	url = https://github.com/cran/BayesPIM
@@ -2210,6 +2213,9 @@
 [submodule "CASCORE"]
 	path = CASCORE
 	url = https://github.com/cran/CASCORE
+[submodule "CASIdata"]
+	path = CASIdata
+	url = https://github.com/cran/CASIdata
 [submodule "CASMAP"]
 	path = CASMAP
 	url = https://github.com/cran/CASMAP
@@ -3047,9 +3053,6 @@
 [submodule "ChillModels"]
 	path = ChillModels
 	url = https://github.com/cran/ChillModels
-[submodule "ChinAPIs"]
-	path = ChinAPIs
-	url = https://github.com/cran/ChinAPIs
 [submodule "ChineseNames"]
 	path = ChineseNames
 	url = https://github.com/cran/ChineseNames
@@ -20495,6 +20498,9 @@
 [submodule "VineCopula"]
 	path = VineCopula
 	url = https://github.com/cran/VineCopula
+[submodule "ViroReportR"]
+	path = ViroReportR
+	url = https://github.com/cran/ViroReportR
 [submodule "VirtualPop"]
 	path = VirtualPop
 	url = https://github.com/cran/VirtualPop
@@ -27491,9 +27497,6 @@
 [submodule "codeCollection"]
 	path = codeCollection
 	url = https://github.com/cran/codeCollection
-[submodule "codebookr"]
-	path = codebookr
-	url = https://github.com/cran/codebookr
 [submodule "codebreaker"]
 	path = codebreaker
 	url = https://github.com/cran/codebreaker
@@ -35213,6 +35216,9 @@
 [submodule "flex"]
 	path = flex
 	url = https://github.com/cran/flex
+[submodule "flexBART"]
+	path = flexBART
+	url = https://github.com/cran/flexBART
 [submodule "flexBCF"]
 	path = flexBCF
 	url = https://github.com/cran/flexBCF
@@ -38555,6 +38561,9 @@
 [submodule "golem"]
 	path = golem
 	url = https://github.com/cran/golem
+[submodule "golfastr"]
+	path = golfastr
+	url = https://github.com/cran/golfastr
 [submodule "golfr"]
 	path = golfr
 	url = https://github.com/cran/golfr
@@ -38636,6 +38645,9 @@
 [submodule "goric"]
 	path = goric
 	url = https://github.com/cran/goric
+[submodule "gorica"]
+	path = gorica
+	url = https://github.com/cran/gorica
 [submodule "gosset"]
 	path = gosset
 	url = https://github.com/cran/gosset
@@ -43187,6 +43199,9 @@
 [submodule "kvkapiR"]
 	path = kvkapiR
 	url = https://github.com/cran/kvkapiR
+[submodule "kvr2"]
+	path = kvr2
+	url = https://github.com/cran/kvr2
 [submodule "kyotil"]
 	path = kyotil
 	url = https://github.com/cran/kyotil
@@ -45884,6 +45899,9 @@
 [submodule "meantables"]
 	path = meantables
 	url = https://github.com/cran/meantables
+[submodule "measles"]
+	path = measles
+	url = https://github.com/cran/measles
 [submodule "measr"]
 	path = measr
 	url = https://github.com/cran/measr
@@ -47036,6 +47054,9 @@
 [submodule "mixpoissonreg"]
 	path = mixpoissonreg
 	url = https://github.com/cran/mixpoissonreg
+[submodule "mixpower"]
+	path = mixpower
+	url = https://github.com/cran/mixpower
 [submodule "mixsmsn"]
 	path = mixsmsn
 	url = https://github.com/cran/mixsmsn
@@ -53360,9 +53381,6 @@
 [submodule "pmml"]
 	path = pmml
 	url = https://github.com/cran/pmml
-[submodule "pmmlTransformations"]
-	path = pmmlTransformations
-	url = https://github.com/cran/pmmlTransformations
 [submodule "pmparser"]
 	path = pmparser
 	url = https://github.com/cran/pmparser
@@ -63902,6 +63920,9 @@
 [submodule "sship"]
 	path = sship
 	url = https://github.com/cran/sship
+[submodule "sshist"]
+	path = sshist
+	url = https://github.com/cran/sshist
 [submodule "ssifs"]
 	path = ssifs
 	url = https://github.com/cran/ssifs
@@ -66467,6 +66488,9 @@
 [submodule "tidyklips"]
 	path = tidyklips
 	url = https://github.com/cran/tidyklips
+[submodule "tidylaslog"]
+	path = tidylaslog
+	url = https://github.com/cran/tidylaslog
 [submodule "tidylda"]
 	path = tidylda
 	url = https://github.com/cran/tidylda
@@ -66854,6 +66878,9 @@
 [submodule "tis"]
 	path = tis
 	url = https://github.com/cran/tis
+[submodule "tissot"]
+	path = tissot
+	url = https://github.com/cran/tissot
 [submodule "titanic"]
 	path = titanic
 	url = https://github.com/cran/titanic
