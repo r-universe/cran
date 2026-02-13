@@ -2291,6 +2291,9 @@
 [submodule "CCMMR"]
 	path = CCMMR
 	url = https://github.com/cran/CCMMR
+[submodule "CCMnet"]
+	path = CCMnet
+	url = https://github.com/cran/CCMnet
 [submodule "CCP"]
 	path = CCP
 	url = https://github.com/cran/CCP
@@ -10226,6 +10229,9 @@
 [submodule "MFDFA"]
 	path = MFDFA
 	url = https://github.com/cran/MFDFA
+[submodule "MFF"]
+	path = MFF
+	url = https://github.com/cran/MFF
 [submodule "MFO"]
 	path = MFO
 	url = https://github.com/cran/MFO
@@ -16304,6 +16310,9 @@
 [submodule "RegSDC"]
 	path = RegSDC
 	url = https://github.com/cran/RegSDC
+[submodule "RegimeChange"]
+	path = RegimeChange
+	url = https://github.com/cran/RegimeChange
 [submodule "RegionalConsistency"]
 	path = RegionalConsistency
 	url = https://github.com/cran/RegionalConsistency
@@ -26318,6 +26327,9 @@
 [submodule "cepiigeodist"]
 	path = cepiigeodist
 	url = https://github.com/cran/cepiigeodist
+[submodule "cepiweek"]
+	path = cepiweek
+	url = https://github.com/cran/cepiweek
 [submodule "cepp"]
 	path = cepp
 	url = https://github.com/cran/cepp
@@ -56330,6 +56342,9 @@
 [submodule "rareNMtests"]
 	path = rareNMtests
 	url = https://github.com/cran/rareNMtests
+[submodule "rareflow"]
+	path = rareflow
+	url = https://github.com/cran/rareflow
 [submodule "rarestR"]
 	path = rarestR
 	url = https://github.com/cran/rarestR
@@ -60353,6 +60368,9 @@
 [submodule "scholar"]
 	path = scholar
 	url = https://github.com/cran/scholar
+[submodule "scholid"]
+	path = scholid
+	url = https://github.com/cran/scholid
 [submodule "schoolmath"]
 	path = schoolmath
 	url = https://github.com/cran/schoolmath
@@ -66371,6 +66389,9 @@
 [submodule "tidyHeatmap"]
 	path = tidyHeatmap
 	url = https://github.com/cran/tidyHeatmap
+[submodule "tidyILD"]
+	path = tidyILD
+	url = https://github.com/cran/tidyILD
 [submodule "tidyLPA"]
 	path = tidyLPA
 	url = https://github.com/cran/tidyLPA
