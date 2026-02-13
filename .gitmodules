@@ -13280,6 +13280,9 @@
 [submodule "PTERP"]
 	path = PTERP
 	url = https://github.com/cran/PTERP
+[submodule "PTSDdiag"]
+	path = PTSDdiag
+	url = https://github.com/cran/PTSDdiag
 [submodule "PTSR"]
 	path = PTSR
 	url = https://github.com/cran/PTSR
@@ -46481,6 +46484,9 @@
 [submodule "mhcnuggetsr"]
 	path = mhcnuggetsr
 	url = https://github.com/cran/mhcnuggetsr
+[submodule "mhpfilter"]
+	path = mhpfilter
+	url = https://github.com/cran/mhpfilter
 [submodule "mhsmm"]
 	path = mhsmm
 	url = https://github.com/cran/mhsmm
