@@ -2873,6 +2873,9 @@
 [submodule "Capsule"]
 	path = Capsule
 	url = https://github.com/cran/Capsule
+[submodule "CardiacDP"]
+	path = CardiacDP
+	url = https://github.com/cran/CardiacDP
 [submodule "CardioCurveR"]
 	path = CardioCurveR
 	url = https://github.com/cran/CardioCurveR
@@ -10169,6 +10172,9 @@
 [submodule "MDSS"]
 	path = MDSS
 	url = https://github.com/cran/MDSS
+[submodule "MDgof"]
+	path = MDgof
+	url = https://github.com/cran/MDgof
 [submodule "MDimNormn"]
 	path = MDimNormn
 	url = https://github.com/cran/MDimNormn
@@ -11612,9 +11618,6 @@
 [submodule "NAEPprimer"]
 	path = NAEPprimer
 	url = https://github.com/cran/NAEPprimer
-[submodule "NAIR"]
-	path = NAIR
-	url = https://github.com/cran/NAIR
 [submodule "NAM"]
 	path = NAM
 	url = https://github.com/cran/NAM
@@ -27821,9 +27824,6 @@
 [submodule "comclim"]
 	path = comclim
 	url = https://github.com/cran/comclim
-[submodule "cometExactTest"]
-	path = cometExactTest
-	url = https://github.com/cran/cometExactTest
 [submodule "cometr"]
 	path = cometr
 	url = https://github.com/cran/cometr
@@ -30293,6 +30293,9 @@
 [submodule "deflist"]
 	path = deflist
 	url = https://github.com/cran/deflist
+[submodule "defm"]
+	path = defm
+	url = https://github.com/cran/defm
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
@@ -41138,6 +41141,9 @@
 [submodule "ijtiff"]
 	path = ijtiff
 	url = https://github.com/cran/ijtiff
+[submodule "il.cbs.muni"]
+	path = il.cbs.muni
+	url = https://github.com/cran/il.cbs.muni
 [submodule "ilabelled"]
 	path = ilabelled
 	url = https://github.com/cran/ilabelled
@@ -68486,6 +68492,9 @@
 [submodule "usdoj"]
 	path = usdoj
 	url = https://github.com/cran/usdoj
+[submodule "usearchlite"]
+	path = usearchlite
+	url = https://github.com/cran/usearchlite
 [submodule "usedist"]
 	path = usedist
 	url = https://github.com/cran/usedist
