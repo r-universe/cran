@@ -38846,6 +38846,9 @@
 [submodule "graph4lg"]
 	path = graph4lg
 	url = https://github.com/cran/graph4lg
+[submodule "graphPAF"]
+	path = graphPAF
+	url = https://github.com/cran/graphPAF
 [submodule "graphclust"]
 	path = graphclust
 	url = https://github.com/cran/graphclust
