@@ -34355,6 +34355,9 @@
 [submodule "fastPLS"]
 	path = fastPLS
 	url = https://github.com/cran/fastPLS
+[submodule "fastQR"]
+	path = fastQR
+	url = https://github.com/cran/fastQR
 [submodule "fastR2"]
 	path = fastR2
 	url = https://github.com/cran/fastR2
