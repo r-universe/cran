@@ -23699,6 +23699,9 @@
 [submodule "baymedr"]
 	path = baymedr
 	url = https://github.com/cran/baymedr
+[submodule "bayou"]
+	path = bayou
+	url = https://github.com/cran/bayou
 [submodule "baystability"]
 	path = baystability
 	url = https://github.com/cran/baystability
