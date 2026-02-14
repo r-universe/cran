@@ -50252,6 +50252,9 @@
 [submodule "nvmix"]
 	path = nvmix
 	url = https://github.com/cran/nvmix
+[submodule "nycOpenData"]
+	path = nycOpenData
+	url = https://github.com/cran/nycOpenData
 [submodule "nycflights13"]
 	path = nycflights13
 	url = https://github.com/cran/nycflights13
