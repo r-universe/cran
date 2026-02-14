@@ -9872,12 +9872,6 @@
 [submodule "LowRankQP"]
 	path = LowRankQP
 	url = https://github.com/cran/LowRankQP
-[submodule "LowWAFOMNX"]
-	path = LowWAFOMNX
-	url = https://github.com/cran/LowWAFOMNX
-[submodule "LowWAFOMSobol"]
-	path = LowWAFOMSobol
-	url = https://github.com/cran/LowWAFOMSobol
 [submodule "LqG"]
 	path = LqG
 	url = https://github.com/cran/LqG
@@ -30278,9 +30272,6 @@
 [submodule "deepnet"]
 	path = deepnet
 	url = https://github.com/cran/deepnet
-[submodule "deepredeff"]
-	path = deepredeff
-	url = https://github.com/cran/deepredeff
 [submodule "deepregression"]
 	path = deepregression
 	url = https://github.com/cran/deepregression
@@ -63503,9 +63494,6 @@
 [submodule "spectralR"]
 	path = spectralR
 	url = https://github.com/cran/spectralR
-[submodule "spectre"]
-	path = spectre
-	url = https://github.com/cran/spectre
 [submodule "spectrolab"]
 	path = spectrolab
 	url = https://github.com/cran/spectrolab
