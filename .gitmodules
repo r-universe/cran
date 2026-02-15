@@ -3305,9 +3305,6 @@
 [submodule "CodataGS"]
 	path = CodataGS
 	url = https://github.com/cran/CodataGS
-[submodule "CodeDepends"]
-	path = CodeDepends
-	url = https://github.com/cran/CodeDepends
 [submodule "CodelistGenerator"]
 	path = CodelistGenerator
 	url = https://github.com/cran/CodelistGenerator
@@ -5096,9 +5093,6 @@
 [submodule "EHRmuse"]
 	path = EHRmuse
 	url = https://github.com/cran/EHRmuse
-[submodule "EHRtemporalVariability"]
-	path = EHRtemporalVariability
-	url = https://github.com/cran/EHRtemporalVariability
 [submodule "EIAapi"]
 	path = EIAapi
 	url = https://github.com/cran/EIAapi
@@ -9335,9 +9329,6 @@
 [submodule "LFDREmpiricalBayes"]
 	path = LFDREmpiricalBayes
 	url = https://github.com/cran/LFDREmpiricalBayes
-[submodule "LFM"]
-	path = LFM
-	url = https://github.com/cran/LFM
 [submodule "LGCU"]
 	path = LGCU
 	url = https://github.com/cran/LGCU
@@ -9368,9 +9359,6 @@
 [submodule "LKT"]
 	path = LKT
 	url = https://github.com/cran/LKT
-[submodule "LLIC"]
-	path = LLIC
-	url = https://github.com/cran/LLIC
 [submodule "LLM"]
 	path = LLM
 	url = https://github.com/cran/LLM
@@ -13424,9 +13412,6 @@
 [submodule "ParallelLogger"]
 	path = ParallelLogger
 	url = https://github.com/cran/ParallelLogger
-[submodule "ParallelPC"]
-	path = ParallelPC
-	url = https://github.com/cran/ParallelPC
 [submodule "ParamANOVA"]
 	path = ParamANOVA
 	url = https://github.com/cran/ParamANOVA
@@ -16001,9 +15986,6 @@
 [submodule "RcppCWB"]
 	path = RcppCWB
 	url = https://github.com/cran/RcppCWB
-[submodule "RcppCensSpatial"]
-	path = RcppCensSpatial
-	url = https://github.com/cran/RcppCensSpatial
 [submodule "RcppClassic"]
 	path = RcppClassic
 	url = https://github.com/cran/RcppClassic
@@ -17771,9 +17753,6 @@
 [submodule "SRS"]
 	path = SRS
 	url = https://github.com/cran/SRS
-[submodule "SRTsim"]
-	path = SRTsim
-	url = https://github.com/cran/SRTsim
 [submodule "SRTtools"]
 	path = SRTtools
 	url = https://github.com/cran/SRTtools
@@ -19328,9 +19307,6 @@
 [submodule "TExPosition"]
 	path = TExPosition
 	url = https://github.com/cran/TExPosition
-[submodule "TFM"]
-	path = TFM
-	url = https://github.com/cran/TFM
 [submodule "TFMPvalue"]
 	path = TFMPvalue
 	url = https://github.com/cran/TFMPvalue
@@ -25394,9 +25370,6 @@
 [submodule "bujar"]
 	path = bujar
 	url = https://github.com/cran/bujar
-[submodule "bulkAnalyseR"]
-	path = bulkAnalyseR
-	url = https://github.com/cran/bulkAnalyseR
 [submodule "bulkQC"]
 	path = bulkQC
 	url = https://github.com/cran/bulkQC
@@ -32348,9 +32321,6 @@
 [submodule "ecipex"]
 	path = ecipex
 	url = https://github.com/cran/ecipex
-[submodule "eclust"]
-	path = eclust
-	url = https://github.com/cran/eclust
 [submodule "ecm"]
 	path = ecm
 	url = https://github.com/cran/ecm
@@ -34265,9 +34235,6 @@
 [submodule "famish"]
 	path = famish
 	url = https://github.com/cran/famish
-[submodule "fanc"]
-	path = fanc
-	url = https://github.com/cran/fanc
 [submodule "fancycut"]
 	path = fancycut
 	url = https://github.com/cran/fancycut
@@ -39773,9 +39740,6 @@
 [submodule "healthyR.ts"]
 	path = healthyR.ts
 	url = https://github.com/cran/healthyR.ts
-[submodule "healthyverse"]
-	path = healthyverse
-	url = https://github.com/cran/healthyverse
 [submodule "heaping"]
 	path = heaping
 	url = https://github.com/cran/heaping
@@ -40967,9 +40931,6 @@
 [submodule "icesVocab"]
 	path = icesVocab
 	url = https://github.com/cran/icesVocab
-[submodule "ichimoku"]
-	path = ichimoku
-	url = https://github.com/cran/ichimoku
 [submodule "iclogcondist"]
 	path = iclogcondist
 	url = https://github.com/cran/iclogcondist
@@ -57380,9 +57341,6 @@
 [submodule "relimp"]
 	path = relimp
 	url = https://github.com/cran/relimp
-[submodule "relliptical"]
-	path = relliptical
-	url = https://github.com/cran/relliptical
 [submodule "relsurv"]
 	path = relsurv
 	url = https://github.com/cran/relsurv
@@ -67517,9 +67475,6 @@
 [submodule "treemapify"]
 	path = treemapify
 	url = https://github.com/cran/treemapify
-[submodule "treeshap"]
-	path = treeshap
-	url = https://github.com/cran/treeshap
 [submodule "treesitter"]
 	path = treesitter
 	url = https://github.com/cran/treesitter
