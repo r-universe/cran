@@ -43490,9 +43490,6 @@
 [submodule "lazyData"]
 	path = lazyData
 	url = https://github.com/cran/lazyData
-[submodule "lazyarray"]
-	path = lazyarray
-	url = https://github.com/cran/lazyarray
 [submodule "lazybar"]
 	path = lazybar
 	url = https://github.com/cran/lazybar
@@ -50756,9 +50753,6 @@
 [submodule "openintro"]
 	path = openintro
 	url = https://github.com/cran/openintro
-[submodule "openmeteo"]
-	path = openmeteo
-	url = https://github.com/cran/openmeteo
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
@@ -66299,9 +66293,6 @@
 [submodule "tibbletime"]
 	path = tibbletime
 	url = https://github.com/cran/tibbletime
-[submodule "tibblify"]
-	path = tibblify
-	url = https://github.com/cran/tibblify
 [submodule "tican"]
 	path = tican
 	url = https://github.com/cran/tican
