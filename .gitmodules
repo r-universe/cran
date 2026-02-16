@@ -17936,6 +17936,9 @@
 [submodule "SYNCSA"]
 	path = SYNCSA
 	url = https://github.com/cran/SYNCSA
+[submodule "SafeMapper"]
+	path = SafeMapper
+	url = https://github.com/cran/SafeMapper
 [submodule "SafeVote"]
 	path = SafeVote
 	url = https://github.com/cran/SafeVote
