@@ -18389,6 +18389,9 @@
 [submodule "SimplyAgree"]
 	path = SimplyAgree
 	url = https://github.com/cran/SimplyAgree
+[submodule "SimtablR"]
+	path = SimtablR
+	url = https://github.com/cran/SimtablR
 [submodule "SingleCaseES"]
 	path = SingleCaseES
 	url = https://github.com/cran/SingleCaseES
@@ -39122,6 +39125,9 @@
 [submodule "gsDesign2"]
 	path = gsDesign2
 	url = https://github.com/cran/gsDesign2
+[submodule "gsDesignNB"]
+	path = gsDesignNB
+	url = https://github.com/cran/gsDesignNB
 [submodule "gsDesignTune"]
 	path = gsDesignTune
 	url = https://github.com/cran/gsDesignTune
@@ -39131,6 +39137,9 @@
 [submodule "gsMAMS"]
 	path = gsMAMS
 	url = https://github.com/cran/gsMAMS
+[submodule "gsMeanFreq"]
+	path = gsMeanFreq
+	url = https://github.com/cran/gsMeanFreq
 [submodule "gsalib"]
 	path = gsalib
 	url = https://github.com/cran/gsalib
@@ -42812,6 +42821,9 @@
 [submodule "kernplus"]
 	path = kernplus
 	url = https://github.com/cran/kernplus
+[submodule "kernreg"]
+	path = kernreg
+	url = https://github.com/cran/kernreg
 [submodule "kernscr"]
 	path = kernscr
 	url = https://github.com/cran/kernscr
@@ -55367,6 +55379,9 @@
 [submodule "qualitycontrol"]
 	path = qualitycontrol
 	url = https://github.com/cran/qualitycontrol
+[submodule "quallmer"]
+	path = quallmer
+	url = https://github.com/cran/quallmer
 [submodule "qualmap"]
 	path = qualmap
 	url = https://github.com/cran/qualmap
@@ -63803,6 +63818,9 @@
 [submodule "sqlscore"]
 	path = sqlscore
 	url = https://github.com/cran/sqlscore
+[submodule "sqlserverconnect"]
+	path = sqlserverconnect
+	url = https://github.com/cran/sqlserverconnect
 [submodule "sqlstrings"]
 	path = sqlstrings
 	url = https://github.com/cran/sqlstrings
@@ -68090,6 +68108,9 @@
 [submodule "typr"]
 	path = typr
 	url = https://github.com/cran/typr
+[submodule "typstable"]
+	path = typstable
+	url = https://github.com/cran/typstable
 [submodule "tzdb"]
 	path = tzdb
 	url = https://github.com/cran/tzdb
