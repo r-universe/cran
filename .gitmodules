@@ -49958,6 +49958,9 @@
 [submodule "npROCRegression"]
 	path = npROCRegression
 	url = https://github.com/cran/npROCRegression
+[submodule "npRmpi"]
+	path = npRmpi
+	url = https://github.com/cran/npRmpi
 [submodule "nparACT"]
 	path = nparACT
 	url = https://github.com/cran/nparACT
@@ -50921,6 +50924,9 @@
 [submodule "optrcdmaeAT"]
 	path = optrcdmaeAT
 	url = https://github.com/cran/optrcdmaeAT
+[submodule "optree"]
+	path = optree
+	url = https://github.com/cran/optree
 [submodule "optrefine"]
 	path = optrefine
 	url = https://github.com/cran/optrefine
