@@ -10565,6 +10565,9 @@
 [submodule "MPTinR"]
 	path = MPTinR
 	url = https://github.com/cran/MPTinR
+[submodule "MPTmultiverse"]
+	path = MPTmultiverse
+	url = https://github.com/cran/MPTmultiverse
 [submodule "MPV"]
 	path = MPV
 	url = https://github.com/cran/MPV
