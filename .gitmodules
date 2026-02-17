@@ -4562,6 +4562,9 @@
 [submodule "DeepLearningCausal"]
 	path = DeepLearningCausal
 	url = https://github.com/cran/DeepLearningCausal
+[submodule "DegreeDayCalc"]
+	path = DegreeDayCalc
+	url = https://github.com/cran/DegreeDayCalc
 [submodule "Delaporte"]
 	path = Delaporte
 	url = https://github.com/cran/Delaporte
@@ -9698,6 +9701,9 @@
 [submodule "LifeInsureR"]
 	path = LifeInsureR
 	url = https://github.com/cran/LifeInsureR
+[submodule "LifeTableFertility"]
+	path = LifeTableFertility
+	url = https://github.com/cran/LifeTableFertility
 [submodule "LifemapR"]
 	path = LifemapR
 	url = https://github.com/cran/LifemapR
@@ -20039,6 +20045,9 @@
 [submodule "TruncatedNormal"]
 	path = TruncatedNormal
 	url = https://github.com/cran/TruncatedNormal
+[submodule "Ts"]
+	path = Ts
+	url = https://github.com/cran/Ts
 [submodule "TukeyC"]
 	path = TukeyC
 	url = https://github.com/cran/TukeyC
@@ -21548,6 +21557,9 @@
 [submodule "adpss"]
 	path = adpss
 	url = https://github.com/cran/adpss
+[submodule "adrftools"]
+	path = adrftools
+	url = https://github.com/cran/adrftools
 [submodule "ads"]
 	path = ads
 	url = https://github.com/cran/ads
@@ -35795,6 +35807,9 @@
 [submodule "framecleaner"]
 	path = framecleaner
 	url = https://github.com/cran/framecleaner
+[submodule "framework"]
+	path = framework
+	url = https://github.com/cran/framework
 [submodule "franc"]
 	path = franc
 	url = https://github.com/cran/franc
@@ -52829,6 +52844,9 @@
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/cran/piggyback
+[submodule "piglet"]
+	path = piglet
+	url = https://github.com/cran/piglet
 [submodule "pii"]
 	path = pii
 	url = https://github.com/cran/pii
@@ -57950,6 +57968,9 @@
 [submodule "ribd"]
 	path = ribd
 	url = https://github.com/cran/ribd
+[submodule "ribiosMath"]
+	path = ribiosMath
+	url = https://github.com/cran/ribiosMath
 [submodule "ribiosUtils"]
 	path = ribiosUtils
 	url = https://github.com/cran/ribiosUtils
@@ -63506,6 +63527,9 @@
 [submodule "spex"]
 	path = spex
 	url = https://github.com/cran/spex
+[submodule "spexvb"]
+	path = spexvb
+	url = https://github.com/cran/spexvb
 [submodule "spfa"]
 	path = spfa
 	url = https://github.com/cran/spfa
@@ -66332,6 +66356,9 @@
 [submodule "tidyEmoji"]
 	path = tidyEmoji
 	url = https://github.com/cran/tidyEmoji
+[submodule "tidyGenR"]
+	path = tidyGenR
+	url = https://github.com/cran/tidyGenR
 [submodule "tidyHeatmap"]
 	path = tidyHeatmap
 	url = https://github.com/cran/tidyHeatmap
