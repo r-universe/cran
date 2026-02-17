@@ -9134,6 +9134,9 @@
 [submodule "KinMixLite"]
 	path = KinMixLite
 	url = https://github.com/cran/KinMixLite
+[submodule "KinformR"]
+	path = KinformR
+	url = https://github.com/cran/KinformR
 [submodule "KingCountyHouses"]
 	path = KingCountyHouses
 	url = https://github.com/cran/KingCountyHouses
@@ -20429,6 +20432,9 @@
 [submodule "VariableScreening"]
 	path = VariableScreening
 	url = https://github.com/cran/VariableScreening
+[submodule "VariableSelection"]
+	path = VariableSelection
+	url = https://github.com/cran/VariableSelection
 [submodule "VarianceGamma"]
 	path = VarianceGamma
 	url = https://github.com/cran/VarianceGamma
@@ -21980,6 +21986,9 @@
 [submodule "alr4"]
 	path = alr4
 	url = https://github.com/cran/alr4
+[submodule "alsi"]
+	path = alsi
+	url = https://github.com/cran/alsi
 [submodule "altR2"]
 	path = altR2
 	url = https://github.com/cran/altR2
