@@ -57212,6 +57212,9 @@
 [submodule "regions"]
 	path = regions
 	url = https://github.com/cran/regions
+[submodule "registr"]
+	path = registr
+	url = https://github.com/cran/registr
 [submodule "registry"]
 	path = registry
 	url = https://github.com/cran/registry
