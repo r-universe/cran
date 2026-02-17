@@ -68450,9 +68450,6 @@
 [submodule "usdoj"]
 	path = usdoj
 	url = https://github.com/cran/usdoj
-[submodule "usearchlite"]
-	path = usearchlite
-	url = https://github.com/cran/usearchlite
 [submodule "usedist"]
 	path = usedist
 	url = https://github.com/cran/usedist
