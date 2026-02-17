@@ -14489,6 +14489,9 @@
 [submodule "RAthena"]
 	path = RAthena
 	url = https://github.com/cran/RAthena
+[submodule "RBBR"]
+	path = RBBR
+	url = https://github.com/cran/RBBR
 [submodule "RBE3"]
 	path = RBE3
 	url = https://github.com/cran/RBE3
@@ -16880,6 +16883,9 @@
 [submodule "Rtwobitlib"]
 	path = Rtwobitlib
 	url = https://github.com/cran/Rtwobitlib
+[submodule "RuHere"]
+	path = RuHere
+	url = https://github.com/cran/RuHere
 [submodule "Ruido"]
 	path = Ruido
 	url = https://github.com/cran/Ruido
@@ -68504,6 +68510,9 @@
 [submodule "utc"]
 	path = utc
 	url = https://github.com/cran/utc
+[submodule "uteals"]
+	path = uteals
+	url = https://github.com/cran/uteals
 [submodule "utest"]
 	path = utest
 	url = https://github.com/cran/utest
