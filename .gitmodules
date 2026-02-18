@@ -13433,6 +13433,9 @@
 [submodule "PartialNetwork"]
 	path = PartialNetwork
 	url = https://github.com/cran/PartialNetwork
+[submodule "PartialTL"]
+	path = PartialTL
+	url = https://github.com/cran/PartialTL
 [submodule "Partiallyoverlapping"]
 	path = Partiallyoverlapping
 	url = https://github.com/cran/Partiallyoverlapping
@@ -27041,6 +27044,9 @@
 [submodule "climwin"]
 	path = climwin
 	url = https://github.com/cran/climwin
+[submodule "clinCompare"]
+	path = clinCompare
+	url = https://github.com/cran/clinCompare
 [submodule "clinDR"]
 	path = clinDR
 	url = https://github.com/cran/clinDR
@@ -28352,6 +28358,9 @@
 [submodule "copulaData"]
 	path = copulaData
 	url = https://github.com/cran/copulaData
+[submodule "copulaSFM"]
+	path = copulaSFM
+	url = https://github.com/cran/copulaSFM
 [submodule "copulaSim"]
 	path = copulaSim
 	url = https://github.com/cran/copulaSim
@@ -31772,6 +31781,9 @@
 [submodule "dtComb"]
 	path = dtComb
 	url = https://github.com/cran/dtComb
+[submodule "dtGAP"]
+	path = dtGAP
+	url = https://github.com/cran/dtGAP
 [submodule "dtangle"]
 	path = dtangle
 	url = https://github.com/cran/dtangle
@@ -33182,6 +33194,9 @@
 [submodule "epiworldRShiny"]
 	path = epiworldRShiny
 	url = https://github.com/cran/epiworldRShiny
+[submodule "epiworldRcalibrate"]
+	path = epiworldRcalibrate
+	url = https://github.com/cran/epiworldRcalibrate
 [submodule "epizootic"]
 	path = epizootic
 	url = https://github.com/cran/epizootic
@@ -36995,6 +37010,9 @@
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/cran/geoarrow
+[submodule "geoarrowWidget"]
+	path = geoarrowWidget
+	url = https://github.com/cran/geoarrowWidget
 [submodule "geobounds"]
 	path = geobounds
 	url = https://github.com/cran/geobounds
@@ -37862,6 +37880,9 @@
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/cran/ggseg
+[submodule "ggseg.formats"]
+	path = ggseg.formats
+	url = https://github.com/cran/ggseg.formats
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/cran/ggseg3d
@@ -40100,6 +40121,9 @@
 [submodule "hint"]
 	path = hint
 	url = https://github.com/cran/hint
+[submodule "hipecR"]
+	path = hipecR
+	url = https://github.com/cran/hipecR
 [submodule "hiphop"]
 	path = hiphop
 	url = https://github.com/cran/hiphop
@@ -70556,6 +70580,9 @@
 [submodule "ypssc"]
 	path = ypssc
 	url = https://github.com/cran/ypssc
+[submodule "yrnd"]
+	path = yrnd
+	url = https://github.com/cran/yrnd
 [submodule "yuima"]
 	path = yuima
 	url = https://github.com/cran/yuima
