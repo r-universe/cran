@@ -11267,6 +11267,9 @@
 [submodule "MixSIAR"]
 	path = MixSIAR
 	url = https://github.com/cran/MixSIAR
+[submodule "MixSemiRob"]
+	path = MixSemiRob
+	url = https://github.com/cran/MixSemiRob
 [submodule "MixSim"]
 	path = MixSim
 	url = https://github.com/cran/MixSim
