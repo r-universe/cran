@@ -32372,6 +32372,9 @@
 [submodule "ecoCopula"]
 	path = ecoCopula
 	url = https://github.com/cran/ecoCopula
+[submodule "ecoTolerance"]
+	path = ecoTolerance
+	url = https://github.com/cran/ecoTolerance
 [submodule "ecocbo"]
 	path = ecocbo
 	url = https://github.com/cran/ecocbo
