@@ -5933,6 +5933,9 @@
 [submodule "FIND"]
 	path = FIND
 	url = https://github.com/cran/FIND
+[submodule "FIRM"]
+	path = FIRM
+	url = https://github.com/cran/FIRM
 [submodule "FIT"]
 	path = FIT
 	url = https://github.com/cran/FIT
@@ -14039,6 +14042,9 @@
 [submodule "PsyControl"]
 	path = PsyControl
 	url = https://github.com/cran/PsyControl
+[submodule "PsyToolkit"]
+	path = PsyToolkit
+	url = https://github.com/cran/PsyToolkit
 [submodule "PsychWordVec"]
 	path = PsychWordVec
 	url = https://github.com/cran/PsychWordVec
@@ -24110,6 +24116,9 @@
 [submodule "bidask"]
 	path = bidask
 	url = https://github.com/cran/bidask
+[submodule "bidser"]
+	path = bidser
+	url = https://github.com/cran/bidser
 [submodule "bidsr"]
 	path = bidsr
 	url = https://github.com/cran/bidsr
@@ -24488,6 +24497,9 @@
 [submodule "birankr"]
 	path = birankr
 	url = https://github.com/cran/birankr
+[submodule "birddog"]
+	path = birddog
+	url = https://github.com/cran/birddog
 [submodule "birdie"]
 	path = birdie
 	url = https://github.com/cran/birdie
@@ -29036,6 +29048,9 @@
 [submodule "crossdes"]
 	path = crossdes
 	url = https://github.com/cran/crossdes
+[submodule "crossfit"]
+	path = crossfit
+	url = https://github.com/cran/crossfit
 [submodule "crosshap"]
 	path = crosshap
 	url = https://github.com/cran/crosshap
@@ -29273,6 +29288,9 @@
 [submodule "ctmva"]
 	path = ctmva
 	url = https://github.com/cran/ctmva
+[submodule "ctoclient"]
+	path = ctoclient
+	url = https://github.com/cran/ctoclient
 [submodule "ctqr"]
 	path = ctqr
 	url = https://github.com/cran/ctqr
@@ -32339,6 +32357,9 @@
 [submodule "ecipex"]
 	path = ecipex
 	url = https://github.com/cran/ecipex
+[submodule "eclipseplot"]
+	path = eclipseplot
+	url = https://github.com/cran/eclipseplot
 [submodule "ecm"]
 	path = ecm
 	url = https://github.com/cran/ecm
@@ -33359,6 +33380,9 @@
 [submodule "errum"]
 	path = errum
 	url = https://github.com/cran/errum
+[submodule "ervissexplore"]
+	path = ervissexplore
+	url = https://github.com/cran/ervissexplore
 [submodule "es.dif"]
 	path = es.dif
 	url = https://github.com/cran/es.dif
@@ -47663,6 +47687,9 @@
 [submodule "modules"]
 	path = modules
 	url = https://github.com/cran/modules
+[submodule "moewishart"]
+	path = moewishart
+	url = https://github.com/cran/moewishart
 [submodule "moexer"]
 	path = moexer
 	url = https://github.com/cran/moexer
@@ -53465,6 +53492,9 @@
 [submodule "poLCA"]
 	path = poLCA
 	url = https://github.com/cran/poLCA
+[submodule "poLCAParallel"]
+	path = poLCAParallel
+	url = https://github.com/cran/poLCAParallel
 [submodule "pocketapi"]
 	path = pocketapi
 	url = https://github.com/cran/pocketapi
