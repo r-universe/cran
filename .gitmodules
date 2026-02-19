@@ -1016,9 +1016,6 @@
 [submodule "BCSreg"]
 	path = BCSreg
 	url = https://github.com/cran/BCSreg
-[submodule "BCT"]
-	path = BCT
-	url = https://github.com/cran/BCT
 [submodule "BCgee"]
 	path = BCgee
 	url = https://github.com/cran/BCgee
@@ -33872,9 +33869,6 @@
 [submodule "extRC"]
 	path = extRC
 	url = https://github.com/cran/extRC
-[submodule "extRatum"]
-	path = extRatum
-	url = https://github.com/cran/extRatum
 [submodule "extRemes"]
 	path = extRemes
 	url = https://github.com/cran/extRemes
