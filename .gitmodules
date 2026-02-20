@@ -13229,6 +13229,9 @@
 [submodule "PSRICalc"]
 	path = PSRICalc
 	url = https://github.com/cran/PSRICalc
+[submodule "PSRICalcSM"]
+	path = PSRICalcSM
+	url = https://github.com/cran/PSRICalcSM
 [submodule "PSS.Health"]
 	path = PSS.Health
 	url = https://github.com/cran/PSS.Health
@@ -20456,6 +20459,9 @@
 [submodule "VectorCodeR"]
 	path = VectorCodeR
 	url = https://github.com/cran/VectorCodeR
+[submodule "VectrixDB"]
+	path = VectrixDB
+	url = https://github.com/cran/VectrixDB
 [submodule "VedicDateTime"]
 	path = VedicDateTime
 	url = https://github.com/cran/VedicDateTime
@@ -55703,6 +55709,12 @@
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/cran/r4ss
+[submodule "r4subcore"]
+	path = r4subcore
+	url = https://github.com/cran/r4subcore
+[submodule "r4subdata"]
+	path = r4subdata
+	url = https://github.com/cran/r4subdata
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/cran/r5r
