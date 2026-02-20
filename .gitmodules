@@ -9698,6 +9698,9 @@
 [submodule "LifeInsureR"]
 	path = LifeInsureR
 	url = https://github.com/cran/LifeInsureR
+[submodule "LifeTableBuilder"]
+	path = LifeTableBuilder
+	url = https://github.com/cran/LifeTableBuilder
 [submodule "LifeTableFertility"]
 	path = LifeTableFertility
 	url = https://github.com/cran/LifeTableFertility
@@ -29156,6 +29159,9 @@
 [submodule "csdb"]
 	path = csdb
 	url = https://github.com/cran/csdb
+[submodule "csdm"]
+	path = csdm
+	url = https://github.com/cran/csdm
 [submodule "cshapes"]
 	path = cshapes
 	url = https://github.com/cran/cshapes
@@ -40835,6 +40841,9 @@
 [submodule "ibelief"]
 	path = ibelief
 	url = https://github.com/cran/ibelief
+[submodule "ibger"]
+	path = ibger
+	url = https://github.com/cran/ibger
 [submodule "ibm"]
 	path = ibm
 	url = https://github.com/cran/ibm
@@ -55838,6 +55847,9 @@
 [submodule "rLakeHabitat"]
 	path = rLakeHabitat
 	url = https://github.com/cran/rLakeHabitat
+[submodule "rLifting"]
+	path = rLifting
+	url = https://github.com/cran/rLifting
 [submodule "rMEA"]
 	path = rMEA
 	url = https://github.com/cran/rMEA
@@ -56486,6 +56498,9 @@
 [submodule "rbit"]
 	path = rbit
 	url = https://github.com/cran/rbit
+[submodule "rblimp"]
+	path = rblimp
+	url = https://github.com/cran/rblimp
 [submodule "rblt"]
 	path = rblt
 	url = https://github.com/cran/rblt
@@ -66842,6 +66857,9 @@
 [submodule "tipitaka"]
 	path = tipitaka
 	url = https://github.com/cran/tipitaka
+[submodule "tipitaka.critical"]
+	path = tipitaka.critical
+	url = https://github.com/cran/tipitaka.critical
 [submodule "tipmap"]
 	path = tipmap
 	url = https://github.com/cran/tipmap
