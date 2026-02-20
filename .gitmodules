@@ -9443,6 +9443,9 @@
 [submodule "LRMF3"]
 	path = LRMF3
 	url = https://github.com/cran/LRMF3
+[submodule "LRMiss"]
+	path = LRMiss
+	url = https://github.com/cran/LRMiss
 [submodule "LRQVB"]
 	path = LRQVB
 	url = https://github.com/cran/LRQVB
@@ -24725,6 +24728,9 @@
 [submodule "bmixture"]
 	path = bmixture
 	url = https://github.com/cran/bmixture
+[submodule "bml"]
+	path = bml
+	url = https://github.com/cran/bml
 [submodule "bmlm"]
 	path = bmlm
 	url = https://github.com/cran/bmlm
@@ -63017,6 +63023,9 @@
 [submodule "spacefillr"]
 	path = spacefillr
 	url = https://github.com/cran/spacefillr
+[submodule "spacemodR"]
+	path = spacemodR
+	url = https://github.com/cran/spacemodR
 [submodule "spacesRGB"]
 	path = spacesRGB
 	url = https://github.com/cran/spacesRGB
