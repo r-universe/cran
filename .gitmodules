@@ -5738,6 +5738,9 @@
 [submodule "ExplodeLayout"]
 	path = ExplodeLayout
 	url = https://github.com/cran/ExplodeLayout
+[submodule "ExploreTheData"]
+	path = ExploreTheData
+	url = https://github.com/cran/ExploreTheData
 [submodule "ExposR"]
 	path = ExposR
 	url = https://github.com/cran/ExposR
@@ -9197,6 +9200,9 @@
 [submodule "LA"]
 	path = LA
 	url = https://github.com/cran/LA
+[submodule "LABTNSCPSS"]
+	path = LABTNSCPSS
+	url = https://github.com/cran/LABTNSCPSS
 [submodule "LAD"]
 	path = LAD
 	url = https://github.com/cran/LAD
@@ -11789,6 +11795,9 @@
 [submodule "NNMIS"]
 	path = NNMIS
 	url = https://github.com/cran/NNMIS
+[submodule "NNMoMo"]
+	path = NNMoMo
+	url = https://github.com/cran/NNMoMo
 [submodule "NNS"]
 	path = NNS
 	url = https://github.com/cran/NNS
@@ -30506,6 +30515,9 @@
 [submodule "designit"]
 	path = designit
 	url = https://github.com/cran/designit
+[submodule "designmatch"]
+	path = designmatch
+	url = https://github.com/cran/designmatch
 [submodule "designr"]
 	path = designr
 	url = https://github.com/cran/designr
