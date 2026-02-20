@@ -19826,6 +19826,9 @@
 [submodule "TimeDepFrail"]
 	path = TimeDepFrail
 	url = https://github.com/cran/TimeDepFrail
+[submodule "TimeTraits"]
+	path = TimeTraits
+	url = https://github.com/cran/TimeTraits
 [submodule "TimeVTree"]
 	path = TimeVTree
 	url = https://github.com/cran/TimeVTree
@@ -20039,6 +20042,9 @@
 [submodule "TruncatedNormal"]
 	path = TruncatedNormal
 	url = https://github.com/cran/TruncatedNormal
+[submodule "TrustworthyMLR"]
+	path = TrustworthyMLR
+	url = https://github.com/cran/TrustworthyMLR
 [submodule "Ts"]
 	path = Ts
 	url = https://github.com/cran/Ts
@@ -21464,6 +21470,9 @@
 [submodule "adiv"]
 	path = adiv
 	url = https://github.com/cran/adiv
+[submodule "adj"]
+	path = adj
+	url = https://github.com/cran/adj
 [submodule "adjROC"]
 	path = adjROC
 	url = https://github.com/cran/adjROC
@@ -30143,6 +30152,9 @@
 [submodule "deadband"]
 	path = deadband
 	url = https://github.com/cran/deadband
+[submodule "deadwood"]
+	path = deadwood
+	url = https://github.com/cran/deadwood
 [submodule "deal"]
 	path = deal
 	url = https://github.com/cran/deal
@@ -48830,6 +48842,9 @@
 [submodule "nadaverse"]
 	path = nadaverse
 	url = https://github.com/cran/nadaverse
+[submodule "nadir"]
+	path = nadir
+	url = https://github.com/cran/nadir
 [submodule "nadiv"]
 	path = nadiv
 	url = https://github.com/cran/nadiv
@@ -52499,6 +52514,9 @@
 [submodule "pgsc"]
 	path = pgsc
 	url = https://github.com/cran/pgsc
+[submodule "pguIMP"]
+	path = pguIMP
+	url = https://github.com/cran/pguIMP
 [submodule "ph2bayes"]
 	path = ph2bayes
 	url = https://github.com/cran/ph2bayes
@@ -57959,6 +57977,15 @@
 [submodule "ribd"]
 	path = ribd
 	url = https://github.com/cran/ribd
+[submodule "ribiosArg"]
+	path = ribiosArg
+	url = https://github.com/cran/ribiosArg
+[submodule "ribiosGraph"]
+	path = ribiosGraph
+	url = https://github.com/cran/ribiosGraph
+[submodule "ribiosIO"]
+	path = ribiosIO
+	url = https://github.com/cran/ribiosIO
 [submodule "ribiosMath"]
 	path = ribiosMath
 	url = https://github.com/cran/ribiosMath
@@ -58154,6 +58181,9 @@
 [submodule "rjd3jars"]
 	path = rjd3jars
 	url = https://github.com/cran/rjd3jars
+[submodule "rjd3providers"]
+	path = rjd3providers
+	url = https://github.com/cran/rjd3providers
 [submodule "rjd3toolkit"]
 	path = rjd3toolkit
 	url = https://github.com/cran/rjd3toolkit
@@ -63194,6 +63224,9 @@
 [submodule "sparselink"]
 	path = sparselink
 	url = https://github.com/cran/sparselink
+[submodule "sparselu"]
+	path = sparselu
+	url = https://github.com/cran/sparselu
 [submodule "sparsenet"]
 	path = sparsenet
 	url = https://github.com/cran/sparsenet
@@ -66809,6 +66842,9 @@
 [submodule "tinycodet"]
 	path = tinycodet
 	url = https://github.com/cran/tinycodet
+[submodule "tinyimg"]
+	path = tinyimg
+	url = https://github.com/cran/tinyimg
 [submodule "tinylabels"]
 	path = tinylabels
 	url = https://github.com/cran/tinylabels
@@ -69821,6 +69857,9 @@
 [submodule "whomds"]
 	path = whomds
 	url = https://github.com/cran/whomds
+[submodule "wid"]
+	path = wid
+	url = https://github.com/cran/wid
 [submodule "widals"]
 	path = widals
 	url = https://github.com/cran/widals
