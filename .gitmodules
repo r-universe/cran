@@ -23453,6 +23453,9 @@
 [submodule "baskexact"]
 	path = baskexact
 	url = https://github.com/cran/baskexact
+[submodule "basksim"]
+	path = basksim
+	url = https://github.com/cran/basksim
 [submodule "batata"]
 	path = batata
 	url = https://github.com/cran/batata
@@ -33149,6 +33152,9 @@
 [submodule "epifitter"]
 	path = epifitter
 	url = https://github.com/cran/epifitter
+[submodule "epiflows"]
+	path = epiflows
+	url = https://github.com/cran/epiflows
 [submodule "epigraphdb"]
 	path = epigraphdb
 	url = https://github.com/cran/epigraphdb
