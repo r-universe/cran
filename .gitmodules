@@ -41738,6 +41738,9 @@
 [submodule "iprior"]
 	path = iprior
 	url = https://github.com/cran/iprior
+[submodule "ips"]
+	path = ips
+	url = https://github.com/cran/ips
 [submodule "ipsRdbs"]
 	path = ipsRdbs
 	url = https://github.com/cran/ipsRdbs
