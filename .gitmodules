@@ -10703,6 +10703,9 @@
 [submodule "MVNBayesian"]
 	path = MVNBayesian
 	url = https://github.com/cran/MVNBayesian
+[submodule "MVNGmod"]
+	path = MVNGmod
+	url = https://github.com/cran/MVNGmod
 [submodule "MVNtestchar"]
 	path = MVNtestchar
 	url = https://github.com/cran/MVNtestchar
@@ -16109,6 +16112,9 @@
 [submodule "Rdta"]
 	path = Rdta
 	url = https://github.com/cran/Rdta
+[submodule "Rduckhts"]
+	path = Rduckhts
+	url = https://github.com/cran/Rduckhts
 [submodule "Rduino"]
 	path = Rduino
 	url = https://github.com/cran/Rduino
@@ -44837,6 +44843,9 @@
 [submodule "maicplus"]
 	path = maicplus
 	url = https://github.com/cran/maicplus
+[submodule "maidr"]
+	path = maidr
+	url = https://github.com/cran/maidr
 [submodule "mailR"]
 	path = mailR
 	url = https://github.com/cran/mailR
@@ -50876,6 +50885,9 @@
 [submodule "orsk"]
 	path = orsk
 	url = https://github.com/cran/orsk
+[submodule "ort"]
+	path = ort
+	url = https://github.com/cran/ort
 [submodule "orthGS"]
 	path = orthGS
 	url = https://github.com/cran/orthGS
@@ -64592,6 +64604,9 @@
 [submodule "sunburstR"]
 	path = sunburstR
 	url = https://github.com/cran/sunburstR
+[submodule "sunburstShinyWidget"]
+	path = sunburstShinyWidget
+	url = https://github.com/cran/sunburstShinyWidget
 [submodule "suncalc"]
 	path = suncalc
 	url = https://github.com/cran/suncalc
