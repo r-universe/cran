@@ -17969,6 +17969,9 @@
 [submodule "SeleMix"]
 	path = SeleMix
 	url = https://github.com/cran/SeleMix
+[submodule "Select"]
+	path = Select
+	url = https://github.com/cran/Select
 [submodule "SelectBoost"]
 	path = SelectBoost
 	url = https://github.com/cran/SelectBoost
