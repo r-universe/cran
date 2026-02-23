@@ -16040,9 +16040,6 @@
 [submodule "RcppSpdlog"]
 	path = RcppSpdlog
 	url = https://github.com/cran/RcppSpdlog
-[submodule "RcppStreams"]
-	path = RcppStreams
-	url = https://github.com/cran/RcppStreams
 [submodule "RcppTN"]
 	path = RcppTN
 	url = https://github.com/cran/RcppTN
@@ -37193,6 +37190,9 @@
 [submodule "ggHoriPlot"]
 	path = ggHoriPlot
 	url = https://github.com/cran/ggHoriPlot
+[submodule "ggInterval"]
+	path = ggInterval
+	url = https://github.com/cran/ggInterval
 [submodule "ggOceanMaps"]
 	path = ggOceanMaps
 	url = https://github.com/cran/ggOceanMaps
@@ -60377,6 +60377,9 @@
 [submodule "sdetorus"]
 	path = sdetorus
 	url = https://github.com/cran/sdetorus
+[submodule "sdf.test"]
+	path = sdf.test
+	url = https://github.com/cran/sdf.test
 [submodule "sdlrm"]
 	path = sdlrm
 	url = https://github.com/cran/sdlrm
