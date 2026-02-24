@@ -15875,9 +15875,6 @@
 [submodule "Rcpp"]
 	path = Rcpp
 	url = https://github.com/cran/Rcpp
-[submodule "Rcpp11"]
-	path = Rcpp11
-	url = https://github.com/cran/Rcpp11
 [submodule "RcppAPT"]
 	path = RcppAPT
 	url = https://github.com/cran/RcppAPT
