@@ -33722,6 +33722,9 @@
 [submodule "export"]
 	path = export
 	url = https://github.com/cran/export
+[submodule "expowo"]
+	path = expowo
+	url = https://github.com/cran/expowo
 [submodule "expperm"]
 	path = expperm
 	url = https://github.com/cran/expperm
