@@ -8618,6 +8618,9 @@
 [submodule "InflectSSP"]
 	path = InflectSSP
 	url = https://github.com/cran/InflectSSP
+[submodule "Inflongitudinal"]
+	path = Inflongitudinal
+	url = https://github.com/cran/Inflongitudinal
 [submodule "InfoTrad"]
 	path = InfoTrad
 	url = https://github.com/cran/InfoTrad
@@ -22469,6 +22472,9 @@
 [submodule "aricode"]
 	path = aricode
 	url = https://github.com/cran/aricode
+[submodule "aridagri"]
+	path = aridagri
+	url = https://github.com/cran/aridagri
 [submodule "arima2"]
 	path = arima2
 	url = https://github.com/cran/arima2
@@ -23888,6 +23894,9 @@
 [submodule "bfast"]
 	path = bfast
 	url = https://github.com/cran/bfast
+[submodule "bfbin2arm"]
+	path = bfbin2arm
+	url = https://github.com/cran/bfbin2arm
 [submodule "bfboin"]
 	path = bfboin
 	url = https://github.com/cran/bfboin
@@ -51773,6 +51782,9 @@
 [submodule "pbdZMQ"]
 	path = pbdZMQ
 	url = https://github.com/cran/pbdZMQ
+[submodule "pbiparams"]
+	path = pbiparams
+	url = https://github.com/cran/pbiparams
 [submodule "pbivnorm"]
 	path = pbivnorm
 	url = https://github.com/cran/pbivnorm
@@ -57689,6 +57701,9 @@
 [submodule "rgoogleclassroom"]
 	path = rgoogleclassroom
 	url = https://github.com/cran/rgoogleclassroom
+[submodule "rgph"]
+	path = rgph
+	url = https://github.com/cran/rgph
 [submodule "rgplates"]
 	path = rgplates
 	url = https://github.com/cran/rgplates
