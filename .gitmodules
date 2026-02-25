@@ -34886,6 +34886,9 @@
 [submodule "fioRa"]
 	path = fioRa
 	url = https://github.com/cran/fioRa
+[submodule "fiodata"]
+	path = fiodata
+	url = https://github.com/cran/fiodata
 [submodule "fipio"]
 	path = fipio
 	url = https://github.com/cran/fipio
@@ -46358,6 +46361,9 @@
 [submodule "miRtest"]
 	path = miRtest
 	url = https://github.com/cran/miRtest
+[submodule "miapack"]
+	path = miapack
+	url = https://github.com/cran/miapack
 [submodule "micEcon"]
 	path = micEcon
 	url = https://github.com/cran/micEcon
@@ -57821,6 +57827,9 @@
 [submodule "ribiosMath"]
 	path = ribiosMath
 	url = https://github.com/cran/ribiosMath
+[submodule "ribiosPlot"]
+	path = ribiosPlot
+	url = https://github.com/cran/ribiosPlot
 [submodule "ribiosUtils"]
 	path = ribiosUtils
 	url = https://github.com/cran/ribiosUtils
@@ -64454,6 +64463,9 @@
 [submodule "streetscape"]
 	path = streetscape
 	url = https://github.com/cran/streetscape
+[submodule "strength"]
+	path = strength
+	url = https://github.com/cran/strength
 [submodule "stressaddition"]
 	path = stressaddition
 	url = https://github.com/cran/stressaddition
