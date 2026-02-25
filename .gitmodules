@@ -7886,6 +7886,9 @@
 [submodule "HaploCatcher"]
 	path = HaploCatcher
 	url = https://github.com/cran/HaploCatcher
+[submodule "HaploDiploidEquilibrium"]
+	path = HaploDiploidEquilibrium
+	url = https://github.com/cran/HaploDiploidEquilibrium
 [submodule "HaploSim"]
 	path = HaploSim
 	url = https://github.com/cran/HaploSim
@@ -23876,6 +23879,9 @@
 [submodule "betareg"]
 	path = betareg
 	url = https://github.com/cran/betareg
+[submodule "betaregscale"]
+	path = betaregscale
+	url = https://github.com/cran/betaregscale
 [submodule "betaselectr"]
 	path = betaselectr
 	url = https://github.com/cran/betaselectr
