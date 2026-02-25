@@ -24971,6 +24971,9 @@
 [submodule "bracer"]
 	path = bracer
 	url = https://github.com/cran/bracer
+[submodule "bracketeer"]
+	path = bracketeer
+	url = https://github.com/cran/bracketeer
 [submodule "brada"]
 	path = brada
 	url = https://github.com/cran/brada
@@ -28499,6 +28502,9 @@
 [submodule "countts"]
 	path = countts
 	url = https://github.com/cran/countts
+[submodule "countyhealthR"]
+	path = countyhealthR
+	url = https://github.com/cran/countyhealthR
 [submodule "couplr"]
 	path = couplr
 	url = https://github.com/cran/couplr
@@ -31502,6 +31508,9 @@
 [submodule "dreamerr"]
 	path = dreamerr
 	url = https://github.com/cran/dreamerr
+[submodule "dress.graph"]
+	path = dress.graph
+	url = https://github.com/cran/dress.graph
 [submodule "drf"]
 	path = drf
 	url = https://github.com/cran/drf
@@ -63647,6 +63656,9 @@
 [submodule "sqldf"]
 	path = sqldf
 	url = https://github.com/cran/sqldf
+[submodule "sqlfluffr"]
+	path = sqlfluffr
+	url = https://github.com/cran/sqlfluffr
 [submodule "sqlhelper"]
 	path = sqlhelper
 	url = https://github.com/cran/sqlhelper
@@ -65285,6 +65297,9 @@
 [submodule "tLagPropOdds"]
 	path = tLagPropOdds
 	url = https://github.com/cran/tLagPropOdds
+[submodule "tReeTraits"]
+	path = tReeTraits
+	url = https://github.com/cran/tReeTraits
 [submodule "tRigon"]
 	path = tRigon
 	url = https://github.com/cran/tRigon
