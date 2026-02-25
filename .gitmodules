@@ -11411,6 +11411,9 @@
 [submodule "MultiClassROC"]
 	path = MultiClassROC
 	url = https://github.com/cran/MultiClassROC
+[submodule "MultiDiscreteRNG"]
+	path = MultiDiscreteRNG
+	url = https://github.com/cran/MultiDiscreteRNG
 [submodule "MultiFit"]
 	path = MultiFit
 	url = https://github.com/cran/MultiFit
@@ -23639,6 +23642,9 @@
 [submodule "bcfrailphdv"]
 	path = bcfrailphdv
 	url = https://github.com/cran/bcfrailphdv
+[submodule "bclogit"]
+	path = bclogit
+	url = https://github.com/cran/bclogit
 [submodule "bcmaps"]
 	path = bcmaps
 	url = https://github.com/cran/bcmaps
@@ -24020,6 +24026,9 @@
 [submodule "bigGP"]
 	path = bigGP
 	url = https://github.com/cran/bigGP
+[submodule "bigMICE"]
+	path = bigMICE
+	url = https://github.com/cran/bigMICE
 [submodule "bigMap"]
 	path = bigMap
 	url = https://github.com/cran/bigMap
@@ -31667,6 +31676,9 @@
 [submodule "dtmapi"]
 	path = dtmapi
 	url = https://github.com/cran/dtmapi
+[submodule "dtms"]
+	path = dtms
+	url = https://github.com/cran/dtms
 [submodule "dtp"]
 	path = dtp
 	url = https://github.com/cran/dtp
@@ -34361,6 +34373,9 @@
 [submodule "fastqrs"]
 	path = fastqrs
 	url = https://github.com/cran/fastqrs
+[submodule "fastreg"]
+	path = fastreg
+	url = https://github.com/cran/fastreg
 [submodule "fastrep"]
 	path = fastrep
 	url = https://github.com/cran/fastrep
@@ -36917,6 +36932,9 @@
 [submodule "geogenr"]
 	path = geogenr
 	url = https://github.com/cran/geogenr
+[submodule "geographiclib"]
+	path = geographiclib
+	url = https://github.com/cran/geographiclib
 [submodule "geogrid"]
 	path = geogrid
 	url = https://github.com/cran/geogrid
@@ -42221,6 +42239,9 @@
 [submodule "jmBIG"]
 	path = jmBIG
 	url = https://github.com/cran/jmBIG
+[submodule "jmSurface"]
+	path = jmSurface
+	url = https://github.com/cran/jmSurface
 [submodule "jmastats"]
 	path = jmastats
 	url = https://github.com/cran/jmastats
@@ -46136,6 +46157,9 @@
 [submodule "metasplines"]
 	path = metasplines
 	url = https://github.com/cran/metasplines
+[submodule "metasurvey"]
+	path = metasurvey
+	url = https://github.com/cran/metasurvey
 [submodule "metatest"]
 	path = metatest
 	url = https://github.com/cran/metatest
@@ -49520,6 +49544,9 @@
 [submodule "nnet"]
 	path = nnet
 	url = https://github.com/cran/nnet
+[submodule "nnetLM"]
+	path = nnetLM
+	url = https://github.com/cran/nnetLM
 [submodule "nnfor"]
 	path = nnfor
 	url = https://github.com/cran/nnfor
@@ -52595,6 +52622,9 @@
 [submodule "phylter"]
 	path = phylter
 	url = https://github.com/cran/phylter
+[submodule "phymapnet"]
+	path = phymapnet
+	url = https://github.com/cran/phymapnet
 [submodule "phyr"]
 	path = phyr
 	url = https://github.com/cran/phyr
@@ -59210,6 +59240,9 @@
 [submodule "rtmpinv"]
 	path = rtmpinv
 	url = https://github.com/cran/rtmpinv
+[submodule "rtmpinvi"]
+	path = rtmpinvi
+	url = https://github.com/cran/rtmpinvi
 [submodule "rtmpt"]
 	path = rtmpt
 	url = https://github.com/cran/rtmpt
@@ -60737,6 +60770,9 @@
 [submodule "sense"]
 	path = sense
 	url = https://github.com/cran/sense
+[submodule "senseR"]
+	path = senseR
+	url = https://github.com/cran/senseR
 [submodule "sensemakr"]
 	path = sensemakr
 	url = https://github.com/cran/sensemakr
