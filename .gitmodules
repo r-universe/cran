@@ -38006,9 +38006,6 @@
 [submodule "gitear"]
 	path = gitear
 	url = https://github.com/cran/gitear
-[submodule "gitgadget"]
-	path = gitgadget
-	url = https://github.com/cran/gitgadget
 [submodule "githubr"]
 	path = githubr
 	url = https://github.com/cran/githubr
@@ -40436,6 +40433,9 @@
 [submodule "hydroToolkit"]
 	path = hydroToolkit
 	url = https://github.com/cran/hydroToolkit
+[submodule "hydrodownloadR"]
+	path = hydrodownloadR
+	url = https://github.com/cran/hydrodownloadR
 [submodule "hydrogeo"]
 	path = hydrogeo
 	url = https://github.com/cran/hydrogeo
