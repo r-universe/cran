@@ -8039,6 +8039,9 @@
 [submodule "HydroCode"]
 	path = HydroCode
 	url = https://github.com/cran/HydroCode
+[submodule "HydroMe"]
+	path = HydroMe
+	url = https://github.com/cran/HydroMe
 [submodule "HydroPortailStats"]
 	path = HydroPortailStats
 	url = https://github.com/cran/HydroPortailStats
