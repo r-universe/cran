@@ -22925,6 +22925,9 @@
 [submodule "autoslider.core"]
 	path = autoslider.core
 	url = https://github.com/cran/autoslider.core
+[submodule "autostats"]
+	path = autostats
+	url = https://github.com/cran/autostats
 [submodule "autostsm"]
 	path = autostsm
 	url = https://github.com/cran/autostsm
