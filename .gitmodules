@@ -2873,9 +2873,6 @@
 [submodule "CascadeData"]
 	path = CascadeData
 	url = https://github.com/cran/CascadeData
-[submodule "CaseBasedReasoning"]
-	path = CaseBasedReasoning
-	url = https://github.com/cran/CaseBasedReasoning
 [submodule "CaseCohortCoxSurvival"]
 	path = CaseCohortCoxSurvival
 	url = https://github.com/cran/CaseCohortCoxSurvival
@@ -3551,9 +3548,6 @@
 [submodule "CopernicusDEM"]
 	path = CopernicusDEM
 	url = https://github.com/cran/CopernicusDEM
-[submodule "CopernicusMarine"]
-	path = CopernicusMarine
-	url = https://github.com/cran/CopernicusMarine
 [submodule "Copula.Markov"]
 	path = Copula.Markov
 	url = https://github.com/cran/Copula.Markov
@@ -53771,9 +53765,6 @@
 [submodule "ppdiag"]
 	path = ppdiag
 	url = https://github.com/cran/ppdiag
-[submodule "ppendemic"]
-	path = ppendemic
-	url = https://github.com/cran/ppendemic
 [submodule "ppgam"]
 	path = ppgam
 	url = https://github.com/cran/ppgam
