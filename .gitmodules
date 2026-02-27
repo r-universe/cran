@@ -39815,9 +39815,6 @@
 [submodule "heuristica"]
 	path = heuristica
 	url = https://github.com/cran/heuristica
-[submodule "heuristicsmineR"]
-	path = heuristicsmineR
-	url = https://github.com/cran/heuristicsmineR
 [submodule "hexDensity"]
 	path = hexDensity
 	url = https://github.com/cran/hexDensity
