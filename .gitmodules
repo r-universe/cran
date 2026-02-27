@@ -16058,6 +16058,9 @@
 [submodule "RcppThread"]
 	path = RcppThread
 	url = https://github.com/cran/RcppThread
+[submodule "RcppTskit"]
+	path = RcppTskit
+	url = https://github.com/cran/RcppTskit
 [submodule "RcppUUID"]
 	path = RcppUUID
 	url = https://github.com/cran/RcppUUID
@@ -49172,6 +49175,9 @@
 [submodule "neuroimaGene"]
 	path = neuroimaGene
 	url = https://github.com/cran/neuroimaGene
+[submodule "neuromapr"]
+	path = neuromapr
+	url = https://github.com/cran/neuromapr
 [submodule "neuromplex"]
 	path = neuromplex
 	url = https://github.com/cran/neuromplex
@@ -60962,6 +60968,9 @@
 [submodule "servr"]
 	path = servr
 	url = https://github.com/cran/servr
+[submodule "sessioncheck"]
+	path = sessioncheck
+	url = https://github.com/cran/sessioncheck
 [submodule "sessioninfo"]
 	path = sessioninfo
 	url = https://github.com/cran/sessioninfo
@@ -66251,6 +66260,9 @@
 [submodule "tidyUSDA"]
 	path = tidyUSDA
 	url = https://github.com/cran/tidyUSDA
+[submodule "tidyaudit"]
+	path = tidyaudit
+	url = https://github.com/cran/tidyaudit
 [submodule "tidybayes"]
 	path = tidybayes
 	url = https://github.com/cran/tidybayes
