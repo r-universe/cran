@@ -6851,6 +6851,9 @@
 [submodule "GLSME"]
 	path = GLSME
 	url = https://github.com/cran/GLSME
+[submodule "GLmom"]
+	path = GLmom
+	url = https://github.com/cran/GLmom
 [submodule "GMAC"]
 	path = GMAC
 	url = https://github.com/cran/GMAC
@@ -13178,6 +13181,9 @@
 [submodule "PSSMCOOL"]
 	path = PSSMCOOL
 	url = https://github.com/cran/PSSMCOOL
+[submodule "PSTR"]
+	path = PSTR
+	url = https://github.com/cran/PSTR
 [submodule "PSW"]
 	path = PSW
 	url = https://github.com/cran/PSW
@@ -22709,6 +22715,9 @@
 [submodule "astrochron"]
 	path = astrochron
 	url = https://github.com/cran/astrochron
+[submodule "astronomyengine"]
+	path = astronomyengine
+	url = https://github.com/cran/astronomyengine
 [submodule "astsa"]
 	path = astsa
 	url = https://github.com/cran/astsa
@@ -35006,6 +35015,9 @@
 [submodule "fitPoly"]
 	path = fitPoly
 	url = https://github.com/cran/fitPoly
+[submodule "fitVARMxID"]
+	path = fitVARMxID
+	url = https://github.com/cran/fitVARMxID
 [submodule "fitbitScraper"]
 	path = fitbitScraper
 	url = https://github.com/cran/fitbitScraper
@@ -37895,6 +37907,9 @@
 [submodule "ggupset"]
 	path = ggupset
 	url = https://github.com/cran/ggupset
+[submodule "ggvegan"]
+	path = ggvegan
+	url = https://github.com/cran/ggvegan
 [submodule "ggvenn"]
 	path = ggvenn
 	url = https://github.com/cran/ggvenn
@@ -40508,6 +40523,9 @@
 [submodule "hyperoverlap"]
 	path = hyperoverlap
 	url = https://github.com/cran/hyperoverlap
+[submodule "hypertext"]
+	path = hypertext
+	url = https://github.com/cran/hypertext
 [submodule "hypervolume"]
 	path = hypervolume
 	url = https://github.com/cran/hypervolume
@@ -59936,6 +59954,9 @@
 [submodule "sasif"]
 	path = sasif
 	url = https://github.com/cran/sasif
+[submodule "sasquatch"]
+	path = sasquatch
+	url = https://github.com/cran/sasquatch
 [submodule "sasr"]
 	path = sasr
 	url = https://github.com/cran/sasr
