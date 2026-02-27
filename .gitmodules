@@ -11906,9 +11906,6 @@
 [submodule "NetExplorer"]
 	path = NetExplorer
 	url = https://github.com/cran/NetExplorer
-[submodule "NetGreg"]
-	path = NetGreg
-	url = https://github.com/cran/NetGreg
 [submodule "NetIndices"]
 	path = NetIndices
 	url = https://github.com/cran/NetIndices
@@ -52286,9 +52283,6 @@
 [submodule "perturbR"]
 	path = perturbR
 	url = https://github.com/cran/perturbR
-[submodule "peruflorads43"]
-	path = peruflorads43
-	url = https://github.com/cran/peruflorads43
 [submodule "perumammals"]
 	path = perumammals
 	url = https://github.com/cran/perumammals
