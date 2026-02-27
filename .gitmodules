@@ -37907,6 +37907,9 @@
 [submodule "ggupset"]
 	path = ggupset
 	url = https://github.com/cran/ggupset
+[submodule "ggvariant"]
+	path = ggvariant
+	url = https://github.com/cran/ggvariant
 [submodule "ggvegan"]
 	path = ggvegan
 	url = https://github.com/cran/ggvegan
