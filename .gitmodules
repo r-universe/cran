@@ -9029,6 +9029,9 @@
 [submodule "KWCChangepoint"]
 	path = KWCChangepoint
 	url = https://github.com/cran/KWCChangepoint
+[submodule "KWELA"]
+	path = KWELA
+	url = https://github.com/cran/KWELA
 [submodule "KappaGUI"]
 	path = KappaGUI
 	url = https://github.com/cran/KappaGUI
@@ -11762,6 +11765,9 @@
 [submodule "NO.PING.PONG"]
 	path = NO.PING.PONG
 	url = https://github.com/cran/NO.PING.PONG
+[submodule "NORMAgene"]
+	path = NORMAgene
+	url = https://github.com/cran/NORMAgene
 [submodule "NOVA"]
 	path = NOVA
 	url = https://github.com/cran/NOVA
@@ -20375,6 +20381,9 @@
 [submodule "VectorCodeR"]
 	path = VectorCodeR
 	url = https://github.com/cran/VectorCodeR
+[submodule "VectorForgeML"]
+	path = VectorForgeML
+	url = https://github.com/cran/VectorForgeML
 [submodule "VectrixDB"]
 	path = VectrixDB
 	url = https://github.com/cran/VectrixDB
@@ -49292,6 +49301,9 @@
 [submodule "nhanesA"]
 	path = nhanesA
 	url = https://github.com/cran/nhanesA
+[submodule "nhanesdata"]
+	path = nhanesdata
+	url = https://github.com/cran/nhanesdata
 [submodule "nhdR"]
 	path = nhdR
 	url = https://github.com/cran/nhdR
@@ -50198,6 +50210,9 @@
 [submodule "obliqueRSF"]
 	path = obliqueRSF
 	url = https://github.com/cran/obliqueRSF
+[submodule "obm"]
+	path = obm
+	url = https://github.com/cran/obm
 [submodule "obsSens"]
 	path = obsSens
 	url = https://github.com/cran/obsSens
@@ -70610,6 +70625,9 @@
 [submodule "zoomerjoin"]
 	path = zoomerjoin
 	url = https://github.com/cran/zoomerjoin
+[submodule "zoomgrid"]
+	path = zoomgrid
+	url = https://github.com/cran/zoomgrid
 [submodule "zoomr"]
 	path = zoomr
 	url = https://github.com/cran/zoomr
