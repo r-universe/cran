@@ -21731,6 +21731,9 @@
 [submodule "aire.zmvm"]
 	path = aire.zmvm
 	url = https://github.com/cran/aire.zmvm
+[submodule "airnow"]
+	path = airnow
+	url = https://github.com/cran/airnow
 [submodule "airportr"]
 	path = airportr
 	url = https://github.com/cran/airportr
