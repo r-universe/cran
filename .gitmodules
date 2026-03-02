@@ -131,9 +131,6 @@
 [submodule "AFFECT"]
 	path = AFFECT
 	url = https://github.com/cran/AFFECT
-[submodule "AFR"]
-	path = AFR
-	url = https://github.com/cran/AFR
 [submodule "AFheritability"]
 	path = AFheritability
 	url = https://github.com/cran/AFheritability
@@ -1493,6 +1490,9 @@
 [submodule "BayesDIP"]
 	path = BayesDIP
 	url = https://github.com/cran/BayesDIP
+[submodule "BayesDLMfMRI"]
+	path = BayesDLMfMRI
+	url = https://github.com/cran/BayesDLMfMRI
 [submodule "BayesDecon"]
 	path = BayesDecon
 	url = https://github.com/cran/BayesDecon
@@ -11756,6 +11756,9 @@
 [submodule "NNS"]
 	path = NNS
 	url = https://github.com/cran/NNS
+[submodule "NNTbiomarker"]
+	path = NNTbiomarker
+	url = https://github.com/cran/NNTbiomarker
 [submodule "NNbenchmark"]
 	path = NNbenchmark
 	url = https://github.com/cran/NNbenchmark
@@ -16355,6 +16358,9 @@
 [submodule "ResultModelManager"]
 	path = ResultModelManager
 	url = https://github.com/cran/ResultModelManager
+[submodule "ReturnCurves"]
+	path = ReturnCurves
+	url = https://github.com/cran/ReturnCurves
 [submodule "RevGadgets"]
 	path = RevGadgets
 	url = https://github.com/cran/RevGadgets
@@ -20810,6 +20816,9 @@
 [submodule "XR"]
 	path = XR
 	url = https://github.com/cran/XR
+[submodule "XRPython"]
+	path = XRPython
+	url = https://github.com/cran/XRPython
 [submodule "XRSCC"]
 	path = XRSCC
 	url = https://github.com/cran/XRSCC
@@ -21992,6 +22001,9 @@
 [submodule "ammiBayes"]
 	path = ammiBayes
 	url = https://github.com/cran/ammiBayes
+[submodule "ammistability"]
+	path = ammistability
+	url = https://github.com/cran/ammistability
 [submodule "amp"]
 	path = amp
 	url = https://github.com/cran/amp
@@ -22208,6 +22220,9 @@
 [submodule "apathe"]
 	path = apathe
 	url = https://github.com/cran/apathe
+[submodule "apc"]
+	path = apc
+	url = https://github.com/cran/apc
 [submodule "apcf"]
 	path = apcf
 	url = https://github.com/cran/apcf
@@ -25133,6 +25148,9 @@
 [submodule "broadcast"]
 	path = broadcast
 	url = https://github.com/cran/broadcast
+[submodule "brokenstick"]
+	path = brokenstick
+	url = https://github.com/cran/brokenstick
 [submodule "brolgar"]
 	path = brolgar
 	url = https://github.com/cran/brolgar
@@ -34433,6 +34451,9 @@
 [submodule "faunabr"]
 	path = faunabr
 	url = https://github.com/cran/faunabr
+[submodule "faux"]
+	path = faux
+	url = https://github.com/cran/faux
 [submodule "fauxnaif"]
 	path = fauxnaif
 	url = https://github.com/cran/fauxnaif
@@ -35063,6 +35084,9 @@
 [submodule "fixr"]
 	path = fixr
 	url = https://github.com/cran/fixr
+[submodule "fixtuRes"]
+	path = fixtuRes
+	url = https://github.com/cran/fixtuRes
 [submodule "fizzbuzzR"]
 	path = fizzbuzzR
 	url = https://github.com/cran/fizzbuzzR
@@ -55886,6 +55910,9 @@
 [submodule "ra4bayesmeta"]
 	path = ra4bayesmeta
 	url = https://github.com/cran/ra4bayesmeta
+[submodule "rabi"]
+	path = rabi
+	url = https://github.com/cran/rabi
 [submodule "racademyocean"]
 	path = racademyocean
 	url = https://github.com/cran/racademyocean
@@ -66674,6 +66701,9 @@
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/cran/timereg
+[submodule "timeseriesdb"]
+	path = timeseriesdb
+	url = https://github.com/cran/timeseriesdb
 [submodule "timetk"]
 	path = timetk
 	url = https://github.com/cran/timetk
