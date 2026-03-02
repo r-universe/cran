@@ -34271,6 +34271,9 @@
 [submodule "fastM"]
 	path = fastM
 	url = https://github.com/cran/fastM
+[submodule "fastMatMR"]
+	path = fastMatMR
+	url = https://github.com/cran/fastMatMR
 [submodule "fastNaiveBayes"]
 	path = fastNaiveBayes
 	url = https://github.com/cran/fastNaiveBayes
