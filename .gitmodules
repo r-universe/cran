@@ -323,6 +323,9 @@
 [submodule "ARCensReg"]
 	path = ARCensReg
 	url = https://github.com/cran/ARCensReg
+[submodule "ARCokrig"]
+	path = ARCokrig
+	url = https://github.com/cran/ARCokrig
 [submodule "ARDECO"]
 	path = ARDECO
 	url = https://github.com/cran/ARDECO
