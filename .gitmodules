@@ -131,6 +131,9 @@
 [submodule "AFFECT"]
 	path = AFFECT
 	url = https://github.com/cran/AFFECT
+[submodule "AFR"]
+	path = AFR
+	url = https://github.com/cran/AFR
 [submodule "AFheritability"]
 	path = AFheritability
 	url = https://github.com/cran/AFheritability
