@@ -3899,6 +3899,9 @@
 [submodule "DDD"]
 	path = DDD
 	url = https://github.com/cran/DDD
+[submodule "DDESONN"]
+	path = DDESONN
+	url = https://github.com/cran/DDESONN
 [submodule "DDHFm"]
 	path = DDHFm
 	url = https://github.com/cran/DDHFm
@@ -14564,6 +14567,9 @@
 [submodule "RCaucTile"]
 	path = RCaucTile
 	url = https://github.com/cran/RCaucTile
+[submodule "RChASM"]
+	path = RChASM
+	url = https://github.com/cran/RChASM
 [submodule "RChest"]
 	path = RChest
 	url = https://github.com/cran/RChest
@@ -55652,6 +55658,18 @@
 [submodule "r4subdata"]
 	path = r4subdata
 	url = https://github.com/cran/r4subdata
+[submodule "r4subprofile"]
+	path = r4subprofile
+	url = https://github.com/cran/r4subprofile
+[submodule "r4subrisk"]
+	path = r4subrisk
+	url = https://github.com/cran/r4subrisk
+[submodule "r4subscore"]
+	path = r4subscore
+	url = https://github.com/cran/r4subscore
+[submodule "r4subtrace"]
+	path = r4subtrace
+	url = https://github.com/cran/r4subtrace
 [submodule "r5r"]
 	path = r5r
 	url = https://github.com/cran/r5r
@@ -68285,6 +68303,9 @@
 [submodule "uniah"]
 	path = uniah
 	url = https://github.com/cran/uniah
+[submodule "unicefData"]
+	path = unicefData
+	url = https://github.com/cran/unicefData
 [submodule "unicol"]
 	path = unicol
 	url = https://github.com/cran/unicol
