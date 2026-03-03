@@ -3275,6 +3275,9 @@
 [submodule "CodataGS"]
 	path = CodataGS
 	url = https://github.com/cran/CodataGS
+[submodule "CodeDepends"]
+	path = CodeDepends
+	url = https://github.com/cran/CodeDepends
 [submodule "CodelistGenerator"]
 	path = CodelistGenerator
 	url = https://github.com/cran/CodelistGenerator
@@ -11018,6 +11021,9 @@
 [submodule "MetaDose"]
 	path = MetaDose
 	url = https://github.com/cran/MetaDose
+[submodule "MetaEntropy"]
+	path = MetaEntropy
+	url = https://github.com/cran/MetaEntropy
 [submodule "MetaHD"]
 	path = MetaHD
 	url = https://github.com/cran/MetaHD
@@ -15899,6 +15905,9 @@
 [submodule "Rcompadre"]
 	path = Rcompadre
 	url = https://github.com/cran/Rcompadre
+[submodule "Rcope"]
+	path = Rcope
+	url = https://github.com/cran/Rcope
 [submodule "Rcplex"]
 	path = Rcplex
 	url = https://github.com/cran/Rcplex
@@ -26015,6 +26024,9 @@
 [submodule "cbsodataR"]
 	path = cbsodataR
 	url = https://github.com/cran/cbsodataR
+[submodule "ccLRforR"]
+	path = ccLRforR
+	url = https://github.com/cran/ccLRforR
 [submodule "ccRemover"]
 	path = ccRemover
 	url = https://github.com/cran/ccRemover
@@ -34430,6 +34442,9 @@
 [submodule "fastqrs"]
 	path = fastqrs
 	url = https://github.com/cran/fastqrs
+[submodule "fastrc"]
+	path = fastrc
+	url = https://github.com/cran/fastrc
 [submodule "fastreg"]
 	path = fastreg
 	url = https://github.com/cran/fastreg
@@ -41396,6 +41411,9 @@
 [submodule "infixit"]
 	path = infixit
 	url = https://github.com/cran/infixit
+[submodule "inflateR"]
+	path = inflateR
+	url = https://github.com/cran/inflateR
 [submodule "inflection"]
 	path = inflection
 	url = https://github.com/cran/inflection
@@ -44243,6 +44261,9 @@
 [submodule "lobbyR"]
 	path = lobbyR
 	url = https://github.com/cran/lobbyR
+[submodule "lobsteR"]
+	path = lobsteR
+	url = https://github.com/cran/lobsteR
 [submodule "lobstr"]
 	path = lobstr
 	url = https://github.com/cran/lobstr
@@ -51017,6 +51038,9 @@
 [submodule "orthGS"]
 	path = orthGS
 	url = https://github.com/cran/orthGS
+[submodule "orthanc"]
+	path = orthanc
+	url = https://github.com/cran/orthanc
 [submodule "orthoDr"]
 	path = orthoDr
 	url = https://github.com/cran/orthoDr
@@ -52532,6 +52556,9 @@
 [submodule "phenopix"]
 	path = phenopix
 	url = https://github.com/cran/phenopix
+[submodule "phers"]
+	path = phers
+	url = https://github.com/cran/phers
 [submodule "phiDelta"]
 	path = phiDelta
 	url = https://github.com/cran/phiDelta
@@ -55679,6 +55706,9 @@
 [submodule "rCNV"]
 	path = rCNV
 	url = https://github.com/cran/rCNV
+[submodule "rCausalMGM"]
+	path = rCausalMGM
+	url = https://github.com/cran/rCausalMGM
 [submodule "rChEA3"]
 	path = rChEA3
 	url = https://github.com/cran/rChEA3
@@ -56519,6 +56549,9 @@
 [submodule "rcdd"]
 	path = rcdd
 	url = https://github.com/cran/rcdd
+[submodule "rcdf"]
+	path = rcdf
+	url = https://github.com/cran/rcdf
 [submodule "rcdk"]
 	path = rcdk
 	url = https://github.com/cran/rcdk
@@ -60020,6 +60053,9 @@
 [submodule "savonliquide"]
 	path = savonliquide
 	url = https://github.com/cran/savonliquide
+[submodule "savvySh"]
+	path = savvySh
+	url = https://github.com/cran/savvySh
 [submodule "savvyr"]
 	path = savvyr
 	url = https://github.com/cran/savvyr
@@ -67253,6 +67289,9 @@
 [submodule "trainR"]
 	path = trainR
 	url = https://github.com/cran/trainR
+[submodule "traineR"]
+	path = traineR
+	url = https://github.com/cran/traineR
 [submodule "trainsplit"]
 	path = trainsplit
 	url = https://github.com/cran/trainsplit
