@@ -52532,9 +52532,6 @@
 [submodule "phenopix"]
 	path = phenopix
 	url = https://github.com/cran/phenopix
-[submodule "phers"]
-	path = phers
-	url = https://github.com/cran/phers
 [submodule "phiDelta"]
 	path = phiDelta
 	url = https://github.com/cran/phiDelta
@@ -56522,9 +56519,6 @@
 [submodule "rcdd"]
 	path = rcdd
 	url = https://github.com/cran/rcdd
-[submodule "rcdf"]
-	path = rcdf
-	url = https://github.com/cran/rcdf
 [submodule "rcdk"]
 	path = rcdk
 	url = https://github.com/cran/rcdk
@@ -67259,9 +67253,6 @@
 [submodule "trainR"]
 	path = trainR
 	url = https://github.com/cran/trainR
-[submodule "traineR"]
-	path = traineR
-	url = https://github.com/cran/traineR
 [submodule "trainsplit"]
 	path = trainsplit
 	url = https://github.com/cran/trainsplit
