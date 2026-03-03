@@ -11210,6 +11210,9 @@
 [submodule "MixLFA"]
 	path = MixLFA
 	url = https://github.com/cran/MixLFA
+[submodule "MixMashNet"]
+	path = MixMashNet
+	url = https://github.com/cran/MixMashNet
 [submodule "MixMatrix"]
 	path = MixMatrix
 	url = https://github.com/cran/MixMatrix
@@ -26993,6 +26996,9 @@
 [submodule "clinPK"]
 	path = clinPK
 	url = https://github.com/cran/clinPK
+[submodule "clinTrialData"]
+	path = clinTrialData
+	url = https://github.com/cran/clinTrialData
 [submodule "clinUtils"]
 	path = clinUtils
 	url = https://github.com/cran/clinUtils
@@ -44258,6 +44264,9 @@
 [submodule "loadshaper"]
 	path = loadshaper
 	url = https://github.com/cran/loadshaper
+[submodule "lobby"]
+	path = lobby
+	url = https://github.com/cran/lobby
 [submodule "lobbyR"]
 	path = lobbyR
 	url = https://github.com/cran/lobbyR
@@ -59240,6 +59249,9 @@
 [submodule "rstudioapi"]
 	path = rstudioapi
 	url = https://github.com/cran/rstudioapi
+[submodule "rstudiothemes"]
+	path = rstudiothemes
+	url = https://github.com/cran/rstudiothemes
 [submodule "rsubgroup"]
 	path = rsubgroup
 	url = https://github.com/cran/rsubgroup
@@ -65165,6 +65177,9 @@
 [submodule "svs"]
 	path = svs
 	url = https://github.com/cran/svs
+[submodule "svyCausalGLM"]
+	path = svyCausalGLM
+	url = https://github.com/cran/svyCausalGLM
 [submodule "svyROC"]
 	path = svyROC
 	url = https://github.com/cran/svyROC
