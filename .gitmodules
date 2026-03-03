@@ -41660,6 +41660,9 @@
 [submodule "interpolators"]
 	path = interpolators
 	url = https://github.com/cran/interpolators
+[submodule "interpret"]
+	path = interpret
+	url = https://github.com/cran/interpret
 [submodule "interpretCI"]
 	path = interpretCI
 	url = https://github.com/cran/interpretCI
@@ -58586,6 +58589,9 @@
 [submodule "robust"]
 	path = robust
 	url = https://github.com/cran/robust
+[submodule "robust.prioritizr"]
+	path = robust.prioritizr
+	url = https://github.com/cran/robust.prioritizr
 [submodule "robust2sls"]
 	path = robust2sls
 	url = https://github.com/cran/robust2sls
