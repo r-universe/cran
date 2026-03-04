@@ -5714,6 +5714,9 @@
 [submodule "ExposR"]
 	path = ExposR
 	url = https://github.com/cran/ExposR
+[submodule "ExpressionCellNet"]
+	path = ExpressionCellNet
+	url = https://github.com/cran/ExpressionCellNet
 [submodule "ExtDist"]
 	path = ExtDist
 	url = https://github.com/cran/ExtDist
@@ -5984,9 +5987,6 @@
 [submodule "FORD"]
 	path = FORD
 	url = https://github.com/cran/FORD
-[submodule "FORTLS"]
-	path = FORTLS
-	url = https://github.com/cran/FORTLS
 [submodule "FPCA3D"]
 	path = FPCA3D
 	url = https://github.com/cran/FPCA3D
@@ -21239,6 +21239,9 @@
 [submodule "actuar"]
 	path = actuar
 	url = https://github.com/cran/actuar
+[submodule "actuary"]
+	path = actuary
+	url = https://github.com/cran/actuary
 [submodule "actuaryr"]
 	path = actuaryr
 	url = https://github.com/cran/actuaryr
@@ -27719,6 +27722,9 @@
 [submodule "colourpicker"]
 	path = colourpicker
 	url = https://github.com/cran/colourpicker
+[submodule "colourspace"]
+	path = colourspace
+	url = https://github.com/cran/colourspace
 [submodule "colourvalues"]
 	path = colourvalues
 	url = https://github.com/cran/colourvalues
@@ -28307,6 +28313,9 @@
 [submodule "copulaSFM"]
 	path = copulaSFM
 	url = https://github.com/cran/copulaSFM
+[submodule "copulaSQM"]
+	path = copulaSQM
+	url = https://github.com/cran/copulaSQM
 [submodule "copulaSim"]
 	path = copulaSim
 	url = https://github.com/cran/copulaSim
@@ -40349,6 +40358,9 @@
 [submodule "htmlwidgets"]
 	path = htmlwidgets
 	url = https://github.com/cran/htmlwidgets
+[submodule "htmxr"]
+	path = htmxr
+	url = https://github.com/cran/htmxr
 [submodule "htrSPRanalysis"]
 	path = htrSPRanalysis
 	url = https://github.com/cran/htrSPRanalysis
@@ -40376,6 +40388,9 @@
 [submodule "httpcode"]
 	path = httpcode
 	url = https://github.com/cran/httpcode
+[submodule "httpgd"]
+	path = httpgd
+	url = https://github.com/cran/httpgd
 [submodule "httping"]
 	path = httping
 	url = https://github.com/cran/httping
@@ -41159,6 +41174,9 @@
 [submodule "imageviewer"]
 	path = imageviewer
 	url = https://github.com/cran/imageviewer
+[submodule "imaginarycss"]
+	path = imaginarycss
+	url = https://github.com/cran/imaginarycss
 [submodule "imaginator"]
 	path = imaginator
 	url = https://github.com/cran/imaginator
@@ -46130,6 +46148,9 @@
 [submodule "metabolic"]
 	path = metabolic
 	url = https://github.com/cran/metabolic
+[submodule "metabook"]
+	path = metabook
+	url = https://github.com/cran/metabook
 [submodule "metabup"]
 	path = metabup
 	url = https://github.com/cran/metabup
@@ -46316,6 +46337,9 @@
 [submodule "metevalue"]
 	path = metevalue
 	url = https://github.com/cran/metevalue
+[submodule "methFuse"]
+	path = methFuse
+	url = https://github.com/cran/methFuse
 [submodule "methcon5"]
 	path = methcon5
 	url = https://github.com/cran/methcon5
@@ -57992,6 +58016,9 @@
 [submodule "richCluster"]
 	path = richCluster
 	url = https://github.com/cran/richCluster
+[submodule "rict"]
+	path = rict
+	url = https://github.com/cran/rict
 [submodule "ricu"]
 	path = ricu
 	url = https://github.com/cran/ricu
