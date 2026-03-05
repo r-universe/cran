@@ -18101,9 +18101,6 @@
 [submodule "SeqAlloc"]
 	path = SeqAlloc
 	url = https://github.com/cran/SeqAlloc
-[submodule "SeqDetect"]
-	path = SeqDetect
-	url = https://github.com/cran/SeqDetect
 [submodule "SeqFeatR"]
 	path = SeqFeatR
 	url = https://github.com/cran/SeqFeatR
@@ -24089,9 +24086,6 @@
 [submodule "bigMICE"]
 	path = bigMICE
 	url = https://github.com/cran/bigMICE
-[submodule "bigMap"]
-	path = bigMap
-	url = https://github.com/cran/bigMap
 [submodule "bigPCAcpp"]
 	path = bigPCAcpp
 	url = https://github.com/cran/bigPCAcpp
@@ -39392,9 +39386,6 @@
 [submodule "h5lite"]
 	path = h5lite
 	url = https://github.com/cran/h5lite
-[submodule "hBayesDM"]
-	path = hBayesDM
-	url = https://github.com/cran/hBayesDM
 [submodule "hIRT"]
 	path = hIRT
 	url = https://github.com/cran/hIRT
