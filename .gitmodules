@@ -66440,6 +66440,9 @@
 [submodule "tidybayes"]
 	path = tidybayes
 	url = https://github.com/cran/tidybayes
+[submodule "tidybins"]
+	path = tidybins
+	url = https://github.com/cran/tidybins
 [submodule "tidyboot"]
 	path = tidyboot
 	url = https://github.com/cran/tidyboot
