@@ -278,6 +278,9 @@
 [submodule "APCanalysis"]
 	path = APCanalysis
 	url = https://github.com/cran/APCanalysis
+[submodule "APCinteraction"]
+	path = APCinteraction
+	url = https://github.com/cran/APCinteraction
 [submodule "APCtools"]
 	path = APCtools
 	url = https://github.com/cran/APCtools
@@ -26483,6 +26486,9 @@
 [submodule "checkmate"]
 	path = checkmate
 	url = https://github.com/cran/checkmate
+[submodule "checkstring"]
+	path = checkstring
+	url = https://github.com/cran/checkstring
 [submodule "checkthat"]
 	path = checkthat
 	url = https://github.com/cran/checkthat
@@ -34643,6 +34649,9 @@
 [submodule "fdarep"]
 	path = fdarep
 	url = https://github.com/cran/fdarep
+[submodule "fdars"]
+	path = fdars
+	url = https://github.com/cran/fdars
 [submodule "fdasrvf"]
 	path = fdasrvf
 	url = https://github.com/cran/fdasrvf
@@ -44153,6 +44162,9 @@
 [submodule "llama"]
 	path = llama
 	url = https://github.com/cran/llama
+[submodule "llamaR"]
+	path = llamaR
+	url = https://github.com/cran/llamaR
 [submodule "llbayesireg"]
 	path = llbayesireg
 	url = https://github.com/cran/llbayesireg
@@ -56789,6 +56801,9 @@
 [submodule "rdiversity"]
 	path = rdiversity
 	url = https://github.com/cran/rdiversity
+[submodule "rdkitpyr"]
+	path = rdkitpyr
+	url = https://github.com/cran/rdkitpyr
 [submodule "rdlearn"]
 	path = rdlearn
 	url = https://github.com/cran/rdlearn
@@ -70010,6 +70025,9 @@
 [submodule "wklsr"]
 	path = wklsr
 	url = https://github.com/cran/wklsr
+[submodule "wkpool"]
+	path = wkpool
+	url = https://github.com/cran/wkpool
 [submodule "wktmo"]
 	path = wktmo
 	url = https://github.com/cran/wktmo
