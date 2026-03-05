@@ -419,6 +419,9 @@
 [submodule "AUtests"]
 	path = AUtests
 	url = https://github.com/cran/AUtests
+[submodule "AV1R"]
+	path = AV1R
+	url = https://github.com/cran/AV1R
 [submodule "AVGAS"]
 	path = AVGAS
 	url = https://github.com/cran/AVGAS
@@ -15461,6 +15464,9 @@
 [submodule "RSQLite"]
 	path = RSQLite
 	url = https://github.com/cran/RSQLite
+[submodule "RSQLite.toolkit"]
+	path = RSQLite.toolkit
+	url = https://github.com/cran/RSQLite.toolkit
 [submodule "RSSL"]
 	path = RSSL
 	url = https://github.com/cran/RSSL
@@ -19949,6 +19955,9 @@
 [submodule "TriDimRegression"]
 	path = TriDimRegression
 	url = https://github.com/cran/TriDimRegression
+[submodule "TriLLIEM"]
+	path = TriLLIEM
+	url = https://github.com/cran/TriLLIEM
 [submodule "TriMatch"]
 	path = TriMatch
 	url = https://github.com/cran/TriMatch
@@ -33152,6 +33161,9 @@
 [submodule "epitrix"]
 	path = epitrix
 	url = https://github.com/cran/epitrix
+[submodule "epiviz"]
+	path = epiviz
+	url = https://github.com/cran/epiviz
 [submodule "epiworldR"]
 	path = epiworldR
 	url = https://github.com/cran/epiworldR
@@ -57365,6 +57377,9 @@
 [submodule "reliabilitydiag"]
 	path = reliabilitydiag
 	url = https://github.com/cran/reliabilitydiag
+[submodule "reliacoef"]
+	path = reliacoef
+	url = https://github.com/cran/reliacoef
 [submodule "relimp"]
 	path = relimp
 	url = https://github.com/cran/relimp
@@ -60224,6 +60239,9 @@
 [submodule "scPOEM"]
 	path = scPOEM
 	url = https://github.com/cran/scPOEM
+[submodule "scPairs"]
+	path = scPairs
+	url = https://github.com/cran/scPairs
 [submodule "scPipeline"]
 	path = scPipeline
 	url = https://github.com/cran/scPipeline
