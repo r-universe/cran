@@ -20606,9 +20606,6 @@
 [submodule "WRS2"]
 	path = WRS2
 	url = https://github.com/cran/WRS2
-[submodule "WRSS"]
-	path = WRSS
-	url = https://github.com/cran/WRSS
 [submodule "WRTDStidal"]
 	path = WRTDStidal
 	url = https://github.com/cran/WRTDStidal
