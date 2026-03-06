@@ -19781,6 +19781,9 @@
 [submodule "Tides"]
 	path = Tides
 	url = https://github.com/cran/Tides
+[submodule "TidyConsultant"]
+	path = TidyConsultant
+	url = https://github.com/cran/TidyConsultant
 [submodule "TidyDensity"]
 	path = TidyDensity
 	url = https://github.com/cran/TidyDensity
@@ -40880,6 +40883,9 @@
 [submodule "iccTraj"]
 	path = iccTraj
 	url = https://github.com/cran/iccTraj
+[submodule "iccbeta"]
+	path = iccbeta
+	url = https://github.com/cran/iccbeta
 [submodule "iccde"]
 	path = iccde
 	url = https://github.com/cran/iccde
@@ -45131,6 +45137,9 @@
 [submodule "mantis"]
 	path = mantis
 	url = https://github.com/cran/mantis
+[submodule "manureshed"]
+	path = manureshed
+	url = https://github.com/cran/manureshed
 [submodule "manydata"]
 	path = manydata
 	url = https://github.com/cran/manydata
@@ -53444,6 +53453,9 @@
 [submodule "poLCA"]
 	path = poLCA
 	url = https://github.com/cran/poLCA
+[submodule "poLCAParallel"]
+	path = poLCAParallel
+	url = https://github.com/cran/poLCAParallel
 [submodule "pocrm"]
 	path = pocrm
 	url = https://github.com/cran/pocrm
@@ -57284,6 +57296,9 @@
 [submodule "regmed"]
 	path = regmed
 	url = https://github.com/cran/regmed
+[submodule "regmedint"]
+	path = regmedint
+	url = https://github.com/cran/regmedint
 [submodule "regmhmm"]
 	path = regmhmm
 	url = https://github.com/cran/regmhmm
@@ -63260,6 +63275,9 @@
 [submodule "sparselink"]
 	path = sparselink
 	url = https://github.com/cran/sparselink
+[submodule "sparselu"]
+	path = sparselu
+	url = https://github.com/cran/sparselu
 [submodule "sparsenet"]
 	path = sparsenet
 	url = https://github.com/cran/sparsenet
