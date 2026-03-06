@@ -20543,6 +20543,9 @@
 [submodule "WAnova"]
 	path = WAnova
 	url = https://github.com/cran/WAnova
+[submodule "WAreg"]
+	path = WAreg
+	url = https://github.com/cran/WAreg
 [submodule "WCE"]
 	path = WCE
 	url = https://github.com/cran/WCE
@@ -21680,6 +21683,9 @@
 [submodule "agpower"]
 	path = agpower
 	url = https://github.com/cran/agpower
+[submodule "agregR"]
+	path = agregR
+	url = https://github.com/cran/agregR
 [submodule "agriTutorial"]
 	path = agriTutorial
 	url = https://github.com/cran/agriTutorial
@@ -47759,6 +47765,9 @@
 [submodule "moonboot"]
 	path = moonboot
 	url = https://github.com/cran/moonboot
+[submodule "moonlit"]
+	path = moonlit
+	url = https://github.com/cran/moonlit
 [submodule "mooplot"]
 	path = mooplot
 	url = https://github.com/cran/mooplot
@@ -50726,6 +50735,9 @@
 [submodule "openai"]
 	path = openai
 	url = https://github.com/cran/openai
+[submodule "openaiRtools"]
+	path = openaiRtools
+	url = https://github.com/cran/openaiRtools
 [submodule "openair"]
 	path = openair
 	url = https://github.com/cran/openair
@@ -58628,6 +58640,9 @@
 [submodule "robregcc"]
 	path = robregcc
 	url = https://github.com/cran/robregcc
+[submodule "robscale"]
+	path = robscale
+	url = https://github.com/cran/robscale
 [submodule "robsel"]
 	path = robsel
 	url = https://github.com/cran/robsel
@@ -68921,6 +68936,9 @@
 [submodule "vcfR"]
 	path = vcfR
 	url = https://github.com/cran/vcfR
+[submodule "vcfheader"]
+	path = vcfheader
+	url = https://github.com/cran/vcfheader
 [submodule "vcfppR"]
 	path = vcfppR
 	url = https://github.com/cran/vcfppR
