@@ -48464,6 +48464,9 @@
 [submodule "multinomineq"]
 	path = multinomineq
 	url = https://github.com/cran/multinomineq
+[submodule "multiobjectiveMDP"]
+	path = multiobjectiveMDP
+	url = https://github.com/cran/multiobjectiveMDP
 [submodule "multiocc"]
 	path = multiocc
 	url = https://github.com/cran/multiocc
