@@ -9305,6 +9305,9 @@
 [submodule "LINselect"]
 	path = LINselect
 	url = https://github.com/cran/LINselect
+[submodule "LISTO"]
+	path = LISTO
+	url = https://github.com/cran/LISTO
 [submodule "LJexm"]
 	path = LJexm
 	url = https://github.com/cran/LJexm
@@ -20966,6 +20969,9 @@
 [submodule "ZeBook"]
 	path = ZeBook
 	url = https://github.com/cran/ZeBook
+[submodule "ZeroOneDists"]
+	path = ZeroOneDists
+	url = https://github.com/cran/ZeroOneDists
 [submodule "ZetaSuite"]
 	path = ZetaSuite
 	url = https://github.com/cran/ZetaSuite
@@ -25088,6 +25094,9 @@
 [submodule "brant"]
 	path = brant
 	url = https://github.com/cran/brant
+[submodule "brar"]
+	path = brar
+	url = https://github.com/cran/brar
 [submodule "brassica"]
 	path = brassica
 	url = https://github.com/cran/brassica
@@ -38024,6 +38033,9 @@
 [submodule "ggvolcano"]
 	path = ggvolcano
 	url = https://github.com/cran/ggvolcano
+[submodule "ggwidth"]
+	path = ggwidth
+	url = https://github.com/cran/ggwidth
 [submodule "ggwordcloud"]
 	path = ggwordcloud
 	url = https://github.com/cran/ggwordcloud
@@ -45221,6 +45233,9 @@
 [submodule "mapiso"]
 	path = mapiso
 	url = https://github.com/cran/mapiso
+[submodule "maplamina"]
+	path = maplamina
+	url = https://github.com/cran/maplamina
 [submodule "maplegend"]
 	path = maplegend
 	url = https://github.com/cran/maplegend
@@ -69131,6 +69146,9 @@
 [submodule "video"]
 	path = video
 	url = https://github.com/cran/video
+[submodule "videogameinsightsR"]
+	path = videogameinsightsR
+	url = https://github.com/cran/videogameinsightsR
 [submodule "vietnamcode"]
 	path = vietnamcode
 	url = https://github.com/cran/vietnamcode
@@ -69875,6 +69893,9 @@
 [submodule "whSample"]
 	path = whSample
 	url = https://github.com/cran/whSample
+[submodule "whalestrike"]
+	path = whalestrike
+	url = https://github.com/cran/whalestrike
 [submodule "whapi"]
 	path = whapi
 	url = https://github.com/cran/whapi
