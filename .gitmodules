@@ -45131,9 +45131,6 @@
 [submodule "mantis"]
 	path = mantis
 	url = https://github.com/cran/mantis
-[submodule "manureshed"]
-	path = manureshed
-	url = https://github.com/cran/manureshed
 [submodule "manydata"]
 	path = manydata
 	url = https://github.com/cran/manydata
@@ -53447,9 +53444,6 @@
 [submodule "poLCA"]
 	path = poLCA
 	url = https://github.com/cran/poLCA
-[submodule "poLCAParallel"]
-	path = poLCAParallel
-	url = https://github.com/cran/poLCAParallel
 [submodule "pocrm"]
 	path = pocrm
 	url = https://github.com/cran/pocrm
@@ -63266,9 +63260,6 @@
 [submodule "sparselink"]
 	path = sparselink
 	url = https://github.com/cran/sparselink
-[submodule "sparselu"]
-	path = sparselu
-	url = https://github.com/cran/sparselu
 [submodule "sparsenet"]
 	path = sparsenet
 	url = https://github.com/cran/sparsenet
