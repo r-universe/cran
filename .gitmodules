@@ -51395,9 +51395,6 @@
 [submodule "pKSEA"]
 	path = pKSEA
 	url = https://github.com/cran/pKSEA
-[submodule "pMEM"]
-	path = pMEM
-	url = https://github.com/cran/pMEM
 [submodule "pPCA"]
 	path = pPCA
 	url = https://github.com/cran/pPCA
