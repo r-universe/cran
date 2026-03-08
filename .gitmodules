@@ -13235,6 +13235,9 @@
 [submodule "PSsurvival"]
 	path = PSsurvival
 	url = https://github.com/cran/PSsurvival
+[submodule "PStrata"]
+	path = PStrata
+	url = https://github.com/cran/PStrata
 [submodule "PSweight"]
 	path = PSweight
 	url = https://github.com/cran/PSweight
@@ -66749,6 +66752,9 @@
 [submodule "tidysq"]
 	path = tidysq
 	url = https://github.com/cran/tidysq
+[submodule "tidystats"]
+	path = tidystats
+	url = https://github.com/cran/tidystats
 [submodule "tidystopwords"]
 	path = tidystopwords
 	url = https://github.com/cran/tidystopwords
