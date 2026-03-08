@@ -30341,6 +30341,9 @@
 [submodule "deltaccd"]
 	path = deltaccd
 	url = https://github.com/cran/deltaccd
+[submodule "deltapif"]
+	path = deltapif
+	url = https://github.com/cran/deltapif
 [submodule "deltatest"]
 	path = deltatest
 	url = https://github.com/cran/deltatest
@@ -45443,6 +45446,9 @@
 [submodule "maskRangeR"]
 	path = maskRangeR
 	url = https://github.com/cran/maskRangeR
+[submodule "maskedcauses"]
+	path = maskedcauses
+	url = https://github.com/cran/maskedcauses
 [submodule "maskr"]
 	path = maskr
 	url = https://github.com/cran/maskr
@@ -55436,6 +55442,9 @@
 [submodule "quallmer"]
 	path = quallmer
 	url = https://github.com/cran/quallmer
+[submodule "quallmer.app"]
+	path = quallmer.app
+	url = https://github.com/cran/quallmer.app
 [submodule "qualmap"]
 	path = qualmap
 	url = https://github.com/cran/qualmap
