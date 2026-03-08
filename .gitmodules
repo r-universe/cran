@@ -23174,6 +23174,9 @@
 [submodule "babynamesIL"]
 	path = babynamesIL
 	url = https://github.com/cran/babynamesIL
+[submodule "bacenR"]
+	path = bacenR
+	url = https://github.com/cran/bacenR
 [submodule "bacistool"]
 	path = bacistool
 	url = https://github.com/cran/bacistool
@@ -27365,6 +27368,9 @@
 [submodule "cmtest"]
 	path = cmtest
 	url = https://github.com/cran/cmtest
+[submodule "cmtkr"]
+	path = cmtkr
+	url = https://github.com/cran/cmtkr
 [submodule "cmvnorm"]
 	path = cmvnorm
 	url = https://github.com/cran/cmvnorm
@@ -33104,6 +33110,9 @@
 [submodule "epibasix"]
 	path = epibasix
 	url = https://github.com/cran/epibasix
+[submodule "epicR"]
+	path = epicR
+	url = https://github.com/cran/epicR
 [submodule "epicasting"]
 	path = epicasting
 	url = https://github.com/cran/epicasting
@@ -40988,6 +40997,9 @@
 [submodule "icr"]
 	path = icr
 	url = https://github.com/cran/icr
+[submodule "ictools"]
+	path = ictools
+	url = https://github.com/cran/ictools
 [submodule "idar"]
 	path = idar
 	url = https://github.com/cran/idar
@@ -51008,6 +51020,9 @@
 [submodule "ordDisp"]
 	path = ordDisp
 	url = https://github.com/cran/ordDisp
+[submodule "ordPanel"]
+	path = ordPanel
+	url = https://github.com/cran/ordPanel
 [submodule "ordbetareg"]
 	path = ordbetareg
 	url = https://github.com/cran/ordbetareg
@@ -64922,6 +64937,9 @@
 [submodule "summarytools"]
 	path = summarytools
 	url = https://github.com/cran/summarytools
+[submodule "summata"]
+	path = summata
+	url = https://github.com/cran/summata
 [submodule "sumup"]
 	path = sumup
 	url = https://github.com/cran/sumup
