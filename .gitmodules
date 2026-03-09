@@ -1058,6 +1058,9 @@
 [submodule "BEKKs"]
 	path = BEKKs
 	url = https://github.com/cran/BEKKs
+[submodule "BEMPdata"]
+	path = BEMPdata
+	url = https://github.com/cran/BEMPdata
 [submodule "BEND"]
 	path = BEND
 	url = https://github.com/cran/BEND
@@ -15143,6 +15146,9 @@
 [submodule "ROAuth"]
 	path = ROAuth
 	url = https://github.com/cran/ROAuth
+[submodule "ROBOSRMSMOTE"]
+	path = ROBOSRMSMOTE
+	url = https://github.com/cran/ROBOSRMSMOTE
 [submodule "ROCFTP.MMS"]
 	path = ROCFTP.MMS
 	url = https://github.com/cran/ROCFTP.MMS
@@ -26183,6 +26189,9 @@
 [submodule "cdmTools"]
 	path = cdmTools
 	url = https://github.com/cran/cdmTools
+[submodule "cdnbcr"]
+	path = cdnbcr
+	url = https://github.com/cran/cdnbcr
 [submodule "cdom"]
 	path = cdom
 	url = https://github.com/cran/cdom
@@ -26354,6 +26363,9 @@
 [submodule "cfmortality"]
 	path = cfmortality
 	url = https://github.com/cran/cfmortality
+[submodule "cforecast"]
+	path = cforecast
+	url = https://github.com/cran/cforecast
 [submodule "cforward"]
 	path = cforward
 	url = https://github.com/cran/cforward
@@ -32063,6 +32075,9 @@
 [submodule "eChem"]
 	path = eChem
 	url = https://github.com/cran/eChem
+[submodule "eClosure"]
+	path = eClosure
+	url = https://github.com/cran/eClosure
 [submodule "eDITH"]
 	path = eDITH
 	url = https://github.com/cran/eDITH
@@ -57767,6 +57782,9 @@
 [submodule "restoptr"]
 	path = restoptr
 	url = https://github.com/cran/restoptr
+[submodule "restrictR"]
+	path = restrictR
+	url = https://github.com/cran/restrictR
 [submodule "restriktor"]
 	path = restriktor
 	url = https://github.com/cran/restriktor
