@@ -35750,6 +35750,9 @@
 [submodule "fourinarow"]
 	path = fourinarow
 	url = https://github.com/cran/fourinarow
+[submodule "fozziejoin"]
+	path = fozziejoin
+	url = https://github.com/cran/fozziejoin
 [submodule "fpCompare"]
 	path = fpCompare
 	url = https://github.com/cran/fpCompare
@@ -43919,9 +43922,6 @@
 [submodule "libimath"]
 	path = libimath
 	url = https://github.com/cran/libimath
-[submodule "libopenexr"]
-	path = libopenexr
-	url = https://github.com/cran/libopenexr
 [submodule "libr"]
 	path = libr
 	url = https://github.com/cran/libr
@@ -62984,6 +62984,9 @@
 [submodule "soilDB"]
 	path = soilDB
 	url = https://github.com/cran/soilDB
+[submodule "soilassessment"]
+	path = soilassessment
+	url = https://github.com/cran/soilassessment
 [submodule "soilchemistry"]
 	path = soilchemistry
 	url = https://github.com/cran/soilchemistry
