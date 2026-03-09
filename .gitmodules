@@ -62984,9 +62984,6 @@
 [submodule "soilDB"]
 	path = soilDB
 	url = https://github.com/cran/soilDB
-[submodule "soilassessment"]
-	path = soilassessment
-	url = https://github.com/cran/soilassessment
 [submodule "soilchemistry"]
 	path = soilchemistry
 	url = https://github.com/cran/soilchemistry
