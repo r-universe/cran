@@ -5429,6 +5429,9 @@
 [submodule "EloSteepness"]
 	path = EloSteepness
 	url = https://github.com/cran/EloSteepness
+[submodule "EmbedSOM"]
+	path = EmbedSOM
+	url = https://github.com/cran/EmbedSOM
 [submodule "EmiR"]
 	path = EmiR
 	url = https://github.com/cran/EmiR
