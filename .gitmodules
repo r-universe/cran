@@ -27842,6 +27842,9 @@
 [submodule "comets"]
 	path = comets
 	url = https://github.com/cran/comets
+[submodule "comexr"]
+	path = comexr
+	url = https://github.com/cran/comexr
 [submodule "comf"]
 	path = comf
 	url = https://github.com/cran/comf
