@@ -25280,6 +25280,9 @@
 [submodule "bs4Dash"]
 	path = bs4Dash
 	url = https://github.com/cran/bs4Dash
+[submodule "bs4Dashkit"]
+	path = bs4Dashkit
+	url = https://github.com/cran/bs4Dashkit
 [submodule "bs4cards"]
 	path = bs4cards
 	url = https://github.com/cran/bs4cards
@@ -37967,6 +37970,9 @@
 [submodule "ggskewboxplots"]
 	path = ggskewboxplots
 	url = https://github.com/cran/ggskewboxplots
+[submodule "ggsky"]
+	path = ggsky
+	url = https://github.com/cran/ggsky
 [submodule "ggsmc"]
 	path = ggsmc
 	url = https://github.com/cran/ggsmc
@@ -58514,6 +58520,9 @@
 [submodule "rmda"]
 	path = rmda
 	url = https://github.com/cran/rmda
+[submodule "rmdcev"]
+	path = rmdcev
+	url = https://github.com/cran/rmdcev
 [submodule "rmdfiltr"]
 	path = rmdfiltr
 	url = https://github.com/cran/rmdfiltr
