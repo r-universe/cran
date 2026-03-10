@@ -758,6 +758,9 @@
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
+[submodule "ArchipelagoEngine"]
+	path = ArchipelagoEngine
+	url = https://github.com/cran/ArchipelagoEngine
 [submodule "ArctosR"]
 	path = ArctosR
 	url = https://github.com/cran/ArctosR
@@ -5357,6 +5360,9 @@
 [submodule "EcoNetGen"]
 	path = EcoNetGen
 	url = https://github.com/cran/EcoNetGen
+[submodule "EcoNiche"]
+	path = EcoNiche
+	url = https://github.com/cran/EcoNiche
 [submodule "EcoTroph"]
 	path = EcoTroph
 	url = https://github.com/cran/EcoTroph
@@ -15269,6 +15275,9 @@
 [submodule "ROOPSD"]
 	path = ROOPSD
 	url = https://github.com/cran/ROOPSD
+[submodule "ROOT"]
+	path = ROOT
+	url = https://github.com/cran/ROOT
 [submodule "ROSE"]
 	path = ROSE
 	url = https://github.com/cran/ROSE
@@ -24731,6 +24740,9 @@
 [submodule "bmass"]
 	path = bmass
 	url = https://github.com/cran/bmass
+[submodule "bmco"]
+	path = bmco
+	url = https://github.com/cran/bmco
 [submodule "bmem"]
 	path = bmem
 	url = https://github.com/cran/bmem
@@ -44855,6 +44867,9 @@
 [submodule "lucid"]
 	path = lucid
 	url = https://github.com/cran/lucid
+[submodule "lucidr"]
+	path = lucidr
+	url = https://github.com/cran/lucidr
 [submodule "ludic"]
 	path = ludic
 	url = https://github.com/cran/ludic
@@ -52904,6 +52919,9 @@
 [submodule "picante"]
 	path = picante
 	url = https://github.com/cran/picante
+[submodule "picasso"]
+	path = picasso
+	url = https://github.com/cran/picasso
 [submodule "picker"]
 	path = picker
 	url = https://github.com/cran/picker
@@ -57014,6 +57032,9 @@
 [submodule "readabs"]
 	path = readabs
 	url = https://github.com/cran/readabs
+[submodule "readaec"]
+	path = readaec
+	url = https://github.com/cran/readaec
 [submodule "readapra"]
 	path = readapra
 	url = https://github.com/cran/readapra
@@ -68984,6 +69005,9 @@
 [submodule "vasicekreg"]
 	path = vasicekreg
 	url = https://github.com/cran/vasicekreg
+[submodule "vaster"]
+	path = vaster
+	url = https://github.com/cran/vaster
 [submodule "vatcheckapi"]
 	path = vatcheckapi
 	url = https://github.com/cran/vatcheckapi
