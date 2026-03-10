@@ -4361,6 +4361,9 @@
 [submodule "DTEBOP2"]
 	path = DTEBOP2
 	url = https://github.com/cran/DTEBOP2
+[submodule "DTFM"]
+	path = DTFM
+	url = https://github.com/cran/DTFM
 [submodule "DTMCPack"]
 	path = DTMCPack
 	url = https://github.com/cran/DTMCPack
@@ -6926,6 +6929,9 @@
 [submodule "GMSimpute"]
 	path = GMSimpute
 	url = https://github.com/cran/GMSimpute
+[submodule "GMX"]
+	path = GMX
+	url = https://github.com/cran/GMX
 [submodule "GNAR"]
 	path = GNAR
 	url = https://github.com/cran/GNAR
@@ -56399,6 +56405,9 @@
 [submodule "rapiclient"]
 	path = rapiclient
 	url = https://github.com/cran/rapiclient
+[submodule "rapidcodeR"]
+	path = rapidcodeR
+	url = https://github.com/cran/rapidcodeR
 [submodule "rapidjsonr"]
 	path = rapidjsonr
 	url = https://github.com/cran/rapidjsonr
@@ -69911,6 +69920,9 @@
 [submodule "weed"]
 	path = weed
 	url = https://github.com/cran/weed
+[submodule "wefnexus"]
+	path = wefnexus
+	url = https://github.com/cran/wefnexus
 [submodule "wehoop"]
 	path = wehoop
 	url = https://github.com/cran/wehoop
