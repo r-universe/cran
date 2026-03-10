@@ -43097,9 +43097,6 @@
 [submodule "knfi"]
 	path = knfi
 	url = https://github.com/cran/knfi
-[submodule "knitLatex"]
-	path = knitLatex
-	url = https://github.com/cran/knitLatex
 [submodule "knitcitations"]
 	path = knitcitations
 	url = https://github.com/cran/knitcitations
