@@ -44267,6 +44267,9 @@
 [submodule "llmhelper"]
 	path = llmhelper
 	url = https://github.com/cran/llmhelper
+[submodule "llmjson"]
+	path = llmjson
+	url = https://github.com/cran/llmjson
 [submodule "llogistic"]
 	path = llogistic
 	url = https://github.com/cran/llogistic
