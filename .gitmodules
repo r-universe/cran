@@ -17351,6 +17351,9 @@
 [submodule "SHIP"]
 	path = SHIP
 	url = https://github.com/cran/SHIP
+[submodule "SHRED"]
+	path = SHRED
+	url = https://github.com/cran/SHRED
 [submodule "SHT"]
 	path = SHT
 	url = https://github.com/cran/SHT
@@ -22532,6 +22535,9 @@
 [submodule "ardl.nardl"]
 	path = ardl.nardl
 	url = https://github.com/cran/ardl.nardl
+[submodule "ardlverse"]
+	path = ardlverse
+	url = https://github.com/cran/ardlverse
 [submodule "ards"]
 	path = ards
 	url = https://github.com/cran/ards
@@ -23255,6 +23261,9 @@
 [submodule "badger"]
 	path = badger
 	url = https://github.com/cran/badger
+[submodule "badp"]
+	path = badp
+	url = https://github.com/cran/badp
 [submodule "baf"]
 	path = baf
 	url = https://github.com/cran/baf
@@ -58607,6 +58616,9 @@
 [submodule "rms"]
 	path = rms
 	url = https://github.com/cran/rms
+[submodule "rmsBMA"]
+	path = rmsBMA
+	url = https://github.com/cran/rmsBMA
 [submodule "rmsMD"]
 	path = rmsMD
 	url = https://github.com/cran/rmsMD
