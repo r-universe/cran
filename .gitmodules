@@ -11330,6 +11330,9 @@
 [submodule "ModTools"]
 	path = ModTools
 	url = https://github.com/cran/ModTools
+[submodule "ModalCens"]
+	path = ModalCens
+	url = https://github.com/cran/ModalCens
 [submodule "Modalclust"]
 	path = Modalclust
 	url = https://github.com/cran/Modalclust
@@ -14798,6 +14801,9 @@
 [submodule "RFlocalfdr.data"]
 	path = RFlocalfdr.data
 	url = https://github.com/cran/RFlocalfdr.data
+[submodule "RFmstate"]
+	path = RFmstate
+	url = https://github.com/cran/RFmstate
 [submodule "RFormatter"]
 	path = RFormatter
 	url = https://github.com/cran/RFormatter
@@ -20579,6 +20585,9 @@
 [submodule "WAreg"]
 	path = WAreg
 	url = https://github.com/cran/WAreg
+[submodule "WBI"]
+	path = WBI
+	url = https://github.com/cran/WBI
 [submodule "WCE"]
 	path = WCE
 	url = https://github.com/cran/WCE
