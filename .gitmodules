@@ -32213,6 +32213,9 @@
 [submodule "easyPubMed"]
 	path = easyPubMed
 	url = https://github.com/cran/easyPubMed
+[submodule "easyRaschBayes"]
+	path = easyRaschBayes
+	url = https://github.com/cran/easyRaschBayes
 [submodule "easyRef"]
 	path = easyRef
 	url = https://github.com/cran/easyRef
