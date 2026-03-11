@@ -8177,6 +8177,9 @@
 [submodule "ICED"]
 	path = ICED
 	url = https://github.com/cran/ICED
+[submodule "ICEHmeasures"]
+	path = ICEHmeasures
+	url = https://github.com/cran/ICEHmeasures
 [submodule "ICEbox"]
 	path = ICEbox
 	url = https://github.com/cran/ICEbox
@@ -32186,6 +32189,9 @@
 [submodule "earth"]
 	path = earth
 	url = https://github.com/cran/earth
+[submodule "earthUI"]
+	path = earthUI
+	url = https://github.com/cran/earthUI
 [submodule "earthdatalogin"]
 	path = earthdatalogin
 	url = https://github.com/cran/earthdatalogin
@@ -38282,6 +38288,9 @@
 [submodule "glassoFast"]
 	path = glassoFast
 	url = https://github.com/cran/glassoFast
+[submodule "glasstabs"]
+	path = glasstabs
+	url = https://github.com/cran/glasstabs
 [submodule "glba"]
 	path = glba
 	url = https://github.com/cran/glba
