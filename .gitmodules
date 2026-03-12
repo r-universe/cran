@@ -8408,9 +8408,6 @@
 [submodule "INQC"]
 	path = INQC
 	url = https://github.com/cran/INQC
-[submodule "INSPECTumours"]
-	path = INSPECTumours
-	url = https://github.com/cran/INSPECTumours
 [submodule "INTRIGUE"]
 	path = INTRIGUE
 	url = https://github.com/cran/INTRIGUE
@@ -17081,9 +17078,6 @@
 [submodule "SBICgraph"]
 	path = SBICgraph
 	url = https://github.com/cran/SBICgraph
-[submodule "SBMSplitMerge"]
-	path = SBMSplitMerge
-	url = https://github.com/cran/SBMSplitMerge
 [submodule "SBMTrees"]
 	path = SBMTrees
 	url = https://github.com/cran/SBMTrees
@@ -18476,9 +18470,6 @@
 [submodule "SmoothHazard"]
 	path = SmoothHazard
 	url = https://github.com/cran/SmoothHazard
-[submodule "SmoothTensor"]
-	path = SmoothTensor
-	url = https://github.com/cran/SmoothTensor
 [submodule "Snake"]
 	path = Snake
 	url = https://github.com/cran/Snake
@@ -23618,9 +23609,6 @@
 [submodule "bayesdfa"]
 	path = bayesdfa
 	url = https://github.com/cran/bayesdfa
-[submodule "bayesdistreg"]
-	path = bayesdistreg
-	url = https://github.com/cran/bayesdistreg
 [submodule "bayesestdft"]
 	path = bayesestdft
 	url = https://github.com/cran/bayesestdft
@@ -27230,9 +27218,6 @@
 [submodule "clusTransition"]
 	path = clusTransition
 	url = https://github.com/cran/clusTransition
-[submodule "cluscov"]
-	path = cluscov
-	url = https://github.com/cran/cluscov
 [submodule "clusrank"]
 	path = clusrank
 	url = https://github.com/cran/clusrank
@@ -27860,9 +27845,6 @@
 [submodule "combinat"]
 	path = combinat
 	url = https://github.com/cran/combinat
-[submodule "combinationpvalues"]
-	path = combinationpvalues
-	url = https://github.com/cran/combinationpvalues
 [submodule "combinatorics"]
 	path = combinatorics
 	url = https://github.com/cran/combinatorics
@@ -41603,9 +41585,6 @@
 [submodule "influxdbr"]
 	path = influxdbr
 	url = https://github.com/cran/influxdbr
-[submodule "infoDecompuTE"]
-	path = infoDecompuTE
-	url = https://github.com/cran/infoDecompuTE
 [submodule "infocausality"]
 	path = infocausality
 	url = https://github.com/cran/infocausality
@@ -47102,9 +47081,6 @@
 [submodule "mixAR"]
 	path = mixAR
 	url = https://github.com/cran/mixAR
-[submodule "mixIndependR"]
-	path = mixIndependR
-	url = https://github.com/cran/mixIndependR
 [submodule "mixKernel"]
 	path = mixKernel
 	url = https://github.com/cran/mixKernel
@@ -59798,9 +59774,6 @@
 [submodule "rvkstat"]
 	path = rvkstat
 	url = https://github.com/cran/rvkstat
-[submodule "rvmethod"]
-	path = rvmethod
-	url = https://github.com/cran/rvmethod
 [submodule "rvolleydata"]
 	path = rvolleydata
 	url = https://github.com/cran/rvolleydata
@@ -69545,9 +69518,6 @@
 [submodule "voronoifortune"]
 	path = voronoifortune
 	url = https://github.com/cran/voronoifortune
-[submodule "vortexRdata"]
-	path = vortexRdata
-	url = https://github.com/cran/vortexRdata
 [submodule "voson.tcn"]
 	path = voson.tcn
 	url = https://github.com/cran/voson.tcn
