@@ -24854,6 +24854,9 @@
 [submodule "bodycompref"]
 	path = bodycompref
 	url = https://github.com/cran/bodycompref
+[submodule "boe"]
+	path = boe
+	url = https://github.com/cran/boe
 [submodule "boggy"]
 	path = boggy
 	url = https://github.com/cran/boggy
@@ -34634,6 +34637,9 @@
 [submodule "fbar"]
 	path = fbar
 	url = https://github.com/cran/fbar
+[submodule "fbardl"]
+	path = fbardl
+	url = https://github.com/cran/fbardl
 [submodule "fbati"]
 	path = fbati
 	url = https://github.com/cran/fbati
@@ -40277,6 +40283,9 @@
 [submodule "hmmr"]
 	path = hmmr
 	url = https://github.com/cran/hmmr
+[submodule "hmrc"]
+	path = hmrc
+	url = https://github.com/cran/hmrc
 [submodule "hms"]
 	path = hms
 	url = https://github.com/cran/hms
@@ -44360,6 +44369,9 @@
 [submodule "lmmpar"]
 	path = lmmpar
 	url = https://github.com/cran/lmmpar
+[submodule "lmmprobe"]
+	path = lmmprobe
+	url = https://github.com/cran/lmmprobe
 [submodule "lmodel2"]
 	path = lmodel2
 	url = https://github.com/cran/lmodel2
@@ -50753,6 +50765,9 @@
 [submodule "onpoint"]
 	path = onpoint
 	url = https://github.com/cran/onpoint
+[submodule "ons"]
+	path = ons
+	url = https://github.com/cran/ons
 [submodule "onsr"]
 	path = onsr
 	url = https://github.com/cran/onsr
@@ -64292,6 +64307,9 @@
 [submodule "stacomirtools"]
 	path = stacomirtools
 	url = https://github.com/cran/stacomirtools
+[submodule "stacr"]
+	path = stacr
+	url = https://github.com/cran/stacr
 [submodule "stagePop"]
 	path = stagePop
 	url = https://github.com/cran/stagePop
