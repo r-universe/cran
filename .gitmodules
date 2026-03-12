@@ -8387,6 +8387,9 @@
 [submodule "IMmailgun"]
 	path = IMmailgun
 	url = https://github.com/cran/IMmailgun
+[submodule "INCVCommunityDetection"]
+	path = INCVCommunityDetection
+	url = https://github.com/cran/INCVCommunityDetection
 [submodule "INFOSET"]
 	path = INFOSET
 	url = https://github.com/cran/INFOSET
@@ -14057,6 +14060,9 @@
 [submodule "PubChemR"]
 	path = PubChemR
 	url = https://github.com/cran/PubChemR
+[submodule "PubMatrixR"]
+	path = PubMatrixR
+	url = https://github.com/cran/PubMatrixR
 [submodule "PubMedMining"]
 	path = PubMedMining
 	url = https://github.com/cran/PubMedMining
@@ -56018,6 +56024,9 @@
 [submodule "rMIDAS"]
 	path = rMIDAS
 	url = https://github.com/cran/rMIDAS
+[submodule "rMIDAS2"]
+	path = rMIDAS2
+	url = https://github.com/cran/rMIDAS2
 [submodule "rMOST"]
 	path = rMOST
 	url = https://github.com/cran/rMOST
@@ -57095,6 +57104,9 @@
 [submodule "readobj"]
 	path = readobj
 	url = https://github.com/cran/readobj
+[submodule "readoecd"]
+	path = readoecd
+	url = https://github.com/cran/readoecd
 [submodule "readosense"]
 	path = readosense
 	url = https://github.com/cran/readosense
@@ -66098,6 +66110,9 @@
 [submodule "templr"]
 	path = templr
 	url = https://github.com/cran/templr
+[submodule "tempodisco"]
+	path = tempodisco
+	url = https://github.com/cran/tempodisco
 [submodule "tempted"]
 	path = tempted
 	url = https://github.com/cran/tempted
@@ -70430,6 +70445,9 @@
 [submodule "wsrf"]
 	path = wsrf
 	url = https://github.com/cran/wsrf
+[submodule "wstats"]
+	path = wstats
+	url = https://github.com/cran/wstats
 [submodule "wstdiff"]
 	path = wstdiff
 	url = https://github.com/cran/wstdiff
@@ -70679,9 +70697,15 @@
 [submodule "xtable"]
 	path = xtable
 	url = https://github.com/cran/xtable
+[submodule "xtdhcoint"]
+	path = xtdhcoint
+	url = https://github.com/cran/xtdhcoint
 [submodule "xtdml"]
 	path = xtdml
 	url = https://github.com/cran/xtdml
+[submodule "xtpqardl"]
+	path = xtpqardl
+	url = https://github.com/cran/xtpqardl
 [submodule "xtranat"]
 	path = xtranat
 	url = https://github.com/cran/xtranat
