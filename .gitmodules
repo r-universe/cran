@@ -57080,6 +57080,9 @@
 [submodule "readOffice"]
 	path = readOffice
 	url = https://github.com/cran/readOffice
+[submodule "readSX"]
+	path = readSX
+	url = https://github.com/cran/readSX
 [submodule "readabs"]
 	path = readabs
 	url = https://github.com/cran/readabs
