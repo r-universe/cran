@@ -4445,9 +4445,6 @@
 [submodule "Dasst"]
 	path = Dasst
 	url = https://github.com/cran/Dasst
-[submodule "DatAssim"]
-	path = DatAssim
-	url = https://github.com/cran/DatAssim
 [submodule "DataClean"]
 	path = DataClean
 	url = https://github.com/cran/DataClean
@@ -47462,9 +47459,6 @@
 [submodule "mlts"]
 	path = mlts
 	url = https://github.com/cran/mlts
-[submodule "mlxR"]
-	path = mlxR
-	url = https://github.com/cran/mlxR
 [submodule "mma"]
 	path = mma
 	url = https://github.com/cran/mma
