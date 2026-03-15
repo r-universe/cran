@@ -26966,6 +26966,9 @@
 [submodule "classifierplots"]
 	path = classifierplots
 	url = https://github.com/cran/classifierplots
+[submodule "classifly"]
+	path = classifly
+	url = https://github.com/cran/classifly
 [submodule "classmap"]
 	path = classmap
 	url = https://github.com/cran/classmap
