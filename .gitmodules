@@ -27074,9 +27074,6 @@
 [submodule "clinPK"]
 	path = clinPK
 	url = https://github.com/cran/clinPK
-[submodule "clinTrialData"]
-	path = clinTrialData
-	url = https://github.com/cran/clinTrialData
 [submodule "clinUtils"]
 	path = clinUtils
 	url = https://github.com/cran/clinUtils
