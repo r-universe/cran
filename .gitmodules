@@ -10649,6 +10649,9 @@
 [submodule "MSIMST"]
 	path = MSIMST
 	url = https://github.com/cran/MSIMST
+[submodule "MSMGOptimizer"]
+	path = MSMGOptimizer
+	url = https://github.com/cran/MSMGOptimizer
 [submodule "MSML"]
 	path = MSML
 	url = https://github.com/cran/MSML
@@ -11522,6 +11525,9 @@
 [submodule "MultiSkew"]
 	path = MultiSkew
 	url = https://github.com/cran/MultiSkew
+[submodule "MultiSpline"]
+	path = MultiSpline
+	url = https://github.com/cran/MultiSpline
 [submodule "MultiStatM"]
 	path = MultiStatM
 	url = https://github.com/cran/MultiStatM
@@ -20216,6 +20222,9 @@
 [submodule "UnitCircle"]
 	path = UnitCircle
 	url = https://github.com/cran/UnitCircle
+[submodule "UnitMix"]
+	path = UnitMix
+	url = https://github.com/cran/UnitMix
 [submodule "UnitStat"]
 	path = UnitStat
 	url = https://github.com/cran/UnitStat
@@ -26660,6 +26669,9 @@
 [submodule "cholera"]
 	path = cholera
 	url = https://github.com/cran/cholera
+[submodule "chomper"]
+	path = chomper
+	url = https://github.com/cran/chomper
 [submodule "chooseGCM"]
 	path = chooseGCM
 	url = https://github.com/cran/chooseGCM
@@ -30398,6 +30410,9 @@
 [submodule "demodelr"]
 	path = demodelr
 	url = https://github.com/cran/demodelr
+[submodule "demofit"]
+	path = demofit
+	url = https://github.com/cran/demofit
 [submodule "demogR"]
 	path = demogR
 	url = https://github.com/cran/demogR
@@ -33386,6 +33401,9 @@
 [submodule "ergm.sign"]
 	path = ergm.sign
 	url = https://github.com/cran/ergm.sign
+[submodule "ergmclust"]
+	path = ergmclust
+	url = https://github.com/cran/ergmclust
 [submodule "ergmgp"]
 	path = ergmgp
 	url = https://github.com/cran/ergmgp
@@ -33485,6 +33503,9 @@
 [submodule "essHist"]
 	path = essHist
 	url = https://github.com/cran/essHist
+[submodule "essentialstools"]
+	path = essentialstools
+	url = https://github.com/cran/essentialstools
 [submodule "essurvey"]
 	path = essurvey
 	url = https://github.com/cran/essurvey
@@ -45413,6 +45434,9 @@
 [submodule "marima"]
 	path = marima
 	url = https://github.com/cran/marima
+[submodule "marimekko"]
+	path = marimekko
+	url = https://github.com/cran/marimekko
 [submodule "marinepredator"]
 	path = marinepredator
 	url = https://github.com/cran/marinepredator
@@ -56369,6 +56393,9 @@
 [submodule "rangemodelR"]
 	path = rangemodelR
 	url = https://github.com/cran/rangemodelR
+[submodule "rangen"]
+	path = rangen
+	url = https://github.com/cran/rangen
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/cran/ranger
@@ -58535,6 +58562,9 @@
 [submodule "rmdwc"]
 	path = rmdwc
 	url = https://github.com/cran/rmdwc
+[submodule "rmedsem"]
+	path = rmedsem
+	url = https://github.com/cran/rmedsem
 [submodule "rmerec"]
 	path = rmerec
 	url = https://github.com/cran/rmerec
@@ -70076,6 +70106,9 @@
 [submodule "widgetframe"]
 	path = widgetframe
 	url = https://github.com/cran/widgetframe
+[submodule "widr"]
+	path = widr
+	url = https://github.com/cran/widr
 [submodule "widyr"]
 	path = widyr
 	url = https://github.com/cran/widyr
