@@ -15164,6 +15164,9 @@
 [submodule "ROCFTP.MMS"]
 	path = ROCFTP.MMS
 	url = https://github.com/cran/ROCFTP.MMS
+[submodule "ROCModels"]
+	path = ROCModels
+	url = https://github.com/cran/ROCModels
 [submodule "ROCR"]
 	path = ROCR
 	url = https://github.com/cran/ROCR
@@ -31985,6 +31988,9 @@
 [submodule "dySEM"]
 	path = dySEM
 	url = https://github.com/cran/dySEM
+[submodule "dyadicMarkov"]
+	path = dyadicMarkov
+	url = https://github.com/cran/dyadicMarkov
 [submodule "dyads"]
 	path = dyads
 	url = https://github.com/cran/dyads
@@ -38663,6 +38669,9 @@
 [submodule "gogarch"]
 	path = gogarch
 	url = https://github.com/cran/gogarch
+[submodule "golden"]
+	path = golden
+	url = https://github.com/cran/golden
 [submodule "goldfish"]
 	path = goldfish
 	url = https://github.com/cran/goldfish
@@ -60644,6 +60653,9 @@
 [submodule "scifigure"]
 	path = scifigure
 	url = https://github.com/cran/scifigure
+[submodule "scimetr"]
+	path = scimetr
+	url = https://github.com/cran/scimetr
 [submodule "scimo"]
 	path = scimo
 	url = https://github.com/cran/scimo
@@ -62945,6 +62957,9 @@
 [submodule "snakecase"]
 	path = snakecase
 	url = https://github.com/cran/snakecase
+[submodule "snakeplot"]
+	path = snakeplot
+	url = https://github.com/cran/snakeplot
 [submodule "snap"]
 	path = snap
 	url = https://github.com/cran/snap
@@ -68252,6 +68267,9 @@
 [submodule "tvmComp"]
 	path = tvmComp
 	url = https://github.com/cran/tvmComp
+[submodule "tvrmst"]
+	path = tvrmst
+	url = https://github.com/cran/tvrmst
 [submodule "tvtools"]
 	path = tvtools
 	url = https://github.com/cran/tvtools
