@@ -6281,6 +6281,9 @@
 [submodule "FisPro"]
 	path = FisPro
 	url = https://github.com/cran/FisPro
+[submodule "Fiscal"]
+	path = Fiscal
+	url = https://github.com/cran/Fiscal
 [submodule "FishDiveR"]
 	path = FishDiveR
 	url = https://github.com/cran/FishDiveR
@@ -24977,6 +24980,9 @@
 [submodule "botor"]
 	path = botor
 	url = https://github.com/cran/botor
+[submodule "boundedur"]
+	path = boundedur
+	url = https://github.com/cran/boundedur
 [submodule "boundingbox"]
 	path = boundingbox
 	url = https://github.com/cran/boundingbox
@@ -27074,6 +27080,9 @@
 [submodule "clinPK"]
 	path = clinPK
 	url = https://github.com/cran/clinPK
+[submodule "clinTrialData"]
+	path = clinTrialData
+	url = https://github.com/cran/clinTrialData
 [submodule "clinUtils"]
 	path = clinUtils
 	url = https://github.com/cran/clinUtils
@@ -31466,6 +31475,9 @@
 [submodule "doremi"]
 	path = doremi
 	url = https://github.com/cran/doremi
+[submodule "dormancy"]
+	path = dormancy
+	url = https://github.com/cran/dormancy
 [submodule "doseSens"]
 	path = doseSens
 	url = https://github.com/cran/doseSens
@@ -40220,6 +40232,9 @@
 [submodule "hmer"]
 	path = hmer
 	url = https://github.com/cran/hmer
+[submodule "hmetad"]
+	path = hmetad
+	url = https://github.com/cran/hmetad
 [submodule "hmix"]
 	path = hmix
 	url = https://github.com/cran/hmix
@@ -40970,6 +40985,9 @@
 [submodule "icdpicr2"]
 	path = icdpicr2
 	url = https://github.com/cran/icdpicr2
+[submodule "icecdr"]
+	path = icecdr
+	url = https://github.com/cran/icecdr
 [submodule "icecream"]
 	path = icecream
 	url = https://github.com/cran/icecream
@@ -42680,6 +42698,9 @@
 [submodule "juicyjuice"]
 	path = juicyjuice
 	url = https://github.com/cran/juicyjuice
+[submodule "jumble"]
+	path = jumble
+	url = https://github.com/cran/jumble
 [submodule "jumps"]
 	path = jumps
 	url = https://github.com/cran/jumps
@@ -48224,6 +48245,9 @@
 [submodule "mtdesign"]
 	path = mtdesign
 	url = https://github.com/cran/mtdesign
+[submodule "mtgjsonsdk"]
+	path = mtgjsonsdk
+	url = https://github.com/cran/mtgjsonsdk
 [submodule "mthapower"]
 	path = mthapower
 	url = https://github.com/cran/mthapower
@@ -48689,6 +48713,9 @@
 [submodule "mvalpha"]
 	path = mvalpha
 	url = https://github.com/cran/mvalpha
+[submodule "mvardlurt"]
+	path = mvardlurt
+	url = https://github.com/cran/mvardlurt
 [submodule "mvbutils"]
 	path = mvbutils
 	url = https://github.com/cran/mvbutils
@@ -50909,6 +50936,9 @@
 [submodule "optbin"]
 	path = optbin
 	url = https://github.com/cran/optbin
+[submodule "optbinningR"]
+	path = optbinningR
+	url = https://github.com/cran/optbinningR
 [submodule "optconerrf"]
 	path = optconerrf
 	url = https://github.com/cran/optconerrf
@@ -55358,6 +55388,9 @@
 [submodule "qs2"]
 	path = qs2
 	url = https://github.com/cran/qs2
+[submodule "qshap"]
+	path = qshap
+	url = https://github.com/cran/qshap
 [submodule "qsimulatR"]
 	path = qsimulatR
 	url = https://github.com/cran/qsimulatR
@@ -68711,6 +68744,9 @@
 [submodule "usmapdata"]
 	path = usmapdata
 	url = https://github.com/cran/usmapdata
+[submodule "usportsR"]
+	path = usportsR
+	url = https://github.com/cran/usportsR
 [submodule "ussherR"]
 	path = ussherR
 	url = https://github.com/cran/ussherR
@@ -70631,6 +70667,9 @@
 [submodule "xtbhst"]
 	path = xtbhst
 	url = https://github.com/cran/xtbhst
+[submodule "xtbreakcoint"]
+	path = xtbreakcoint
+	url = https://github.com/cran/xtbreakcoint
 [submodule "xtcspqardl"]
 	path = xtcspqardl
 	url = https://github.com/cran/xtcspqardl
