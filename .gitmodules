@@ -16355,6 +16355,9 @@
 [submodule "Renvlp"]
 	path = Renvlp
 	url = https://github.com/cran/Renvlp
+[submodule "RenyiExtropy"]
+	path = RenyiExtropy
+	url = https://github.com/cran/RenyiExtropy
 [submodule "RepaymentPlan"]
 	path = RepaymentPlan
 	url = https://github.com/cran/RepaymentPlan
@@ -20675,6 +20678,9 @@
 [submodule "Wats"]
 	path = Wats
 	url = https://github.com/cran/Wats
+[submodule "WaveST"]
+	path = WaveST
+	url = https://github.com/cran/WaveST
 [submodule "WaveSampling"]
 	path = WaveSampling
 	url = https://github.com/cran/WaveSampling
@@ -21008,6 +21014,9 @@
 [submodule "Zseq"]
 	path = Zseq
 	url = https://github.com/cran/Zseq
+[submodule "a5R"]
+	path = a5R
+	url = https://github.com/cran/a5R
 [submodule "aIc"]
 	path = aIc
 	url = https://github.com/cran/aIc
@@ -26054,6 +26063,9 @@
 [submodule "causaloptim"]
 	path = causaloptim
 	url = https://github.com/cran/causaloptim
+[submodule "causalplot"]
+	path = causalplot
+	url = https://github.com/cran/causalplot
 [submodule "causalreg"]
 	path = causalreg
 	url = https://github.com/cran/causalreg
@@ -32210,6 +32222,9 @@
 [submodule "easyDes"]
 	path = easyDes
 	url = https://github.com/cran/easyDes
+[submodule "easyEWAS"]
+	path = easyEWAS
+	url = https://github.com/cran/easyEWAS
 [submodule "easyNCDF"]
 	path = easyNCDF
 	url = https://github.com/cran/easyNCDF
@@ -32351,6 +32366,9 @@
 [submodule "ebvcube"]
 	path = ebvcube
 	url = https://github.com/cran/ebvcube
+[submodule "ebx"]
+	path = ebx
+	url = https://github.com/cran/ebx
 [submodule "ec50estimator"]
 	path = ec50estimator
 	url = https://github.com/cran/ec50estimator
@@ -44915,6 +44933,9 @@
 [submodule "lumberjack"]
 	path = lumberjack
 	url = https://github.com/cran/lumberjack
+[submodule "lumbermark"]
+	path = lumbermark
+	url = https://github.com/cran/lumbermark
 [submodule "lunar"]
 	path = lunar
 	url = https://github.com/cran/lunar
@@ -55838,6 +55859,9 @@
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/cran/r4ss
+[submodule "r4sub"]
+	path = r4sub
+	url = https://github.com/cran/r4sub
 [submodule "r4subcore"]
 	path = r4subcore
 	url = https://github.com/cran/r4subcore
