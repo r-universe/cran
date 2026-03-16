@@ -1727,9 +1727,6 @@
 [submodule "Bayesrel"]
 	path = Bayesrel
 	url = https://github.com/cran/Bayesrel
-[submodule "BcDiag"]
-	path = BcDiag
-	url = https://github.com/cran/BcDiag
 [submodule "Bchron"]
 	path = Bchron
 	url = https://github.com/cran/Bchron
@@ -5411,9 +5408,6 @@
 [submodule "EgoCor"]
 	path = EgoCor
 	url = https://github.com/cran/EgoCor
-[submodule "EigenR"]
-	path = EigenR
-	url = https://github.com/cran/EigenR
 [submodule "EleChemr"]
 	path = EleChemr
 	url = https://github.com/cran/EleChemr
@@ -7487,9 +7481,6 @@
 [submodule "GofCens"]
 	path = GofCens
 	url = https://github.com/cran/GofCens
-[submodule "GofKmt"]
-	path = GofKmt
-	url = https://github.com/cran/GofKmt
 [submodule "GomoGomonoMi"]
 	path = GomoGomonoMi
 	url = https://github.com/cran/GomoGomonoMi
@@ -7664,9 +7655,6 @@
 [submodule "HDInterval"]
 	path = HDInterval
 	url = https://github.com/cran/HDInterval
-[submodule "HDJM"]
-	path = HDJM
-	url = https://github.com/cran/HDJM
 [submodule "HDLSSkST"]
 	path = HDLSSkST
 	url = https://github.com/cran/HDLSSkST
@@ -8093,9 +8081,6 @@
 [submodule "HyperbolicDist"]
 	path = HyperbolicDist
 	url = https://github.com/cran/HyperbolicDist
-[submodule "HypergeoMat"]
-	path = HypergeoMat
-	url = https://github.com/cran/HypergeoMat
 [submodule "IADT"]
 	path = IADT
 	url = https://github.com/cran/IADT
@@ -14552,9 +14537,6 @@
 [submodule "RCCPCA"]
 	path = RCCPCA
 	url = https://github.com/cran/RCCPCA
-[submodule "RCDT"]
-	path = RCDT
-	url = https://github.com/cran/RCDT
 [submodule "RCEIM"]
 	path = RCEIM
 	url = https://github.com/cran/RCEIM
@@ -15800,9 +15782,6 @@
 [submodule "RationalExp"]
 	path = RationalExp
 	url = https://github.com/cran/RationalExp
-[submodule "RationalMatrix"]
-	path = RationalMatrix
-	url = https://github.com/cran/RationalMatrix
 [submodule "Rato"]
 	path = Rato
 	url = https://github.com/cran/Rato
@@ -18743,9 +18722,6 @@
 [submodule "SpiceFP"]
 	path = SpiceFP
 	url = https://github.com/cran/SpiceFP
-[submodule "Spillover"]
-	path = Spillover
-	url = https://github.com/cran/Spillover
 [submodule "Splinets"]
 	path = Splinets
 	url = https://github.com/cran/Splinets
@@ -20297,9 +20273,6 @@
 [submodule "VARtests"]
 	path = VARtests
 	url = https://github.com/cran/VARtests
-[submodule "VBJM"]
-	path = VBJM
-	url = https://github.com/cran/VBJM
 [submodule "VBLPCM"]
 	path = VBLPCM
 	url = https://github.com/cran/VBLPCM
@@ -21287,9 +21260,6 @@
 [submodule "activatr"]
 	path = activatr
 	url = https://github.com/cran/activatr
-[submodule "activegp"]
-	path = activegp
-	url = https://github.com/cran/activegp
 [submodule "activity"]
 	path = activity
 	url = https://github.com/cran/activity
@@ -24614,9 +24584,6 @@
 [submodule "blastar"]
 	path = blastar
 	url = https://github.com/cran/blastar
-[submodule "blaster"]
-	path = blaster
-	url = https://github.com/cran/blaster
 [submodule "blastula"]
 	path = blastula
 	url = https://github.com/cran/blastula
@@ -27908,9 +27875,6 @@
 [submodule "commonsMath"]
 	path = commonsMath
 	url = https://github.com/cran/commonsMath
-[submodule "communication"]
-	path = communication
-	url = https://github.com/cran/communication
 [submodule "comorbidPGS"]
 	path = comorbidPGS
 	url = https://github.com/cran/comorbidPGS
@@ -28904,9 +28868,6 @@
 [submodule "cpsR"]
 	path = cpsR
 	url = https://github.com/cran/cpsR
-[submodule "cpss"]
-	path = cpss
-	url = https://github.com/cran/cpss
 [submodule "cpsurvsim"]
 	path = cpsurvsim
 	url = https://github.com/cran/cpsurvsim
@@ -34454,9 +34415,6 @@
 [submodule "fastRhockey"]
 	path = fastRhockey
 	url = https://github.com/cran/fastRhockey
-[submodule "fastSOM"]
-	path = fastSOM
-	url = https://github.com/cran/fastSOM
 [submodule "fastTS"]
 	path = fastTS
 	url = https://github.com/cran/fastTS
@@ -37391,9 +37349,6 @@
 [submodule "gfer"]
 	path = gfer
 	url = https://github.com/cran/gfer
-[submodule "gfiExtremes"]
-	path = gfiExtremes
-	url = https://github.com/cran/gfiExtremes
 [submodule "gfiUltra"]
 	path = gfiUltra
 	url = https://github.com/cran/gfiUltra
@@ -38153,9 +38108,6 @@
 [submodule "ghypernet"]
 	path = ghypernet
 	url = https://github.com/cran/ghypernet
-[submodule "giacR"]
-	path = giacR
-	url = https://github.com/cran/giacR
 [submodule "gibasa"]
 	path = gibasa
 	url = https://github.com/cran/gibasa
@@ -42377,9 +42329,6 @@
 [submodule "jaccard"]
 	path = jaccard
 	url = https://github.com/cran/jaccard
-[submodule "jack"]
-	path = jack
-	url = https://github.com/cran/jack
 [submodule "jackalope"]
 	path = jackalope
 	url = https://github.com/cran/jackalope
@@ -44417,9 +44366,6 @@
 [submodule "lnmCluster"]
 	path = lnmCluster
 	url = https://github.com/cran/lnmCluster
-[submodule "lnmixsurv"]
-	path = lnmixsurv
-	url = https://github.com/cran/lnmixsurv
 [submodule "loa"]
 	path = loa
 	url = https://github.com/cran/loa
@@ -44945,9 +44891,6 @@
 [submodule "lvimp"]
 	path = lvimp
 	url = https://github.com/cran/lvimp
-[submodule "lvmcomp"]
-	path = lvmcomp
-	url = https://github.com/cran/lvmcomp
 [submodule "lvmisc"]
 	path = lvmisc
 	url = https://github.com/cran/lvmisc
@@ -53288,9 +53231,6 @@
 [submodule "pleioh2g"]
 	path = pleioh2g
 	url = https://github.com/cran/pleioh2g
-[submodule "pleiotest"]
-	path = pleiotest
-	url = https://github.com/cran/pleiotest
 [submodule "plfMA"]
 	path = plfMA
 	url = https://github.com/cran/plfMA
@@ -55430,9 +55370,6 @@
 [submodule "qsplines"]
 	path = qsplines
 	url = https://github.com/cran/qsplines
-[submodule "qspray"]
-	path = qspray
-	url = https://github.com/cran/qspray
 [submodule "qst"]
 	path = qst
 	url = https://github.com/cran/qst
@@ -56576,9 +56513,6 @@
 [submodule "ratesci"]
 	path = ratesci
 	url = https://github.com/cran/ratesci
-[submodule "ratioOfQsprays"]
-	path = ratioOfQsprays
-	url = https://github.com/cran/ratioOfQsprays
 [submodule "rationalfun"]
 	path = rationalfun
 	url = https://github.com/cran/rationalfun
@@ -56708,18 +56642,12 @@
 [submodule "rbmn"]
 	path = rbmn
 	url = https://github.com/cran/rbmn
-[submodule "rbooster"]
-	path = rbooster
-	url = https://github.com/cran/rbooster
 [submodule "rbounds"]
 	path = rbounds
 	url = https://github.com/cran/rbounds
 [submodule "rbranding"]
 	path = rbranding
 	url = https://github.com/cran/rbranding
-[submodule "rbridge"]
-	path = rbridge
-	url = https://github.com/cran/rbridge
 [submodule "rbrsa"]
 	path = rbrsa
 	url = https://github.com/cran/rbrsa
@@ -62483,9 +62411,6 @@
 [submodule "sirt"]
 	path = sirt
 	url = https://github.com/cran/sirt
-[submodule "sirus"]
-	path = sirus
-	url = https://github.com/cran/sirus
 [submodule "sisVIVE"]
 	path = sisVIVE
 	url = https://github.com/cran/sisVIVE
@@ -64622,9 +64547,6 @@
 [submodule "steprf"]
 	path = steprf
 	url = https://github.com/cran/steprf
-[submodule "steps"]
-	path = steps
-	url = https://github.com/cran/steps
 [submodule "stevedata"]
 	path = stevedata
 	url = https://github.com/cran/stevedata
@@ -64763,9 +64685,6 @@
 [submodule "stplanr"]
 	path = stplanr
 	url = https://github.com/cran/stplanr
-[submodule "stpm"]
-	path = stpm
-	url = https://github.com/cran/stpm
 [submodule "stpp"]
 	path = stpp
 	url = https://github.com/cran/stpp
@@ -65585,9 +65504,6 @@
 [submodule "symbolicDA"]
 	path = symbolicDA
 	url = https://github.com/cran/symbolicDA
-[submodule "symbolicQspray"]
-	path = symbolicQspray
-	url = https://github.com/cran/symbolicQspray
 [submodule "symengine"]
 	path = symengine
 	url = https://github.com/cran/symengine
