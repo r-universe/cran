@@ -8135,9 +8135,6 @@
 [submodule "IBrokers"]
 	path = IBrokers
 	url = https://github.com/cran/IBrokers
-[submodule "ICAMS"]
-	path = ICAMS
-	url = https://github.com/cran/ICAMS
 [submodule "ICAOD"]
 	path = ICAOD
 	url = https://github.com/cran/ICAOD
@@ -8180,9 +8177,6 @@
 [submodule "ICODS"]
 	path = ICODS
 	url = https://github.com/cran/ICODS
-[submodule "ICRanks"]
-	path = ICRanks
-	url = https://github.com/cran/ICRanks
 [submodule "ICS"]
 	path = ICS
 	url = https://github.com/cran/ICS
@@ -8315,9 +8309,6 @@
 [submodule "IGST"]
 	path = IGST
 	url = https://github.com/cran/IGST
-[submodule "IGoRRR"]
-	path = IGoRRR
-	url = https://github.com/cran/IGoRRR
 [submodule "IHSEP"]
 	path = IHSEP
 	url = https://github.com/cran/IHSEP
@@ -9461,15 +9452,9 @@
 [submodule "LSD"]
 	path = LSD
 	url = https://github.com/cran/LSD
-[submodule "LSDinterface"]
-	path = LSDinterface
-	url = https://github.com/cran/LSDinterface
 [submodule "LSDirf"]
 	path = LSDirf
 	url = https://github.com/cran/LSDirf
-[submodule "LSDsensitivity"]
-	path = LSDsensitivity
-	url = https://github.com/cran/LSDsensitivity
 [submodule "LSE"]
 	path = LSE
 	url = https://github.com/cran/LSE
@@ -11444,9 +11429,6 @@
 [submodule "MultEq"]
 	path = MultEq
 	url = https://github.com/cran/MultEq
-[submodule "MultIS"]
-	path = MultIS
-	url = https://github.com/cran/MultIS
 [submodule "MultNonParam"]
 	path = MultNonParam
 	url = https://github.com/cran/MultNonParam
@@ -17444,9 +17426,6 @@
 [submodule "SKNN"]
 	path = SKNN
 	url = https://github.com/cran/SKNN
-[submodule "SLBDD"]
-	path = SLBDD
-	url = https://github.com/cran/SLBDD
 [submodule "SLCARE"]
 	path = SLCARE
 	url = https://github.com/cran/SLCARE
@@ -18116,9 +18095,6 @@
 [submodule "SenSrivastava"]
 	path = SenSrivastava
 	url = https://github.com/cran/SenSrivastava
-[submodule "SenTinMixt"]
-	path = SenTinMixt
-	url = https://github.com/cran/SenTinMixt
 [submodule "SensIAT"]
 	path = SensIAT
 	url = https://github.com/cran/SensIAT
@@ -19538,15 +19514,9 @@
 [submodule "TSVC"]
 	path = TSVC
 	url = https://github.com/cran/TSVC
-[submodule "TSclust"]
-	path = TSclust
-	url = https://github.com/cran/TSclust
 [submodule "TSdisaggregation"]
 	path = TSdisaggregation
 	url = https://github.com/cran/TSdisaggregation
-[submodule "TSdist"]
-	path = TSdist
-	url = https://github.com/cran/TSdist
 [submodule "TSeriesMMA"]
 	path = TSeriesMMA
 	url = https://github.com/cran/TSeriesMMA
@@ -22544,9 +22514,6 @@
 [submodule "areal"]
 	path = areal
 	url = https://github.com/cran/areal
-[submodule "arealDB"]
-	path = arealDB
-	url = https://github.com/cran/arealDB
 [submodule "areaplot"]
 	path = areaplot
 	url = https://github.com/cran/areaplot
@@ -23678,9 +23645,6 @@
 [submodule "bayestestR"]
 	path = bayestestR
 	url = https://github.com/cran/bayestestR
-[submodule "bayestransmission"]
-	path = bayestransmission
-	url = https://github.com/cran/bayestransmission
 [submodule "bayesvl"]
 	path = bayesvl
 	url = https://github.com/cran/bayesvl
@@ -27341,9 +27305,6 @@
 [submodule "clustvarsel"]
 	path = clustvarsel
 	url = https://github.com/cran/clustvarsel
-[submodule "clv"]
-	path = clv
-	url = https://github.com/cran/clv
 [submodule "cmAnalysis"]
 	path = cmAnalysis
 	url = https://github.com/cran/cmAnalysis
@@ -30026,9 +29987,6 @@
 [submodule "dbarts"]
 	path = dbarts
 	url = https://github.com/cran/dbarts
-[submodule "dbcsp"]
-	path = dbcsp
-	url = https://github.com/cran/dbcsp
 [submodule "dbd"]
 	path = dbd
 	url = https://github.com/cran/dbd
@@ -31412,9 +31370,6 @@
 [submodule "dobin"]
 	path = dobin
 	url = https://github.com/cran/dobin
-[submodule "doblin"]
-	path = doblin
-	url = https://github.com/cran/doblin
 [submodule "dobson"]
 	path = dobson
 	url = https://github.com/cran/dobson
@@ -37964,9 +37919,6 @@
 [submodule "ggscidca"]
 	path = ggscidca
 	url = https://github.com/cran/ggscidca
-[submodule "ggsector"]
-	path = ggsector
-	url = https://github.com/cran/ggsector
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/cran/ggseg
@@ -40505,9 +40457,6 @@
 [submodule "htmxr"]
 	path = htmxr
 	url = https://github.com/cran/htmxr
-[submodule "htrSPRanalysis"]
-	path = htrSPRanalysis
-	url = https://github.com/cran/htrSPRanalysis
 [submodule "hts"]
 	path = hts
 	url = https://github.com/cran/hts
@@ -43157,12 +43106,6 @@
 [submodule "kmi"]
 	path = kmi
 	url = https://github.com/cran/kmi
-[submodule "kml"]
-	path = kml
-	url = https://github.com/cran/kml
-[submodule "kml3d"]
-	path = kml3d
-	url = https://github.com/cran/kml3d
 [submodule "kmodR"]
 	path = kmodR
 	url = https://github.com/cran/kmodR
@@ -44675,9 +44618,6 @@
 [submodule "longitudinalANAL"]
 	path = longitudinalANAL
 	url = https://github.com/cran/longitudinalANAL
-[submodule "longitudinalData"]
-	path = longitudinalData
-	url = https://github.com/cran/longitudinalData
 [submodule "longitudinalcascade"]
 	path = longitudinalcascade
 	url = https://github.com/cran/longitudinalcascade
@@ -47324,9 +47264,6 @@
 [submodule "mlmtools"]
 	path = mlmtools
 	url = https://github.com/cran/mlmtools
-[submodule "mlmts"]
-	path = mlmts
-	url = https://github.com/cran/mlmts
 [submodule "mlogit"]
 	path = mlogit
 	url = https://github.com/cran/mlogit
@@ -50801,9 +50738,6 @@
 [submodule "ontoFAST"]
 	path = ontoFAST
 	url = https://github.com/cran/ontoFAST
-[submodule "ontologics"]
-	path = ontologics
-	url = https://github.com/cran/ontologics
 [submodule "ontologyIndex"]
 	path = ontologyIndex
 	url = https://github.com/cran/ontologyIndex
@@ -53618,9 +53552,6 @@
 [submodule "pocrm"]
 	path = pocrm
 	url = https://github.com/cran/pocrm
-[submodule "podcleaner"]
-	path = podcleaner
-	url = https://github.com/cran/podcleaner
 [submodule "poems"]
 	path = poems
 	url = https://github.com/cran/poems
@@ -57767,9 +57698,6 @@
 [submodule "reptiledb.data"]
 	path = reptiledb.data
 	url = https://github.com/cran/reptiledb.data
-[submodule "reptiledbr"]
-	path = reptiledbr
-	url = https://github.com/cran/reptiledbr
 [submodule "repurrrsive"]
 	path = repurrrsive
 	url = https://github.com/cran/repurrrsive
@@ -61334,9 +61262,6 @@
 [submodule "serieslcb"]
 	path = serieslcb
 	url = https://github.com/cran/serieslcb
-[submodule "serocalculator"]
-	path = serocalculator
-	url = https://github.com/cran/serocalculator
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/cran/serofoi
@@ -66650,9 +66575,6 @@
 [submodule "tidySummaries"]
 	path = tidySummaries
 	url = https://github.com/cran/tidySummaries
-[submodule "tidyUSDA"]
-	path = tidyUSDA
-	url = https://github.com/cran/tidyUSDA
 [submodule "tidyaudit"]
 	path = tidyaudit
 	url = https://github.com/cran/tidyaudit
@@ -66752,9 +66674,6 @@
 [submodule "tidygate"]
 	path = tidygate
 	url = https://github.com/cran/tidygate
-[submodule "tidygenomics"]
-	path = tidygenomics
-	url = https://github.com/cran/tidygenomics
 [submodule "tidygeoRSS"]
 	path = tidygeoRSS
 	url = https://github.com/cran/tidygeoRSS
