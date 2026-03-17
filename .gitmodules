@@ -16259,6 +16259,9 @@
 [submodule "RedditExtractoR"]
 	path = RedditExtractoR
 	url = https://github.com/cran/RedditExtractoR
+[submodule "RedeAgroRadar"]
+	path = RedeAgroRadar
+	url = https://github.com/cran/RedeAgroRadar
 [submodule "RedisBaseContainer"]
 	path = RedisBaseContainer
 	url = https://github.com/cran/RedisBaseContainer
@@ -26180,6 +26183,9 @@
 [submodule "cdata"]
 	path = cdata
 	url = https://github.com/cran/cdata
+[submodule "cdcanthro"]
+	path = cdcanthro
+	url = https://github.com/cran/cdcanthro
 [submodule "cdcatR"]
 	path = cdcatR
 	url = https://github.com/cran/cdcatR
@@ -29318,6 +29324,9 @@
 [submodule "ctrlGene"]
 	path = ctrlGene
 	url = https://github.com/cran/ctrlGene
+[submodule "cts"]
+	path = cts
+	url = https://github.com/cran/cts
 [submodule "ctsem"]
 	path = ctsem
 	url = https://github.com/cran/ctsem
@@ -32909,6 +32918,9 @@
 [submodule "emdist"]
 	path = emdist
 	url = https://github.com/cran/emdist
+[submodule "ememax"]
+	path = ememax
+	url = https://github.com/cran/ememax
 [submodule "emery"]
 	path = emery
 	url = https://github.com/cran/emery
@@ -35840,6 +35852,9 @@
 [submodule "fqar"]
 	path = fqar
 	url = https://github.com/cran/fqar
+[submodule "fqardl"]
+	path = fqardl
+	url = https://github.com/cran/fqardl
 [submodule "fr"]
 	path = fr
 	url = https://github.com/cran/fr
@@ -60278,6 +60293,9 @@
 [submodule "savonliquide"]
 	path = savonliquide
 	url = https://github.com/cran/savonliquide
+[submodule "savvyPR"]
+	path = savvyPR
+	url = https://github.com/cran/savvyPR
 [submodule "savvySh"]
 	path = savvySh
 	url = https://github.com/cran/savvySh
@@ -63035,6 +63053,9 @@
 [submodule "soilDB"]
 	path = soilDB
 	url = https://github.com/cran/soilDB
+[submodule "soilVAE"]
+	path = soilVAE
+	url = https://github.com/cran/soilVAE
 [submodule "soilassessment"]
 	path = soilassessment
 	url = https://github.com/cran/soilassessment
