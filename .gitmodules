@@ -39113,9 +39113,6 @@
 [submodule "groupdata2"]
 	path = groupdata2
 	url = https://github.com/cran/groupdata2
-[submodule "groupedHyperframe"]
-	path = groupedHyperframe
-	url = https://github.com/cran/groupedHyperframe
 [submodule "groupedSurv"]
 	path = groupedSurv
 	url = https://github.com/cran/groupedSurv
