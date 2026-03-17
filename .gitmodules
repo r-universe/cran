@@ -221,6 +221,9 @@
 [submodule "AMCTestmakeR"]
 	path = AMCTestmakeR
 	url = https://github.com/cran/AMCTestmakeR
+[submodule "AMDconfigurations"]
+	path = AMDconfigurations
+	url = https://github.com/cran/AMDconfigurations
 [submodule "AMIM"]
 	path = AMIM
 	url = https://github.com/cran/AMIM
@@ -11918,6 +11921,9 @@
 [submodule "NeEDS4BigData"]
 	path = NeEDS4BigData
 	url = https://github.com/cran/NeEDS4BigData
+[submodule "NeStage"]
+	path = NeStage
+	url = https://github.com/cran/NeStage
 [submodule "Necklaces"]
 	path = Necklaces
 	url = https://github.com/cran/Necklaces
@@ -19886,6 +19892,9 @@
 [submodule "TransGraph"]
 	path = TransGraph
 	url = https://github.com/cran/TransGraph
+[submodule "TransHDM"]
+	path = TransHDM
+	url = https://github.com/cran/TransHDM
 [submodule "TransModel"]
 	path = TransModel
 	url = https://github.com/cran/TransModel
@@ -37847,6 +37856,9 @@
 [submodule "ggpolypath"]
 	path = ggpolypath
 	url = https://github.com/cran/ggpolypath
+[submodule "ggpop"]
+	path = ggpop
+	url = https://github.com/cran/ggpop
 [submodule "ggpp"]
 	path = ggpp
 	url = https://github.com/cran/ggpp
@@ -51227,6 +51239,9 @@
 [submodule "oskeyring"]
 	path = oskeyring
 	url = https://github.com/cran/oskeyring
+[submodule "osktnorm"]
+	path = osktnorm
+	url = https://github.com/cran/osktnorm
 [submodule "osmapiR"]
 	path = osmapiR
 	url = https://github.com/cran/osmapiR
@@ -52283,6 +52298,9 @@
 [submodule "pecan"]
 	path = pecan
 	url = https://github.com/cran/pecan
+[submodule "pecanr"]
+	path = pecanr
+	url = https://github.com/cran/pecanr
 [submodule "pecora"]
 	path = pecora
 	url = https://github.com/cran/pecora
@@ -68582,6 +68600,9 @@
 [submodule "unsum"]
 	path = unsum
 	url = https://github.com/cran/unsum
+[submodule "unsurv"]
+	path = unsurv
+	url = https://github.com/cran/unsurv
 [submodule "unsystation"]
 	path = unsystation
 	url = https://github.com/cran/unsystation
