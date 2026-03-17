@@ -8996,6 +8996,9 @@
 [submodule "KNNShiny"]
 	path = KNNShiny
 	url = https://github.com/cran/KNNShiny
+[submodule "KODAMA"]
+	path = KODAMA
+	url = https://github.com/cran/KODAMA
 [submodule "KOFM"]
 	path = KOFM
 	url = https://github.com/cran/KOFM
