@@ -47534,6 +47534,9 @@
 [submodule "mnormt"]
 	path = mnormt
 	url = https://github.com/cran/mnormt
+[submodule "mnpPlasmonR"]
+	path = mnpPlasmonR
+	url = https://github.com/cran/mnpPlasmonR
 [submodule "mnt"]
 	path = mnt
 	url = https://github.com/cran/mnt
