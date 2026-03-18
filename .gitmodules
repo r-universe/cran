@@ -23780,6 +23780,9 @@
 [submodule "bdlim"]
 	path = bdlim
 	url = https://github.com/cran/bdlim
+[submodule "bdlnm"]
+	path = bdlnm
+	url = https://github.com/cran/bdlnm
 [submodule "bdlp"]
 	path = bdlp
 	url = https://github.com/cran/bdlp
@@ -65576,6 +65579,9 @@
 [submodule "synchrony"]
 	path = synchrony
 	url = https://github.com/cran/synchrony
+[submodule "synopR"]
+	path = synopR
+	url = https://github.com/cran/synopR
 [submodule "synr"]
 	path = synr
 	url = https://github.com/cran/synr
@@ -65735,6 +65741,9 @@
 [submodule "taboolaR"]
 	path = taboolaR
 	url = https://github.com/cran/taboolaR
+[submodule "tabpfn"]
+	path = tabpfn
+	url = https://github.com/cran/tabpfn
 [submodule "tabr"]
 	path = tabr
 	url = https://github.com/cran/tabr
