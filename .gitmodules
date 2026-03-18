@@ -4691,9 +4691,6 @@
 [submodule "DidacticBoost"]
 	path = DidacticBoost
 	url = https://github.com/cran/DidacticBoost
-[submodule "Diderot"]
-	path = Diderot
-	url = https://github.com/cran/Diderot
 [submodule "DiffCorr"]
 	path = DiffCorr
 	url = https://github.com/cran/DiffCorr
@@ -4823,9 +4820,6 @@
 [submodule "DoEstRare"]
 	path = DoEstRare
 	url = https://github.com/cran/DoEstRare
-[submodule "DoLa"]
-	path = DoLa
-	url = https://github.com/cran/DoLa
 [submodule "DockerParallel"]
 	path = DockerParallel
 	url = https://github.com/cran/DockerParallel
@@ -5513,9 +5507,6 @@
 [submodule "EpiILM"]
 	path = EpiILM
 	url = https://github.com/cran/EpiILM
-[submodule "EpiILMCT"]
-	path = EpiILMCT
-	url = https://github.com/cran/EpiILMCT
 [submodule "EpiInvert"]
 	path = EpiInvert
 	url = https://github.com/cran/EpiInvert
@@ -14246,9 +14237,6 @@
 [submodule "Qtools"]
 	path = Qtools
 	url = https://github.com/cran/Qtools
-[submodule "QuAnTeTrack"]
-	path = QuAnTeTrack
-	url = https://github.com/cran/QuAnTeTrack
 [submodule "QuClu"]
 	path = QuClu
 	url = https://github.com/cran/QuClu
@@ -48590,6 +48578,9 @@
 [submodule "multitool"]
 	path = multitool
 	url = https://github.com/cran/multitool
+[submodule "multivar"]
+	path = multivar
+	url = https://github.com/cran/multivar
 [submodule "multivariance"]
 	path = multivariance
 	url = https://github.com/cran/multivariance
@@ -55391,9 +55382,6 @@
 [submodule "qryflow"]
 	path = qryflow
 	url = https://github.com/cran/qryflow
-[submodule "qs"]
-	path = qs
-	url = https://github.com/cran/qs
 [submodule "qs2"]
 	path = qs2
 	url = https://github.com/cran/qs2
@@ -62405,9 +62393,6 @@
 [submodule "simulariatools"]
 	path = simulariatools
 	url = https://github.com/cran/simulariatools
-[submodule "simulateDCE"]
-	path = simulateDCE
-	url = https://github.com/cran/simulateDCE
 [submodule "simulator"]
 	path = simulator
 	url = https://github.com/cran/simulator
