@@ -17117,6 +17117,9 @@
 [submodule "SCINA"]
 	path = SCINA
 	url = https://github.com/cran/SCINA
+[submodule "SCIproj"]
+	path = SCIproj
+	url = https://github.com/cran/SCIproj
 [submodule "SCMA"]
 	path = SCMA
 	url = https://github.com/cran/SCMA
@@ -29819,6 +29822,9 @@
 [submodule "datadictionary"]
 	path = datadictionary
 	url = https://github.com/cran/datadictionary
+[submodule "datadiff"]
+	path = datadiff
+	url = https://github.com/cran/datadiff
 [submodule "datadogr"]
 	path = datadogr
 	url = https://github.com/cran/datadogr
@@ -33236,6 +33242,9 @@
 [submodule "episensr"]
 	path = episensr
 	url = https://github.com/cran/episensr
+[submodule "episomer"]
+	path = episomer
+	url = https://github.com/cran/episomer
 [submodule "epitab"]
 	path = epitab
 	url = https://github.com/cran/epitab
