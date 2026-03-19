@@ -13526,6 +13526,9 @@
 [submodule "PetfindeR"]
 	path = PetfindeR
 	url = https://github.com/cran/PetfindeR
+[submodule "PhageCocktail"]
+	path = PhageCocktail
+	url = https://github.com/cran/PhageCocktail
 [submodule "Phase123"]
 	path = Phase123
 	url = https://github.com/cran/Phase123
@@ -24614,6 +24617,9 @@
 [submodule "blockTools"]
 	path = blockTools
 	url = https://github.com/cran/blockTools
+[submodule "blockcluster"]
+	path = blockcluster
+	url = https://github.com/cran/blockcluster
 [submodule "blockedFF"]
 	path = blockedFF
 	url = https://github.com/cran/blockedFF
@@ -32435,6 +32441,9 @@
 [submodule "econet"]
 	path = econet
 	url = https://github.com/cran/econet
+[submodule "econetwork"]
+	path = econetwork
+	url = https://github.com/cran/econetwork
 [submodule "econid"]
 	path = econid
 	url = https://github.com/cran/econid
@@ -59567,6 +59576,9 @@
 [submodule "rtk"]
 	path = rtk
 	url = https://github.com/cran/rtk
+[submodule "rtkore"]
+	path = rtkore
+	url = https://github.com/cran/rtkore
 [submodule "rtlr"]
 	path = rtlr
 	url = https://github.com/cran/rtlr
