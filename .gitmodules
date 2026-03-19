@@ -1373,6 +1373,9 @@
 [submodule "BTTL"]
 	path = BTTL
 	url = https://github.com/cran/BTTL
+[submodule "BTWAR"]
+	path = BTWAR
+	url = https://github.com/cran/BTWAR
 [submodule "BTYD"]
 	path = BTYD
 	url = https://github.com/cran/BTYD
@@ -3971,6 +3974,9 @@
 [submodule "DESA"]
 	path = DESA
 	url = https://github.com/cran/DESA
+[submodule "DESNP"]
+	path = DESNP
+	url = https://github.com/cran/DESNP
 [submodule "DET"]
 	path = DET
 	url = https://github.com/cran/DET
@@ -4619,6 +4625,9 @@
 [submodule "DesignLibrary"]
 	path = DesignLibrary
 	url = https://github.com/cran/DesignLibrary
+[submodule "Desimml"]
+	path = Desimml
+	url = https://github.com/cran/Desimml
 [submodule "DetLifeInsurance"]
 	path = DetLifeInsurance
 	url = https://github.com/cran/DetLifeInsurance
@@ -10259,6 +10268,9 @@
 [submodule "MINTplates"]
 	path = MINTplates
 	url = https://github.com/cran/MINTplates
+[submodule "MIRDD"]
+	path = MIRDD
+	url = https://github.com/cran/MIRDD
 [submodule "MIRES"]
 	path = MIRES
 	url = https://github.com/cran/MIRES
@@ -10877,6 +10889,9 @@
 [submodule "Massign"]
 	path = Massign
 	url = https://github.com/cran/Massign
+[submodule "MasterBayes"]
+	path = MasterBayes
+	url = https://github.com/cran/MasterBayes
 [submodule "MatSkew"]
 	path = MatSkew
 	url = https://github.com/cran/MatSkew
@@ -21188,6 +21203,9 @@
 [submodule "acfMPeriod"]
 	path = acfMPeriod
 	url = https://github.com/cran/acfMPeriod
+[submodule "achieveGap"]
+	path = achieveGap
+	url = https://github.com/cran/achieveGap
 [submodule "acid"]
 	path = acid
 	url = https://github.com/cran/acid
@@ -22568,6 +22586,9 @@
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/cran/arkhe
+[submodule "arl"]
+	path = arl
+	url = https://github.com/cran/arl
 [submodule "arlclustering"]
 	path = arlclustering
 	url = https://github.com/cran/arlclustering
@@ -23438,6 +23459,9 @@
 [submodule "basksim"]
 	path = basksim
 	url = https://github.com/cran/basksim
+[submodule "baskwrap"]
+	path = baskwrap
+	url = https://github.com/cran/baskwrap
 [submodule "batata"]
 	path = batata
 	url = https://github.com/cran/batata
@@ -27641,6 +27665,9 @@
 [submodule "cointmonitoR"]
 	path = cointmonitoR
 	url = https://github.com/cran/cointmonitoR
+[submodule "cointsmall"]
+	path = cointsmall
+	url = https://github.com/cran/cointsmall
 [submodule "col2hex2col"]
 	path = col2hex2col
 	url = https://github.com/cran/col2hex2col
@@ -29120,6 +29147,9 @@
 [submodule "crso"]
 	path = crso
 	url = https://github.com/cran/crso
+[submodule "crstools"]
+	path = crstools
+	url = https://github.com/cran/crstools
 [submodule "crsuggest"]
 	path = crsuggest
 	url = https://github.com/cran/crsuggest
@@ -35201,6 +35231,9 @@
 [submodule "fitmix"]
 	path = fitmix
 	url = https://github.com/cran/fitmix
+[submodule "fitnmr"]
+	path = fitnmr
+	url = https://github.com/cran/fitnmr
 [submodule "fitplc"]
 	path = fitplc
 	url = https://github.com/cran/fitplc
@@ -35921,6 +35954,9 @@
 [submodule "frechet"]
 	path = frechet
 	url = https://github.com/cran/frechet
+[submodule "fred"]
+	path = fred
+	url = https://github.com/cran/fred
 [submodule "fredr"]
 	path = fredr
 	url = https://github.com/cran/fredr
@@ -39341,6 +39377,9 @@
 [submodule "gtfstools"]
 	path = gtfstools
 	url = https://github.com/cran/gtfstools
+[submodule "gtheoryr"]
+	path = gtheoryr
+	url = https://github.com/cran/gtheoryr
 [submodule "gto"]
 	path = gto
 	url = https://github.com/cran/gto
@@ -41579,6 +41618,9 @@
 [submodule "infotheo"]
 	path = infotheo
 	url = https://github.com/cran/infotheo
+[submodule "infoxtr"]
+	path = infoxtr
+	url = https://github.com/cran/infoxtr
 [submodule "ingredients"]
 	path = ingredients
 	url = https://github.com/cran/ingredients
@@ -47180,6 +47222,9 @@
 [submodule "mkssd"]
 	path = mkssd
 	url = https://github.com/cran/mkssd
+[submodule "ml"]
+	path = ml
+	url = https://github.com/cran/ml
 [submodule "mlVAR"]
 	path = mlVAR
 	url = https://github.com/cran/mlVAR
@@ -50828,6 +50873,9 @@
 [submodule "openappr"]
 	path = openappr
 	url = https://github.com/cran/openappr
+[submodule "openaq"]
+	path = openaq
+	url = https://github.com/cran/openaq
 [submodule "openbankeR"]
 	path = openbankeR
 	url = https://github.com/cran/openbankeR
@@ -50996,6 +51044,9 @@
 [submodule "optimizeR"]
 	path = optimizeR
 	url = https://github.com/cran/optimizeR
+[submodule "optimizr"]
+	path = optimizr
+	url = https://github.com/cran/optimizr
 [submodule "optimos.prime"]
 	path = optimos.prime
 	url = https://github.com/cran/optimos.prime
@@ -54188,6 +54239,9 @@
 [submodule "predicts"]
 	path = predicts
 	url = https://github.com/cran/predicts
+[submodule "predictset"]
+	path = predictset
+	url = https://github.com/cran/predictset
 [submodule "predictsr"]
 	path = predictsr
 	url = https://github.com/cran/predictsr
@@ -56228,6 +56282,9 @@
 [submodule "raincin"]
 	path = raincin
 	url = https://github.com/cran/raincin
+[submodule "rainerosr"]
+	path = rainerosr
+	url = https://github.com/cran/rainerosr
 [submodule "rainette"]
 	path = rainette
 	url = https://github.com/cran/rainette
@@ -57050,6 +57107,9 @@
 [submodule "readbulk"]
 	path = readbulk
 	url = https://github.com/cran/readbulk
+[submodule "readecb"]
+	path = readecb
+	url = https://github.com/cran/readecb
 [submodule "readepi"]
 	path = readepi
 	url = https://github.com/cran/readepi
@@ -57074,6 +57134,9 @@
 [submodule "readmoRe"]
 	path = readmoRe
 	url = https://github.com/cran/readmoRe
+[submodule "readnoaa"]
+	path = readnoaa
+	url = https://github.com/cran/readnoaa
 [submodule "readobj"]
 	path = readobj
 	url = https://github.com/cran/readobj
@@ -64307,6 +64370,9 @@
 [submodule "staplr"]
 	path = staplr
 	url = https://github.com/cran/staplr
+[submodule "starburst"]
+	path = starburst
+	url = https://github.com/cran/starburst
 [submodule "stargazer"]
 	path = stargazer
 	url = https://github.com/cran/stargazer
@@ -69983,6 +70049,9 @@
 [submodule "weyl"]
 	path = weyl
 	url = https://github.com/cran/weyl
+[submodule "wf"]
+	path = wf
+	url = https://github.com/cran/wf
 [submodule "wfe"]
 	path = wfe
 	url = https://github.com/cran/wfe
