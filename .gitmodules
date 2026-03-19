@@ -18590,6 +18590,9 @@
 [submodule "SparseMSE"]
 	path = SparseMSE
 	url = https://github.com/cran/SparseMSE
+[submodule "SparseTSCGM"]
+	path = SparseTSCGM
+	url = https://github.com/cran/SparseTSCGM
 [submodule "SparseVFC"]
 	path = SparseVFC
 	url = https://github.com/cran/SparseVFC
@@ -21098,6 +21101,9 @@
 [submodule "abodOutlier"]
 	path = abodOutlier
 	url = https://github.com/cran/abodOutlier
+[submodule "aboveR"]
+	path = aboveR
+	url = https://github.com/cran/aboveR
 [submodule "abseil"]
 	path = abseil
 	url = https://github.com/cran/abseil
