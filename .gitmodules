@@ -674,9 +674,6 @@
 [submodule "AncReg"]
 	path = AncReg
 	url = https://github.com/cran/AncReg
-[submodule "AncestryMapper"]
-	path = AncestryMapper
-	url = https://github.com/cran/AncestryMapper
 [submodule "AnchorRegression"]
 	path = AnchorRegression
 	url = https://github.com/cran/AnchorRegression
@@ -1193,9 +1190,6 @@
 [submodule "BLA"]
 	path = BLA
 	url = https://github.com/cran/BLA
-[submodule "BLCOP"]
-	path = BLCOP
-	url = https://github.com/cran/BLCOP
 [submodule "BLMEngineInR"]
 	path = BLMEngineInR
 	url = https://github.com/cran/BLMEngineInR
@@ -7067,9 +7061,6 @@
 [submodule "GRSxE"]
 	path = GRSxE
 	url = https://github.com/cran/GRSxE
-[submodule "GRTo"]
-	path = GRTo
-	url = https://github.com/cran/GRTo
 [submodule "GRelevance"]
 	path = GRelevance
 	url = https://github.com/cran/GRelevance
@@ -18461,9 +18452,6 @@
 [submodule "Sobol4R"]
 	path = Sobol4R
 	url = https://github.com/cran/Sobol4R
-[submodule "SobolSequence"]
-	path = SobolSequence
-	url = https://github.com/cran/SobolSequence
 [submodule "Sofi"]
 	path = Sofi
 	url = https://github.com/cran/Sofi
@@ -22664,9 +22652,6 @@
 [submodule "asbio"]
 	path = asbio
 	url = https://github.com/cran/asbio
-[submodule "ascentTraining"]
-	path = ascentTraining
-	url = https://github.com/cran/ascentTraining
 [submodule "ascii"]
 	path = ascii
 	url = https://github.com/cran/ascii
@@ -36122,9 +36107,6 @@
 [submodule "ftsa"]
 	path = ftsa
 	url = https://github.com/cran/ftsa
-[submodule "ftsspec"]
-	path = ftsspec
-	url = https://github.com/cran/ftsspec
 [submodule "fucom"]
 	path = fucom
 	url = https://github.com/cran/fucom
@@ -36677,9 +36659,6 @@
 [submodule "gawdis"]
 	path = gawdis
 	url = https://github.com/cran/gawdis
-[submodule "gb"]
-	path = gb
-	url = https://github.com/cran/gb
 [submodule "gbRd"]
 	path = gbRd
 	url = https://github.com/cran/gbRd
@@ -39974,9 +39953,6 @@
 [submodule "hetcorFS"]
 	path = hetcorFS
 	url = https://github.com/cran/hetcorFS
-[submodule "heterocop"]
-	path = heterocop
-	url = https://github.com/cran/heterocop
 [submodule "heterogen"]
 	path = heterogen
 	url = https://github.com/cran/heterogen
@@ -59930,9 +59906,6 @@
 [submodule "sabre"]
 	path = sabre
 	url = https://github.com/cran/sabre
-[submodule "sac"]
-	path = sac
-	url = https://github.com/cran/sac
 [submodule "sacRebleu"]
 	path = sacRebleu
 	url = https://github.com/cran/sacRebleu
