@@ -18590,9 +18590,6 @@
 [submodule "SparseMSE"]
 	path = SparseMSE
 	url = https://github.com/cran/SparseMSE
-[submodule "SparseTSCGM"]
-	path = SparseTSCGM
-	url = https://github.com/cran/SparseTSCGM
 [submodule "SparseVFC"]
 	path = SparseVFC
 	url = https://github.com/cran/SparseVFC
