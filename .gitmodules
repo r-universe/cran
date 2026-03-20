@@ -29198,6 +29198,9 @@
 [submodule "cryst"]
 	path = cryst
 	url = https://github.com/cran/cryst
+[submodule "crystract"]
+	path = crystract
+	url = https://github.com/cran/crystract
 [submodule "csa"]
 	path = csa
 	url = https://github.com/cran/csa
@@ -36773,6 +36776,9 @@
 [submodule "gcookbook"]
 	path = gcookbook
 	url = https://github.com/cran/gcookbook
+[submodule "gcor"]
+	path = gcor
+	url = https://github.com/cran/gcor
 [submodule "gcplyr"]
 	path = gcplyr
 	url = https://github.com/cran/gcplyr
@@ -55202,6 +55208,9 @@
 [submodule "qad"]
 	path = qad
 	url = https://github.com/cran/qad
+[submodule "qadf"]
+	path = qadf
+	url = https://github.com/cran/qadf
 [submodule "qap"]
 	path = qap
 	url = https://github.com/cran/qap
