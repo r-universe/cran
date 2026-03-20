@@ -29306,6 +29306,9 @@
 [submodule "ctl"]
 	path = ctl
 	url = https://github.com/cran/ctl
+[submodule "ctlr"]
+	path = ctlr
+	url = https://github.com/cran/ctlr
 [submodule "ctmcd"]
 	path = ctmcd
 	url = https://github.com/cran/ctmcd
@@ -47153,6 +47156,9 @@
 [submodule "mixedfact"]
 	path = mixedfact
 	url = https://github.com/cran/mixedfact
+[submodule "mixediffusion"]
+	path = mixediffusion
+	url = https://github.com/cran/mixediffusion
 [submodule "mixedsde"]
 	path = mixedsde
 	url = https://github.com/cran/mixedsde
