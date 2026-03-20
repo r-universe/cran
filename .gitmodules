@@ -1280,6 +1280,9 @@
 [submodule "BOP2FE"]
 	path = BOP2FE
 	url = https://github.com/cran/BOP2FE
+[submodule "BORG"]
+	path = BORG
+	url = https://github.com/cran/BORG
 [submodule "BPM"]
 	path = BPM
 	url = https://github.com/cran/BPM
@@ -43427,6 +43430,9 @@
 [submodule "lagsarlmtree"]
 	path = lagsarlmtree
 	url = https://github.com/cran/lagsarlmtree
+[submodule "lakefetch"]
+	path = lakefetch
+	url = https://github.com/cran/lakefetch
 [submodule "lakemorpho"]
 	path = lakemorpho
 	url = https://github.com/cran/lakemorpho
@@ -48956,6 +48962,9 @@
 [submodule "nRegression"]
 	path = nRegression
 	url = https://github.com/cran/nRegression
+[submodule "nTARP"]
+	path = nTARP
+	url = https://github.com/cran/nTARP
 [submodule "na.tools"]
 	path = na.tools
 	url = https://github.com/cran/na.tools
