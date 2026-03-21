@@ -3305,6 +3305,9 @@
 [submodule "CohortGenerator"]
 	path = CohortGenerator
 	url = https://github.com/cran/CohortGenerator
+[submodule "CohortMethod"]
+	path = CohortMethod
+	url = https://github.com/cran/CohortMethod
 [submodule "CohortPlat"]
 	path = CohortPlat
 	url = https://github.com/cran/CohortPlat
@@ -6947,6 +6950,9 @@
 [submodule "GOFShiny"]
 	path = GOFShiny
 	url = https://github.com/cran/GOFShiny
+[submodule "GOFclustering"]
+	path = GOFclustering
+	url = https://github.com/cran/GOFclustering
 [submodule "GOLDprice"]
 	path = GOLDprice
 	url = https://github.com/cran/GOLDprice
@@ -15794,6 +15800,9 @@
 [submodule "RawHummus"]
 	path = RawHummus
 	url = https://github.com/cran/RawHummus
+[submodule "Rbearcat"]
+	path = Rbearcat
+	url = https://github.com/cran/Rbearcat
 [submodule "Rbeast"]
 	path = Rbeast
 	url = https://github.com/cran/Rbeast
@@ -35600,6 +35609,9 @@
 [submodule "folda"]
 	path = folda
 	url = https://github.com/cran/folda
+[submodule "foldedt"]
+	path = foldedt
+	url = https://github.com/cran/foldedt
 [submodule "folders"]
 	path = folders
 	url = https://github.com/cran/folders
@@ -48131,6 +48143,9 @@
 [submodule "mrct"]
 	path = mrct
 	url = https://github.com/cran/mrct
+[submodule "mrddGlobal"]
+	path = mrddGlobal
+	url = https://github.com/cran/mrddGlobal
 [submodule "mrds"]
 	path = mrds
 	url = https://github.com/cran/mrds
@@ -48368,6 +48383,9 @@
 [submodule "mult.latent.reg"]
 	path = mult.latent.reg
 	url = https://github.com/cran/mult.latent.reg
+[submodule "multChernoff"]
+	path = multChernoff
+	url = https://github.com/cran/multChernoff
 [submodule "multDM"]
 	path = multDM
 	url = https://github.com/cran/multDM
