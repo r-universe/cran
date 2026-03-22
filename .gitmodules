@@ -33209,6 +33209,9 @@
 [submodule "epibasix"]
 	path = epibasix
 	url = https://github.com/cran/epibasix
+[submodule "epicR"]
+	path = epicR
+	url = https://github.com/cran/epicR
 [submodule "epicasting"]
 	path = epicasting
 	url = https://github.com/cran/epicasting
