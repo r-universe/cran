@@ -27071,6 +27071,9 @@
 [submodule "climateStability"]
 	path = climateStability
 	url = https://github.com/cran/climateStability
+[submodule "climatekit"]
+	path = climatekit
+	url = https://github.com/cran/climatekit
 [submodule "climatol"]
 	path = climatol
 	url = https://github.com/cran/climatol
