@@ -4730,6 +4730,9 @@
 [submodule "Directional"]
 	path = Directional
 	url = https://github.com/cran/Directional
+[submodule "DirichletRF"]
+	path = DirichletRF
+	url = https://github.com/cran/DirichletRF
 [submodule "DirichletReg"]
 	path = DirichletReg
 	url = https://github.com/cran/DirichletReg
@@ -9158,6 +9161,9 @@
 [submodule "L0TFinv"]
 	path = L0TFinv
 	url = https://github.com/cran/L0TFinv
+[submodule "L0cpt"]
+	path = L0cpt
+	url = https://github.com/cran/L0cpt
 [submodule "L1centrality"]
 	path = L1centrality
 	url = https://github.com/cran/L1centrality
@@ -26882,6 +26888,9 @@
 [submodule "citecorp"]
 	path = citecorp
 	url = https://github.com/cran/citecorp
+[submodule "citestR"]
+	path = citestR
+	url = https://github.com/cran/citestR
 [submodule "cities"]
 	path = cities
 	url = https://github.com/cran/cities
@@ -35771,6 +35780,9 @@
 [submodule "forestry"]
 	path = forestry
 	url = https://github.com/cran/forestry
+[submodule "forestsearch"]
+	path = forestsearch
+	url = https://github.com/cran/forestsearch
 [submodule "foretell"]
 	path = foretell
 	url = https://github.com/cran/foretell
@@ -39269,6 +39281,9 @@
 [submodule "grwat"]
 	path = grwat
 	url = https://github.com/cran/grwat
+[submodule "gsClusterDetect"]
+	path = gsClusterDetect
+	url = https://github.com/cran/gsClusterDetect
 [submodule "gsDesign"]
 	path = gsDesign
 	url = https://github.com/cran/gsDesign
@@ -42533,6 +42548,9 @@
 [submodule "jlmerclusterperm"]
 	path = jlmerclusterperm
 	url = https://github.com/cran/jlmerclusterperm
+[submodule "jlview"]
+	path = jlview
+	url = https://github.com/cran/jlview
 [submodule "jmBIG"]
 	path = jmBIG
 	url = https://github.com/cran/jmBIG
@@ -48437,6 +48455,9 @@
 [submodule "multiCA"]
 	path = multiCA
 	url = https://github.com/cran/multiCA
+[submodule "multiCCA"]
+	path = multiCCA
+	url = https://github.com/cran/multiCCA
 [submodule "multiColl"]
 	path = multiColl
 	url = https://github.com/cran/multiColl
@@ -51803,6 +51824,9 @@
 [submodule "panelWranglR"]
 	path = panelWranglR
 	url = https://github.com/cran/panelWranglR
+[submodule "paneldesc"]
+	path = paneldesc
+	url = https://github.com/cran/paneldesc
 [submodule "panelhetero"]
 	path = panelhetero
 	url = https://github.com/cran/panelhetero
@@ -58634,6 +58658,9 @@
 [submodule "rmdcev"]
 	path = rmdcev
 	url = https://github.com/cran/rmdcev
+[submodule "rmdd"]
+	path = rmdd
+	url = https://github.com/cran/rmdd
 [submodule "rmdfiltr"]
 	path = rmdfiltr
 	url = https://github.com/cran/rmdfiltr
@@ -63173,6 +63200,9 @@
 [submodule "soiltexture"]
 	path = soiltexture
 	url = https://github.com/cran/soiltexture
+[submodule "soiltillr"]
+	path = soiltillr
+	url = https://github.com/cran/soiltillr
 [submodule "soilwater"]
 	path = soilwater
 	url = https://github.com/cran/soilwater
@@ -66017,6 +66047,9 @@
 [submodule "taxnames"]
 	path = taxnames
 	url = https://github.com/cran/taxnames
+[submodule "taxodist"]
+	path = taxodist
+	url = https://github.com/cran/taxodist
 [submodule "taxonomizr"]
 	path = taxonomizr
 	url = https://github.com/cran/taxonomizr
@@ -66506,6 +66539,9 @@
 [submodule "tfio"]
 	path = tfio
 	url = https://github.com/cran/tfio
+[submodule "tflmetaR"]
+	path = tflmetaR
+	url = https://github.com/cran/tflmetaR
 [submodule "tfprobability"]
 	path = tfprobability
 	url = https://github.com/cran/tfprobability
@@ -66977,6 +67013,9 @@
 [submodule "tidytree"]
 	path = tidytree
 	url = https://github.com/cran/tidytree
+[submodule "tidyttmoment"]
+	path = tidyttmoment
+	url = https://github.com/cran/tidyttmoment
 [submodule "tidytuesdayR"]
 	path = tidytuesdayR
 	url = https://github.com/cran/tidytuesdayR
