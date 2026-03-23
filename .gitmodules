@@ -2861,9 +2861,6 @@
 [submodule "Canek"]
 	path = Canek
 	url = https://github.com/cran/Canek
-[submodule "Canopy"]
-	path = Canopy
-	url = https://github.com/cran/Canopy
 [submodule "Capsule"]
 	path = Capsule
 	url = https://github.com/cran/Capsule
@@ -25775,9 +25772,6 @@
 [submodule "caplot"]
 	path = caplot
 	url = https://github.com/cran/caplot
-[submodule "capn"]
-	path = capn
-	url = https://github.com/cran/capn
 [submodule "capr"]
 	path = capr
 	url = https://github.com/cran/capr
@@ -49427,9 +49421,6 @@
 [submodule "networkDynamicData"]
 	path = networkDynamicData
 	url = https://github.com/cran/networkDynamicData
-[submodule "networkGen"]
-	path = networkGen
-	url = https://github.com/cran/networkGen
 [submodule "networkLite"]
 	path = networkLite
 	url = https://github.com/cran/networkLite
@@ -63287,9 +63278,6 @@
 [submodule "spAddins"]
 	path = spAddins
 	url = https://github.com/cran/spAddins
-[submodule "spBFA"]
-	path = spBFA
-	url = https://github.com/cran/spBFA
 [submodule "spBPS"]
 	path = spBPS
 	url = https://github.com/cran/spBPS
@@ -66812,9 +66800,6 @@
 [submodule "tidyhydat"]
 	path = tidyhydat
 	url = https://github.com/cran/tidyhydat
-[submodule "tidyindex"]
-	path = tidyindex
-	url = https://github.com/cran/tidyindex
 [submodule "tidyjson"]
 	path = tidyjson
 	url = https://github.com/cran/tidyjson
@@ -68984,9 +68969,6 @@
 [submodule "valhallr"]
 	path = valhallr
 	url = https://github.com/cran/valhallr
-[submodule "validann"]
-	path = validann
-	url = https://github.com/cran/validann
 [submodule "validata"]
 	path = validata
 	url = https://github.com/cran/validata
@@ -70892,9 +70874,6 @@
 [submodule "yhat"]
 	path = yhat
 	url = https://github.com/cran/yhat
-[submodule "yhatr"]
-	path = yhatr
-	url = https://github.com/cran/yhatr
 [submodule "yll"]
 	path = yll
 	url = https://github.com/cran/yll
