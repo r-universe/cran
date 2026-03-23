@@ -20933,6 +20933,9 @@
 [submodule "YaleToolkit"]
 	path = YaleToolkit
 	url = https://github.com/cran/YaleToolkit
+[submodule "YangHuiMagic"]
+	path = YangHuiMagic
+	url = https://github.com/cran/YangHuiMagic
 [submodule "YatchewTest"]
 	path = YatchewTest
 	url = https://github.com/cran/YatchewTest
@@ -30779,6 +30782,9 @@
 [submodule "dhglm"]
 	path = dhglm
 	url = https://github.com/cran/dhglm
+[submodule "dhmeasures"]
+	path = dhmeasures
+	url = https://github.com/cran/dhmeasures
 [submodule "dhsage"]
 	path = dhsage
 	url = https://github.com/cran/dhsage
@@ -48278,6 +48284,9 @@
 [submodule "mssearchr"]
 	path = mssearchr
 	url = https://github.com/cran/mssearchr
+[submodule "mstATA"]
+	path = mstATA
+	url = https://github.com/cran/mstATA
 [submodule "mstDIF"]
 	path = mstDIF
 	url = https://github.com/cran/mstDIF
