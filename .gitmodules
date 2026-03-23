@@ -19385,6 +19385,9 @@
 [submodule "TOSTER"]
 	path = TOSTER
 	url = https://github.com/cran/TOSTER
+[submodule "TOU"]
+	path = TOU
+	url = https://github.com/cran/TOU
 [submodule "TPAC"]
 	path = TPAC
 	url = https://github.com/cran/TPAC
