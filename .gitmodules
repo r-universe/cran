@@ -11510,6 +11510,9 @@
 [submodule "MultiRNG"]
 	path = MultiRNG
 	url = https://github.com/cran/MultiRNG
+[submodule "MultiResponseR"]
+	path = MultiResponseR
+	url = https://github.com/cran/MultiResponseR
 [submodule "MultiRobust"]
 	path = MultiRobust
 	url = https://github.com/cran/MultiRobust
@@ -31868,6 +31871,9 @@
 [submodule "dtlg"]
 	path = dtlg
 	url = https://github.com/cran/dtlg
+[submodule "dtlscores"]
+	path = dtlscores
+	url = https://github.com/cran/dtlscores
 [submodule "dtmapi"]
 	path = dtmapi
 	url = https://github.com/cran/dtmapi
@@ -34790,6 +34796,9 @@
 [submodule "fdesigns"]
 	path = fdesigns
 	url = https://github.com/cran/fdesigns
+[submodule "fdid"]
+	path = fdid
+	url = https://github.com/cran/fdid
 [submodule "fdm2id"]
 	path = fdm2id
 	url = https://github.com/cran/fdm2id
@@ -53507,6 +53516,9 @@
 [submodule "plspm"]
 	path = plspm
 	url = https://github.com/cran/plspm
+[submodule "plssem"]
+	path = plssem
+	url = https://github.com/cran/plssem
 [submodule "plu"]
 	path = plu
 	url = https://github.com/cran/plu
@@ -66530,6 +66542,9 @@
 [submodule "thankr"]
 	path = thankr
 	url = https://github.com/cran/thankr
+[submodule "theRefdate"]
+	path = theRefdate
+	url = https://github.com/cran/theRefdate
 [submodule "theft"]
 	path = theft
 	url = https://github.com/cran/theft
@@ -69599,6 +69614,9 @@
 [submodule "vosonSML"]
 	path = vosonSML
 	url = https://github.com/cran/vosonSML
+[submodule "vostokR"]
+	path = vostokR
+	url = https://github.com/cran/vostokR
 [submodule "vote"]
 	path = vote
 	url = https://github.com/cran/vote
@@ -69905,6 +69923,9 @@
 [submodule "wcox"]
 	path = wcox
 	url = https://github.com/cran/wcox
+[submodule "wcvpmatch"]
+	path = wcvpmatch
+	url = https://github.com/cran/wcvpmatch
 [submodule "wdiEF"]
 	path = wdiEF
 	url = https://github.com/cran/wdiEF
