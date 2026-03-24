@@ -7949,6 +7949,9 @@
 [submodule "HealthCal"]
 	path = HealthCal
 	url = https://github.com/cran/HealthCal
+[submodule "HeatmapR"]
+	path = HeatmapR
+	url = https://github.com/cran/HeatmapR
 [submodule "HeckmanEM"]
 	path = HeckmanEM
 	url = https://github.com/cran/HeckmanEM
@@ -16484,6 +16487,9 @@
 [submodule "Rgff"]
 	path = Rgff
 	url = https://github.com/cran/Rgff
+[submodule "Rglottography"]
+	path = Rglottography
+	url = https://github.com/cran/Rglottography
 [submodule "Rglpk"]
 	path = Rglpk
 	url = https://github.com/cran/Rglpk
@@ -22943,6 +22949,9 @@
 [submodule "auth0"]
 	path = auth0
 	url = https://github.com/cran/auth0
+[submodule "authordown"]
+	path = authordown
+	url = https://github.com/cran/authordown
 [submodule "authoritative"]
 	path = authoritative
 	url = https://github.com/cran/authoritative
@@ -35321,6 +35330,9 @@
 [submodule "fkbma"]
 	path = fkbma
 	url = https://github.com/cran/fkbma
+[submodule "fkcentroids"]
+	path = fkcentroids
+	url = https://github.com/cran/fkcentroids
 [submodule "flacco"]
 	path = flacco
 	url = https://github.com/cran/flacco
@@ -40169,6 +40181,9 @@
 [submodule "hierBipartite"]
 	path = hierBipartite
 	url = https://github.com/cran/hierBipartite
+[submodule "hierNest"]
+	path = hierNest
+	url = https://github.com/cran/hierNest
 [submodule "hierNet"]
 	path = hierNet
 	url = https://github.com/cran/hierNet
@@ -46307,6 +46322,9 @@
 [submodule "metaDigitise"]
 	path = metaDigitise
 	url = https://github.com/cran/metaDigitise
+[submodule "metaDyn"]
+	path = metaDyn
+	url = https://github.com/cran/metaDyn
 [submodule "metaEnsembleR"]
 	path = metaEnsembleR
 	url = https://github.com/cran/metaEnsembleR
@@ -49937,6 +49955,9 @@
 [submodule "nnmf"]
 	path = nnmf
 	url = https://github.com/cran/nnmf
+[submodule "nnsolve"]
+	path = nnsolve
+	url = https://github.com/cran/nnsolve
 [submodule "nnspat"]
 	path = nnspat
 	url = https://github.com/cran/nnspat
