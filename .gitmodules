@@ -53243,6 +53243,9 @@
 [submodule "pixr"]
 	path = pixr
 	url = https://github.com/cran/pixr
+[submodule "pizzarr"]
+	path = pizzarr
+	url = https://github.com/cran/pizzarr
 [submodule "pk.unit.trans"]
 	path = pk.unit.trans
 	url = https://github.com/cran/pk.unit.trans
@@ -64871,6 +64874,9 @@
 [submodule "stokes"]
 	path = stokes
 	url = https://github.com/cran/stokes
+[submodule "stopmotion"]
+	path = stopmotion
+	url = https://github.com/cran/stopmotion
 [submodule "stopp"]
 	path = stopp
 	url = https://github.com/cran/stopp
@@ -65138,6 +65144,9 @@
 [submodule "substackR"]
 	path = substackR
 	url = https://github.com/cran/substackR
+[submodule "subtools"]
+	path = subtools
+	url = https://github.com/cran/subtools
 [submodule "success"]
 	path = success
 	url = https://github.com/cran/success
