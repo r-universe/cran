@@ -5543,6 +5543,9 @@
 [submodule "EpiSimR"]
 	path = EpiSimR
 	url = https://github.com/cran/EpiSimR
+[submodule "EpiStandard"]
+	path = EpiStandard
+	url = https://github.com/cran/EpiStandard
 [submodule "EpiStats"]
 	path = EpiStats
 	url = https://github.com/cran/EpiStats
@@ -51494,6 +51497,9 @@
 [submodule "outreg"]
 	path = outreg
 	url = https://github.com/cran/outreg
+[submodule "outrigger"]
+	path = outrigger
+	url = https://github.com/cran/outrigger
 [submodule "outstandR"]
 	path = outstandR
 	url = https://github.com/cran/outstandR
@@ -54437,6 +54443,9 @@
 [submodule "prettyGraphs"]
 	path = prettyGraphs
 	url = https://github.com/cran/prettyGraphs
+[submodule "prettyPanelMatch"]
+	path = prettyPanelMatch
+	url = https://github.com/cran/prettyPanelMatch
 [submodule "prettyR"]
 	path = prettyR
 	url = https://github.com/cran/prettyR
@@ -65915,6 +65924,9 @@
 [submodule "tabshiftr"]
 	path = tabshiftr
 	url = https://github.com/cran/tabshiftr
+[submodule "tabstats"]
+	path = tabstats
+	url = https://github.com/cran/tabstats
 [submodule "tabtibble"]
 	path = tabtibble
 	url = https://github.com/cran/tabtibble
