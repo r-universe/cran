@@ -32471,6 +32471,9 @@
 [submodule "ecoTolerance"]
 	path = ecoTolerance
 	url = https://github.com/cran/ecoTolerance
+[submodule "ecoXCorr"]
+	path = ecoXCorr
+	url = https://github.com/cran/ecoXCorr
 [submodule "ecocbo"]
 	path = ecocbo
 	url = https://github.com/cran/ecocbo
@@ -59819,6 +59822,9 @@
 [submodule "runExamplesWrapper"]
 	path = runExamplesWrapper
 	url = https://github.com/cran/runExamplesWrapper
+[submodule "runMCMCbtadjust"]
+	path = runMCMCbtadjust
+	url = https://github.com/cran/runMCMCbtadjust
 [submodule "runcharter"]
 	path = runcharter
 	url = https://github.com/cran/runcharter
