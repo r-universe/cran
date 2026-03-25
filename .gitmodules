@@ -18677,6 +18677,9 @@
 [submodule "SpatialGraph"]
 	path = SpatialGraph
 	url = https://github.com/cran/SpatialGraph
+[submodule "SpatialInference"]
+	path = SpatialInference
+	url = https://github.com/cran/SpatialInference
 [submodule "SpatialKDE"]
 	path = SpatialKDE
 	url = https://github.com/cran/SpatialKDE
@@ -37718,6 +37721,9 @@
 [submodule "ggforce"]
 	path = ggforce
 	url = https://github.com/cran/ggforce
+[submodule "ggforestplotR"]
+	path = ggforestplotR
+	url = https://github.com/cran/ggforestplotR
 [submodule "ggformula"]
 	path = ggformula
 	url = https://github.com/cran/ggformula
@@ -51032,6 +51038,9 @@
 [submodule "openscoring"]
 	path = openscoring
 	url = https://github.com/cran/openscoring
+[submodule "opensimplex2"]
+	path = opensimplex2
+	url = https://github.com/cran/opensimplex2
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
@@ -57881,6 +57890,9 @@
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/cran/reproj
+[submodule "reproresearchR"]
+	path = reproresearchR
+	url = https://github.com/cran/reproresearchR
 [submodule "repsd"]
 	path = repsd
 	url = https://github.com/cran/repsd
@@ -64037,6 +64049,9 @@
 [submodule "splithalfr"]
 	path = splithalfr
 	url = https://github.com/cran/splithalfr
+[submodule "splitr"]
+	path = splitr
+	url = https://github.com/cran/splitr
 [submodule "splitstackshape"]
 	path = splitstackshape
 	url = https://github.com/cran/splitstackshape
