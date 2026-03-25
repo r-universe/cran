@@ -2933,6 +2933,9 @@
 [submodule "CausalQueries"]
 	path = CausalQueries
 	url = https://github.com/cran/CausalQueries
+[submodule "CausalSpline"]
+	path = CausalSpline
+	url = https://github.com/cran/CausalSpline
 [submodule "CautiousLearning"]
 	path = CautiousLearning
 	url = https://github.com/cran/CautiousLearning
@@ -35669,6 +35672,9 @@
 [submodule "fomantic.plus"]
 	path = fomantic.plus
 	url = https://github.com/cran/fomantic.plus
+[submodule "fonctionr"]
+	path = fonctionr
+	url = https://github.com/cran/fonctionr
 [submodule "fontBitstreamVera"]
 	path = fontBitstreamVera
 	url = https://github.com/cran/fontBitstreamVera
@@ -37583,6 +37589,9 @@
 [submodule "ggarrow"]
 	path = ggarrow
 	url = https://github.com/cran/ggarrow
+[submodule "ggauto"]
+	path = ggauto
+	url = https://github.com/cran/ggauto
 [submodule "ggautomap"]
 	path = ggautomap
 	url = https://github.com/cran/ggautomap
@@ -43355,6 +43364,9 @@
 [submodule "kselection"]
 	path = kselection
 	url = https://github.com/cran/kselection
+[submodule "ksformat"]
+	path = ksformat
+	url = https://github.com/cran/ksformat
 [submodule "ksharp"]
 	path = ksharp
 	url = https://github.com/cran/ksharp
@@ -50192,6 +50204,9 @@
 [submodule "novelqualcodes"]
 	path = novelqualcodes
 	url = https://github.com/cran/novelqualcodes
+[submodule "nowcast"]
+	path = nowcast
+	url = https://github.com/cran/nowcast
 [submodule "noweb"]
 	path = noweb
 	url = https://github.com/cran/noweb
