@@ -20810,6 +20810,9 @@
 [submodule "WgtEff"]
 	path = WgtEff
 	url = https://github.com/cran/WgtEff
+[submodule "WhatIf"]
+	path = WhatIf
+	url = https://github.com/cran/WhatIf
 [submodule "WhatsR"]
 	path = WhatsR
 	url = https://github.com/cran/WhatsR
@@ -57731,6 +57734,9 @@
 [submodule "relimp"]
 	path = relimp
 	url = https://github.com/cran/relimp
+[submodule "relliptical"]
+	path = relliptical
+	url = https://github.com/cran/relliptical
 [submodule "relsurv"]
 	path = relsurv
 	url = https://github.com/cran/relsurv
@@ -61487,6 +61493,9 @@
 [submodule "serieslcb"]
 	path = serieslcb
 	url = https://github.com/cran/serieslcb
+[submodule "serocalculator"]
+	path = serocalculator
+	url = https://github.com/cran/serocalculator
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/cran/serofoi
