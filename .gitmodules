@@ -7025,6 +7025,9 @@
 [submodule "GPTreeO"]
 	path = GPTreeO
 	url = https://github.com/cran/GPTreeO
+[submodule "GPUmatrix"]
+	path = GPUmatrix
+	url = https://github.com/cran/GPUmatrix
 [submodule "GPareto"]
 	path = GPareto
 	url = https://github.com/cran/GPareto
@@ -71096,6 +71099,9 @@
 [submodule "yhat"]
 	path = yhat
 	url = https://github.com/cran/yhat
+[submodule "yieldcurves"]
+	path = yieldcurves
+	url = https://github.com/cran/yieldcurves
 [submodule "yll"]
 	path = yll
 	url = https://github.com/cran/yll
