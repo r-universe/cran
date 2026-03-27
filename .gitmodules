@@ -10292,6 +10292,9 @@
 [submodule "MIMER"]
 	path = MIMER
 	url = https://github.com/cran/MIMER
+[submodule "MIMSunit"]
+	path = MIMSunit
+	url = https://github.com/cran/MIMSunit
 [submodule "MINTplates"]
 	path = MINTplates
 	url = https://github.com/cran/MINTplates
@@ -52043,6 +52046,9 @@
 [submodule "paramlink2"]
 	path = paramlink2
 	url = https://github.com/cran/paramlink2
+[submodule "params"]
+	path = params
+	url = https://github.com/cran/params
 [submodule "paramsim"]
 	path = paramsim
 	url = https://github.com/cran/paramsim
@@ -57338,6 +57344,9 @@
 [submodule "reader"]
 	path = reader
 	url = https://github.com/cran/reader
+[submodule "readit"]
+	path = readit
+	url = https://github.com/cran/readit
 [submodule "readme2vignette"]
 	path = readme2vignette
 	url = https://github.com/cran/readme2vignette
@@ -65270,6 +65279,9 @@
 [submodule "sudachir"]
 	path = sudachir
 	url = https://github.com/cran/sudachir
+[submodule "suddengains"]
+	path = suddengains
+	url = https://github.com/cran/suddengains
 [submodule "sudoku"]
 	path = sudoku
 	url = https://github.com/cran/sudoku
