@@ -20078,6 +20078,9 @@
 [submodule "TruncatedNormal"]
 	path = TruncatedNormal
 	url = https://github.com/cran/TruncatedNormal
+[submodule "TruncatedPCQM"]
+	path = TruncatedPCQM
+	url = https://github.com/cran/TruncatedPCQM
 [submodule "TrustworthyMLR"]
 	path = TrustworthyMLR
 	url = https://github.com/cran/TrustworthyMLR
@@ -27740,6 +27743,9 @@
 [submodule "cointReg"]
 	path = cointReg
 	url = https://github.com/cran/cointReg
+[submodule "cointests"]
+	path = cointests
+	url = https://github.com/cran/cointests
 [submodule "cointmonitoR"]
 	path = cointmonitoR
 	url = https://github.com/cran/cointmonitoR
@@ -44357,6 +44363,9 @@
 [submodule "lisa"]
 	path = lisa
 	url = https://github.com/cran/lisa
+[submodule "lisat"]
+	path = lisat
+	url = https://github.com/cran/lisat
 [submodule "lisrelToR"]
 	path = lisrelToR
 	url = https://github.com/cran/lisrelToR
@@ -47459,6 +47468,9 @@
 [submodule "mlmm.gwas"]
 	path = mlmm.gwas
 	url = https://github.com/cran/mlmm.gwas
+[submodule "mlmoderator"]
+	path = mlmoderator
+	url = https://github.com/cran/mlmoderator
 [submodule "mlmpower"]
 	path = mlmpower
 	url = https://github.com/cran/mlmpower
@@ -53621,6 +53633,9 @@
 [submodule "plotrix"]
 	path = plotrix
 	url = https://github.com/cran/plotrix
+[submodule "plotrr"]
+	path = plotrr
+	url = https://github.com/cran/plotrr
 [submodule "plotscale"]
 	path = plotscale
 	url = https://github.com/cran/plotscale
@@ -68870,6 +68885,9 @@
 [submodule "unitquantreg"]
 	path = unitquantreg
 	url = https://github.com/cran/unitquantreg
+[submodule "unitrootests"]
+	path = unitrootests
+	url = https://github.com/cran/unitrootests
 [submodule "units"]
 	path = units
 	url = https://github.com/cran/units
