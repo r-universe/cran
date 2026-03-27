@@ -44045,6 +44045,9 @@
 [submodule "letsHerp"]
 	path = letsHerp
 	url = https://github.com/cran/letsHerp
+[submodule "letsR"]
+	path = letsR
+	url = https://github.com/cran/letsR
 [submodule "letsRept"]
 	path = letsRept
 	url = https://github.com/cran/letsRept
