@@ -10889,6 +10889,9 @@
 [submodule "MapperAlgo"]
 	path = MapperAlgo
 	url = https://github.com/cran/MapperAlgo
+[submodule "MappingCalc"]
+	path = MappingCalc
+	url = https://github.com/cran/MappingCalc
 [submodule "MarZIC"]
 	path = MarZIC
 	url = https://github.com/cran/MarZIC
@@ -56936,6 +56939,9 @@
 [submodule "rbranding"]
 	path = rbranding
 	url = https://github.com/cran/rbranding
+[submodule "rbreak"]
+	path = rbreak
+	url = https://github.com/cran/rbreak
 [submodule "rbrsa"]
 	path = rbrsa
 	url = https://github.com/cran/rbrsa
