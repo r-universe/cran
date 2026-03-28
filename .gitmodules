@@ -41960,9 +41960,6 @@
 [submodule "interplot"]
 	path = interplot
 	url = https://github.com/cran/interplot
-[submodule "interpolation"]
-	path = interpolation
-	url = https://github.com/cran/interpolation
 [submodule "interpolators"]
 	path = interpolators
 	url = https://github.com/cran/interpolators
