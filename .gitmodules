@@ -5366,9 +5366,6 @@
 [submodule "EcoEnsemble"]
 	path = EcoEnsemble
 	url = https://github.com/cran/EcoEnsemble
-[submodule "EcoIndR"]
-	path = EcoIndR
-	url = https://github.com/cran/EcoIndR
 [submodule "EcoMetrics"]
 	path = EcoMetrics
 	url = https://github.com/cran/EcoMetrics
