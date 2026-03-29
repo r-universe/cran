@@ -2948,6 +2948,9 @@
 [submodule "CeRNASeek"]
 	path = CeRNASeek
 	url = https://github.com/cran/CeRNASeek
+[submodule "CellDEEP"]
+	path = CellDEEP
+	url = https://github.com/cran/CellDEEP
 [submodule "CenBAR"]
 	path = CenBAR
 	url = https://github.com/cran/CenBAR
@@ -6278,6 +6281,9 @@
 [submodule "FinTS"]
 	path = FinTS
 	url = https://github.com/cran/FinTS
+[submodule "FinanceGraphs"]
+	path = FinanceGraphs
+	url = https://github.com/cran/FinanceGraphs
 [submodule "FinancialMath"]
 	path = FinancialMath
 	url = https://github.com/cran/FinancialMath
@@ -23024,6 +23030,9 @@
 [submodule "autoGO"]
 	path = autoGO
 	url = https://github.com/cran/autoGO
+[submodule "autoMR"]
+	path = autoMR
+	url = https://github.com/cran/autoMR
 [submodule "autoMrP"]
 	path = autoMrP
 	url = https://github.com/cran/autoMrP
@@ -23723,6 +23732,9 @@
 [submodule "bayespm"]
 	path = bayespm
 	url = https://github.com/cran/bayespm
+[submodule "bayespmtools"]
+	path = bayespmtools
+	url = https://github.com/cran/bayespmtools
 [submodule "bayesreg"]
 	path = bayesreg
 	url = https://github.com/cran/bayesreg
@@ -24026,6 +24038,9 @@
 [submodule "besthr"]
 	path = besthr
 	url = https://github.com/cran/besthr
+[submodule "betaARMA"]
+	path = betaARMA
+	url = https://github.com/cran/betaARMA
 [submodule "betaBayes"]
 	path = betaBayes
 	url = https://github.com/cran/betaBayes
@@ -31718,6 +31733,9 @@
 [submodule "dr4pl"]
 	path = dr4pl
 	url = https://github.com/cran/dr4pl
+[submodule "drMAIC"]
+	path = drMAIC
+	url = https://github.com/cran/drMAIC
 [submodule "dracor"]
 	path = dracor
 	url = https://github.com/cran/dracor
@@ -35279,6 +35297,9 @@
 [submodule "fishkirkko2015"]
 	path = fishkirkko2015
 	url = https://github.com/cran/fishkirkko2015
+[submodule "fishmechr"]
+	path = fishmechr
+	url = https://github.com/cran/fishmechr
 [submodule "fishmethods"]
 	path = fishmethods
 	url = https://github.com/cran/fishmethods
@@ -35459,6 +35480,9 @@
 [submodule "flexCWM"]
 	path = flexCWM
 	url = https://github.com/cran/flexCWM
+[submodule "flexCausal"]
+	path = flexCausal
+	url = https://github.com/cran/flexCausal
 [submodule "flexCountReg"]
 	path = flexCountReg
 	url = https://github.com/cran/flexCountReg
@@ -37565,6 +37589,9 @@
 [submodule "ggEDA"]
 	path = ggEDA
 	url = https://github.com/cran/ggEDA
+[submodule "ggExametrika"]
+	path = ggExametrika
+	url = https://github.com/cran/ggExametrika
 [submodule "ggExtra"]
 	path = ggExtra
 	url = https://github.com/cran/ggExtra
@@ -43448,6 +43475,9 @@
 [submodule "ktweedie"]
 	path = ktweedie
 	url = https://github.com/cran/ktweedie
+[submodule "kuenm2"]
+	path = kuenm2
+	url = https://github.com/cran/kuenm2
 [submodule "kuiper.2samp"]
 	path = kuiper.2samp
 	url = https://github.com/cran/kuiper.2samp
@@ -58196,6 +58226,9 @@
 [submodule "revise"]
 	path = revise
 	url = https://github.com/cran/revise
+[submodule "reviser"]
+	path = reviser
+	url = https://github.com/cran/reviser
 [submodule "revpref"]
 	path = revpref
 	url = https://github.com/cran/revpref
@@ -58634,6 +58667,9 @@
 [submodule "rjags"]
 	path = rjags
 	url = https://github.com/cran/rjags
+[submodule "rjd3bench"]
+	path = rjd3bench
+	url = https://github.com/cran/rjd3bench
 [submodule "rjd3jars"]
 	path = rjd3jars
 	url = https://github.com/cran/rjd3jars
@@ -62624,6 +62660,9 @@
 [submodule "simplifyNet"]
 	path = simplifyNet
 	url = https://github.com/cran/simplifyNet
+[submodule "simpowa"]
+	path = simpowa
+	url = https://github.com/cran/simpowa
 [submodule "simpr"]
 	path = simpr
 	url = https://github.com/cran/simpr
@@ -71036,6 +71075,9 @@
 [submodule "xtranat"]
 	path = xtranat
 	url = https://github.com/cran/xtranat
+[submodule "xtrec"]
+	path = xtrec
+	url = https://github.com/cran/xtrec
 [submodule "xts"]
 	path = xts
 	url = https://github.com/cran/xts
