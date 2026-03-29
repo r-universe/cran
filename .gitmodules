@@ -6371,6 +6371,9 @@
 [submodule "FluxPoint"]
 	path = FluxPoint
 	url = https://github.com/cran/FluxPoint
+[submodule "FluxSeparator"]
+	path = FluxSeparator
+	url = https://github.com/cran/FluxSeparator
 [submodule "FlyingR"]
 	path = FlyingR
 	url = https://github.com/cran/FlyingR
@@ -9575,6 +9578,9 @@
 [submodule "LabourMarketAreas"]
 	path = LabourMarketAreas
 	url = https://github.com/cran/LabourMarketAreas
+[submodule "LactCurveModels"]
+	path = LactCurveModels
+	url = https://github.com/cran/LactCurveModels
 [submodule "LadderFuelsR"]
 	path = LadderFuelsR
 	url = https://github.com/cran/LadderFuelsR
@@ -22139,6 +22145,9 @@
 [submodule "amen"]
 	path = amen
 	url = https://github.com/cran/amen
+[submodule "ameras"]
+	path = ameras
+	url = https://github.com/cran/ameras
 [submodule "amerika"]
 	path = amerika
 	url = https://github.com/cran/amerika
@@ -33875,6 +33884,9 @@
 [submodule "evmix"]
 	path = evmix
 	url = https://github.com/cran/evmix
+[submodule "evmr"]
+	path = evmr
+	url = https://github.com/cran/evmr
 [submodule "evoTS"]
 	path = evoTS
 	url = https://github.com/cran/evoTS
@@ -59018,6 +59030,9 @@
 [submodule "roahd"]
 	path = roahd
 	url = https://github.com/cran/roahd
+[submodule "roam"]
+	path = roam
+	url = https://github.com/cran/roam
 [submodule "rob"]
 	path = rob
 	url = https://github.com/cran/rob
