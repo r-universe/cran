@@ -11573,6 +11573,9 @@
 [submodule "MultiscaleDTM"]
 	path = MultiscaleDTM
 	url = https://github.com/cran/MultiscaleDTM
+[submodule "MultiscaleSCP"]
+	path = MultiscaleSCP
+	url = https://github.com/cran/MultiscaleSCP
 [submodule "MultisiteMediation"]
 	path = MultisiteMediation
 	url = https://github.com/cran/MultisiteMediation
@@ -13130,6 +13133,9 @@
 [submodule "PPtreeViz"]
 	path = PPtreeViz
 	url = https://github.com/cran/PPtreeViz
+[submodule "PQA"]
+	path = PQA
+	url = https://github.com/cran/PQA
 [submodule "PRA"]
 	path = PRA
 	url = https://github.com/cran/PRA
@@ -16415,6 +16421,9 @@
 [submodule "ReporterScore"]
 	path = ReporterScore
 	url = https://github.com/cran/ReporterScore
+[submodule "ReproStat"]
+	path = ReproStat
+	url = https://github.com/cran/ReproStat
 [submodule "Require"]
 	path = Require
 	url = https://github.com/cran/Require
