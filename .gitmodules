@@ -8687,6 +8687,9 @@
 [submodule "Inquilab"]
 	path = Inquilab
 	url = https://github.com/cran/Inquilab
+[submodule "InsectLabelR"]
+	path = InsectLabelR
+	url = https://github.com/cran/InsectLabelR
 [submodule "InspectChangepoint"]
 	path = InspectChangepoint
 	url = https://github.com/cran/InspectChangepoint
@@ -13436,6 +13439,9 @@
 [submodule "PantaRhei"]
 	path = PantaRhei
 	url = https://github.com/cran/PantaRhei
+[submodule "ParCC"]
+	path = ParCC
+	url = https://github.com/cran/ParCC
 [submodule "ParDNAcopy"]
 	path = ParDNAcopy
 	url = https://github.com/cran/ParDNAcopy
@@ -20114,6 +20120,9 @@
 [submodule "TwoDcDAPSA"]
 	path = TwoDcDAPSA
 	url = https://github.com/cran/TwoDcDAPSA
+[submodule "TwoDiRef"]
+	path = TwoDiRef
+	url = https://github.com/cran/TwoDiRef
 [submodule "TwoPhaseCorR"]
 	path = TwoPhaseCorR
 	url = https://github.com/cran/TwoPhaseCorR
@@ -21068,6 +21077,9 @@
 [submodule "Zseq"]
 	path = Zseq
 	url = https://github.com/cran/Zseq
+[submodule "a11yShiny"]
+	path = a11yShiny
+	url = https://github.com/cran/a11yShiny
 [submodule "a5R"]
 	path = a5R
 	url = https://github.com/cran/a5R
@@ -27152,6 +27164,9 @@
 [submodule "climateStability"]
 	path = climateStability
 	url = https://github.com/cran/climateStability
+[submodule "climatehealth"]
+	path = climatehealth
+	url = https://github.com/cran/climatehealth
 [submodule "climatekit"]
 	path = climatekit
 	url = https://github.com/cran/climatekit
@@ -42860,6 +42875,9 @@
 [submodule "jsTreeR"]
 	path = jsTreeR
 	url = https://github.com/cran/jsTreeR
+[submodule "jsdtools"]
+	path = jsdtools
+	url = https://github.com/cran/jsdtools
 [submodule "jshintr"]
 	path = jshintr
 	url = https://github.com/cran/jshintr
@@ -46757,6 +46775,9 @@
 [submodule "mfpp"]
 	path = mfpp
 	url = https://github.com/cran/mfpp
+[submodule "mfrmr"]
+	path = mfrmr
+	url = https://github.com/cran/mfrmr
 [submodule "mfx"]
 	path = mfx
 	url = https://github.com/cran/mfx
