@@ -12992,6 +12992,9 @@
 [submodule "PLRModels"]
 	path = PLRModels
 	url = https://github.com/cran/PLRModels
+[submodule "PLUCR"]
+	path = PLUCR
+	url = https://github.com/cran/PLUCR
 [submodule "PLindleyROC"]
 	path = PLindleyROC
 	url = https://github.com/cran/PLindleyROC
@@ -28238,6 +28241,9 @@
 [submodule "conformalpvalue"]
 	path = conformalpvalue
 	url = https://github.com/cran/conformalpvalue
+[submodule "confoundvis"]
+	path = confoundvis
+	url = https://github.com/cran/confoundvis
 [submodule "confreq"]
 	path = confreq
 	url = https://github.com/cran/confreq
@@ -35708,6 +35714,9 @@
 [submodule "fntl"]
 	path = fntl
 	url = https://github.com/cran/fntl
+[submodule "focus"]
+	path = focus
+	url = https://github.com/cran/focus
 [submodule "focusedMDS"]
 	path = focusedMDS
 	url = https://github.com/cran/focusedMDS
@@ -42626,6 +42635,9 @@
 [submodule "jenga"]
 	path = jenga
 	url = https://github.com/cran/jenga
+[submodule "jentre"]
+	path = jentre
+	url = https://github.com/cran/jentre
 [submodule "jetpack"]
 	path = jetpack
 	url = https://github.com/cran/jetpack
@@ -47741,6 +47753,9 @@
 [submodule "mnet"]
 	path = mnet
 	url = https://github.com/cran/mnet
+[submodule "mnirs"]
+	path = mnirs
+	url = https://github.com/cran/mnirs
 [submodule "mniw"]
 	path = mniw
 	url = https://github.com/cran/mniw
@@ -52376,6 +52391,9 @@
 [submodule "pbv"]
 	path = pbv
 	url = https://github.com/cran/pbv
+[submodule "pc"]
+	path = pc
+	url = https://github.com/cran/pc
 [submodule "pcFactorStan"]
 	path = pcFactorStan
 	url = https://github.com/cran/pcFactorStan
@@ -52703,6 +52721,9 @@
 [submodule "peppm"]
 	path = peppm
 	url = https://github.com/cran/peppm
+[submodule "peppwR"]
+	path = peppwR
+	url = https://github.com/cran/peppwR
 [submodule "pepr"]
 	path = pepr
 	url = https://github.com/cran/pepr
@@ -52793,6 +52814,9 @@
 [submodule "perspectev"]
 	path = perspectev
 	url = https://github.com/cran/perspectev
+[submodule "perspectiveR"]
+	path = perspectiveR
+	url = https://github.com/cran/perspectiveR
 [submodule "persval"]
 	path = persval
 	url = https://github.com/cran/persval
@@ -53732,6 +53756,9 @@
 [submodule "plutor"]
 	path = plutor
 	url = https://github.com/cran/plutor
+[submodule "ply"]
+	path = ply
+	url = https://github.com/cran/ply
 [submodule "plyr"]
 	path = plyr
 	url = https://github.com/cran/plyr
@@ -60221,6 +60248,9 @@
 [submodule "saasCNV"]
 	path = saasCNV
 	url = https://github.com/cran/saasCNV
+[submodule "saber"]
+	path = saber
+	url = https://github.com/cran/saber
 [submodule "sabre"]
 	path = sabre
 	url = https://github.com/cran/sabre
@@ -61058,6 +61088,9 @@
 [submodule "scutr"]
 	path = scutr
 	url = https://github.com/cran/scutr
+[submodule "sd2R"]
+	path = sd2R
+	url = https://github.com/cran/sd2R
 [submodule "sdPrior"]
 	path = sdPrior
 	url = https://github.com/cran/sdPrior
@@ -63689,6 +63722,9 @@
 [submodule "sparseLDA"]
 	path = sparseLDA
 	url = https://github.com/cran/sparseLDA
+[submodule "sparseLM"]
+	path = sparseLM
+	url = https://github.com/cran/sparseLM
 [submodule "sparseLRMatrix"]
 	path = sparseLRMatrix
 	url = https://github.com/cran/sparseLRMatrix
@@ -64139,6 +64175,9 @@
 [submodule "splineCox"]
 	path = splineCox
 	url = https://github.com/cran/splineCox
+[submodule "splinemixmeta"]
+	path = splinemixmeta
+	url = https://github.com/cran/splinemixmeta
 [submodule "splineplot"]
 	path = splineplot
 	url = https://github.com/cran/splineplot
