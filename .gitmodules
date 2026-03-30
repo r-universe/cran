@@ -68621,6 +68621,9 @@
 [submodule "tvmComp"]
 	path = tvmComp
 	url = https://github.com/cran/tvmComp
+[submodule "tvmediation"]
+	path = tvmediation
+	url = https://github.com/cran/tvmediation
 [submodule "tvrmst"]
 	path = tvrmst
 	url = https://github.com/cran/tvrmst
