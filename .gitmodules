@@ -38102,6 +38102,9 @@
 [submodule "ggredist"]
 	path = ggredist
 	url = https://github.com/cran/ggredist
+[submodule "ggrefine"]
+	path = ggrefine
+	url = https://github.com/cran/ggrefine
 [submodule "ggrepel"]
 	path = ggrepel
 	url = https://github.com/cran/ggrepel
@@ -40220,6 +40223,9 @@
 [submodule "hexify"]
 	path = hexify
 	url = https://github.com/cran/hexify
+[submodule "hexsession"]
+	path = hexsession
+	url = https://github.com/cran/hexsession
 [submodule "hextri"]
 	path = hextri
 	url = https://github.com/cran/hextri
@@ -46460,6 +46466,9 @@
 [submodule "metaLik"]
 	path = metaLik
 	url = https://github.com/cran/metaLik
+[submodule "metaLong"]
+	path = metaLong
+	url = https://github.com/cran/metaLong
 [submodule "metaMA"]
 	path = metaMA
 	url = https://github.com/cran/metaMA
@@ -47210,6 +47219,9 @@
 [submodule "misha"]
 	path = misha
 	url = https://github.com/cran/misha
+[submodule "misl"]
+	path = misl
+	url = https://github.com/cran/misl
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/cran/mispitools
