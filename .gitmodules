@@ -1253,9 +1253,6 @@
 [submodule "BNPTSclust"]
 	path = BNPTSclust
 	url = https://github.com/cran/BNPTSclust
-[submodule "BNPdensity"]
-	path = BNPdensity
-	url = https://github.com/cran/BNPdensity
 [submodule "BNPmix"]
 	path = BNPmix
 	url = https://github.com/cran/BNPmix
@@ -3962,9 +3959,6 @@
 [submodule "DEEVD"]
 	path = DEEVD
 	url = https://github.com/cran/DEEVD
-[submodule "DEGRE"]
-	path = DEGRE
-	url = https://github.com/cran/DEGRE
 [submodule "DEHOGT"]
 	path = DEHOGT
 	url = https://github.com/cran/DEHOGT
@@ -7352,9 +7346,6 @@
 [submodule "GenoPop"]
 	path = GenoPop
 	url = https://github.com/cran/GenoPop
-[submodule "GenoScan"]
-	path = GenoScan
-	url = https://github.com/cran/GenoScan
 [submodule "GenoTriplo"]
 	path = GenoTriplo
 	url = https://github.com/cran/GenoTriplo
@@ -7436,9 +7427,6 @@
 [submodule "Ghost"]
 	path = Ghost
 	url = https://github.com/cran/Ghost
-[submodule "GhostKnockoff"]
-	path = GhostKnockoff
-	url = https://github.com/cran/GhostKnockoff
 [submodule "GiANT"]
 	path = GiANT
 	url = https://github.com/cran/GiANT
@@ -9152,9 +9140,6 @@
 [submodule "KnockoffHybrid"]
 	path = KnockoffHybrid
 	url = https://github.com/cran/KnockoffHybrid
-[submodule "KnockoffScreen"]
-	path = KnockoffScreen
-	url = https://github.com/cran/KnockoffScreen
 [submodule "KnockoffTrio"]
 	path = KnockoffTrio
 	url = https://github.com/cran/KnockoffTrio
@@ -14993,9 +14978,6 @@
 [submodule "RKEAjars"]
 	path = RKEAjars
 	url = https://github.com/cran/RKEAjars
-[submodule "RKEEL"]
-	path = RKEEL
-	url = https://github.com/cran/RKEEL
 [submodule "RKEELdata"]
 	path = RKEELdata
 	url = https://github.com/cran/RKEELdata
@@ -20654,9 +20636,6 @@
 [submodule "WGCNA"]
 	path = WGCNA
 	url = https://github.com/cran/WGCNA
-[submodule "WGScan"]
-	path = WGScan
-	url = https://github.com/cran/WGScan
 [submodule "WH"]
 	path = WH
 	url = https://github.com/cran/WH
@@ -40754,9 +40733,6 @@
 [submodule "humaniformat"]
 	path = humaniformat
 	url = https://github.com/cran/humaniformat
-[submodule "humanize"]
-	path = humanize
-	url = https://github.com/cran/humanize
 [submodule "humanleague"]
 	path = humanleague
 	url = https://github.com/cran/humanleague
@@ -41990,9 +41966,6 @@
 [submodule "interp"]
 	path = interp
 	url = https://github.com/cran/interp
-[submodule "interplex"]
-	path = interplex
-	url = https://github.com/cran/interplex
 [submodule "interplot"]
 	path = interplot
 	url = https://github.com/cran/interplot
@@ -50942,9 +50915,6 @@
 [submodule "onbrand"]
 	path = onbrand
 	url = https://github.com/cran/onbrand
-[submodule "onc.api"]
-	path = onc.api
-	url = https://github.com/cran/onc.api
 [submodule "once"]
 	path = once
 	url = https://github.com/cran/once
@@ -52112,9 +52082,6 @@
 [submodule "pargasite"]
 	path = pargasite
 	url = https://github.com/cran/pargasite
-[submodule "parglm"]
-	path = parglm
-	url = https://github.com/cran/parglm
 [submodule "parma"]
 	path = parma
 	url = https://github.com/cran/parma
@@ -52214,9 +52181,6 @@
 [submodule "pass.lme"]
 	path = pass.lme
 	url = https://github.com/cran/pass.lme
-[submodule "passport"]
-	path = passport
-	url = https://github.com/cran/passport
 [submodule "passt"]
 	path = passt
 	url = https://github.com/cran/passt
@@ -54716,9 +54680,6 @@
 [submodule "prismjs"]
 	path = prismjs
 	url = https://github.com/cran/prismjs
-[submodule "prisonbrief"]
-	path = prisonbrief
-	url = https://github.com/cran/prisonbrief
 [submodule "prithulib"]
 	path = prithulib
 	url = https://github.com/cran/prithulib
@@ -62669,9 +62630,6 @@
 [submodule "simpletex"]
 	path = simpletex
 	url = https://github.com/cran/simpletex
-[submodule "simplextree"]
-	path = simplextree
-	url = https://github.com/cran/simplextree
 [submodule "simplifyNet"]
 	path = simplifyNet
 	url = https://github.com/cran/simplifyNet
@@ -65363,9 +65321,6 @@
 [submodule "sumExtras"]
 	path = sumExtras
 	url = https://github.com/cran/sumExtras
-[submodule "sumFREGAT"]
-	path = sumFREGAT
-	url = https://github.com/cran/sumFREGAT
 [submodule "sumR"]
 	path = sumR
 	url = https://github.com/cran/sumR
