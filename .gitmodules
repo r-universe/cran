@@ -21803,6 +21803,9 @@
 [submodule "agregR"]
 	path = agregR
 	url = https://github.com/cran/agregR
+[submodule "agriReg"]
+	path = agriReg
+	url = https://github.com/cran/agriReg
 [submodule "agriTutorial"]
 	path = agriTutorial
 	url = https://github.com/cran/agriTutorial
@@ -21917,6 +21920,9 @@
 [submodule "airt"]
 	path = airt
 	url = https://github.com/cran/airt
+[submodule "aisdk"]
+	path = aisdk
+	url = https://github.com/cran/aisdk
 [submodule "aisoph"]
 	path = aisoph
 	url = https://github.com/cran/aisoph
@@ -30341,6 +30347,9 @@
 [submodule "debkeepr"]
 	path = debkeepr
 	url = https://github.com/cran/debkeepr
+[submodule "debtkit"]
+	path = debtkit
+	url = https://github.com/cran/debtkit
 [submodule "debugme"]
 	path = debugme
 	url = https://github.com/cran/debugme
@@ -35948,6 +35957,9 @@
 [submodule "forrel"]
 	path = forrel
 	url = https://github.com/cran/forrel
+[submodule "forrest"]
+	path = forrest
+	url = https://github.com/cran/forrest
 [submodule "forsearch"]
 	path = forsearch
 	url = https://github.com/cran/forsearch
@@ -47714,6 +47726,9 @@
 [submodule "mmb"]
 	path = mmb
 	url = https://github.com/cran/mmb
+[submodule "mmbcv"]
+	path = mmbcv
+	url = https://github.com/cran/mmbcv
 [submodule "mmc"]
 	path = mmc
 	url = https://github.com/cran/mmc
@@ -51986,6 +52001,9 @@
 [submodule "pamr"]
 	path = pamr
 	url = https://github.com/cran/pamr
+[submodule "pams"]
+	path = pams
+	url = https://github.com/cran/pams
 [submodule "pan"]
 	path = pan
 	url = https://github.com/cran/pan
