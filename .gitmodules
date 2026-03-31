@@ -16037,6 +16037,9 @@
 [submodule "RcppCWB"]
 	path = RcppCWB
 	url = https://github.com/cran/RcppCWB
+[submodule "RcppCensSpatial"]
+	path = RcppCensSpatial
+	url = https://github.com/cran/RcppCensSpatial
 [submodule "RcppClassic"]
 	path = RcppClassic
 	url = https://github.com/cran/RcppClassic
