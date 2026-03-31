@@ -1664,6 +1664,9 @@
 [submodule "BayesVarSel"]
 	path = BayesVarSel
 	url = https://github.com/cran/BayesVarSel
+[submodule "BayesVolcano"]
+	path = BayesVolcano
+	url = https://github.com/cran/BayesVolcano
 [submodule "BayesX"]
 	path = BayesX
 	url = https://github.com/cran/BayesX
@@ -3431,6 +3434,9 @@
 [submodule "CompositionalML"]
 	path = CompositionalML
 	url = https://github.com/cran/CompositionalML
+[submodule "CompositionalNAimp"]
+	path = CompositionalNAimp
+	url = https://github.com/cran/CompositionalNAimp
 [submodule "CompositionalRF"]
 	path = CompositionalRF
 	url = https://github.com/cran/CompositionalRF
@@ -10199,6 +10205,9 @@
 [submodule "MFPCA"]
 	path = MFPCA
 	url = https://github.com/cran/MFPCA
+[submodule "MFSD"]
+	path = MFSD
+	url = https://github.com/cran/MFSD
 [submodule "MFSIS"]
 	path = MFSIS
 	url = https://github.com/cran/MFSIS
@@ -14795,6 +14804,9 @@
 [submodule "RFAE"]
 	path = RFAE
 	url = https://github.com/cran/RFAE
+[submodule "RFIF"]
+	path = RFIF
+	url = https://github.com/cran/RFIF
 [submodule "RFLPtools"]
 	path = RFLPtools
 	url = https://github.com/cran/RFLPtools
@@ -17669,6 +17681,9 @@
 [submodule "SP2000"]
 	path = SP2000
 	url = https://github.com/cran/SP2000
+[submodule "SPACO"]
+	path = SPACO
+	url = https://github.com/cran/SPACO
 [submodule "SPADAR"]
 	path = SPADAR
 	url = https://github.com/cran/SPADAR
@@ -26129,6 +26144,9 @@
 [submodule "causaldata"]
 	path = causaldata
 	url = https://github.com/cran/causaldata
+[submodule "causaldef"]
+	path = causaldef
+	url = https://github.com/cran/causaldef
 [submodule "causaldrf"]
 	path = causaldrf
 	url = https://github.com/cran/causaldrf
@@ -31172,6 +31190,9 @@
 [submodule "discretefit"]
 	path = discretefit
 	url = https://github.com/cran/discretefit
+[submodule "discretes"]
+	path = discretes
+	url = https://github.com/cran/discretes
 [submodule "discretization"]
 	path = discretization
 	url = https://github.com/cran/discretization
@@ -33359,6 +33380,9 @@
 [submodule "epimdr"]
 	path = epimdr
 	url = https://github.com/cran/epimdr
+[submodule "epimdr2"]
+	path = epimdr2
+	url = https://github.com/cran/epimdr2
 [submodule "epinet"]
 	path = epinet
 	url = https://github.com/cran/epinet
@@ -62375,6 +62399,9 @@
 [submodule "sicegar"]
 	path = sicegar
 	url = https://github.com/cran/sicegar
+[submodule "sicher"]
+	path = sicher
+	url = https://github.com/cran/sicher
 [submodule "siconvr"]
 	path = siconvr
 	url = https://github.com/cran/siconvr
@@ -68681,6 +68708,9 @@
 [submodule "txtq"]
 	path = txtq
 	url = https://github.com/cran/txtq
+[submodule "tynding"]
+	path = tynding
+	url = https://github.com/cran/tynding
 [submodule "typeR"]
 	path = typeR
 	url = https://github.com/cran/typeR
