@@ -1598,9 +1598,6 @@
 [submodule "BayesPET"]
 	path = BayesPET
 	url = https://github.com/cran/BayesPET
-[submodule "BayesPIM"]
-	path = BayesPIM
-	url = https://github.com/cran/BayesPIM
 [submodule "BayesPPD"]
 	path = BayesPPD
 	url = https://github.com/cran/BayesPPD
@@ -1982,9 +1979,6 @@
 [submodule "BlockCov"]
 	path = BlockCov
 	url = https://github.com/cran/BlockCov
-[submodule "BlockMissingData"]
-	path = BlockMissingData
-	url = https://github.com/cran/BlockMissingData
 [submodule "BlockmodelingGUI"]
 	path = BlockmodelingGUI
 	url = https://github.com/cran/BlockmodelingGUI
@@ -9050,9 +9044,6 @@
 [submodule "KSA"]
 	path = KSA
 	url = https://github.com/cran/KSA
-[submodule "KSD"]
-	path = KSD
-	url = https://github.com/cran/KSD
 [submodule "KSEAapp"]
 	path = KSEAapp
 	url = https://github.com/cran/KSEAapp
@@ -24989,9 +24980,6 @@
 [submodule "booklet"]
 	path = booklet
 	url = https://github.com/cran/booklet
-[submodule "boomer"]
-	path = boomer
-	url = https://github.com/cran/boomer
 [submodule "boostingDEA"]
 	path = boostingDEA
 	url = https://github.com/cran/boostingDEA
@@ -30032,9 +30020,6 @@
 [submodule "dataseries"]
 	path = dataseries
 	url = https://github.com/cran/dataseries
-[submodule "dataset"]
-	path = dataset
-	url = https://github.com/cran/dataset
 [submodule "datasetjson"]
 	path = datasetjson
 	url = https://github.com/cran/datasetjson
@@ -31208,9 +31193,6 @@
 [submodule "diseasystore"]
 	path = diseasystore
 	url = https://github.com/cran/diseasystore
-[submodule "disk.frame"]
-	path = disk.frame
-	url = https://github.com/cran/disk.frame
 [submodule "dismo"]
 	path = dismo
 	url = https://github.com/cran/dismo
@@ -31367,9 +31349,6 @@
 [submodule "ditwahLandslide"]
 	path = ditwahLandslide
 	url = https://github.com/cran/ditwahLandslide
-[submodule "div"]
-	path = div
-	url = https://github.com/cran/div
 [submodule "divDyn"]
 	path = divDyn
 	url = https://github.com/cran/divDyn
@@ -35303,9 +35282,6 @@
 [submodule "fishbc"]
 	path = fishbc
 	url = https://github.com/cran/fishbc
-[submodule "fishboot"]
-	path = fishboot
-	url = https://github.com/cran/fishboot
 [submodule "fishdata"]
 	path = fishdata
 	url = https://github.com/cran/fishdata
@@ -39713,9 +39689,6 @@
 [submodule "h5lite"]
 	path = h5lite
 	url = https://github.com/cran/h5lite
-[submodule "hIRT"]
-	path = hIRT
-	url = https://github.com/cran/hIRT
 [submodule "hJAM"]
 	path = hJAM
 	url = https://github.com/cran/hJAM
@@ -53066,9 +53039,6 @@
 [submodule "phinterval"]
 	path = phinterval
 	url = https://github.com/cran/phinterval
-[submodule "phm"]
-	path = phm
-	url = https://github.com/cran/phm
 [submodule "phoenics"]
 	path = phoenics
 	url = https://github.com/cran/phoenics
@@ -55244,9 +55214,6 @@
 [submodule "ptools"]
 	path = ptools
 	url = https://github.com/cran/ptools
-[submodule "ptspotter"]
-	path = ptspotter
-	url = https://github.com/cran/ptspotter
 [submodule "pttstability"]
 	path = pttstability
 	url = https://github.com/cran/pttstability
@@ -58232,9 +58199,6 @@
 [submodule "retrodesign"]
 	path = retrodesign
 	url = https://github.com/cran/retrodesign
-[submodule "retroharmonize"]
-	path = retroharmonize
-	url = https://github.com/cran/retroharmonize
 [submodule "retrosheet"]
 	path = retrosheet
 	url = https://github.com/cran/retrosheet
@@ -60164,9 +60128,6 @@
 [submodule "rwhatsapp"]
 	path = rwhatsapp
 	url = https://github.com/cran/rwhatsapp
-[submodule "rwicc"]
-	path = rwicc
-	url = https://github.com/cran/rwicc
 [submodule "rwisp"]
 	path = rwisp
 	url = https://github.com/cran/rwisp
@@ -61589,9 +61550,6 @@
 [submodule "separationplot"]
 	path = separationplot
 	url = https://github.com/cran/separationplot
-[submodule "sephora"]
-	path = sephora
-	url = https://github.com/cran/sephora
 [submodule "sepkoski"]
 	path = sepkoski
 	url = https://github.com/cran/sepkoski
@@ -67043,9 +67001,6 @@
 [submodule "tidycmprsk"]
 	path = tidycmprsk
 	url = https://github.com/cran/tidycmprsk
-[submodule "tidycode"]
-	path = tidycode
-	url = https://github.com/cran/tidycode
 [submodule "tidycomm"]
 	path = tidycomm
 	url = https://github.com/cran/tidycomm
@@ -67940,9 +67895,6 @@
 [submodule "trafficCAR"]
 	path = trafficCAR
 	url = https://github.com/cran/trafficCAR
-[submodule "trafo"]
-	path = trafo
-	url = https://github.com/cran/trafo
 [submodule "trainR"]
 	path = trainR
 	url = https://github.com/cran/trainR
@@ -68222,9 +68174,6 @@
 [submodule "trimetStops"]
 	path = trimetStops
 	url = https://github.com/cran/trimetStops
-[submodule "trimmer"]
-	path = trimmer
-	url = https://github.com/cran/trimmer
 [submodule "trimr"]
 	path = trimr
 	url = https://github.com/cran/trimr
