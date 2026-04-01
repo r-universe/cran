@@ -566,6 +566,9 @@
 [submodule "AgreementInterval"]
 	path = AgreementInterval
 	url = https://github.com/cran/AgreementInterval
+[submodule "AgriDiversiX"]
+	path = AgriDiversiX
+	url = https://github.com/cran/AgriDiversiX
 [submodule "AgroR"]
 	path = AgroR
 	url = https://github.com/cran/AgroR
@@ -5018,6 +5021,9 @@
 [submodule "EDOtrans"]
 	path = EDOtrans
 	url = https://github.com/cran/EDOtrans
+[submodule "EE.Data"]
+	path = EE.Data
+	url = https://github.com/cran/EE.Data
 [submodule "EEAaq"]
 	path = EEAaq
 	url = https://github.com/cran/EEAaq
@@ -21956,6 +21962,9 @@
 [submodule "albatross"]
 	path = albatross
 	url = https://github.com/cran/albatross
+[submodule "albersdown"]
+	path = albersdown
+	url = https://github.com/cran/albersdown
 [submodule "albopictus"]
 	path = albopictus
 	url = https://github.com/cran/albopictus
@@ -36962,6 +36971,9 @@
 [submodule "gcor"]
 	path = gcor
 	url = https://github.com/cran/gcor
+[submodule "gcpca"]
+	path = gcpca
+	url = https://github.com/cran/gcpca
 [submodule "gcplyr"]
 	path = gcplyr
 	url = https://github.com/cran/gcplyr
@@ -48536,6 +48548,9 @@
 [submodule "mt"]
 	path = mt
 	url = https://github.com/cran/mt
+[submodule "mtaOpenData"]
+	path = mtaOpenData
+	url = https://github.com/cran/mtaOpenData
 [submodule "mtanan"]
 	path = mtanan
 	url = https://github.com/cran/mtanan
@@ -50207,6 +50222,9 @@
 [submodule "nominatimlite"]
 	path = nominatimlite
 	url = https://github.com/cran/nominatimlite
+[submodule "nomine"]
+	path = nomine
+	url = https://github.com/cran/nomine
 [submodule "nomisdata"]
 	path = nomisdata
 	url = https://github.com/cran/nomisdata
@@ -66299,6 +66317,9 @@
 [submodule "taxalight"]
 	path = taxalight
 	url = https://github.com/cran/taxalight
+[submodule "taxdiv"]
+	path = taxdiv
+	url = https://github.com/cran/taxdiv
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/cran/taxize
