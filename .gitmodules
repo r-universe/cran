@@ -15914,9 +15914,6 @@
 [submodule "RcmdrPlugin.DoE"]
 	path = RcmdrPlugin.DoE
 	url = https://github.com/cran/RcmdrPlugin.DoE
-[submodule "RcmdrPlugin.EACSPIR"]
-	path = RcmdrPlugin.EACSPIR
-	url = https://github.com/cran/RcmdrPlugin.EACSPIR
 [submodule "RcmdrPlugin.EBM"]
 	path = RcmdrPlugin.EBM
 	url = https://github.com/cran/RcmdrPlugin.EBM
@@ -40982,9 +40979,6 @@
 [submodule "iAdapt"]
 	path = iAdapt
 	url = https://github.com/cran/iAdapt
-[submodule "iBART"]
-	path = iBART
-	url = https://github.com/cran/iBART
 [submodule "iBST"]
 	path = iBST
 	url = https://github.com/cran/iBST
@@ -49463,9 +49457,6 @@
 [submodule "neatRanges"]
 	path = neatRanges
 	url = https://github.com/cran/neatRanges
-[submodule "neatStats"]
-	path = neatStats
-	url = https://github.com/cran/neatStats
 [submodule "neatmaps"]
 	path = neatmaps
 	url = https://github.com/cran/neatmaps
@@ -50375,9 +50366,6 @@
 [submodule "npExact"]
 	path = npExact
 	url = https://github.com/cran/npExact
-[submodule "npIntFactRep"]
-	path = npIntFactRep
-	url = https://github.com/cran/npIntFactRep
 [submodule "npROCRegression"]
 	path = npROCRegression
 	url = https://github.com/cran/npROCRegression
@@ -55199,9 +55187,6 @@
 [submodule "psych"]
 	path = psych
 	url = https://github.com/cran/psych
-[submodule "psychReport"]
-	path = psychReport
-	url = https://github.com/cran/psychReport
 [submodule "psychTools"]
 	path = psychTools
 	url = https://github.com/cran/psychTools
@@ -65645,9 +65630,6 @@
 [submodule "surveygraph"]
 	path = surveygraph
 	url = https://github.com/cran/surveygraph
-[submodule "surveynnet"]
-	path = surveynnet
-	url = https://github.com/cran/surveynnet
 [submodule "surveyplanning"]
 	path = surveyplanning
 	url = https://github.com/cran/surveyplanning
@@ -69734,12 +69716,6 @@
 [submodule "vipor"]
 	path = vipor
 	url = https://github.com/cran/vipor
-[submodule "viraldomain"]
-	path = viraldomain
-	url = https://github.com/cran/viraldomain
-[submodule "viralmodels"]
-	path = viralmodels
-	url = https://github.com/cran/viralmodels
 [submodule "viralx"]
 	path = viralx
 	url = https://github.com/cran/viralx
