@@ -24239,6 +24239,9 @@
 [submodule "bifurcatingr"]
 	path = bifurcatingr
 	url = https://github.com/cran/bifurcatingr
+[submodule "bigANNOY"]
+	path = bigANNOY
+	url = https://github.com/cran/bigANNOY
 [submodule "bigBits"]
 	path = bigBits
 	url = https://github.com/cran/bigBits
@@ -24251,6 +24254,9 @@
 [submodule "bigGP"]
 	path = bigGP
 	url = https://github.com/cran/bigGP
+[submodule "bigKNN"]
+	path = bigKNN
+	url = https://github.com/cran/bigKNN
 [submodule "bigMICE"]
 	path = bigMICE
 	url = https://github.com/cran/bigMICE
@@ -26105,6 +26111,9 @@
 [submodule "catsim"]
 	path = catsim
 	url = https://github.com/cran/catsim
+[submodule "catviz"]
+	path = catviz
+	url = https://github.com/cran/catviz
 [submodule "cauchypca"]
 	path = cauchypca
 	url = https://github.com/cran/cauchypca
@@ -32162,6 +32171,9 @@
 [submodule "dynafluxr"]
 	path = dynafluxr
 	url = https://github.com/cran/dynafluxr
+[submodule "dynamAedes"]
+	path = dynamAedes
+	url = https://github.com/cran/dynamAedes
 [submodule "dynamac"]
 	path = dynamac
 	url = https://github.com/cran/dynamac
@@ -50633,6 +50645,9 @@
 [submodule "nycflights23"]
 	path = nycflights23
 	url = https://github.com/cran/nycflights23
+[submodule "nysOpenData"]
+	path = nysOpenData
+	url = https://github.com/cran/nysOpenData
 [submodule "nzffdr"]
 	path = nzffdr
 	url = https://github.com/cran/nzffdr
