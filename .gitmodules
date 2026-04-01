@@ -18455,6 +18455,9 @@
 [submodule "SimtablR"]
 	path = SimtablR
 	url = https://github.com/cran/SimtablR
+[submodule "SingleArmMRCT"]
+	path = SingleArmMRCT
+	url = https://github.com/cran/SingleArmMRCT
 [submodule "SingleCaseES"]
 	path = SingleCaseES
 	url = https://github.com/cran/SingleCaseES
@@ -37913,6 +37916,9 @@
 [submodule "gghighlight"]
 	path = gghighlight
 	url = https://github.com/cran/gghighlight
+[submodule "gghinton"]
+	path = gghinton
+	url = https://github.com/cran/gghinton
 [submodule "gghist"]
 	path = gghist
 	url = https://github.com/cran/gghist
@@ -44294,6 +44300,9 @@
 [submodule "likelihood"]
 	path = likelihood
 	url = https://github.com/cran/likelihood
+[submodule "likelihood.contr"]
+	path = likelihood.contr
+	url = https://github.com/cran/likelihood.contr
 [submodule "likelihood.model"]
 	path = likelihood.model
 	url = https://github.com/cran/likelihood.model
@@ -65315,6 +65324,9 @@
 [submodule "sts"]
 	path = sts
 	url = https://github.com/cran/sts
+[submodule "stt.api"]
+	path = stt.api
+	url = https://github.com/cran/stt.api
 [submodule "stuart"]
 	path = stuart
 	url = https://github.com/cran/stuart
