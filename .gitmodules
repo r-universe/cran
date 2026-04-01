@@ -32162,9 +32162,6 @@
 [submodule "dynafluxr"]
 	path = dynafluxr
 	url = https://github.com/cran/dynafluxr
-[submodule "dynamAedes"]
-	path = dynamAedes
-	url = https://github.com/cran/dynamAedes
 [submodule "dynamac"]
 	path = dynamac
 	url = https://github.com/cran/dynamac
