@@ -7985,9 +7985,6 @@
 [submodule "HeterFunctionalData"]
 	path = HeterFunctionalData
 	url = https://github.com/cran/HeterFunctionalData
-[submodule "HeteroGGM"]
-	path = HeteroGGM
-	url = https://github.com/cran/HeteroGGM
 [submodule "HextractoR"]
 	path = HextractoR
 	url = https://github.com/cran/HextractoR
@@ -19970,9 +19967,6 @@
 [submodule "TrafficBDE"]
 	path = TrafficBDE
 	url = https://github.com/cran/TrafficBDE
-[submodule "TransGraph"]
-	path = TransGraph
-	url = https://github.com/cran/TransGraph
 [submodule "TransHDM"]
 	path = TransHDM
 	url = https://github.com/cran/TransHDM
@@ -49595,9 +49589,6 @@
 [submodule "netSEM"]
 	path = netSEM
 	url = https://github.com/cran/netSEM
-[submodule "netShiny"]
-	path = netShiny
-	url = https://github.com/cran/netShiny
 [submodule "netUtils"]
 	path = netUtils
 	url = https://github.com/cran/netUtils
@@ -49619,9 +49610,6 @@
 [submodule "netgsa"]
 	path = netgsa
 	url = https://github.com/cran/netgsa
-[submodule "netgwas"]
-	path = netgwas
-	url = https://github.com/cran/netgwas
 [submodule "netie"]
 	path = netie
 	url = https://github.com/cran/netie
@@ -50210,9 +50198,6 @@
 [submodule "noisyr"]
 	path = noisyr
 	url = https://github.com/cran/noisyr
-[submodule "noisysbmGGM"]
-	path = noisysbmGGM
-	url = https://github.com/cran/noisysbmGGM
 [submodule "nolock"]
 	path = nolock
 	url = https://github.com/cran/nolock
@@ -50648,9 +50633,6 @@
 [submodule "numspellR"]
 	path = numspellR
 	url = https://github.com/cran/numspellR
-[submodule "nutriNetwork"]
-	path = nutriNetwork
-	url = https://github.com/cran/nutriNetwork
 [submodule "nutrition"]
 	path = nutrition
 	url = https://github.com/cran/nutrition
@@ -58445,9 +58427,6 @@
 [submodule "rglplus"]
 	path = rglplus
 	url = https://github.com/cran/rglplus
-[submodule "rgm"]
-	path = rgm
-	url = https://github.com/cran/rgm
 [submodule "rgnoisefilt"]
 	path = rgnoisefilt
 	url = https://github.com/cran/rgnoisefilt
@@ -65078,9 +65057,6 @@
 [submodule "stmgui"]
 	path = stmgui
 	url = https://github.com/cran/stmgui
-[submodule "stminsights"]
-	path = stminsights
-	url = https://github.com/cran/stminsights
 [submodule "stocc"]
 	path = stocc
 	url = https://github.com/cran/stocc
