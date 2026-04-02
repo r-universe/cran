@@ -11609,6 +11609,9 @@
 [submodule "Mychisq"]
 	path = Mychisq
 	url = https://github.com/cran/Mychisq
+[submodule "MyoScore"]
+	path = MyoScore
+	url = https://github.com/cran/MyoScore
 [submodule "N2H4"]
 	path = N2H4
 	url = https://github.com/cran/N2H4
@@ -23573,6 +23576,9 @@
 [submodule "baskexact"]
 	path = baskexact
 	url = https://github.com/cran/baskexact
+[submodule "baskoptr"]
+	path = baskoptr
+	url = https://github.com/cran/baskoptr
 [submodule "basksim"]
 	path = basksim
 	url = https://github.com/cran/basksim
@@ -27248,6 +27254,9 @@
 [submodule "clinical"]
 	path = clinical
 	url = https://github.com/cran/clinical
+[submodule "clinicalfair"]
+	path = clinicalfair
+	url = https://github.com/cran/clinicalfair
 [submodule "clinicalomicsdbR"]
 	path = clinicalomicsdbR
 	url = https://github.com/cran/clinicalomicsdbR
@@ -52787,6 +52796,9 @@
 [submodule "pep725"]
 	path = pep725
 	url = https://github.com/cran/pep725
+[submodule "pepdiff"]
+	path = pepdiff
+	url = https://github.com/cran/pepdiff
 [submodule "pepe"]
 	path = pepe
 	url = https://github.com/cran/pepe
@@ -58748,6 +58760,9 @@
 [submodule "rjd3tramoseats"]
 	path = rjd3tramoseats
 	url = https://github.com/cran/rjd3tramoseats
+[submodule "rjd3workspace"]
+	path = rjd3workspace
+	url = https://github.com/cran/rjd3workspace
 [submodule "rjd3x13"]
 	path = rjd3x13
 	url = https://github.com/cran/rjd3x13
@@ -65678,6 +65693,9 @@
 [submodule "survidm"]
 	path = survidm
 	url = https://github.com/cran/survidm
+[submodule "survinger"]
+	path = survinger
+	url = https://github.com/cran/survinger
 [submodule "survival"]
 	path = survival
 	url = https://github.com/cran/survival
@@ -66020,6 +66038,9 @@
 [submodule "synthesizer"]
 	path = synthesizer
 	url = https://github.com/cran/synthesizer
+[submodule "syntheticdata"]
+	path = syntheticdata
+	url = https://github.com/cran/syntheticdata
 [submodule "synthpop"]
 	path = synthpop
 	url = https://github.com/cran/synthpop
