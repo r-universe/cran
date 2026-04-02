@@ -13601,6 +13601,9 @@
 [submodule "Phase12Compare"]
 	path = Phase12Compare
 	url = https://github.com/cran/Phase12Compare
+[submodule "PhaseGMM"]
+	path = PhaseGMM
+	url = https://github.com/cran/PhaseGMM
 [submodule "PhaseType"]
 	path = PhaseType
 	url = https://github.com/cran/PhaseType
@@ -31940,6 +31943,9 @@
 [submodule "dsem"]
 	path = dsem
 	url = https://github.com/cran/dsem
+[submodule "dsge"]
+	path = dsge
+	url = https://github.com/cran/dsge
 [submodule "dsims"]
 	path = dsims
 	url = https://github.com/cran/dsims
@@ -57743,6 +57749,9 @@
 [submodule "refund.shiny"]
 	path = refund.shiny
 	url = https://github.com/cran/refund.shiny
+[submodule "refundBayes"]
+	path = refundBayes
+	url = https://github.com/cran/refundBayes
 [submodule "regDIF"]
 	path = regDIF
 	url = https://github.com/cran/regDIF
@@ -58127,6 +58136,9 @@
 [submodule "resampledata3"]
 	path = resampledata3
 	url = https://github.com/cran/resampledata3
+[submodule "rescomp"]
+	path = rescomp
+	url = https://github.com/cran/rescomp
 [submodule "resde"]
 	path = resde
 	url = https://github.com/cran/resde
@@ -62315,6 +62327,9 @@
 [submodule "shinyrecipes"]
 	path = shinyrecipes
 	url = https://github.com/cran/shinyrecipes
+[submodule "shinyreprex"]
+	path = shinyreprex
+	url = https://github.com/cran/shinyreprex
 [submodule "shinyscholar"]
 	path = shinyscholar
 	url = https://github.com/cran/shinyscholar
