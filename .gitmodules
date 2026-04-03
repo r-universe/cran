@@ -7400,9 +7400,6 @@
 [submodule "GetBCBData"]
 	path = GetBCBData
 	url = https://github.com/cran/GetBCBData
-[submodule "GetDFPData"]
-	path = GetDFPData
-	url = https://github.com/cran/GetDFPData
 [submodule "GetDFPData2"]
 	path = GetDFPData2
 	url = https://github.com/cran/GetDFPData2
