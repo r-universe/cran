@@ -9467,6 +9467,9 @@
 [submodule "LSD"]
 	path = LSD
 	url = https://github.com/cran/LSD
+[submodule "LSDinterface"]
+	path = LSDinterface
+	url = https://github.com/cran/LSDinterface
 [submodule "LSDirf"]
 	path = LSDirf
 	url = https://github.com/cran/LSDirf
@@ -23738,6 +23741,9 @@
 [submodule "bayeslist"]
 	path = bayeslist
 	url = https://github.com/cran/bayeslist
+[submodule "bayeslm"]
+	path = bayeslm
+	url = https://github.com/cran/bayeslm
 [submodule "bayeslongitudinal"]
 	path = bayeslongitudinal
 	url = https://github.com/cran/bayeslongitudinal
@@ -52835,6 +52841,9 @@
 [submodule "perccalc"]
 	path = perccalc
 	url = https://github.com/cran/perccalc
+[submodule "percentiles"]
+	path = percentiles
+	url = https://github.com/cran/percentiles
 [submodule "performance"]
 	path = performance
 	url = https://github.com/cran/performance
