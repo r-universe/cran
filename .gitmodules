@@ -9890,6 +9890,9 @@
 [submodule "MAICtools"]
 	path = MAICtools
 	url = https://github.com/cran/MAICtools
+[submodule "MAIHDA"]
+	path = MAIHDA
+	url = https://github.com/cran/MAIHDA
 [submodule "MAINT.Data"]
 	path = MAINT.Data
 	url = https://github.com/cran/MAINT.Data
@@ -24614,6 +24617,9 @@
 [submodule "birankr"]
 	path = birankr
 	url = https://github.com/cran/birankr
+[submodule "birdcolors"]
+	path = birdcolors
+	url = https://github.com/cran/birdcolors
 [submodule "birddog"]
 	path = birddog
 	url = https://github.com/cran/birddog
@@ -29375,6 +29381,9 @@
 [submodule "csmaps"]
 	path = csmaps
 	url = https://github.com/cran/csmaps
+[submodule "csmbuilder"]
+	path = csmbuilder
+	url = https://github.com/cran/csmbuilder
 [submodule "csmpv"]
 	path = csmpv
 	url = https://github.com/cran/csmpv
@@ -44348,6 +44357,9 @@
 [submodule "lindia"]
 	path = lindia
 	url = https://github.com/cran/lindia
+[submodule "lineagefreq"]
+	path = lineagefreq
+	url = https://github.com/cran/lineagefreq
 [submodule "linearModel"]
 	path = linearModel
 	url = https://github.com/cran/linearModel
@@ -64778,6 +64790,9 @@
 [submodule "starwarsdb"]
 	path = starwarsdb
 	url = https://github.com/cran/starwarsdb
+[submodule "statAfrikR"]
+	path = statAfrikR
+	url = https://github.com/cran/statAfrikR
 [submodule "statBasics"]
 	path = statBasics
 	url = https://github.com/cran/statBasics
@@ -68570,6 +68585,9 @@
 [submodule "tukeytrend"]
 	path = tukeytrend
 	url = https://github.com/cran/tukeytrend
+[submodule "tulpaMesh"]
+	path = tulpaMesh
+	url = https://github.com/cran/tulpaMesh
 [submodule "tumgr"]
 	path = tumgr
 	url = https://github.com/cran/tumgr
@@ -71369,6 +71387,9 @@
 [submodule "zlog"]
 	path = zlog
 	url = https://github.com/cran/zlog
+[submodule "zmctp"]
+	path = zmctp
+	url = https://github.com/cran/zmctp
 [submodule "zmisc"]
 	path = zmisc
 	url = https://github.com/cran/zmisc
