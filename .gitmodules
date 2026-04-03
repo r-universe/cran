@@ -12362,6 +12362,9 @@
 [submodule "OddsPlotty"]
 	path = OddsPlotty
 	url = https://github.com/cran/OddsPlotty
+[submodule "OdysseusSurvivalModule"]
+	path = OdysseusSurvivalModule
+	url = https://github.com/cran/OdysseusSurvivalModule
 [submodule "OenoKPM"]
 	path = OenoKPM
 	url = https://github.com/cran/OenoKPM
@@ -32381,6 +32384,9 @@
 [submodule "easyCODA"]
 	path = easyCODA
 	url = https://github.com/cran/easyCODA
+[submodule "easyComment"]
+	path = easyComment
+	url = https://github.com/cran/easyComment
 [submodule "easyDes"]
 	path = easyDes
 	url = https://github.com/cran/easyDes
@@ -65981,6 +65987,9 @@
 [submodule "symDMatrix"]
 	path = symDMatrix
 	url = https://github.com/cran/symDMatrix
+[submodule "symMCD"]
+	path = symMCD
+	url = https://github.com/cran/symMCD
 [submodule "symSEM"]
 	path = symSEM
 	url = https://github.com/cran/symSEM
