@@ -23399,6 +23399,9 @@
 [submodule "baldur"]
 	path = baldur
 	url = https://github.com/cran/baldur
+[submodule "balnet"]
+	path = balnet
+	url = https://github.com/cran/balnet
 [submodule "bama"]
 	path = bama
 	url = https://github.com/cran/bama
@@ -47711,6 +47714,9 @@
 [submodule "mlspatial"]
 	path = mlspatial
 	url = https://github.com/cran/mlspatial
+[submodule "mlstm"]
+	path = mlstm
+	url = https://github.com/cran/mlstm
 [submodule "mlstrOpalr"]
 	path = mlstrOpalr
 	url = https://github.com/cran/mlstrOpalr
@@ -48329,6 +48335,9 @@
 [submodule "mpm"]
 	path = mpm
 	url = https://github.com/cran/mpm
+[submodule "mpmaggregate"]
+	path = mpmaggregate
+	url = https://github.com/cran/mpmaggregate
 [submodule "mpmcorrelogram"]
 	path = mpmcorrelogram
 	url = https://github.com/cran/mpmcorrelogram
@@ -61001,6 +61010,9 @@
 [submodule "scimo"]
 	path = scimo
 	url = https://github.com/cran/scimo
+[submodule "scip"]
+	path = scip
+	url = https://github.com/cran/scip
 [submodule "sciplot"]
 	path = sciplot
 	url = https://github.com/cran/sciplot
@@ -61682,6 +61694,9 @@
 [submodule "serofoi"]
 	path = serofoi
 	url = https://github.com/cran/serofoi
+[submodule "seroreconstruct"]
+	path = seroreconstruct
+	url = https://github.com/cran/seroreconstruct
 [submodule "serosv"]
 	path = serosv
 	url = https://github.com/cran/serosv
@@ -61928,6 +61943,9 @@
 [submodule "shar"]
 	path = shar
 	url = https://github.com/cran/shar
+[submodule "shard"]
+	path = shard
+	url = https://github.com/cran/shard
 [submodule "sharp"]
 	path = sharp
 	url = https://github.com/cran/sharp
