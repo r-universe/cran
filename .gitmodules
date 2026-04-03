@@ -659,9 +659,6 @@
 [submodule "AmyloGram"]
 	path = AmyloGram
 	url = https://github.com/cran/AmyloGram
-[submodule "AnaCoDa"]
-	path = AnaCoDa
-	url = https://github.com/cran/AnaCoDa
 [submodule "Anaconda"]
 	path = Anaconda
 	url = https://github.com/cran/Anaconda
@@ -2147,9 +2144,6 @@
 [submodule "CA3variants"]
 	path = CA3variants
 	url = https://github.com/cran/CA3variants
-[submodule "CACIMAR"]
-	path = CACIMAR
-	url = https://github.com/cran/CACIMAR
 [submodule "CADF"]
 	path = CADF
 	url = https://github.com/cran/CADF
@@ -13709,9 +13703,6 @@
 [submodule "PlatformDesign"]
 	path = PlatformDesign
 	url = https://github.com/cran/PlatformDesign
-[submodule "Platypus"]
-	path = Platypus
-	url = https://github.com/cran/Platypus
 [submodule "PlayerChart"]
 	path = PlayerChart
 	url = https://github.com/cran/PlayerChart
@@ -25589,9 +25580,6 @@
 [submodule "bupaR"]
 	path = bupaR
 	url = https://github.com/cran/bupaR
-[submodule "bupaverse"]
-	path = bupaverse
-	url = https://github.com/cran/bupaverse
 [submodule "burgle"]
 	path = burgle
 	url = https://github.com/cran/burgle
@@ -30476,9 +30464,6 @@
 [submodule "deepnet"]
 	path = deepnet
 	url = https://github.com/cran/deepnet
-[submodule "deepregression"]
-	path = deepregression
-	url = https://github.com/cran/deepregression
 [submodule "deepspat"]
 	path = deepspat
 	url = https://github.com/cran/deepspat
@@ -30488,9 +30473,6 @@
 [submodule "deeptimedata"]
 	path = deeptimedata
 	url = https://github.com/cran/deeptimedata
-[submodule "deeptrafo"]
-	path = deeptrafo
-	url = https://github.com/cran/deeptrafo
 [submodule "default"]
 	path = default
 	url = https://github.com/cran/default
@@ -33533,9 +33515,6 @@
 [submodule "equalCovs"]
 	path = equalCovs
 	url = https://github.com/cran/equalCovs
-[submodule "equaltestMI"]
-	path = equaltestMI
-	url = https://github.com/cran/equaltestMI
 [submodule "equatags"]
 	path = equatags
 	url = https://github.com/cran/equatags
@@ -53606,9 +53585,6 @@
 [submodule "plavaan"]
 	path = plavaan
 	url = https://github.com/cran/plavaan
-[submodule "play"]
-	path = play
-	url = https://github.com/cran/play
 [submodule "player"]
 	path = player
 	url = https://github.com/cran/player
@@ -60644,9 +60620,6 @@
 [submodule "sarp.snowprofile"]
 	path = sarp.snowprofile
 	url = https://github.com/cran/sarp.snowprofile
-[submodule "sarp.snowprofile.alignment"]
-	path = sarp.snowprofile.alignment
-	url = https://github.com/cran/sarp.snowprofile.alignment
 [submodule "sarp.snowprofile.pyface"]
 	path = sarp.snowprofile.pyface
 	url = https://github.com/cran/sarp.snowprofile.pyface
