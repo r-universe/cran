@@ -48887,6 +48887,9 @@
 [submodule "multipleDL"]
 	path = multipleDL
 	url = https://github.com/cran/multipleDL
+[submodule "multipleITScontrol"]
+	path = multipleITScontrol
+	url = https://github.com/cran/multipleITScontrol
 [submodule "multipleNCC"]
 	path = multipleNCC
 	url = https://github.com/cran/multipleNCC
@@ -56942,6 +56945,9 @@
 [submodule "ravecore"]
 	path = ravecore
 	url = https://github.com/cran/ravecore
+[submodule "ravel"]
+	path = ravel
+	url = https://github.com/cran/ravel
 [submodule "ravelRy"]
 	path = ravelRy
 	url = https://github.com/cran/ravelRy
