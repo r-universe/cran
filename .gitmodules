@@ -15800,6 +15800,9 @@
 [submodule "RapidPolygonLookup"]
 	path = RapidPolygonLookup
 	url = https://github.com/cran/RapidPolygonLookup
+[submodule "RapidoPGS"]
+	path = RapidoPGS
+	url = https://github.com/cran/RapidoPGS
 [submodule "Rapp"]
 	path = Rapp
 	url = https://github.com/cran/Rapp
