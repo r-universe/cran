@@ -54014,6 +54014,9 @@
 [submodule "poissonreg"]
 	path = poissonreg
 	url = https://github.com/cran/poissonreg
+[submodule "poissonsuperlearner"]
+	path = poissonsuperlearner
+	url = https://github.com/cran/poissonsuperlearner
 [submodule "poistweedie"]
 	path = poistweedie
 	url = https://github.com/cran/poistweedie
