@@ -167,6 +167,9 @@
 [submodule "AHSurv"]
 	path = AHSurv
 	url = https://github.com/cran/AHSurv
+[submodule "AIBias"]
+	path = AIBias
+	url = https://github.com/cran/AIBias
 [submodule "AICcmodavg"]
 	path = AICcmodavg
 	url = https://github.com/cran/AICcmodavg
@@ -47270,6 +47273,9 @@
 [submodule "misaem"]
 	path = misaem
 	url = https://github.com/cran/misaem
+[submodule "misc"]
+	path = misc
+	url = https://github.com/cran/misc
 [submodule "misc3d"]
 	path = misc3d
 	url = https://github.com/cran/misc3d
@@ -63626,6 +63632,9 @@
 [submodule "sourcoise"]
 	path = sourcoise
 	url = https://github.com/cran/sourcoise
+[submodule "sov"]
+	path = sov
+	url = https://github.com/cran/sov
 [submodule "sovereign"]
 	path = sovereign
 	url = https://github.com/cran/sovereign
