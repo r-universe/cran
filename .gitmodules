@@ -9473,6 +9473,9 @@
 [submodule "LSDirf"]
 	path = LSDirf
 	url = https://github.com/cran/LSDirf
+[submodule "LSDsensitivity"]
+	path = LSDsensitivity
+	url = https://github.com/cran/LSDsensitivity
 [submodule "LSE"]
 	path = LSE
 	url = https://github.com/cran/LSE
