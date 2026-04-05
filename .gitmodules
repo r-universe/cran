@@ -2429,9 +2429,6 @@
 [submodule "CIM"]
 	path = CIM
 	url = https://github.com/cran/CIM
-[submodule "CIMPLE"]
-	path = CIMPLE
-	url = https://github.com/cran/CIMPLE
 [submodule "CIMTx"]
 	path = CIMTx
 	url = https://github.com/cran/CIMTx
@@ -20135,9 +20132,6 @@
 [submodule "Tushare"]
 	path = Tushare
 	url = https://github.com/cran/Tushare
-[submodule "TwoArmSurvSim"]
-	path = TwoArmSurvSim
-	url = https://github.com/cran/TwoArmSurvSim
 [submodule "TwoDcDAPSA"]
 	path = TwoDcDAPSA
 	url = https://github.com/cran/TwoDcDAPSA
@@ -22136,9 +22130,6 @@
 [submodule "amadeus"]
 	path = amadeus
 	url = https://github.com/cran/amadeus
-[submodule "amanida"]
-	path = amanida
-	url = https://github.com/cran/amanida
 [submodule "amanpg"]
 	path = amanpg
 	url = https://github.com/cran/amanpg
@@ -29978,9 +29969,6 @@
 [submodule "dataCompare"]
 	path = dataCompare
 	url = https://github.com/cran/dataCompare
-[submodule "dataCompareR"]
-	path = dataCompareR
-	url = https://github.com/cran/dataCompareR
 [submodule "dataMaid"]
 	path = dataMaid
 	url = https://github.com/cran/dataMaid
@@ -31712,9 +31700,6 @@
 [submodule "doubcens"]
 	path = doubcens
 	url = https://github.com/cran/doubcens
-[submodule "doublIn"]
-	path = doublIn
-	url = https://github.com/cran/doublIn
 [submodule "double.truncation"]
 	path = double.truncation
 	url = https://github.com/cran/double.truncation
@@ -36692,9 +36677,6 @@
 [submodule "gageRR"]
 	path = gageRR
 	url = https://github.com/cran/gageRR
-[submodule "gaiah"]
-	path = gaiah
-	url = https://github.com/cran/gaiah
 [submodule "gainML"]
 	path = gainML
 	url = https://github.com/cran/gainML
@@ -37271,9 +37253,6 @@
 [submodule "genodds"]
 	path = genodds
 	url = https://github.com/cran/genodds
-[submodule "genogeographer"]
-	path = genogeographer
-	url = https://github.com/cran/genogeographer
 [submodule "genomic.autocorr"]
 	path = genomic.autocorr
 	url = https://github.com/cran/genomic.autocorr
@@ -50726,9 +50705,6 @@
 [submodule "oRaklE"]
 	path = oRaklE
 	url = https://github.com/cran/oRaklE
-[submodule "oRus"]
-	path = oRus
-	url = https://github.com/cran/oRus
 [submodule "oaColors"]
 	path = oaColors
 	url = https://github.com/cran/oaColors
@@ -53579,9 +53555,6 @@
 [submodule "placematchr"]
 	path = placematchr
 	url = https://github.com/cran/placematchr
-[submodule "placer"]
-	path = placer
-	url = https://github.com/cran/placer
 [submodule "plainview"]
 	path = plainview
 	url = https://github.com/cran/plainview
@@ -62786,9 +62759,6 @@
 [submodule "simpowa"]
 	path = simpowa
 	url = https://github.com/cran/simpowa
-[submodule "simpr"]
-	path = simpr
-	url = https://github.com/cran/simpr
 [submodule "simpr.interaction"]
 	path = simpr.interaction
 	url = https://github.com/cran/simpr.interaction
@@ -68696,9 +68666,6 @@
 [submodule "tvgarch"]
 	path = tvgarch
 	url = https://github.com/cran/tvgarch
-[submodule "tvgeom"]
-	path = tvgeom
-	url = https://github.com/cran/tvgeom
 [submodule "tvm"]
 	path = tvm
 	url = https://github.com/cran/tvm
