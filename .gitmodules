@@ -11840,9 +11840,6 @@
 [submodule "NNTbiomarker"]
 	path = NNTbiomarker
 	url = https://github.com/cran/NNTbiomarker
-[submodule "NNbenchmark"]
-	path = NNbenchmark
-	url = https://github.com/cran/NNbenchmark
 [submodule "NO.PING.PONG"]
 	path = NO.PING.PONG
 	url = https://github.com/cran/NO.PING.PONG
@@ -40637,6 +40634,9 @@
 [submodule "howler"]
 	path = howler
 	url = https://github.com/cran/howler
+[submodule "howzatR"]
+	path = howzatR
+	url = https://github.com/cran/howzatR
 [submodule "hpa"]
 	path = hpa
 	url = https://github.com/cran/hpa
