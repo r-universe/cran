@@ -49619,9 +49619,6 @@
 [submodule "netcutter"]
 	path = netcutter
 	url = https://github.com/cran/netcutter
-[submodule "netdiffuseR"]
-	path = netdiffuseR
-	url = https://github.com/cran/netdiffuseR
 [submodule "netdose"]
 	path = netdose
 	url = https://github.com/cran/netdose
@@ -66998,9 +66995,6 @@
 [submodule "thurstonianIRT"]
 	path = thurstonianIRT
 	url = https://github.com/cran/thurstonianIRT
-[submodule "ti"]
-	path = ti
-	url = https://github.com/cran/ti
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/cran/tibble
