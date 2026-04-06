@@ -31760,6 +31760,9 @@
 [submodule "dplyrAssist"]
 	path = dplyrAssist
 	url = https://github.com/cran/dplyrAssist
+[submodule "dpm"]
+	path = dpm
+	url = https://github.com/cran/dpm
 [submodule "dppmix"]
 	path = dppmix
 	url = https://github.com/cran/dppmix
