@@ -10190,6 +10190,9 @@
 [submodule "MEclustnet"]
 	path = MEclustnet
 	url = https://github.com/cran/MEclustnet
+[submodule "MEsreg"]
+	path = MEsreg
+	url = https://github.com/cran/MEsreg
 [submodule "MF.beta4"]
 	path = MF.beta4
 	url = https://github.com/cran/MF.beta4
@@ -20672,6 +20675,9 @@
 [submodule "WH"]
 	path = WH
 	url = https://github.com/cran/WH
+[submodule "WHORiskCalculator"]
+	path = WHORiskCalculator
+	url = https://github.com/cran/WHORiskCalculator
 [submodule "WINS"]
 	path = WINS
 	url = https://github.com/cran/WINS
@@ -21740,6 +21746,9 @@
 [submodule "africamonitor"]
 	path = africamonitor
 	url = https://github.com/cran/africamonitor
+[submodule "aftPenCDA"]
+	path = aftPenCDA
+	url = https://github.com/cran/aftPenCDA
 [submodule "aftR2"]
 	path = aftR2
 	url = https://github.com/cran/aftR2
@@ -22853,6 +22862,9 @@
 [submodule "asremlPlus"]
 	path = asremlPlus
 	url = https://github.com/cran/asremlPlus
+[submodule "assemblykor"]
+	path = assemblykor
+	url = https://github.com/cran/assemblykor
 [submodule "assert"]
 	path = assert
 	url = https://github.com/cran/assert
@@ -35885,6 +35897,9 @@
 [submodule "forensim"]
 	path = forensim
 	url = https://github.com/cran/forensim
+[submodule "forestBalance"]
+	path = forestBalance
+	url = https://github.com/cran/forestBalance
 [submodule "forestControl"]
 	path = forestControl
 	url = https://github.com/cran/forestControl
@@ -42233,6 +42248,9 @@
 [submodule "ipft"]
 	path = ipft
 	url = https://github.com/cran/ipft
+[submodule "ipgeolocation"]
+	path = ipgeolocation
+	url = https://github.com/cran/ipgeolocation
 [submodule "ipkg"]
 	path = ipkg
 	url = https://github.com/cran/ipkg
@@ -45539,6 +45557,9 @@
 [submodule "maotai"]
 	path = maotai
 	url = https://github.com/cran/maotai
+[submodule "mapSenegal"]
+	path = mapSenegal
+	url = https://github.com/cran/mapSenegal
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/cran/mapSpain
@@ -54914,6 +54935,9 @@
 [submodule "progress"]
 	path = progress
 	url = https://github.com/cran/progress
+[submodule "progressify"]
+	path = progressify
+	url = https://github.com/cran/progressify
 [submodule "progressr"]
 	path = progressr
 	url = https://github.com/cran/progressr
@@ -57452,6 +57476,9 @@
 [submodule "readecb"]
 	path = readecb
 	url = https://github.com/cran/readecb
+[submodule "readelan"]
+	path = readelan
+	url = https://github.com/cran/readelan
 [submodule "readepi"]
 	path = readepi
 	url = https://github.com/cran/readepi
@@ -60980,6 +61007,9 @@
 [submodule "scholid"]
 	path = scholid
 	url = https://github.com/cran/scholid
+[submodule "scholidonline"]
+	path = scholidonline
+	url = https://github.com/cran/scholidonline
 [submodule "schoolmath"]
 	path = schoolmath
 	url = https://github.com/cran/schoolmath
@@ -68885,6 +68915,9 @@
 [submodule "ukbabynames"]
 	path = ukbabynames
 	url = https://github.com/cran/ukbabynames
+[submodule "ukbflow"]
+	path = ukbflow
+	url = https://github.com/cran/ukbflow
 [submodule "ukbnmr"]
 	path = ukbnmr
 	url = https://github.com/cran/ukbnmr
