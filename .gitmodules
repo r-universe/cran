@@ -30998,9 +30998,6 @@
 [submodule "dictionaRy"]
 	path = dictionaRy
 	url = https://github.com/cran/dictionaRy
-[submodule "dictionar6"]
-	path = dictionar6
-	url = https://github.com/cran/dictionar6
 [submodule "did"]
 	path = did
 	url = https://github.com/cran/did
@@ -66488,9 +66485,6 @@
 [submodule "tdcmStan"]
 	path = tdcmStan
 	url = https://github.com/cran/tdcmStan
-[submodule "tdigest"]
-	path = tdigest
-	url = https://github.com/cran/tdigest
 [submodule "tdr"]
 	path = tdr
 	url = https://github.com/cran/tdr
