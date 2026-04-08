@@ -40250,6 +40250,9 @@
 [submodule "hetcorFS"]
 	path = hetcorFS
 	url = https://github.com/cran/hetcorFS
+[submodule "heterocop"]
+	path = heterocop
+	url = https://github.com/cran/heterocop
 [submodule "heterogen"]
 	path = heterogen
 	url = https://github.com/cran/heterogen
