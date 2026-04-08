@@ -2336,6 +2336,9 @@
 [submodule "CEDA"]
 	path = CEDA
 	url = https://github.com/cran/CEDA
+[submodule "CEDMr"]
+	path = CEDMr
+	url = https://github.com/cran/CEDMr
 [submodule "CEEMDANML"]
 	path = CEEMDANML
 	url = https://github.com/cran/CEEMDANML
@@ -11987,6 +11990,9 @@
 [submodule "NestedMenu"]
 	path = NestedMenu
 	url = https://github.com/cran/NestedMenu
+[submodule "Nestimate"]
+	path = Nestimate
+	url = https://github.com/cran/Nestimate
 [submodule "NetCluster"]
 	path = NetCluster
 	url = https://github.com/cran/NetCluster
@@ -41990,6 +41996,9 @@
 [submodule "integr"]
 	path = integr
 	url = https://github.com/cran/integr
+[submodule "integrity"]
+	path = integrity
+	url = https://github.com/cran/integrity
 [submodule "inteli"]
 	path = inteli
 	url = https://github.com/cran/inteli
@@ -63239,6 +63248,9 @@
 [submodule "smile"]
 	path = smile
 	url = https://github.com/cran/smile
+[submodule "smimodel"]
+	path = smimodel
+	url = https://github.com/cran/smimodel
 [submodule "smirnov"]
 	path = smirnov
 	url = https://github.com/cran/smirnov
@@ -63815,6 +63827,9 @@
 [submodule "sparkxgb"]
 	path = sparkxgb
 	url = https://github.com/cran/sparkxgb
+[submodule "sparqlr"]
+	path = sparqlr
+	url = https://github.com/cran/sparqlr
 [submodule "sparr"]
 	path = sparr
 	url = https://github.com/cran/sparr
@@ -63866,6 +63881,9 @@
 [submodule "sparseSVM"]
 	path = sparseSVM
 	url = https://github.com/cran/sparseSVM
+[submodule "sparsecommunity"]
+	path = sparsecommunity
+	url = https://github.com/cran/sparsecommunity
 [submodule "sparsediscrim"]
 	path = sparsediscrim
 	url = https://github.com/cran/sparsediscrim
@@ -70460,6 +70478,9 @@
 [submodule "weightedScores"]
 	path = weightedScores
 	url = https://github.com/cran/weightedScores
+[submodule "weightedVoronoi"]
+	path = weightedVoronoi
+	url = https://github.com/cran/weightedVoronoi
 [submodule "weightedsurv"]
 	path = weightedsurv
 	url = https://github.com/cran/weightedsurv
