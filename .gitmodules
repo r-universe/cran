@@ -17975,6 +17975,9 @@
 [submodule "SUSY"]
 	path = SUSY
 	url = https://github.com/cran/SUSY
+[submodule "SVARtca"]
+	path = SVARtca
+	url = https://github.com/cran/SVARtca
 [submodule "SVAlignR"]
 	path = SVAlignR
 	url = https://github.com/cran/SVAlignR
@@ -20600,6 +20603,9 @@
 [submodule "VisualizeSimon2Stage"]
 	path = VisualizeSimon2Stage
 	url = https://github.com/cran/VisualizeSimon2Stage
+[submodule "VizModules"]
+	path = VizModules
+	url = https://github.com/cran/VizModules
 [submodule "VizTest"]
 	path = VizTest
 	url = https://github.com/cran/VizTest
@@ -31883,6 +31889,9 @@
 [submodule "driveR"]
 	path = driveR
 	url = https://github.com/cran/driveR
+[submodule "drmeta"]
+	path = drmeta
+	url = https://github.com/cran/drmeta
 [submodule "droll"]
 	path = droll
 	url = https://github.com/cran/droll
@@ -34610,6 +34619,9 @@
 [submodule "fastDummies"]
 	path = fastDummies
 	url = https://github.com/cran/fastDummies
+[submodule "fastFGEE"]
+	path = fastFGEE
+	url = https://github.com/cran/fastFGEE
 [submodule "fastFMM"]
 	path = fastFMM
 	url = https://github.com/cran/fastFMM
@@ -39080,6 +39092,9 @@
 [submodule "gps.track"]
 	path = gps.track
 	url = https://github.com/cran/gps.track
+[submodule "gpss"]
+	path = gpss
+	url = https://github.com/cran/gpss
 [submodule "gptoolsStan"]
 	path = gptoolsStan
 	url = https://github.com/cran/gptoolsStan
@@ -64796,6 +64811,9 @@
 [submodule "standby"]
 	path = standby
 	url = https://github.com/cran/standby
+[submodule "standrecon"]
+	path = standrecon
+	url = https://github.com/cran/standrecon
 [submodule "staninside"]
 	path = staninside
 	url = https://github.com/cran/staninside
