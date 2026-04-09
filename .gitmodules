@@ -3131,6 +3131,9 @@
 [submodule "ClassificationEnsembles"]
 	path = ClassificationEnsembles
 	url = https://github.com/cran/ClassificationEnsembles
+[submodule "ClassifyITS"]
+	path = ClassifyITS
+	url = https://github.com/cran/ClassifyITS
 [submodule "CleanBSequences"]
 	path = CleanBSequences
 	url = https://github.com/cran/CleanBSequences
@@ -7250,6 +7253,9 @@
 [submodule "Gammareg"]
 	path = Gammareg
 	url = https://github.com/cran/Gammareg
+[submodule "GapAnalysis"]
+	path = GapAnalysis
+	url = https://github.com/cran/GapAnalysis
 [submodule "GauPro"]
 	path = GauPro
 	url = https://github.com/cran/GauPro
@@ -22676,6 +22682,9 @@
 [submodule "arfima"]
 	path = arfima
 	url = https://github.com/cran/arfima
+[submodule "arg"]
+	path = arg
+	url = https://github.com/cran/arg
 [submodule "argminCS"]
 	path = argminCS
 	url = https://github.com/cran/argminCS
@@ -39611,6 +39620,9 @@
 [submodule "gt4ireval"]
 	path = gt4ireval
 	url = https://github.com/cran/gt4ireval
+[submodule "gtDesign"]
+	path = gtDesign
+	url = https://github.com/cran/gtDesign
 [submodule "gtExtras"]
 	path = gtExtras
 	url = https://github.com/cran/gtExtras
@@ -61916,6 +61928,9 @@
 [submodule "sftime"]
 	path = sftime
 	url = https://github.com/cran/sftime
+[submodule "sftpR"]
+	path = sftpR
+	url = https://github.com/cran/sftpR
 [submodule "sftrack"]
 	path = sftrack
 	url = https://github.com/cran/sftrack
