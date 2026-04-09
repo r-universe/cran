@@ -65744,6 +65744,9 @@
 [submodule "survcompare"]
 	path = survcompare
 	url = https://github.com/cran/survcompare
+[submodule "survdistr"]
+	path = survdistr
+	url = https://github.com/cran/survdistr
 [submodule "survdnn"]
 	path = survdnn
 	url = https://github.com/cran/survdnn
