@@ -704,6 +704,9 @@
 [submodule "AntAngioCOOL"]
 	path = AntAngioCOOL
 	url = https://github.com/cran/AntAngioCOOL
+[submodule "AntClassify"]
+	path = AntClassify
+	url = https://github.com/cran/AntClassify
 [submodule "AnthropMMD"]
 	path = AnthropMMD
 	url = https://github.com/cran/AnthropMMD
@@ -728,6 +731,9 @@
 [submodule "ApacheLogProcessor"]
 	path = ApacheLogProcessor
 	url = https://github.com/cran/ApacheLogProcessor
+[submodule "AplosNCA"]
+	path = AplosNCA
+	url = https://github.com/cran/AplosNCA
 [submodule "Apoderoides"]
 	path = Apoderoides
 	url = https://github.com/cran/Apoderoides
@@ -8516,6 +8522,9 @@
 [submodule "ISO11784Tools"]
 	path = ISO11784Tools
 	url = https://github.com/cran/ISO11784Tools
+[submodule "ISO6976.2016"]
+	path = ISO6976.2016
+	url = https://github.com/cran/ISO6976.2016
 [submodule "ISOcodes"]
 	path = ISOcodes
 	url = https://github.com/cran/ISOcodes
@@ -10955,6 +10964,9 @@
 [submodule "Matching"]
 	path = Matching
 	url = https://github.com/cran/Matching
+[submodule "MatchingPursuit"]
+	path = MatchingPursuit
+	url = https://github.com/cran/MatchingPursuit
 [submodule "Matrix"]
 	path = Matrix
 	url = https://github.com/cran/Matrix
@@ -26993,6 +27005,9 @@
 [submodule "circlus"]
 	path = circlus
 	url = https://github.com/cran/circlus
+[submodule "circuitscaper"]
+	path = circuitscaper
+	url = https://github.com/cran/circuitscaper
 [submodule "circular"]
 	path = circular
 	url = https://github.com/cran/circular
@@ -35708,6 +35723,9 @@
 [submodule "fluoSurv"]
 	path = fluoSurv
 	url = https://github.com/cran/fluoSurv
+[submodule "fluorojip"]
+	path = fluorojip
+	url = https://github.com/cran/fluorojip
 [submodule "fluspect"]
 	path = fluspect
 	url = https://github.com/cran/fluspect
@@ -38213,6 +38231,9 @@
 [submodule "ggseg.formats"]
 	path = ggseg.formats
 	url = https://github.com/cran/ggseg.formats
+[submodule "ggseg.meshes"]
+	path = ggseg.meshes
+	url = https://github.com/cran/ggseg.meshes
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/cran/ggseg3d
@@ -40580,6 +40601,9 @@
 [submodule "holi"]
 	path = holi
 	url = https://github.com/cran/holi
+[submodule "holideh"]
+	path = holideh
+	url = https://github.com/cran/holideh
 [submodule "holiglm"]
 	path = holiglm
 	url = https://github.com/cran/holiglm
@@ -47087,6 +47111,9 @@
 [submodule "midi"]
 	path = midi
 	url = https://github.com/cran/midi
+[submodule "midnight"]
+	path = midnight
+	url = https://github.com/cran/midnight
 [submodule "midoc"]
 	path = midoc
 	url = https://github.com/cran/midoc
@@ -52034,6 +52061,9 @@
 [submodule "palettetown"]
 	path = palettetown
 	url = https://github.com/cran/palettetown
+[submodule "palimpsestr"]
+	path = palimpsestr
+	url = https://github.com/cran/palimpsestr
 [submodule "palinsol"]
 	path = palinsol
 	url = https://github.com/cran/palinsol
@@ -57050,6 +57080,9 @@
 [submodule "rbenchmark"]
 	path = rbenchmark
 	url = https://github.com/cran/rbenchmark
+[submodule "rbfmvar"]
+	path = rbfmvar
+	url = https://github.com/cran/rbfmvar
 [submodule "rbgm"]
 	path = rbgm
 	url = https://github.com/cran/rbgm
@@ -60965,6 +60998,9 @@
 [submodule "sccca"]
 	path = sccca
 	url = https://github.com/cran/sccca
+[submodule "sccic"]
+	path = sccic
+	url = https://github.com/cran/sccic
 [submodule "scclust"]
 	path = scclust
 	url = https://github.com/cran/scclust
@@ -61439,6 +61475,9 @@
 [submodule "seinfitR"]
 	path = seinfitR
 	url = https://github.com/cran/seinfitR
+[submodule "seirMFG"]
+	path = seirMFG
+	url = https://github.com/cran/seirMFG
 [submodule "seismic"]
 	path = seismic
 	url = https://github.com/cran/seismic
@@ -62300,6 +62339,9 @@
 [submodule "shinydashboardPlus"]
 	path = shinydashboardPlus
 	url = https://github.com/cran/shinydashboardPlus
+[submodule "shinydataviewer"]
+	path = shinydataviewer
+	url = https://github.com/cran/shinydataviewer
 [submodule "shinydbauth"]
 	path = shinydbauth
 	url = https://github.com/cran/shinydbauth
@@ -67982,6 +68024,9 @@
 [submodule "tpr"]
 	path = tpr
 	url = https://github.com/cran/tpr
+[submodule "tptest"]
+	path = tptest
+	url = https://github.com/cran/tptest
 [submodule "tpwb"]
 	path = tpwb
 	url = https://github.com/cran/tpwb
