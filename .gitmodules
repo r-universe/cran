@@ -18296,9 +18296,6 @@
 [submodule "ShinyItemAnalysis"]
 	path = ShinyItemAnalysis
 	url = https://github.com/cran/ShinyItemAnalysis
-[submodule "ShinyLink"]
-	path = ShinyLink
-	url = https://github.com/cran/ShinyLink
 [submodule "ShinyQuickStarter"]
 	path = ShinyQuickStarter
 	url = https://github.com/cran/ShinyQuickStarter
@@ -20897,12 +20894,6 @@
 [submodule "WienR"]
 	path = WienR
 	url = https://github.com/cran/WienR
-[submodule "WikidataQueryServiceR"]
-	path = WikidataQueryServiceR
-	url = https://github.com/cran/WikidataQueryServiceR
-[submodule "WikidataR"]
-	path = WikidataR
-	url = https://github.com/cran/WikidataR
 [submodule "WikipediR"]
 	path = WikipediR
 	url = https://github.com/cran/WikipediR
@@ -51155,9 +51146,6 @@
 [submodule "oompaData"]
 	path = oompaData
 	url = https://github.com/cran/oompaData
-[submodule "ooplah"]
-	path = ooplah
-	url = https://github.com/cran/ooplah
 [submodule "oosse"]
 	path = oosse
 	url = https://github.com/cran/oosse
@@ -66446,9 +66434,6 @@
 [submodule "taxonomizr"]
 	path = taxonomizr
 	url = https://github.com/cran/taxonomizr
-[submodule "taxotools"]
-	path = taxotools
-	url = https://github.com/cran/taxotools
 [submodule "tayloRswift"]
 	path = tayloRswift
 	url = https://github.com/cran/tayloRswift
@@ -70739,9 +70724,6 @@
 [submodule "wkb"]
 	path = wkb
 	url = https://github.com/cran/wkb
-[submodule "wklsr"]
-	path = wklsr
-	url = https://github.com/cran/wklsr
 [submodule "wkpool"]
 	path = wkpool
 	url = https://github.com/cran/wkpool
