@@ -20693,6 +20693,9 @@
 [submodule "WCM"]
 	path = WCM
 	url = https://github.com/cran/WCM
+[submodule "WCRBayesDesign"]
+	path = WCRBayesDesign
+	url = https://github.com/cran/WCRBayesDesign
 [submodule "WCluster"]
 	path = WCluster
 	url = https://github.com/cran/WCluster
@@ -67205,6 +67208,9 @@
 [submodule "tidySummaries"]
 	path = tidySummaries
 	url = https://github.com/cran/tidySummaries
+[submodule "tidyactuarial"]
+	path = tidyactuarial
+	url = https://github.com/cran/tidyactuarial
 [submodule "tidyaudit"]
 	path = tidyaudit
 	url = https://github.com/cran/tidyaudit
@@ -68147,6 +68153,9 @@
 [submodule "traipse"]
 	path = traipse
 	url = https://github.com/cran/traipse
+[submodule "traits"]
+	path = traits
+	url = https://github.com/cran/traits
 [submodule "traitstrap"]
 	path = traitstrap
 	url = https://github.com/cran/traitstrap
@@ -69425,6 +69434,9 @@
 [submodule "uuid"]
 	path = uuid
 	url = https://github.com/cran/uuid
+[submodule "uuidx"]
+	path = uuidx
+	url = https://github.com/cran/uuidx
 [submodule "uwedragon"]
 	path = uwedragon
 	url = https://github.com/cran/uwedragon
