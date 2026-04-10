@@ -6026,9 +6026,6 @@
 [submodule "FORD"]
 	path = FORD
 	url = https://github.com/cran/FORD
-[submodule "FORTLS"]
-	path = FORTLS
-	url = https://github.com/cran/FORTLS
 [submodule "FPCA3D"]
 	path = FPCA3D
 	url = https://github.com/cran/FPCA3D
@@ -49661,9 +49658,6 @@
 [submodule "nestedLogit"]
 	path = nestedLogit
 	url = https://github.com/cran/nestedLogit
-[submodule "nestedcv"]
-	path = nestedcv
-	url = https://github.com/cran/nestedcv
 [submodule "nestedpp"]
 	path = nestedpp
 	url = https://github.com/cran/nestedpp
@@ -49697,9 +49691,6 @@
 [submodule "netcutter"]
 	path = netcutter
 	url = https://github.com/cran/netcutter
-[submodule "netdiffuseR"]
-	path = netdiffuseR
-	url = https://github.com/cran/netdiffuseR
 [submodule "netdose"]
 	path = netdose
 	url = https://github.com/cran/netdose
