@@ -7769,6 +7769,9 @@
 [submodule "HH"]
 	path = HH
 	url = https://github.com/cran/HH
+[submodule "HHBayes"]
+	path = HHBayes
+	url = https://github.com/cran/HHBayes
 [submodule "HIMA"]
 	path = HIMA
 	url = https://github.com/cran/HIMA
@@ -10655,6 +10658,9 @@
 [submodule "MRZero"]
 	path = MRZero
 	url = https://github.com/cran/MRZero
+[submodule "MRgrowth"]
+	path = MRgrowth
+	url = https://github.com/cran/MRgrowth
 [submodule "MRmediation"]
 	path = MRmediation
 	url = https://github.com/cran/MRmediation
@@ -18164,6 +18170,9 @@
 [submodule "SelectBoost"]
 	path = SelectBoost
 	url = https://github.com/cran/SelectBoost
+[submodule "SelectBoost.FDA"]
+	path = SelectBoost.FDA
+	url = https://github.com/cran/SelectBoost.FDA
 [submodule "SelectBoost.beta"]
 	path = SelectBoost.beta
 	url = https://github.com/cran/SelectBoost.beta
@@ -18932,6 +18941,9 @@
 [submodule "StatDataML"]
 	path = StatDataML
 	url = https://github.com/cran/StatDataML
+[submodule "StatDeriveR"]
+	path = StatDeriveR
+	url = https://github.com/cran/StatDeriveR
 [submodule "StatMatch"]
 	path = StatMatch
 	url = https://github.com/cran/StatMatch
@@ -21989,6 +22001,9 @@
 [submodule "akima"]
 	path = akima
 	url = https://github.com/cran/akima
+[submodule "akin"]
+	path = akin
+	url = https://github.com/cran/akin
 [submodule "akmbiclust"]
 	path = akmbiclust
 	url = https://github.com/cran/akmbiclust
@@ -28862,6 +28877,9 @@
 [submodule "countland"]
 	path = countland
 	url = https://github.com/cran/countland
+[submodule "countmaskr"]
+	path = countmaskr
+	url = https://github.com/cran/countmaskr
 [submodule "countprop"]
 	path = countprop
 	url = https://github.com/cran/countprop
@@ -49559,6 +49577,9 @@
 [submodule "ncf"]
 	path = ncf
 	url = https://github.com/cran/ncf
+[submodule "ncmR"]
+	path = ncmR
+	url = https://github.com/cran/ncmR
 [submodule "ncmeta"]
 	path = ncmeta
 	url = https://github.com/cran/ncmeta
