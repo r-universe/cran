@@ -1982,6 +1982,9 @@
 [submodule "BlandAltmanLeh"]
 	path = BlandAltmanLeh
 	url = https://github.com/cran/BlandAltmanLeh
+[submodule "BlanketStatsments"]
+	path = BlanketStatsments
+	url = https://github.com/cran/BlanketStatsments
 [submodule "Blend"]
 	path = Blend
 	url = https://github.com/cran/Blend
@@ -6026,6 +6029,9 @@
 [submodule "FORD"]
 	path = FORD
 	url = https://github.com/cran/FORD
+[submodule "FORTLS"]
+	path = FORTLS
+	url = https://github.com/cran/FORTLS
 [submodule "FPCA3D"]
 	path = FPCA3D
 	url = https://github.com/cran/FPCA3D
@@ -17156,6 +17162,9 @@
 [submodule "SBN"]
 	path = SBN
 	url = https://github.com/cran/SBN
+[submodule "SBOAtools"]
+	path = SBOAtools
+	url = https://github.com/cran/SBOAtools
 [submodule "SBSDiff"]
 	path = SBSDiff
 	url = https://github.com/cran/SBSDiff
@@ -19292,6 +19301,9 @@
 [submodule "TAF"]
 	path = TAF
 	url = https://github.com/cran/TAF
+[submodule "TAG"]
+	path = TAG
+	url = https://github.com/cran/TAG
 [submodule "TAM"]
 	path = TAM
 	url = https://github.com/cran/TAM
@@ -25064,6 +25076,9 @@
 [submodule "boostmath"]
 	path = boostmath
 	url = https://github.com/cran/boostmath
+[submodule "boostmtree"]
+	path = boostmtree
+	url = https://github.com/cran/boostmtree
 [submodule "boostrq"]
 	path = boostrq
 	url = https://github.com/cran/boostrq
@@ -27704,6 +27719,9 @@
 [submodule "coda.base"]
 	path = coda.base
 	url = https://github.com/cran/coda.base
+[submodule "coda.pack"]
+	path = coda.pack
+	url = https://github.com/cran/coda.pack
 [submodule "coda.plot"]
 	path = coda.plot
 	url = https://github.com/cran/coda.plot
@@ -49658,6 +49676,9 @@
 [submodule "nestedLogit"]
 	path = nestedLogit
 	url = https://github.com/cran/nestedLogit
+[submodule "nestedcv"]
+	path = nestedcv
+	url = https://github.com/cran/nestedcv
 [submodule "nestedpp"]
 	path = nestedpp
 	url = https://github.com/cran/nestedpp
@@ -49691,6 +49712,9 @@
 [submodule "netcutter"]
 	path = netcutter
 	url = https://github.com/cran/netcutter
+[submodule "netdiffuseR"]
+	path = netdiffuseR
+	url = https://github.com/cran/netdiffuseR
 [submodule "netdose"]
 	path = netdose
 	url = https://github.com/cran/netdose
@@ -50825,6 +50849,9 @@
 [submodule "obsSens"]
 	path = obsSens
 	url = https://github.com/cran/obsSens
+[submodule "observationalBlocks"]
+	path = observationalBlocks
+	url = https://github.com/cran/observationalBlocks
 [submodule "oc"]
 	path = oc
 	url = https://github.com/cran/oc
@@ -55298,6 +55325,9 @@
 [submodule "psych"]
 	path = psych
 	url = https://github.com/cran/psych
+[submodule "psychReport"]
+	path = psychReport
+	url = https://github.com/cran/psychReport
 [submodule "psychTools"]
 	path = psychTools
 	url = https://github.com/cran/psychTools
@@ -60200,6 +60230,9 @@
 [submodule "rupturesRcpp"]
 	path = rupturesRcpp
 	url = https://github.com/cran/rupturesRcpp
+[submodule "rurality"]
+	path = rurality
+	url = https://github.com/cran/rurality
 [submodule "rush"]
 	path = rush
 	url = https://github.com/cran/rush
