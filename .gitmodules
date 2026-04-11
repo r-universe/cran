@@ -4061,6 +4061,9 @@
 [submodule "DHSr"]
 	path = DHSr
 	url = https://github.com/cran/DHSr
+[submodule "DICEM"]
+	path = DICEM
+	url = https://github.com/cran/DICEM
 [submodule "DICOMread"]
 	path = DICOMread
 	url = https://github.com/cran/DICOMread
@@ -23762,6 +23765,9 @@
 [submodule "bayesanova"]
 	path = bayesanova
 	url = https://github.com/cran/bayesanova
+[submodule "bayesbio"]
+	path = bayesbio
+	url = https://github.com/cran/bayesbio
 [submodule "bayesboot"]
 	path = bayesboot
 	url = https://github.com/cran/bayesboot
@@ -25331,6 +25337,9 @@
 [submodule "brassica"]
 	path = brassica
 	url = https://github.com/cran/brassica
+[submodule "bratteli"]
+	path = bratteli
+	url = https://github.com/cran/bratteli
 [submodule "bravo"]
 	path = bravo
 	url = https://github.com/cran/bravo
@@ -26315,6 +26324,9 @@
 [submodule "ccaPP"]
 	path = ccaPP
 	url = https://github.com/cran/ccaPP
+[submodule "ccar3"]
+	path = ccar3
+	url = https://github.com/cran/ccar3
 [submodule "cccd"]
 	path = cccd
 	url = https://github.com/cran/cccd
@@ -29591,6 +29603,9 @@
 [submodule "cuRe"]
 	path = cuRe
 	url = https://github.com/cran/cuRe
+[submodule "cuadramelo"]
+	path = cuadramelo
+	url = https://github.com/cran/cuadramelo
 [submodule "cubar"]
 	path = cubar
 	url = https://github.com/cran/cubar
@@ -30068,6 +30083,9 @@
 [submodule "datadogr"]
 	path = datadogr
 	url = https://github.com/cran/datadogr
+[submodule "datadriftR"]
+	path = datadriftR
+	url = https://github.com/cran/datadriftR
 [submodule "dataframeexplorer"]
 	path = dataframeexplorer
 	url = https://github.com/cran/dataframeexplorer
@@ -31703,6 +31721,9 @@
 [submodule "door"]
 	path = door
 	url = https://github.com/cran/door
+[submodule "doremi"]
+	path = doremi
+	url = https://github.com/cran/doremi
 [submodule "dormancy"]
 	path = dormancy
 	url = https://github.com/cran/dormancy
@@ -32816,6 +32837,9 @@
 [submodule "edfinr"]
 	path = edfinr
 	url = https://github.com/cran/edfinr
+[submodule "edfun"]
+	path = edfun
+	url = https://github.com/cran/edfun
 [submodule "edgar"]
 	path = edgar
 	url = https://github.com/cran/edgar
@@ -37322,6 +37346,9 @@
 [submodule "genpathmox"]
 	path = genpathmox
 	url = https://github.com/cran/genpathmox
+[submodule "genpwr"]
+	path = genpwr
+	url = https://github.com/cran/genpwr
 [submodule "genridge"]
 	path = genridge
 	url = https://github.com/cran/genridge
@@ -40199,6 +40226,9 @@
 [submodule "heddlr"]
 	path = heddlr
 	url = https://github.com/cran/heddlr
+[submodule "hedgedrf"]
+	path = hedgedrf
+	url = https://github.com/cran/hedgedrf
 [submodule "hedgehog"]
 	path = hedgehog
 	url = https://github.com/cran/hedgehog
@@ -43112,6 +43142,9 @@
 [submodule "kanova"]
 	path = kanova
 	url = https://github.com/cran/kanova
+[submodule "kantorovich"]
+	path = kantorovich
+	url = https://github.com/cran/kantorovich
 [submodule "kaos"]
 	path = kaos
 	url = https://github.com/cran/kaos
@@ -47606,6 +47639,9 @@
 [submodule "mldr.resampling"]
 	path = mldr.resampling
 	url = https://github.com/cran/mldr.resampling
+[submodule "mle.tools"]
+	path = mle.tools
+	url = https://github.com/cran/mle.tools
 [submodule "mlearning"]
 	path = mlearning
 	url = https://github.com/cran/mlearning
@@ -51059,6 +51095,9 @@
 [submodule "omicwas"]
 	path = omicwas
 	url = https://github.com/cran/omicwas
+[submodule "omixVizR"]
+	path = omixVizR
+	url = https://github.com/cran/omixVizR
 [submodule "omnibus"]
 	path = omnibus
 	url = https://github.com/cran/omnibus
@@ -69452,6 +69491,9 @@
 [submodule "vacuum"]
 	path = vacuum
 	url = https://github.com/cran/vacuum
+[submodule "vader"]
+	path = vader
+	url = https://github.com/cran/vader
 [submodule "vaersNDvax"]
 	path = vaersNDvax
 	url = https://github.com/cran/vaersNDvax
