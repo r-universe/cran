@@ -46673,6 +46673,9 @@
 [submodule "metacart"]
 	path = metacart
 	url = https://github.com/cran/metacart
+[submodule "metacoder"]
+	path = metacoder
+	url = https://github.com/cran/metacoder
 [submodule "metacom"]
 	path = metacom
 	url = https://github.com/cran/metacom
