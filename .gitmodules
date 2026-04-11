@@ -16913,6 +16913,9 @@
 [submodule "Rsampling"]
 	path = Rsampling
 	url = https://github.com/cran/Rsampling
+[submodule "Rsconctdply"]
+	path = Rsconctdply
+	url = https://github.com/cran/Rsconctdply
 [submodule "Rsearch"]
 	path = Rsearch
 	url = https://github.com/cran/Rsearch
@@ -31673,6 +31676,9 @@
 [submodule "doctest"]
 	path = doctest
 	url = https://github.com/cran/doctest
+[submodule "docuSignr"]
+	path = docuSignr
+	url = https://github.com/cran/docuSignr
 [submodule "document"]
 	path = document
 	url = https://github.com/cran/document
@@ -53492,6 +53498,9 @@
 [submodule "pintervals"]
 	path = pintervals
 	url = https://github.com/cran/pintervals
+[submodule "pinyin"]
+	path = pinyin
+	url = https://github.com/cran/pinyin
 [submodule "pioneeR"]
 	path = pioneeR
 	url = https://github.com/cran/pioneeR
