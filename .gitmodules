@@ -45323,9 +45323,6 @@
 [submodule "lwgeom"]
 	path = lwgeom
 	url = https://github.com/cran/lwgeom
-[submodule "lwqs"]
-	path = lwqs
-	url = https://github.com/cran/lwqs
 [submodule "lzstring"]
 	path = lzstring
 	url = https://github.com/cran/lzstring
