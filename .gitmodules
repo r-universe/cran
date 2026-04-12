@@ -17588,9 +17588,6 @@
 [submodule "SLTCA"]
 	path = SLTCA
 	url = https://github.com/cran/SLTCA
-[submodule "SLmetrics"]
-	path = SLmetrics
-	url = https://github.com/cran/SLmetrics
 [submodule "SMAHP"]
 	path = SMAHP
 	url = https://github.com/cran/SMAHP
