@@ -53999,9 +53999,6 @@
 [submodule "pmml"]
 	path = pmml
 	url = https://github.com/cran/pmml
-[submodule "pmmlTransformations"]
-	path = pmmlTransformations
-	url = https://github.com/cran/pmmlTransformations
 [submodule "pmparser"]
 	path = pmparser
 	url = https://github.com/cran/pmparser
@@ -68033,9 +68030,6 @@
 [submodule "toscutil"]
 	path = toscutil
 	url = https://github.com/cran/toscutil
-[submodule "tosr"]
-	path = tosr
-	url = https://github.com/cran/tosr
 [submodule "tost.suite"]
 	path = tost.suite
 	url = https://github.com/cran/tost.suite
