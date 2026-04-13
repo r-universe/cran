@@ -8354,6 +8354,9 @@
 [submodule "IJSE"]
 	path = IJSE
 	url = https://github.com/cran/IJSE
+[submodule "ILORA"]
+	path = ILORA
+	url = https://github.com/cran/ILORA
 [submodule "ILRCM"]
 	path = ILRCM
 	url = https://github.com/cran/ILRCM
@@ -31010,6 +31013,9 @@
 [submodule "di"]
 	path = di
 	url = https://github.com/cran/di
+[submodule "diagFDR"]
+	path = diagFDR
+	url = https://github.com/cran/diagFDR
 [submodule "diagL1"]
 	path = diagL1
 	url = https://github.com/cran/diagL1
@@ -61844,6 +61850,9 @@
 [submodule "seriation"]
 	path = seriation
 	url = https://github.com/cran/seriation
+[submodule "serieshaz"]
+	path = serieshaz
+	url = https://github.com/cran/serieshaz
 [submodule "serieslcb"]
 	path = serieslcb
 	url = https://github.com/cran/serieslcb
@@ -67328,6 +67337,9 @@
 [submodule "tidyft"]
 	path = tidyft
 	url = https://github.com/cran/tidyft
+[submodule "tidyfun"]
+	path = tidyfun
+	url = https://github.com/cran/tidyfun
 [submodule "tidygam"]
 	path = tidygam
 	url = https://github.com/cran/tidygam
