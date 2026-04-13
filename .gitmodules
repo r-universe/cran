@@ -19649,6 +19649,9 @@
 [submodule "TSVC"]
 	path = TSVC
 	url = https://github.com/cran/TSVC
+[submodule "TSdeeplearning"]
+	path = TSdeeplearning
+	url = https://github.com/cran/TSdeeplearning
 [submodule "TSdisaggregation"]
 	path = TSdisaggregation
 	url = https://github.com/cran/TSdisaggregation
