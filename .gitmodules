@@ -18176,6 +18176,9 @@
 [submodule "SelectBoost.gamlss"]
 	path = SelectBoost.gamlss
 	url = https://github.com/cran/SelectBoost.gamlss
+[submodule "SelectBoost.quantile"]
+	path = SelectBoost.quantile
+	url = https://github.com/cran/SelectBoost.quantile
 [submodule "SelectionBias"]
 	path = SelectionBias
 	url = https://github.com/cran/SelectionBias
@@ -25526,6 +25529,9 @@
 [submodule "bsnsing"]
 	path = bsnsing
 	url = https://github.com/cran/bsnsing
+[submodule "bsocialv2"]
+	path = bsocialv2
+	url = https://github.com/cran/bsocialv2
 [submodule "bspcov"]
 	path = bspcov
 	url = https://github.com/cran/bspcov
@@ -45275,6 +45281,9 @@
 [submodule "lucidr"]
 	path = lucidr
 	url = https://github.com/cran/lucidr
+[submodule "luckieR"]
+	path = luckieR
+	url = https://github.com/cran/luckieR
 [submodule "ludic"]
 	path = ludic
 	url = https://github.com/cran/ludic
@@ -54719,6 +54728,9 @@
 [submodule "prefmod"]
 	path = prefmod
 	url = https://github.com/cran/prefmod
+[submodule "prefviz"]
+	path = prefviz
+	url = https://github.com/cran/prefviz
 [submodule "pregnancy"]
 	path = pregnancy
 	url = https://github.com/cran/pregnancy
