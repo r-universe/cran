@@ -5048,6 +5048,9 @@
 [submodule "EEMDelm"]
 	path = EEMDelm
 	url = https://github.com/cran/EEMDelm
+[submodule "EEMDlstm"]
+	path = EEMDlstm
+	url = https://github.com/cran/EEMDlstm
 [submodule "EEML"]
 	path = EEML
 	url = https://github.com/cran/EEML
@@ -23618,6 +23621,9 @@
 [submodule "basetheme"]
 	path = basetheme
 	url = https://github.com/cran/basetheme
+[submodule "baseverse"]
+	path = baseverse
+	url = https://github.com/cran/baseverse
 [submodule "basf"]
 	path = basf
 	url = https://github.com/cran/basf
@@ -28235,6 +28241,9 @@
 [submodule "comstab"]
 	path = comstab
 	url = https://github.com/cran/comstab
+[submodule "comtrade"]
+	path = comtrade
+	url = https://github.com/cran/comtrade
 [submodule "comtradr"]
 	path = comtradr
 	url = https://github.com/cran/comtradr
@@ -42545,6 +42554,9 @@
 [submodule "isokernel"]
 	path = isokernel
 	url = https://github.com/cran/isokernel
+[submodule "isoniche"]
+	path = isoniche
+	url = https://github.com/cran/isoniche
 [submodule "isoorbi"]
 	path = isoorbi
 	url = https://github.com/cran/isoorbi
@@ -47441,6 +47453,9 @@
 [submodule "missMethods"]
 	path = missMethods
 	url = https://github.com/cran/missMethods
+[submodule "missPLS"]
+	path = missPLS
+	url = https://github.com/cran/missPLS
 [submodule "missRanger"]
 	path = missRanger
 	url = https://github.com/cran/missRanger
@@ -55640,6 +55655,9 @@
 [submodule "qCBA"]
 	path = qCBA
 	url = https://github.com/cran/qCBA
+[submodule "qDEA"]
+	path = qDEA
+	url = https://github.com/cran/qDEA
 [submodule "qGaussian"]
 	path = qGaussian
 	url = https://github.com/cran/qGaussian
@@ -68006,6 +68024,9 @@
 [submodule "topolow"]
 	path = topolow
 	url = https://github.com/cran/topolow
+[submodule "toponym"]
+	path = toponym
+	url = https://github.com/cran/toponym
 [submodule "toporanga"]
 	path = toporanga
 	url = https://github.com/cran/toporanga
