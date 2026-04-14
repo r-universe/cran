@@ -3896,6 +3896,9 @@
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
+[submodule "DCEM"]
+	path = DCEM
+	url = https://github.com/cran/DCEM
 [submodule "DCEmgmt"]
 	path = DCEmgmt
 	url = https://github.com/cran/DCEmgmt
@@ -50882,6 +50885,9 @@
 [submodule "obm"]
 	path = obm
 	url = https://github.com/cran/obm
+[submodule "obr"]
+	path = obr
+	url = https://github.com/cran/obr
 [submodule "obsSens"]
 	path = obsSens
 	url = https://github.com/cran/obsSens
