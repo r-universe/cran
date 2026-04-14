@@ -10427,9 +10427,6 @@
 [submodule "MLMOI"]
 	path = MLMOI
 	url = https://github.com/cran/MLMOI
-[submodule "MLModelSelection"]
-	path = MLModelSelection
-	url = https://github.com/cran/MLModelSelection
 [submodule "MLMusingR"]
 	path = MLMusingR
 	url = https://github.com/cran/MLMusingR
@@ -26648,9 +26645,6 @@
 [submodule "cglasso"]
 	path = cglasso
 	url = https://github.com/cran/cglasso
-[submodule "cglm"]
-	path = cglm
-	url = https://github.com/cran/cglm
 [submodule "cgmanalysis"]
 	path = cgmanalysis
 	url = https://github.com/cran/cgmanalysis
@@ -39509,9 +39503,6 @@
 [submodule "growR"]
 	path = growR
 	url = https://github.com/cran/growR
-[submodule "growfunctions"]
-	path = growfunctions
-	url = https://github.com/cran/growfunctions
 [submodule "growth"]
 	path = growth
 	url = https://github.com/cran/growth
@@ -46796,9 +46787,6 @@
 [submodule "metap"]
 	path = metap
 	url = https://github.com/cran/metap
-[submodule "metapack"]
-	path = metapack
-	url = https://github.com/cran/metapack
 [submodule "metaphonebr"]
 	path = metaphonebr
 	url = https://github.com/cran/metaphonebr
@@ -65726,9 +65714,6 @@
 [submodule "supervisedPRIM"]
 	path = supervisedPRIM
 	url = https://github.com/cran/supervisedPRIM
-[submodule "support"]
-	path = support
-	url = https://github.com/cran/support
 [submodule "support.BWS"]
 	path = support.BWS
 	url = https://github.com/cran/support.BWS
@@ -66776,9 +66761,6 @@
 [submodule "tensorBSS"]
 	path = tensorBSS
 	url = https://github.com/cran/tensorBSS
-[submodule "tensorEVD"]
-	path = tensorEVD
-	url = https://github.com/cran/tensorEVD
 [submodule "tensorMiss"]
 	path = tensorMiss
 	url = https://github.com/cran/tensorMiss
