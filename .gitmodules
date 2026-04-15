@@ -6791,6 +6791,9 @@
 [submodule "GFE"]
 	path = GFE
 	url = https://github.com/cran/GFE
+[submodule "GFFStrandLoc"]
+	path = GFFStrandLoc
+	url = https://github.com/cran/GFFStrandLoc
 [submodule "GFGM.copula"]
 	path = GFGM.copula
 	url = https://github.com/cran/GFGM.copula
@@ -11939,6 +11942,9 @@
 [submodule "NSM3"]
 	path = NSM3
 	url = https://github.com/cran/NSM3
+[submodule "NSMM"]
+	path = NSMM
+	url = https://github.com/cran/NSMM
 [submodule "NSO1212"]
 	path = NSO1212
 	url = https://github.com/cran/NSO1212
@@ -54416,6 +54422,9 @@
 [submodule "postlightmercury"]
 	path = postlightmercury
 	url = https://github.com/cran/postlightmercury
+[submodule "postlink"]
+	path = postlink
+	url = https://github.com/cran/postlink
 [submodule "postlogic"]
 	path = postlogic
 	url = https://github.com/cran/postlogic
@@ -67235,6 +67244,9 @@
 [submodule "tidyMC"]
 	path = tidyMC
 	url = https://github.com/cran/tidyMC
+[submodule "tidyOhdsiSolutions"]
+	path = tidyOhdsiSolutions
+	url = https://github.com/cran/tidyOhdsiSolutions
 [submodule "tidyREDCap"]
 	path = tidyREDCap
 	url = https://github.com/cran/tidyREDCap
@@ -67709,6 +67721,9 @@
 [submodule "tinyplot"]
 	path = tinyplot
 	url = https://github.com/cran/tinyplot
+[submodule "tinyrox"]
+	path = tinyrox
+	url = https://github.com/cran/tinyrox
 [submodule "tinyscholar"]
 	path = tinyscholar
 	url = https://github.com/cran/tinyscholar
