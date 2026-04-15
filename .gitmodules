@@ -5819,6 +5819,9 @@
 [submodule "FAOSTAT"]
 	path = FAOSTAT
 	url = https://github.com/cran/FAOSTAT
+[submodule "FAPA"]
+	path = FAPA
+	url = https://github.com/cran/FAPA
 [submodule "FARDEEP"]
 	path = FARDEEP
 	url = https://github.com/cran/FARDEEP
@@ -6923,6 +6926,9 @@
 [submodule "GLSME"]
 	path = GLSME
 	url = https://github.com/cran/GLSME
+[submodule "GLSUP"]
+	path = GLSUP
+	url = https://github.com/cran/GLSUP
 [submodule "GLmom"]
 	path = GLmom
 	url = https://github.com/cran/GLmom
@@ -10394,6 +10400,9 @@
 [submodule "MLCOPULA"]
 	path = MLCOPULA
 	url = https://github.com/cran/MLCOPULA
+[submodule "MLCausal"]
+	path = MLCausal
+	url = https://github.com/cran/MLCausal
 [submodule "MLDS"]
 	path = MLDS
 	url = https://github.com/cran/MLDS
@@ -17051,6 +17060,9 @@
 [submodule "S4DM"]
 	path = S4DM
 	url = https://github.com/cran/S4DM
+[submodule "S4Vectors"]
+	path = S4Vectors
+	url = https://github.com/cran/S4Vectors
 [submodule "S7"]
 	path = S7
 	url = https://github.com/cran/S7
@@ -18350,6 +18362,9 @@
 [submodule "ShortForm"]
 	path = ShortForm
 	url = https://github.com/cran/ShortForm
+[submodule "ShortRead"]
+	path = ShortRead
+	url = https://github.com/cran/ShortRead
 [submodule "ShrinkCovMat"]
 	path = ShrinkCovMat
 	url = https://github.com/cran/ShrinkCovMat
@@ -31676,6 +31691,9 @@
 [submodule "docknitr"]
 	path = docknitr
 	url = https://github.com/cran/docknitr
+[submodule "doclisting"]
+	path = doclisting
+	url = https://github.com/cran/doclisting
 [submodule "doconv"]
 	path = doconv
 	url = https://github.com/cran/doconv
@@ -39857,6 +39875,9 @@
 [submodule "h3r"]
 	path = h3r
 	url = https://github.com/cran/h3r
+[submodule "h3sdm"]
+	path = h3sdm
+	url = https://github.com/cran/h3sdm
 [submodule "h5lite"]
 	path = h5lite
 	url = https://github.com/cran/h5lite
@@ -46280,6 +46301,9 @@
 [submodule "mcmodule"]
 	path = mcmodule
 	url = https://github.com/cran/mcmodule
+[submodule "mcmsector"]
+	path = mcmsector
+	url = https://github.com/cran/mcmsector
 [submodule "mcmsupply"]
 	path = mcmsupply
 	url = https://github.com/cran/mcmsupply
@@ -48098,6 +48122,9 @@
 [submodule "modeldb"]
 	path = modeldb
 	url = https://github.com/cran/modeldb
+[submodule "modeldiagramR"]
+	path = modeldiagramR
+	url = https://github.com/cran/modeldiagramR
 [submodule "modelenv"]
 	path = modelenv
 	url = https://github.com/cran/modelenv
@@ -50249,6 +50276,9 @@
 [submodule "nmfbin"]
 	path = nmfbin
 	url = https://github.com/cran/nmfbin
+[submodule "nmfkc"]
+	path = nmfkc
+	url = https://github.com/cran/nmfkc
 [submodule "nmixgof"]
 	path = nmixgof
 	url = https://github.com/cran/nmixgof
@@ -58820,6 +58850,9 @@
 [submodule "rioplot"]
 	path = rioplot
 	url = https://github.com/cran/rioplot
+[submodule "rip.opencv"]
+	path = rip.opencv
+	url = https://github.com/cran/rip.opencv
 [submodule "ripc"]
 	path = ripc
 	url = https://github.com/cran/ripc
