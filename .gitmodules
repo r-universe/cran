@@ -845,9 +845,6 @@
 [submodule "AutoDeskR"]
 	path = AutoDeskR
 	url = https://github.com/cran/AutoDeskR
-[submodule "AutoPipe"]
-	path = AutoPipe
-	url = https://github.com/cran/AutoPipe
 [submodule "AutoPlots"]
 	path = AutoPlots
 	url = https://github.com/cran/AutoPlots
@@ -5645,12 +5642,6 @@
 [submodule "Evapotranspiration"]
 	path = Evapotranspiration
 	url = https://github.com/cran/Evapotranspiration
-[submodule "EventDetectGUI"]
-	path = EventDetectGUI
-	url = https://github.com/cran/EventDetectGUI
-[submodule "EventDetectR"]
-	path = EventDetectR
-	url = https://github.com/cran/EventDetectR
 [submodule "EventPredInCure"]
 	path = EventPredInCure
 	url = https://github.com/cran/EventPredInCure
@@ -18488,9 +18479,6 @@
 [submodule "SimSeq"]
 	path = SimSeq
 	url = https://github.com/cran/SimSeq
-[submodule "SimSurvNMarker"]
-	path = SimSurvNMarker
-	url = https://github.com/cran/SimSurvNMarker
 [submodule "SimSurvey"]
 	path = SimSurvey
 	url = https://github.com/cran/SimSurvey
@@ -20402,9 +20390,6 @@
 [submodule "V8"]
 	path = V8
 	url = https://github.com/cran/V8
-[submodule "VAJointSurv"]
-	path = VAJointSurv
-	url = https://github.com/cran/VAJointSurv
 [submodule "VALERIE"]
 	path = VALERIE
 	url = https://github.com/cran/VALERIE
@@ -30617,9 +30602,6 @@
 [submodule "deform"]
 	path = deform
 	url = https://github.com/cran/deform
-[submodule "deformula"]
-	path = deformula
-	url = https://github.com/cran/deformula
 [submodule "degday"]
 	path = degday
 	url = https://github.com/cran/degday
@@ -45722,9 +45704,6 @@
 [submodule "mapedit"]
 	path = mapedit
 	url = https://github.com/cran/mapedit
-[submodule "mapfit"]
-	path = mapfit
-	url = https://github.com/cran/mapfit
 [submodule "mapgl"]
 	path = mapgl
 	url = https://github.com/cran/mapgl
