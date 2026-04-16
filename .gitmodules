@@ -7247,6 +7247,9 @@
 [submodule "GWnnegPCA"]
 	path = GWnnegPCA
 	url = https://github.com/cran/GWnnegPCA
+[submodule "GWnorm"]
+	path = GWnorm
+	url = https://github.com/cran/GWnorm
 [submodule "GWpcor"]
 	path = GWpcor
 	url = https://github.com/cran/GWpcor
@@ -18095,6 +18098,9 @@
 [submodule "SamplingStrata"]
 	path = SamplingStrata
 	url = https://github.com/cran/SamplingStrata
+[submodule "SamsaRaLight"]
+	path = SamsaRaLight
+	url = https://github.com/cran/SamsaRaLight
 [submodule "SanFranBeachWater"]
 	path = SanFranBeachWater
 	url = https://github.com/cran/SanFranBeachWater
@@ -26096,6 +26102,9 @@
 [submodule "carrier"]
 	path = carrier
 	url = https://github.com/cran/carrier
+[submodule "carsAlgo"]
+	path = carsAlgo
+	url = https://github.com/cran/carsAlgo
 [submodule "cartograflow"]
 	path = cartograflow
 	url = https://github.com/cran/cartograflow
@@ -26846,6 +26855,9 @@
 [submodule "chi"]
 	path = chi
 	url = https://github.com/cran/chi
+[submodule "chiOpenData"]
+	path = chiOpenData
+	url = https://github.com/cran/chiOpenData
 [submodule "chicane"]
 	path = chicane
 	url = https://github.com/cran/chicane
@@ -38678,6 +38690,9 @@
 [submodule "glm2"]
 	path = glm2
 	url = https://github.com/cran/glm2
+[submodule "glm4"]
+	path = glm4
+	url = https://github.com/cran/glm4
 [submodule "glmMisrep"]
 	path = glmMisrep
 	url = https://github.com/cran/glmMisrep
@@ -40619,6 +40634,9 @@
 [submodule "hlidacr"]
 	path = hlidacr
 	url = https://github.com/cran/hlidacr
+[submodule "hlmLab"]
+	path = hlmLab
+	url = https://github.com/cran/hlmLab
 [submodule "hlt"]
 	path = hlt
 	url = https://github.com/cran/hlt
@@ -44684,6 +44702,9 @@
 [submodule "llbayesireg"]
 	path = llbayesireg
 	url = https://github.com/cran/llbayesireg
+[submodule "llm.api"]
+	path = llm.api
+	url = https://github.com/cran/llm.api
 [submodule "llmflow"]
 	path = llmflow
 	url = https://github.com/cran/llmflow
@@ -59816,12 +59837,18 @@
 [submodule "rqti"]
 	path = rqti
 	url = https://github.com/cran/rqti
+[submodule "rqualify"]
+	path = rqualify
+	url = https://github.com/cran/rqualify
 [submodule "rquery"]
 	path = rquery
 	url = https://github.com/cran/rquery
 [submodule "rquest"]
 	path = rquest
 	url = https://github.com/cran/rquest
+[submodule "rquiz"]
+	path = rquiz
+	url = https://github.com/cran/rquiz
 [submodule "rr"]
 	path = rr
 	url = https://github.com/cran/rr
@@ -64559,6 +64586,9 @@
 [submodule "spm2"]
 	path = spm2
 	url = https://github.com/cran/spm2
+[submodule "spmixW"]
+	path = spmixW
+	url = https://github.com/cran/spmixW
 [submodule "spmodel"]
 	path = spmodel
 	url = https://github.com/cran/spmodel
@@ -71282,6 +71312,9 @@
 [submodule "xhaz"]
 	path = xhaz
 	url = https://github.com/cran/xhaz
+[submodule "xiacf"]
+	path = xiacf
+	url = https://github.com/cran/xiacf
 [submodule "xkcd"]
 	path = xkcd
 	url = https://github.com/cran/xkcd
