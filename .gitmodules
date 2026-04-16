@@ -66203,6 +66203,9 @@
 [submodule "swatches"]
 	path = swatches
 	url = https://github.com/cran/swatches
+[submodule "swcEcon"]
+	path = swcEcon
+	url = https://github.com/cran/swcEcon
 [submodule "swdft"]
 	path = swdft
 	url = https://github.com/cran/swdft
