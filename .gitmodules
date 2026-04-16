@@ -48398,6 +48398,9 @@
 [submodule "motifr"]
 	path = motifr
 	url = https://github.com/cran/motifr
+[submodule "motmot"]
+	path = motmot
+	url = https://github.com/cran/motmot
 [submodule "motoRneuron"]
 	path = motoRneuron
 	url = https://github.com/cran/motoRneuron
