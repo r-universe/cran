@@ -302,6 +302,9 @@
 [submodule "APRScenario"]
 	path = APRScenario
 	url = https://github.com/cran/APRScenario
+[submodule "APS"]
+	path = APS
+	url = https://github.com/cran/APS
 [submodule "APTIcalc"]
 	path = APTIcalc
 	url = https://github.com/cran/APTIcalc
@@ -3311,6 +3314,9 @@
 [submodule "CohortConstructor"]
 	path = CohortConstructor
 	url = https://github.com/cran/CohortConstructor
+[submodule "CohortContrast"]
+	path = CohortContrast
+	url = https://github.com/cran/CohortContrast
 [submodule "CohortGenerator"]
 	path = CohortGenerator
 	url = https://github.com/cran/CohortGenerator
@@ -16811,6 +16817,9 @@
 [submodule "RobustLinearReg"]
 	path = RobustLinearReg
 	url = https://github.com/cran/RobustLinearReg
+[submodule "RobustMediate"]
+	path = RobustMediate
+	url = https://github.com/cran/RobustMediate
 [submodule "RobustMetrics"]
 	path = RobustMetrics
 	url = https://github.com/cran/RobustMetrics
@@ -33170,6 +33179,9 @@
 [submodule "eltr"]
 	path = eltr
 	url = https://github.com/cran/eltr
+[submodule "emBALVI"]
+	path = emBALVI
+	url = https://github.com/cran/emBALVI
 [submodule "emBayes"]
 	path = emBayes
 	url = https://github.com/cran/emBayes
@@ -49112,6 +49124,9 @@
 [submodule "mumarinex"]
 	path = mumarinex
 	url = https://github.com/cran/mumarinex
+[submodule "munch"]
+	path = munch
+	url = https://github.com/cran/munch
 [submodule "munfold"]
 	path = munfold
 	url = https://github.com/cran/munfold
@@ -50543,6 +50558,9 @@
 [submodule "nowcast"]
 	path = nowcast
 	url = https://github.com/cran/nowcast
+[submodule "nowcastr"]
+	path = nowcastr
+	url = https://github.com/cran/nowcastr
 [submodule "noweb"]
 	path = noweb
 	url = https://github.com/cran/noweb
@@ -61727,6 +61745,9 @@
 [submodule "semverutils"]
 	path = semverutils
 	url = https://github.com/cran/semverutils
+[submodule "senatebR"]
+	path = senatebR
+	url = https://github.com/cran/senatebR
 [submodule "sendgridr"]
 	path = sendgridr
 	url = https://github.com/cran/sendgridr
