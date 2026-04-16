@@ -4550,6 +4550,9 @@
 [submodule "DebiasInfer"]
 	path = DebiasInfer
 	url = https://github.com/cran/DebiasInfer
+[submodule "DecisionDrift"]
+	path = DecisionDrift
+	url = https://github.com/cran/DecisionDrift
 [submodule "DeclareDesign"]
 	path = DeclareDesign
 	url = https://github.com/cran/DeclareDesign
@@ -31193,6 +31196,9 @@
 [submodule "digest"]
 	path = digest
 	url = https://github.com/cran/digest
+[submodule "digiNORM"]
+	path = digiNORM
+	url = https://github.com/cran/digiNORM
 [submodule "digiRhythm"]
 	path = digiRhythm
 	url = https://github.com/cran/digiRhythm
@@ -43754,6 +43760,9 @@
 [submodule "laGP"]
 	path = laGP
 	url = https://github.com/cran/laGP
+[submodule "laOpenData"]
+	path = laOpenData
+	url = https://github.com/cran/laOpenData
 [submodule "lab2clean"]
 	path = lab2clean
 	url = https://github.com/cran/lab2clean
@@ -48602,6 +48611,9 @@
 [submodule "mregions2"]
 	path = mregions2
 	url = https://github.com/cran/mregions2
+[submodule "mrf"]
+	path = mrf
+	url = https://github.com/cran/mrf
 [submodule "mrf2d"]
 	path = mrf2d
 	url = https://github.com/cran/mrf2d
