@@ -38666,6 +38666,9 @@
 [submodule "gldrm"]
 	path = gldrm
 	url = https://github.com/cran/gldrm
+[submodule "gleam"]
+	path = gleam
+	url = https://github.com/cran/gleam
 [submodule "glinternet"]
 	path = glinternet
 	url = https://github.com/cran/glinternet
@@ -44597,6 +44600,9 @@
 [submodule "linprog"]
 	path = linprog
 	url = https://github.com/cran/linprog
+[submodule "linreg"]
+	path = linreg
+	url = https://github.com/cran/linreg
 [submodule "lintools"]
 	path = lintools
 	url = https://github.com/cran/lintools
@@ -49826,6 +49832,9 @@
 [submodule "netmediate"]
 	path = netmediate
 	url = https://github.com/cran/netmediate
+[submodule "netmem"]
+	path = netmem
+	url = https://github.com/cran/netmem
 [submodule "netmeta"]
 	path = netmeta
 	url = https://github.com/cran/netmeta
@@ -59624,6 +59633,9 @@
 [submodule "rorcid"]
 	path = rorcid
 	url = https://github.com/cran/rorcid
+[submodule "roroph"]
+	path = roroph
+	url = https://github.com/cran/roroph
 [submodule "rorqual.morpho"]
 	path = rorqual.morpho
 	url = https://github.com/cran/rorqual.morpho
@@ -65075,6 +65087,9 @@
 [submodule "starwarsdb"]
 	path = starwarsdb
 	url = https://github.com/cran/starwarsdb
+[submodule "statAPA"]
+	path = statAPA
+	url = https://github.com/cran/statAPA
 [submodule "statAfrikR"]
 	path = statAfrikR
 	url = https://github.com/cran/statAfrikR
