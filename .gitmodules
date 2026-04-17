@@ -17066,9 +17066,6 @@
 [submodule "S4DM"]
 	path = S4DM
 	url = https://github.com/cran/S4DM
-[submodule "S4Vectors"]
-	path = S4Vectors
-	url = https://github.com/cran/S4Vectors
 [submodule "S7"]
 	path = S7
 	url = https://github.com/cran/S7
@@ -18368,9 +18365,6 @@
 [submodule "ShortForm"]
 	path = ShortForm
 	url = https://github.com/cran/ShortForm
-[submodule "ShortRead"]
-	path = ShortRead
-	url = https://github.com/cran/ShortRead
 [submodule "ShrinkCovMat"]
 	path = ShrinkCovMat
 	url = https://github.com/cran/ShrinkCovMat
