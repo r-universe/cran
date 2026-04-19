@@ -27422,9 +27422,6 @@
 [submodule "cloneRate"]
 	path = cloneRate
 	url = https://github.com/cran/cloneRate
-[submodule "clootl"]
-	path = clootl
-	url = https://github.com/cran/clootl
 [submodule "clordr"]
 	path = clordr
 	url = https://github.com/cran/clordr
