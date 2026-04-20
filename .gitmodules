@@ -40787,6 +40787,9 @@
 [submodule "hqreg"]
 	path = hqreg
 	url = https://github.com/cran/hqreg
+[submodule "hrbrthemes"]
+	path = hrbrthemes
+	url = https://github.com/cran/hrbrthemes
 [submodule "hrcomprisk"]
 	path = hrcomprisk
 	url = https://github.com/cran/hrcomprisk
