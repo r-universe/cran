@@ -26447,6 +26447,9 @@
 [submodule "cdlei"]
 	path = cdlei
 	url = https://github.com/cran/cdlei
+[submodule "cdlsim"]
+	path = cdlsim
+	url = https://github.com/cran/cdlsim
 [submodule "cdmTools"]
 	path = cdmTools
 	url = https://github.com/cran/cdmTools
@@ -28340,6 +28343,9 @@
 [submodule "conf.design"]
 	path = conf.design
 	url = https://github.com/cran/conf.design
+[submodule "confMeta"]
+	path = confMeta
+	url = https://github.com/cran/confMeta
 [submodule "confSAM"]
 	path = confSAM
 	url = https://github.com/cran/confSAM
@@ -31991,6 +31997,9 @@
 [submodule "drpop"]
 	path = drpop
 	url = https://github.com/cran/drpop
+[submodule "drrglm"]
+	path = drrglm
+	url = https://github.com/cran/drrglm
 [submodule "drtmle"]
 	path = drtmle
 	url = https://github.com/cran/drtmle
