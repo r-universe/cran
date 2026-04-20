@@ -2075,6 +2075,9 @@
 [submodule "BoundEdgeworth"]
 	path = BoundEdgeworth
 	url = https://github.com/cran/BoundEdgeworth
+[submodule "BoundIRT"]
+	path = BoundIRT
+	url = https://github.com/cran/BoundIRT
 [submodule "BoundaryStats"]
 	path = BoundaryStats
 	url = https://github.com/cran/BoundaryStats
@@ -17831,6 +17834,9 @@
 [submodule "SQI"]
 	path = SQI
 	url = https://github.com/cran/SQI
+[submodule "SQIpro"]
+	path = SQIpro
+	url = https://github.com/cran/SQIpro
 [submodule "SQL"]
 	path = SQL
 	url = https://github.com/cran/SQL
