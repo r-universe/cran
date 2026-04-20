@@ -3887,9 +3887,6 @@
 [submodule "DBTC"]
 	path = DBTC
 	url = https://github.com/cran/DBTC
-[submodule "DBTCShiny"]
-	path = DBTCShiny
-	url = https://github.com/cran/DBTCShiny
 [submodule "DBfit"]
 	path = DBfit
 	url = https://github.com/cran/DBfit
@@ -7046,9 +7043,6 @@
 [submodule "GPSCDF"]
 	path = GPSCDF
 	url = https://github.com/cran/GPSCDF
-[submodule "GPSeqClus"]
-	path = GPSeqClus
-	url = https://github.com/cran/GPSeqClus
 [submodule "GPTCM"]
 	path = GPTCM
 	url = https://github.com/cran/GPTCM
@@ -7244,9 +7238,6 @@
 [submodule "GWmodel"]
 	path = GWmodel
 	url = https://github.com/cran/GWmodel
-[submodule "GWmodelVis"]
-	path = GWmodelVis
-	url = https://github.com/cran/GWmodelVis
 [submodule "GWnnegPCA"]
 	path = GWnnegPCA
 	url = https://github.com/cran/GWnnegPCA
@@ -10163,9 +10154,6 @@
 [submodule "MDMA"]
 	path = MDMA
 	url = https://github.com/cran/MDMA
-[submodule "MDMAPR"]
-	path = MDMAPR
-	url = https://github.com/cran/MDMAPR
 [submodule "MDMR"]
 	path = MDMR
 	url = https://github.com/cran/MDMR
@@ -20339,9 +20327,6 @@
 [submodule "Umpire"]
 	path = Umpire
 	url = https://github.com/cran/Umpire
-[submodule "UnalR"]
-	path = UnalR
-	url = https://github.com/cran/UnalR
 [submodule "UncDecomp"]
 	path = UncDecomp
 	url = https://github.com/cran/UncDecomp
@@ -27080,9 +27065,6 @@
 [submodule "circular"]
 	path = circular
 	url = https://github.com/cran/circular
-[submodule "circularEV"]
-	path = circularEV
-	url = https://github.com/cran/circularEV
 [submodule "circularKDE"]
 	path = circularKDE
 	url = https://github.com/cran/circularKDE
@@ -29009,9 +28991,6 @@
 [submodule "covidcast"]
 	path = covidcast
 	url = https://github.com/cran/covidcast
-[submodule "covidmx"]
-	path = covidmx
-	url = https://github.com/cran/covidmx
 [submodule "covidnor"]
 	path = covidnor
 	url = https://github.com/cran/covidnor
@@ -39836,9 +39815,6 @@
 [submodule "gwasrapidd"]
 	path = gwasrapidd
 	url = https://github.com/cran/gwasrapidd
-[submodule "gwavr"]
-	path = gwavr
-	url = https://github.com/cran/gwavr
 [submodule "gwbr"]
 	path = gwbr
 	url = https://github.com/cran/gwbr
@@ -44159,9 +44135,6 @@
 [submodule "leaflet.providers"]
 	path = leaflet.providers
 	url = https://github.com/cran/leaflet.providers
-[submodule "leafletZH"]
-	path = leafletZH
-	url = https://github.com/cran/leafletZH
 [submodule "leafpm"]
 	path = leafpm
 	url = https://github.com/cran/leafpm
@@ -49580,9 +49553,6 @@
 [submodule "natstrat"]
 	path = natstrat
 	url = https://github.com/cran/natstrat
-[submodule "naturaList"]
-	path = naturaList
-	url = https://github.com/cran/naturaList
 [submodule "natural"]
 	path = natural
 	url = https://github.com/cran/natural
@@ -50996,9 +50966,6 @@
 [submodule "oceanic"]
 	path = oceanic
 	url = https://github.com/cran/oceanic
-[submodule "oceanis"]
-	path = oceanis
-	url = https://github.com/cran/oceanis
 [submodule "oceanmap"]
 	path = oceanmap
 	url = https://github.com/cran/oceanmap
@@ -70451,9 +70418,6 @@
 [submodule "walkscoreAPI"]
 	path = walkscoreAPI
 	url = https://github.com/cran/walkscoreAPI
-[submodule "wallace"]
-	path = wallace
-	url = https://github.com/cran/wallace
 [submodule "wally"]
 	path = wally
 	url = https://github.com/cran/wally
