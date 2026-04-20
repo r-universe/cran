@@ -41924,6 +41924,9 @@
 [submodule "ineqJD"]
 	path = ineqJD
 	url = https://github.com/cran/ineqJD
+[submodule "inequality"]
+	path = inequality
+	url = https://github.com/cran/inequality
 [submodule "inet"]
 	path = inet
 	url = https://github.com/cran/inet
@@ -66038,6 +66041,9 @@
 [submodule "susographql"]
 	path = susographql
 	url = https://github.com/cran/susographql
+[submodule "suwo"]
+	path = suwo
+	url = https://github.com/cran/suwo
 [submodule "svDialogs"]
 	path = svDialogs
 	url = https://github.com/cran/svDialogs
