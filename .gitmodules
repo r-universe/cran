@@ -2102,6 +2102,9 @@
 [submodule "BrainCon"]
 	path = BrainCon
 	url = https://github.com/cran/BrainCon
+[submodule "BrainNetTest"]
+	path = BrainNetTest
+	url = https://github.com/cran/BrainNetTest
 [submodule "BranchGLM"]
 	path = BranchGLM
 	url = https://github.com/cran/BranchGLM
@@ -10664,6 +10667,9 @@
 [submodule "MRHawkes"]
 	path = MRHawkes
 	url = https://github.com/cran/MRHawkes
+[submodule "MRIreduce"]
+	path = MRIreduce
+	url = https://github.com/cran/MRIreduce
 [submodule "MRMCaov"]
 	path = MRMCaov
 	url = https://github.com/cran/MRMCaov
@@ -22001,6 +22007,9 @@
 [submodule "ai"]
 	path = ai
 	url = https://github.com/cran/ai
+[submodule "aiDIF"]
+	path = aiDIF
+	url = https://github.com/cran/aiDIF
 [submodule "aiRly"]
 	path = aiRly
 	url = https://github.com/cran/aiRly
@@ -23879,6 +23888,9 @@
 [submodule "bayesianVARs"]
 	path = bayesianVARs
 	url = https://github.com/cran/bayesianVARs
+[submodule "bayesiansurpriser"]
+	path = bayesiansurpriser
+	url = https://github.com/cran/bayesiansurpriser
 [submodule "bayesics"]
 	path = bayesics
 	url = https://github.com/cran/bayesics
@@ -30557,6 +30569,9 @@
 [submodule "debkeepr"]
 	path = debkeepr
 	url = https://github.com/cran/debkeepr
+[submodule "debrief"]
+	path = debrief
+	url = https://github.com/cran/debrief
 [submodule "debtkit"]
 	path = debtkit
 	url = https://github.com/cran/debtkit
@@ -33194,6 +33209,9 @@
 [submodule "elasticnet"]
 	path = elasticnet
 	url = https://github.com/cran/elasticnet
+[submodule "elcf4R"]
+	path = elcf4R
+	url = https://github.com/cran/elcf4R
 [submodule "elec"]
 	path = elec
 	url = https://github.com/cran/elec
@@ -36632,6 +36650,9 @@
 [submodule "funchir"]
 	path = funchir
 	url = https://github.com/cran/funchir
+[submodule "funcml"]
+	path = funcml
+	url = https://github.com/cran/funcml
 [submodule "functional"]
 	path = functional
 	url = https://github.com/cran/functional
@@ -44228,6 +44249,9 @@
 [submodule "leaderCluster"]
 	path = leaderCluster
 	url = https://github.com/cran/leaderCluster
+[submodule "leaf"]
+	path = leaf
+	url = https://github.com/cran/leaf
 [submodule "leafR"]
 	path = leafR
 	url = https://github.com/cran/leafR
@@ -45245,6 +45269,9 @@
 [submodule "lorad"]
 	path = lorad
 	url = https://github.com/cran/lorad
+[submodule "lorbridge"]
+	path = lorbridge
+	url = https://github.com/cran/lorbridge
 [submodule "lordif"]
 	path = lordif
 	url = https://github.com/cran/lordif
@@ -51761,6 +51788,9 @@
 [submodule "orderanalyzer"]
 	path = orderanalyzer
 	url = https://github.com/cran/orderanalyzer
+[submodule "ordered"]
+	path = ordered
+	url = https://github.com/cran/ordered
 [submodule "ordering"]
 	path = ordering
 	url = https://github.com/cran/ordering
@@ -51782,6 +51812,9 @@
 [submodule "ordinal"]
 	path = ordinal
 	url = https://github.com/cran/ordinal
+[submodule "ordinalClust"]
+	path = ordinalClust
+	url = https://github.com/cran/ordinalClust
 [submodule "ordinalCont"]
 	path = ordinalCont
 	url = https://github.com/cran/ordinalCont
@@ -59327,6 +59360,9 @@
 [submodule "rmerec"]
 	path = rmerec
 	url = https://github.com/cran/rmerec
+[submodule "rmet"]
+	path = rmet
+	url = https://github.com/cran/rmet
 [submodule "rmeta"]
 	path = rmeta
 	url = https://github.com/cran/rmeta
@@ -65948,6 +65984,9 @@
 [submodule "suncalc"]
 	path = suncalc
 	url = https://github.com/cran/suncalc
+[submodule "sundialr"]
+	path = sundialr
+	url = https://github.com/cran/sundialr
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/cran/suntools
@@ -66470,6 +66509,9 @@
 [submodule "symbolicDA"]
 	path = symbolicDA
 	url = https://github.com/cran/symbolicDA
+[submodule "symbolicr"]
+	path = symbolicr
+	url = https://github.com/cran/symbolicr
 [submodule "symengine"]
 	path = symengine
 	url = https://github.com/cran/symengine
@@ -68822,6 +68864,9 @@
 [submodule "truncAIPW"]
 	path = truncAIPW
 	url = https://github.com/cran/truncAIPW
+[submodule "truncProxy"]
+	path = truncProxy
+	url = https://github.com/cran/truncProxy
 [submodule "truncSP"]
 	path = truncSP
 	url = https://github.com/cran/truncSP
@@ -70796,6 +70841,9 @@
 [submodule "wdiEF"]
 	path = wdiEF
 	url = https://github.com/cran/wdiEF
+[submodule "wdiexplorer"]
+	path = wdiexplorer
+	url = https://github.com/cran/wdiexplorer
 [submodule "wdm"]
 	path = wdm
 	url = https://github.com/cran/wdm
@@ -71675,6 +71723,9 @@
 [submodule "xtdml"]
 	path = xtdml
 	url = https://github.com/cran/xtdml
+[submodule "xtife"]
+	path = xtife
+	url = https://github.com/cran/xtife
 [submodule "xtpqardl"]
 	path = xtpqardl
 	url = https://github.com/cran/xtpqardl
