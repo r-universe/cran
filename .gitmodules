@@ -24479,9 +24479,6 @@
 [submodule "binGroup"]
 	path = binGroup
 	url = https://github.com/cran/binGroup
-[submodule "binGroup2"]
-	path = binGroup2
-	url = https://github.com/cran/binGroup2
 [submodule "binMto"]
 	path = binMto
 	url = https://github.com/cran/binMto
@@ -39497,9 +39494,6 @@
 [submodule "groupICA"]
 	path = groupICA
 	url = https://github.com/cran/groupICA
-[submodule "groupTesting"]
-	path = groupTesting
-	url = https://github.com/cran/groupTesting
 [submodule "groupWQS"]
 	path = groupWQS
 	url = https://github.com/cran/groupWQS
