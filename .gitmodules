@@ -36308,6 +36308,9 @@
 [submodule "freegroup"]
 	path = freegroup
 	url = https://github.com/cran/freegroup
+[submodule "freestiler"]
+	path = freestiler
+	url = https://github.com/cran/freestiler
 [submodule "freesurfer"]
 	path = freesurfer
 	url = https://github.com/cran/freesurfer
@@ -52382,6 +52385,9 @@
 [submodule "pargasite"]
 	path = pargasite
 	url = https://github.com/cran/pargasite
+[submodule "parglm"]
+	path = parglm
+	url = https://github.com/cran/parglm
 [submodule "parma"]
 	path = parma
 	url = https://github.com/cran/parma
