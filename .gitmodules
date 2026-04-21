@@ -1721,6 +1721,9 @@
 [submodule "BayesianPower"]
 	path = BayesianPower
 	url = https://github.com/cran/BayesianPower
+[submodule "BayesianQDM"]
+	path = BayesianQDM
+	url = https://github.com/cran/BayesianQDM
 [submodule "BayesianReasoning"]
 	path = BayesianReasoning
 	url = https://github.com/cran/BayesianReasoning
@@ -12530,9 +12533,15 @@
 [submodule "OneTwoSamples"]
 	path = OneTwoSamples
 	url = https://github.com/cran/OneTwoSamples
+[submodule "OnlineSurr"]
+	path = OnlineSurr
+	url = https://github.com/cran/OnlineSurr
 [submodule "OnomasticDiversity"]
 	path = OnomasticDiversity
 	url = https://github.com/cran/OnomasticDiversity
+[submodule "OofAExp"]
+	path = OofAExp
+	url = https://github.com/cran/OofAExp
 [submodule "OpEnCAST"]
 	path = OpEnCAST
 	url = https://github.com/cran/OpEnCAST
@@ -21644,6 +21653,9 @@
 [submodule "adjclust"]
 	path = adjclust
 	url = https://github.com/cran/adjclust
+[submodule "adjoin"]
+	path = adjoin
+	url = https://github.com/cran/adjoin
 [submodule "adjustedCurves"]
 	path = adjustedCurves
 	url = https://github.com/cran/adjustedCurves
@@ -21878,6 +21890,9 @@
 [submodule "agregR"]
 	path = agregR
 	url = https://github.com/cran/agregR
+[submodule "agriDQ"]
+	path = agriDQ
+	url = https://github.com/cran/agriDQ
 [submodule "agriReg"]
 	path = agriReg
 	url = https://github.com/cran/agriReg
@@ -26258,6 +26273,9 @@
 [submodule "causalSLSE"]
 	path = causalSLSE
 	url = https://github.com/cran/causalSLSE
+[submodule "causalWins"]
+	path = causalWins
+	url = https://github.com/cran/causalWins
 [submodule "causaldata"]
 	path = causaldata
 	url = https://github.com/cran/causaldata
@@ -29600,6 +29618,9 @@
 [submodule "ctrlGene"]
 	path = ctrlGene
 	url = https://github.com/cran/ctrlGene
+[submodule "ctrlvee"]
+	path = ctrlvee
+	url = https://github.com/cran/ctrlvee
 [submodule "cts"]
 	path = cts
 	url = https://github.com/cran/cts
@@ -45959,6 +45980,9 @@
 [submodule "maskedcauses"]
 	path = maskedcauses
 	url = https://github.com/cran/maskedcauses
+[submodule "maskedhaz"]
+	path = maskedhaz
+	url = https://github.com/cran/maskedhaz
 [submodule "maskr"]
 	path = maskr
 	url = https://github.com/cran/maskr
@@ -49868,6 +49892,9 @@
 [submodule "netstat"]
 	path = netstat
 	url = https://github.com/cran/netstat
+[submodule "netsubsamp"]
+	path = netsubsamp
+	url = https://github.com/cran/netsubsamp
 [submodule "nett"]
 	path = nett
 	url = https://github.com/cran/nett
@@ -65792,6 +65819,9 @@
 [submodule "suntools"]
 	path = suntools
 	url = https://github.com/cran/suntools
+[submodule "supabaseR"]
+	path = supabaseR
+	url = https://github.com/cran/supabaseR
 [submodule "supclust"]
 	path = supclust
 	url = https://github.com/cran/supclust
@@ -66041,6 +66071,9 @@
 [submodule "survivoR"]
 	path = survivoR
 	url = https://github.com/cran/survivoR
+[submodule "survkl"]
+	path = survkl
+	url = https://github.com/cran/survkl
 [submodule "survlab"]
 	path = survlab
 	url = https://github.com/cran/survlab
@@ -69206,6 +69239,9 @@
 [submodule "ukgasapi"]
 	path = ukgasapi
 	url = https://github.com/cran/ukgasapi
+[submodule "ukhousing"]
+	path = ukhousing
+	url = https://github.com/cran/ukhousing
 [submodule "ukhsadatR"]
 	path = ukhsadatR
 	url = https://github.com/cran/ukhsadatR
