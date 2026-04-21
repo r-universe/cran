@@ -6404,6 +6404,9 @@
 [submodule "FoReco"]
 	path = FoReco
 	url = https://github.com/cran/FoReco
+[submodule "FoRecoML"]
+	path = FoRecoML
+	url = https://github.com/cran/FoRecoML
 [submodule "ForCausality"]
 	path = ForCausality
 	url = https://github.com/cran/ForCausality
@@ -34841,6 +34844,9 @@
 [submodule "fastlogitME"]
 	path = fastlogitME
 	url = https://github.com/cran/fastlogitME
+[submodule "fastlpr"]
+	path = fastlpr
+	url = https://github.com/cran/fastlpr
 [submodule "fastmap"]
 	path = fastmap
 	url = https://github.com/cran/fastmap
@@ -46763,6 +46769,9 @@
 [submodule "metaforest"]
 	path = metaforest
 	url = https://github.com/cran/metaforest
+[submodule "metafrontier"]
+	path = metafrontier
+	url = https://github.com/cran/metafrontier
 [submodule "metafuse"]
 	path = metafuse
 	url = https://github.com/cran/metafuse
@@ -50510,6 +50519,9 @@
 [submodule "nordklimdata1"]
 	path = nordklimdata1
 	url = https://github.com/cran/nordklimdata1
+[submodule "nordstatExtras"]
+	path = nordstatExtras
+	url = https://github.com/cran/nordstatExtras
 [submodule "norm"]
 	path = norm
 	url = https://github.com/cran/norm
@@ -58451,6 +58463,9 @@
 [submodule "result"]
 	path = result
 	url = https://github.com/cran/result
+[submodule "resultcheck"]
+	path = resultcheck
+	url = https://github.com/cran/resultcheck
 [submodule "resumer"]
 	path = resumer
 	url = https://github.com/cran/resumer
@@ -58964,6 +58979,9 @@
 [submodule "rjd3jars"]
 	path = rjd3jars
 	url = https://github.com/cran/rjd3jars
+[submodule "rjd3production"]
+	path = rjd3production
+	url = https://github.com/cran/rjd3production
 [submodule "rjd3providers"]
 	path = rjd3providers
 	url = https://github.com/cran/rjd3providers
@@ -58979,6 +58997,9 @@
 [submodule "rjd3x13"]
 	path = rjd3x13
 	url = https://github.com/cran/rjd3x13
+[submodule "rjd3xjars"]
+	path = rjd3xjars
+	url = https://github.com/cran/rjd3xjars
 [submodule "rjdmarkdown"]
 	path = rjdmarkdown
 	url = https://github.com/cran/rjdmarkdown
@@ -60428,6 +60449,9 @@
 [submodule "rwhatsapp"]
 	path = rwhatsapp
 	url = https://github.com/cran/rwhatsapp
+[submodule "rwig"]
+	path = rwig
+	url = https://github.com/cran/rwig
 [submodule "rwisp"]
 	path = rwisp
 	url = https://github.com/cran/rwisp
@@ -63968,6 +63992,9 @@
 [submodule "spacyr"]
 	path = spacyr
 	url = https://github.com/cran/spacyr
+[submodule "spada"]
+	path = spada
+	url = https://github.com/cran/spada
 [submodule "spagmix"]
 	path = spagmix
 	url = https://github.com/cran/spagmix
@@ -64532,6 +64559,9 @@
 [submodule "splinetrials"]
 	path = splinetrials
 	url = https://github.com/cran/splinetrials
+[submodule "splitGraph"]
+	path = splitGraph
+	url = https://github.com/cran/splitGraph
 [submodule "splitSelect"]
 	path = splitSelect
 	url = https://github.com/cran/splitSelect
