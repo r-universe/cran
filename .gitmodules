@@ -5573,6 +5573,9 @@
 [submodule "EpiModel"]
 	path = EpiModel
 	url = https://github.com/cran/EpiModel
+[submodule "EpiNova"]
+	path = EpiNova
+	url = https://github.com/cran/EpiNova
 [submodule "EpiNow2"]
 	path = EpiNow2
 	url = https://github.com/cran/EpiNow2
@@ -6923,6 +6926,9 @@
 [submodule "GLDreg"]
 	path = GLDreg
 	url = https://github.com/cran/GLDreg
+[submodule "GLMBasedRaschEstimation"]
+	path = GLMBasedRaschEstimation
+	url = https://github.com/cran/GLMBasedRaschEstimation
 [submodule "GLMMRR"]
 	path = GLMMRR
 	url = https://github.com/cran/GLMMRR
@@ -40049,6 +40055,9 @@
 [submodule "hans"]
 	path = hans
 	url = https://github.com/cran/hans
+[submodule "hanyupinyin"]
+	path = hanyupinyin
+	url = https://github.com/cran/hanyupinyin
 [submodule "hapassoc"]
 	path = hapassoc
 	url = https://github.com/cran/hapassoc
@@ -68000,6 +68009,9 @@
 [submodule "tinylens"]
 	path = tinylens
 	url = https://github.com/cran/tinylens
+[submodule "tinypkgr"]
+	path = tinypkgr
+	url = https://github.com/cran/tinypkgr
 [submodule "tinyplot"]
 	path = tinyplot
 	url = https://github.com/cran/tinyplot
@@ -69338,6 +69350,9 @@
 [submodule "ucminf"]
 	path = ucminf
 	url = https://github.com/cran/ucminf
+[submodule "ucminfcpp"]
+	path = ucminfcpp
+	url = https://github.com/cran/ucminfcpp
 [submodule "udpipe"]
 	path = udpipe
 	url = https://github.com/cran/udpipe
@@ -70604,6 +70619,9 @@
 [submodule "vws"]
 	path = vws
 	url = https://github.com/cran/vws
+[submodule "wARMASVp"]
+	path = wARMASVp
+	url = https://github.com/cran/wARMASVp
 [submodule "wCorr"]
 	path = wCorr
 	url = https://github.com/cran/wCorr
@@ -70940,6 +70958,9 @@
 [submodule "weightedVoronoi"]
 	path = weightedVoronoi
 	url = https://github.com/cran/weightedVoronoi
+[submodule "weightederm"]
+	path = weightederm
+	url = https://github.com/cran/weightederm
 [submodule "weightedsurv"]
 	path = weightedsurv
 	url = https://github.com/cran/weightedsurv
