@@ -64802,6 +64802,9 @@
 [submodule "spooky"]
 	path = spooky
 	url = https://github.com/cran/spooky
+[submodule "spopt"]
+	path = spopt
+	url = https://github.com/cran/spopt
 [submodule "spork"]
 	path = spork
 	url = https://github.com/cran/spork
