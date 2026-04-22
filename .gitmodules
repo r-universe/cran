@@ -1817,9 +1817,6 @@
 [submodule "BiObjClass"]
 	path = BiObjClass
 	url = https://github.com/cran/BiObjClass
-[submodule "BiSEp"]
-	path = BiSEp
-	url = https://github.com/cran/BiSEp
 [submodule "BiTSLS"]
 	path = BiTSLS
 	url = https://github.com/cran/BiTSLS
@@ -7028,9 +7025,6 @@
 [submodule "GOplot"]
 	path = GOplot
 	url = https://github.com/cran/GOplot
-[submodule "GOxploreR"]
-	path = GOxploreR
-	url = https://github.com/cran/GOxploreR
 [submodule "GPAbin"]
 	path = GPAbin
 	url = https://github.com/cran/GPAbin
@@ -7631,9 +7625,6 @@
 [submodule "GroupTest"]
 	path = GroupTest
 	url = https://github.com/cran/GroupTest
-[submodule "Grouphmap"]
-	path = Grouphmap
-	url = https://github.com/cran/Grouphmap
 [submodule "GrowthCurveME"]
 	path = GrowthCurveME
 	url = https://github.com/cran/GrowthCurveME
@@ -8219,9 +8210,6 @@
 [submodule "ICD10gm"]
 	path = ICD10gm
 	url = https://github.com/cran/ICD10gm
-[submodule "ICDS"]
-	path = ICDS
-	url = https://github.com/cran/ICDS
 [submodule "ICED"]
 	path = ICED
 	url = https://github.com/cran/ICED
@@ -13121,9 +13109,6 @@
 [submodule "PMA"]
 	path = PMA
 	url = https://github.com/cran/PMA
-[submodule "PMAPscore"]
-	path = PMAPscore
-	url = https://github.com/cran/PMAPscore
 [submodule "PMCMR"]
 	path = PMCMR
 	url = https://github.com/cran/PMCMR
@@ -17219,9 +17204,6 @@
 [submodule "SASmixed"]
 	path = SASmixed
 	url = https://github.com/cran/SASmixed
-[submodule "SATS"]
-	path = SATS
-	url = https://github.com/cran/SATS
 [submodule "SAVER"]
 	path = SAVER
 	url = https://github.com/cran/SAVER
@@ -22154,9 +22136,6 @@
 [submodule "algorithmia"]
 	path = algorithmia
 	url = https://github.com/cran/algorithmia
-[submodule "aliases2entrez"]
-	path = aliases2entrez
-	url = https://github.com/cran/aliases2entrez
 [submodule "alien"]
 	path = alien
 	url = https://github.com/cran/alien
@@ -29978,9 +29957,6 @@
 [submodule "dCovTS"]
 	path = dCovTS
 	url = https://github.com/cran/dCovTS
-[submodule "dGAselID"]
-	path = dGAselID
-	url = https://github.com/cran/dGAselID
 [submodule "dHSIC"]
 	path = dHSIC
 	url = https://github.com/cran/dHSIC
@@ -36824,9 +36800,6 @@
 [submodule "g.ridge"]
 	path = g.ridge
 	url = https://github.com/cran/g.ridge
-[submodule "g3viz"]
-	path = g3viz
-	url = https://github.com/cran/g3viz
 [submodule "g6R"]
 	path = g6R
 	url = https://github.com/cran/g6R
@@ -55124,9 +55097,6 @@
 [submodule "prinvars"]
 	path = prinvars
 	url = https://github.com/cran/prinvars
-[submodule "prioGene"]
-	path = prioGene
-	url = https://github.com/cran/prioGene
 [submodule "prior3D"]
 	path = prior3D
 	url = https://github.com/cran/prior3D
@@ -60491,9 +60461,6 @@
 [submodule "rtypeform"]
 	path = rtypeform
 	url = https://github.com/cran/rtypeform
-[submodule "rubias"]
-	path = rubias
-	url = https://github.com/cran/rubias
 [submodule "rucrdtw"]
 	path = rucrdtw
 	url = https://github.com/cran/rucrdtw
@@ -61247,9 +61214,6 @@
 [submodule "scPairs"]
 	path = scPairs
 	url = https://github.com/cran/scPairs
-[submodule "scPipeline"]
-	path = scPipeline
-	url = https://github.com/cran/scPipeline
 [submodule "scPloidy"]
 	path = scPloidy
 	url = https://github.com/cran/scPloidy
@@ -61259,9 +61223,6 @@
 [submodule "scRNAstat"]
 	path = scRNAstat
 	url = https://github.com/cran/scRNAstat
-[submodule "scRNAtools"]
-	path = scRNAtools
-	url = https://github.com/cran/scRNAtools
 [submodule "scROSHI"]
 	path = scROSHI
 	url = https://github.com/cran/scROSHI
@@ -65042,9 +65003,6 @@
 [submodule "ssd4mosaic"]
 	path = ssd4mosaic
 	url = https://github.com/cran/ssd4mosaic
-[submodule "ssdGSA"]
-	path = ssdGSA
-	url = https://github.com/cran/ssdGSA
 [submodule "ssddata"]
 	path = ssddata
 	url = https://github.com/cran/ssddata
@@ -70031,9 +69989,6 @@
 [submodule "varycoef"]
 	path = varycoef
 	url = https://github.com/cran/varycoef
-[submodule "vascr"]
-	path = vascr
-	url = https://github.com/cran/vascr
 [submodule "vasicek"]
 	path = vasicek
 	url = https://github.com/cran/vasicek
