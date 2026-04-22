@@ -362,6 +362,9 @@
 [submodule "ARPobservation"]
 	path = ARPobservation
 	url = https://github.com/cran/ARPobservation
+[submodule "ART"]
+	path = ART
+	url = https://github.com/cran/ART
 [submodule "ARTofR"]
 	path = ARTofR
 	url = https://github.com/cran/ARTofR
@@ -6566,6 +6569,9 @@
 [submodule "FuzzyImputationTest"]
 	path = FuzzyImputationTest
 	url = https://github.com/cran/FuzzyImputationTest
+[submodule "FuzzyLP"]
+	path = FuzzyLP
+	url = https://github.com/cran/FuzzyLP
 [submodule "FuzzyM"]
 	path = FuzzyM
 	url = https://github.com/cran/FuzzyM
@@ -8450,6 +8456,9 @@
 [submodule "INetTool"]
 	path = INetTool
 	url = https://github.com/cran/INetTool
+[submodule "IOBR"]
+	path = IOBR
+	url = https://github.com/cran/IOBR
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
@@ -11969,6 +11978,9 @@
 [submodule "NPflow"]
 	path = NPflow
 	url = https://github.com/cran/NPflow
+[submodule "NRMSampling"]
+	path = NRMSampling
+	url = https://github.com/cran/NRMSampling
 [submodule "NRejections"]
 	path = NRejections
 	url = https://github.com/cran/NRejections
@@ -12443,6 +12455,9 @@
 [submodule "OddsPlotty"]
 	path = OddsPlotty
 	url = https://github.com/cran/OddsPlotty
+[submodule "OdysseusCharacterizationModule"]
+	path = OdysseusCharacterizationModule
+	url = https://github.com/cran/OdysseusCharacterizationModule
 [submodule "OdysseusPathwayModule"]
 	path = OdysseusPathwayModule
 	url = https://github.com/cran/OdysseusPathwayModule
@@ -16853,6 +16868,9 @@
 [submodule "RobustCalibration"]
 	path = RobustCalibration
 	url = https://github.com/cran/RobustCalibration
+[submodule "RobustFlow"]
+	path = RobustFlow
+	url = https://github.com/cran/RobustFlow
 [submodule "RobustGaSP"]
 	path = RobustGaSP
 	url = https://github.com/cran/RobustGaSP
@@ -17201,6 +17219,9 @@
 [submodule "SASmarkdown"]
 	path = SASmarkdown
 	url = https://github.com/cran/SASmarkdown
+[submodule "SASmixed"]
+	path = SASmixed
+	url = https://github.com/cran/SASmixed
 [submodule "SAVER"]
 	path = SAVER
 	url = https://github.com/cran/SAVER
@@ -17903,6 +17924,9 @@
 [submodule "SQUIRE"]
 	path = SQUIRE
 	url = https://github.com/cran/SQUIRE
+[submodule "SRCS"]
+	path = SRCS
+	url = https://github.com/cran/SRCS
 [submodule "SRMData"]
 	path = SRMData
 	url = https://github.com/cran/SRMData
@@ -30452,6 +30476,9 @@
 [submodule "dcurves"]
 	path = dcurves
 	url = https://github.com/cran/dcurves
+[submodule "dcvar"]
+	path = dcvar
+	url = https://github.com/cran/dcvar
 [submodule "ddModel"]
 	path = ddModel
 	url = https://github.com/cran/ddModel
@@ -34640,6 +34667,9 @@
 [submodule "factorH"]
 	path = factorH
 	url = https://github.com/cran/factorH
+[submodule "factorana"]
+	path = factorana
+	url = https://github.com/cran/factorana
 [submodule "factorial2x2"]
 	path = factorial2x2
 	url = https://github.com/cran/factorial2x2
@@ -35468,6 +35498,9 @@
 [submodule "finity"]
 	path = finity
 	url = https://github.com/cran/finity
+[submodule "finlabR"]
+	path = finlabR
+	url = https://github.com/cran/finlabR
 [submodule "finna"]
 	path = finna
 	url = https://github.com/cran/finna
@@ -36953,9 +36986,15 @@
 [submodule "gamlss.data"]
 	path = gamlss.data
 	url = https://github.com/cran/gamlss.data
+[submodule "gamlss.demo"]
+	path = gamlss.demo
+	url = https://github.com/cran/gamlss.demo
 [submodule "gamlss.dist"]
 	path = gamlss.dist
 	url = https://github.com/cran/gamlss.dist
+[submodule "gamlss.foreach"]
+	path = gamlss.foreach
+	url = https://github.com/cran/gamlss.foreach
 [submodule "gamlss.inf"]
 	path = gamlss.inf
 	url = https://github.com/cran/gamlss.inf
@@ -42788,6 +42827,9 @@
 [submodule "ivaBSS"]
 	path = ivaBSS
 	url = https://github.com/cran/ivaBSS
+[submodule "ivcheck"]
+	path = ivcheck
+	url = https://github.com/cran/ivcheck
 [submodule "ivd"]
 	path = ivd
 	url = https://github.com/cran/ivd
@@ -43916,6 +43958,9 @@
 [submodule "lakemorpho"]
 	path = lakemorpho
 	url = https://github.com/cran/lakemorpho
+[submodule "laketemps"]
+	path = laketemps
+	url = https://github.com/cran/laketemps
 [submodule "lakhesis"]
 	path = lakhesis
 	url = https://github.com/cran/lakhesis
@@ -44795,6 +44840,9 @@
 [submodule "llm.api"]
 	path = llm.api
 	url = https://github.com/cran/llm.api
+[submodule "llmclean"]
+	path = llmclean
+	url = https://github.com/cran/llmclean
 [submodule "llmflow"]
 	path = llmflow
 	url = https://github.com/cran/llmflow
@@ -44981,6 +45029,9 @@
 [submodule "localgauss"]
 	path = localgauss
 	url = https://github.com/cran/localgauss
+[submodule "localsolver"]
+	path = localsolver
+	url = https://github.com/cran/localsolver
 [submodule "localsp"]
 	path = localsp
 	url = https://github.com/cran/localsp
@@ -46484,6 +46535,9 @@
 [submodule "mdatools"]
 	path = mdatools
 	url = https://github.com/cran/mdatools
+[submodule "mdbplyr"]
+	path = mdbplyr
+	url = https://github.com/cran/mdbplyr
 [submodule "mdbr"]
 	path = mdbr
 	url = https://github.com/cran/mdbr
@@ -46640,6 +46694,9 @@
 [submodule "mekko"]
 	path = mekko
 	url = https://github.com/cran/mekko
+[submodule "melidosData"]
+	path = melidosData
+	url = https://github.com/cran/melidosData
 [submodule "melt"]
 	path = melt
 	url = https://github.com/cran/melt
@@ -56621,6 +56678,9 @@
 [submodule "rCoinbase"]
 	path = rCoinbase
 	url = https://github.com/cran/rCoinbase
+[submodule "rCoreGage"]
+	path = rCoreGage
+	url = https://github.com/cran/rCoreGage
 [submodule "rD3plot"]
 	path = rD3plot
 	url = https://github.com/cran/rD3plot
@@ -56654,6 +56714,9 @@
 [submodule "rFSA"]
 	path = rFSA
 	url = https://github.com/cran/rFSA
+[submodule "rFerns"]
+	path = rFerns
+	url = https://github.com/cran/rFerns
 [submodule "rFocal"]
 	path = rFocal
 	url = https://github.com/cran/rFocal
@@ -57059,6 +57122,9 @@
 [submodule "randomizr"]
 	path = randomizr
 	url = https://github.com/cran/randomizr
+[submodule "randompack"]
+	path = randompack
+	url = https://github.com/cran/randompack
 [submodule "randotools"]
 	path = randotools
 	url = https://github.com/cran/randotools
@@ -58601,6 +58667,9 @@
 [submodule "retel"]
 	path = retel
 	url = https://github.com/cran/retel
+[submodule "rethinker"]
+	path = rethinker
+	url = https://github.com/cran/rethinker
 [submodule "rethnicity"]
 	path = rethnicity
 	url = https://github.com/cran/rethnicity
@@ -60317,9 +60386,15 @@
 [submodule "rtabulator"]
 	path = rtabulator
 	url = https://github.com/cran/rtabulator
+[submodule "rtape"]
+	path = rtape
+	url = https://github.com/cran/rtape
 [submodule "rtdists"]
 	path = rtdists
 	url = https://github.com/cran/rtdists
+[submodule "rtematres"]
+	path = rtematres
+	url = https://github.com/cran/rtematres
 [submodule "rtemis"]
 	path = rtemis
 	url = https://github.com/cran/rtemis
@@ -61523,6 +61598,9 @@
 [submodule "scrutiny"]
 	path = scrutiny
 	url = https://github.com/cran/scrutiny
+[submodule "scrutr"]
+	path = scrutr
+	url = https://github.com/cran/scrutr
 [submodule "scrypt"]
 	path = scrypt
 	url = https://github.com/cran/scrypt
@@ -63503,6 +63581,9 @@
 [submodule "slurmR"]
 	path = slurmR
 	url = https://github.com/cran/slurmR
+[submodule "slxr"]
+	path = slxr
+	url = https://github.com/cran/slxr
 [submodule "sm"]
 	path = sm
 	url = https://github.com/cran/sm
@@ -64052,6 +64133,9 @@
 [submodule "spEDM"]
 	path = spEDM
 	url = https://github.com/cran/spEDM
+[submodule "spFFBS"]
+	path = spFFBS
+	url = https://github.com/cran/spFFBS
 [submodule "spFSR"]
 	path = spFSR
 	url = https://github.com/cran/spFSR
@@ -69092,6 +69176,9 @@
 [submodule "tuneRanger"]
 	path = tuneRanger
 	url = https://github.com/cran/tuneRanger
+[submodule "tuple"]
+	path = tuple
+	url = https://github.com/cran/tuple
 [submodule "turboEM"]
 	path = turboEM
 	url = https://github.com/cran/turboEM
@@ -70937,6 +71024,9 @@
 [submodule "weirs"]
 	path = weirs
 	url = https://github.com/cran/weirs
+[submodule "welchADF"]
+	path = welchADF
+	url = https://github.com/cran/welchADF
 [submodule "welo"]
 	path = welo
 	url = https://github.com/cran/welo
