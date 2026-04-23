@@ -51131,9 +51131,6 @@
 [submodule "occ"]
 	path = occ
 	url = https://github.com/cran/occ
-[submodule "occCite"]
-	path = occCite
-	url = https://github.com/cran/occCite
 [submodule "occumb"]
 	path = occumb
 	url = https://github.com/cran/occumb
@@ -54041,9 +54038,6 @@
 [submodule "plnr"]
 	path = plnr
 	url = https://github.com/cran/plnr
-[submodule "plogr"]
-	path = plogr
-	url = https://github.com/cran/plogr
 [submodule "plot.matrix"]
 	path = plot.matrix
 	url = https://github.com/cran/plot.matrix
