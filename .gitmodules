@@ -4901,6 +4901,9 @@
 [submodule "Dowd"]
 	path = Dowd
 	url = https://github.com/cran/Dowd
+[submodule "DownBallotR"]
+	path = DownBallotR
+	url = https://github.com/cran/DownBallotR
 [submodule "Dpit"]
 	path = Dpit
 	url = https://github.com/cran/Dpit
@@ -8723,6 +8726,9 @@
 [submodule "Inflongitudinal"]
 	path = Inflongitudinal
 	url = https://github.com/cran/Inflongitudinal
+[submodule "InfluenceBorrowing"]
+	path = InfluenceBorrowing
+	url = https://github.com/cran/InfluenceBorrowing
 [submodule "InfoTrad"]
 	path = InfoTrad
 	url = https://github.com/cran/InfoTrad
@@ -16805,6 +16811,9 @@
 [submodule "RoBTT"]
 	path = RoBTT
 	url = https://github.com/cran/RoBTT
+[submodule "RoME"]
+	path = RoME
+	url = https://github.com/cran/RoME
 [submodule "RobAStBase"]
 	path = RobAStBase
 	url = https://github.com/cran/RobAStBase
@@ -23438,6 +23447,9 @@
 [submodule "baRulho"]
 	path = baRulho
 	url = https://github.com/cran/baRulho
+[submodule "babebi"]
+	path = babebi
+	url = https://github.com/cran/babebi
 [submodule "babel"]
 	path = babel
 	url = https://github.com/cran/babel
@@ -31520,6 +31532,9 @@
 [submodule "distill"]
 	path = distill
 	url = https://github.com/cran/distill
+[submodule "distilleR"]
+	path = distilleR
+	url = https://github.com/cran/distilleR
 [submodule "distillery"]
 	path = distillery
 	url = https://github.com/cran/distillery
@@ -32414,6 +32429,9 @@
 [submodule "dynamite"]
 	path = dynamite
 	url = https://github.com/cran/dynamite
+[submodule "dynasim"]
+	path = dynasim
+	url = https://github.com/cran/dynasim
 [submodule "dynatop"]
 	path = dynatop
 	url = https://github.com/cran/dynatop
@@ -35177,6 +35195,9 @@
 [submodule "fdatest"]
 	path = fdatest
 	url = https://github.com/cran/fdatest
+[submodule "fdclassify"]
+	path = fdclassify
+	url = https://github.com/cran/fdclassify
 [submodule "fddm"]
 	path = fddm
 	url = https://github.com/cran/fddm
@@ -42632,6 +42653,9 @@
 [submodule "irtreliability"]
 	path = irtreliability
 	url = https://github.com/cran/irtreliability
+[submodule "irtsim"]
+	path = irtsim
+	url = https://github.com/cran/irtsim
 [submodule "isa2"]
 	path = isa2
 	url = https://github.com/cran/isa2
@@ -43550,6 +43574,9 @@
 [submodule "kgschart"]
 	path = kgschart
 	url = https://github.com/cran/kgschart
+[submodule "khaos"]
+	path = khaos
+	url = https://github.com/cran/khaos
 [submodule "khisr"]
 	path = khisr
 	url = https://github.com/cran/khisr
@@ -53315,6 +53342,9 @@
 [submodule "petersenlab"]
 	path = petersenlab
 	url = https://github.com/cran/petersenlab
+[submodule "peticontrast"]
+	path = peticontrast
+	url = https://github.com/cran/peticontrast
 [submodule "petrinetR"]
 	path = petrinetR
 	url = https://github.com/cran/petrinetR
@@ -57077,6 +57107,9 @@
 [submodule "randomForestExplainer"]
 	path = randomForestExplainer
 	url = https://github.com/cran/randomForestExplainer
+[submodule "randomForestRHF"]
+	path = randomForestRHF
+	url = https://github.com/cran/randomForestRHF
 [submodule "randomForestSRC"]
 	path = randomForestSRC
 	url = https://github.com/cran/randomForestSRC
@@ -66149,6 +66182,9 @@
 [submodule "survSpearman"]
 	path = survSpearman
 	url = https://github.com/cran/survSpearman
+[submodule "survalis"]
+	path = survalis
+	url = https://github.com/cran/survalis
 [submodule "survcompare"]
 	path = survcompare
 	url = https://github.com/cran/survcompare
