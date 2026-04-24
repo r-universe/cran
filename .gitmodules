@@ -17060,6 +17060,9 @@
 [submodule "Rthingsboard"]
 	path = Rthingsboard
 	url = https://github.com/cran/Rthingsboard
+[submodule "Rtinycc"]
+	path = Rtinycc
+	url = https://github.com/cran/Rtinycc
 [submodule "Rtnmin"]
 	path = Rtnmin
 	url = https://github.com/cran/Rtnmin
@@ -22490,6 +22493,9 @@
 [submodule "antaresViz"]
 	path = antaresViz
 	url = https://github.com/cran/antaresViz
+[submodule "antedep"]
+	path = antedep
+	url = https://github.com/cran/antedep
 [submodule "anthro"]
 	path = anthro
 	url = https://github.com/cran/anthro
@@ -33737,6 +33743,9 @@
 [submodule "epoxy"]
 	path = epoxy
 	url = https://github.com/cran/epoxy
+[submodule "eppoFindeR"]
+	path = eppoFindeR
+	url = https://github.com/cran/eppoFindeR
 [submodule "epr"]
 	path = epr
 	url = https://github.com/cran/epr
@@ -40898,6 +40907,9 @@
 [submodule "hot.deck"]
 	path = hot.deck
 	url = https://github.com/cran/hot.deck
+[submodule "hotpatchR"]
+	path = hotpatchR
+	url = https://github.com/cran/hotpatchR
 [submodule "hotspot"]
 	path = hotspot
 	url = https://github.com/cran/hotspot
@@ -50849,6 +50861,9 @@
 [submodule "npdsim"]
 	path = npdsim
 	url = https://github.com/cran/npdsim
+[submodule "npfseir"]
+	path = npfseir
+	url = https://github.com/cran/npfseir
 [submodule "nph"]
 	path = nph
 	url = https://github.com/cran/nph
@@ -51860,6 +51875,9 @@
 [submodule "ordinalForest"]
 	path = ordinalForest
 	url = https://github.com/cran/ordinalForest
+[submodule "ordinalGOF"]
+	path = ordinalGOF
+	url = https://github.com/cran/ordinalGOF
 [submodule "ordinalLBM"]
 	path = ordinalLBM
 	url = https://github.com/cran/ordinalLBM
@@ -56066,6 +56084,9 @@
 [submodule "qkerntool"]
 	path = qkerntool
 	url = https://github.com/cran/qkerntool
+[submodule "qkiosk"]
+	path = qkiosk
+	url = https://github.com/cran/qkiosk
 [submodule "qlcData"]
 	path = qlcData
 	url = https://github.com/cran/qlcData
@@ -66254,6 +66275,9 @@
 [submodule "survinger"]
 	path = survinger
 	url = https://github.com/cran/survinger
+[submodule "surviv"]
+	path = surviv
+	url = https://github.com/cran/surviv
 [submodule "survival"]
 	path = survival
 	url = https://github.com/cran/survival
@@ -68348,6 +68372,9 @@
 [submodule "toolbox"]
 	path = toolbox
 	url = https://github.com/cran/toolbox
+[submodule "toolero"]
+	path = toolero
+	url = https://github.com/cran/toolero
 [submodule "toolmaRk"]
 	path = toolmaRk
 	url = https://github.com/cran/toolmaRk
