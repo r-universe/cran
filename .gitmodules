@@ -1328,6 +1328,9 @@
 [submodule "BRPL"]
 	path = BRPL
 	url = https://github.com/cran/BRPL
+[submodule "BRRAT"]
+	path = BRRAT
+	url = https://github.com/cran/BRRAT
 [submodule "BRcal"]
 	path = BRcal
 	url = https://github.com/cran/BRcal
@@ -6683,6 +6686,9 @@
 [submodule "GB5mcPred"]
 	path = GB5mcPred
 	url = https://github.com/cran/GB5mcPred
+[submodule "GBASS"]
+	path = GBASS
+	url = https://github.com/cran/GBASS
 [submodule "GBJ"]
 	path = GBJ
 	url = https://github.com/cran/GBJ
@@ -9110,6 +9116,9 @@
 [submodule "KRMM"]
 	path = KRMM
 	url = https://github.com/cran/KRMM
+[submodule "KRONX"]
+	path = KRONX
+	url = https://github.com/cran/KRONX
 [submodule "KSA"]
 	path = KSA
 	url = https://github.com/cran/KSA
@@ -13397,6 +13406,9 @@
 [submodule "PSinference"]
 	path = PSinference
 	url = https://github.com/cran/PSinference
+[submodule "PSor"]
+	path = PSor
+	url = https://github.com/cran/PSor
 [submodule "PSpower"]
 	path = PSpower
 	url = https://github.com/cran/PSpower
@@ -28709,6 +28721,9 @@
 [submodule "convoSPAT"]
 	path = convoSPAT
 	url = https://github.com/cran/convoSPAT
+[submodule "cooccure"]
+	path = cooccure
+	url = https://github.com/cran/cooccure
 [submodule "cookiecutter"]
 	path = cookiecutter
 	url = https://github.com/cran/cookiecutter
@@ -32315,6 +32330,9 @@
 [submodule "duckduckr"]
 	path = duckduckr
 	url = https://github.com/cran/duckduckr
+[submodule "duckh3"]
+	path = duckh3
+	url = https://github.com/cran/duckh3
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/cran/duckplyr
@@ -44495,6 +44513,9 @@
 [submodule "lfe"]
 	path = lfe
 	url = https://github.com/cran/lfe
+[submodule "lfebd3"]
+	path = lfebd3
+	url = https://github.com/cran/lfebd3
 [submodule "lfl"]
 	path = lfl
 	url = https://github.com/cran/lfl
@@ -48341,6 +48362,9 @@
 [submodule "modelr"]
 	path = modelr
 	url = https://github.com/cran/modelr
+[submodule "modelscompete4"]
+	path = modelscompete4
+	url = https://github.com/cran/modelscompete4
 [submodule "modelsummary"]
 	path = modelsummary
 	url = https://github.com/cran/modelsummary
@@ -52403,6 +52427,9 @@
 [submodule "paletteknife"]
 	path = paletteknife
 	url = https://github.com/cran/paletteknife
+[submodule "palettephines"]
+	path = palettephines
+	url = https://github.com/cran/palettephines
 [submodule "palettes"]
 	path = palettes
 	url = https://github.com/cran/palettes
@@ -70520,6 +70547,9 @@
 [submodule "vitals"]
 	path = vitals
 	url = https://github.com/cran/vitals
+[submodule "vivaglint"]
+	path = vivaglint
+	url = https://github.com/cran/vivaglint
 [submodule "vivainsights"]
 	path = vivainsights
 	url = https://github.com/cran/vivainsights
