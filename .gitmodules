@@ -68762,6 +68762,9 @@
 [submodule "treemapify"]
 	path = treemapify
 	url = https://github.com/cran/treemapify
+[submodule "treeshap"]
+	path = treeshap
+	url = https://github.com/cran/treeshap
 [submodule "treesitter"]
 	path = treesitter
 	url = https://github.com/cran/treesitter
