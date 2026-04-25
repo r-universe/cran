@@ -101,9 +101,6 @@
 [submodule "ADPF"]
 	path = ADPF
 	url = https://github.com/cran/ADPF
-[submodule "ADPclust"]
-	path = ADPclust
-	url = https://github.com/cran/ADPclust
 [submodule "ADSIHT"]
 	path = ADSIHT
 	url = https://github.com/cran/ADSIHT
@@ -21590,9 +21587,6 @@
 [submodule "adaptMCMC"]
 	path = adaptMCMC
 	url = https://github.com/cran/adaptMCMC
-[submodule "adaptMT"]
-	path = adaptMT
-	url = https://github.com/cran/adaptMT
 [submodule "adaptTest"]
 	path = adaptTest
 	url = https://github.com/cran/adaptTest
