@@ -24911,6 +24911,9 @@
 [submodule "blastar"]
 	path = blastar
 	url = https://github.com/cran/blastar
+[submodule "blaster"]
+	path = blaster
+	url = https://github.com/cran/blaster
 [submodule "blastula"]
 	path = blastula
 	url = https://github.com/cran/blastula
