@@ -6515,6 +6515,9 @@
 [submodule "Fragman"]
 	path = Fragman
 	url = https://github.com/cran/Fragman
+[submodule "FrailtyCompRisk"]
+	path = FrailtyCompRisk
+	url = https://github.com/cran/FrailtyCompRisk
 [submodule "Frames2"]
 	path = Frames2
 	url = https://github.com/cran/Frames2
@@ -43550,6 +43553,9 @@
 [submodule "keyholder"]
 	path = keyholder
 	url = https://github.com/cran/keyholder
+[submodule "keylist"]
+	path = keylist
+	url = https://github.com/cran/keylist
 [submodule "keyperm"]
 	path = keyperm
 	url = https://github.com/cran/keyperm
