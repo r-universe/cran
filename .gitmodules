@@ -31850,6 +31850,9 @@
 [submodule "documenter"]
 	path = documenter
 	url = https://github.com/cran/documenter
+[submodule "documentosbr"]
+	path = documentosbr
+	url = https://github.com/cran/documentosbr
 [submodule "docxtractr"]
 	path = docxtractr
 	url = https://github.com/cran/docxtractr
@@ -48773,6 +48776,9 @@
 [submodule "mpwR"]
 	path = mpwR
 	url = https://github.com/cran/mpwR
+[submodule "mqriskR"]
+	path = mqriskR
+	url = https://github.com/cran/mqriskR
 [submodule "mr.mashr"]
 	path = mr.mashr
 	url = https://github.com/cran/mr.mashr
@@ -59981,6 +59987,9 @@
 [submodule "roundyh"]
 	path = roundyh
 	url = https://github.com/cran/roundyh
+[submodule "routing"]
+	path = routing
+	url = https://github.com/cran/routing
 [submodule "routr"]
 	path = routr
 	url = https://github.com/cran/routr
