@@ -66308,9 +66308,6 @@
 [submodule "survivalMPL"]
 	path = survivalMPL
 	url = https://github.com/cran/survivalMPL
-[submodule "survivalMPLdc"]
-	path = survivalMPLdc
-	url = https://github.com/cran/survivalMPLdc
 [submodule "survivalPLANN"]
 	path = survivalPLANN
 	url = https://github.com/cran/survivalPLANN
