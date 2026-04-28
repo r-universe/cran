@@ -5129,6 +5129,9 @@
 [submodule "EHRmuse"]
 	path = EHRmuse
 	url = https://github.com/cran/EHRmuse
+[submodule "EHRtemporalVariability"]
+	path = EHRtemporalVariability
+	url = https://github.com/cran/EHRtemporalVariability
 [submodule "EIAapi"]
 	path = EIAapi
 	url = https://github.com/cran/EIAapi
