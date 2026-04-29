@@ -1976,6 +1976,9 @@
 [submodule "BivGeo"]
 	path = BivGeo
 	url = https://github.com/cran/BivGeo
+[submodule "BivLaplaceRL"]
+	path = BivLaplaceRL
+	url = https://github.com/cran/BivLaplaceRL
 [submodule "BivRec"]
 	path = BivRec
 	url = https://github.com/cran/BivRec
@@ -5405,6 +5408,9 @@
 [submodule "EasyMx"]
 	path = EasyMx
 	url = https://github.com/cran/EasyMx
+[submodule "EasyStat"]
+	path = EasyStat
+	url = https://github.com/cran/EasyStat
 [submodule "EbayesThresh"]
 	path = EbayesThresh
 	url = https://github.com/cran/EbayesThresh
@@ -10214,6 +10220,9 @@
 [submodule "MChtest"]
 	path = MChtest
 	url = https://github.com/cran/MChtest
+[submodule "MCseqReplic"]
+	path = MCseqReplic
+	url = https://github.com/cran/MCseqReplic
 [submodule "MD2sample"]
 	path = MD2sample
 	url = https://github.com/cran/MD2sample
@@ -40277,6 +40286,9 @@
 [submodule "hatemicoint"]
 	path = hatemicoint
 	url = https://github.com/cran/hatemicoint
+[submodule "hatsurvey"]
+	path = hatsurvey
+	url = https://github.com/cran/hatsurvey
 [submodule "havel"]
 	path = havel
 	url = https://github.com/cran/havel
@@ -43151,6 +43163,9 @@
 [submodule "jfa"]
 	path = jfa
 	url = https://github.com/cran/jfa
+[submodule "jgd"]
+	path = jgd
+	url = https://github.com/cran/jgd
 [submodule "jgsbook"]
 	path = jgsbook
 	url = https://github.com/cran/jgsbook
@@ -45005,6 +45020,9 @@
 [submodule "llmclean"]
 	path = llmclean
 	url = https://github.com/cran/llmclean
+[submodule "llmcoder"]
+	path = llmcoder
+	url = https://github.com/cran/llmcoder
 [submodule "llmflow"]
 	path = llmflow
 	url = https://github.com/cran/llmflow
@@ -48971,6 +48989,9 @@
 [submodule "mrregression"]
 	path = mrregression
 	url = https://github.com/cran/mrregression
+[submodule "mrtsSphere"]
+	path = mrtsSphere
+	url = https://github.com/cran/mrtsSphere
 [submodule "msPCA"]
 	path = msPCA
 	url = https://github.com/cran/msPCA
@@ -51743,6 +51764,9 @@
 [submodule "opencage"]
 	path = opencage
 	url = https://github.com/cran/opencage
+[submodule "opencis"]
+	path = opencis
+	url = https://github.com/cran/opencis
 [submodule "opencpu"]
 	path = opencpu
 	url = https://github.com/cran/opencpu
@@ -53399,6 +53423,9 @@
 [submodule "peptoolkit"]
 	path = peptoolkit
 	url = https://github.com/cran/peptoolkit
+[submodule "pequod"]
+	path = pequod
+	url = https://github.com/cran/pequod
 [submodule "perARMA"]
 	path = perARMA
 	url = https://github.com/cran/perARMA
@@ -63077,6 +63104,9 @@
 [submodule "shinyscreenshot"]
 	path = shinyscreenshot
 	url = https://github.com/cran/shinyscreenshot
+[submodule "shinyseo"]
+	path = shinyseo
+	url = https://github.com/cran/shinyseo
 [submodule "shinyservicebot"]
 	path = shinyservicebot
 	url = https://github.com/cran/shinyservicebot
