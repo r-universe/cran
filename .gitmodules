@@ -60185,6 +60185,9 @@
 [submodule "rpca"]
 	path = rpca
 	url = https://github.com/cran/rpca
+[submodule "rpcss"]
+	path = rpcss
+	url = https://github.com/cran/rpcss
 [submodule "rpf"]
 	path = rpf
 	url = https://github.com/cran/rpf
