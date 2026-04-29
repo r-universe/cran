@@ -1874,6 +1874,9 @@
 [submodule "Binarize"]
 	path = Binarize
 	url = https://github.com/cran/Binarize
+[submodule "BinaryDosage"]
+	path = BinaryDosage
+	url = https://github.com/cran/BinaryDosage
 [submodule "BinaryEMVS"]
 	path = BinaryEMVS
 	url = https://github.com/cran/BinaryEMVS
@@ -33509,6 +33512,9 @@
 [submodule "enaho"]
 	path = enaho
 	url = https://github.com/cran/enaho
+[submodule "encharter"]
+	path = encharter
+	url = https://github.com/cran/encharter
 [submodule "encode"]
 	path = encode
 	url = https://github.com/cran/encode
@@ -44186,6 +44192,9 @@
 [submodule "lans2r"]
 	path = lans2r
 	url = https://github.com/cran/lans2r
+[submodule "lapop"]
+	path = lapop
+	url = https://github.com/cran/lapop
 [submodule "lares"]
 	path = lares
 	url = https://github.com/cran/lares
