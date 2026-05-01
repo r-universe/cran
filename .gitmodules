@@ -1523,9 +1523,6 @@
 [submodule "BayesDIP"]
 	path = BayesDIP
 	url = https://github.com/cran/BayesDIP
-[submodule "BayesDLMfMRI"]
-	path = BayesDLMfMRI
-	url = https://github.com/cran/BayesDLMfMRI
 [submodule "BayesDecon"]
 	path = BayesDecon
 	url = https://github.com/cran/BayesDecon
@@ -11966,9 +11963,6 @@
 [submodule "NNS"]
 	path = NNS
 	url = https://github.com/cran/NNS
-[submodule "NNTbiomarker"]
-	path = NNTbiomarker
-	url = https://github.com/cran/NNTbiomarker
 [submodule "NO.PING.PONG"]
 	path = NO.PING.PONG
 	url = https://github.com/cran/NO.PING.PONG
@@ -13253,9 +13247,6 @@
 [submodule "POT"]
 	path = POT
 	url = https://github.com/cran/POT
-[submodule "POUMM"]
-	path = POUMM
-	url = https://github.com/cran/POUMM
 [submodule "POV"]
 	path = POV
 	url = https://github.com/cran/POV
@@ -16292,9 +16283,6 @@
 [submodule "RcppJagger"]
 	path = RcppJagger
 	url = https://github.com/cran/RcppJagger
-[submodule "RcppLbfgsBlaze"]
-	path = RcppLbfgsBlaze
-	url = https://github.com/cran/RcppLbfgsBlaze
 [submodule "RcppML"]
 	path = RcppML
 	url = https://github.com/cran/RcppML
@@ -16646,9 +16634,6 @@
 [submodule "ResultModelManager"]
 	path = ResultModelManager
 	url = https://github.com/cran/ResultModelManager
-[submodule "ReturnCurves"]
-	path = ReturnCurves
-	url = https://github.com/cran/ReturnCurves
 [submodule "RevGadgets"]
 	path = RevGadgets
 	url = https://github.com/cran/RevGadgets
@@ -21164,9 +21149,6 @@
 [submodule "XR"]
 	path = XR
 	url = https://github.com/cran/XR
-[submodule "XRPython"]
-	path = XRPython
-	url = https://github.com/cran/XRPython
 [submodule "XRSCC"]
 	path = XRSCC
 	url = https://github.com/cran/XRSCC
@@ -22397,9 +22379,6 @@
 [submodule "ammiBayes"]
 	path = ammiBayes
 	url = https://github.com/cran/ammiBayes
-[submodule "ammistability"]
-	path = ammistability
-	url = https://github.com/cran/ammistability
 [submodule "amp"]
 	path = amp
 	url = https://github.com/cran/amp
@@ -22625,9 +22604,6 @@
 [submodule "apathe"]
 	path = apathe
 	url = https://github.com/cran/apathe
-[submodule "apc"]
-	path = apc
-	url = https://github.com/cran/apc
 [submodule "apca"]
 	path = apca
 	url = https://github.com/cran/apca
@@ -35816,9 +35792,6 @@
 [submodule "fixr"]
 	path = fixr
 	url = https://github.com/cran/fixr
-[submodule "fixtuRes"]
-	path = fixtuRes
-	url = https://github.com/cran/fixtuRes
 [submodule "fizzbuzzR"]
 	path = fizzbuzzR
 	url = https://github.com/cran/fizzbuzzR
@@ -56495,9 +56468,6 @@
 [submodule "quadrupen"]
 	path = quadrupen
 	url = https://github.com/cran/quadrupen
-[submodule "quadtree"]
-	path = quadtree
-	url = https://github.com/cran/quadtree
 [submodule "qualV"]
 	path = qualV
 	url = https://github.com/cran/qualV
@@ -57164,9 +57134,6 @@
 [submodule "ra4bayesmeta"]
 	path = ra4bayesmeta
 	url = https://github.com/cran/ra4bayesmeta
-[submodule "rabi"]
-	path = rabi
-	url = https://github.com/cran/rabi
 [submodule "racademyocean"]
 	path = racademyocean
 	url = https://github.com/cran/racademyocean
@@ -68291,9 +68258,6 @@
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/cran/timereg
-[submodule "timeseriesdb"]
-	path = timeseriesdb
-	url = https://github.com/cran/timeseriesdb
 [submodule "timetk"]
 	path = timetk
 	url = https://github.com/cran/timetk
