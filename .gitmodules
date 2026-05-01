@@ -7676,6 +7676,9 @@
 [submodule "GulFM"]
 	path = GulFM
 	url = https://github.com/cran/GulFM
+[submodule "GxEScanR"]
+	path = GxEScanR
+	url = https://github.com/cran/GxEScanR
 [submodule "GxEprs"]
 	path = GxEprs
 	url = https://github.com/cran/GxEprs
