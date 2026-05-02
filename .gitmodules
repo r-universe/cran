@@ -7937,6 +7937,9 @@
 [submodule "HSPOR"]
 	path = HSPOR
 	url = https://github.com/cran/HSPOR
+[submodule "HTDV"]
+	path = HTDV
+	url = https://github.com/cran/HTDV
 [submodule "HTGM"]
 	path = HTGM
 	url = https://github.com/cran/HTGM
@@ -7946,6 +7949,9 @@
 [submodule "HTGM3D"]
 	path = HTGM3D
 	url = https://github.com/cran/HTGM3D
+[submodule "HTGM4D"]
+	path = HTGM4D
+	url = https://github.com/cran/HTGM4D
 [submodule "HTLR"]
 	path = HTLR
 	url = https://github.com/cran/HTLR
@@ -13301,6 +13307,9 @@
 [submodule "PRANA"]
 	path = PRANA
 	url = https://github.com/cran/PRANA
+[submodule "PRBMSdesigns"]
+	path = PRBMSdesigns
+	url = https://github.com/cran/PRBMSdesigns
 [submodule "PRDA"]
 	path = PRDA
 	url = https://github.com/cran/PRDA
@@ -32315,9 +32324,6 @@
 [submodule "dti"]
 	path = dti
 	url = https://github.com/cran/dti
-[submodule "dtlcor"]
-	path = dtlcor
-	url = https://github.com/cran/dtlcor
 [submodule "dtlg"]
 	path = dtlg
 	url = https://github.com/cran/dtlg
@@ -38021,6 +38027,9 @@
 [submodule "ggQQunif"]
 	path = ggQQunif
 	url = https://github.com/cran/ggQQunif
+[submodule "ggRandomForests"]
+	path = ggRandomForests
+	url = https://github.com/cran/ggRandomForests
 [submodule "ggResidpanel"]
 	path = ggResidpanel
 	url = https://github.com/cran/ggResidpanel
@@ -38540,6 +38549,9 @@
 [submodule "ggscidca"]
 	path = ggscidca
 	url = https://github.com/cran/ggscidca
+[submodule "ggscribe"]
+	path = ggscribe
+	url = https://github.com/cran/ggscribe
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/cran/ggseg
@@ -43223,6 +43235,9 @@
 [submodule "joinless"]
 	path = joinless
 	url = https://github.com/cran/joinless
+[submodule "joinpointR"]
+	path = joinpointR
+	url = https://github.com/cran/joinpointR
 [submodule "joinspy"]
 	path = joinspy
 	url = https://github.com/cran/joinspy
@@ -61382,6 +61397,9 @@
 [submodule "savonliquide"]
 	path = savonliquide
 	url = https://github.com/cran/savonliquide
+[submodule "savvyGLM"]
+	path = savvyGLM
+	url = https://github.com/cran/savvyGLM
 [submodule "savvyPR"]
 	path = savvyPR
 	url = https://github.com/cran/savvyPR
@@ -67097,9 +67115,6 @@
 [submodule "tarchetypes"]
 	path = tarchetypes
 	url = https://github.com/cran/tarchetypes
-[submodule "tarchives"]
-	path = tarchives
-	url = https://github.com/cran/tarchives
 [submodule "tardis"]
 	path = tardis
 	url = https://github.com/cran/tardis
