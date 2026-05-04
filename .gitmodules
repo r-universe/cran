@@ -3884,6 +3884,9 @@
 [submodule "DAMOCLES"]
 	path = DAMOCLES
 	url = https://github.com/cran/DAMOCLES
+[submodule "DANDELION"]
+	path = DANDELION
+	url = https://github.com/cran/DANDELION
 [submodule "DATAstudio"]
 	path = DATAstudio
 	url = https://github.com/cran/DATAstudio
@@ -4868,6 +4871,9 @@
 [submodule "DiversificationR"]
 	path = DiversificationR
 	url = https://github.com/cran/DiversificationR
+[submodule "DiversityStats"]
+	path = DiversityStats
+	url = https://github.com/cran/DiversityStats
 [submodule "DoE.MIParray"]
 	path = DoE.MIParray
 	url = https://github.com/cran/DoE.MIParray
@@ -6872,6 +6878,9 @@
 [submodule "GGIRread"]
 	path = GGIRread
 	url = https://github.com/cran/GGIRread
+[submodule "GGMncv"]
+	path = GGMncv
+	url = https://github.com/cran/GGMncv
 [submodule "GGMridge"]
 	path = GGMridge
 	url = https://github.com/cran/GGMridge
@@ -9113,6 +9122,9 @@
 [submodule "KMLtoSHAPE"]
 	path = KMLtoSHAPE
 	url = https://github.com/cran/KMLtoSHAPE
+[submodule "KMT"]
+	path = KMT
+	url = https://github.com/cran/KMT
 [submodule "KMsurv"]
 	path = KMsurv
 	url = https://github.com/cran/KMsurv
@@ -13658,6 +13670,9 @@
 [submodule "PathwayVote"]
 	path = PathwayVote
 	url = https://github.com/cran/PathwayVote
+[submodule "PatientGenerator"]
+	path = PatientGenerator
+	url = https://github.com/cran/PatientGenerator
 [submodule "PatientLevelPrediction"]
 	path = PatientLevelPrediction
 	url = https://github.com/cran/PatientLevelPrediction
@@ -18722,6 +18737,9 @@
 [submodule "SmoothHazard"]
 	path = SmoothHazard
 	url = https://github.com/cran/SmoothHazard
+[submodule "SmoothPLS"]
+	path = SmoothPLS
+	url = https://github.com/cran/SmoothPLS
 [submodule "Snake"]
 	path = Snake
 	url = https://github.com/cran/Snake
@@ -29012,6 +29030,9 @@
 [submodule "corset"]
 	path = corset
 	url = https://github.com/cran/corset
+[submodule "corteza"]
+	path = corteza
+	url = https://github.com/cran/corteza
 [submodule "corto"]
 	path = corto
 	url = https://github.com/cran/corto
@@ -29033,6 +29054,9 @@
 [submodule "cosinor2"]
 	path = cosinor2
 	url = https://github.com/cran/cosinor2
+[submodule "cosmic"]
+	path = cosmic
+	url = https://github.com/cran/cosmic
 [submodule "cosmicsig"]
 	path = cosmicsig
 	url = https://github.com/cran/cosmicsig
@@ -38948,6 +38972,9 @@
 [submodule "glmSTARMA"]
 	path = glmSTARMA
 	url = https://github.com/cran/glmSTARMA
+[submodule "glmbayes"]
+	path = glmbayes
+	url = https://github.com/cran/glmbayes
 [submodule "glmbb"]
 	path = glmbb
 	url = https://github.com/cran/glmbb
@@ -53402,6 +53429,9 @@
 [submodule "penppml"]
 	path = penppml
 	url = https://github.com/cran/penppml
+[submodule "pensar"]
+	path = pensar
+	url = https://github.com/cran/pensar
 [submodule "pense"]
 	path = pense
 	url = https://github.com/cran/pense
