@@ -4385,6 +4385,9 @@
 [submodule "DT"]
 	path = DT
 	url = https://github.com/cran/DT
+[submodule "DT2"]
+	path = DT2
+	url = https://github.com/cran/DT2
 [submodule "DTAT"]
 	path = DTAT
 	url = https://github.com/cran/DTAT
@@ -40496,6 +40499,9 @@
 [submodule "heatmaply"]
 	path = heatmaply
 	url = https://github.com/cran/heatmaply
+[submodule "heattree"]
+	path = heattree
+	url = https://github.com/cran/heattree
 [submodule "heatwaveR"]
 	path = heatwaveR
 	url = https://github.com/cran/heatwaveR
@@ -52658,6 +52664,9 @@
 [submodule "panelsummary"]
 	path = panelsummary
 	url = https://github.com/cran/panelsummary
+[submodule "paneltests"]
+	path = paneltests
+	url = https://github.com/cran/paneltests
 [submodule "panelvar"]
 	path = panelvar
 	url = https://github.com/cran/panelvar
