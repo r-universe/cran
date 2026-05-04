@@ -5642,6 +5642,9 @@
 [submodule "ErlangC"]
 	path = ErlangC
 	url = https://github.com/cran/ErlangC
+[submodule "ErrorTracer"]
+	path = ErrorTracer
+	url = https://github.com/cran/ErrorTracer
 [submodule "EstCRM"]
 	path = EstCRM
 	url = https://github.com/cran/EstCRM
@@ -8477,9 +8480,6 @@
 [submodule "INLAspacetime"]
 	path = INLAspacetime
 	url = https://github.com/cran/INLAspacetime
-[submodule "INLAtools"]
-	path = INLAtools
-	url = https://github.com/cran/INLAtools
 [submodule "INLAvaan"]
 	path = INLAvaan
 	url = https://github.com/cran/INLAvaan
@@ -9503,6 +9503,9 @@
 [submodule "LNPar"]
 	path = LNPar
 	url = https://github.com/cran/LNPar
+[submodule "LOCOM2"]
+	path = LOCOM2
+	url = https://github.com/cran/LOCOM2
 [submodule "LOCUS"]
 	path = LOCUS
 	url = https://github.com/cran/LOCUS
@@ -30368,6 +30371,9 @@
 [submodule "datastat"]
 	path = datastat
 	url = https://github.com/cran/datastat
+[submodule "datasusr"]
+	path = datasusr
+	url = https://github.com/cran/datasusr
 [submodule "dataverifyr"]
 	path = dataverifyr
 	url = https://github.com/cran/dataverifyr
@@ -38045,6 +38051,9 @@
 [submodule "ggVennDiagram"]
 	path = ggVennDiagram
 	url = https://github.com/cran/ggVennDiagram
+[submodule "ggWebGL"]
+	path = ggWebGL
+	url = https://github.com/cran/ggWebGL
 [submodule "ggalign"]
 	path = ggalign
 	url = https://github.com/cran/ggalign
@@ -39611,6 +39620,9 @@
 [submodule "gravmagsubs"]
 	path = gravmagsubs
 	url = https://github.com/cran/gravmagsubs
+[submodule "greatR"]
+	path = greatR
+	url = https://github.com/cran/greatR
 [submodule "grec"]
 	path = grec
 	url = https://github.com/cran/grec
@@ -41885,6 +41897,9 @@
 [submodule "ihpdr"]
 	path = ihpdr
 	url = https://github.com/cran/ihpdr
+[submodule "ihsMW"]
+	path = ihsMW
+	url = https://github.com/cran/ihsMW
 [submodule "iimi"]
 	path = iimi
 	url = https://github.com/cran/iimi
@@ -50180,6 +50195,9 @@
 [submodule "netgsa"]
 	path = netgsa
 	url = https://github.com/cran/netgsa
+[submodule "netgwas"]
+	path = netgwas
+	url = https://github.com/cran/netgwas
 [submodule "netie"]
 	path = netie
 	url = https://github.com/cran/netie
@@ -60659,6 +60677,9 @@
 [submodule "rtemis.core"]
 	path = rtemis.core
 	url = https://github.com/cran/rtemis.core
+[submodule "rtemis.llm"]
+	path = rtemis.llm
+	url = https://github.com/cran/rtemis.llm
 [submodule "rtemps"]
 	path = rtemps
 	url = https://github.com/cran/rtemps
