@@ -51245,6 +51245,9 @@
 [submodule "numspellR"]
 	path = numspellR
 	url = https://github.com/cran/numspellR
+[submodule "nutriNetwork"]
+	path = nutriNetwork
+	url = https://github.com/cran/nutriNetwork
 [submodule "nutrition"]
 	path = nutrition
 	url = https://github.com/cran/nutrition
