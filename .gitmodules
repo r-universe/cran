@@ -8480,6 +8480,9 @@
 [submodule "INLAspacetime"]
 	path = INLAspacetime
 	url = https://github.com/cran/INLAspacetime
+[submodule "INLAtools"]
+	path = INLAtools
+	url = https://github.com/cran/INLAtools
 [submodule "INLAvaan"]
 	path = INLAvaan
 	url = https://github.com/cran/INLAvaan
@@ -59126,6 +59129,9 @@
 [submodule "rglplus"]
 	path = rglplus
 	url = https://github.com/cran/rglplus
+[submodule "rgm"]
+	path = rgm
+	url = https://github.com/cran/rgm
 [submodule "rgml0"]
 	path = rgml0
 	url = https://github.com/cran/rgml0
