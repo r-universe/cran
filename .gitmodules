@@ -34190,9 +34190,6 @@
 [submodule "evenBreak"]
 	path = evenBreak
 	url = https://github.com/cran/evenBreak
-[submodule "event"]
-	path = event
-	url = https://github.com/cran/event
 [submodule "eventInterval"]
 	path = eventInterval
 	url = https://github.com/cran/eventInterval
