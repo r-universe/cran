@@ -20762,9 +20762,6 @@
 [submodule "VeryLargeIntegers"]
 	path = VeryLargeIntegers
 	url = https://github.com/cran/VeryLargeIntegers
-[submodule "VetResearchLMM"]
-	path = VetResearchLMM
-	url = https://github.com/cran/VetResearchLMM
 [submodule "ViSe"]
 	path = ViSe
 	url = https://github.com/cran/ViSe
@@ -46805,9 +46802,6 @@
 [submodule "mdsOpt"]
 	path = mdsOpt
 	url = https://github.com/cran/mdsOpt
-[submodule "mdscore"]
-	path = mdscore
-	url = https://github.com/cran/mdscore
 [submodule "mdsr"]
 	path = mdsr
 	url = https://github.com/cran/mdsr
@@ -67964,9 +67958,6 @@
 [submodule "tidycensuskr"]
 	path = tidycensuskr
 	url = https://github.com/cran/tidycensuskr
-[submodule "tidychangepoint"]
-	path = tidychangepoint
-	url = https://github.com/cran/tidychangepoint
 [submodule "tidycharts"]
 	path = tidycharts
 	url = https://github.com/cran/tidycharts
