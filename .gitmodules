@@ -41180,6 +41180,9 @@
 [submodule "htmxr"]
 	path = htmxr
 	url = https://github.com/cran/htmxr
+[submodule "htrSPRanalysis"]
+	path = htrSPRanalysis
+	url = https://github.com/cran/htrSPRanalysis
 [submodule "hts"]
 	path = hts
 	url = https://github.com/cran/hts
