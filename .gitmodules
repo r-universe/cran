@@ -1304,6 +1304,9 @@
 [submodule "BRACoD.R"]
 	path = BRACoD.R
 	url = https://github.com/cran/BRACoD.R
+[submodule "BRCore"]
+	path = BRCore
+	url = https://github.com/cran/BRCore
 [submodule "BRDT"]
 	path = BRDT
 	url = https://github.com/cran/BRDT
@@ -4274,6 +4277,9 @@
 [submodule "DPQ"]
 	path = DPQ
 	url = https://github.com/cran/DPQ
+[submodule "DPQBootstrap"]
+	path = DPQBootstrap
+	url = https://github.com/cran/DPQBootstrap
 [submodule "DPQmpfr"]
 	path = DPQmpfr
 	url = https://github.com/cran/DPQmpfr
@@ -22934,6 +22940,9 @@
 [submodule "arkdb"]
 	path = arkdb
 	url = https://github.com/cran/arkdb
+[submodule "arkhaia"]
+	path = arkhaia
+	url = https://github.com/cran/arkhaia
 [submodule "arkhe"]
 	path = arkhe
 	url = https://github.com/cran/arkhe
@@ -30551,6 +30560,9 @@
 [submodule "dcTensor"]
 	path = dcTensor
 	url = https://github.com/cran/dcTensor
+[submodule "dcce"]
+	path = dcce
+	url = https://github.com/cran/dcce
 [submodule "dccmidas"]
 	path = dccmidas
 	url = https://github.com/cran/dccmidas
@@ -30854,6 +30866,9 @@
 [submodule "dejaVu"]
 	path = dejaVu
 	url = https://github.com/cran/dejaVu
+[submodule "delaydiscount"]
+	path = delaydiscount
+	url = https://github.com/cran/delaydiscount
 [submodule "delayed"]
 	path = delayed
 	url = https://github.com/cran/delayed
@@ -31529,6 +31544,9 @@
 [submodule "discnorm"]
 	path = discnorm
 	url = https://github.com/cran/discnorm
+[submodule "discoCVI"]
+	path = discoCVI
+	url = https://github.com/cran/discoCVI
 [submodule "discord"]
 	path = discord
 	url = https://github.com/cran/discord
@@ -35255,6 +35273,9 @@
 [submodule "fcm"]
 	path = fcm
 	url = https://github.com/cran/fcm
+[submodule "fcmfd"]
+	path = fcmfd
+	url = https://github.com/cran/fcmfd
 [submodule "fcp"]
 	path = fcp
 	url = https://github.com/cran/fcp
@@ -42416,6 +42437,9 @@
 [submodule "insurancerating"]
 	path = insurancerating
 	url = https://github.com/cran/insurancerating
+[submodule "int3ract"]
+	path = int3ract
+	url = https://github.com/cran/int3ract
 [submodule "intRegGOF"]
 	path = intRegGOF
 	url = https://github.com/cran/intRegGOF
@@ -45311,6 +45335,9 @@
 [submodule "logOfGamma"]
 	path = logOfGamma
 	url = https://github.com/cran/logOfGamma
+[submodule "logStirling2"]
+	path = logStirling2
+	url = https://github.com/cran/logStirling2
 [submodule "logbin"]
 	path = logbin
 	url = https://github.com/cran/logbin
@@ -45812,6 +45839,9 @@
 [submodule "mSTEM"]
 	path = mSTEM
 	url = https://github.com/cran/mSTEM
+[submodule "mSigPlot"]
+	path = mSigPlot
+	url = https://github.com/cran/mSigPlot
 [submodule "mSigTools"]
 	path = mSigTools
 	url = https://github.com/cran/mSigTools
@@ -46019,6 +46049,9 @@
 [submodule "manhplot"]
 	path = manhplot
 	url = https://github.com/cran/manhplot
+[submodule "manifesto"]
+	path = manifesto
+	url = https://github.com/cran/manifesto
 [submodule "manifestoR"]
 	path = manifestoR
 	url = https://github.com/cran/manifestoR
@@ -55193,6 +55226,9 @@
 [submodule "precrec"]
 	path = precrec
 	url = https://github.com/cran/precrec
+[submodule "precviasBR"]
+	path = precviasBR
+	url = https://github.com/cran/precviasBR
 [submodule "predReliability"]
 	path = predReliability
 	url = https://github.com/cran/predReliability
@@ -58412,6 +58448,9 @@
 [submodule "redux"]
 	path = redux
 	url = https://github.com/cran/redux
+[submodule "reems"]
+	path = reems
+	url = https://github.com/cran/reems
 [submodule "ref.ICAR"]
 	path = ref.ICAR
 	url = https://github.com/cran/ref.ICAR
@@ -59198,6 +59237,9 @@
 [submodule "rgsp"]
 	path = rgsp
 	url = https://github.com/cran/rgsp
+[submodule "rgsrs"]
+	path = rgsrs
+	url = https://github.com/cran/rgsrs
 [submodule "rgtmx"]
 	path = rgtmx
 	url = https://github.com/cran/rgtmx
@@ -59594,6 +59636,9 @@
 [submodule "rlme"]
 	path = rlme
 	url = https://github.com/cran/rlme
+[submodule "rlmstudio"]
+	path = rlmstudio
+	url = https://github.com/cran/rlmstudio
 [submodule "rlog"]
 	path = rlog
 	url = https://github.com/cran/rlog
@@ -60050,6 +60095,9 @@
 [submodule "rocsvm.path"]
 	path = rocsvm.path
 	url = https://github.com/cran/rocsvm.path
+[submodule "rocvb"]
+	path = rocvb
+	url = https://github.com/cran/rocvb
 [submodule "rodd"]
 	path = rodd
 	url = https://github.com/cran/rodd
@@ -65693,6 +65741,9 @@
 [submodule "statdecideR"]
 	path = statdecideR
 	url = https://github.com/cran/statdecideR
+[submodule "statease"]
+	path = statease
+	url = https://github.com/cran/statease
 [submodule "statebins"]
 	path = statebins
 	url = https://github.com/cran/statebins
@@ -66539,6 +66590,9 @@
 [submodule "surveybootstrap"]
 	path = surveybootstrap
 	url = https://github.com/cran/surveybootstrap
+[submodule "surveycore"]
+	path = surveycore
+	url = https://github.com/cran/surveycore
 [submodule "surveydata"]
 	path = surveydata
 	url = https://github.com/cran/surveydata
@@ -67328,6 +67382,9 @@
 [submodule "tdcmStan"]
 	path = tdcmStan
 	url = https://github.com/cran/tdcmStan
+[submodule "tdigest"]
+	path = tdigest
+	url = https://github.com/cran/tdigest
 [submodule "tdr"]
 	path = tdr
 	url = https://github.com/cran/tdr
