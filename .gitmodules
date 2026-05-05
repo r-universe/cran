@@ -12296,6 +12296,9 @@
 [submodule "NonProbEst"]
 	path = NonProbEst
 	url = https://github.com/cran/NonProbEst
+[submodule "NonlinearDiD"]
+	path = NonlinearDiD
+	url = https://github.com/cran/NonlinearDiD
 [submodule "NonlinearTSA"]
 	path = NonlinearTSA
 	url = https://github.com/cran/NonlinearTSA
@@ -33500,6 +33503,9 @@
 [submodule "emld"]
 	path = emld
 	url = https://github.com/cran/emld
+[submodule "emln"]
+	path = emln
+	url = https://github.com/cran/emln
 [submodule "emmeans"]
 	path = emmeans
 	url = https://github.com/cran/emmeans
@@ -47351,6 +47357,9 @@
 [submodule "metropolis"]
 	path = metropolis
 	url = https://github.com/cran/metropolis
+[submodule "metrosp"]
+	path = metrosp
+	url = https://github.com/cran/metrosp
 [submodule "mets"]
 	path = mets
 	url = https://github.com/cran/mets
@@ -58085,6 +58094,9 @@
 [submodule "rdss"]
 	path = rdss
 	url = https://github.com/cran/rdss
+[submodule "rdstagger"]
+	path = rdstagger
+	url = https://github.com/cran/rdstagger
 [submodule "rdtLite"]
 	path = rdtLite
 	url = https://github.com/cran/rdtLite
@@ -70601,6 +70613,9 @@
 [submodule "vegdata"]
 	path = vegdata
 	url = https://github.com/cran/vegdata
+[submodule "vegetablesSriLanka"]
+	path = vegetablesSriLanka
+	url = https://github.com/cran/vegetablesSriLanka
 [submodule "vegperiod"]
 	path = vegperiod
 	url = https://github.com/cran/vegperiod
