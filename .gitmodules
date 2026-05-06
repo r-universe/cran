@@ -2891,6 +2891,9 @@
 [submodule "Canek"]
 	path = Canek
 	url = https://github.com/cran/Canek
+[submodule "CanonicalFamilyExtra"]
+	path = CanonicalFamilyExtra
+	url = https://github.com/cran/CanonicalFamilyExtra
 [submodule "Capsule"]
 	path = Capsule
 	url = https://github.com/cran/Capsule
@@ -4508,6 +4511,9 @@
 [submodule "DataClean"]
 	path = DataClean
 	url = https://github.com/cran/DataClean
+[submodule "DataDNA"]
+	path = DataDNA
+	url = https://github.com/cran/DataDNA
 [submodule "DataEditR"]
 	path = DataEditR
 	url = https://github.com/cran/DataEditR
@@ -10355,6 +10361,9 @@
 [submodule "MFPCA"]
 	path = MFPCA
 	url = https://github.com/cran/MFPCA
+[submodule "MFRCD"]
+	path = MFRCD
+	url = https://github.com/cran/MFRCD
 [submodule "MFSD"]
 	path = MFSD
 	url = https://github.com/cran/MFSD
@@ -12467,6 +12476,9 @@
 [submodule "ORscraper"]
 	path = ORscraper
 	url = https://github.com/cran/ORscraper
+[submodule "OSCARS"]
+	path = OSCARS
+	url = https://github.com/cran/OSCARS
 [submodule "OSCV"]
 	path = OSCV
 	url = https://github.com/cran/OSCV
@@ -20786,6 +20798,9 @@
 [submodule "ViewPipeSteps"]
 	path = ViewPipeSteps
 	url = https://github.com/cran/ViewPipeSteps
+[submodule "ViewR"]
+	path = ViewR
+	url = https://github.com/cran/ViewR
 [submodule "VineCopula"]
 	path = VineCopula
 	url = https://github.com/cran/VineCopula
@@ -41654,6 +41669,9 @@
 [submodule "ibger"]
 	path = ibger
 	url = https://github.com/cran/ibger
+[submodule "ibkrcp"]
+	path = ibkrcp
+	url = https://github.com/cran/ibkrcp
 [submodule "ibm"]
 	path = ibm
 	url = https://github.com/cran/ibm
@@ -42719,6 +42737,9 @@
 [submodule "iperform"]
 	path = iperform
 	url = https://github.com/cran/iperform
+[submodule "ipeval"]
+	path = ipeval
+	url = https://github.com/cran/ipeval
 [submodule "ipflasso"]
 	path = ipflasso
 	url = https://github.com/cran/ipflasso
@@ -66575,6 +66596,9 @@
 [submodule "survdnn"]
 	path = survdnn
 	url = https://github.com/cran/survdnn
+[submodule "survdt"]
+	path = survdt
+	url = https://github.com/cran/survdt
 [submodule "surveil"]
 	path = surveil
 	url = https://github.com/cran/surveil
@@ -67583,6 +67607,9 @@
 [submodule "terrainr"]
 	path = terrainr
 	url = https://github.com/cran/terrainr
+[submodule "tesouror"]
+	path = tesouror
+	url = https://github.com/cran/tesouror
 [submodule "tesselle"]
 	path = tesselle
 	url = https://github.com/cran/tesselle
