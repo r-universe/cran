@@ -49823,6 +49823,9 @@
 [submodule "mwlaxeref"]
 	path = mwlaxeref
 	url = https://github.com/cran/mwlaxeref
+[submodule "mwmapdata"]
+	path = mwmapdata
+	url = https://github.com/cran/mwmapdata
 [submodule "mwshiny"]
 	path = mwshiny
 	url = https://github.com/cran/mwshiny
