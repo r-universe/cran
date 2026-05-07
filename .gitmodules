@@ -35252,6 +35252,9 @@
 [submodule "favr"]
 	path = favr
 	url = https://github.com/cran/favr
+[submodule "fb4package"]
+	path = fb4package
+	url = https://github.com/cran/fb4package
 [submodule "fbRads"]
 	path = fbRads
 	url = https://github.com/cran/fbRads
@@ -71939,6 +71942,9 @@
 [submodule "wrds"]
 	path = wrds
 	url = https://github.com/cran/wrds
+[submodule "wrictools"]
+	path = wrictools
+	url = https://github.com/cran/wrictools
 [submodule "writeAlizer"]
 	path = writeAlizer
 	url = https://github.com/cran/writeAlizer
