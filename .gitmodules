@@ -39641,9 +39641,6 @@
 [submodule "graphonmix"]
 	path = graphonmix
 	url = https://github.com/cran/graphonmix
-[submodule "graphpcor"]
-	path = graphpcor
-	url = https://github.com/cran/graphpcor
 [submodule "graphql"]
 	path = graphql
 	url = https://github.com/cran/graphql
@@ -46961,6 +46958,9 @@
 [submodule "medparser"]
 	path = medparser
 	url = https://github.com/cran/medparser
+[submodule "medrxivr"]
+	path = medrxivr
+	url = https://github.com/cran/medrxivr
 [submodule "meerva"]
 	path = meerva
 	url = https://github.com/cran/meerva
