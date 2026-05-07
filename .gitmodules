@@ -55691,6 +55691,9 @@
 [submodule "promises"]
 	path = promises
 	url = https://github.com/cran/promises
+[submodule "promor"]
+	path = promor
+	url = https://github.com/cran/promor
 [submodule "promote"]
 	path = promote
 	url = https://github.com/cran/promote
