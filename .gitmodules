@@ -32912,9 +32912,6 @@
 [submodule "ebrahim.gof"]
 	path = ebrahim.gof
 	url = https://github.com/cran/ebrahim.gof
-[submodule "ebvcube"]
-	path = ebvcube
-	url = https://github.com/cran/ebvcube
 [submodule "ebx"]
 	path = ebx
 	url = https://github.com/cran/ebx
@@ -55694,9 +55691,6 @@
 [submodule "promises"]
 	path = promises
 	url = https://github.com/cran/promises
-[submodule "promor"]
-	path = promor
-	url = https://github.com/cran/promor
 [submodule "promote"]
 	path = promote
 	url = https://github.com/cran/promote
