@@ -3002,6 +3002,9 @@
 [submodule "CepReg"]
 	path = CepReg
 	url = https://github.com/cran/CepReg
+[submodule "CepalStatR"]
+	path = CepalStatR
+	url = https://github.com/cran/CepalStatR
 [submodule "CerioliOutlierDetection"]
 	path = CerioliOutlierDetection
 	url = https://github.com/cran/CerioliOutlierDetection
@@ -15344,6 +15347,9 @@
 [submodule "RMark"]
 	path = RMark
 	url = https://github.com/cran/RMark
+[submodule "RMeDPower2"]
+	path = RMeDPower2
+	url = https://github.com/cran/RMeDPower2
 [submodule "RMediation"]
 	path = RMediation
 	url = https://github.com/cran/RMediation
@@ -22445,6 +22451,9 @@
 [submodule "amp.dm"]
 	path = amp.dm
 	url = https://github.com/cran/amp.dm
+[submodule "amp.sim"]
+	path = amp.sim
+	url = https://github.com/cran/amp.sim
 [submodule "ampd"]
 	path = ampd
 	url = https://github.com/cran/ampd
@@ -30443,6 +30452,9 @@
 [submodule "datazoom.amazonia"]
 	path = datazoom.amazonia
 	url = https://github.com/cran/datazoom.amazonia
+[submodule "datazoom.social"]
+	path = datazoom.social
+	url = https://github.com/cran/datazoom.social
 [submodule "date"]
 	path = date
 	url = https://github.com/cran/date
@@ -30515,6 +30527,9 @@
 [submodule "dbMC"]
 	path = dbMC
 	url = https://github.com/cran/dbMC
+[submodule "dbProject"]
+	path = dbProject
+	url = https://github.com/cran/dbProject
 [submodule "dbWebForms"]
 	path = dbWebForms
 	url = https://github.com/cran/dbWebForms
@@ -56366,6 +56381,9 @@
 [submodule "qgam"]
 	path = qgam
 	url = https://github.com/cran/qgam
+[submodule "qgarch"]
+	path = qgarch
+	url = https://github.com/cran/qgarch
 [submodule "qgcomp"]
 	path = qgcomp
 	url = https://github.com/cran/qgcomp
@@ -60089,6 +60107,9 @@
 [submodule "rocNIT"]
 	path = rocNIT
 	url = https://github.com/cran/rocNIT
+[submodule "rocTools"]
+	path = rocTools
+	url = https://github.com/cran/rocTools
 [submodule "rocbc"]
 	path = rocbc
 	url = https://github.com/cran/rocbc
@@ -61130,6 +61151,9 @@
 [submodule "s3fs"]
 	path = s3fs
 	url = https://github.com/cran/s3fs
+[submodule "s7contract"]
+	path = s7contract
+	url = https://github.com/cran/s7contract
 [submodule "sAIC"]
 	path = sAIC
 	url = https://github.com/cran/sAIC
@@ -64415,6 +64439,9 @@
 [submodule "solartime"]
 	path = solartime
 	url = https://github.com/cran/solartime
+[submodule "solidauthr"]
+	path = solidauthr
+	url = https://github.com/cran/solidauthr
 [submodule "solitude"]
 	path = solitude
 	url = https://github.com/cran/solitude
@@ -66650,6 +66677,9 @@
 [submodule "surveysd"]
 	path = surveysd
 	url = https://github.com/cran/surveysd
+[submodule "surveysearch"]
+	path = surveysearch
+	url = https://github.com/cran/surveysearch
 [submodule "surveytable"]
 	path = surveytable
 	url = https://github.com/cran/surveytable
@@ -68846,6 +68876,9 @@
 [submodule "tornado"]
 	path = tornado
 	url = https://github.com/cran/tornado
+[submodule "toro"]
+	path = toro
+	url = https://github.com/cran/toro
 [submodule "tosca"]
 	path = tosca
 	url = https://github.com/cran/tosca
