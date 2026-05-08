@@ -16274,9 +16274,6 @@
 [submodule "RcppClassicExamples"]
 	path = RcppClassicExamples
 	url = https://github.com/cran/RcppClassicExamples
-[submodule "RcppClock"]
-	path = RcppClock
-	url = https://github.com/cran/RcppClock
 [submodule "RcppColMetric"]
 	path = RcppColMetric
 	url = https://github.com/cran/RcppColMetric
@@ -28781,9 +28778,6 @@
 [submodule "contourPlot"]
 	path = contourPlot
 	url = https://github.com/cran/contourPlot
-[submodule "contoureR"]
-	path = contoureR
-	url = https://github.com/cran/contoureR
 [submodule "contourforest"]
 	path = contourforest
 	url = https://github.com/cran/contourforest
@@ -46232,9 +46226,6 @@
 [submodule "maps"]
 	path = maps
 	url = https://github.com/cran/maps
-[submodule "mapsFinland"]
-	path = mapsFinland
-	url = https://github.com/cran/mapsFinland
 [submodule "mapsPERU"]
 	path = mapsPERU
 	url = https://github.com/cran/mapsPERU
@@ -50642,9 +50633,6 @@
 [submodule "nipnTK"]
 	path = nipnTK
 	url = https://github.com/cran/nipnTK
-[submodule "nisrarr"]
-	path = nisrarr
-	url = https://github.com/cran/nisrarr
 [submodule "nivm"]
 	path = nivm
 	url = https://github.com/cran/nivm
@@ -61685,9 +61673,6 @@
 [submodule "scMetaTraj"]
 	path = scMetaTraj
 	url = https://github.com/cran/scMetaTraj
-[submodule "scModels"]
-	path = scModels
-	url = https://github.com/cran/scModels
 [submodule "scOntoMatch"]
 	path = scOntoMatch
 	url = https://github.com/cran/scOntoMatch
@@ -62933,9 +62918,6 @@
 [submodule "shiny.react"]
 	path = shiny.react
 	url = https://github.com/cran/shiny.react
-[submodule "shiny.reglog"]
-	path = shiny.reglog
-	url = https://github.com/cran/shiny.reglog
 [submodule "shiny.router"]
 	path = shiny.router
 	url = https://github.com/cran/shiny.router
@@ -71867,9 +71849,6 @@
 [submodule "wosr"]
 	path = wosr
 	url = https://github.com/cran/wosr
-[submodule "wowa"]
-	path = wowa
-	url = https://github.com/cran/wowa
 [submodule "woylier"]
 	path = woylier
 	url = https://github.com/cran/woylier
