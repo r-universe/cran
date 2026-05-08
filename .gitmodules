@@ -27944,6 +27944,9 @@
 [submodule "coalescentMCMC"]
 	path = coalescentMCMC
 	url = https://github.com/cran/coalescentMCMC
+[submodule "coalitions"]
+	path = coalitions
+	url = https://github.com/cran/coalitions
 [submodule "coarseDataTools"]
 	path = coarseDataTools
 	url = https://github.com/cran/coarseDataTools
@@ -28754,6 +28757,9 @@
 [submodule "contactsurveys"]
 	path = contactsurveys
 	url = https://github.com/cran/contactsurveys
+[submodule "contagionchannels"]
+	path = contagionchannels
+	url = https://github.com/cran/contagionchannels
 [submodule "container"]
 	path = container
 	url = https://github.com/cran/container
@@ -36839,6 +36845,9 @@
 [submodule "funGp"]
 	path = funGp
 	url = https://github.com/cran/funGp
+[submodule "funHDDC"]
+	path = funHDDC
+	url = https://github.com/cran/funHDDC
 [submodule "funIHC"]
 	path = funIHC
 	url = https://github.com/cran/funIHC
@@ -39803,6 +39812,9 @@
 [submodule "gridify"]
 	path = gridify
 	url = https://github.com/cran/gridify
+[submodule "gridmicrotex"]
+	path = gridmicrotex
+	url = https://github.com/cran/gridmicrotex
 [submodule "gridpattern"]
 	path = gridpattern
 	url = https://github.com/cran/gridpattern
