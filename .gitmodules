@@ -1973,6 +1973,9 @@
 [submodule "BipartiteModularityMaximization"]
 	path = BipartiteModularityMaximization
 	url = https://github.com/cran/BipartiteModularityMaximization
+[submodule "BiplotML"]
+	path = BiplotML
+	url = https://github.com/cran/BiplotML
 [submodule "BisRNA"]
 	path = BisRNA
 	url = https://github.com/cran/BisRNA
@@ -21197,6 +21200,9 @@
 [submodule "XDNUTS"]
 	path = XDNUTS
 	url = https://github.com/cran/XDNUTS
+[submodule "XGeoRTR"]
+	path = XGeoRTR
+	url = https://github.com/cran/XGeoRTR
 [submodule "XICOR"]
 	path = XICOR
 	url = https://github.com/cran/XICOR
@@ -48233,6 +48239,9 @@
 [submodule "mlmm.gwas"]
 	path = mlmm.gwas
 	url = https://github.com/cran/mlmm.gwas
+[submodule "mlmodels"]
+	path = mlmodels
+	url = https://github.com/cran/mlmodels
 [submodule "mlmoderator"]
 	path = mlmoderator
 	url = https://github.com/cran/mlmoderator
