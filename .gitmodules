@@ -36302,6 +36302,9 @@
 [submodule "forecast"]
 	path = forecast
 	url = https://github.com/cran/forecast
+[submodule "forecastADAPT"]
+	path = forecastADAPT
+	url = https://github.com/cran/forecastADAPT
 [submodule "forecastHybrid"]
 	path = forecastHybrid
 	url = https://github.com/cran/forecastHybrid
@@ -45854,6 +45857,9 @@
 [submodule "mFilter"]
 	path = mFilter
 	url = https://github.com/cran/mFilter
+[submodule "mGSFPCA"]
+	path = mGSFPCA
+	url = https://github.com/cran/mGSFPCA
 [submodule "mHG"]
 	path = mHG
 	url = https://github.com/cran/mHG
@@ -68798,6 +68804,9 @@
 [submodule "topChef"]
 	path = topChef
 	url = https://github.com/cran/topChef
+[submodule "topcc"]
+	path = topcc
+	url = https://github.com/cran/topcc
 [submodule "topdowntimeratio"]
 	path = topdowntimeratio
 	url = https://github.com/cran/topdowntimeratio
