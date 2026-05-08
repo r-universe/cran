@@ -1613,6 +1613,9 @@
 [submodule "BayesPET"]
 	path = BayesPET
 	url = https://github.com/cran/BayesPET
+[submodule "BayesPIM"]
+	path = BayesPIM
+	url = https://github.com/cran/BayesPIM
 [submodule "BayesPPD"]
 	path = BayesPPD
 	url = https://github.com/cran/BayesPPD
@@ -2936,6 +2939,9 @@
 [submodule "CatEncoders"]
 	path = CatEncoders
 	url = https://github.com/cran/CatEncoders
+[submodule "CatPredi"]
+	path = CatPredi
+	url = https://github.com/cran/CatPredi
 [submodule "CatReg"]
 	path = CatReg
 	url = https://github.com/cran/CatReg
@@ -15044,6 +15050,9 @@
 [submodule "RFlocalfdr.data"]
 	path = RFlocalfdr.data
 	url = https://github.com/cran/RFlocalfdr.data
+[submodule "RFmerge"]
+	path = RFmerge
+	url = https://github.com/cran/RFmerge
 [submodule "RFmstate"]
 	path = RFmstate
 	url = https://github.com/cran/RFmstate
