@@ -68024,6 +68024,9 @@
 [submodule "tibbletime"]
 	path = tibbletime
 	url = https://github.com/cran/tibbletime
+[submodule "tibblify"]
+	path = tibblify
+	url = https://github.com/cran/tibblify
 [submodule "tican"]
 	path = tican
 	url = https://github.com/cran/tican
