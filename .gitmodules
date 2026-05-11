@@ -36047,9 +36047,6 @@
 [submodule "flexurba"]
 	path = flexurba
 	url = https://github.com/cran/flexurba
-[submodule "flightplot"]
-	path = flightplot
-	url = https://github.com/cran/flightplot
 [submodule "flightsbr"]
 	path = flightsbr
 	url = https://github.com/cran/flightsbr
@@ -61082,6 +61079,9 @@
 [submodule "rvolleydata"]
 	path = rvolleydata
 	url = https://github.com/cran/rvolleydata
+[submodule "rvtk"]
+	path = rvtk
+	url = https://github.com/cran/rvtk
 [submodule "rwa"]
 	path = rwa
 	url = https://github.com/cran/rwa
@@ -70361,6 +70361,9 @@
 [submodule "uxr"]
 	path = uxr
 	url = https://github.com/cran/uxr
+[submodule "vDiveR"]
+	path = vDiveR
+	url = https://github.com/cran/vDiveR
 [submodule "vMF"]
 	path = vMF
 	url = https://github.com/cran/vMF
