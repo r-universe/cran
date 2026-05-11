@@ -15470,6 +15470,9 @@
 [submodule "ROCsurf"]
 	path = ROCsurf
 	url = https://github.com/cran/ROCsurf
+[submodule "ROCsurvcomp"]
+	path = ROCsurvcomp
+	url = https://github.com/cran/ROCsurvcomp
 [submodule "RODBC"]
 	path = RODBC
 	url = https://github.com/cran/RODBC
@@ -18779,6 +18782,9 @@
 [submodule "SmoothPLS"]
 	path = SmoothPLS
 	url = https://github.com/cran/SmoothPLS
+[submodule "SmoothWin"]
+	path = SmoothWin
+	url = https://github.com/cran/SmoothWin
 [submodule "Snake"]
 	path = Snake
 	url = https://github.com/cran/Snake
@@ -20144,6 +20150,9 @@
 [submodule "TidyMultiqc"]
 	path = TidyMultiqc
 	url = https://github.com/cran/TidyMultiqc
+[submodule "TidyPanel"]
+	path = TidyPanel
+	url = https://github.com/cran/TidyPanel
 [submodule "TimeDepFrail"]
 	path = TimeDepFrail
 	url = https://github.com/cran/TimeDepFrail
@@ -26918,6 +26927,9 @@
 [submodule "cgmquantify"]
 	path = cgmquantify
 	url = https://github.com/cran/cgmquantify
+[submodule "cgvR"]
+	path = cgvR
+	url = https://github.com/cran/cgvR
 [submodule "cgwtools"]
 	path = cgwtools
 	url = https://github.com/cran/cgwtools
@@ -28364,6 +28376,9 @@
 [submodule "combiter"]
 	path = combiter
 	url = https://github.com/cran/combiter
+[submodule "combss"]
+	path = combss
+	url = https://github.com/cran/combss
 [submodule "comclim"]
 	path = comclim
 	url = https://github.com/cran/comclim
@@ -28778,6 +28793,9 @@
 [submodule "contdid"]
 	path = contdid
 	url = https://github.com/cran/contdid
+[submodule "contentValidity"]
+	path = contentValidity
+	url = https://github.com/cran/contentValidity
 [submodule "contentanalysis"]
 	path = contentanalysis
 	url = https://github.com/cran/contentanalysis
@@ -29987,6 +30005,9 @@
 [submodule "curvecomp"]
 	path = curvecomp
 	url = https://github.com/cran/curvecomp
+[submodule "curves"]
+	path = curves
+	url = https://github.com/cran/curves
 [submodule "curvir"]
 	path = curvir
 	url = https://github.com/cran/curvir
@@ -37268,6 +37289,9 @@
 [submodule "gamstransfer"]
 	path = gamstransfer
 	url = https://github.com/cran/gamstransfer
+[submodule "gamutil"]
+	path = gamutil
+	url = https://github.com/cran/gamutil
 [submodule "ganDataModel"]
 	path = ganDataModel
 	url = https://github.com/cran/ganDataModel
@@ -37430,6 +37454,9 @@
 [submodule "gcmr"]
 	path = gcmr
 	url = https://github.com/cran/gcmr
+[submodule "gcomputation"]
+	path = gcomputation
+	url = https://github.com/cran/gcomputation
 [submodule "gconsensus"]
 	path = gconsensus
 	url = https://github.com/cran/gconsensus
@@ -42224,6 +42251,9 @@
 [submodule "imuf"]
 	path = imuf
 	url = https://github.com/cran/imuf
+[submodule "imv"]
+	path = imv
+	url = https://github.com/cran/imv
 [submodule "inDAGO"]
 	path = inDAGO
 	url = https://github.com/cran/inDAGO
@@ -46955,6 +46985,9 @@
 [submodule "mecoturn"]
 	path = mecoturn
 	url = https://github.com/cran/mecoturn
+[submodule "mectx"]
+	path = mectx
+	url = https://github.com/cran/mectx
 [submodule "medExtractR"]
 	path = medExtractR
 	url = https://github.com/cran/medExtractR
@@ -57488,6 +57521,9 @@
 [submodule "randomForestRHF"]
 	path = randomForestRHF
 	url = https://github.com/cran/randomForestRHF
+[submodule "randomForestSGT"]
+	path = randomForestSGT
+	url = https://github.com/cran/randomForestSGT
 [submodule "randomForestSRC"]
 	path = randomForestSRC
 	url = https://github.com/cran/randomForestSRC
@@ -57578,6 +57614,9 @@
 [submodule "rankICC"]
 	path = rankICC
 	url = https://github.com/cran/rankICC
+[submodule "rankPlayedInference"]
+	path = rankPlayedInference
+	url = https://github.com/cran/rankPlayedInference
 [submodule "rankdifferencetest"]
 	path = rankdifferencetest
 	url = https://github.com/cran/rankdifferencetest
@@ -64901,6 +64940,9 @@
 [submodule "spatialRF"]
 	path = spatialRF
 	url = https://github.com/cran/spatialRF
+[submodule "spatialRegroup"]
+	path = spatialRegroup
+	url = https://github.com/cran/spatialRegroup
 [submodule "spatialTIME"]
 	path = spatialTIME
 	url = https://github.com/cran/spatialTIME
@@ -66026,6 +66068,9 @@
 [submodule "steprf"]
 	path = steprf
 	url = https://github.com/cran/steprf
+[submodule "stepssurvey"]
+	path = stepssurvey
+	url = https://github.com/cran/stepssurvey
 [submodule "stevedata"]
 	path = stevedata
 	url = https://github.com/cran/stevedata
@@ -71267,6 +71312,9 @@
 [submodule "warehouseTools"]
 	path = warehouseTools
 	url = https://github.com/cran/warehouseTools
+[submodule "warmthcompetence"]
+	path = warmthcompetence
+	url = https://github.com/cran/warmthcompetence
 [submodule "warp"]
 	path = warp
 	url = https://github.com/cran/warp
