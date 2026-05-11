@@ -794,6 +794,9 @@
 [submodule "Arothron"]
 	path = Arothron
 	url = https://github.com/cran/Arothron
+[submodule "ArvindSt"]
+	path = ArvindSt
+	url = https://github.com/cran/ArvindSt
 [submodule "AsianOption"]
 	path = AsianOption
 	url = https://github.com/cran/AsianOption
