@@ -32966,6 +32966,9 @@
 [submodule "ebrahim.gof"]
 	path = ebrahim.gof
 	url = https://github.com/cran/ebrahim.gof
+[submodule "ebvcube"]
+	path = ebvcube
+	url = https://github.com/cran/ebvcube
 [submodule "ebx"]
 	path = ebx
 	url = https://github.com/cran/ebx
@@ -36071,6 +36074,9 @@
 [submodule "flexurba"]
 	path = flexurba
 	url = https://github.com/cran/flexurba
+[submodule "flightplot"]
+	path = flightplot
+	url = https://github.com/cran/flightplot
 [submodule "flightsbr"]
 	path = flightsbr
 	url = https://github.com/cran/flightsbr
