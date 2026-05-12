@@ -173,6 +173,9 @@
 [submodule "AID"]
 	path = AID
 	url = https://github.com/cran/AID
+[submodule "AIDA"]
+	path = AIDA
+	url = https://github.com/cran/AIDA
 [submodule "AIFFtools"]
 	path = AIFFtools
 	url = https://github.com/cran/AIFFtools
@@ -26870,6 +26873,9 @@
 [submodule "cereal"]
 	path = cereal
 	url = https://github.com/cran/cereal
+[submodule "certify"]
+	path = certify
+	url = https://github.com/cran/certify
 [submodule "ces"]
 	path = ces
 	url = https://github.com/cran/ces
@@ -46796,6 +46802,9 @@
 [submodule "mccr"]
 	path = mccr
 	url = https://github.com/cran/mccr
+[submodule "mcdabench"]
+	path = mcdabench
+	url = https://github.com/cran/mcdabench
 [submodule "mcemGLM"]
 	path = mcemGLM
 	url = https://github.com/cran/mcemGLM
