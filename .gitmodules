@@ -5864,6 +5864,9 @@
 [submodule "ExtremeBounds"]
 	path = ExtremeBounds
 	url = https://github.com/cran/ExtremeBounds
+[submodule "ExtremeCI"]
+	path = ExtremeCI
+	url = https://github.com/cran/ExtremeCI
 [submodule "ExtremeRisks"]
 	path = ExtremeRisks
 	url = https://github.com/cran/ExtremeRisks
@@ -8150,6 +8153,9 @@
 [submodule "HistData"]
 	path = HistData
 	url = https://github.com/cran/HistData
+[submodule "HistogramTools"]
+	path = HistogramTools
+	url = https://github.com/cran/HistogramTools
 [submodule "HiveR"]
 	path = HiveR
 	url = https://github.com/cran/HiveR
@@ -11264,6 +11270,9 @@
 [submodule "MetaHD"]
 	path = MetaHD
 	url = https://github.com/cran/MetaHD
+[submodule "MetaHunt"]
+	path = MetaHunt
+	url = https://github.com/cran/MetaHunt
 [submodule "MetaIntegration"]
 	path = MetaIntegration
 	url = https://github.com/cran/MetaIntegration
@@ -11534,6 +11543,9 @@
 [submodule "ModalCens"]
 	path = ModalCens
 	url = https://github.com/cran/ModalCens
+[submodule "ModalForecast"]
+	path = ModalForecast
+	url = https://github.com/cran/ModalForecast
 [submodule "Modalclust"]
 	path = Modalclust
 	url = https://github.com/cran/Modalclust
@@ -21527,6 +21539,9 @@
 [submodule "acca"]
 	path = acca
 	url = https://github.com/cran/acca
+[submodule "accelEE"]
+	path = accelEE
+	url = https://github.com/cran/accelEE
 [submodule "accelerometry"]
 	path = accelerometry
 	url = https://github.com/cran/accelerometry
@@ -23654,6 +23669,9 @@
 [submodule "bacondecomp"]
 	path = bacondecomp
 	url = https://github.com/cran/bacondecomp
+[submodule "bacontrees"]
+	path = bacontrees
+	url = https://github.com/cran/bacontrees
 [submodule "bacr"]
 	path = bacr
 	url = https://github.com/cran/bacr
@@ -30410,6 +30428,9 @@
 [submodule "datamods"]
 	path = datamods
 	url = https://github.com/cran/datamods
+[submodule "datamuseum"]
+	path = datamuseum
+	url = https://github.com/cran/datamuseum
 [submodule "datana"]
 	path = datana
 	url = https://github.com/cran/datana
@@ -31703,6 +31724,9 @@
 [submodule "dissimilarities"]
 	path = dissimilarities
 	url = https://github.com/cran/dissimilarities
+[submodule "dist.structure"]
+	path = dist.structure
+	url = https://github.com/cran/dist.structure
 [submodule "distTails"]
 	path = distTails
 	url = https://github.com/cran/distTails
@@ -32909,6 +32933,9 @@
 [submodule "easysurv"]
 	path = easysurv
 	url = https://github.com/cran/easysurv
+[submodule "easytable"]
+	path = easytable
+	url = https://github.com/cran/easytable
 [submodule "eat"]
 	path = eat
 	url = https://github.com/cran/eat
@@ -36533,6 +36560,9 @@
 [submodule "fplyr"]
 	path = fplyr
 	url = https://github.com/cran/fplyr
+[submodule "fpod"]
+	path = fpod
+	url = https://github.com/cran/fpod
 [submodule "fpop"]
 	path = fpop
 	url = https://github.com/cran/fpop
@@ -37760,6 +37790,9 @@
 [submodule "genpathmox"]
 	path = genpathmox
 	url = https://github.com/cran/genpathmox
+[submodule "genproc"]
+	path = genproc
+	url = https://github.com/cran/genproc
 [submodule "genpwr"]
 	path = genpwr
 	url = https://github.com/cran/genpwr
@@ -41897,6 +41930,9 @@
 [submodule "idcnrba"]
 	path = idcnrba
 	url = https://github.com/cran/idcnrba
+[submodule "idealstan"]
+	path = idealstan
+	url = https://github.com/cran/idealstan
 [submodule "ideamdb"]
 	path = ideamdb
 	url = https://github.com/cran/ideamdb
@@ -47312,6 +47348,9 @@
 [submodule "metainc"]
 	path = metainc
 	url = https://github.com/cran/metainc
+[submodule "metalcor"]
+	path = metalcor
+	url = https://github.com/cran/metalcor
 [submodule "metalite"]
 	path = metalite
 	url = https://github.com/cran/metalite
@@ -47489,6 +47528,9 @@
 [submodule "mfaces"]
 	path = mfaces
 	url = https://github.com/cran/mfaces
+[submodule "mfclim"]
+	path = mfclim
+	url = https://github.com/cran/mfclim
 [submodule "mfcurve"]
 	path = mfcurve
 	url = https://github.com/cran/mfcurve
@@ -49109,6 +49151,9 @@
 [submodule "mrMLM.GUI"]
 	path = mrMLM.GUI
 	url = https://github.com/cran/mrMLM.GUI
+[submodule "mrPStrata"]
+	path = mrPStrata
+	url = https://github.com/cran/mrPStrata
 [submodule "mrangr"]
 	path = mrangr
 	url = https://github.com/cran/mrangr
@@ -49928,6 +49973,9 @@
 [submodule "mwlaxeref"]
 	path = mwlaxeref
 	url = https://github.com/cran/mwlaxeref
+[submodule "mwmap"]
+	path = mwmap
+	url = https://github.com/cran/mwmap
 [submodule "mwmapdata"]
 	path = mwmapdata
 	url = https://github.com/cran/mwmapdata
@@ -50126,6 +50174,9 @@
 [submodule "natcpp"]
 	path = natcpp
 	url = https://github.com/cran/natcpp
+[submodule "nativeORT"]
+	path = nativeORT
+	url = https://github.com/cran/nativeORT
 [submodule "natmanager"]
 	path = natmanager
 	url = https://github.com/cran/natmanager
@@ -67712,6 +67763,9 @@
 [submodule "terrainr"]
 	path = terrainr
 	url = https://github.com/cran/terrainr
+[submodule "terralink"]
+	path = terralink
+	url = https://github.com/cran/terralink
 [submodule "tesouror"]
 	path = tesouror
 	url = https://github.com/cran/tesouror
@@ -71027,6 +71081,9 @@
 [submodule "vitals"]
 	path = vitals
 	url = https://github.com/cran/vitals
+[submodule "vitopack"]
+	path = vitopack
+	url = https://github.com/cran/vitopack
 [submodule "vivaglint"]
 	path = vivaglint
 	url = https://github.com/cran/vivaglint
