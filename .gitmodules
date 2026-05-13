@@ -25445,6 +25445,9 @@
 [submodule "bootkmeans"]
 	path = bootkmeans
 	url = https://github.com/cran/bootkmeans
+[submodule "bootmlm"]
+	path = bootmlm
+	url = https://github.com/cran/bootmlm
 [submodule "bootnet"]
 	path = bootnet
 	url = https://github.com/cran/bootnet
