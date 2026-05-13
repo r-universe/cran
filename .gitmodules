@@ -37850,6 +37850,9 @@
 [submodule "geoBayes"]
 	path = geoBayes
 	url = https://github.com/cran/geoBayes
+[submodule "geoDeltaAudit"]
+	path = geoDeltaAudit
+	url = https://github.com/cran/geoDeltaAudit
 [submodule "geoGAM"]
 	path = geoGAM
 	url = https://github.com/cran/geoGAM
@@ -42545,6 +42548,9 @@
 [submodule "inops"]
 	path = inops
 	url = https://github.com/cran/inops
+[submodule "inough"]
+	path = inough
+	url = https://github.com/cran/inough
 [submodule "inpdfr"]
 	path = inpdfr
 	url = https://github.com/cran/inpdfr
