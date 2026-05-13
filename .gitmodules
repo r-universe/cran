@@ -1631,6 +1631,9 @@
 [submodule "BayesPieceHazSelect"]
 	path = BayesPieceHazSelect
 	url = https://github.com/cran/BayesPieceHazSelect
+[submodule "BayesPocket"]
+	path = BayesPocket
+	url = https://github.com/cran/BayesPocket
 [submodule "BayesPostEst"]
 	path = BayesPostEst
 	url = https://github.com/cran/BayesPostEst
@@ -3158,6 +3161,9 @@
 [submodule "CirclesIntersections"]
 	path = CirclesIntersections
 	url = https://github.com/cran/CirclesIntersections
+[submodule "CircularBoxplots"]
+	path = CircularBoxplots
+	url = https://github.com/cran/CircularBoxplots
 [submodule "CircularDDM"]
 	path = CircularDDM
 	url = https://github.com/cran/CircularDDM
@@ -14600,6 +14606,9 @@
 [submodule "R.AlphA.Home"]
 	path = R.AlphA.Home
 	url = https://github.com/cran/R.AlphA.Home
+[submodule "R.ComDim"]
+	path = R.ComDim
+	url = https://github.com/cran/R.ComDim
 [submodule "R.cache"]
 	path = R.cache
 	url = https://github.com/cran/R.cache
@@ -30005,6 +30014,9 @@
 [submodule "currentSurvival"]
 	path = currentSurvival
 	url = https://github.com/cran/currentSurvival
+[submodule "curriculr"]
+	path = curriculr
+	url = https://github.com/cran/curriculr
 [submodule "currr"]
 	path = currr
 	url = https://github.com/cran/currr
@@ -32327,6 +32339,9 @@
 [submodule "drmeta"]
 	path = drmeta
 	url = https://github.com/cran/drmeta
+[submodule "drogonR"]
+	path = drogonR
+	url = https://github.com/cran/drogonR
 [submodule "droll"]
 	path = droll
 	url = https://github.com/cran/droll
@@ -35501,6 +35516,9 @@
 [submodule "featForge"]
 	path = featForge
 	url = https://github.com/cran/featForge
+[submodule "featdelta"]
+	path = featdelta
+	url = https://github.com/cran/featdelta
 [submodule "feather"]
 	path = feather
 	url = https://github.com/cran/feather
@@ -41513,6 +41531,9 @@
 [submodule "hydrodownloadR"]
 	path = hydrodownloadR
 	url = https://github.com/cran/hydrodownloadR
+[submodule "hydroeval"]
+	path = hydroeval
+	url = https://github.com/cran/hydroeval
 [submodule "hydrogeo"]
 	path = hydrogeo
 	url = https://github.com/cran/hydrogeo
@@ -51974,6 +51995,9 @@
 [submodule "openMSE"]
 	path = openMSE
 	url = https://github.com/cran/openMSE
+[submodule "openNCAI"]
+	path = openNCAI
+	url = https://github.com/cran/openNCAI
 [submodule "openNLP"]
 	path = openNLP
 	url = https://github.com/cran/openNLP
@@ -52469,6 +52493,9 @@
 [submodule "osum"]
 	path = osum
 	url = https://github.com/cran/osum
+[submodule "otTensor"]
+	path = otTensor
+	url = https://github.com/cran/otTensor
 [submodule "otargen"]
 	path = otargen
 	url = https://github.com/cran/otargen
@@ -53024,6 +53051,9 @@
 [submodule "paran"]
 	path = paran
 	url = https://github.com/cran/paran
+[submodule "parasiteR"]
+	path = parasiteR
+	url = https://github.com/cran/parasiteR
 [submodule "parcats"]
 	path = parcats
 	url = https://github.com/cran/parcats
@@ -54410,6 +54440,9 @@
 [submodule "pkgverse"]
 	path = pkgverse
 	url = https://github.com/cran/pkgverse
+[submodule "pkmapr"]
+	path = pkmapr
+	url = https://github.com/cran/pkmapr
 [submodule "pkmon"]
 	path = pkmon
 	url = https://github.com/cran/pkmon
@@ -56042,6 +56075,9 @@
 [submodule "psfmi"]
 	path = psfmi
 	url = https://github.com/cran/psfmi
+[submodule "psgc"]
+	path = psgc
+	url = https://github.com/cran/psgc
 [submodule "psgp"]
 	path = psgp
 	url = https://github.com/cran/psgp
@@ -63020,6 +63056,9 @@
 [submodule "sherlock"]
 	path = sherlock
 	url = https://github.com/cran/sherlock
+[submodule "shewhartr"]
+	path = shewhartr
+	url = https://github.com/cran/shewhartr
 [submodule "shidashi"]
 	path = shidashi
 	url = https://github.com/cran/shidashi
@@ -65339,6 +65378,9 @@
 [submodule "spldv"]
 	path = spldv
 	url = https://github.com/cran/spldv
+[submodule "splikit"]
+	path = splikit
+	url = https://github.com/cran/splikit
 [submodule "splineCox"]
 	path = splineCox
 	url = https://github.com/cran/splineCox
@@ -69581,6 +69623,9 @@
 [submodule "tscount"]
 	path = tscount
 	url = https://github.com/cran/tscount
+[submodule "tscv"]
+	path = tscv
+	url = https://github.com/cran/tscv
 [submodule "tsdataleaks"]
 	path = tsdataleaks
 	url = https://github.com/cran/tsdataleaks
