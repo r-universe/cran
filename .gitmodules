@@ -1439,6 +1439,9 @@
 [submodule "BacenAPI"]
 	path = BacenAPI
 	url = https://github.com/cran/BacenAPI
+[submodule "BagWhiskerPlot"]
+	path = BagWhiskerPlot
+	url = https://github.com/cran/BagWhiskerPlot
 [submodule "BalanceCheck"]
 	path = BalanceCheck
 	url = https://github.com/cran/BalanceCheck
@@ -14534,6 +14537,9 @@
 [submodule "QregBB"]
 	path = QregBB
 	url = https://github.com/cran/QregBB
+[submodule "QsRutils"]
+	path = QsRutils
+	url = https://github.com/cran/QsRutils
 [submodule "Qtools"]
 	path = Qtools
 	url = https://github.com/cran/Qtools
@@ -22187,6 +22193,9 @@
 [submodule "aiRthermo"]
 	path = aiRthermo
 	url = https://github.com/cran/aiRthermo
+[submodule "aieconindex"]
+	path = aieconindex
+	url = https://github.com/cran/aieconindex
 [submodule "aifeducation"]
 	path = aifeducation
 	url = https://github.com/cran/aifeducation
@@ -25331,6 +25340,9 @@
 [submodule "boggy"]
 	path = boggy
 	url = https://github.com/cran/boggy
+[submodule "boids4R"]
+	path = boids4R
+	url = https://github.com/cran/boids4R
 [submodule "boilerpipeR"]
 	path = boilerpipeR
 	url = https://github.com/cran/boilerpipeR
@@ -37472,6 +37484,9 @@
 [submodule "gbm2sas"]
 	path = gbm2sas
 	url = https://github.com/cran/gbm2sas
+[submodule "gbm3"]
+	path = gbm3
+	url = https://github.com/cran/gbm3
 [submodule "gbmt"]
 	path = gbmt
 	url = https://github.com/cran/gbmt
@@ -41339,6 +41354,9 @@
 [submodule "html2R"]
 	path = html2R
 	url = https://github.com/cran/html2R
+[submodule "html2pdfR"]
+	path = html2pdfR
+	url = https://github.com/cran/html2pdfR
 [submodule "html5"]
 	path = html5
 	url = https://github.com/cran/html5
