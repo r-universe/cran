@@ -8450,9 +8450,6 @@
 [submodule "IFMCDM"]
 	path = IFMCDM
 	url = https://github.com/cran/IFMCDM
-[submodule "IFP"]
-	path = IFP
-	url = https://github.com/cran/IFP
 [submodule "IFTPredictor"]
 	path = IFTPredictor
 	url = https://github.com/cran/IFTPredictor
@@ -40442,9 +40439,6 @@
 [submodule "hapassoc"]
 	path = hapassoc
 	url = https://github.com/cran/hapassoc
-[submodule "haplo.ccs"]
-	path = haplo.ccs
-	url = https://github.com/cran/haplo.ccs
 [submodule "haplo.stats"]
 	path = haplo.stats
 	url = https://github.com/cran/haplo.stats
