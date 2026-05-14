@@ -12443,6 +12443,9 @@
 [submodule "OLCPM"]
 	path = OLCPM
 	url = https://github.com/cran/OLCPM
+[submodule "OLSengine"]
+	path = OLSengine
+	url = https://github.com/cran/OLSengine
 [submodule "OLStrajr"]
 	path = OLStrajr
 	url = https://github.com/cran/OLStrajr
@@ -23552,9 +23555,6 @@
 [submodule "aws"]
 	path = aws
 	url = https://github.com/cran/aws
-[submodule "aws.alexa"]
-	path = aws.alexa
-	url = https://github.com/cran/aws.alexa
 [submodule "aws.ec2metadata"]
 	path = aws.ec2metadata
 	url = https://github.com/cran/aws.ec2metadata
@@ -46523,6 +46523,9 @@
 [submodule "marsrad"]
 	path = marsrad
 	url = https://github.com/cran/marsrad
+[submodule "marsruntime"]
+	path = marsruntime
+	url = https://github.com/cran/marsruntime
 [submodule "mas"]
 	path = mas
 	url = https://github.com/cran/mas
