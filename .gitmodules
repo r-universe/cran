@@ -64646,6 +64646,9 @@
 [submodule "solvebio"]
 	path = solvebio
 	url = https://github.com/cran/solvebio
+[submodule "solvency2rfr"]
+	path = solvency2rfr
+	url = https://github.com/cran/solvency2rfr
 [submodule "som"]
 	path = som
 	url = https://github.com/cran/som
@@ -67190,6 +67193,9 @@
 [submodule "symSEM"]
 	path = symSEM
 	url = https://github.com/cran/symSEM
+[submodule "symTensor"]
+	path = symTensor
+	url = https://github.com/cran/symTensor
 [submodule "symbol.equation.gpt"]
 	path = symbol.equation.gpt
 	url = https://github.com/cran/symbol.equation.gpt
