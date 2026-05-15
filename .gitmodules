@@ -26639,9 +26639,6 @@
 [submodule "ccaPP"]
 	path = ccaPP
 	url = https://github.com/cran/ccaPP
-[submodule "ccar3"]
-	path = ccar3
-	url = https://github.com/cran/ccar3
 [submodule "cccd"]
 	path = cccd
 	url = https://github.com/cran/cccd
@@ -39206,9 +39203,6 @@
 [submodule "glmmfields"]
 	path = glmmfields
 	url = https://github.com/cran/glmmfields
-[submodule "glmmrBase"]
-	path = glmmrBase
-	url = https://github.com/cran/glmmrBase
 [submodule "glmmrOptim"]
 	path = glmmrOptim
 	url = https://github.com/cran/glmmrOptim
@@ -44522,9 +44516,6 @@
 [submodule "latticeExtra"]
 	path = latticeExtra
 	url = https://github.com/cran/latticeExtra
-[submodule "lavDiag"]
-	path = lavDiag
-	url = https://github.com/cran/lavDiag
 [submodule "lava"]
 	path = lava
 	url = https://github.com/cran/lava
@@ -46442,9 +46433,6 @@
 [submodule "marginalizedRisk"]
 	path = marginalizedRisk
 	url = https://github.com/cran/marginalizedRisk
-[submodule "marginme"]
-	path = marginme
-	url = https://github.com/cran/marginme
 [submodule "margins"]
 	path = margins
 	url = https://github.com/cran/margins
@@ -61112,9 +61100,6 @@
 [submodule "rts"]
 	path = rts
 	url = https://github.com/cran/rts
-[submodule "rts2"]
-	path = rts2
-	url = https://github.com/cran/rts2
 [submodule "rtson"]
 	path = rtson
 	url = https://github.com/cran/rtson
@@ -61682,9 +61667,6 @@
 [submodule "santaR"]
 	path = santaR
 	url = https://github.com/cran/santaR
-[submodule "santoku"]
-	path = santoku
-	url = https://github.com/cran/santoku
 [submodule "sanzo"]
 	path = sanzo
 	url = https://github.com/cran/sanzo
