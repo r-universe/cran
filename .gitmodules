@@ -29249,6 +29249,9 @@
 [submodule "countyhealthR"]
 	path = countyhealthR
 	url = https://github.com/cran/countyhealthR
+[submodule "coupling"]
+	path = coupling
+	url = https://github.com/cran/coupling
 [submodule "couplr"]
 	path = couplr
 	url = https://github.com/cran/couplr
@@ -47861,6 +47864,9 @@
 [submodule "migest"]
 	path = migest
 	url = https://github.com/cran/migest
+[submodule "mighty.metadata"]
+	path = mighty.metadata
+	url = https://github.com/cran/mighty.metadata
 [submodule "migraph"]
 	path = migraph
 	url = https://github.com/cran/migraph
@@ -52649,6 +52655,9 @@
 [submodule "oysteR"]
 	path = oysteR
 	url = https://github.com/cran/oysteR
+[submodule "oystermapR"]
+	path = oystermapR
+	url = https://github.com/cran/oystermapR
 [submodule "oz"]
 	path = oz
 	url = https://github.com/cran/oz
@@ -65786,6 +65795,9 @@
 [submodule "sss"]
 	path = sss
 	url = https://github.com/cran/sss
+[submodule "sssvcqr"]
+	path = sssvcqr
+	url = https://github.com/cran/sssvcqr
 [submodule "sstn"]
 	path = sstn
 	url = https://github.com/cran/sstn
@@ -65987,6 +65999,9 @@
 [submodule "statGraph"]
 	path = statGraph
 	url = https://github.com/cran/statGraph
+[submodule "statMatchLCM"]
+	path = statMatchLCM
+	url = https://github.com/cran/statMatchLCM
 [submodule "statar"]
 	path = statar
 	url = https://github.com/cran/statar
