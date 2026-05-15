@@ -8093,6 +8093,9 @@
 [submodule "Hassani.Silva"]
 	path = Hassani.Silva
 	url = https://github.com/cran/Hassani.Silva
+[submodule "HausdorffGoF"]
+	path = HausdorffGoF
+	url = https://github.com/cran/HausdorffGoF
 [submodule "HazardDiff"]
 	path = HazardDiff
 	url = https://github.com/cran/HazardDiff
@@ -43058,6 +43061,9 @@
 [submodule "island"]
 	path = island
 	url = https://github.com/cran/island
+[submodule "islandcodes"]
+	path = islandcodes
+	url = https://github.com/cran/islandcodes
 [submodule "islasso"]
 	path = islasso
 	url = https://github.com/cran/islasso
@@ -46940,6 +46946,9 @@
 [submodule "mcptools"]
 	path = mcptools
 	url = https://github.com/cran/mcptools
+[submodule "mcqAnalysis"]
+	path = mcqAnalysis
+	url = https://github.com/cran/mcqAnalysis
 [submodule "mcr"]
 	path = mcr
 	url = https://github.com/cran/mcr
@@ -47252,6 +47261,9 @@
 [submodule "messydates"]
 	path = messydates
 	url = https://github.com/cran/messydates
+[submodule "metANN"]
+	path = metANN
+	url = https://github.com/cran/metANN
 [submodule "metR"]
 	path = metR
 	url = https://github.com/cran/metR
@@ -51488,6 +51500,9 @@
 [submodule "nucim"]
 	path = nucim
 	url = https://github.com/cran/nucim
+[submodule "nudibranch"]
+	path = nudibranch
+	url = https://github.com/cran/nudibranch
 [submodule "nuggets"]
 	path = nuggets
 	url = https://github.com/cran/nuggets
@@ -69404,6 +69419,9 @@
 [submodule "treePlotArea"]
 	path = treePlotArea
 	url = https://github.com/cran/treePlotArea
+[submodule "treeSS"]
+	path = treeSS
+	url = https://github.com/cran/treeSS
 [submodule "treebalance"]
 	path = treebalance
 	url = https://github.com/cran/treebalance
