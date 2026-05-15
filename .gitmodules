@@ -22580,9 +22580,6 @@
 [submodule "anim.plots"]
 	path = anim.plots
 	url = https://github.com/cran/anim.plots
-[submodule "animalEKF"]
-	path = animalEKF
-	url = https://github.com/cran/animalEKF
 [submodule "animate"]
 	path = animate
 	url = https://github.com/cran/animate
@@ -70895,18 +70892,12 @@
 [submodule "vegclust"]
 	path = vegclust
 	url = https://github.com/cran/vegclust
-[submodule "vegdata"]
-	path = vegdata
-	url = https://github.com/cran/vegdata
 [submodule "vegetablesSriLanka"]
 	path = vegetablesSriLanka
 	url = https://github.com/cran/vegetablesSriLanka
 [submodule "vegperiod"]
 	path = vegperiod
 	url = https://github.com/cran/vegperiod
-[submodule "vegtable"]
-	path = vegtable
-	url = https://github.com/cran/vegtable
 [submodule "vein"]
 	path = vein
 	url = https://github.com/cran/vein
