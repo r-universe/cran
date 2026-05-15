@@ -11765,9 +11765,6 @@
 [submodule "MultiVarMI"]
 	path = MultiVarMI
 	url = https://github.com/cran/MultiVarMI
-[submodule "MultinomialCI"]
-	path = MultinomialCI
-	url = https://github.com/cran/MultinomialCI
 [submodule "MultipleBreakpoints"]
 	path = MultipleBreakpoints
 	url = https://github.com/cran/MultipleBreakpoints
@@ -61469,9 +61466,6 @@
 [submodule "saeME"]
 	path = saeME
 	url = https://github.com/cran/saeME
-[submodule "saeMSPE"]
-	path = saeMSPE
-	url = https://github.com/cran/saeMSPE
 [submodule "saePseudo"]
 	path = saePseudo
 	url = https://github.com/cran/saePseudo
@@ -64232,9 +64226,6 @@
 [submodule "smacpod"]
 	path = smacpod
 	url = https://github.com/cran/smacpod
-[submodule "smallarea"]
-	path = smallarea
-	url = https://github.com/cran/smallarea
 [submodule "smallsets"]
 	path = smallsets
 	url = https://github.com/cran/smallsets
@@ -70721,9 +70712,6 @@
 [submodule "variables"]
 	path = variables
 	url = https://github.com/cran/variables
-[submodule "varian"]
-	path = varian
-	url = https://github.com/cran/varian
 [submodule "variantspark"]
 	path = variantspark
 	url = https://github.com/cran/variantspark
@@ -71600,9 +71588,6 @@
 [submodule "weakARMA"]
 	path = weakARMA
 	url = https://github.com/cran/weakARMA
-[submodule "wearables"]
-	path = wearables
-	url = https://github.com/cran/wearables
 [submodule "weathR"]
 	path = weathR
 	url = https://github.com/cran/weathR
