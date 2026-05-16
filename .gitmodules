@@ -58388,9 +58388,6 @@
 [submodule "reactable.extras"]
 	path = reactable.extras
 	url = https://github.com/cran/reactable.extras
-[submodule "reactablefmtr"]
-	path = reactablefmtr
-	url = https://github.com/cran/reactablefmtr
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
@@ -66806,9 +66803,6 @@
 [submodule "survML"]
 	path = survML
 	url = https://github.com/cran/survML
-[submodule "survMisc"]
-	path = survMisc
-	url = https://github.com/cran/survMisc
 [submodule "survNMA"]
 	path = survNMA
 	url = https://github.com/cran/survNMA
