@@ -66947,9 +66947,6 @@
 [submodule "survivalsurrogate"]
 	path = survivalsurrogate
 	url = https://github.com/cran/survivalsurrogate
-[submodule "survivalsvm"]
-	path = survivalsvm
-	url = https://github.com/cran/survivalsvm
 [submodule "survivoR"]
 	path = survivoR
 	url = https://github.com/cran/survivoR
