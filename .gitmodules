@@ -17798,9 +17798,6 @@
 [submodule "SMFilter"]
 	path = SMFilter
 	url = https://github.com/cran/SMFilter
-[submodule "SMITIDstruct"]
-	path = SMITIDstruct
-	url = https://github.com/cran/SMITIDstruct
 [submodule "SMLE"]
 	path = SMLE
 	url = https://github.com/cran/SMLE
@@ -30449,6 +30446,9 @@
 [submodule "dataseries"]
 	path = dataseries
 	url = https://github.com/cran/dataseries
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/cran/dataset
 [submodule "datasetjson"]
 	path = datasetjson
 	url = https://github.com/cran/datasetjson
