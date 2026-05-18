@@ -851,6 +851,9 @@
 [submodule "AutoDeskR"]
 	path = AutoDeskR
 	url = https://github.com/cran/AutoDeskR
+[submodule "AutoNN"]
+	path = AutoNN
+	url = https://github.com/cran/AutoNN
 [submodule "AutoPlots"]
 	path = AutoPlots
 	url = https://github.com/cran/AutoPlots
@@ -1103,6 +1106,9 @@
 [submodule "BFI"]
 	path = BFI
 	url = https://github.com/cran/BFI
+[submodule "BFM"]
+	path = BFM
+	url = https://github.com/cran/BFM
 [submodule "BFS"]
 	path = BFS
 	url = https://github.com/cran/BFS
@@ -1622,6 +1628,9 @@
 [submodule "BayesPPDSurv"]
 	path = BayesPPDSurv
 	url = https://github.com/cran/BayesPPDSurv
+[submodule "BayesPPR"]
+	path = BayesPPR
+	url = https://github.com/cran/BayesPPR
 [submodule "BayesPieceHazSelect"]
 	path = BayesPieceHazSelect
 	url = https://github.com/cran/BayesPieceHazSelect
@@ -24788,6 +24797,9 @@
 [submodule "binst"]
 	path = binst
 	url = https://github.com/cran/binst
+[submodule "binxr"]
+	path = binxr
+	url = https://github.com/cran/binxr
 [submodule "bio.infer"]
 	path = bio.infer
 	url = https://github.com/cran/bio.infer
@@ -25292,6 +25304,9 @@
 [submodule "bolasso"]
 	path = bolasso
 	url = https://github.com/cran/bolasso
+[submodule "bolder"]
+	path = bolder
+	url = https://github.com/cran/bolder
 [submodule "bolsec"]
 	path = bolsec
 	url = https://github.com/cran/bolsec
@@ -26612,6 +26627,9 @@
 [submodule "cclust"]
 	path = cclust
 	url = https://github.com/cran/cclust
+[submodule "cclustr"]
+	path = cclustr
+	url = https://github.com/cran/cclustr
 [submodule "ccmEstimator"]
 	path = ccmEstimator
 	url = https://github.com/cran/ccmEstimator
@@ -37640,6 +37658,9 @@
 [submodule "genderapi"]
 	path = genderapi
 	url = https://github.com/cran/genderapi
+[submodule "gendercoder"]
+	path = gendercoder
+	url = https://github.com/cran/gendercoder
 [submodule "genderstat"]
 	path = genderstat
 	url = https://github.com/cran/genderstat
@@ -44591,6 +44612,9 @@
 [submodule "ldt"]
 	path = ldt
 	url = https://github.com/cran/ldt
+[submodule "leadeR"]
+	path = leadeR
+	url = https://github.com/cran/leadeR
 [submodule "leaderCluster"]
 	path = leaderCluster
 	url = https://github.com/cran/leaderCluster
@@ -46628,6 +46652,9 @@
 [submodule "maxent.ot"]
 	path = maxent.ot
 	url = https://github.com/cran/maxent.ot
+[submodule "maxentcpp"]
+	path = maxentcpp
+	url = https://github.com/cran/maxentcpp
 [submodule "maximin"]
 	path = maximin
 	url = https://github.com/cran/maximin
@@ -52331,6 +52358,9 @@
 [submodule "origin"]
 	path = origin
 	url = https://github.com/cran/origin
+[submodule "orisma"]
+	path = orisma
+	url = https://github.com/cran/orisma
 [submodule "orloca"]
 	path = orloca
 	url = https://github.com/cran/orloca
@@ -60398,6 +60428,9 @@
 [submodule "roundhouse"]
 	path = roundhouse
 	url = https://github.com/cran/roundhouse
+[submodule "roundr"]
+	path = roundr
+	url = https://github.com/cran/roundr
 [submodule "roundwork"]
 	path = roundwork
 	url = https://github.com/cran/roundwork
@@ -61199,6 +61232,9 @@
 [submodule "rxode2ll"]
 	path = rxode2ll
 	url = https://github.com/cran/rxode2ll
+[submodule "rxode2mrgsolvebridge"]
+	path = rxode2mrgsolvebridge
+	url = https://github.com/cran/rxode2mrgsolvebridge
 [submodule "rxylib"]
 	path = rxylib
 	url = https://github.com/cran/rxylib
@@ -64409,6 +64445,9 @@
 [submodule "snvecR"]
 	path = snvecR
 	url = https://github.com/cran/snvecR
+[submodule "sobol"]
+	path = sobol
+	url = https://github.com/cran/sobol
 [submodule "sobolnp"]
 	path = sobolnp
 	url = https://github.com/cran/sobolnp
@@ -65714,6 +65753,9 @@
 [submodule "staRdom"]
 	path = staRdom
 	url = https://github.com/cran/staRdom
+[submodule "staat1cho"]
+	path = staat1cho
+	url = https://github.com/cran/staat1cho
 [submodule "stabiliser"]
 	path = stabiliser
 	url = https://github.com/cran/stabiliser
@@ -70805,6 +70847,9 @@
 [submodule "venn"]
 	path = venn
 	url = https://github.com/cran/venn
+[submodule "vennDiagramLab"]
+	path = vennDiagramLab
+	url = https://github.com/cran/vennDiagramLab
 [submodule "venneuler"]
 	path = venneuler
 	url = https://github.com/cran/venneuler
