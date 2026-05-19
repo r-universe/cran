@@ -16067,9 +16067,6 @@
 [submodule "RastaRocket"]
 	path = RastaRocket
 	url = https://github.com/cran/RastaRocket
-[submodule "Rata"]
-	path = Rata
-	url = https://github.com/cran/Rata
 [submodule "RatingScaleReduction"]
 	path = RatingScaleReduction
 	url = https://github.com/cran/RatingScaleReduction
@@ -16886,9 +16883,6 @@
 [submodule "Rmpi"]
 	path = Rmpi
 	url = https://github.com/cran/Rmpi
-[submodule "Rmst"]
-	path = Rmst
-	url = https://github.com/cran/Rmst
 [submodule "Rnanoflann"]
 	path = Rnanoflann
 	url = https://github.com/cran/Rnanoflann
@@ -35420,9 +35414,6 @@
 [submodule "fdarep"]
 	path = fdarep
 	url = https://github.com/cran/fdarep
-[submodule "fdars"]
-	path = fdars
-	url = https://github.com/cran/fdars
 [submodule "fdasrvf"]
 	path = fdasrvf
 	url = https://github.com/cran/fdasrvf
@@ -39245,9 +39236,6 @@
 [submodule "glow"]
 	path = glow
 	url = https://github.com/cran/glow
-[submodule "glpkAPI"]
-	path = glpkAPI
-	url = https://github.com/cran/glpkAPI
 [submodule "glscalibrator"]
 	path = glscalibrator
 	url = https://github.com/cran/glscalibrator
@@ -39899,9 +39887,6 @@
 [submodule "groc"]
 	path = groc
 	url = https://github.com/cran/groc
-[submodule "gromovlab"]
-	path = gromovlab
-	url = https://github.com/cran/gromovlab
 [submodule "groqR"]
 	path = groqR
 	url = https://github.com/cran/groqR
@@ -72434,9 +72419,6 @@
 [submodule "xwf"]
 	path = xwf
 	url = https://github.com/cran/xwf
-[submodule "xxIRT"]
-	path = xxIRT
-	url = https://github.com/cran/xxIRT
 [submodule "xxdi"]
 	path = xxdi
 	url = https://github.com/cran/xxdi
