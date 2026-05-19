@@ -4961,6 +4961,9 @@
 [submodule "DrBats"]
 	path = DrBats
 	url = https://github.com/cran/DrBats
+[submodule "DrData"]
+	path = DrData
+	url = https://github.com/cran/DrData
 [submodule "DrDimont"]
 	path = DrDimont
 	url = https://github.com/cran/DrDimont
@@ -8099,6 +8102,9 @@
 [submodule "HealthCal"]
 	path = HealthCal
 	url = https://github.com/cran/HealthCal
+[submodule "HealthMarkers"]
+	path = HealthMarkers
+	url = https://github.com/cran/HealthMarkers
 [submodule "HeatmapR"]
 	path = HeatmapR
 	url = https://github.com/cran/HeatmapR
@@ -8720,6 +8726,9 @@
 [submodule "Immigrate"]
 	path = Immigrate
 	url = https://github.com/cran/Immigrate
+[submodule "ImmuneSigR"]
+	path = ImmuneSigR
+	url = https://github.com/cran/ImmuneSigR
 [submodule "Immutables"]
 	path = Immutables
 	url = https://github.com/cran/Immutables
@@ -8984,6 +8993,9 @@
 [submodule "JM"]
 	path = JM
 	url = https://github.com/cran/JM
+[submodule "JM4QTN"]
+	path = JM4QTN
+	url = https://github.com/cran/JM4QTN
 [submodule "JMH"]
 	path = JMH
 	url = https://github.com/cran/JMH
@@ -9155,9 +9167,6 @@
 [submodule "KMLtoSHAPE"]
 	path = KMLtoSHAPE
 	url = https://github.com/cran/KMLtoSHAPE
-[submodule "KMT"]
-	path = KMT
-	url = https://github.com/cran/KMT
 [submodule "KMsurv"]
 	path = KMsurv
 	url = https://github.com/cran/KMsurv
@@ -11417,9 +11426,6 @@
 [submodule "MiscMath"]
 	path = MiscMath
 	url = https://github.com/cran/MiscMath
-[submodule "MiscMetabar"]
-	path = MiscMetabar
-	url = https://github.com/cran/MiscMetabar
 [submodule "MissCP"]
 	path = MissCP
 	url = https://github.com/cran/MissCP
@@ -14966,6 +14972,9 @@
 [submodule "REFA"]
 	path = REFA
 	url = https://github.com/cran/REFA
+[submodule "REFT"]
+	path = REFT
+	url = https://github.com/cran/REFT
 [submodule "REGENT"]
 	path = REGENT
 	url = https://github.com/cran/REGENT
@@ -17489,6 +17498,9 @@
 [submodule "SDGdetector"]
 	path = SDGdetector
 	url = https://github.com/cran/SDGdetector
+[submodule "SDI"]
+	path = SDI
+	url = https://github.com/cran/SDI
 [submodule "SDLfilter"]
 	path = SDLfilter
 	url = https://github.com/cran/SDLfilter
@@ -18689,6 +18701,9 @@
 [submodule "SimtablR"]
 	path = SimtablR
 	url = https://github.com/cran/SimtablR
+[submodule "SimuRg"]
+	path = SimuRg
+	url = https://github.com/cran/SimuRg
 [submodule "SingleArmMRCT"]
 	path = SingleArmMRCT
 	url = https://github.com/cran/SingleArmMRCT
@@ -20594,6 +20609,9 @@
 [submodule "VARSELECTEXPOSURE"]
 	path = VARSELECTEXPOSURE
 	url = https://github.com/cran/VARSELECTEXPOSURE
+[submodule "VARcheck"]
+	path = VARcheck
+	url = https://github.com/cran/VARcheck
 [submodule "VARcpDetectOnline"]
 	path = VARcpDetectOnline
 	url = https://github.com/cran/VARcpDetectOnline
@@ -28646,6 +28664,9 @@
 [submodule "conflicted"]
 	path = conflicted
 	url = https://github.com/cran/conflicted
+[submodule "conforest"]
+	path = conforest
+	url = https://github.com/cran/conforest
 [submodule "conformalClassification"]
 	path = conformalClassification
 	url = https://github.com/cran/conformalClassification
@@ -30569,6 +30590,9 @@
 [submodule "dbMC"]
 	path = dbMC
 	url = https://github.com/cran/dbMC
+[submodule "dbMatrix"]
+	path = dbMatrix
+	url = https://github.com/cran/dbMatrix
 [submodule "dbProject"]
 	path = dbProject
 	url = https://github.com/cran/dbProject
@@ -31451,6 +31475,9 @@
 [submodule "diffcor"]
 	path = diffcor
 	url = https://github.com/cran/diffcor
+[submodule "diffcp"]
+	path = diffcp
+	url = https://github.com/cran/diffcp
 [submodule "diffdf"]
 	path = diffdf
 	url = https://github.com/cran/diffdf
@@ -32273,9 +32300,6 @@
 [submodule "dreamerr"]
 	path = dreamerr
 	url = https://github.com/cran/dreamerr
-[submodule "dress.graph"]
-	path = dress.graph
-	url = https://github.com/cran/dress.graph
 [submodule "drf"]
 	path = drf
 	url = https://github.com/cran/drf
@@ -34424,6 +34448,9 @@
 [submodule "evtree"]
 	path = evtree
 	url = https://github.com/cran/evtree
+[submodule "ewens"]
+	path = ewens
+	url = https://github.com/cran/ewens
 [submodule "ewoc"]
 	path = ewoc
 	url = https://github.com/cran/ewoc
@@ -37535,6 +37562,9 @@
 [submodule "gecko"]
 	path = gecko
 	url = https://github.com/cran/gecko
+[submodule "gedi2"]
+	path = gedi2
+	url = https://github.com/cran/gedi2
 [submodule "gee"]
 	path = gee
 	url = https://github.com/cran/gee
@@ -39905,6 +39935,9 @@
 [submodule "groupdata2"]
 	path = groupdata2
 	url = https://github.com/cran/groupdata2
+[submodule "groupedHyperframe.random"]
+	path = groupedHyperframe.random
+	url = https://github.com/cran/groupedHyperframe.random
 [submodule "groupedSurv"]
 	path = groupedSurv
 	url = https://github.com/cran/groupedSurv
@@ -39977,6 +40010,9 @@
 [submodule "grt"]
 	path = grt
 	url = https://github.com/cran/grt
+[submodule "grumpy"]
+	path = grumpy
+	url = https://github.com/cran/grumpy
 [submodule "grwat"]
 	path = grwat
 	url = https://github.com/cran/grwat
@@ -45206,6 +45242,9 @@
 [submodule "llogistic"]
 	path = llogistic
 	url = https://github.com/cran/llogistic
+[submodule "llrem"]
+	path = llrem
+	url = https://github.com/cran/llrem
 [submodule "lm.beta"]
 	path = lm.beta
 	url = https://github.com/cran/lm.beta
@@ -46439,6 +46478,9 @@
 [submodule "mars"]
 	path = mars
 	url = https://github.com/cran/mars
+[submodule "marsearth"]
+	path = marsearth
+	url = https://github.com/cran/marsearth
 [submodule "marsrad"]
 	path = marsrad
 	url = https://github.com/cran/marsrad
@@ -48185,6 +48227,9 @@
 [submodule "mixsqp"]
 	path = mixsqp
 	url = https://github.com/cran/mixsqp
+[submodule "mixtime"]
+	path = mixtime
+	url = https://github.com/cran/mixtime
 [submodule "mixtools"]
 	path = mixtools
 	url = https://github.com/cran/mixtools
@@ -49889,6 +49934,9 @@
 [submodule "mvnimpute"]
 	path = mvnimpute
 	url = https://github.com/cran/mvnimpute
+[submodule "mvnma"]
+	path = mvnma
+	url = https://github.com/cran/mvnma
 [submodule "mvnmle"]
 	path = mvnmle
 	url = https://github.com/cran/mvnmle
@@ -50570,6 +50618,9 @@
 [submodule "newTestSurvRec"]
 	path = newTestSurvRec
 	url = https://github.com/cran/newTestSurvRec
+[submodule "newmark"]
+	path = newmark
+	url = https://github.com/cran/newmark
 [submodule "newsanchor"]
 	path = newsanchor
 	url = https://github.com/cran/newsanchor
@@ -50636,6 +50687,9 @@
 [submodule "nhanesdata"]
 	path = nhanesdata
 	url = https://github.com/cran/nhanesdata
+[submodule "nhanesdiva"]
+	path = nhanesdiva
+	url = https://github.com/cran/nhanesdiva
 [submodule "nhdR"]
 	path = nhdR
 	url = https://github.com/cran/nhdR
@@ -52754,6 +52808,9 @@
 [submodule "pairsD3"]
 	path = pairsD3
 	url = https://github.com/cran/pairsD3
+[submodule "pairscale"]
+	path = pairscale
+	url = https://github.com/cran/pairscale
 [submodule "pairwise"]
 	path = pairwise
 	url = https://github.com/cran/pairwise
@@ -56834,6 +56891,9 @@
 [submodule "quantspec"]
 	path = quantspec
 	url = https://github.com/cran/quantspec
+[submodule "quaqcr"]
+	path = quaqcr
+	url = https://github.com/cran/quaqcr
 [submodule "quarks"]
 	path = quarks
 	url = https://github.com/cran/quarks
@@ -62678,6 +62738,9 @@
 [submodule "sequoia"]
 	path = sequoia
 	url = https://github.com/cran/sequoia
+[submodule "seqwrap"]
+	path = seqwrap
+	url = https://github.com/cran/seqwrap
 [submodule "sergeant"]
 	path = sergeant
 	url = https://github.com/cran/sergeant
@@ -64316,6 +64379,9 @@
 [submodule "smsets"]
 	path = smsets
 	url = https://github.com/cran/smsets
+[submodule "smsncut"]
+	path = smsncut
+	url = https://github.com/cran/smsncut
 [submodule "smss"]
 	path = smss
 	url = https://github.com/cran/smss
@@ -64499,6 +64565,9 @@
 [submodule "soilFlux"]
 	path = soilFlux
 	url = https://github.com/cran/soilFlux
+[submodule "soilKey"]
+	path = soilKey
+	url = https://github.com/cran/soilKey
 [submodule "soilVAE"]
 	path = soilVAE
 	url = https://github.com/cran/soilVAE
@@ -64880,6 +64949,9 @@
 [submodule "sparseSVM"]
 	path = sparseSVM
 	url = https://github.com/cran/sparseSVM
+[submodule "sparseVCBART"]
+	path = sparseVCBART
+	url = https://github.com/cran/sparseVCBART
 [submodule "sparsecommunity"]
 	path = sparsecommunity
 	url = https://github.com/cran/sparsecommunity
@@ -66476,6 +66548,9 @@
 [submodule "submax"]
 	path = submax
 	url = https://github.com/cran/submax
+[submodule "submitr"]
+	path = submitr
+	url = https://github.com/cran/submitr
 [submodule "subniche"]
 	path = subniche
 	url = https://github.com/cran/subniche
@@ -66803,6 +66878,9 @@
 [submodule "surveytable"]
 	path = surveytable
 	url = https://github.com/cran/surveytable
+[submodule "surveytidy"]
+	path = surveytidy
+	url = https://github.com/cran/surveytidy
 [submodule "surveyvoi"]
 	path = surveyvoi
 	url = https://github.com/cran/surveyvoi
@@ -67610,6 +67688,9 @@
 [submodule "teal.modules.general"]
 	path = teal.modules.general
 	url = https://github.com/cran/teal.modules.general
+[submodule "teal.picks"]
+	path = teal.picks
+	url = https://github.com/cran/teal.picks
 [submodule "teal.reporter"]
 	path = teal.reporter
 	url = https://github.com/cran/teal.reporter
@@ -71156,9 +71237,6 @@
 [submodule "volrisk"]
 	path = volrisk
 	url = https://github.com/cran/volrisk
-[submodule "voluModel"]
-	path = voluModel
-	url = https://github.com/cran/voluModel
 [submodule "voronoiTreemap"]
 	path = voronoiTreemap
 	url = https://github.com/cran/voronoiTreemap
