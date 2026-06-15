@@ -10025,9 +10025,6 @@
 [submodule "LoTTA"]
 	path = LoTTA
 	url = https://github.com/cran/LoTTA
-[submodule "LobsterCatch"]
-	path = LobsterCatch
-	url = https://github.com/cran/LobsterCatch
 [submodule "LocKer"]
 	path = LocKer
 	url = https://github.com/cran/LocKer
