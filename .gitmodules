@@ -10784,6 +10784,9 @@
 [submodule "MOsemiind"]
 	path = MOsemiind
 	url = https://github.com/cran/MOsemiind
+[submodule "MOutliers"]
+	path = MOutliers
+	url = https://github.com/cran/MOutliers
 [submodule "MPBoost"]
 	path = MPBoost
 	url = https://github.com/cran/MPBoost
@@ -24236,6 +24239,9 @@
 [submodule "baystability"]
 	path = baystability
 	url = https://github.com/cran/baystability
+[submodule "baytaAAR"]
+	path = baytaAAR
+	url = https://github.com/cran/baytaAAR
 [submodule "baytrends"]
 	path = baytrends
 	url = https://github.com/cran/baytrends
@@ -26645,6 +26651,9 @@
 [submodule "causaleffect"]
 	path = causaleffect
 	url = https://github.com/cran/causaleffect
+[submodule "causalfrag"]
+	path = causalfrag
+	url = https://github.com/cran/causalfrag
 [submodule "causalnet"]
 	path = causalnet
 	url = https://github.com/cran/causalnet
@@ -26789,6 +26798,9 @@
 [submodule "cd"]
 	path = cd
 	url = https://github.com/cran/cd
+[submodule "cdCAT"]
+	path = cdCAT
+	url = https://github.com/cran/cdCAT
 [submodule "cdata"]
 	path = cdata
 	url = https://github.com/cran/cdata
@@ -44897,6 +44909,9 @@
 [submodule "leaftime"]
 	path = leaftime
 	url = https://github.com/cran/leaftime
+[submodule "leafwax"]
+	path = leafwax
+	url = https://github.com/cran/leafwax
 [submodule "leakr"]
 	path = leakr
 	url = https://github.com/cran/leakr
@@ -45362,6 +45377,9 @@
 [submodule "lisat"]
 	path = lisat
 	url = https://github.com/cran/lisat
+[submodule "lisp"]
+	path = lisp
+	url = https://github.com/cran/lisp
 [submodule "lisrelToR"]
 	path = lisrelToR
 	url = https://github.com/cran/lisrelToR
@@ -46037,6 +46055,9 @@
 [submodule "lss2"]
 	path = lss2
 	url = https://github.com/cran/lss2
+[submodule "lssdoc"]
+	path = lssdoc
+	url = https://github.com/cran/lssdoc
 [submodule "ltable"]
 	path = ltable
 	url = https://github.com/cran/ltable
@@ -47597,6 +47618,9 @@
 [submodule "metainc"]
 	path = metainc
 	url = https://github.com/cran/metainc
+[submodule "metainsight"]
+	path = metainsight
+	url = https://github.com/cran/metainsight
 [submodule "metalcor"]
 	path = metalcor
 	url = https://github.com/cran/metalcor
@@ -55496,6 +55520,9 @@
 [submodule "poweRlaw"]
 	path = poweRlaw
 	url = https://github.com/cran/poweRlaw
+[submodule "power.nb"]
+	path = power.nb
+	url = https://github.com/cran/power.nb
 [submodule "power.transform"]
 	path = power.transform
 	url = https://github.com/cran/power.transform
@@ -58712,6 +58739,9 @@
 [submodule "reader"]
 	path = reader
 	url = https://github.com/cran/reader
+[submodule "readimf"]
+	path = readimf
+	url = https://github.com/cran/readimf
 [submodule "readme2vignette"]
 	path = readme2vignette
 	url = https://github.com/cran/readme2vignette
@@ -59921,6 +59951,9 @@
 [submodule "ring"]
 	path = ring
 	url = https://github.com/cran/ring
+[submodule "ringbp"]
+	path = ringbp
+	url = https://github.com/cran/ringbp
 [submodule "ringostat"]
 	path = ringostat
 	url = https://github.com/cran/ringostat
@@ -62867,6 +62900,9 @@
 [submodule "semantic.dashboard"]
 	path = semantic.dashboard
 	url = https://github.com/cran/semantic.dashboard
+[submodule "semanticfa"]
+	path = semanticfa
+	url = https://github.com/cran/semanticfa
 [submodule "semaphore"]
 	path = semaphore
 	url = https://github.com/cran/semaphore
@@ -68717,6 +68753,9 @@
 [submodule "tidycomm"]
 	path = tidycomm
 	url = https://github.com/cran/tidycomm
+[submodule "tidycorrgram"]
+	path = tidycorrgram
+	url = https://github.com/cran/tidycorrgram
 [submodule "tidycountries"]
 	path = tidycountries
 	url = https://github.com/cran/tidycountries
