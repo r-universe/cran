@@ -27485,6 +27485,9 @@
 [submodule "circular"]
 	path = circular
 	url = https://github.com/cran/circular
+[submodule "circularEV"]
+	path = circularEV
+	url = https://github.com/cran/circularEV
 [submodule "circularKDE"]
 	path = circularKDE
 	url = https://github.com/cran/circularKDE
