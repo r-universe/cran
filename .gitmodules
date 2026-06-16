@@ -1685,6 +1685,9 @@
 [submodule "BayesSurvive"]
 	path = BayesSurvive
 	url = https://github.com/cran/BayesSurvive
+[submodule "BayesTSM"]
+	path = BayesTSM
+	url = https://github.com/cran/BayesTSM
 [submodule "BayesTools"]
 	path = BayesTools
 	url = https://github.com/cran/BayesTools
@@ -2393,6 +2396,9 @@
 [submodule "CDsampling"]
 	path = CDsampling
 	url = https://github.com/cran/CDsampling
+[submodule "CEACT"]
+	path = CEACT
+	url = https://github.com/cran/CEACT
 [submodule "CEC"]
 	path = CEC
 	url = https://github.com/cran/CEC
@@ -3197,6 +3203,9 @@
 [submodule "CircularSilhouette"]
 	path = CircularSilhouette
 	url = https://github.com/cran/CircularSilhouette
+[submodule "CiteSource"]
+	path = CiteSource
+	url = https://github.com/cran/CiteSource
 [submodule "Ckmeans.1d.dp"]
 	path = Ckmeans.1d.dp
 	url = https://github.com/cran/Ckmeans.1d.dp
@@ -7037,6 +7046,9 @@
 [submodule "GK2011"]
 	path = GK2011
 	url = https://github.com/cran/GK2011
+[submodule "GLBFP"]
+	path = GLBFP
+	url = https://github.com/cran/GLBFP
 [submodule "GLCMTextures"]
 	path = GLCMTextures
 	url = https://github.com/cran/GLCMTextures
@@ -7523,6 +7535,9 @@
 [submodule "GeneralizedWendland"]
 	path = GeneralizedWendland
 	url = https://github.com/cran/GeneralizedWendland
+[submodule "GenerateIndexPedigree"]
+	path = GenerateIndexPedigree
+	url = https://github.com/cran/GenerateIndexPedigree
 [submodule "GenericML"]
 	path = GenericML
 	url = https://github.com/cran/GenericML
@@ -25658,6 +25673,9 @@
 [submodule "bpr"]
 	path = bpr
 	url = https://github.com/cran/bpr
+[submodule "bptips"]
+	path = bptips
+	url = https://github.com/cran/bptips
 [submodule "bpvars"]
 	path = bpvars
 	url = https://github.com/cran/bpvars
@@ -32669,6 +32687,9 @@
 [submodule "dtreg"]
 	path = dtreg
 	url = https://github.com/cran/dtreg
+[submodule "dtsmartr"]
+	path = dtsmartr
+	url = https://github.com/cran/dtsmartr
 [submodule "dtt"]
 	path = dtt
 	url = https://github.com/cran/dtt
@@ -33011,6 +33032,9 @@
 [submodule "easyEWAS"]
 	path = easyEWAS
 	url = https://github.com/cran/easyEWAS
+[submodule "easyLSEA"]
+	path = easyLSEA
+	url = https://github.com/cran/easyLSEA
 [submodule "easyNCDF"]
 	path = easyNCDF
 	url = https://github.com/cran/easyNCDF
@@ -36644,6 +36668,9 @@
 [submodule "formods"]
 	path = formods
 	url = https://github.com/cran/formods
+[submodule "formr"]
+	path = formr
+	url = https://github.com/cran/formr
 [submodule "formula.tools"]
 	path = formula.tools
 	url = https://github.com/cran/formula.tools
@@ -38723,6 +38750,9 @@
 [submodule "ggmcmc"]
 	path = ggmcmc
 	url = https://github.com/cran/ggmcmc
+[submodule "ggmemo"]
+	path = ggmemo
+	url = https://github.com/cran/ggmemo
 [submodule "ggmice"]
 	path = ggmice
 	url = https://github.com/cran/ggmice
@@ -41699,6 +41729,9 @@
 [submodule "hydroToolkit"]
 	path = hydroToolkit
 	url = https://github.com/cran/hydroToolkit
+[submodule "hydrocan"]
+	path = hydrocan
+	url = https://github.com/cran/hydrocan
 [submodule "hydrodownloadR"]
 	path = hydrodownloadR
 	url = https://github.com/cran/hydrodownloadR
@@ -42212,6 +42245,9 @@
 [submodule "iemisctext"]
 	path = iemisctext
 	url = https://github.com/cran/iemisctext
+[submodule "ierd"]
+	path = ierd
+	url = https://github.com/cran/ierd
 [submodule "ieugwasr"]
 	path = ieugwasr
 	url = https://github.com/cran/ieugwasr
@@ -45473,6 +45509,9 @@
 [submodule "llmhelper"]
 	path = llmhelper
 	url = https://github.com/cran/llmhelper
+[submodule "llmjoin"]
+	path = llmjoin
+	url = https://github.com/cran/llmjoin
 [submodule "llmjson"]
 	path = llmjson
 	url = https://github.com/cran/llmjson
@@ -50999,6 +51038,9 @@
 [submodule "nice"]
 	path = nice
 	url = https://github.com/cran/nice
+[submodule "nicheR"]
+	path = nicheR
+	url = https://github.com/cran/nicheR
 [submodule "nicheROVER"]
 	path = nicheROVER
 	url = https://github.com/cran/nicheROVER
@@ -61199,6 +61241,9 @@
 [submodule "rsparse"]
 	path = rsparse
 	url = https://github.com/cran/rsparse
+[submodule "rspdlite"]
+	path = rspdlite
+	url = https://github.com/cran/rspdlite
 [submodule "rspiro"]
 	path = rspiro
 	url = https://github.com/cran/rspiro
