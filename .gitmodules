@@ -11942,6 +11942,9 @@
 [submodule "NBDesign"]
 	path = NBDesign
 	url = https://github.com/cran/NBDesign
+[submodule "NBKP"]
+	path = NBKP
+	url = https://github.com/cran/NBKP
 [submodule "NBLDA"]
 	path = NBLDA
 	url = https://github.com/cran/NBLDA
@@ -24227,6 +24230,9 @@
 [submodule "bayespmtools"]
 	path = bayespmtools
 	url = https://github.com/cran/bayespmtools
+[submodule "bayesqm"]
+	path = bayesqm
+	url = https://github.com/cran/bayesqm
 [submodule "bayesreg"]
 	path = bayesreg
 	url = https://github.com/cran/bayesreg
@@ -27563,6 +27569,9 @@
 [submodule "civ"]
 	path = civ
 	url = https://github.com/cran/civ
+[submodule "civic.icarm"]
+	path = civic.icarm
+	url = https://github.com/cran/civic.icarm
 [submodule "civis"]
 	path = civis
 	url = https://github.com/cran/civis
@@ -35864,6 +35873,9 @@
 [submodule "file2meco"]
 	path = file2meco
 	url = https://github.com/cran/file2meco
+[submodule "fileaccess"]
+	path = fileaccess
+	url = https://github.com/cran/fileaccess
 [submodule "filearray"]
 	path = filearray
 	url = https://github.com/cran/filearray
@@ -37631,6 +37643,9 @@
 [submodule "gawdis"]
 	path = gawdis
 	url = https://github.com/cran/gawdis
+[submodule "gazepath"]
+	path = gazepath
+	url = https://github.com/cran/gazepath
 [submodule "gbRd"]
 	path = gbRd
 	url = https://github.com/cran/gbRd
@@ -69254,6 +69269,9 @@
 [submodule "tinylens"]
 	path = tinylens
 	url = https://github.com/cran/tinylens
+[submodule "tinyoauth"]
+	path = tinyoauth
+	url = https://github.com/cran/tinyoauth
 [submodule "tinypkgr"]
 	path = tinypkgr
 	url = https://github.com/cran/tinypkgr
