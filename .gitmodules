@@ -11681,6 +11681,9 @@
 [submodule "MonteCarloSEM"]
 	path = MonteCarloSEM
 	url = https://github.com/cran/MonteCarloSEM
+[submodule "MoonShineR"]
+	path = MoonShineR
+	url = https://github.com/cran/MoonShineR
 [submodule "MorphSim"]
 	path = MorphSim
 	url = https://github.com/cran/MorphSim
@@ -18482,6 +18485,9 @@
 [submodule "SelfControlledCaseSeries"]
 	path = SelfControlledCaseSeries
 	url = https://github.com/cran/SelfControlledCaseSeries
+[submodule "SelfControlledCohort"]
+	path = SelfControlledCohort
+	url = https://github.com/cran/SelfControlledCohort
 [submodule "SemNeT"]
 	path = SemNeT
 	url = https://github.com/cran/SemNeT
@@ -38849,6 +38855,9 @@
 [submodule "ggplotify"]
 	path = ggplotify
 	url = https://github.com/cran/ggplotify
+[submodule "ggplotplus"]
+	path = ggplotplus
+	url = https://github.com/cran/ggplotplus
 [submodule "ggpmisc"]
 	path = ggpmisc
 	url = https://github.com/cran/ggpmisc
@@ -39263,6 +39272,9 @@
 [submodule "gkmSVM"]
 	path = gkmSVM
 	url = https://github.com/cran/gkmSVM
+[submodule "gkrreg"]
+	path = gkrreg
+	url = https://github.com/cran/gkrreg
 [submodule "gkwdist"]
 	path = gkwdist
 	url = https://github.com/cran/gkwdist
@@ -40958,6 +40970,9 @@
 [submodule "hellodatascience"]
 	path = hellodatascience
 	url = https://github.com/cran/hellodatascience
+[submodule "hellokitty"]
+	path = hellokitty
+	url = https://github.com/cran/hellokitty
 [submodule "hellorust"]
 	path = hellorust
 	url = https://github.com/cran/hellorust
@@ -48473,6 +48488,9 @@
 [submodule "mixedCCA"]
 	path = mixedCCA
 	url = https://github.com/cran/mixedCCA
+[submodule "mixedClust"]
+	path = mixedClust
+	url = https://github.com/cran/mixedClust
 [submodule "mixedLSR"]
 	path = mixedLSR
 	url = https://github.com/cran/mixedLSR
@@ -51182,6 +51200,9 @@
 [submodule "nlmixr2rpt"]
 	path = nlmixr2rpt
 	url = https://github.com/cran/nlmixr2rpt
+[submodule "nlmixr2save"]
+	path = nlmixr2save
+	url = https://github.com/cran/nlmixr2save
 [submodule "nlmixr2targets"]
 	path = nlmixr2targets
 	url = https://github.com/cran/nlmixr2targets
@@ -52010,6 +52031,9 @@
 [submodule "od"]
 	path = od
 	url = https://github.com/cran/od
+[submodule "oda"]
+	path = oda
+	url = https://github.com/cran/oda
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/cran/odbc
@@ -52202,6 +52226,9 @@
 [submodule "oncmap"]
 	path = oncmap
 	url = https://github.com/cran/oncmap
+[submodule "ondisc"]
+	path = ondisc
+	url = https://github.com/cran/ondisc
 [submodule "oneclust"]
 	path = oneclust
 	url = https://github.com/cran/oneclust
@@ -54770,6 +54797,9 @@
 [submodule "pkgsearch"]
 	path = pkgsearch
 	url = https://github.com/cran/pkgsearch
+[submodule "pkgsite"]
+	path = pkgsite
+	url = https://github.com/cran/pkgsite
 [submodule "pkgstats"]
 	path = pkgstats
 	url = https://github.com/cran/pkgstats
@@ -65975,6 +66005,9 @@
 [submodule "spqdep"]
 	path = spqdep
 	url = https://github.com/cran/spqdep
+[submodule "spqrp"]
+	path = spqrp
+	url = https://github.com/cran/spqrp
 [submodule "spray"]
 	path = spray
 	url = https://github.com/cran/spray
@@ -68192,6 +68225,9 @@
 [submodule "teda"]
 	path = teda
 	url = https://github.com/cran/teda
+[submodule "teems"]
+	path = teems
+	url = https://github.com/cran/teems
 [submodule "tehtuner"]
 	path = tehtuner
 	url = https://github.com/cran/tehtuner
