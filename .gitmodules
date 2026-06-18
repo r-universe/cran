@@ -52160,9 +52160,6 @@
 [submodule "oii"]
 	path = oii
 	url = https://github.com/cran/oii
-[submodule "ojsr"]
-	path = ojsr
-	url = https://github.com/cran/ojsr
 [submodule "okBATHTUB"]
 	path = okBATHTUB
 	url = https://github.com/cran/okBATHTUB
