@@ -7433,6 +7433,9 @@
 [submodule "GameTheory"]
 	path = GameTheory
 	url = https://github.com/cran/GameTheory
+[submodule "GammaFrailty"]
+	path = GammaFrailty
+	url = https://github.com/cran/GammaFrailty
 [submodule "Gammareg"]
 	path = Gammareg
 	url = https://github.com/cran/Gammareg
@@ -11987,6 +11990,9 @@
 [submodule "NDP"]
 	path = NDP
 	url = https://github.com/cran/NDP
+[submodule "NDPalette"]
+	path = NDPalette
+	url = https://github.com/cran/NDPalette
 [submodule "NEpiC"]
 	path = NEpiC
 	url = https://github.com/cran/NEpiC
@@ -16139,6 +16145,9 @@
 [submodule "RankAggregator"]
 	path = RankAggregator
 	url = https://github.com/cran/RankAggregator
+[submodule "RankGWASK"]
+	path = RankGWASK
+	url = https://github.com/cran/RankGWASK
 [submodule "RankPCA"]
 	path = RankPCA
 	url = https://github.com/cran/RankPCA
@@ -21284,6 +21293,9 @@
 [submodule "WindCurves"]
 	path = WindCurves
 	url = https://github.com/cran/WindCurves
+[submodule "WinsCRT"]
+	path = WinsCRT
+	url = https://github.com/cran/WinsCRT
 [submodule "WoodSimulatR"]
 	path = WoodSimulatR
 	url = https://github.com/cran/WoodSimulatR
@@ -27755,6 +27767,9 @@
 [submodule "climatekit"]
 	path = climatekit
 	url = https://github.com/cran/climatekit
+[submodule "climatestatsr"]
+	path = climatestatsr
+	url = https://github.com/cran/climatestatsr
 [submodule "climatol"]
 	path = climatol
 	url = https://github.com/cran/climatol
@@ -29669,6 +29684,9 @@
 [submodule "cquad"]
 	path = cquad
 	url = https://github.com/cran/cquad
+[submodule "craftgrn"]
+	path = craftgrn
+	url = https://github.com/cran/craftgrn
 [submodule "cragg"]
 	path = cragg
 	url = https://github.com/cran/cragg
@@ -33488,6 +33506,9 @@
 [submodule "edmdata"]
 	path = edmdata
 	url = https://github.com/cran/edmdata
+[submodule "edr4r"]
+	path = edr4r
+	url = https://github.com/cran/edr4r
 [submodule "edstan"]
 	path = edstan
 	url = https://github.com/cran/edstan
@@ -37934,6 +37955,9 @@
 [submodule "genderstat"]
 	path = genderstat
 	url = https://github.com/cran/genderstat
+[submodule "gendertext"]
+	path = gendertext
+	url = https://github.com/cran/gendertext
 [submodule "gendist"]
 	path = gendist
 	url = https://github.com/cran/gendist
@@ -47402,6 +47426,9 @@
 [submodule "medfateland"]
 	path = medfateland
 	url = https://github.com/cran/medfateland
+[submodule "medfit"]
+	path = medfit
+	url = https://github.com/cran/medfit
 [submodule "medflex"]
 	path = medflex
 	url = https://github.com/cran/medflex
@@ -51479,6 +51506,9 @@
 [submodule "nonParQuantileCausality"]
 	path = nonParQuantileCausality
 	url = https://github.com/cran/nonParQuantileCausality
+[submodule "nonabsdid"]
+	path = nonabsdid
+	url = https://github.com/cran/nonabsdid
 [submodule "noncompliance"]
 	path = noncompliance
 	url = https://github.com/cran/noncompliance
@@ -56318,6 +56348,9 @@
 [submodule "proporz"]
 	path = proporz
 	url = https://github.com/cran/proporz
+[submodule "proratar"]
+	path = proratar
+	url = https://github.com/cran/proratar
 [submodule "prospectr"]
 	path = prospectr
 	url = https://github.com/cran/prospectr
@@ -67559,6 +67592,9 @@
 [submodule "svines"]
 	path = svines
 	url = https://github.com/cran/svines
+[submodule "svmf"]
+	path = svmf
+	url = https://github.com/cran/svmf
 [submodule "svmpath"]
 	path = svmpath
 	url = https://github.com/cran/svmpath
@@ -69881,6 +69917,9 @@
 [submodule "transformr"]
 	path = transformr
 	url = https://github.com/cran/transformr
+[submodule "transitiontrees"]
+	path = transitiontrees
+	url = https://github.com/cran/transitiontrees
 [submodule "translate.logit"]
 	path = translate.logit
 	url = https://github.com/cran/translate.logit
@@ -71075,6 +71114,9 @@
 [submodule "ussherR"]
 	path = ussherR
 	url = https://github.com/cran/ussherR
+[submodule "ustats"]
+	path = ustats
+	url = https://github.com/cran/ustats
 [submodule "ustfd"]
 	path = ustfd
 	url = https://github.com/cran/ustfd
@@ -71435,6 +71477,9 @@
 [submodule "vecmatch"]
 	path = vecmatch
 	url = https://github.com/cran/vecmatch
+[submodule "vecrep"]
+	path = vecrep
+	url = https://github.com/cran/vecrep
 [submodule "vecsets"]
 	path = vecsets
 	url = https://github.com/cran/vecsets
@@ -72578,6 +72623,9 @@
 [submodule "wnominate"]
 	path = wnominate
 	url = https://github.com/cran/wnominate
+[submodule "wnpmle"]
+	path = wnpmle
+	url = https://github.com/cran/wnpmle
 [submodule "wodds"]
 	path = wodds
 	url = https://github.com/cran/wodds
