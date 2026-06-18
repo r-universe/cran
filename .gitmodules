@@ -21677,6 +21677,9 @@
 [submodule "accumulate"]
 	path = accumulate
 	url = https://github.com/cran/accumulate
+[submodule "accuracylevel"]
+	path = accuracylevel
+	url = https://github.com/cran/accuracylevel
 [submodule "acdcR"]
 	path = acdcR
 	url = https://github.com/cran/acdcR
@@ -21755,6 +21758,9 @@
 [submodule "actfts"]
 	path = actfts
 	url = https://github.com/cran/actfts
+[submodule "actibase"]
+	path = actibase
+	url = https://github.com/cran/actibase
 [submodule "actigraph.sleepr"]
 	path = actigraph.sleepr
 	url = https://github.com/cran/actigraph.sleepr
@@ -26234,6 +26240,9 @@
 [submodule "caffsim"]
 	path = caffsim
 	url = https://github.com/cran/caffsim
+[submodule "cairovolt"]
+	path = cairovolt
+	url = https://github.com/cran/cairovolt
 [submodule "calACS"]
 	path = calACS
 	url = https://github.com/cran/calACS
@@ -35069,6 +35078,9 @@
 [submodule "fable.bayesRecon"]
 	path = fable.bayesRecon
 	url = https://github.com/cran/fable.bayesRecon
+[submodule "fable.intermittent"]
+	path = fable.intermittent
+	url = https://github.com/cran/fable.intermittent
 [submodule "fable.prophet"]
 	path = fable.prophet
 	url = https://github.com/cran/fable.prophet
@@ -39596,6 +39608,9 @@
 [submodule "gms"]
 	path = gms
 	url = https://github.com/cran/gms
+[submodule "gmsp"]
+	path = gmsp
+	url = https://github.com/cran/gmsp
 [submodule "gmt"]
 	path = gmt
 	url = https://github.com/cran/gmt
@@ -62708,6 +62723,9 @@
 [submodule "sdbuildR"]
 	path = sdbuildR
 	url = https://github.com/cran/sdbuildR
+[submodule "sdc.redistribute"]
+	path = sdc.redistribute
+	url = https://github.com/cran/sdc.redistribute
 [submodule "sdcHierarchies"]
 	path = sdcHierarchies
 	url = https://github.com/cran/sdcHierarchies
