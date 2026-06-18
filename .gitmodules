@@ -17189,6 +17189,9 @@
 [submodule "Rpoet"]
 	path = Rpoet
 	url = https://github.com/cran/Rpoet
+[submodule "Rpolyhedra"]
+	path = Rpolyhedra
+	url = https://github.com/cran/Rpolyhedra
 [submodule "Rpoppler"]
 	path = Rpoppler
 	url = https://github.com/cran/Rpoppler
@@ -52160,6 +52163,9 @@
 [submodule "oii"]
 	path = oii
 	url = https://github.com/cran/oii
+[submodule "ojsr"]
+	path = ojsr
+	url = https://github.com/cran/ojsr
 [submodule "okBATHTUB"]
 	path = okBATHTUB
 	url = https://github.com/cran/okBATHTUB
