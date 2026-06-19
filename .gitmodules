@@ -299,6 +299,9 @@
 [submodule "APIS"]
 	path = APIS
 	url = https://github.com/cran/APIS
+[submodule "APML0"]
+	path = APML0
+	url = https://github.com/cran/APML0
 [submodule "APPEstimation"]
 	path = APPEstimation
 	url = https://github.com/cran/APPEstimation
@@ -12935,6 +12938,9 @@
 [submodule "OrdNor"]
 	path = OrdNor
 	url = https://github.com/cran/OrdNor
+[submodule "OrdinalCompositions"]
+	path = OrdinalCompositions
+	url = https://github.com/cran/OrdinalCompositions
 [submodule "OrgHeatmap"]
 	path = OrgHeatmap
 	url = https://github.com/cran/OrgHeatmap
@@ -50420,6 +50426,9 @@
 [submodule "mx.api"]
 	path = mx.api
 	url = https://github.com/cran/mx.api
+[submodule "mx.client"]
+	path = mx.client
+	url = https://github.com/cran/mx.client
 [submodule "mx.crypto"]
 	path = mx.crypto
 	url = https://github.com/cran/mx.crypto
@@ -53708,6 +53717,9 @@
 [submodule "patternplot"]
 	path = patternplot
 	url = https://github.com/cran/patternplot
+[submodule "pavdata"]
+	path = pavdata
+	url = https://github.com/cran/pavdata
 [submodule "pavo"]
 	path = pavo
 	url = https://github.com/cran/pavo
@@ -55802,6 +55814,9 @@
 [submodule "ppmHR"]
 	path = ppmHR
 	url = https://github.com/cran/ppmHR
+[submodule "ppmSDR"]
+	path = ppmSDR
+	url = https://github.com/cran/ppmSDR
 [submodule "ppmSuite"]
 	path = ppmSuite
 	url = https://github.com/cran/ppmSuite
@@ -55961,6 +55976,9 @@
 [submodule "predint"]
 	path = predint
 	url = https://github.com/cran/predint
+[submodule "predmicror"]
+	path = predmicror
+	url = https://github.com/cran/predmicror
 [submodule "predtools"]
 	path = predtools
 	url = https://github.com/cran/predtools
@@ -60866,6 +60884,9 @@
 [submodule "rolldown"]
 	path = rolldown
 	url = https://github.com/cran/rolldown
+[submodule "rolleigen"]
+	path = rolleigen
+	url = https://github.com/cran/rolleigen
 [submodule "rollinglda"]
 	path = rollinglda
 	url = https://github.com/cran/rollinglda
@@ -61688,6 +61709,9 @@
 [submodule "rurality"]
 	path = rurality
 	url = https://github.com/cran/rurality
+[submodule "rurl"]
+	path = rurl
+	url = https://github.com/cran/rurl
 [submodule "rush"]
 	path = rush
 	url = https://github.com/cran/rush
