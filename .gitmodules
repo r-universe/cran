@@ -39107,9 +39107,6 @@
 [submodule "ggtangle"]
 	path = ggtangle
 	url = https://github.com/cran/ggtangle
-[submodule "ggtaxplot"]
-	path = ggtaxplot
-	url = https://github.com/cran/ggtaxplot
 [submodule "ggtea"]
 	path = ggtea
 	url = https://github.com/cran/ggtea
@@ -70649,9 +70646,6 @@
 [submodule "txtq"]
 	path = txtq
 	url = https://github.com/cran/txtq
-[submodule "tynding"]
-	path = tynding
-	url = https://github.com/cran/tynding
 [submodule "typeR"]
 	path = typeR
 	url = https://github.com/cran/typeR
