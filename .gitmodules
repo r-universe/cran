@@ -4331,6 +4331,9 @@
 [submodule "DPCD"]
 	path = DPCD
 	url = https://github.com/cran/DPCD
+[submodule "DPComb"]
+	path = DPComb
+	url = https://github.com/cran/DPComb
 [submodule "DPI"]
 	path = DPI
 	url = https://github.com/cran/DPI
@@ -19541,6 +19544,9 @@
 [submodule "SurvRegCensCov"]
 	path = SurvRegCensCov
 	url = https://github.com/cran/SurvRegCensCov
+[submodule "SurvSPro"]
+	path = SurvSPro
+	url = https://github.com/cran/SurvSPro
 [submodule "SurvSparse"]
 	path = SurvSparse
 	url = https://github.com/cran/SurvSparse
@@ -20780,6 +20786,9 @@
 [submodule "VCBART"]
 	path = VCBART
 	url = https://github.com/cran/VCBART
+[submodule "VCMoE"]
+	path = VCMoE
+	url = https://github.com/cran/VCMoE
 [submodule "VDAP"]
 	path = VDAP
 	url = https://github.com/cran/VDAP
@@ -30527,6 +30536,9 @@
 [submodule "dann"]
 	path = dann
 	url = https://github.com/cran/dann
+[submodule "daoh"]
+	path = daoh
+	url = https://github.com/cran/daoh
 [submodule "dapper"]
 	path = dapper
 	url = https://github.com/cran/dapper
@@ -31493,6 +31505,9 @@
 [submodule "devianLM"]
 	path = devianLM
 	url = https://github.com/cran/devianLM
+[submodule "devkit"]
+	path = devkit
+	url = https://github.com/cran/devkit
 [submodule "devoid"]
 	path = devoid
 	url = https://github.com/cran/devoid
@@ -42539,6 +42554,9 @@
 [submodule "impactr"]
 	path = impactr
 	url = https://github.com/cran/impactr
+[submodule "impala"]
+	path = impala
+	url = https://github.com/cran/impala
 [submodule "impectR"]
 	path = impectR
 	url = https://github.com/cran/impectR
@@ -44432,6 +44450,9 @@
 [submodule "kofdata"]
 	path = kofdata
 	url = https://github.com/cran/kofdata
+[submodule "kofn"]
+	path = kofn
+	url = https://github.com/cran/kofn
 [submodule "kofnGA"]
 	path = kofnGA
 	url = https://github.com/cran/kofnGA
@@ -51095,6 +51116,9 @@
 [submodule "nhs.predict"]
 	path = nhs.predict
 	url = https://github.com/cran/nhs.predict
+[submodule "nhscancerwaits"]
+	path = nhscancerwaits
+	url = https://github.com/cran/nhscancerwaits
 [submodule "nhsnumber"]
 	path = nhsnumber
 	url = https://github.com/cran/nhsnumber
@@ -51182,6 +51206,9 @@
 [submodule "nipnTK"]
 	path = nipnTK
 	url = https://github.com/cran/nipnTK
+[submodule "nirs4alldatasets"]
+	path = nirs4alldatasets
+	url = https://github.com/cran/nirs4alldatasets
 [submodule "nivm"]
 	path = nivm
 	url = https://github.com/cran/nivm
@@ -55286,6 +55313,9 @@
 [submodule "pointblank"]
 	path = pointblank
 	url = https://github.com/cran/pointblank
+[submodule "pointcoral"]
+	path = pointcoral
+	url = https://github.com/cran/pointcoral
 [submodule "pointdensityP"]
 	path = pointdensityP
 	url = https://github.com/cran/pointdensityP
@@ -55808,6 +55838,9 @@
 [submodule "pqrfe"]
 	path = pqrfe
 	url = https://github.com/cran/pqrfe
+[submodule "prLogistic"]
+	path = prLogistic
+	url = https://github.com/cran/prLogistic
 [submodule "prWarp"]
 	path = prWarp
 	url = https://github.com/cran/prWarp
@@ -59645,6 +59678,9 @@
 [submodule "respirometry"]
 	path = respirometry
 	url = https://github.com/cran/respirometry
+[submodule "respondeR"]
+	path = respondeR
+	url = https://github.com/cran/respondeR
 [submodule "responsePatterns"]
 	path = responsePatterns
 	url = https://github.com/cran/responsePatterns
@@ -60926,6 +60962,9 @@
 [submodule "rotatogram"]
 	path = rotatogram
 	url = https://github.com/cran/rotatogram
+[submodule "rotio"]
+	path = rotio
+	url = https://github.com/cran/rotio
 [submodule "rotl"]
 	path = rotl
 	url = https://github.com/cran/rotl
@@ -64370,6 +64409,9 @@
 [submodule "simpletex"]
 	path = simpletex
 	url = https://github.com/cran/simpletex
+[submodule "simplexgof"]
+	path = simplexgof
+	url = https://github.com/cran/simplexgof
 [submodule "simplifyNet"]
 	path = simplifyNet
 	url = https://github.com/cran/simplifyNet
