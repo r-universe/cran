@@ -59558,6 +59558,9 @@
 [submodule "repmod"]
 	path = repmod
 	url = https://github.com/cran/repmod
+[submodule "repo.data"]
+	path = repo.data
+	url = https://github.com/cran/repo.data
 [submodule "repoRter.nih"]
 	path = repoRter.nih
 	url = https://github.com/cran/repoRter.nih
