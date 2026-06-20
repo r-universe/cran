@@ -4514,6 +4514,9 @@
 [submodule "DTSEA"]
 	path = DTSEA
 	url = https://github.com/cran/DTSEA
+[submodule "DTSR"]
+	path = DTSR
+	url = https://github.com/cran/DTSR
 [submodule "DTSg"]
 	path = DTSg
 	url = https://github.com/cran/DTSg
@@ -29597,6 +29600,9 @@
 [submodule "coxsei"]
 	path = coxsei
 	url = https://github.com/cran/coxsei
+[submodule "coxstream"]
+	path = coxstream
+	url = https://github.com/cran/coxstream
 [submodule "cp4p"]
 	path = cp4p
 	url = https://github.com/cran/cp4p
@@ -49832,6 +49838,9 @@
 [submodule "muhaz"]
 	path = muhaz
 	url = https://github.com/cran/muhaz
+[submodule "muiDataGrid"]
+	path = muiDataGrid
+	url = https://github.com/cran/muiDataGrid
 [submodule "muiMaterial"]
 	path = muiMaterial
 	url = https://github.com/cran/muiMaterial
@@ -65414,6 +65423,9 @@
 [submodule "spaa"]
 	path = spaa
 	url = https://github.com/cran/spaa
+[submodule "spacc"]
+	path = spacc
+	url = https://github.com/cran/spacc
 [submodule "spaceNet"]
 	path = spaceNet
 	url = https://github.com/cran/spaceNet
