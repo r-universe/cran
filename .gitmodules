@@ -2924,6 +2924,9 @@
 [submodule "CalibrationCurves"]
 	path = CalibrationCurves
 	url = https://github.com/cran/CalibrationCurves
+[submodule "CamelRatiosIndex"]
+	path = CamelRatiosIndex
+	url = https://github.com/cran/CamelRatiosIndex
 [submodule "CamelUp"]
 	path = CamelUp
 	url = https://github.com/cran/CamelUp
@@ -35666,6 +35669,9 @@
 [submodule "fda.usc"]
 	path = fda.usc
 	url = https://github.com/cran/fda.usc
+[submodule "fda.vi"]
+	path = fda.vi
+	url = https://github.com/cran/fda.vi
 [submodule "fdaACF"]
 	path = fdaACF
 	url = https://github.com/cran/fdaACF
@@ -38795,6 +38801,9 @@
 [submodule "ggisotonic"]
 	path = ggisotonic
 	url = https://github.com/cran/ggisotonic
+[submodule "ggkodom"]
+	path = ggkodom
+	url = https://github.com/cran/ggkodom
 [submodule "gglasso"]
 	path = gglasso
 	url = https://github.com/cran/gglasso
@@ -39398,6 +39407,9 @@
 [submodule "gleam"]
 	path = gleam
 	url = https://github.com/cran/gleam
+[submodule "gleifr"]
+	path = gleifr
+	url = https://github.com/cran/gleifr
 [submodule "glinternet"]
 	path = glinternet
 	url = https://github.com/cran/glinternet
@@ -50987,6 +50999,9 @@
 [submodule "neuralnet"]
 	path = neuralnet
 	url = https://github.com/cran/neuralnet
+[submodule "neuralnetwork"]
+	path = neuralnetwork
+	url = https://github.com/cran/neuralnetwork
 [submodule "neuroSCC"]
 	path = neuroSCC
 	url = https://github.com/cran/neuroSCC
@@ -59597,6 +59612,9 @@
 [submodule "reproducibleRchunks"]
 	path = reproducibleRchunks
 	url = https://github.com/cran/reproducibleRchunks
+[submodule "reproducr"]
+	path = reproducr
+	url = https://github.com/cran/reproducr
 [submodule "reproj"]
 	path = reproj
 	url = https://github.com/cran/reproj
@@ -62675,6 +62693,9 @@
 [submodule "scopr"]
 	path = scopr
 	url = https://github.com/cran/scopr
+[submodule "scopusflow"]
+	path = scopusflow
+	url = https://github.com/cran/scopusflow
 [submodule "score"]
 	path = score
 	url = https://github.com/cran/score
@@ -67442,6 +67463,9 @@
 [submodule "survSNP"]
 	path = survSNP
 	url = https://github.com/cran/survSNP
+[submodule "survSampleSize"]
+	path = survSampleSize
+	url = https://github.com/cran/survSampleSize
 [submodule "survSens"]
 	path = survSens
 	url = https://github.com/cran/survSens
