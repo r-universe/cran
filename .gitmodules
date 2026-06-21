@@ -51386,6 +51386,9 @@
 [submodule "nmarank"]
 	path = nmarank
 	url = https://github.com/cran/nmarank
+[submodule "nmathopencl"]
+	path = nmathopencl
+	url = https://github.com/cran/nmathopencl
 [submodule "nmathresh"]
 	path = nmathresh
 	url = https://github.com/cran/nmathresh
@@ -53975,6 +53978,9 @@
 [submodule "pdfsearch"]
 	path = pdfsearch
 	url = https://github.com/cran/pdfsearch
+[submodule "pdfsigner"]
+	path = pdfsigner
+	url = https://github.com/cran/pdfsigner
 [submodule "pdftables"]
 	path = pdftables
 	url = https://github.com/cran/pdftables
