@@ -365,9 +365,6 @@
 [submodule "ARPobservation"]
 	path = ARPobservation
 	url = https://github.com/cran/ARPobservation
-[submodule "ART"]
-	path = ART
-	url = https://github.com/cran/ART
 [submodule "ARTofR"]
 	path = ARTofR
 	url = https://github.com/cran/ARTofR
@@ -6701,9 +6698,6 @@
 [submodule "FuzzyImputationTest"]
 	path = FuzzyImputationTest
 	url = https://github.com/cran/FuzzyImputationTest
-[submodule "FuzzyLP"]
-	path = FuzzyLP
-	url = https://github.com/cran/FuzzyLP
 [submodule "FuzzyM"]
 	path = FuzzyM
 	url = https://github.com/cran/FuzzyM
@@ -18173,9 +18167,6 @@
 [submodule "SQUAREM"]
 	path = SQUAREM
 	url = https://github.com/cran/SQUAREM
-[submodule "SRCS"]
-	path = SRCS
-	url = https://github.com/cran/SRCS
 [submodule "SRMData"]
 	path = SRMData
 	url = https://github.com/cran/SRMData
@@ -37562,15 +37553,9 @@
 [submodule "gamlss.data"]
 	path = gamlss.data
 	url = https://github.com/cran/gamlss.data
-[submodule "gamlss.demo"]
-	path = gamlss.demo
-	url = https://github.com/cran/gamlss.demo
 [submodule "gamlss.dist"]
 	path = gamlss.dist
 	url = https://github.com/cran/gamlss.dist
-[submodule "gamlss.foreach"]
-	path = gamlss.foreach
-	url = https://github.com/cran/gamlss.foreach
 [submodule "gamlss.inf"]
 	path = gamlss.inf
 	url = https://github.com/cran/gamlss.inf
@@ -44714,9 +44699,6 @@
 [submodule "lakemorpho"]
 	path = lakemorpho
 	url = https://github.com/cran/lakemorpho
-[submodule "laketemps"]
-	path = laketemps
-	url = https://github.com/cran/laketemps
 [submodule "lakhesis"]
 	path = lakhesis
 	url = https://github.com/cran/lakhesis
@@ -45815,9 +45797,6 @@
 [submodule "localgauss"]
 	path = localgauss
 	url = https://github.com/cran/localgauss
-[submodule "localsolver"]
-	path = localsolver
-	url = https://github.com/cran/localsolver
 [submodule "localsp"]
 	path = localsp
 	url = https://github.com/cran/localsp
@@ -61553,15 +61532,9 @@
 [submodule "rtabulator"]
 	path = rtabulator
 	url = https://github.com/cran/rtabulator
-[submodule "rtape"]
-	path = rtape
-	url = https://github.com/cran/rtape
 [submodule "rtdists"]
 	path = rtdists
 	url = https://github.com/cran/rtdists
-[submodule "rtematres"]
-	path = rtematres
-	url = https://github.com/cran/rtematres
 [submodule "rtemis"]
 	path = rtemis
 	url = https://github.com/cran/rtemis
@@ -70589,9 +70562,6 @@
 [submodule "tuneRanger"]
 	path = tuneRanger
 	url = https://github.com/cran/tuneRanger
-[submodule "tuple"]
-	path = tuple
-	url = https://github.com/cran/tuple
 [submodule "turboEM"]
 	path = turboEM
 	url = https://github.com/cran/turboEM
@@ -72473,9 +72443,6 @@
 [submodule "weirs"]
 	path = weirs
 	url = https://github.com/cran/weirs
-[submodule "welchADF"]
-	path = welchADF
-	url = https://github.com/cran/welchADF
 [submodule "welo"]
 	path = welo
 	url = https://github.com/cran/welo
