@@ -5267,9 +5267,6 @@
 [submodule "ELISAtools"]
 	path = ELISAtools
 	url = https://github.com/cran/ELISAtools
-[submodule "ELMR"]
-	path = ELMR
-	url = https://github.com/cran/ELMR
 [submodule "ELMSO"]
 	path = ELMSO
 	url = https://github.com/cran/ELMSO
@@ -8633,9 +8630,6 @@
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
-[submodule "IP"]
-	path = IP
-	url = https://github.com/cran/IP
 [submodule "IPAG"]
 	path = IPAG
 	url = https://github.com/cran/IPAG
@@ -9215,9 +9209,6 @@
 [submodule "KEPTED"]
 	path = KEPTED
 	url = https://github.com/cran/KEPTED
-[submodule "KERE"]
-	path = KERE
-	url = https://github.com/cran/KERE
 [submodule "KFAS"]
 	path = KFAS
 	url = https://github.com/cran/KFAS
@@ -21755,9 +21746,6 @@
 [submodule "acopula"]
 	path = acopula
 	url = https://github.com/cran/acopula
-[submodule "acp"]
-	path = acp
-	url = https://github.com/cran/acp
 [submodule "acro"]
 	path = acro
 	url = https://github.com/cran/acro
@@ -32654,9 +32642,6 @@
 [submodule "dscoreMSM"]
 	path = dscoreMSM
 	url = https://github.com/cran/dscoreMSM
-[submodule "dsdp"]
-	path = dsdp
-	url = https://github.com/cran/dsdp
 [submodule "dsem"]
 	path = dsem
 	url = https://github.com/cran/dsem
@@ -55922,9 +55907,6 @@
 [submodule "precommit"]
 	path = precommit
 	url = https://github.com/cran/precommit
-[submodule "precondition"]
-	path = precondition
-	url = https://github.com/cran/precondition
 [submodule "precrec"]
 	path = precrec
 	url = https://github.com/cran/precrec
