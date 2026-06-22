@@ -5297,6 +5297,9 @@
 [submodule "EMAS"]
 	path = EMAS
 	url = https://github.com/cran/EMAS
+[submodule "EMAtools"]
+	path = EMAtools
+	url = https://github.com/cran/EMAtools
 [submodule "EMC2"]
 	path = EMC2
 	url = https://github.com/cran/EMC2
@@ -7355,6 +7358,9 @@
 [submodule "GTEs"]
 	path = GTEs
 	url = https://github.com/cran/GTEs
+[submodule "GTFSwizard"]
+	path = GTFSwizard
+	url = https://github.com/cran/GTFSwizard
 [submodule "GTRT"]
 	path = GTRT
 	url = https://github.com/cran/GTRT
@@ -32495,6 +32501,9 @@
 [submodule "dracor"]
 	path = dracor
 	url = https://github.com/cran/dracor
+[submodule "dragmapr"]
+	path = dragmapr
+	url = https://github.com/cran/dragmapr
 [submodule "dragonking"]
 	path = dragonking
 	url = https://github.com/cran/dragonking
@@ -38222,6 +38231,9 @@
 [submodule "geojsonsf"]
 	path = geojsonsf
 	url = https://github.com/cran/geojsonsf
+[submodule "geokmeans"]
+	path = geokmeans
+	url = https://github.com/cran/geokmeans
 [submodule "geomander"]
 	path = geomander
 	url = https://github.com/cran/geomander
@@ -46211,6 +46223,9 @@
 [submodule "lssdoc"]
 	path = lssdoc
 	url = https://github.com/cran/lssdoc
+[submodule "lstar"]
+	path = lstar
+	url = https://github.com/cran/lstar
 [submodule "ltable"]
 	path = ltable
 	url = https://github.com/cran/ltable
@@ -51503,6 +51518,9 @@
 [submodule "noctua"]
 	path = noctua
 	url = https://github.com/cran/noctua
+[submodule "nocturn"]
+	path = nocturn
+	url = https://github.com/cran/nocturn
 [submodule "nodbi"]
 	path = nodbi
 	url = https://github.com/cran/nodbi
@@ -59195,6 +59213,9 @@
 [submodule "redditadsR"]
 	path = redditadsR
 	url = https://github.com/cran/redditadsR
+[submodule "redeem"]
+	path = redeem
+	url = https://github.com/cran/redeem
 [submodule "redist"]
 	path = redist
 	url = https://github.com/cran/redist
@@ -60263,6 +60284,9 @@
 [submodule "risksetROC"]
 	path = risksetROC
 	url = https://github.com/cran/risksetROC
+[submodule "riskutility"]
+	path = riskutility
+	url = https://github.com/cran/riskutility
 [submodule "riskyr"]
 	path = riskyr
 	url = https://github.com/cran/riskyr
@@ -60914,6 +60938,9 @@
 [submodule "rolap"]
 	path = rolap
 	url = https://github.com/cran/rolap
+[submodule "rolescry"]
+	path = rolescry
+	url = https://github.com/cran/rolescry
 [submodule "roll"]
 	path = roll
 	url = https://github.com/cran/roll
