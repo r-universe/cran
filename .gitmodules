@@ -21506,6 +21506,9 @@
 [submodule "ZVCV"]
 	path = ZVCV
 	url = https://github.com/cran/ZVCV
+[submodule "ZeBook"]
+	path = ZeBook
+	url = https://github.com/cran/ZeBook
 [submodule "ZeroOneDists"]
 	path = ZeroOneDists
 	url = https://github.com/cran/ZeroOneDists
