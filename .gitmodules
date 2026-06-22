@@ -134,6 +134,9 @@
 [submodule "AFheritability"]
 	path = AFheritability
 	url = https://github.com/cran/AFheritability
+[submodule "AGBQR"]
+	path = AGBQR
+	url = https://github.com/cran/AGBQR
 [submodule "AGD"]
 	path = AGD
 	url = https://github.com/cran/AGD
@@ -362,6 +365,9 @@
 [submodule "ARMALSTM"]
 	path = ARMALSTM
 	url = https://github.com/cran/ARMALSTM
+[submodule "ARPALData"]
+	path = ARPALData
+	url = https://github.com/cran/ARPALData
 [submodule "ARPobservation"]
 	path = ARPobservation
 	url = https://github.com/cran/ARPobservation
@@ -1205,6 +1211,9 @@
 [submodule "BKP"]
 	path = BKP
 	url = https://github.com/cran/BKP
+[submodule "BKPC"]
+	path = BKPC
+	url = https://github.com/cran/BKPC
 [submodule "BKT"]
 	path = BKT
 	url = https://github.com/cran/BKT
@@ -12377,6 +12386,9 @@
 [submodule "NeutroRCDsAnalysis"]
 	path = NeutroRCDsAnalysis
 	url = https://github.com/cran/NeutroRCDsAnalysis
+[submodule "NeutroSplitStripAnalysis"]
+	path = NeutroSplitStripAnalysis
+	url = https://github.com/cran/NeutroSplitStripAnalysis
 [submodule "Newdistns"]
 	path = Newdistns
 	url = https://github.com/cran/Newdistns
@@ -16868,6 +16880,9 @@
 [submodule "Rfuzzycoco"]
 	path = Rfuzzycoco
 	url = https://github.com/cran/Rfuzzycoco
+[submodule "Rfuzzydid"]
+	path = Rfuzzydid
+	url = https://github.com/cran/Rfuzzydid
 [submodule "Rgbp"]
 	path = Rgbp
 	url = https://github.com/cran/Rgbp
@@ -35582,6 +35597,9 @@
 [submodule "fbnet"]
 	path = fbnet
 	url = https://github.com/cran/fbnet
+[submodule "fbrglm"]
+	path = fbrglm
+	url = https://github.com/cran/fbrglm
 [submodule "fbroc"]
 	path = fbroc
 	url = https://github.com/cran/fbroc
@@ -42629,6 +42647,9 @@
 [submodule "imt"]
 	path = imt
 	url = https://github.com/cran/imt
+[submodule "imuGAP"]
+	path = imuGAP
+	url = https://github.com/cran/imuGAP
 [submodule "imuf"]
 	path = imuf
 	url = https://github.com/cran/imuf
@@ -43724,6 +43745,9 @@
 [submodule "jipApprox"]
 	path = jipApprox
 	url = https://github.com/cran/jipApprox
+[submodule "jirar"]
+	path = jirar
+	url = https://github.com/cran/jirar
 [submodule "jjb"]
 	path = jjb
 	url = https://github.com/cran/jjb
@@ -44555,6 +44579,9 @@
 [submodule "kuiper.2samp"]
 	path = kuiper.2samp
 	url = https://github.com/cran/kuiper.2samp
+[submodule "kumquat"]
+	path = kumquat
+	url = https://github.com/cran/kumquat
 [submodule "kutils"]
 	path = kutils
 	url = https://github.com/cran/kutils
@@ -45167,6 +45194,9 @@
 [submodule "leunbachR"]
 	path = leunbachR
 	url = https://github.com/cran/leunbachR
+[submodule "levelSets"]
+	path = levelSets
+	url = https://github.com/cran/levelSets
 [submodule "levitate"]
 	path = levitate
 	url = https://github.com/cran/levitate
@@ -46283,6 +46313,12 @@
 [submodule "lwgeom"]
 	path = lwgeom
 	url = https://github.com/cran/lwgeom
+[submodule "lyubishchev"]
+	path = lyubishchev
+	url = https://github.com/cran/lyubishchev
+[submodule "lzrq"]
+	path = lzrq
+	url = https://github.com/cran/lzrq
 [submodule "lzstring"]
 	path = lzstring
 	url = https://github.com/cran/lzstring
@@ -49235,6 +49271,9 @@
 [submodule "momentuHMM"]
 	path = momentuHMM
 	url = https://github.com/cran/momentuHMM
+[submodule "momst"]
+	path = momst
+	url = https://github.com/cran/momst
 [submodule "monaco"]
 	path = monaco
 	url = https://github.com/cran/monaco
@@ -51047,6 +51086,9 @@
 [submodule "nexus"]
 	path = nexus
 	url = https://github.com/cran/nexus
+[submodule "nfcore.utils"]
+	path = nfcore.utils
+	url = https://github.com/cran/nfcore.utils
 [submodule "nfer"]
 	path = nfer
 	url = https://github.com/cran/nfer
@@ -56570,6 +56612,9 @@
 [submodule "psidread"]
 	path = psidread
 	url = https://github.com/cran/psidread
+[submodule "pslr"]
+	path = pslr
+	url = https://github.com/cran/pslr
 [submodule "psm3mkv"]
 	path = psm3mkv
 	url = https://github.com/cran/psm3mkv
@@ -69488,6 +69533,9 @@
 [submodule "tkrplot"]
 	path = tkrplot
 	url = https://github.com/cran/tkrplot
+[submodule "tl"]
+	path = tl
+	url = https://github.com/cran/tl
 [submodule "tlars"]
 	path = tlars
 	url = https://github.com/cran/tlars
@@ -70445,6 +70493,9 @@
 [submodule "tsqn"]
 	path = tsqn
 	url = https://github.com/cran/tsqn
+[submodule "tsqr"]
+	path = tsqr
+	url = https://github.com/cran/tsqr
 [submodule "tsriadditive"]
 	path = tsriadditive
 	url = https://github.com/cran/tsriadditive
