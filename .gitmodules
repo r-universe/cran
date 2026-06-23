@@ -49781,6 +49781,9 @@
 [submodule "msos"]
 	path = msos
 	url = https://github.com/cran/msos
+[submodule "msprog"]
+	path = msprog
+	url = https://github.com/cran/msprog
 [submodule "mssearchr"]
 	path = mssearchr
 	url = https://github.com/cran/mssearchr
