@@ -1562,6 +1562,9 @@
 [submodule "BayesFM"]
 	path = BayesFM
 	url = https://github.com/cran/BayesFM
+[submodule "BayesFR"]
+	path = BayesFR
+	url = https://github.com/cran/BayesFR
 [submodule "BayesFactor"]
 	path = BayesFactor
 	url = https://github.com/cran/BayesFactor
@@ -2183,6 +2186,9 @@
 [submodule "BsMD"]
 	path = BsMD
 	url = https://github.com/cran/BsMD
+[submodule "BsplineQuantReg"]
+	path = BsplineQuantReg
+	url = https://github.com/cran/BsplineQuantReg
 [submodule "Buddle"]
 	path = Buddle
 	url = https://github.com/cran/Buddle
@@ -9881,6 +9887,9 @@
 [submodule "LassoSIR"]
 	path = LassoSIR
 	url = https://github.com/cran/LassoSIR
+[submodule "LatSquare"]
+	path = LatSquare
+	url = https://github.com/cran/LatSquare
 [submodule "Latamverse"]
 	path = Latamverse
 	url = https://github.com/cran/Latamverse
@@ -37883,6 +37892,9 @@
 [submodule "geepack"]
 	path = geepack
 	url = https://github.com/cran/geepack
+[submodule "geer"]
+	path = geer
+	url = https://github.com/cran/geer
 [submodule "geesmv"]
 	path = geesmv
 	url = https://github.com/cran/geesmv
@@ -42524,6 +42536,9 @@
 [submodule "imcExperiment"]
 	path = imcExperiment
 	url = https://github.com/cran/imcExperiment
+[submodule "imdR"]
+	path = imdR
+	url = https://github.com/cran/imdR
 [submodule "imdbapi"]
 	path = imdbapi
 	url = https://github.com/cran/imdbapi
@@ -45623,6 +45638,9 @@
 [submodule "llmhelper"]
 	path = llmhelper
 	url = https://github.com/cran/llmhelper
+[submodule "llmimpute"]
+	path = llmimpute
+	url = https://github.com/cran/llmimpute
 [submodule "llmjoin"]
 	path = llmjoin
 	url = https://github.com/cran/llmjoin
@@ -61145,6 +61163,9 @@
 [submodule "rpgconn"]
 	path = rpgconn
 	url = https://github.com/cran/rpgconn
+[submodule "rphylo"]
+	path = rphylo
+	url = https://github.com/cran/rphylo
 [submodule "rphylopic"]
 	path = rphylopic
 	url = https://github.com/cran/rphylopic
@@ -66338,6 +66359,9 @@
 [submodule "srppp"]
 	path = srppp
 	url = https://github.com/cran/srppp
+[submodule "srr"]
+	path = srr
+	url = https://github.com/cran/srr
 [submodule "srt"]
 	path = srt
 	url = https://github.com/cran/srt
@@ -67076,6 +67100,9 @@
 [submodule "stratifiedyh"]
 	path = stratifiedyh
 	url = https://github.com/cran/stratifiedyh
+[submodule "stratifyR"]
+	path = stratifyR
+	url = https://github.com/cran/stratifyR
 [submodule "straweib"]
 	path = straweib
 	url = https://github.com/cran/straweib
