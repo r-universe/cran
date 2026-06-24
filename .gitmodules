@@ -2774,6 +2774,9 @@
 [submodule "CRANsearcher"]
 	path = CRANsearcher
 	url = https://github.com/cran/CRANsearcher
+[submodule "CRBHSF"]
+	path = CRBHSF
+	url = https://github.com/cran/CRBHSF
 [submodule "CRE"]
 	path = CRE
 	url = https://github.com/cran/CRE
@@ -20555,6 +20558,9 @@
 [submodule "Tushare"]
 	path = Tushare
 	url = https://github.com/cran/Tushare
+[submodule "TwoCutoff"]
+	path = TwoCutoff
+	url = https://github.com/cran/TwoCutoff
 [submodule "TwoDcDAPSA"]
 	path = TwoDcDAPSA
 	url = https://github.com/cran/TwoDcDAPSA
@@ -23261,6 +23267,9 @@
 [submodule "artma"]
 	path = artma
 	url = https://github.com/cran/artma
+[submodule "artoo"]
+	path = artoo
+	url = https://github.com/cran/artoo
 [submodule "artpack"]
 	path = artpack
 	url = https://github.com/cran/artpack
@@ -24668,6 +24677,9 @@
 [submodule "bets.covid19"]
 	path = bets.covid19
 	url = https://github.com/cran/bets.covid19
+[submodule "bewrs"]
+	path = bewrs
+	url = https://github.com/cran/bewrs
 [submodule "bexy"]
 	path = bexy
 	url = https://github.com/cran/bexy
@@ -32615,6 +32627,9 @@
 [submodule "driveR"]
 	path = driveR
 	url = https://github.com/cran/driveR
+[submodule "drlate"]
+	path = drlate
+	url = https://github.com/cran/drlate
 [submodule "drmeta"]
 	path = drmeta
 	url = https://github.com/cran/drmeta
@@ -45899,6 +45914,9 @@
 [submodule "locationgamer"]
 	path = locationgamer
 	url = https://github.com/cran/locationgamer
+[submodule "locdiff"]
+	path = locdiff
+	url = https://github.com/cran/locdiff
 [submodule "locfdr"]
 	path = locfdr
 	url = https://github.com/cran/locfdr
@@ -49280,6 +49298,9 @@
 [submodule "modernVA"]
 	path = modernVA
 	url = https://github.com/cran/modernVA
+[submodule "moderncor"]
+	path = moderncor
+	url = https://github.com/cran/moderncor
 [submodule "moderndive"]
 	path = moderndive
 	url = https://github.com/cran/moderndive
@@ -56390,6 +56411,9 @@
 [submodule "productplots"]
 	path = productplots
 	url = https://github.com/cran/productplots
+[submodule "productshotaiR"]
+	path = productshotaiR
+	url = https://github.com/cran/productshotaiR
 [submodule "profExtrema"]
 	path = profExtrema
 	url = https://github.com/cran/profExtrema
