@@ -10349,6 +10349,9 @@
 [submodule "MCMCglmm"]
 	path = MCMCglmm
 	url = https://github.com/cran/MCMCglmm
+[submodule "MCMChybridGP"]
+	path = MCMChybridGP
+	url = https://github.com/cran/MCMChybridGP
 [submodule "MCMCpack"]
 	path = MCMCpack
 	url = https://github.com/cran/MCMCpack
@@ -17219,6 +17222,9 @@
 [submodule "Rparadox"]
 	path = Rparadox
 	url = https://github.com/cran/Rparadox
+[submodule "Rpcop"]
+	path = Rpcop
+	url = https://github.com/cran/Rpcop
 [submodule "Rpdb"]
 	path = Rpdb
 	url = https://github.com/cran/Rpdb
