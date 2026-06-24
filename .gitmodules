@@ -1184,6 +1184,9 @@
 [submodule "BIGL"]
 	path = BIGL
 	url = https://github.com/cran/BIGL
+[submodule "BIGpopA"]
+	path = BIGpopA
+	url = https://github.com/cran/BIGpopA
 [submodule "BIGr"]
 	path = BIGr
 	url = https://github.com/cran/BIGr
@@ -5951,6 +5954,9 @@
 [submodule "ExtremeCI"]
 	path = ExtremeCI
 	url = https://github.com/cran/ExtremeCI
+[submodule "ExtremeConformal"]
+	path = ExtremeConformal
+	url = https://github.com/cran/ExtremeConformal
 [submodule "ExtremeRisks"]
 	path = ExtremeRisks
 	url = https://github.com/cran/ExtremeRisks
@@ -8039,6 +8045,9 @@
 [submodule "HNPclassifier"]
 	path = HNPclassifier
 	url = https://github.com/cran/HNPclassifier
+[submodule "HOIF"]
+	path = HOIF
+	url = https://github.com/cran/HOIF
 [submodule "HOIFCar"]
 	path = HOIFCar
 	url = https://github.com/cran/HOIFCar
@@ -8327,6 +8336,9 @@
 [submodule "HydroMe"]
 	path = HydroMe
 	url = https://github.com/cran/HydroMe
+[submodule "HydroPonicsK"]
+	path = HydroPonicsK
+	url = https://github.com/cran/HydroPonicsK
 [submodule "HydroPortailStats"]
 	path = HydroPortailStats
 	url = https://github.com/cran/HydroPortailStats
@@ -13430,6 +13442,9 @@
 [submodule "POMaSPU"]
 	path = POMaSPU
 	url = https://github.com/cran/POMaSPU
+[submodule "PONG2"]
+	path = PONG2
+	url = https://github.com/cran/PONG2
 [submodule "POPInf"]
 	path = POPInf
 	url = https://github.com/cran/POPInf
@@ -23507,6 +23522,9 @@
 [submodule "aum"]
 	path = aum
 	url = https://github.com/cran/aum
+[submodule "aurora"]
+	path = aurora
+	url = https://github.com/cran/aurora
 [submodule "ausplotsR"]
 	path = ausplotsR
 	url = https://github.com/cran/ausplotsR
@@ -24500,6 +24518,9 @@
 [submodule "beautier"]
 	path = beautier
 	url = https://github.com/cran/beautier
+[submodule "beautils"]
+	path = beautils
+	url = https://github.com/cran/beautils
 [submodule "beaver"]
 	path = beaver
 	url = https://github.com/cran/beaver
@@ -25355,6 +25376,9 @@
 [submodule "blockstrap"]
 	path = blockstrap
 	url = https://github.com/cran/blockstrap
+[submodule "blockwise"]
+	path = blockwise
+	url = https://github.com/cran/blockwise
 [submodule "blocs"]
 	path = blocs
 	url = https://github.com/cran/blocs
@@ -29447,6 +29471,9 @@
 [submodule "countries"]
 	path = countries
 	url = https://github.com/cran/countries
+[submodule "countryatlas"]
+	path = countryatlas
+	url = https://github.com/cran/countryatlas
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/cran/countrycode
@@ -30629,6 +30656,9 @@
 [submodule "dataPreparation"]
 	path = dataPreparation
 	url = https://github.com/cran/dataPreparation
+[submodule "dataProfilerR"]
+	path = dataProfilerR
+	url = https://github.com/cran/dataProfilerR
 [submodule "dataReporter"]
 	path = dataReporter
 	url = https://github.com/cran/dataReporter
@@ -32486,6 +32516,9 @@
 [submodule "dqcheckr"]
 	path = dqcheckr
 	url = https://github.com/cran/dqcheckr
+[submodule "dqcheckrGUI"]
+	path = dqcheckrGUI
+	url = https://github.com/cran/dqcheckrGUI
 [submodule "dqrng"]
 	path = dqrng
 	url = https://github.com/cran/dqrng
@@ -36770,6 +36803,9 @@
 [submodule "formulaic"]
 	path = formulaic
 	url = https://github.com/cran/formulaic
+[submodule "formulaiv"]
+	path = formulaiv
+	url = https://github.com/cran/formulaiv
 [submodule "formulops"]
 	path = formulops
 	url = https://github.com/cran/formulops
@@ -37481,6 +37517,9 @@
 [submodule "gWidgets2tcltk"]
 	path = gWidgets2tcltk
 	url = https://github.com/cran/gWidgets2tcltk
+[submodule "gaQSAR"]
+	path = gaQSAR
+	url = https://github.com/cran/gaQSAR
 [submodule "gaawr2"]
 	path = gaawr2
 	url = https://github.com/cran/gaawr2
@@ -38351,6 +38390,9 @@
 [submodule "geotopbricks"]
 	path = geotopbricks
 	url = https://github.com/cran/geotopbricks
+[submodule "geovizr"]
+	path = geovizr
+	url = https://github.com/cran/geovizr
 [submodule "geovol"]
 	path = geovol
 	url = https://github.com/cran/geovol
@@ -39146,6 +39188,9 @@
 [submodule "ggswissmaps"]
 	path = ggswissmaps
 	url = https://github.com/cran/ggswissmaps
+[submodule "ggtaichi"]
+	path = ggtaichi
+	url = https://github.com/cran/ggtaichi
 [submodule "ggtangle"]
 	path = ggtangle
 	url = https://github.com/cran/ggtangle
@@ -41846,6 +41891,9 @@
 [submodule "hydrocan"]
 	path = hydrocan
 	url = https://github.com/cran/hydrocan
+[submodule "hydrochem"]
+	path = hydrochem
+	url = https://github.com/cran/hydrochem
 [submodule "hydrodownloadR"]
 	path = hydrodownloadR
 	url = https://github.com/cran/hydrodownloadR
@@ -41900,6 +41948,9 @@
 [submodule "hypergeo2"]
 	path = hypergeo2
 	url = https://github.com/cran/hypergeo2
+[submodule "hypergraph.sizing"]
+	path = hypergraph.sizing
+	url = https://github.com/cran/hypergraph.sizing
 [submodule "hyperoverlap"]
 	path = hyperoverlap
 	url = https://github.com/cran/hyperoverlap
@@ -42683,6 +42734,9 @@
 [submodule "inaparc"]
 	path = inaparc
 	url = https://github.com/cran/inaparc
+[submodule "inatpick"]
+	path = inatpick
+	url = https://github.com/cran/inatpick
 [submodule "inbreedR"]
 	path = inbreedR
 	url = https://github.com/cran/inbreedR
@@ -43589,6 +43643,9 @@
 [submodule "ivgets"]
 	path = ivgets
 	url = https://github.com/cran/ivgets
+[submodule "ivgls"]
+	path = ivgls
+	url = https://github.com/cran/ivgls
 [submodule "ivitr"]
 	path = ivitr
 	url = https://github.com/cran/ivitr
@@ -47609,6 +47666,9 @@
 [submodule "merTools"]
 	path = merTools
 	url = https://github.com/cran/merTools
+[submodule "mergeGridR"]
+	path = mergeGridR
+	url = https://github.com/cran/mergeGridR
 [submodule "mergeTrees"]
 	path = mergeTrees
 	url = https://github.com/cran/mergeTrees
@@ -57794,6 +57854,9 @@
 [submodule "rCoreGage"]
 	path = rCoreGage
 	url = https://github.com/cran/rCoreGage
+[submodule "rCoros"]
+	path = rCoros
+	url = https://github.com/cran/rCoros
 [submodule "rD3plot"]
 	path = rD3plot
 	url = https://github.com/cran/rD3plot
@@ -63128,6 +63191,9 @@
 [submodule "selectTWFE"]
 	path = selectTWFE
 	url = https://github.com/cran/selectTWFE
+[submodule "selecta"]
+	path = selecta
+	url = https://github.com/cran/selecta
 [submodule "selectapref"]
 	path = selectapref
 	url = https://github.com/cran/selectapref
@@ -63338,6 +63404,9 @@
 [submodule "sentimentr"]
 	path = sentimentr
 	url = https://github.com/cran/sentimentr
+[submodule "sentixr"]
+	path = sentixr
+	url = https://github.com/cran/sentixr
 [submodule "sentometrics"]
 	path = sentometrics
 	url = https://github.com/cran/sentometrics
@@ -67196,6 +67265,9 @@
 [submodule "striprtf"]
 	path = striprtf
 	url = https://github.com/cran/striprtf
+[submodule "strollur"]
+	path = strollur
+	url = https://github.com/cran/strollur
 [submodule "strs"]
 	path = strs
 	url = https://github.com/cran/strs
@@ -68519,6 +68591,9 @@
 [submodule "tensorBSS"]
 	path = tensorBSS
 	url = https://github.com/cran/tensorBSS
+[submodule "tensorEVD"]
+	path = tensorEVD
+	url = https://github.com/cran/tensorEVD
 [submodule "tensorMiss"]
 	path = tensorMiss
 	url = https://github.com/cran/tensorMiss
