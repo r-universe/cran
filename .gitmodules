@@ -27248,6 +27248,9 @@
 [submodule "chatgpt"]
 	path = chatgpt
 	url = https://github.com/cran/chatgpt
+[submodule "chatterbox"]
+	path = chatterbox
+	url = https://github.com/cran/chatterbox
 [submodule "chattr"]
 	path = chattr
 	url = https://github.com/cran/chattr
@@ -38585,6 +38588,9 @@
 [submodule "ggalluvial"]
 	path = ggalluvial
 	url = https://github.com/cran/ggalluvial
+[submodule "ggalttext"]
+	path = ggalttext
+	url = https://github.com/cran/ggalttext
 [submodule "ggamma"]
 	path = ggamma
 	url = https://github.com/cran/ggamma
@@ -38615,6 +38621,9 @@
 [submodule "ggblend"]
 	path = ggblend
 	url = https://github.com/cran/ggblend
+[submodule "ggbond"]
+	path = ggbond
+	url = https://github.com/cran/ggbond
 [submodule "ggborderline"]
 	path = ggborderline
 	url = https://github.com/cran/ggborderline
