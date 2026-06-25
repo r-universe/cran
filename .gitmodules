@@ -4601,6 +4601,9 @@
 [submodule "DataClean"]
 	path = DataClean
 	url = https://github.com/cran/DataClean
+[submodule "DataCraftR"]
+	path = DataCraftR
+	url = https://github.com/cran/DataCraftR
 [submodule "DataDNA"]
 	path = DataDNA
 	url = https://github.com/cran/DataDNA
@@ -6659,6 +6662,9 @@
 [submodule "FractalParameterEstimation"]
 	path = FractalParameterEstimation
 	url = https://github.com/cran/FractalParameterEstimation
+[submodule "FragiliTidy"]
+	path = FragiliTidy
+	url = https://github.com/cran/FragiliTidy
 [submodule "Fragman"]
 	path = Fragman
 	url = https://github.com/cran/Fragman
@@ -14357,6 +14363,9 @@
 [submodule "ProbMarg"]
 	path = ProbMarg
 	url = https://github.com/cran/ProbMarg
+[submodule "ProbSVMs"]
+	path = ProbSVMs
+	url = https://github.com/cran/ProbSVMs
 [submodule "ProbSamplingI"]
 	path = ProbSamplingI
 	url = https://github.com/cran/ProbSamplingI
@@ -17816,6 +17825,9 @@
 [submodule "SIDES"]
 	path = SIDES
 	url = https://github.com/cran/SIDES
+[submodule "SIEVEseq"]
+	path = SIEVEseq
+	url = https://github.com/cran/SIEVEseq
 [submodule "SIGN"]
 	path = SIGN
 	url = https://github.com/cran/SIGN
@@ -19718,6 +19730,9 @@
 [submodule "TCRconvertR"]
 	path = TCRconvertR
 	url = https://github.com/cran/TCRconvertR
+[submodule "TCpRepDesigns"]
+	path = TCpRepDesigns
+	url = https://github.com/cran/TCpRepDesigns
 [submodule "TDA"]
 	path = TDA
 	url = https://github.com/cran/TDA
@@ -48689,6 +48704,9 @@
 [submodule "mixedsde"]
 	path = mixedsde
 	url = https://github.com/cran/mixedsde
+[submodule "mixedsubjectsirt"]
+	path = mixedsubjectsirt
+	url = https://github.com/cran/mixedsubjectsirt
 [submodule "mixgb"]
 	path = mixgb
 	url = https://github.com/cran/mixgb
@@ -48713,6 +48731,9 @@
 [submodule "mixpower"]
 	path = mixpower
 	url = https://github.com/cran/mixpower
+[submodule "mixqr"]
+	path = mixqr
+	url = https://github.com/cran/mixqr
 [submodule "mixsmsn"]
 	path = mixsmsn
 	url = https://github.com/cran/mixsmsn
@@ -57968,6 +57989,9 @@
 [submodule "rMVP"]
 	path = rMVP
 	url = https://github.com/cran/rMVP
+[submodule "rMosaic"]
+	path = rMosaic
+	url = https://github.com/cran/rMosaic
 [submodule "rMultiNet"]
 	path = rMultiNet
 	url = https://github.com/cran/rMultiNet
@@ -58505,6 +58529,9 @@
 [submodule "ratdat"]
 	path = ratdat
 	url = https://github.com/cran/ratdat
+[submodule "ratecalib"]
+	path = ratecalib
+	url = https://github.com/cran/ratecalib
 [submodule "ratelimitr"]
 	path = ratelimitr
 	url = https://github.com/cran/ratelimitr
@@ -68303,6 +68330,9 @@
 [submodule "tapLock"]
 	path = tapLock
 	url = https://github.com/cran/tapLock
+[submodule "taperNOR"]
+	path = taperNOR
+	url = https://github.com/cran/taperNOR
 [submodule "tapkee"]
 	path = tapkee
 	url = https://github.com/cran/tapkee
