@@ -2237,6 +2237,9 @@
 [submodule "CAESAR.Suite"]
 	path = CAESAR.Suite
 	url = https://github.com/cran/CAESAR.Suite
+[submodule "CAFT"]
+	path = CAFT
+	url = https://github.com/cran/CAFT
 [submodule "CAGR"]
 	path = CAGR
 	url = https://github.com/cran/CAGR
@@ -14693,6 +14696,9 @@
 [submodule "QuantileGradeR"]
 	path = QuantileGradeR
 	url = https://github.com/cran/QuantileGradeR
+[submodule "QuantileModels"]
+	path = QuantileModels
+	url = https://github.com/cran/QuantileModels
 [submodule "QuantileNPCI"]
 	path = QuantileNPCI
 	url = https://github.com/cran/QuantileNPCI
@@ -56108,6 +56114,9 @@
 [submodule "prenoms"]
 	path = prenoms
 	url = https://github.com/cran/prenoms
+[submodule "prepR4pcm"]
+	path = prepR4pcm
+	url = https://github.com/cran/prepR4pcm
 [submodule "prepdat"]
 	path = prepdat
 	url = https://github.com/cran/prepdat
@@ -60260,6 +60269,9 @@
 [submodule "ring"]
 	path = ring
 	url = https://github.com/cran/ring
+[submodule "ringSeg"]
+	path = ringSeg
+	url = https://github.com/cran/ringSeg
 [submodule "ringbp"]
 	path = ringbp
 	url = https://github.com/cran/ringbp
@@ -61445,6 +61457,9 @@
 [submodule "rseedcalc"]
 	path = rseedcalc
 	url = https://github.com/cran/rseedcalc
+[submodule "rsei"]
+	path = rsei
+	url = https://github.com/cran/rsei
 [submodule "rsem"]
 	path = rsem
 	url = https://github.com/cran/rsem
