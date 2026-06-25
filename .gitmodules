@@ -947,9 +947,6 @@
 [submodule "BACCO"]
 	path = BACCO
 	url = https://github.com/cran/BACCO
-[submodule "BACCT"]
-	path = BACCT
-	url = https://github.com/cran/BACCT
 [submodule "BACprior"]
 	path = BACprior
 	url = https://github.com/cran/BACprior
@@ -5564,9 +5561,6 @@
 [submodule "EconCausal"]
 	path = EconCausal
 	url = https://github.com/cran/EconCausal
-[submodule "EconDemand"]
-	path = EconDemand
-	url = https://github.com/cran/EconDemand
 [submodule "EconGeo"]
 	path = EconGeo
 	url = https://github.com/cran/EconGeo
@@ -7319,9 +7313,6 @@
 [submodule "GSA.UN"]
 	path = GSA.UN
 	url = https://github.com/cran/GSA.UN
-[submodule "GSAQ"]
-	path = GSAQ
-	url = https://github.com/cran/GSAQ
 [submodule "GSD"]
 	path = GSD
 	url = https://github.com/cran/GSD
@@ -8960,9 +8951,6 @@
 [submodule "IntNMF"]
 	path = IntNMF
 	url = https://github.com/cran/IntNMF
-[submodule "IntegrateBs"]
-	path = IntegrateBs
-	url = https://github.com/cran/IntegrateBs
 [submodule "IntegratedJM"]
 	path = IntegratedJM
 	url = https://github.com/cran/IntegratedJM
@@ -13067,9 +13055,6 @@
 [submodule "PASWR2"]
 	path = PASWR2
 	url = https://github.com/cran/PASWR2
-[submodule "PASenseWear"]
-	path = PASenseWear
-	url = https://github.com/cran/PASenseWear
 [submodule "PAmeasures"]
 	path = PAmeasures
 	url = https://github.com/cran/PAmeasures
@@ -15857,9 +15842,6 @@
 [submodule "RRTCS"]
 	path = RRTCS
 	url = https://github.com/cran/RRTCS
-[submodule "RRedshiftSQL"]
-	path = RRedshiftSQL
-	url = https://github.com/cran/RRedshiftSQL
 [submodule "RRgeo"]
 	path = RRgeo
 	url = https://github.com/cran/RRgeo
@@ -18596,9 +18578,6 @@
 [submodule "SeqAlignR"]
 	path = SeqAlignR
 	url = https://github.com/cran/SeqAlignR
-[submodule "SeqAlloc"]
-	path = SeqAlloc
-	url = https://github.com/cran/SeqAlloc
 [submodule "SeqFeatR"]
 	path = SeqFeatR
 	url = https://github.com/cran/SeqFeatR
@@ -19190,9 +19169,6 @@
 [submodule "SpectralClMixed"]
 	path = SpectralClMixed
 	url = https://github.com/cran/SpectralClMixed
-[submodule "SpectralMap"]
-	path = SpectralMap
-	url = https://github.com/cran/SpectralMap
 [submodule "Spectran"]
 	path = Spectran
 	url = https://github.com/cran/Spectran
@@ -32006,9 +31982,6 @@
 [submodule "dispRity"]
 	path = dispRity
 	url = https://github.com/cran/dispRity
-[submodule "disparityfilter"]
-	path = disparityfilter
-	url = https://github.com/cran/disparityfilter
 [submodule "dispeRse"]
 	path = dispeRse
 	url = https://github.com/cran/dispeRse
@@ -33986,9 +33959,6 @@
 [submodule "endogeneity"]
 	path = endogeneity
 	url = https://github.com/cran/endogeneity
-[submodule "endogenous"]
-	path = endogenous
-	url = https://github.com/cran/endogenous
 [submodule "endorse"]
 	path = endorse
 	url = https://github.com/cran/endorse
@@ -34880,9 +34850,6 @@
 [submodule "expSBM"]
 	path = expSBM
 	url = https://github.com/cran/expSBM
-[submodule "expandFunctions"]
-	path = expandFunctions
-	url = https://github.com/cran/expandFunctions
 [submodule "expectreg"]
 	path = expectreg
 	url = https://github.com/cran/expectreg
@@ -41369,9 +41336,6 @@
 [submodule "highlightr"]
 	path = highlightr
 	url = https://github.com/cran/highlightr
-[submodule "highmean"]
-	path = highmean
-	url = https://github.com/cran/highmean
 [submodule "highr"]
 	path = highr
 	url = https://github.com/cran/highr
@@ -46556,9 +46520,6 @@
 [submodule "madness"]
 	path = madness
 	url = https://github.com/cran/madness
-[submodule "madr"]
-	path = madr
-	url = https://github.com/cran/madr
 [submodule "madrat"]
 	path = madrat
 	url = https://github.com/cran/madrat
@@ -47114,9 +47075,6 @@
 [submodule "matrixCorr"]
 	path = matrixCorr
 	url = https://github.com/cran/matrixCorr
-[submodule "matrixLaplacian"]
-	path = matrixLaplacian
-	url = https://github.com/cran/matrixLaplacian
 [submodule "matrixNormal"]
 	path = matrixNormal
 	url = https://github.com/cran/matrixNormal
@@ -48149,9 +48107,6 @@
 [submodule "mhsmm"]
 	path = mhsmm
 	url = https://github.com/cran/mhsmm
-[submodule "mhtboot"]
-	path = mhtboot
-	url = https://github.com/cran/mhtboot
 [submodule "mhurdle"]
 	path = mhurdle
 	url = https://github.com/cran/mhurdle
@@ -59423,9 +59378,6 @@
 [submodule "regda"]
 	path = regda
 	url = https://github.com/cran/regda
-[submodule "regexPipes"]
-	path = regexPipes
-	url = https://github.com/cran/regexPipes
 [submodule "regexSelect"]
 	path = regexSelect
 	url = https://github.com/cran/regexSelect
@@ -62105,9 +62057,6 @@
 [submodule "saCI"]
 	path = saCI
 	url = https://github.com/cran/saCI
-[submodule "saasCNV"]
-	path = saasCNV
-	url = https://github.com/cran/saasCNV
 [submodule "saber"]
 	path = saber
 	url = https://github.com/cran/saber
@@ -70937,9 +70886,6 @@
 [submodule "uGMAR"]
 	path = uGMAR
 	url = https://github.com/cran/uGMAR
-[submodule "uHMM"]
-	path = uHMM
-	url = https://github.com/cran/uHMM
 [submodule "uaparserjs"]
 	path = uaparserjs
 	url = https://github.com/cran/uaparserjs
