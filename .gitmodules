@@ -18002,6 +18002,9 @@
 [submodule "SNPfiltR"]
 	path = SNPfiltR
 	url = https://github.com/cran/SNPfiltR
+[submodule "SNPkit"]
+	path = SNPkit
+	url = https://github.com/cran/SNPkit
 [submodule "SNSFdatasets"]
 	path = SNSFdatasets
 	url = https://github.com/cran/SNSFdatasets
@@ -31397,6 +31400,9 @@
 [submodule "depth.plot"]
 	path = depth.plot
 	url = https://github.com/cran/depth.plot
+[submodule "depthR"]
+	path = depthR
+	url = https://github.com/cran/depthR
 [submodule "depthTools"]
 	path = depthTools
 	url = https://github.com/cran/depthTools
@@ -62678,6 +62684,9 @@
 [submodule "scenfire"]
 	path = scenfire
 	url = https://github.com/cran/scenfire
+[submodule "sceua"]
+	path = sceua
+	url = https://github.com/cran/sceua
 [submodule "scf"]
 	path = scf
 	url = https://github.com/cran/scf
@@ -64823,6 +64832,9 @@
 [submodule "skylight"]
 	path = skylight
 	url = https://github.com/cran/skylight
+[submodule "skymodelr"]
+	path = skymodelr
+	url = https://github.com/cran/skymodelr
 [submodule "skytrackr"]
 	path = skytrackr
 	url = https://github.com/cran/skytrackr
