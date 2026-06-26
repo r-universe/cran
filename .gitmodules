@@ -3362,6 +3362,9 @@
 [submodule "ClusterR"]
 	path = ClusterR
 	url = https://github.com/cran/ClusterR
+[submodule "ClusterRandSSAdj"]
+	path = ClusterRandSSAdj
+	url = https://github.com/cran/ClusterRandSSAdj
 [submodule "ClusterRankTest"]
 	path = ClusterRankTest
 	url = https://github.com/cran/ClusterRankTest
@@ -29570,9 +29573,6 @@
 [submodule "covr"]
 	path = covr
 	url = https://github.com/cran/covr
-[submodule "covsep"]
-	path = covsep
-	url = https://github.com/cran/covsep
 [submodule "covsim"]
 	path = covsim
 	url = https://github.com/cran/covsim
@@ -31763,6 +31763,9 @@
 [submodule "diffdfs"]
 	path = diffdfs
 	url = https://github.com/cran/diffdfs
+[submodule "diffdriver"]
+	path = diffdriver
+	url = https://github.com/cran/diffdriver
 [submodule "diffeR"]
 	path = diffeR
 	url = https://github.com/cran/diffeR
@@ -32882,6 +32885,9 @@
 [submodule "dwlm"]
 	path = dwlm
 	url = https://github.com/cran/dwlm
+[submodule "dwmmlRidge"]
+	path = dwmmlRidge
+	url = https://github.com/cran/dwmmlRidge
 [submodule "dwp"]
 	path = dwp
 	url = https://github.com/cran/dwp
@@ -33635,6 +33641,9 @@
 [submodule "ega"]
 	path = ega
 	url = https://github.com/cran/ega
+[submodule "egfr"]
+	path = egfr
+	url = https://github.com/cran/egfr
 [submodule "egg"]
 	path = egg
 	url = https://github.com/cran/egg
@@ -49571,6 +49580,9 @@
 [submodule "mp"]
 	path = mp
 	url = https://github.com/cran/mp
+[submodule "mpaR"]
+	path = mpaR
+	url = https://github.com/cran/mpaR
 [submodule "mpactr"]
 	path = mpactr
 	url = https://github.com/cran/mpactr
