@@ -29573,6 +29573,9 @@
 [submodule "covr"]
 	path = covr
 	url = https://github.com/cran/covr
+[submodule "covsep"]
+	path = covsep
+	url = https://github.com/cran/covsep
 [submodule "covsim"]
 	path = covsim
 	url = https://github.com/cran/covsim
