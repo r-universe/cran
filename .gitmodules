@@ -16871,9 +16871,6 @@
 [submodule "Rfractran"]
 	path = Rfractran
 	url = https://github.com/cran/Rfractran
-[submodule "Rfssa"]
-	path = Rfssa
-	url = https://github.com/cran/Rfssa
 [submodule "Rfuzzycoco"]
 	path = Rfuzzycoco
 	url = https://github.com/cran/Rfuzzycoco
@@ -38216,9 +38213,6 @@
 [submodule "geodiv"]
 	path = geodiv
 	url = https://github.com/cran/geodiv
-[submodule "geodl"]
-	path = geodl
-	url = https://github.com/cran/geodl
 [submodule "geodrawr"]
 	path = geodrawr
 	url = https://github.com/cran/geodrawr
@@ -50591,9 +50585,6 @@
 [submodule "nFactors"]
 	path = nFactors
 	url = https://github.com/cran/nFactors
-[submodule "nFunNN"]
-	path = nFunNN
-	url = https://github.com/cran/nFunNN
 [submodule "nLTT"]
 	path = nLTT
 	url = https://github.com/cran/nLTT
@@ -68558,9 +68549,6 @@
 [submodule "tempdisagg"]
 	path = tempdisagg
 	url = https://github.com/cran/tempdisagg
-[submodule "temper"]
-	path = temper
-	url = https://github.com/cran/temper
 [submodule "temperatureresponse"]
 	path = temperatureresponse
 	url = https://github.com/cran/temperatureresponse
