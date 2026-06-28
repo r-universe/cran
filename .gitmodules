@@ -4733,9 +4733,6 @@
 [submodule "DemoDecomp"]
 	path = DemoDecomp
 	url = https://github.com/cran/DemoDecomp
-[submodule "DemoKin"]
-	path = DemoKin
-	url = https://github.com/cran/DemoKin
 [submodule "DemographicTable"]
 	path = DemographicTable
 	url = https://github.com/cran/DemographicTable
