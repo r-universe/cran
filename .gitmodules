@@ -14375,6 +14375,9 @@
 [submodule "PsychWordVec"]
 	path = PsychWordVec
 	url = https://github.com/cran/PsychWordVec
+[submodule "PsychoMatic"]
+	path = PsychoMatic
+	url = https://github.com/cran/PsychoMatic
 [submodule "PtProcess"]
 	path = PtProcess
 	url = https://github.com/cran/PtProcess
@@ -14726,6 +14729,9 @@
 [submodule "R2admb"]
 	path = R2admb
 	url = https://github.com/cran/R2admb
+[submodule "R2camtrapdp"]
+	path = R2camtrapdp
+	url = https://github.com/cran/R2camtrapdp
 [submodule "R2jags"]
 	path = R2jags
 	url = https://github.com/cran/R2jags
@@ -22550,6 +22556,9 @@
 [submodule "ammiBayes"]
 	path = ammiBayes
 	url = https://github.com/cran/ammiBayes
+[submodule "amorem"]
+	path = amorem
+	url = https://github.com/cran/amorem
 [submodule "amp"]
 	path = amp
 	url = https://github.com/cran/amp
@@ -25205,6 +25214,9 @@
 [submodule "blockForest"]
 	path = blockForest
 	url = https://github.com/cran/blockForest
+[submodule "blockRAR"]
+	path = blockRAR
+	url = https://github.com/cran/blockRAR
 [submodule "blockTools"]
 	path = blockTools
 	url = https://github.com/cran/blockTools
@@ -33359,6 +33371,9 @@
 [submodule "ecpdist"]
 	path = ecpdist
 	url = https://github.com/cran/ecpdist
+[submodule "ecpromethee"]
+	path = ecpromethee
+	url = https://github.com/cran/ecpromethee
 [submodule "ecr"]
 	path = ecr
 	url = https://github.com/cran/ecr
@@ -35822,6 +35837,9 @@
 [submodule "fibos"]
 	path = fibos
 	url = https://github.com/cran/fibos
+[submodule "fibr"]
+	path = fibr
+	url = https://github.com/cran/fibr
 [submodule "fic"]
 	path = fic
 	url = https://github.com/cran/fic
@@ -37307,6 +37325,9 @@
 [submodule "fy"]
 	path = fy
 	url = https://github.com/cran/fy
+[submodule "fz"]
+	path = fz
+	url = https://github.com/cran/fz
 [submodule "g.data"]
 	path = g.data
 	url = https://github.com/cran/g.data
@@ -39809,6 +39830,9 @@
 [submodule "gp"]
 	path = gp
 	url = https://github.com/cran/gp
+[submodule "gp3tools"]
+	path = gp3tools
+	url = https://github.com/cran/gp3tools
 [submodule "gpairs"]
 	path = gpairs
 	url = https://github.com/cran/gpairs
@@ -41627,6 +41651,9 @@
 [submodule "hubEnsembles"]
 	path = hubEnsembles
 	url = https://github.com/cran/hubEnsembles
+[submodule "hubEvals"]
+	path = hubEvals
+	url = https://github.com/cran/hubEvals
 [submodule "hubUtils"]
 	path = hubUtils
 	url = https://github.com/cran/hubUtils
@@ -52019,6 +52046,9 @@
 [submodule "occ"]
 	path = occ
 	url = https://github.com/cran/occ
+[submodule "occCite"]
+	path = occCite
+	url = https://github.com/cran/occCite
 [submodule "occumb"]
 	path = occumb
 	url = https://github.com/cran/occumb
@@ -72659,6 +72689,9 @@
 [submodule "womblR"]
 	path = womblR
 	url = https://github.com/cran/womblR
+[submodule "wompwomp"]
+	path = wompwomp
+	url = https://github.com/cran/wompwomp
 [submodule "woodValuationDE"]
 	path = woodValuationDE
 	url = https://github.com/cran/woodValuationDE
