@@ -46709,6 +46709,9 @@
 [submodule "mapsf"]
 	path = mapsf
 	url = https://github.com/cran/mapsf
+[submodule "mapsf.gui"]
+	path = mapsf.gui
+	url = https://github.com/cran/mapsf.gui
 [submodule "maptiles"]
 	path = maptiles
 	url = https://github.com/cran/maptiles
@@ -52307,6 +52310,9 @@
 [submodule "oncmap"]
 	path = oncmap
 	url = https://github.com/cran/oncmap
+[submodule "oncoPredict"]
+	path = oncoPredict
+	url = https://github.com/cran/oncoPredict
 [submodule "ondisc"]
 	path = ondisc
 	url = https://github.com/cran/ondisc
@@ -63842,6 +63848,9 @@
 [submodule "shinyRatings"]
 	path = shinyRatings
 	url = https://github.com/cran/shinyRatings
+[submodule "shinyReports"]
+	path = shinyReports
+	url = https://github.com/cran/shinyReports
 [submodule "shinySIR"]
 	path = shinySIR
 	url = https://github.com/cran/shinySIR
