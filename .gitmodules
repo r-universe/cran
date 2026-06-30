@@ -7103,6 +7103,9 @@
 [submodule "GMDHreg"]
 	path = GMDHreg
 	url = https://github.com/cran/GMDHreg
+[submodule "GMLTM"]
+	path = GMLTM
+	url = https://github.com/cran/GMLTM
 [submodule "GMMAT"]
 	path = GMMAT
 	url = https://github.com/cran/GMMAT
@@ -7313,6 +7316,9 @@
 [submodule "GSSTDA"]
 	path = GSSTDA
 	url = https://github.com/cran/GSSTDA
+[submodule "GSbench"]
+	path = GSbench
+	url = https://github.com/cran/GSbench
 [submodule "GSelection"]
 	path = GSelection
 	url = https://github.com/cran/GSelection
@@ -12236,6 +12242,9 @@
 [submodule "Neighboot"]
 	path = Neighboot
 	url = https://github.com/cran/Neighboot
+[submodule "NeighborFinder"]
+	path = NeighborFinder
+	url = https://github.com/cran/NeighborFinder
 [submodule "Nematode"]
 	path = Nematode
 	url = https://github.com/cran/Nematode
@@ -12860,6 +12869,9 @@
 [submodule "OptSig"]
 	path = OptSig
 	url = https://github.com/cran/OptSig
+[submodule "OptSurvCutR"]
+	path = OptSurvCutR
+	url = https://github.com/cran/OptSurvCutR
 [submodule "OptimModel"]
 	path = OptimModel
 	url = https://github.com/cran/OptimModel
@@ -18740,6 +18752,9 @@
 [submodule "SimpleUpset"]
 	path = SimpleUpset
 	url = https://github.com/cran/SimpleUpset
+[submodule "SimplexRegression"]
+	path = SimplexRegression
+	url = https://github.com/cran/SimplexRegression
 [submodule "SimplicialComplex"]
 	path = SimplicialComplex
 	url = https://github.com/cran/SimplicialComplex
@@ -26453,6 +26468,9 @@
 [submodule "caretForecast"]
 	path = caretForecast
 	url = https://github.com/cran/caretForecast
+[submodule "caretMultimodal"]
+	path = caretMultimodal
+	url = https://github.com/cran/caretMultimodal
 [submodule "caretSDM"]
 	path = caretSDM
 	url = https://github.com/cran/caretSDM
@@ -27938,6 +27956,9 @@
 [submodule "clusterGeneration"]
 	path = clusterGeneration
 	url = https://github.com/cran/clusterGeneration
+[submodule "clusterIV"]
+	path = clusterIV
+	url = https://github.com/cran/clusterIV
 [submodule "clusterMI"]
 	path = clusterMI
 	url = https://github.com/cran/clusterMI
@@ -31616,6 +31637,9 @@
 [submodule "diceplot"]
 	path = diceplot
 	url = https://github.com/cran/diceplot
+[submodule "dicepro"]
+	path = dicepro
+	url = https://github.com/cran/dicepro
 [submodule "dichromat"]
 	path = dichromat
 	url = https://github.com/cran/dichromat
@@ -63332,6 +63356,9 @@
 [submodule "seqSHP"]
 	path = seqSHP
 	url = https://github.com/cran/seqSHP
+[submodule "seqcomp"]
+	path = seqcomp
+	url = https://github.com/cran/seqcomp
 [submodule "seqgendiff"]
 	path = seqgendiff
 	url = https://github.com/cran/seqgendiff
