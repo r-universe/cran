@@ -1964,6 +1964,9 @@
 [submodule "BioThermR"]
 	path = BioThermR
 	url = https://github.com/cran/BioThermR
+[submodule "BioTooltipR"]
+	path = BioTooltipR
+	url = https://github.com/cran/BioTooltipR
 [submodule "BioTrajectory"]
 	path = BioTrajectory
 	url = https://github.com/cran/BioTrajectory
@@ -3017,6 +3020,9 @@
 [submodule "CautiousLearning"]
 	path = CautiousLearning
 	url = https://github.com/cran/CautiousLearning
+[submodule "CbKST"]
+	path = CbKST
+	url = https://github.com/cran/CbKST
 [submodule "CePa"]
 	path = CePa
 	url = https://github.com/cran/CePa
@@ -4424,6 +4430,9 @@
 [submodule "DSFM"]
 	path = DSFM
 	url = https://github.com/cran/DSFM
+[submodule "DSGEr"]
+	path = DSGEr
+	url = https://github.com/cran/DSGEr
 [submodule "DSI"]
 	path = DSI
 	url = https://github.com/cran/DSI
@@ -8081,6 +8090,9 @@
 [submodule "HUM"]
 	path = HUM
 	url = https://github.com/cran/HUM
+[submodule "HVS"]
+	path = HVS
+	url = https://github.com/cran/HVS
 [submodule "HVT"]
 	path = HVT
 	url = https://github.com/cran/HVT
@@ -13241,6 +13253,9 @@
 [submodule "PINstimation"]
 	path = PINstimation
 	url = https://github.com/cran/PINstimation
+[submodule "PITS"]
+	path = PITS
+	url = https://github.com/cran/PITS
 [submodule "PJCcalculator"]
 	path = PJCcalculator
 	url = https://github.com/cran/PJCcalculator
@@ -18326,9 +18341,6 @@
 [submodule "SamplingStrata"]
 	path = SamplingStrata
 	url = https://github.com/cran/SamplingStrata
-[submodule "SamsaRaLight"]
-	path = SamsaRaLight
-	url = https://github.com/cran/SamsaRaLight
 [submodule "SanFranBeachWater"]
 	path = SanFranBeachWater
 	url = https://github.com/cran/SanFranBeachWater
@@ -20054,6 +20066,9 @@
 [submodule "TemporalHazard"]
 	path = TemporalHazard
 	url = https://github.com/cran/TemporalHazard
+[submodule "TemporalModelR"]
+	path = TemporalModelR
+	url = https://github.com/cran/TemporalModelR
 [submodule "TensorClustering"]
 	path = TensorClustering
 	url = https://github.com/cran/TensorClustering
@@ -20519,6 +20534,9 @@
 [submodule "UHM"]
 	path = UHM
 	url = https://github.com/cran/UHM
+[submodule "UKBAnalytica"]
+	path = UKBAnalytica
+	url = https://github.com/cran/UKBAnalytica
 [submodule "UKFE"]
 	path = UKFE
 	url = https://github.com/cran/UKFE
@@ -29516,6 +29534,9 @@
 [submodule "coxstream"]
 	path = coxstream
 	url = https://github.com/cran/coxstream
+[submodule "cp1919"]
+	path = cp1919
+	url = https://github.com/cran/cp1919
 [submodule "cp4p"]
 	path = cp4p
 	url = https://github.com/cran/cp4p
@@ -34283,6 +34304,9 @@
 [submodule "ern"]
 	path = ern
 	url = https://github.com/cran/ern
+[submodule "ernest"]
+	path = ernest
+	url = https://github.com/cran/ernest
 [submodule "ernm"]
 	path = ernm
 	url = https://github.com/cran/ernm
@@ -51467,6 +51491,9 @@
 [submodule "nodeSub"]
 	path = nodeSub
 	url = https://github.com/cran/nodeSub
+[submodule "nodiv"]
+	path = nodiv
+	url = https://github.com/cran/nodiv
 [submodule "nofrills"]
 	path = nofrills
 	url = https://github.com/cran/nofrills
@@ -52238,6 +52265,9 @@
 [submodule "okcolors"]
 	path = okcolors
 	url = https://github.com/cran/okcolors
+[submodule "okf"]
+	path = okf
+	url = https://github.com/cran/okf
 [submodule "okxAPI"]
 	path = okxAPI
 	url = https://github.com/cran/okxAPI
@@ -55586,6 +55616,9 @@
 [submodule "portalr"]
 	path = portalr
 	url = https://github.com/cran/portalr
+[submodule "porter"]
+	path = porter
+	url = https://github.com/cran/porter
 [submodule "portes"]
 	path = portes
 	url = https://github.com/cran/portes
@@ -66848,6 +66881,9 @@
 [submodule "stevemisc"]
 	path = stevemisc
 	url = https://github.com/cran/stevemisc
+[submodule "steves"]
+	path = steves
+	url = https://github.com/cran/steves
 [submodule "stevetemplates"]
 	path = stevetemplates
 	url = https://github.com/cran/stevetemplates
@@ -67679,6 +67715,9 @@
 [submodule "svmf"]
 	path = svmf
 	url = https://github.com/cran/svmf
+[submodule "svmodt"]
+	path = svmodt
+	url = https://github.com/cran/svmodt
 [submodule "svmpath"]
 	path = svmpath
 	url = https://github.com/cran/svmpath
@@ -68225,6 +68264,9 @@
 [submodule "taxdiv"]
 	path = taxdiv
 	url = https://github.com/cran/taxdiv
+[submodule "taxify"]
+	path = taxify
+	url = https://github.com/cran/taxify
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/cran/taxize
@@ -72422,6 +72464,9 @@
 [submodule "weightedsurv"]
 	path = weightedsurv
 	url = https://github.com/cran/weightedsurv
+[submodule "weightflow"]
+	path = weightflow
+	url = https://github.com/cran/weightflow
 [submodule "weightr"]
 	path = weightr
 	url = https://github.com/cran/weightr
