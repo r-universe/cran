@@ -8819,6 +8819,9 @@
 [submodule "ImportanceIndice"]
 	path = ImportanceIndice
 	url = https://github.com/cran/ImportanceIndice
+[submodule "ImprintCapASM"]
+	path = ImprintCapASM
+	url = https://github.com/cran/ImprintCapASM
 [submodule "ImputeLongiCovs"]
 	path = ImputeLongiCovs
 	url = https://github.com/cran/ImputeLongiCovs
@@ -31175,6 +31178,9 @@
 [submodule "dejaVu"]
 	path = dejaVu
 	url = https://github.com/cran/dejaVu
+[submodule "delarr"]
+	path = delarr
+	url = https://github.com/cran/delarr
 [submodule "delaydiscount"]
 	path = delaydiscount
 	url = https://github.com/cran/delaydiscount
