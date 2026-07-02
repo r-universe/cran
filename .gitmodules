@@ -12824,6 +12824,9 @@
 [submodule "OpenImageR"]
 	path = OpenImageR
 	url = https://github.com/cran/OpenImageR
+[submodule "OpenLand"]
+	path = OpenLand
+	url = https://github.com/cran/OpenLand
 [submodule "OpenML"]
 	path = OpenML
 	url = https://github.com/cran/OpenML
@@ -17510,6 +17513,9 @@
 [submodule "SCE"]
 	path = SCE
 	url = https://github.com/cran/SCE
+[submodule "SCEM"]
+	path = SCEM
+	url = https://github.com/cran/SCEM
 [submodule "SCEPtER"]
 	path = SCEPtER
 	url = https://github.com/cran/SCEPtER
@@ -17579,6 +17585,9 @@
 [submodule "SCtools"]
 	path = SCtools
 	url = https://github.com/cran/SCtools
+[submodule "SDALGCP2"]
+	path = SDALGCP2
+	url = https://github.com/cran/SDALGCP2
 [submodule "SDAR"]
 	path = SDAR
 	url = https://github.com/cran/SDAR
@@ -22859,6 +22868,9 @@
 [submodule "api2lm"]
 	path = api2lm
 	url = https://github.com/cran/api2lm
+[submodule "apifetch"]
+	path = apifetch
+	url = https://github.com/cran/apifetch
 [submodule "apisensr"]
 	path = apisensr
 	url = https://github.com/cran/apisensr
@@ -22970,6 +22982,9 @@
 [submodule "aramappings"]
 	path = aramappings
 	url = https://github.com/cran/aramappings
+[submodule "araponga"]
+	path = araponga
+	url = https://github.com/cran/araponga
 [submodule "arc"]
 	path = arc
 	url = https://github.com/cran/arc
@@ -23687,6 +23702,9 @@
 [submodule "axisandallies"]
 	path = axisandallies
 	url = https://github.com/cran/axisandallies
+[submodule "axprism"]
+	path = axprism
+	url = https://github.com/cran/axprism
 [submodule "azlogr"]
 	path = azlogr
 	url = https://github.com/cran/azlogr
@@ -27233,6 +27251,9 @@
 [submodule "checkthat"]
 	path = checkthat
 	url = https://github.com/cran/checkthat
+[submodule "checktor"]
+	path = checktor
+	url = https://github.com/cran/checktor
 [submodule "cheddar"]
 	path = cheddar
 	url = https://github.com/cran/cheddar
@@ -27506,9 +27527,6 @@
 [submodule "circles"]
 	path = circles
 	url = https://github.com/cran/circles
-[submodule "circlesplot"]
-	path = circlesplot
-	url = https://github.com/cran/circlesplot
 [submodule "circletyper"]
 	path = circletyper
 	url = https://github.com/cran/circletyper
@@ -31019,6 +31037,9 @@
 [submodule "deal"]
 	path = deal
 	url = https://github.com/cran/deal
+[submodule "deaviz"]
+	path = deaviz
+	url = https://github.com/cran/deaviz
 [submodule "debar"]
 	path = debar
 	url = https://github.com/cran/debar
@@ -47642,6 +47663,9 @@
 [submodule "mergenstudio"]
 	path = mergenstudio
 	url = https://github.com/cran/mergenstudio
+[submodule "mergersim"]
+	path = mergersim
+	url = https://github.com/cran/mergersim
 [submodule "mergingTools"]
 	path = mergingTools
 	url = https://github.com/cran/mergingTools
@@ -48653,6 +48677,9 @@
 [submodule "mixedsde"]
 	path = mixedsde
 	url = https://github.com/cran/mixedsde
+[submodule "mixedsubjects"]
+	path = mixedsubjects
+	url = https://github.com/cran/mixedsubjects
 [submodule "mixedsubjectsirt"]
 	path = mixedsubjectsirt
 	url = https://github.com/cran/mixedsubjectsirt
@@ -53453,6 +53480,9 @@
 [submodule "pals"]
 	path = pals
 	url = https://github.com/cran/pals
+[submodule "palsr"]
+	path = palsr
+	url = https://github.com/cran/palsr
 [submodule "pam"]
 	path = pam
 	url = https://github.com/cran/pam
@@ -53615,6 +53645,9 @@
 [submodule "parcr"]
 	path = parcr
 	url = https://github.com/cran/parcr
+[submodule "parcxl"]
+	path = parcxl
+	url = https://github.com/cran/parcxl
 [submodule "parfm"]
 	path = parfm
 	url = https://github.com/cran/parfm
@@ -54173,6 +54206,9 @@
 [submodule "pedtricks"]
 	path = pedtricks
 	url = https://github.com/cran/pedtricks
+[submodule "peeky"]
+	path = peeky
+	url = https://github.com/cran/peeky
 [submodule "pegas"]
 	path = pegas
 	url = https://github.com/cran/pegas
@@ -59963,6 +59999,9 @@
 [submodule "rfacts"]
 	path = rfacts
 	url = https://github.com/cran/rfacts
+[submodule "rfair"]
+	path = rfair
+	url = https://github.com/cran/rfair
 [submodule "rfars"]
 	path = rfars
 	url = https://github.com/cran/rfars
@@ -61736,6 +61775,9 @@
 [submodule "rtpcr"]
 	path = rtpcr
 	url = https://github.com/cran/rtpcr
+[submodule "rtransparency"]
+	path = rtransparency
+	url = https://github.com/cran/rtransparency
 [submodule "rtrees"]
 	path = rtrees
 	url = https://github.com/cran/rtrees
@@ -62105,6 +62147,9 @@
 [submodule "saeHB.ME.beta"]
 	path = saeHB.ME.beta
 	url = https://github.com/cran/saeHB.ME.beta
+[submodule "saeHB.Spatial.Beta"]
+	path = saeHB.Spatial.Beta
+	url = https://github.com/cran/saeHB.Spatial.Beta
 [submodule "saeHB.TF.beta"]
 	path = saeHB.TF.beta
 	url = https://github.com/cran/saeHB.TF.beta
@@ -62927,9 +62972,6 @@
 [submodule "sdafilter"]
 	path = sdafilter
 	url = https://github.com/cran/sdafilter
-[submodule "sdam"]
-	path = sdam
-	url = https://github.com/cran/sdam
 [submodule "sdamr"]
 	path = sdamr
 	url = https://github.com/cran/sdamr
@@ -68687,6 +68729,9 @@
 [submodule "testex"]
 	path = testex
 	url = https://github.com/cran/testex
+[submodule "testflow"]
+	path = testflow
+	url = https://github.com/cran/testflow
 [submodule "testforDEP"]
 	path = testforDEP
 	url = https://github.com/cran/testforDEP
@@ -70010,6 +70055,9 @@
 [submodule "track2KBA"]
 	path = track2KBA
 	url = https://github.com/cran/track2KBA
+[submodule "trackclean"]
+	path = trackclean
+	url = https://github.com/cran/trackclean
 [submodule "trackdem"]
 	path = trackdem
 	url = https://github.com/cran/trackdem
