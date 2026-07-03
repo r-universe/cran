@@ -48536,6 +48536,9 @@
 [submodule "mixopt"]
 	path = mixopt
 	url = https://github.com/cran/mixopt
+[submodule "mixor"]
+	path = mixor
+	url = https://github.com/cran/mixor
 [submodule "mixpoissonreg"]
 	path = mixpoissonreg
 	url = https://github.com/cran/mixpoissonreg
