@@ -8216,6 +8216,9 @@
 [submodule "Holomics"]
 	path = Holomics
 	url = https://github.com/cran/Holomics
+[submodule "HomeRangeR"]
+	path = HomeRangeR
+	url = https://github.com/cran/HomeRangeR
 [submodule "Homeric"]
 	path = Homeric
 	url = https://github.com/cran/Homeric
@@ -20066,6 +20069,9 @@
 [submodule "TestNet"]
 	path = TestNet
 	url = https://github.com/cran/TestNet
+[submodule "TestREnlme"]
+	path = TestREnlme
+	url = https://github.com/cran/TestREnlme
 [submodule "TestScorer"]
 	path = TestScorer
 	url = https://github.com/cran/TestScorer
@@ -26291,6 +26297,9 @@
 [submodule "canprot"]
 	path = canprot
 	url = https://github.com/cran/canprot
+[submodule "canpumf"]
+	path = canpumf
+	url = https://github.com/cran/canpumf
 [submodule "cansim"]
 	path = cansim
 	url = https://github.com/cran/cansim
@@ -29618,6 +29627,9 @@
 [submodule "crawl"]
 	path = crawl
 	url = https://github.com/cran/crawl
+[submodule "crawlee"]
+	path = crawlee
+	url = https://github.com/cran/crawlee
 [submodule "crayon"]
 	path = crayon
 	url = https://github.com/cran/crayon
@@ -30236,6 +30248,9 @@
 [submodule "cyclestreets"]
 	path = cyclestreets
 	url = https://github.com/cran/cyclestreets
+[submodule "cyclicwave"]
+	path = cyclicwave
+	url = https://github.com/cran/cyclicwave
 [submodule "cyclocomp"]
 	path = cyclocomp
 	url = https://github.com/cran/cyclocomp
@@ -43802,6 +43817,9 @@
 [submodule "jpinfect"]
 	path = jpinfect
 	url = https://github.com/cran/jpinfect
+[submodule "jpmap"]
+	path = jpmap
+	url = https://github.com/cran/jpmap
 [submodule "jpmesh"]
 	path = jpmesh
 	url = https://github.com/cran/jpmesh
@@ -53354,6 +53372,9 @@
 [submodule "panelWranglR"]
 	path = panelWranglR
 	url = https://github.com/cran/panelWranglR
+[submodule "panelbuild"]
+	path = panelbuild
+	url = https://github.com/cran/panelbuild
 [submodule "paneldesc"]
 	path = paneldesc
 	url = https://github.com/cran/paneldesc
