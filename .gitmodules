@@ -57722,6 +57722,9 @@
 [submodule "rCNV"]
 	path = rCNV
 	url = https://github.com/cran/rCNV
+[submodule "rCTOOL"]
+	path = rCTOOL
+	url = https://github.com/cran/rCTOOL
 [submodule "rCausalMGM"]
 	path = rCausalMGM
 	url = https://github.com/cran/rCausalMGM
