@@ -1196,6 +1196,9 @@
 [submodule "BISdata"]
 	path = BISdata
 	url = https://github.com/cran/BISdata
+[submodule "BJM"]
+	path = BJM
+	url = https://github.com/cran/BJM
 [submodule "BKP"]
 	path = BKP
 	url = https://github.com/cran/BKP
@@ -8309,6 +8312,9 @@
 [submodule "IBFS"]
 	path = IBFS
 	url = https://github.com/cran/IBFS
+[submodule "IBGS"]
+	path = IBGS
+	url = https://github.com/cran/IBGS
 [submodule "IBLM"]
 	path = IBLM
 	url = https://github.com/cran/IBLM
@@ -9944,6 +9950,9 @@
 [submodule "LinRegInteractive"]
 	path = LinRegInteractive
 	url = https://github.com/cran/LinRegInteractive
+[submodule "Linda"]
+	path = Linda
+	url = https://github.com/cran/Linda
 [submodule "LindenmayeR"]
 	path = LindenmayeR
 	url = https://github.com/cran/LindenmayeR
@@ -12059,6 +12068,9 @@
 [submodule "NPBBBDAefficiency"]
 	path = NPBBBDAefficiency
 	url = https://github.com/cran/NPBBBDAefficiency
+[submodule "NPBBBdesigns"]
+	path = NPBBBdesigns
+	url = https://github.com/cran/NPBBBdesigns
 [submodule "NPBayesImputeCat"]
 	path = NPBayesImputeCat
 	url = https://github.com/cran/NPBayesImputeCat
@@ -20990,6 +21002,9 @@
 [submodule "WMAP"]
 	path = WMAP
 	url = https://github.com/cran/WMAP
+[submodule "WMFM"]
+	path = WMFM
+	url = https://github.com/cran/WMFM
 [submodule "WMWssp"]
 	path = WMWssp
 	url = https://github.com/cran/WMWssp
@@ -21461,6 +21476,9 @@
 [submodule "abclass"]
 	path = abclass
 	url = https://github.com/cran/abclass
+[submodule "abcpp"]
+	path = abcpp
+	url = https://github.com/cran/abcpp
 [submodule "abcrf"]
 	path = abcrf
 	url = https://github.com/cran/abcrf
@@ -23348,6 +23366,9 @@
 [submodule "attention"]
 	path = attention
 	url = https://github.com/cran/attention
+[submodule "attestix"]
+	path = attestix
+	url = https://github.com/cran/attestix
 [submodule "attrib"]
 	path = attrib
 	url = https://github.com/cran/attrib
@@ -38390,6 +38411,9 @@
 [submodule "ggChernoff"]
 	path = ggChernoff
 	url = https://github.com/cran/ggChernoff
+[submodule "ggChinaFlag"]
+	path = ggChinaFlag
+	url = https://github.com/cran/ggChinaFlag
 [submodule "ggDNAvis"]
 	path = ggDNAvis
 	url = https://github.com/cran/ggDNAvis
@@ -39827,6 +39851,9 @@
 [submodule "gpbStat"]
 	path = gpbStat
 	url = https://github.com/cran/gpbStat
+[submodule "gpbiometrics"]
+	path = gpbiometrics
+	url = https://github.com/cran/gpbiometrics
 [submodule "gpboost"]
 	path = gpboost
 	url = https://github.com/cran/gpboost
@@ -44102,6 +44129,9 @@
 [submodule "kergp"]
 	path = kergp
 	url = https://github.com/cran/kergp
+[submodule "kernda"]
+	path = kernda
+	url = https://github.com/cran/kernda
 [submodule "kerndwd"]
 	path = kerndwd
 	url = https://github.com/cran/kerndwd
@@ -52991,6 +53021,9 @@
 [submodule "outliers.ts.oga"]
 	path = outliers.ts.oga
 	url = https://github.com/cran/outliers.ts.oga
+[submodule "outliersHD"]
+	path = outliersHD
+	url = https://github.com/cran/outliersHD
 [submodule "outlierspinner"]
 	path = outlierspinner
 	url = https://github.com/cran/outlierspinner
@@ -68768,6 +68801,9 @@
 [submodule "thames"]
 	path = thames
 	url = https://github.com/cran/thames
+[submodule "thamesblock"]
+	path = thamesblock
+	url = https://github.com/cran/thamesblock
 [submodule "thamesmix"]
 	path = thamesmix
 	url = https://github.com/cran/thamesmix
@@ -69434,6 +69470,9 @@
 [submodule "tinytiger"]
 	path = tinytiger
 	url = https://github.com/cran/tinytiger
+[submodule "tinytrail"]
+	path = tinytrail
+	url = https://github.com/cran/tinytrail
 [submodule "tip"]
 	path = tip
 	url = https://github.com/cran/tip
@@ -70205,6 +70244,9 @@
 [submodule "tripEstimation"]
 	path = tripEstimation
 	url = https://github.com/cran/tripEstimation
+[submodule "tripaccess"]
+	path = tripaccess
+	url = https://github.com/cran/tripaccess
 [submodule "tripack"]
 	path = tripack
 	url = https://github.com/cran/tripack
@@ -71975,6 +72017,9 @@
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/cran/vroom
+[submodule "vrpr"]
+	path = vrpr
+	url = https://github.com/cran/vrpr
 [submodule "vrtest"]
 	path = vrtest
 	url = https://github.com/cran/vrtest
