@@ -30179,6 +30179,9 @@
 [submodule "cxr"]
 	path = cxr
 	url = https://github.com/cran/cxr
+[submodule "cxreg"]
+	path = cxreg
+	url = https://github.com/cran/cxreg
 [submodule "cxxfunplus"]
 	path = cxxfunplus
 	url = https://github.com/cran/cxxfunplus
@@ -52823,6 +52826,9 @@
 [submodule "osmextract"]
 	path = osmextract
 	url = https://github.com/cran/osmextract
+[submodule "osmnxr"]
+	path = osmnxr
+	url = https://github.com/cran/osmnxr
 [submodule "osqp"]
 	path = osqp
 	url = https://github.com/cran/osqp
