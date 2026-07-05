@@ -9605,6 +9605,9 @@
 [submodule "LPStimeSeries"]
 	path = LPStimeSeries
 	url = https://github.com/cran/LPStimeSeries
+[submodule "LPWC"]
+	path = LPWC
+	url = https://github.com/cran/LPWC
 [submodule "LPmerge"]
 	path = LPmerge
 	url = https://github.com/cran/LPmerge
@@ -16979,6 +16982,9 @@
 [submodule "RobustIV"]
 	path = RobustIV
 	url = https://github.com/cran/RobustIV
+[submodule "RobustLPA"]
+	path = RobustLPA
+	url = https://github.com/cran/RobustLPA
 [submodule "RobustLinearReg"]
 	path = RobustLinearReg
 	url = https://github.com/cran/RobustLinearReg
