@@ -791,6 +791,9 @@
 [submodule "Arothron"]
 	path = Arothron
 	url = https://github.com/cran/Arothron
+[submodule "ArvindSt"]
+	path = ArvindSt
+	url = https://github.com/cran/ArvindSt
 [submodule "AsianOption"]
 	path = AsianOption
 	url = https://github.com/cran/AsianOption
@@ -30938,6 +30941,9 @@
 [submodule "deckgl"]
 	path = deckgl
 	url = https://github.com/cran/deckgl
+[submodule "deckglgeoarrow"]
+	path = deckglgeoarrow
+	url = https://github.com/cran/deckglgeoarrow
 [submodule "deckroadmap"]
 	path = deckroadmap
 	url = https://github.com/cran/deckroadmap
@@ -35243,6 +35249,9 @@
 [submodule "fastJT"]
 	path = fastJT
 	url = https://github.com/cran/fastJT
+[submodule "fastLISA"]
+	path = fastLISA
+	url = https://github.com/cran/fastLISA
 [submodule "fastLink"]
 	path = fastLink
 	url = https://github.com/cran/fastLink
@@ -67655,6 +67664,9 @@
 [submodule "svylme"]
 	path = svylme
 	url = https://github.com/cran/svylme
+[submodule "svymargins"]
+	path = svymargins
+	url = https://github.com/cran/svymargins
 [submodule "svytest"]
 	path = svytest
 	url = https://github.com/cran/svytest
