@@ -791,9 +791,6 @@
 [submodule "Arothron"]
 	path = Arothron
 	url = https://github.com/cran/Arothron
-[submodule "ArvindSt"]
-	path = ArvindSt
-	url = https://github.com/cran/ArvindSt
 [submodule "AsianOption"]
 	path = AsianOption
 	url = https://github.com/cran/AsianOption
@@ -7514,6 +7511,9 @@
 [submodule "GeoTox"]
 	path = GeoTox
 	url = https://github.com/cran/GeoTox
+[submodule "GeoVersa"]
+	path = GeoVersa
+	url = https://github.com/cran/GeoVersa
 [submodule "GeoWeightedModel"]
 	path = GeoWeightedModel
 	url = https://github.com/cran/GeoWeightedModel
@@ -14684,6 +14684,9 @@
 [submodule "R6DS"]
 	path = R6DS
 	url = https://github.com/cran/R6DS
+[submodule "R6Nomogram"]
+	path = R6Nomogram
+	url = https://github.com/cran/R6Nomogram
 [submodule "R6P"]
 	path = R6P
 	url = https://github.com/cran/R6P
@@ -20534,6 +20537,9 @@
 [submodule "UnitStat"]
 	path = UnitStat
 	url = https://github.com/cran/UnitStat
+[submodule "Unitary"]
+	path = Unitary
+	url = https://github.com/cran/Unitary
 [submodule "UnivRNG"]
 	path = UnivRNG
 	url = https://github.com/cran/UnivRNG
@@ -22058,6 +22064,9 @@
 [submodule "agena.ai"]
 	path = agena.ai
 	url = https://github.com/cran/agena.ai
+[submodule "agentr"]
+	path = agentr
+	url = https://github.com/cran/agentr
 [submodule "ageutils"]
 	path = ageutils
 	url = https://github.com/cran/ageutils
@@ -23462,6 +23471,9 @@
 [submodule "autostsm"]
 	path = autostsm
 	url = https://github.com/cran/autostsm
+[submodule "autosync"]
+	path = autosync
+	url = https://github.com/cran/autosync
 [submodule "autotab"]
 	path = autotab
 	url = https://github.com/cran/autotab
@@ -28556,6 +28568,9 @@
 [submodule "complexlm"]
 	path = complexlm
 	url = https://github.com/cran/complexlm
+[submodule "complexr"]
+	path = complexr
+	url = https://github.com/cran/complexr
 [submodule "complmrob"]
 	path = complmrob
 	url = https://github.com/cran/complmrob
@@ -32207,6 +32222,9 @@
 [submodule "dosedesignR"]
 	path = dosedesignR
 	url = https://github.com/cran/dosedesignR
+[submodule "dosr"]
+	path = dosr
+	url = https://github.com/cran/dosr
 [submodule "dosresmeta"]
 	path = dosresmeta
 	url = https://github.com/cran/dosresmeta
@@ -39485,6 +39503,9 @@
 [submodule "glyparse"]
 	path = glyparse
 	url = https://github.com/cran/glyparse
+[submodule "glyph"]
+	path = glyph
+	url = https://github.com/cran/glyph
 [submodule "glyrepr"]
 	path = glyrepr
 	url = https://github.com/cran/glyrepr
@@ -41519,6 +41540,9 @@
 [submodule "htmxr"]
 	path = htmxr
 	url = https://github.com/cran/htmxr
+[submodule "htna"]
+	path = htna
+	url = https://github.com/cran/htna
 [submodule "htrSPRanalysis"]
 	path = htrSPRanalysis
 	url = https://github.com/cran/htrSPRanalysis
@@ -44603,6 +44627,9 @@
 [submodule "landform"]
 	path = landform
 	url = https://github.com/cran/landform
+[submodule "landgraph"]
+	path = landgraph
+	url = https://github.com/cran/landgraph
 [submodule "landmaRk"]
 	path = landmaRk
 	url = https://github.com/cran/landmaRk
@@ -44879,6 +44906,9 @@
 [submodule "leafSTAR"]
 	path = leafSTAR
 	url = https://github.com/cran/leafSTAR
+[submodule "leafareaR"]
+	path = leafareaR
+	url = https://github.com/cran/leafareaR
 [submodule "leafdown"]
 	path = leafdown
 	url = https://github.com/cran/leafdown
@@ -47381,6 +47411,9 @@
 [submodule "melidosData"]
 	path = melidosData
 	url = https://github.com/cran/melidosData
+[submodule "mellio"]
+	path = mellio
+	url = https://github.com/cran/mellio
 [submodule "melt"]
 	path = melt
 	url = https://github.com/cran/melt
@@ -47432,6 +47465,9 @@
 [submodule "memuse"]
 	path = memuse
 	url = https://github.com/cran/memuse
+[submodule "meow"]
+	path = meow
+	url = https://github.com/cran/meow
 [submodule "merDeriv"]
 	path = merDeriv
 	url = https://github.com/cran/merDeriv
@@ -50066,6 +50102,9 @@
 [submodule "munch"]
 	path = munch
 	url = https://github.com/cran/munch
+[submodule "mundoLindey"]
+	path = mundoLindey
+	url = https://github.com/cran/mundoLindey
 [submodule "munfold"]
 	path = munfold
 	url = https://github.com/cran/munfold
@@ -50660,6 +50699,9 @@
 [submodule "nemBM"]
 	path = nemBM
 	url = https://github.com/cran/nemBM
+[submodule "nemoR"]
+	path = nemoR
+	url = https://github.com/cran/nemoR
 [submodule "nemsqar"]
 	path = nemsqar
 	url = https://github.com/cran/nemsqar
@@ -64037,6 +64079,9 @@
 [submodule "shrinkem"]
 	path = shrinkem
 	url = https://github.com/cran/shrinkem
+[submodule "shrinkr"]
+	path = shrinkr
+	url = https://github.com/cran/shrinkr
 [submodule "shroomDK"]
 	path = shroomDK
 	url = https://github.com/cran/shroomDK
@@ -72533,6 +72578,9 @@
 [submodule "winr"]
 	path = winr
 	url = https://github.com/cran/winr
+[submodule "winratiosim"]
+	path = winratiosim
+	url = https://github.com/cran/winratiosim
 [submodule "wintime"]
 	path = wintime
 	url = https://github.com/cran/wintime
