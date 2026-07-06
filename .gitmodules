@@ -15758,6 +15758,9 @@
 [submodule "RSNNS"]
 	path = RSNNS
 	url = https://github.com/cran/RSNNS
+[submodule "RSO"]
+	path = RSO
+	url = https://github.com/cran/RSO
 [submodule "RSP"]
 	path = RSP
 	url = https://github.com/cran/RSP
@@ -18947,6 +18950,9 @@
 [submodule "SpatialKDE"]
 	path = SpatialKDE
 	url = https://github.com/cran/SpatialKDE
+[submodule "SpatialML"]
+	path = SpatialML
+	url = https://github.com/cran/SpatialML
 [submodule "SpatialNP"]
 	path = SpatialNP
 	url = https://github.com/cran/SpatialNP
@@ -36953,6 +36959,9 @@
 [submodule "fscache"]
 	path = fscache
 	url = https://github.com/cran/fscache
+[submodule "fscontext"]
+	path = fscontext
+	url = https://github.com/cran/fscontext
 [submodule "fsdaR"]
 	path = fsdaR
 	url = https://github.com/cran/fsdaR
@@ -64586,6 +64595,9 @@
 [submodule "skpr"]
 	path = skpr
 	url = https://github.com/cran/skpr
+[submodule "sksr"]
+	path = sksr
+	url = https://github.com/cran/sksr
 [submodule "skylight"]
 	path = skylight
 	url = https://github.com/cran/skylight
