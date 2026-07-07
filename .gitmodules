@@ -71474,6 +71474,9 @@
 [submodule "vegclust"]
 	path = vegclust
 	url = https://github.com/cran/vegclust
+[submodule "vegdata"]
+	path = vegdata
+	url = https://github.com/cran/vegdata
 [submodule "vegetablesSriLanka"]
 	path = vegetablesSriLanka
 	url = https://github.com/cran/vegetablesSriLanka
