@@ -1286,6 +1286,9 @@
 [submodule "BORG"]
 	path = BORG
 	url = https://github.com/cran/BORG
+[submodule "BORT"]
+	path = BORT
+	url = https://github.com/cran/BORT
 [submodule "BPM"]
 	path = BPM
 	url = https://github.com/cran/BPM
@@ -5639,6 +5642,9 @@
 [submodule "EpiReport"]
 	path = EpiReport
 	url = https://github.com/cran/EpiReport
+[submodule "EpiScopeK"]
+	path = EpiScopeK
+	url = https://github.com/cran/EpiScopeK
 [submodule "EpiSemble"]
 	path = EpiSemble
 	url = https://github.com/cran/EpiSemble
@@ -21605,6 +21611,9 @@
 [submodule "actilifecounts"]
 	path = actilifecounts
 	url = https://github.com/cran/actilifecounts
+[submodule "actiread"]
+	path = actiread
+	url = https://github.com/cran/actiread
 [submodule "activAnalyzer"]
 	path = activAnalyzer
 	url = https://github.com/cran/activAnalyzer
@@ -22850,6 +22859,9 @@
 [submodule "arcgisplaces"]
 	path = arcgisplaces
 	url = https://github.com/cran/arcgisplaces
+[submodule "arcgisrouting"]
+	path = arcgisrouting
+	url = https://github.com/cran/arcgisrouting
 [submodule "arcgisutils"]
 	path = arcgisutils
 	url = https://github.com/cran/arcgisutils
@@ -30419,6 +30431,9 @@
 [submodule "data360r"]
 	path = data360r
 	url = https://github.com/cran/data360r
+[submodule "data4health"]
+	path = data4health
+	url = https://github.com/cran/data4health
 [submodule "dataCompare"]
 	path = dataCompare
 	url = https://github.com/cran/dataCompare
@@ -30599,6 +30614,9 @@
 [submodule "dateutils"]
 	path = dateutils
 	url = https://github.com/cran/dateutils
+[submodule "datey"]
+	path = datey
+	url = https://github.com/cran/datey
 [submodule "datoramar"]
 	path = datoramar
 	url = https://github.com/cran/datoramar
@@ -31520,6 +31538,9 @@
 [submodule "didimputation"]
 	path = didimputation
 	url = https://github.com/cran/didimputation
+[submodule "didintrjl"]
+	path = didintrjl
+	url = https://github.com/cran/didintrjl
 [submodule "didrooRFM"]
 	path = didrooRFM
 	url = https://github.com/cran/didrooRFM
@@ -38732,6 +38753,9 @@
 [submodule "ggpage"]
 	path = ggpage
 	url = https://github.com/cran/ggpage
+[submodule "ggpaintr"]
+	path = ggpaintr
+	url = https://github.com/cran/ggpaintr
 [submodule "ggparty"]
 	path = ggparty
 	url = https://github.com/cran/ggparty
@@ -43640,6 +43664,9 @@
 [submodule "joineRML"]
 	path = joineRML
 	url = https://github.com/cran/joineRML
+[submodule "joinery"]
+	path = joinery
+	url = https://github.com/cran/joinery
 [submodule "joinet"]
 	path = joinet
 	url = https://github.com/cran/joinet
@@ -51443,6 +51470,9 @@
 [submodule "nonparametric.bayes"]
 	path = nonparametric.bayes
 	url = https://github.com/cran/nonparametric.bayes
+[submodule "nonprobsampling"]
+	path = nonprobsampling
+	url = https://github.com/cran/nonprobsampling
 [submodule "nonprobsvy"]
 	path = nonprobsvy
 	url = https://github.com/cran/nonprobsvy
@@ -54812,6 +54842,9 @@
 [submodule "planets"]
 	path = planets
 	url = https://github.com/cran/planets
+[submodule "planisphere"]
+	path = planisphere
+	url = https://github.com/cran/planisphere
 [submodule "planr"]
 	path = planr
 	url = https://github.com/cran/planr
