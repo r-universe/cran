@@ -35924,6 +35924,9 @@
 [submodule "finlabR"]
 	path = finlabR
 	url = https://github.com/cran/finlabR
+[submodule "finna"]
+	path = finna
+	url = https://github.com/cran/finna
 [submodule "finnishgrid"]
 	path = finnishgrid
 	url = https://github.com/cran/finnishgrid
