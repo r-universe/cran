@@ -9290,6 +9290,9 @@
 [submodule "Kira"]
 	path = Kira
 	url = https://github.com/cran/Kira
+[submodule "KlerRSS"]
+	path = KlerRSS
+	url = https://github.com/cran/KlerRSS
 [submodule "Kmedians"]
 	path = Kmedians
 	url = https://github.com/cran/Kmedians
@@ -17330,6 +17333,9 @@
 [submodule "SASmixed"]
 	path = SASmixed
 	url = https://github.com/cran/SASmixed
+[submodule "SATS"]
+	path = SATS
+	url = https://github.com/cran/SATS
 [submodule "SAVER"]
 	path = SAVER
 	url = https://github.com/cran/SAVER
@@ -20963,6 +20969,9 @@
 [submodule "WSCdata"]
 	path = WSCdata
 	url = https://github.com/cran/WSCdata
+[submodule "WSPsignal"]
+	path = WSPsignal
+	url = https://github.com/cran/WSPsignal
 [submodule "WVPlots"]
 	path = WVPlots
 	url = https://github.com/cran/WVPlots
@@ -26747,6 +26756,9 @@
 [submodule "cdmTools"]
 	path = cdmTools
 	url = https://github.com/cran/cdmTools
+[submodule "cdmetapopR"]
+	path = cdmetapopR
+	url = https://github.com/cran/cdmetapopR
 [submodule "cdnbcr"]
 	path = cdnbcr
 	url = https://github.com/cran/cdnbcr
@@ -30416,6 +30428,9 @@
 [submodule "data.checker"]
 	path = data.checker
 	url = https://github.com/cran/data.checker
+[submodule "data.sketches"]
+	path = data.sketches
+	url = https://github.com/cran/data.sketches
 [submodule "data.table"]
 	path = data.table
 	url = https://github.com/cran/data.table
@@ -30557,6 +30572,9 @@
 [submodule "datasetsICR"]
 	path = datasetsICR
 	url = https://github.com/cran/datasetsICR
+[submodule "datasetviewer"]
+	path = datasetviewer
+	url = https://github.com/cran/datasetviewer
 [submodule "dataspice"]
 	path = dataspice
 	url = https://github.com/cran/dataspice
@@ -34379,9 +34397,6 @@
 [submodule "etwfe"]
 	path = etwfe
 	url = https://github.com/cran/etwfe
-[submodule "eudata"]
-	path = eudata
-	url = https://github.com/cran/eudata
 [submodule "eudract"]
 	path = eudract
 	url = https://github.com/cran/eudract
@@ -35909,9 +35924,6 @@
 [submodule "finlabR"]
 	path = finlabR
 	url = https://github.com/cran/finlabR
-[submodule "finna"]
-	path = finna
-	url = https://github.com/cran/finna
 [submodule "finnishgrid"]
 	path = finnishgrid
 	url = https://github.com/cran/finnishgrid
@@ -43076,6 +43088,9 @@
 [submodule "ipeval"]
 	path = ipeval
 	url = https://github.com/cran/ipeval
+[submodule "ipf"]
+	path = ipf
+	url = https://github.com/cran/ipf
 [submodule "ipflasso"]
 	path = ipflasso
 	url = https://github.com/cran/ipflasso
@@ -44621,6 +44636,9 @@
 [submodule "landscapemetrics"]
 	path = landscapemetrics
 	url = https://github.com/cran/landscapemetrics
+[submodule "landscapetools"]
+	path = landscapetools
+	url = https://github.com/cran/landscapetools
 [submodule "landsepi"]
 	path = landsepi
 	url = https://github.com/cran/landsepi
@@ -44831,6 +44849,9 @@
 [submodule "lcsm"]
 	path = lcsm
 	url = https://github.com/cran/lcsm
+[submodule "lctools"]
+	path = lctools
+	url = https://github.com/cran/lctools
 [submodule "lcyanalysis"]
 	path = lcyanalysis
 	url = https://github.com/cran/lcyanalysis
@@ -56111,6 +56132,9 @@
 [submodule "probaverse"]
 	path = probaverse
 	url = https://github.com/cran/probaverse
+[submodule "probcal"]
+	path = probcal
+	url = https://github.com/cran/probcal
 [submodule "probe"]
 	path = probe
 	url = https://github.com/cran/probe
@@ -71132,6 +71156,9 @@
 [submodule "uxr"]
 	path = uxr
 	url = https://github.com/cran/uxr
+[submodule "uygeo"]
+	path = uygeo
+	url = https://github.com/cran/uygeo
 [submodule "vDiveR"]
 	path = vDiveR
 	url = https://github.com/cran/vDiveR
@@ -71291,6 +71318,9 @@
 [submodule "vardpoor"]
 	path = vardpoor
 	url = https://github.com/cran/vardpoor
+[submodule "varequal"]
+	path = varequal
+	url = https://github.com/cran/varequal
 [submodule "varhandle"]
 	path = varhandle
 	url = https://github.com/cran/varhandle
