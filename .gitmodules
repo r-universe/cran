@@ -28733,6 +28733,9 @@
 [submodule "confintr"]
 	path = confintr
 	url = https://github.com/cran/confintr
+[submodule "conflibertR"]
+	path = conflibertR
+	url = https://github.com/cran/conflibertR
 [submodule "conflicted"]
 	path = conflicted
 	url = https://github.com/cran/conflicted
@@ -38867,6 +38870,9 @@
 [submodule "ggpop"]
 	path = ggpop
 	url = https://github.com/cran/ggpop
+[submodule "ggpower"]
+	path = ggpower
+	url = https://github.com/cran/ggpower
 [submodule "ggpp"]
 	path = ggpp
 	url = https://github.com/cran/ggpp
@@ -43355,6 +43361,9 @@
 [submodule "isopleuros"]
 	path = isopleuros
 	url = https://github.com/cran/isopleuros
+[submodule "isoreader2"]
+	path = isoreader2
+	url = https://github.com/cran/isoreader2
 [submodule "isotone"]
 	path = isotone
 	url = https://github.com/cran/isotone
@@ -62852,6 +62861,9 @@
 [submodule "sealasso"]
 	path = sealasso
 	url = https://github.com/cran/sealasso
+[submodule "sealeveltools"]
+	path = sealeveltools
+	url = https://github.com/cran/sealeveltools
 [submodule "searchAnalyzeR"]
 	path = searchAnalyzeR
 	url = https://github.com/cran/searchAnalyzeR
@@ -66776,6 +66788,9 @@
 [submodule "stepssurvey"]
 	path = stepssurvey
 	url = https://github.com/cran/stepssurvey
+[submodule "stepwedgepower"]
+	path = stepwedgepower
+	url = https://github.com/cran/stepwedgepower
 [submodule "stevedata"]
 	path = stevedata
 	url = https://github.com/cran/stevedata
@@ -67640,6 +67655,9 @@
 [submodule "svyROC"]
 	path = svyROC
 	url = https://github.com/cran/svyROC
+[submodule "svySE"]
+	path = svySE
+	url = https://github.com/cran/svySE
 [submodule "svyVGAM"]
 	path = svyVGAM
 	url = https://github.com/cran/svyVGAM
