@@ -1328,6 +1328,9 @@
 [submodule "BRcal"]
 	path = BRcal
 	url = https://github.com/cran/BRcal
+[submodule "BSCB"]
+	path = BSCB
+	url = https://github.com/cran/BSCB
 [submodule "BSDA"]
 	path = BSDA
 	url = https://github.com/cran/BSDA
@@ -2369,6 +2372,9 @@
 [submodule "CDSim"]
 	path = CDSim
 	url = https://github.com/cran/CDSim
+[submodule "CDSimX"]
+	path = CDSimX
+	url = https://github.com/cran/CDSimX
 [submodule "CDVI"]
 	path = CDVI
 	url = https://github.com/cran/CDVI
@@ -4376,6 +4382,9 @@
 [submodule "DSBayes"]
 	path = DSBayes
 	url = https://github.com/cran/DSBayes
+[submodule "DSDRM"]
+	path = DSDRM
+	url = https://github.com/cran/DSDRM
 [submodule "DSFM"]
 	path = DSFM
 	url = https://github.com/cran/DSFM
@@ -10184,6 +10193,9 @@
 [submodule "MBESS"]
 	path = MBESS
 	url = https://github.com/cran/MBESS
+[submodule "MBGapp"]
+	path = MBGapp
+	url = https://github.com/cran/MBGapp
 [submodule "MBHdesign"]
 	path = MBHdesign
 	url = https://github.com/cran/MBHdesign
@@ -12461,6 +12473,9 @@
 [submodule "OOR"]
 	path = OOR
 	url = https://github.com/cran/OOR
+[submodule "OORRT"]
+	path = OORRT
+	url = https://github.com/cran/OORRT
 [submodule "OPC"]
 	path = OPC
 	url = https://github.com/cran/OPC
@@ -25580,6 +25595,9 @@
 [submodule "bpvars"]
 	path = bpvars
 	url = https://github.com/cran/bpvars
+[submodule "bqmm"]
+	path = bqmm
+	url = https://github.com/cran/bqmm
 [submodule "bqror"]
 	path = bqror
 	url = https://github.com/cran/bqror
@@ -29969,6 +29987,9 @@
 [submodule "ctrdata"]
 	path = ctrdata
 	url = https://github.com/cran/ctrdata
+[submodule "ctreeMI"]
+	path = ctreeMI
+	url = https://github.com/cran/ctreeMI
 [submodule "ctrialsgov"]
 	path = ctrialsgov
 	url = https://github.com/cran/ctrialsgov
@@ -31244,6 +31265,9 @@
 [submodule "derivmkts"]
 	path = derivmkts
 	url = https://github.com/cran/derivmkts
+[submodule "derrick"]
+	path = derrick
+	url = https://github.com/cran/derrick
 [submodule "desc"]
 	path = desc
 	url = https://github.com/cran/desc
@@ -32141,6 +32165,9 @@
 [submodule "docknitr"]
 	path = docknitr
 	url = https://github.com/cran/docknitr
+[submodule "doclingr"]
+	path = doclingr
+	url = https://github.com/cran/doclingr
 [submodule "doclisting"]
 	path = doclisting
 	url = https://github.com/cran/doclisting
@@ -42653,6 +42680,9 @@
 [submodule "inferMM"]
 	path = inferMM
 	url = https://github.com/cran/inferMM
+[submodule "inferencer"]
+	path = inferencer
+	url = https://github.com/cran/inferencer
 [submodule "inferference"]
 	path = inferference
 	url = https://github.com/cran/inferference
@@ -43769,6 +43799,9 @@
 [submodule "jpmap"]
 	path = jpmap
 	url = https://github.com/cran/jpmap
+[submodule "jpmapdata"]
+	path = jpmapdata
+	url = https://github.com/cran/jpmapdata
 [submodule "jpmesh"]
 	path = jpmesh
 	url = https://github.com/cran/jpmesh
@@ -56429,6 +56462,9 @@
 [submodule "ps"]
 	path = ps
 	url = https://github.com/cran/ps
+[submodule "psAve"]
+	path = psAve
+	url = https://github.com/cran/psAve
 [submodule "psBayesborrow"]
 	path = psBayesborrow
 	url = https://github.com/cran/psBayesborrow
@@ -56825,6 +56861,9 @@
 [submodule "pycno"]
 	path = pycno
 	url = https://github.com/cran/pycno
+[submodule "pycnogrid"]
+	path = pycnogrid
+	url = https://github.com/cran/pycnogrid
 [submodule "pye"]
 	path = pye
 	url = https://github.com/cran/pye
@@ -59693,6 +59732,9 @@
 [submodule "retmort"]
 	path = retmort
 	url = https://github.com/cran/retmort
+[submodule "retraction"]
+	path = retraction
+	url = https://github.com/cran/retraction
 [submodule "retriever"]
 	path = retriever
 	url = https://github.com/cran/retriever
@@ -61988,6 +62030,9 @@
 [submodule "safetyData"]
 	path = safetyData
 	url = https://github.com/cran/safetyData
+[submodule "safuzzy"]
+	path = safuzzy
+	url = https://github.com/cran/safuzzy
 [submodule "sageR"]
 	path = sageR
 	url = https://github.com/cran/sageR
@@ -65660,6 +65705,9 @@
 [submodule "spc4sts"]
 	path = spc4sts
 	url = https://github.com/cran/spc4sts
+[submodule "spca"]
+	path = spca
+	url = https://github.com/cran/spca
 [submodule "spcadjust"]
 	path = spcadjust
 	url = https://github.com/cran/spcadjust
@@ -70166,6 +70214,9 @@
 [submodule "trtswitch"]
 	path = trtswitch
 	url = https://github.com/cran/trtswitch
+[submodule "truchet"]
+	path = truchet
+	url = https://github.com/cran/truchet
 [submodule "trud"]
 	path = trud
 	url = https://github.com/cran/trud
