@@ -29288,9 +29288,6 @@
 [submodule "courieR"]
 	path = courieR
 	url = https://github.com/cran/courieR
-[submodule "coursekata"]
-	path = coursekata
-	url = https://github.com/cran/coursekata
 [submodule "covBM"]
 	path = covBM
 	url = https://github.com/cran/covBM
@@ -36248,9 +36245,6 @@
 [submodule "flexurba"]
 	path = flexurba
 	url = https://github.com/cran/flexurba
-[submodule "flightplot"]
-	path = flightplot
-	url = https://github.com/cran/flightplot
 [submodule "flightsbr"]
 	path = flightsbr
 	url = https://github.com/cran/flightsbr
