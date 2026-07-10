@@ -8516,6 +8516,9 @@
 [submodule "IMPACT"]
 	path = IMPACT
 	url = https://github.com/cran/IMPACT
+[submodule "IMR"]
+	path = IMR
+	url = https://github.com/cran/IMR
 [submodule "IMTest"]
 	path = IMTest
 	url = https://github.com/cran/IMTest
