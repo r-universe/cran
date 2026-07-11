@@ -1673,6 +1673,9 @@
 [submodule "BayesSenMC"]
 	path = BayesSenMC
 	url = https://github.com/cran/BayesSenMC
+[submodule "BayesSurveillance"]
+	path = BayesSurveillance
+	url = https://github.com/cran/BayesSurveillance
 [submodule "BayesSurvival"]
 	path = BayesSurvival
 	url = https://github.com/cran/BayesSurvival
@@ -20051,6 +20054,9 @@
 [submodule "TheOpenAIR"]
 	path = TheOpenAIR
 	url = https://github.com/cran/TheOpenAIR
+[submodule "TheOrdinals"]
+	path = TheOrdinals
+	url = https://github.com/cran/TheOrdinals
 [submodule "TheSFACE"]
 	path = TheSFACE
 	url = https://github.com/cran/TheSFACE
@@ -24617,6 +24623,9 @@
 [submodule "bidux"]
 	path = bidux
 	url = https://github.com/cran/bidux
+[submodule "bifactory"]
+	path = bifactory
+	url = https://github.com/cran/bifactory
 [submodule "bife"]
 	path = bife
 	url = https://github.com/cran/bife
@@ -27170,6 +27179,9 @@
 [submodule "chess2plyrs"]
 	path = chess2plyrs
 	url = https://github.com/cran/chess2plyrs
+[submodule "chessResults"]
+	path = chessResults
+	url = https://github.com/cran/chessResults
 [submodule "chessboard"]
 	path = chessboard
 	url = https://github.com/cran/chessboard
@@ -34715,6 +34727,9 @@
 [submodule "exiftoolr"]
 	path = exiftoolr
 	url = https://github.com/cran/exiftoolr
+[submodule "exoplanetdata"]
+	path = exoplanetdata
+	url = https://github.com/cran/exoplanetdata
 [submodule "expDB"]
 	path = expDB
 	url = https://github.com/cran/expDB
@@ -37607,6 +37622,9 @@
 [submodule "gbRd"]
 	path = gbRd
 	url = https://github.com/cran/gbRd
+[submodule "gbcrosswalk"]
+	path = gbcrosswalk
+	url = https://github.com/cran/gbcrosswalk
 [submodule "gbeta"]
 	path = gbeta
 	url = https://github.com/cran/gbeta
@@ -38501,6 +38519,9 @@
 [submodule "ggchord"]
 	path = ggchord
 	url = https://github.com/cran/ggchord
+[submodule "ggchord2"]
+	path = ggchord2
+	url = https://github.com/cran/ggchord2
 [submodule "ggcircular"]
 	path = ggcircular
 	url = https://github.com/cran/ggcircular
@@ -44861,6 +44882,9 @@
 [submodule "lbreg"]
 	path = lbreg
 	url = https://github.com/cran/lbreg
+[submodule "lbugr"]
+	path = lbugr
+	url = https://github.com/cran/lbugr
 [submodule "lcars"]
 	path = lcars
 	url = https://github.com/cran/lcars
@@ -48815,6 +48839,9 @@
 [submodule "mlspatial"]
 	path = mlspatial
 	url = https://github.com/cran/mlspatial
+[submodule "mlstats"]
+	path = mlstats
+	url = https://github.com/cran/mlstats
 [submodule "mlstm"]
 	path = mlstm
 	url = https://github.com/cran/mlstm
@@ -54293,6 +54320,9 @@
 [submodule "pfr"]
 	path = pfr
 	url = https://github.com/cran/pfr
+[submodule "pft"]
+	path = pft
+	url = https://github.com/cran/pft
 [submodule "pfwim"]
 	path = pfwim
 	url = https://github.com/cran/pfwim
@@ -60866,6 +60896,9 @@
 [submodule "rollinglda"]
 	path = rollinglda
 	url = https://github.com/cran/rollinglda
+[submodule "rolloptim"]
+	path = rolloptim
+	url = https://github.com/cran/rolloptim
 [submodule "rollout"]
 	path = rollout
 	url = https://github.com/cran/rollout
@@ -62015,6 +62048,9 @@
 [submodule "saens"]
 	path = saens
 	url = https://github.com/cran/saens
+[submodule "saeproj.multilevel"]
+	path = saeproj.multilevel
+	url = https://github.com/cran/saeproj.multilevel
 [submodule "saery"]
 	path = saery
 	url = https://github.com/cran/saery
@@ -62810,6 +62846,9 @@
 [submodule "sdf.test"]
 	path = sdf.test
 	url = https://github.com/cran/sdf.test
+[submodule "sdim"]
+	path = sdim
+	url = https://github.com/cran/sdim
 [submodule "sdlrm"]
 	path = sdlrm
 	url = https://github.com/cran/sdlrm
@@ -70346,6 +70385,9 @@
 [submodule "tsdistributions"]
 	path = tsdistributions
 	url = https://github.com/cran/tsdistributions
+[submodule "tseLCA"]
+	path = tseLCA
+	url = https://github.com/cran/tseLCA
 [submodule "tseffects"]
 	path = tseffects
 	url = https://github.com/cran/tseffects
@@ -71918,6 +71960,9 @@
 [submodule "volcanoPlot"]
 	path = volcanoPlot
 	url = https://github.com/cran/volcanoPlot
+[submodule "volcanoes"]
+	path = volcanoes
+	url = https://github.com/cran/volcanoes
 [submodule "volesti"]
 	path = volesti
 	url = https://github.com/cran/volesti
