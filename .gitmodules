@@ -64463,6 +64463,9 @@
 [submodule "simts"]
 	path = simts
 	url = https://github.com/cran/simts
+[submodule "simtte"]
+	path = simtte
+	url = https://github.com/cran/simtte
 [submodule "simuclustfactor"]
 	path = simuclustfactor
 	url = https://github.com/cran/simuclustfactor
