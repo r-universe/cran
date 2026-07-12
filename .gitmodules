@@ -61553,6 +61553,9 @@
 [submodule "rtestim"]
 	path = rtestim
 	url = https://github.com/cran/rtestim
+[submodule "rtf"]
+	path = rtf
+	url = https://github.com/cran/rtf
 [submodule "rtgstat"]
 	path = rtgstat
 	url = https://github.com/cran/rtgstat
