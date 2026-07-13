@@ -3467,6 +3467,9 @@
 [submodule "CompGR"]
 	path = CompGR
 	url = https://github.com/cran/CompGR
+[submodule "CompMix"]
+	path = CompMix
+	url = https://github.com/cran/CompMix
 [submodule "CompModels"]
 	path = CompModels
 	url = https://github.com/cran/CompModels
