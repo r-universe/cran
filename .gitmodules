@@ -5009,6 +5009,9 @@
 [submodule "DynClust"]
 	path = DynClust
 	url = https://github.com/cran/DynClust
+[submodule "DynCount"]
+	path = DynCount
+	url = https://github.com/cran/DynCount
 [submodule "DynForest"]
 	path = DynForest
 	url = https://github.com/cran/DynForest
