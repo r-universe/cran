@@ -50651,6 +50651,9 @@
 [submodule "nestedLogit"]
 	path = nestedLogit
 	url = https://github.com/cran/nestedLogit
+[submodule "nestedcv"]
+	path = nestedcv
+	url = https://github.com/cran/nestedcv
 [submodule "nestedpp"]
 	path = nestedpp
 	url = https://github.com/cran/nestedpp
