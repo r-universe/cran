@@ -8768,6 +8768,9 @@
 [submodule "IndepTest"]
 	path = IndepTest
 	url = https://github.com/cran/IndepTest
+[submodule "IndependenceTests"]
+	path = IndependenceTests
+	url = https://github.com/cran/IndependenceTests
 [submodule "IndexConstruction"]
 	path = IndexConstruction
 	url = https://github.com/cran/IndexConstruction
@@ -27335,6 +27338,9 @@
 [submodule "circularKDE"]
 	path = circularKDE
 	url = https://github.com/cran/circularKDE
+[submodule "circularNet"]
+	path = circularNet
+	url = https://github.com/cran/circularNet
 [submodule "circumplex"]
 	path = circumplex
 	url = https://github.com/cran/circumplex
@@ -39425,6 +39431,9 @@
 [submodule "glvmfit"]
 	path = glvmfit
 	url = https://github.com/cran/glvmfit
+[submodule "glydraw"]
+	path = glydraw
+	url = https://github.com/cran/glydraw
 [submodule "glyparse"]
 	path = glyparse
 	url = https://github.com/cran/glyparse
@@ -44723,6 +44732,9 @@
 [submodule "lazyeval"]
 	path = lazyeval
 	url = https://github.com/cran/lazyeval
+[submodule "lazymatrix"]
+	path = lazymatrix
+	url = https://github.com/cran/lazymatrix
 [submodule "lazysf"]
 	path = lazysf
 	url = https://github.com/cran/lazysf
@@ -65633,6 +65645,9 @@
 [submodule "specieschrom"]
 	path = specieschrom
 	url = https://github.com/cran/specieschrom
+[submodule "specmine.datasets"]
+	path = specmine.datasets
+	url = https://github.com/cran/specmine.datasets
 [submodule "specr"]
 	path = specr
 	url = https://github.com/cran/specr
