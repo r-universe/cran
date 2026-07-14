@@ -11711,9 +11711,6 @@
 [submodule "MultiTraits"]
 	path = MultiTraits
 	url = https://github.com/cran/MultiTraits
-[submodule "MultinomialCI"]
-	path = MultinomialCI
-	url = https://github.com/cran/MultinomialCI
 [submodule "MultipleBreakpoints"]
 	path = MultipleBreakpoints
 	url = https://github.com/cran/MultipleBreakpoints
@@ -44675,9 +44672,6 @@
 [submodule "latticeExtra"]
 	path = latticeExtra
 	url = https://github.com/cran/latticeExtra
-[submodule "lavDiag"]
-	path = lavDiag
-	url = https://github.com/cran/lavDiag
 [submodule "lava"]
 	path = lava
 	url = https://github.com/cran/lava
@@ -61859,9 +61853,6 @@
 [submodule "saeME"]
 	path = saeME
 	url = https://github.com/cran/saeME
-[submodule "saeMSPE"]
-	path = saeMSPE
-	url = https://github.com/cran/saeMSPE
 [submodule "saePseudo"]
 	path = saePseudo
 	url = https://github.com/cran/saePseudo
@@ -62066,9 +62057,6 @@
 [submodule "santaR"]
 	path = santaR
 	url = https://github.com/cran/santaR
-[submodule "santoku"]
-	path = santoku
-	url = https://github.com/cran/santoku
 [submodule "sanzo"]
 	path = sanzo
 	url = https://github.com/cran/sanzo
@@ -62282,9 +62270,6 @@
 [submodule "scSpatialSIM"]
 	path = scSpatialSIM
 	url = https://github.com/cran/scSpatialSIM
-[submodule "scStability"]
-	path = scStability
-	url = https://github.com/cran/scStability
 [submodule "scTenifoldKnk"]
 	path = scTenifoldKnk
 	url = https://github.com/cran/scTenifoldKnk
@@ -64658,9 +64643,6 @@
 [submodule "smacpod"]
 	path = smacpod
 	url = https://github.com/cran/smacpod
-[submodule "smallarea"]
-	path = smallarea
-	url = https://github.com/cran/smallarea
 [submodule "smallsets"]
 	path = smallsets
 	url = https://github.com/cran/smallsets
@@ -66920,9 +66902,6 @@
 [submodule "strex"]
 	path = strex
 	url = https://github.com/cran/strex
-[submodule "string2path"]
-	path = string2path
-	url = https://github.com/cran/string2path
 [submodule "stringArt"]
 	path = stringArt
 	url = https://github.com/cran/stringArt
@@ -71279,9 +71258,6 @@
 [submodule "variables"]
 	path = variables
 	url = https://github.com/cran/variables
-[submodule "varian"]
-	path = varian
-	url = https://github.com/cran/varian
 [submodule "variantspark"]
 	path = variantspark
 	url = https://github.com/cran/variantspark
@@ -72164,9 +72140,6 @@
 [submodule "weakARMA"]
 	path = weakARMA
 	url = https://github.com/cran/weakARMA
-[submodule "wearables"]
-	path = wearables
-	url = https://github.com/cran/wearables
 [submodule "weathR"]
 	path = weathR
 	url = https://github.com/cran/weathR
