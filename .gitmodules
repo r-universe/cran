@@ -21797,9 +21797,6 @@
 [submodule "admiral"]
 	path = admiral
 	url = https://github.com/cran/admiral
-[submodule "admiral.test"]
-	path = admiral.test
-	url = https://github.com/cran/admiral.test
 [submodule "admiraldev"]
 	path = admiraldev
 	url = https://github.com/cran/admiraldev
