@@ -992,6 +992,9 @@
 [submodule "BBI"]
 	path = BBI
 	url = https://github.com/cran/BBI
+[submodule "BBNI"]
+	path = BBNI
+	url = https://github.com/cran/BBNI
 [submodule "BBmisc"]
 	path = BBmisc
 	url = https://github.com/cran/BBmisc
@@ -11066,6 +11069,9 @@
 [submodule "MariNET"]
 	path = MariNET
 	url = https://github.com/cran/MariNET
+[submodule "MarineChain"]
+	path = MarineChain
+	url = https://github.com/cran/MarineChain
 [submodule "MarketMatching"]
 	path = MarketMatching
 	url = https://github.com/cran/MarketMatching
@@ -22706,6 +22712,9 @@
 [submodule "appRiori"]
 	path = appRiori
 	url = https://github.com/cran/appRiori
+[submodule "appac"]
+	path = appac
+	url = https://github.com/cran/appac
 [submodule "appeears"]
 	path = appeears
 	url = https://github.com/cran/appeears
@@ -30029,6 +30038,9 @@
 [submodule "curvir"]
 	path = curvir
 	url = https://github.com/cran/curvir
+[submodule "cusna"]
+	path = cusna
+	url = https://github.com/cran/cusna
 [submodule "cusp"]
 	path = cusp
 	url = https://github.com/cran/cusp
@@ -36110,6 +36122,9 @@
 [submodule "fledge"]
 	path = fledge
 	url = https://github.com/cran/fledge
+[submodule "fletcher"]
+	path = fletcher
+	url = https://github.com/cran/fletcher
 [submodule "flevr"]
 	path = flevr
 	url = https://github.com/cran/flevr
@@ -37637,6 +37652,9 @@
 [submodule "gdm"]
 	path = gdm
 	url = https://github.com/cran/gdm
+[submodule "gdpar"]
+	path = gdpar
+	url = https://github.com/cran/gdpar
 [submodule "gdpc"]
 	path = gdpc
 	url = https://github.com/cran/gdpc
@@ -44342,6 +44360,9 @@
 [submodule "krm"]
 	path = krm
 	url = https://github.com/cran/krm
+[submodule "kro.inv.test"]
+	path = kro.inv.test
+	url = https://github.com/cran/kro.inv.test
 [submodule "kronos"]
 	path = kronos
 	url = https://github.com/cran/kronos
@@ -60902,6 +60923,9 @@
 [submodule "roxylint"]
 	path = roxylint
 	url = https://github.com/cran/roxylint
+[submodule "roxyreqs"]
+	path = roxyreqs
+	url = https://github.com/cran/roxyreqs
 [submodule "roxytest"]
 	path = roxytest
 	url = https://github.com/cran/roxytest
@@ -70505,6 +70529,9 @@
 [submodule "tweedie"]
 	path = tweedie
 	url = https://github.com/cran/tweedie
+[submodule "tweedieDistr"]
+	path = tweedieDistr
+	url = https://github.com/cran/tweedieDistr
 [submodule "tweenr"]
 	path = tweenr
 	url = https://github.com/cran/tweenr
