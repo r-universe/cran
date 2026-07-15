@@ -64871,9 +64871,6 @@
 [submodule "snakeplot"]
 	path = snakeplot
 	url = https://github.com/cran/snakeplot
-[submodule "snap"]
-	path = snap
-	url = https://github.com/cran/snap
 [submodule "snapKrig"]
 	path = snapKrig
 	url = https://github.com/cran/snapKrig
