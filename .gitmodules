@@ -4958,9 +4958,6 @@
 [submodule "DrData"]
 	path = DrData
 	url = https://github.com/cran/DrData
-[submodule "DrDimont"]
-	path = DrDimont
-	url = https://github.com/cran/DrDimont
 [submodule "DrImpute"]
 	path = DrImpute
 	url = https://github.com/cran/DrImpute
@@ -7634,9 +7631,6 @@
 [submodule "Goodreader"]
 	path = Goodreader
 	url = https://github.com/cran/Goodreader
-[submodule "GoogleImage2Array"]
-	path = GoogleImage2Array
-	url = https://github.com/cran/GoogleImage2Array
 [submodule "GoogleKnowledgeGraphR"]
 	path = GoogleKnowledgeGraphR
 	url = https://github.com/cran/GoogleKnowledgeGraphR
