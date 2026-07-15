@@ -58685,6 +58685,9 @@
 [submodule "rdwplus"]
 	path = rdwplus
 	url = https://github.com/cran/rdwplus
+[submodule "rdyncall"]
+	path = rdyncall
+	url = https://github.com/cran/rdyncall
 [submodule "re"]
 	path = re
 	url = https://github.com/cran/re
@@ -60947,6 +60950,9 @@
 [submodule "rphylopic"]
 	path = rphylopic
 	url = https://github.com/cran/rphylopic
+[submodule "rpic"]
+	path = rpic
+	url = https://github.com/cran/rpic
 [submodule "rpinterest"]
 	path = rpinterest
 	url = https://github.com/cran/rpinterest
@@ -67988,6 +67994,9 @@
 [submodule "tangram.pipe"]
 	path = tangram.pipe
 	url = https://github.com/cran/tangram.pipe
+[submodule "tantivyr"]
+	path = tantivyr
+	url = https://github.com/cran/tantivyr
 [submodule "tapLock"]
 	path = tapLock
 	url = https://github.com/cran/tapLock
