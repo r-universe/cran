@@ -53045,6 +53045,9 @@
 [submodule "pacman"]
 	path = pacman
 	url = https://github.com/cran/pacman
+[submodule "paco"]
+	path = paco
+	url = https://github.com/cran/paco
 [submodule "pacotest"]
 	path = pacotest
 	url = https://github.com/cran/pacotest
