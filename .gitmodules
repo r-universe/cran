@@ -13364,9 +13364,6 @@
 [submodule "PQA"]
 	path = PQA
 	url = https://github.com/cran/PQA
-[submodule "PRA"]
-	path = PRA
-	url = https://github.com/cran/PRA
 [submodule "PRANA"]
 	path = PRANA
 	url = https://github.com/cran/PRANA
