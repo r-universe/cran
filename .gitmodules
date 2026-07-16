@@ -22079,6 +22079,9 @@
 [submodule "ahocorasick"]
 	path = ahocorasick
 	url = https://github.com/cran/ahocorasick
+[submodule "ahpsurvey"]
+	path = ahpsurvey
+	url = https://github.com/cran/ahpsurvey
 [submodule "ahptopsis2n"]
 	path = ahptopsis2n
 	url = https://github.com/cran/ahptopsis2n
@@ -47315,6 +47318,9 @@
 [submodule "meditations"]
 	path = meditations
 	url = https://github.com/cran/meditations
+[submodule "medmod"]
+	path = medmod
+	url = https://github.com/cran/medmod
 [submodule "medparser"]
 	path = medparser
 	url = https://github.com/cran/medparser
