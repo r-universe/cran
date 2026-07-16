@@ -68285,6 +68285,9 @@
 [submodule "tempdisagg"]
 	path = tempdisagg
 	url = https://github.com/cran/tempdisagg
+[submodule "temper"]
+	path = temper
+	url = https://github.com/cran/temper
 [submodule "temperatureresponse"]
 	path = temperatureresponse
 	url = https://github.com/cran/temperatureresponse
