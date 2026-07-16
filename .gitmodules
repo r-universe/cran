@@ -58256,9 +58256,6 @@
 [submodule "ratdat"]
 	path = ratdat
 	url = https://github.com/cran/ratdat
-[submodule "ratecalib"]
-	path = ratecalib
-	url = https://github.com/cran/ratecalib
 [submodule "ratelimitr"]
 	path = ratelimitr
 	url = https://github.com/cran/ratelimitr
