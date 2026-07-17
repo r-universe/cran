@@ -66551,6 +66551,9 @@
 [submodule "statar"]
 	path = statar
 	url = https://github.com/cran/statar
+[submodule "statcanR"]
+	path = statcanR
+	url = https://github.com/cran/statcanR
 [submodule "statcheck"]
 	path = statcheck
 	url = https://github.com/cran/statcheck
