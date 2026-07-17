@@ -689,9 +689,6 @@
 [submodule "AnnotationBustR"]
 	path = AnnotationBustR
 	url = https://github.com/cran/AnnotationBustR
-[submodule "AnomalyScore"]
-	path = AnomalyScore
-	url = https://github.com/cran/AnomalyScore
 [submodule "AntAngioCOOL"]
 	path = AntAngioCOOL
 	url = https://github.com/cran/AntAngioCOOL
@@ -3887,6 +3884,9 @@
 [submodule "DAAGbio"]
 	path = DAAGbio
 	url = https://github.com/cran/DAAGbio
+[submodule "DACF"]
+	path = DACF
+	url = https://github.com/cran/DACF
 [submodule "DAGassist"]
 	path = DAGassist
 	url = https://github.com/cran/DAGassist
@@ -4967,9 +4967,6 @@
 [submodule "DrImpute"]
 	path = DrImpute
 	url = https://github.com/cran/DrImpute
-[submodule "DramaAnalysis"]
-	path = DramaAnalysis
-	url = https://github.com/cran/DramaAnalysis
 [submodule "DrillR"]
 	path = DrillR
 	url = https://github.com/cran/DrillR
@@ -9362,9 +9359,6 @@
 [submodule "LAM"]
 	path = LAM
 	url = https://github.com/cran/LAM
-[submodule "LARF"]
-	path = LARF
-	url = https://github.com/cran/LARF
 [submodule "LARisk"]
 	path = LARisk
 	url = https://github.com/cran/LARisk
@@ -11960,9 +11954,6 @@
 [submodule "NMFN"]
 	path = NMFN
 	url = https://github.com/cran/NMFN
-[submodule "NMI"]
-	path = NMI
-	url = https://github.com/cran/NMI
 [submodule "NMMIPW"]
 	path = NMMIPW
 	url = https://github.com/cran/NMMIPW
@@ -19646,9 +19637,6 @@
 [submodule "TPLSr"]
 	path = TPLSr
 	url = https://github.com/cran/TPLSr
-[submodule "TPMplt"]
-	path = TPMplt
-	url = https://github.com/cran/TPMplt
 [submodule "TPXG"]
 	path = TPXG
 	url = https://github.com/cran/TPXG
@@ -20540,9 +20528,6 @@
 [submodule "VBMS"]
 	path = VBMS
 	url = https://github.com/cran/VBMS
-[submodule "VBTree"]
-	path = VBTree
-	url = https://github.com/cran/VBTree
 [submodule "VBV"]
 	path = VBV
 	url = https://github.com/cran/VBV
@@ -39182,9 +39167,6 @@
 [submodule "git4r"]
 	path = git4r
 	url = https://github.com/cran/git4r
-[submodule "gitGPT"]
-	path = gitGPT
-	url = https://github.com/cran/gitGPT
 [submodule "gitcreds"]
 	path = gitcreds
 	url = https://github.com/cran/gitcreds
@@ -46691,9 +46673,6 @@
 [submodule "margins"]
 	path = margins
 	url = https://github.com/cran/margins
-[submodule "marima"]
-	path = marima
-	url = https://github.com/cran/marima
 [submodule "marimekko"]
 	path = marimekko
 	url = https://github.com/cran/marimekko
@@ -59879,9 +59858,6 @@
 [submodule "rgeopat2"]
 	path = rgeopat2
 	url = https://github.com/cran/rgeopat2
-[submodule "rgexf"]
-	path = rgexf
-	url = https://github.com/cran/rgexf
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/cran/rgl
@@ -67250,9 +67226,6 @@
 [submodule "superdiag"]
 	path = superdiag
 	url = https://github.com/cran/superdiag
-[submodule "superheat"]
-	path = superheat
-	url = https://github.com/cran/superheat
 [submodule "supernova"]
 	path = supernova
 	url = https://github.com/cran/supernova
