@@ -128,6 +128,9 @@
 [submodule "AGBQR"]
 	path = AGBQR
 	url = https://github.com/cran/AGBQR
+[submodule "AGCA4extremes"]
+	path = AGCA4extremes
+	url = https://github.com/cran/AGCA4extremes
 [submodule "AGD"]
 	path = AGD
 	url = https://github.com/cran/AGD
@@ -20435,6 +20438,9 @@
 [submodule "UncDecomp"]
 	path = UncDecomp
 	url = https://github.com/cran/UncDecomp
+[submodule "UniCensor"]
+	path = UniCensor
+	url = https://github.com/cran/UniCensor
 [submodule "UniExactFunTest"]
 	path = UniExactFunTest
 	url = https://github.com/cran/UniExactFunTest
@@ -32510,6 +32516,9 @@
 [submodule "dsmmR"]
 	path = dsmmR
 	url = https://github.com/cran/dsmmR
+[submodule "dsn"]
+	path = dsn
+	url = https://github.com/cran/dsn
 [submodule "dsos"]
 	path = dsos
 	url = https://github.com/cran/dsos
@@ -36203,6 +36212,9 @@
 [submodule "flexsiteboard"]
 	path = flexsiteboard
 	url = https://github.com/cran/flexsiteboard
+[submodule "flexstanr"]
+	path = flexstanr
+	url = https://github.com/cran/flexstanr
 [submodule "flexsurv"]
 	path = flexsurv
 	url = https://github.com/cran/flexsurv
@@ -38363,6 +38375,9 @@
 [submodule "ggWebGL"]
 	path = ggWebGL
 	url = https://github.com/cran/ggWebGL
+[submodule "ggadjustedforest"]
+	path = ggadjustedforest
+	url = https://github.com/cran/ggadjustedforest
 [submodule "ggalign"]
 	path = ggalign
 	url = https://github.com/cran/ggalign
@@ -38924,6 +38939,9 @@
 [submodule "ggsignif"]
 	path = ggsignif
 	url = https://github.com/cran/ggsignif
+[submodule "ggsketch"]
+	path = ggsketch
+	url = https://github.com/cran/ggsketch
 [submodule "ggskewboxplots"]
 	path = ggskewboxplots
 	url = https://github.com/cran/ggskewboxplots
@@ -41333,6 +41351,9 @@
 [submodule "homomorpheR"]
 	path = homomorpheR
 	url = https://github.com/cran/homomorpheR
+[submodule "hood2net"]
+	path = hood2net
+	url = https://github.com/cran/hood2net
 [submodule "hoopR"]
 	path = hoopR
 	url = https://github.com/cran/hoopR
@@ -45317,6 +45338,9 @@
 [submodule "linevis"]
 	path = linevis
 	url = https://github.com/cran/linevis
+[submodule "lingamr"]
+	path = lingamr
+	url = https://github.com/cran/lingamr
 [submodule "lingdist"]
 	path = lingdist
 	url = https://github.com/cran/lingdist
@@ -50990,6 +51014,9 @@
 [submodule "nhanesA"]
 	path = nhanesA
 	url = https://github.com/cran/nhanesA
+[submodule "nhanesR"]
+	path = nhanesR
+	url = https://github.com/cran/nhanesR
 [submodule "nhanesdata"]
 	path = nhanesdata
 	url = https://github.com/cran/nhanesdata
@@ -60032,6 +60059,9 @@
 [submodule "riem"]
 	path = riem
 	url = https://github.com/cran/riem
+[submodule "riemannianStats"]
+	path = riemannianStats
+	url = https://github.com/cran/riemannianStats
 [submodule "riemtan"]
 	path = riemtan
 	url = https://github.com/cran/riemtan
@@ -66449,6 +66479,9 @@
 [submodule "stargazer"]
 	path = stargazer
 	url = https://github.com/cran/stargazer
+[submodule "stargazer2"]
+	path = stargazer2
+	url = https://github.com/cran/stargazer2
 [submodule "starling"]
 	path = starling
 	url = https://github.com/cran/starling
@@ -67718,6 +67751,9 @@
 [submodule "swjm"]
 	path = swjm
 	url = https://github.com/cran/swjm
+[submodule "sybilion"]
+	path = sybilion
+	url = https://github.com/cran/sybilion
 [submodule "sylcount"]
 	path = sylcount
 	url = https://github.com/cran/sylcount
