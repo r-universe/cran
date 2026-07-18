@@ -9152,9 +9152,6 @@
 [submodule "KMLtoSHAPE"]
 	path = KMLtoSHAPE
 	url = https://github.com/cran/KMLtoSHAPE
-[submodule "KMT"]
-	path = KMT
-	url = https://github.com/cran/KMT
 [submodule "KMsurv"]
 	path = KMsurv
 	url = https://github.com/cran/KMsurv
@@ -32375,9 +32372,6 @@
 [submodule "dreamerr"]
 	path = dreamerr
 	url = https://github.com/cran/dreamerr
-[submodule "dress.graph"]
-	path = dress.graph
-	url = https://github.com/cran/dress.graph
 [submodule "drf"]
 	path = drf
 	url = https://github.com/cran/drf
