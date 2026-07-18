@@ -4862,9 +4862,6 @@
 [submodule "DiscreteLaplace"]
 	path = DiscreteLaplace
 	url = https://github.com/cran/DiscreteLaplace
-[submodule "DiscreteMorseR"]
-	path = DiscreteMorseR
-	url = https://github.com/cran/DiscreteMorseR
 [submodule "DiscreteQvalue"]
 	path = DiscreteQvalue
 	url = https://github.com/cran/DiscreteQvalue
@@ -22085,9 +22082,6 @@
 [submodule "ahptopsis2n"]
 	path = ahptopsis2n
 	url = https://github.com/cran/ahptopsis2n
-[submodule "ahull3D"]
-	path = ahull3D
-	url = https://github.com/cran/ahull3D
 [submodule "ai"]
 	path = ai
 	url = https://github.com/cran/ai
