@@ -11210,6 +11210,9 @@
 [submodule "Mercator"]
 	path = Mercator
 	url = https://github.com/cran/Mercator
+[submodule "MergeKmeans"]
+	path = MergeKmeans
+	url = https://github.com/cran/MergeKmeans
 [submodule "Mestim"]
 	path = Mestim
 	url = https://github.com/cran/Mestim
@@ -16367,6 +16370,9 @@
 [submodule "RcppZiggurat"]
 	path = RcppZiggurat
 	url = https://github.com/cran/RcppZiggurat
+[submodule "Rcppautodiff"]
+	path = Rcppautodiff
+	url = https://github.com/cran/Rcppautodiff
 [submodule "Rcriticor"]
 	path = Rcriticor
 	url = https://github.com/cran/Rcriticor
@@ -25160,6 +25166,9 @@
 [submodule "bluebike"]
 	path = bluebike
 	url = https://github.com/cran/bluebike
+[submodule "blueterra"]
+	path = blueterra
+	url = https://github.com/cran/blueterra
 [submodule "blvim"]
 	path = blvim
 	url = https://github.com/cran/blvim
@@ -39041,6 +39050,9 @@
 [submodule "ggtricks"]
 	path = ggtricks
 	url = https://github.com/cran/ggtricks
+[submodule "ggtwotone"]
+	path = ggtwotone
+	url = https://github.com/cran/ggtwotone
 [submodule "ggupset"]
 	path = ggupset
 	url = https://github.com/cran/ggupset
@@ -40649,6 +40661,9 @@
 [submodule "hawkesbow"]
 	path = hawkesbow
 	url = https://github.com/cran/hawkesbow
+[submodule "hawkinR"]
+	path = hawkinR
+	url = https://github.com/cran/hawkinR
 [submodule "hazer"]
 	path = hazer
 	url = https://github.com/cran/hazer
@@ -46373,6 +46388,9 @@
 [submodule "magickGUI"]
 	path = magickGUI
 	url = https://github.com/cran/magickGUI
+[submodule "magicrect"]
+	path = magicrect
+	url = https://github.com/cran/magicrect
 [submodule "magmaR"]
 	path = magmaR
 	url = https://github.com/cran/magmaR
@@ -55715,6 +55733,9 @@
 [submodule "ppendemic"]
 	path = ppendemic
 	url = https://github.com/cran/ppendemic
+[submodule "ppforest2"]
+	path = ppforest2
+	url = https://github.com/cran/ppforest2
 [submodule "ppgam"]
 	path = ppgam
 	url = https://github.com/cran/ppgam
@@ -62771,6 +62792,9 @@
 [submodule "sdcTable"]
 	path = sdcTable
 	url = https://github.com/cran/sdcTable
+[submodule "sddr"]
+	path = sddr
+	url = https://github.com/cran/sddr
 [submodule "sde"]
 	path = sde
 	url = https://github.com/cran/sde
@@ -64223,6 +64247,9 @@
 [submodule "simMetric"]
 	path = simMetric
 	url = https://github.com/cran/simMetric
+[submodule "simOutrank"]
+	path = simOutrank
+	url = https://github.com/cran/simOutrank
 [submodule "simPH"]
 	path = simPH
 	url = https://github.com/cran/simPH
@@ -72239,6 +72266,9 @@
 [submodule "wcox"]
 	path = wcox
 	url = https://github.com/cran/wcox
+[submodule "wcswatin"]
+	path = wcswatin
+	url = https://github.com/cran/wcswatin
 [submodule "wcvpmatch"]
 	path = wcvpmatch
 	url = https://github.com/cran/wcvpmatch
