@@ -6773,9 +6773,6 @@
 [submodule "GDILM.ME"]
 	path = GDILM.ME
 	url = https://github.com/cran/GDILM.ME
-[submodule "GDILM.SEIRS"]
-	path = GDILM.SEIRS
-	url = https://github.com/cran/GDILM.SEIRS
 [submodule "GDILM.SIR"]
 	path = GDILM.SIR
 	url = https://github.com/cran/GDILM.SIR
