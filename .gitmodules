@@ -22754,6 +22754,9 @@
 [submodule "apt"]
 	path = apt
 	url = https://github.com/cran/apt
+[submodule "aptg"]
+	path = aptg
+	url = https://github.com/cran/aptg
 [submodule "apyramid"]
 	path = apyramid
 	url = https://github.com/cran/apyramid
