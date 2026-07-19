@@ -52865,6 +52865,9 @@
 [submodule "osrmr"]
 	path = osrmr
 	url = https://github.com/cran/osrmr
+[submodule "osscontribs"]
+	path = osscontribs
+	url = https://github.com/cran/osscontribs
 [submodule "osum"]
 	path = osum
 	url = https://github.com/cran/osum
@@ -66218,6 +66221,9 @@
 [submodule "srr"]
 	path = srr
 	url = https://github.com/cran/srr
+[submodule "srsbench"]
+	path = srsbench
+	url = https://github.com/cran/srsbench
 [submodule "srt"]
 	path = srt
 	url = https://github.com/cran/srt
@@ -66227,6 +66233,9 @@
 [submodule "ss3sim"]
 	path = ss3sim
 	url = https://github.com/cran/ss3sim
+[submodule "ssBartik"]
+	path = ssBartik
+	url = https://github.com/cran/ssBartik
 [submodule "ssMRCD"]
 	path = ssMRCD
 	url = https://github.com/cran/ssMRCD
