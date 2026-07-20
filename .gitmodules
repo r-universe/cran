@@ -49682,9 +49682,6 @@
 [submodule "mt.surv"]
 	path = mt.surv
 	url = https://github.com/cran/mt.surv
-[submodule "mtaOpenData"]
-	path = mtaOpenData
-	url = https://github.com/cran/mtaOpenData
 [submodule "mtanan"]
 	path = mtanan
 	url = https://github.com/cran/mtanan
