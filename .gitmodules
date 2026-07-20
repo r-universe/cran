@@ -27443,9 +27443,6 @@
 [submodule "clarabel"]
 	path = clarabel
 	url = https://github.com/cran/clarabel
-[submodule "clarifai"]
-	path = clarifai
-	url = https://github.com/cran/clarifai
 [submodule "clarify"]
 	path = clarify
 	url = https://github.com/cran/clarify
