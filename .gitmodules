@@ -40022,6 +40022,9 @@
 [submodule "grepreaper"]
 	path = grepreaper
 	url = https://github.com/cran/grepreaper
+[submodule "greta"]
+	path = greta
+	url = https://github.com/cran/greta
 [submodule "gretel"]
 	path = gretel
 	url = https://github.com/cran/gretel
