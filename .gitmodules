@@ -9497,6 +9497,9 @@
 [submodule "LLMR"]
 	path = LLMR
 	url = https://github.com/cran/LLMR
+[submodule "LLMR.shiny"]
+	path = LLMR.shiny
+	url = https://github.com/cran/LLMR.shiny
 [submodule "LLMTranslate"]
 	path = LLMTranslate
 	url = https://github.com/cran/LLMTranslate
@@ -19427,9 +19430,6 @@
 [submodule "TANDEM"]
 	path = TANDEM
 	url = https://github.com/cran/TANDEM
-[submodule "TAQMNGR"]
-	path = TAQMNGR
-	url = https://github.com/cran/TAQMNGR
 [submodule "TAR"]
 	path = TAR
 	url = https://github.com/cran/TAR
