@@ -9500,6 +9500,9 @@
 [submodule "LLMR.shiny"]
 	path = LLMR.shiny
 	url = https://github.com/cran/LLMR.shiny
+[submodule "LLMRagent"]
+	path = LLMRagent
+	url = https://github.com/cran/LLMRagent
 [submodule "LLMTranslate"]
 	path = LLMTranslate
 	url = https://github.com/cran/LLMTranslate
@@ -15578,6 +15581,9 @@
 [submodule "RPPanalyzer"]
 	path = RPPanalyzer
 	url = https://github.com/cran/RPPanalyzer
+[submodule "RPWNSC"]
+	path = RPWNSC
+	url = https://github.com/cran/RPWNSC
 [submodule "RPatternJoin"]
 	path = RPatternJoin
 	url = https://github.com/cran/RPatternJoin
@@ -24812,6 +24818,9 @@
 [submodule "biobricks"]
 	path = biobricks
 	url = https://github.com/cran/biobricks
+[submodule "biocharkit"]
+	path = biocharkit
+	url = https://github.com/cran/biocharkit
 [submodule "bioclim"]
 	path = bioclim
 	url = https://github.com/cran/bioclim
@@ -24821,6 +24830,9 @@
 [submodule "biodosetools"]
 	path = biodosetools
 	url = https://github.com/cran/biodosetools
+[submodule "biofetchR"]
+	path = biofetchR
+	url = https://github.com/cran/biofetchR
 [submodule "biogas"]
 	path = biogas
 	url = https://github.com/cran/biogas
@@ -29696,6 +29708,9 @@
 [submodule "crov"]
 	path = crov
 	url = https://github.com/cran/crov
+[submodule "crownmetrics"]
+	path = crownmetrics
+	url = https://github.com/cran/crownmetrics
 [submodule "crownsegmentr"]
 	path = crownsegmentr
 	url = https://github.com/cran/crownsegmentr
@@ -29741,9 +29756,6 @@
 [submodule "crunch"]
 	path = crunch
 	url = https://github.com/cran/crunch
-[submodule "cruts"]
-	path = cruts
-	url = https://github.com/cran/cruts
 [submodule "crwbmetareg"]
 	path = crwbmetareg
 	url = https://github.com/cran/crwbmetareg
@@ -34997,6 +35009,9 @@
 [submodule "facerec"]
 	path = facerec
 	url = https://github.com/cran/facerec
+[submodule "facetsviz"]
+	path = facetsviz
+	url = https://github.com/cran/facetsviz
 [submodule "facilityepimath"]
 	path = facilityepimath
 	url = https://github.com/cran/facilityepimath
@@ -35006,6 +35021,9 @@
 [submodule "facmodTS"]
 	path = facmodTS
 	url = https://github.com/cran/facmodTS
+[submodule "facomplex"]
+	path = facomplex
+	url = https://github.com/cran/facomplex
 [submodule "factReg"]
 	path = factReg
 	url = https://github.com/cran/factReg
@@ -40022,6 +40040,9 @@
 [submodule "greta"]
 	path = greta
 	url = https://github.com/cran/greta
+[submodule "greta.gp"]
+	path = greta.gp
+	url = https://github.com/cran/greta.gp
 [submodule "gretel"]
 	path = gretel
 	url = https://github.com/cran/gretel
@@ -42983,6 +43004,9 @@
 [submodule "invacost"]
 	path = invacost
 	url = https://github.com/cran/invacost
+[submodule "invasible"]
+	path = invasible
+	url = https://github.com/cran/invasible
 [submodule "invctr"]
 	path = invctr
 	url = https://github.com/cran/invctr
@@ -44576,6 +44600,9 @@
 [submodule "laeken"]
 	path = laeken
 	url = https://github.com/cran/laeken
+[submodule "lagdynamics"]
+	path = lagdynamics
+	url = https://github.com/cran/lagdynamics
 [submodule "lagged"]
 	path = lagged
 	url = https://github.com/cran/lagged
@@ -46829,6 +46856,9 @@
 [submodule "matchedcc"]
 	path = matchedcc
 	url = https://github.com/cran/matchedcc
+[submodule "matchednull"]
+	path = matchednull
+	url = https://github.com/cran/matchednull
 [submodule "matchingMarkets"]
 	path = matchingMarkets
 	url = https://github.com/cran/matchingMarkets
@@ -51935,6 +51965,9 @@
 [submodule "oaii"]
 	path = oaii
 	url = https://github.com/cran/oaii
+[submodule "oalasso"]
+	path = oalasso
+	url = https://github.com/cran/oalasso
 [submodule "oaqc"]
 	path = oaqc
 	url = https://github.com/cran/oaqc
@@ -60902,6 +60935,9 @@
 [submodule "ropercenter"]
 	path = ropercenter
 	url = https://github.com/cran/ropercenter
+[submodule "ropper"]
+	path = ropper
+	url = https://github.com/cran/ropper
 [submodule "roptim"]
 	path = roptim
 	url = https://github.com/cran/roptim
@@ -61067,6 +61103,9 @@
 [submodule "rpinterest"]
 	path = rpinterest
 	url = https://github.com/cran/rpinterest
+[submodule "rpkgkit"]
+	path = rpkgkit
+	url = https://github.com/cran/rpkgkit
 [submodule "rplanes"]
 	path = rplanes
 	url = https://github.com/cran/rplanes
@@ -61760,6 +61799,9 @@
 [submodule "rwetools"]
 	path = rwetools
 	url = https://github.com/cran/rwetools
+[submodule "rwevalidate"]
+	path = rwevalidate
+	url = https://github.com/cran/rwevalidate
 [submodule "rwfec"]
 	path = rwfec
 	url = https://github.com/cran/rwfec
@@ -66734,6 +66776,9 @@
 [submodule "steepness"]
 	path = steepness
 	url = https://github.com/cran/steepness
+[submodule "steinsampling"]
+	path = steinsampling
+	url = https://github.com/cran/steinsampling
 [submodule "stelfi"]
 	path = stelfi
 	url = https://github.com/cran/stelfi
@@ -68234,6 +68279,9 @@
 [submodule "tbm"]
 	path = tbm
 	url = https://github.com/cran/tbm
+[submodule "tbnb"]
+	path = tbnb
+	url = https://github.com/cran/tbnb
 [submodule "tboot"]
 	path = tboot
 	url = https://github.com/cran/tboot
@@ -68675,6 +68723,9 @@
 [submodule "textstem"]
 	path = textstem
 	url = https://github.com/cran/textstem
+[submodule "textures"]
+	path = textures
+	url = https://github.com/cran/textures
 [submodule "textutils"]
 	path = textutils
 	url = https://github.com/cran/textutils
