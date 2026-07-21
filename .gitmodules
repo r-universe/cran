@@ -16718,6 +16718,9 @@
 [submodule "RgoogleMaps"]
 	path = RgoogleMaps
 	url = https://github.com/cran/RgoogleMaps
+[submodule "Rhpc"]
+	path = Rhpc
+	url = https://github.com/cran/Rhpc
 [submodule "RhpcBLASctl"]
 	path = RhpcBLASctl
 	url = https://github.com/cran/RhpcBLASctl
