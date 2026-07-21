@@ -46475,9 +46475,6 @@
 [submodule "mammalcol"]
 	path = mammalcol
 	url = https://github.com/cran/mammalcol
-[submodule "managelocalrepo"]
-	path = managelocalrepo
-	url = https://github.com/cran/managelocalrepo
 [submodule "mand"]
 	path = mand
 	url = https://github.com/cran/mand
@@ -49682,6 +49679,9 @@
 [submodule "mt.surv"]
 	path = mt.surv
 	url = https://github.com/cran/mt.surv
+[submodule "mtaOpenData"]
+	path = mtaOpenData
+	url = https://github.com/cran/mtaOpenData
 [submodule "mtanan"]
 	path = mtanan
 	url = https://github.com/cran/mtanan
