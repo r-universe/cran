@@ -12581,6 +12581,9 @@
 [submodule "Ohit"]
 	path = Ohit
 	url = https://github.com/cran/Ohit
+[submodule "OjaNP"]
+	path = OjaNP
+	url = https://github.com/cran/OjaNP
 [submodule "OkNNE"]
 	path = OkNNE
 	url = https://github.com/cran/OkNNE
@@ -18293,6 +18296,9 @@
 [submodule "SelectBoost.quantile"]
 	path = SelectBoost.quantile
 	url = https://github.com/cran/SelectBoost.quantile
+[submodule "SelectSim"]
+	path = SelectSim
+	url = https://github.com/cran/SelectSim
 [submodule "SelectionBias"]
 	path = SelectionBias
 	url = https://github.com/cran/SelectionBias
@@ -23975,6 +23981,9 @@
 [submodule "bayesTFR"]
 	path = bayesTFR
 	url = https://github.com/cran/bayesTFR
+[submodule "bayesTLS"]
+	path = bayesTLS
+	url = https://github.com/cran/bayesTLS
 [submodule "bayesWatch"]
 	path = bayesWatch
 	url = https://github.com/cran/bayesWatch
@@ -30470,6 +30479,9 @@
 [submodule "datafsm"]
 	path = datafsm
 	url = https://github.com/cran/datafsm
+[submodule "dataganger"]
+	path = dataganger
+	url = https://github.com/cran/dataganger
 [submodule "datamedios"]
 	path = datamedios
 	url = https://github.com/cran/datamedios
@@ -32462,6 +32474,9 @@
 [submodule "drumr"]
 	path = drumr
 	url = https://github.com/cran/drumr
+[submodule "dryingkineticmodels"]
+	path = dryingkineticmodels
+	url = https://github.com/cran/dryingkineticmodels
 [submodule "ds"]
 	path = ds
 	url = https://github.com/cran/ds
@@ -36854,6 +36869,9 @@
 [submodule "frenchdata"]
 	path = frenchdata
 	url = https://github.com/cran/frenchdata
+[submodule "freqTLS"]
+	path = freqTLS
+	url = https://github.com/cran/freqTLS
 [submodule "freqdist"]
 	path = freqdist
 	url = https://github.com/cran/freqdist
@@ -39959,6 +39977,9 @@
 [submodule "grasps"]
 	path = grasps
 	url = https://github.com/cran/grasps
+[submodule "grassr"]
+	path = grassr
+	url = https://github.com/cran/grassr
 [submodule "grateful"]
 	path = grateful
 	url = https://github.com/cran/grateful
@@ -41516,6 +41537,9 @@
 [submodule "html2R"]
 	path = html2R
 	url = https://github.com/cran/html2R
+[submodule "html2excel"]
+	path = html2excel
+	url = https://github.com/cran/html2excel
 [submodule "html2pdfR"]
 	path = html2pdfR
 	url = https://github.com/cran/html2pdfR
@@ -43487,6 +43511,9 @@
 [submodule "ivreg"]
 	path = ivreg
 	url = https://github.com/cran/ivreg
+[submodule "ivreg2r"]
+	path = ivreg2r
+	url = https://github.com/cran/ivreg2r
 [submodule "ivs"]
 	path = ivs
 	url = https://github.com/cran/ivs
@@ -60032,6 +60059,9 @@
 [submodule "riAFTBART"]
 	path = riAFTBART
 	url = https://github.com/cran/riAFTBART
+[submodule "ria.test"]
+	path = ria.test
+	url = https://github.com/cran/ria.test
 [submodule "rib"]
 	path = rib
 	url = https://github.com/cran/rib
@@ -66734,6 +66764,9 @@
 [submodule "statuser"]
 	path = statuser
 	url = https://github.com/cran/statuser
+[submodule "statwitness"]
+	path = statwitness
+	url = https://github.com/cran/statwitness
 [submodule "stbimageheaders"]
 	path = stbimageheaders
 	url = https://github.com/cran/stbimageheaders
@@ -67529,6 +67562,9 @@
 [submodule "surveytidy"]
 	path = surveytidy
 	url = https://github.com/cran/surveytidy
+[submodule "surveyverse"]
+	path = surveyverse
+	url = https://github.com/cran/surveyverse
 [submodule "surveyvoi"]
 	path = surveyvoi
 	url = https://github.com/cran/surveyvoi
@@ -73079,6 +73115,9 @@
 [submodule "xiacf"]
 	path = xiacf
 	url = https://github.com/cran/xiacf
+[submodule "ximage"]
+	path = ximage
+	url = https://github.com/cran/ximage
 [submodule "xkcd"]
 	path = xkcd
 	url = https://github.com/cran/xkcd
