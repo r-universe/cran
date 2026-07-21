@@ -4964,6 +4964,9 @@
 [submodule "DrData"]
 	path = DrData
 	url = https://github.com/cran/DrData
+[submodule "DrDimont"]
+	path = DrDimont
+	url = https://github.com/cran/DrDimont
 [submodule "DrImpute"]
 	path = DrImpute
 	url = https://github.com/cran/DrImpute
