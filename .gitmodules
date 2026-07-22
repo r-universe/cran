@@ -5996,6 +5996,9 @@
 [submodule "FER"]
 	path = FER
 	url = https://github.com/cran/FER
+[submodule "FES"]
+	path = FES
+	url = https://github.com/cran/FES
 [submodule "FESta"]
 	path = FESta
 	url = https://github.com/cran/FESta
@@ -12254,6 +12257,9 @@
 [submodule "NeutroCODsAnalysis"]
 	path = NeutroCODsAnalysis
 	url = https://github.com/cran/NeutroCODsAnalysis
+[submodule "NeutroCrdRcbdAnalysis"]
+	path = NeutroCrdRcbdAnalysis
+	url = https://github.com/cran/NeutroCrdRcbdAnalysis
 [submodule "NeutroIBDAnalysis"]
 	path = NeutroIBDAnalysis
 	url = https://github.com/cran/NeutroIBDAnalysis
@@ -13541,6 +13547,9 @@
 [submodule "PTSR"]
 	path = PTSR
 	url = https://github.com/cran/PTSR
+[submodule "PTT"]
+	path = PTT
+	url = https://github.com/cran/PTT
 [submodule "PTXQC"]
 	path = PTXQC
 	url = https://github.com/cran/PTXQC
@@ -22964,6 +22973,9 @@
 [submodule "arkdb"]
 	path = arkdb
 	url = https://github.com/cran/arkdb
+[submodule "arkg"]
+	path = arkg
+	url = https://github.com/cran/arkg
 [submodule "arkhaia"]
 	path = arkhaia
 	url = https://github.com/cran/arkhaia
@@ -26744,6 +26756,9 @@
 [submodule "cdrcR"]
 	path = cdrcR
 	url = https://github.com/cran/cdrcR
+[submodule "cdtmbnma"]
+	path = cdtmbnma
+	url = https://github.com/cran/cdtmbnma
 [submodule "ceRtainty"]
 	path = ceRtainty
 	url = https://github.com/cran/ceRtainty
@@ -35936,6 +35951,9 @@
 [submodule "finlabR"]
 	path = finlabR
 	url = https://github.com/cran/finlabR
+[submodule "finlex"]
+	path = finlex
+	url = https://github.com/cran/finlex
 [submodule "finna"]
 	path = finna
 	url = https://github.com/cran/finna
@@ -38750,6 +38768,9 @@
 [submodule "ggmemo"]
 	path = ggmemo
 	url = https://github.com/cran/ggmemo
+[submodule "ggmeta"]
+	path = ggmeta
+	url = https://github.com/cran/ggmeta
 [submodule "ggmice"]
 	path = ggmice
 	url = https://github.com/cran/ggmice
@@ -39167,6 +39188,9 @@
 [submodule "gibble"]
 	path = gibble
 	url = https://github.com/cran/gibble
+[submodule "gibbsTI"]
+	path = gibbsTI
+	url = https://github.com/cran/gibbsTI
 [submodule "gicf"]
 	path = gicf
 	url = https://github.com/cran/gicf
@@ -40073,6 +40097,9 @@
 [submodule "greta"]
 	path = greta
 	url = https://github.com/cran/greta
+[submodule "greta.dynamics"]
+	path = greta.dynamics
+	url = https://github.com/cran/greta.dynamics
 [submodule "greta.gp"]
 	path = greta.gp
 	url = https://github.com/cran/greta.gp
@@ -43364,6 +43391,9 @@
 [submodule "isodistrreg"]
 	path = isodistrreg
 	url = https://github.com/cran/isodistrreg
+[submodule "isoexplorer"]
+	path = isoexplorer
+	url = https://github.com/cran/isoexplorer
 [submodule "isogeochem"]
 	path = isogeochem
 	url = https://github.com/cran/isogeochem
@@ -48767,6 +48797,9 @@
 [submodule "mlr3filters"]
 	path = mlr3filters
 	url = https://github.com/cran/mlr3filters
+[submodule "mlr3forecast"]
+	path = mlr3forecast
+	url = https://github.com/cran/mlr3forecast
 [submodule "mlr3fselect"]
 	path = mlr3fselect
 	url = https://github.com/cran/mlr3fselect
@@ -52604,9 +52637,6 @@
 [submodule "optedr"]
 	path = optedr
 	url = https://github.com/cran/optedr
-[submodule "optextras"]
-	path = optextras
-	url = https://github.com/cran/optextras
 [submodule "optiSel"]
 	path = optiSel
 	url = https://github.com/cran/optiSel
@@ -53999,6 +54029,9 @@
 [submodule "pdist"]
 	path = pdist
 	url = https://github.com/cran/pdist
+[submodule "pdokr"]
+	path = pdokr
+	url = https://github.com/cran/pdokr
 [submodule "pdp"]
 	path = pdp
 	url = https://github.com/cran/pdp
@@ -58067,6 +58100,9 @@
 [submodule "rafsi"]
 	path = rafsi
 	url = https://github.com/cran/rafsi
+[submodule "ragR"]
+	path = ragR
+	url = https://github.com/cran/ragR
 [submodule "ragg"]
 	path = ragg
 	url = https://github.com/cran/ragg
@@ -59453,6 +59489,9 @@
 [submodule "rematch2"]
 	path = rematch2
 	url = https://github.com/cran/rematch2
+[submodule "rembg"]
+	path = rembg
+	url = https://github.com/cran/rembg
 [submodule "remdata"]
 	path = remdata
 	url = https://github.com/cran/remdata
@@ -61106,6 +61145,9 @@
 [submodule "rpanel"]
 	path = rpanel
 	url = https://github.com/cran/rpanel
+[submodule "rpanelrev"]
+	path = rpanelrev
+	url = https://github.com/cran/rpanelrev
 [submodule "rpart"]
 	path = rpart
 	url = https://github.com/cran/rpart
@@ -61817,6 +61859,9 @@
 [submodule "rvkstat"]
 	path = rvkstat
 	url = https://github.com/cran/rvkstat
+[submodule "rvmprior"]
+	path = rvmprior
+	url = https://github.com/cran/rvmprior
 [submodule "rvolleydata"]
 	path = rvolleydata
 	url = https://github.com/cran/rvolleydata
@@ -67931,6 +67976,9 @@
 [submodule "synMicrodata"]
 	path = synMicrodata
 	url = https://github.com/cran/synMicrodata
+[submodule "synadam"]
+	path = synadam
+	url = https://github.com/cran/synadam
 [submodule "syncdr"]
 	path = syncdr
 	url = https://github.com/cran/syncdr
@@ -69782,6 +69830,9 @@
 [submodule "toonlite"]
 	path = toonlite
 	url = https://github.com/cran/toonlite
+[submodule "tooth"]
+	path = tooth
+	url = https://github.com/cran/tooth
 [submodule "topChef"]
 	path = topChef
 	url = https://github.com/cran/topChef
