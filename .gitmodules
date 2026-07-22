@@ -10784,6 +10784,9 @@
 [submodule "MRReg"]
 	path = MRReg
 	url = https://github.com/cran/MRReg
+[submodule "MRS"]
+	path = MRS
+	url = https://github.com/cran/MRS
 [submodule "MRStdCRT"]
 	path = MRStdCRT
 	url = https://github.com/cran/MRStdCRT
@@ -32231,6 +32234,9 @@
 [submodule "dosedesignR"]
 	path = dosedesignR
 	url = https://github.com/cran/dosedesignR
+[submodule "doseminer"]
+	path = doseminer
+	url = https://github.com/cran/doseminer
 [submodule "dosr"]
 	path = dosr
 	url = https://github.com/cran/dosr
