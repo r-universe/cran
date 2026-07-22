@@ -27788,6 +27788,9 @@
 [submodule "clustEff"]
 	path = clustEff
 	url = https://github.com/cran/clustEff
+[submodule "clustGLMM"]
+	path = clustGLMM
+	url = https://github.com/cran/clustGLMM
 [submodule "clustMD"]
 	path = clustMD
 	url = https://github.com/cran/clustMD
@@ -33608,6 +33611,9 @@
 [submodule "electoral"]
 	path = electoral
 	url = https://github.com/cran/electoral
+[submodule "electsys21"]
+	path = electsys21
+	url = https://github.com/cran/electsys21
 [submodule "elevatr"]
 	path = elevatr
 	url = https://github.com/cran/elevatr
