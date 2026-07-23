@@ -26480,6 +26480,9 @@
 [submodule "catmaply"]
 	path = catmaply
 	url = https://github.com/cran/catmaply
+[submodule "catmodeling"]
+	path = catmodeling
+	url = https://github.com/cran/catmodeling
 [submodule "catool"]
 	path = catool
 	url = https://github.com/cran/catool
@@ -32495,6 +32498,9 @@
 [submodule "drugdevelopR"]
 	path = drugdevelopR
 	url = https://github.com/cran/drugdevelopR
+[submodule "drugprepr"]
+	path = drugprepr
+	url = https://github.com/cran/drugprepr
 [submodule "drugsens"]
 	path = drugsens
 	url = https://github.com/cran/drugsens
@@ -60005,6 +60011,9 @@
 [submodule "rgeopat2"]
 	path = rgeopat2
 	url = https://github.com/cran/rgeopat2
+[submodule "rgexf"]
+	path = rgexf
+	url = https://github.com/cran/rgexf
 [submodule "rgl"]
 	path = rgl
 	url = https://github.com/cran/rgl
@@ -62522,6 +62531,9 @@
 [submodule "scROSHI"]
 	path = scROSHI
 	url = https://github.com/cran/scROSHI
+[submodule "scShardSplitRef"]
+	path = scShardSplitRef
+	url = https://github.com/cran/scShardSplitRef
 [submodule "scSpatialSIM"]
 	path = scSpatialSIM
 	url = https://github.com/cran/scSpatialSIM
