@@ -18596,9 +18596,6 @@
 [submodule "SimTOST"]
 	path = SimTOST
 	url = https://github.com/cran/SimTOST
-[submodule "SimTimeVar"]
-	path = SimTimeVar
-	url = https://github.com/cran/SimTimeVar
 [submodule "SimVitD"]
 	path = SimVitD
 	url = https://github.com/cran/SimVitD
@@ -58001,9 +57998,6 @@
 [submodule "rTLS"]
 	path = rTLS
 	url = https://github.com/cran/rTLS
-[submodule "rTLsDeep"]
-	path = rTLsDeep
-	url = https://github.com/cran/rTLsDeep
 [submodule "rTPC"]
 	path = rTPC
 	url = https://github.com/cran/rTPC
@@ -66323,9 +66317,6 @@
 [submodule "sqlq"]
 	path = sqlq
 	url = https://github.com/cran/sqlq
-[submodule "sqlserverconnect"]
-	path = sqlserverconnect
-	url = https://github.com/cran/sqlserverconnect
 [submodule "sqlstrings"]
 	path = sqlstrings
 	url = https://github.com/cran/sqlstrings
