@@ -2570,6 +2570,9 @@
 [submodule "CMAPSS"]
 	path = CMAPSS
 	url = https://github.com/cran/CMAPSS
+[submodule "CMCMC"]
+	path = CMCMC
+	url = https://github.com/cran/CMCMC
 [submodule "CMF"]
 	path = CMF
 	url = https://github.com/cran/CMF
@@ -4667,6 +4670,9 @@
 [submodule "DemoDecomp"]
 	path = DemoDecomp
 	url = https://github.com/cran/DemoDecomp
+[submodule "DemogAnr"]
+	path = DemogAnr
+	url = https://github.com/cran/DemogAnr
 [submodule "DemographicTable"]
 	path = DemographicTable
 	url = https://github.com/cran/DemographicTable
@@ -5009,6 +5015,9 @@
 [submodule "Dykstra"]
 	path = Dykstra
 	url = https://github.com/cran/Dykstra
+[submodule "Dyn4cast"]
+	path = Dyn4cast
+	url = https://github.com/cran/Dyn4cast
 [submodule "DynClust"]
 	path = DynClust
 	url = https://github.com/cran/DynClust
@@ -7886,6 +7895,9 @@
 [submodule "HLAtools"]
 	path = HLAtools
 	url = https://github.com/cran/HLAtools
+[submodule "HLCtools"]
+	path = HLCtools
+	url = https://github.com/cran/HLCtools
 [submodule "HLMdiag"]
 	path = HLMdiag
 	url = https://github.com/cran/HLMdiag
@@ -8078,6 +8090,9 @@
 [submodule "HausdorffGoF"]
 	path = HausdorffGoF
 	url = https://github.com/cran/HausdorffGoF
+[submodule "HawaSpatial"]
+	path = HawaSpatial
+	url = https://github.com/cran/HawaSpatial
 [submodule "HazardDiff"]
 	path = HazardDiff
 	url = https://github.com/cran/HazardDiff
@@ -11492,6 +11507,9 @@
 [submodule "MixtureMissing"]
 	path = MixtureMissing
 	url = https://github.com/cran/MixtureMissing
+[submodule "MleCensoR"]
+	path = MleCensoR
+	url = https://github.com/cran/MleCensoR
 [submodule "Mmcsd"]
 	path = Mmcsd
 	url = https://github.com/cran/Mmcsd
@@ -25937,6 +25955,9 @@
 [submodule "bupaR"]
 	path = bupaR
 	url = https://github.com/cran/bupaR
+[submodule "burakDiagrams"]
+	path = burakDiagrams
+	url = https://github.com/cran/burakDiagrams
 [submodule "burgle"]
 	path = burgle
 	url = https://github.com/cran/burgle
@@ -28904,6 +28925,9 @@
 [submodule "controlfunctionIV"]
 	path = controlfunctionIV
 	url = https://github.com/cran/controlfunctionIV
+[submodule "controller"]
+	path = controller
+	url = https://github.com/cran/controller
 [submodule "contsurvplot"]
 	path = contsurvplot
 	url = https://github.com/cran/contsurvplot
@@ -33563,6 +33587,9 @@
 [submodule "eicm"]
 	path = eicm
 	url = https://github.com/cran/eicm
+[submodule "eigencore"]
+	path = eigencore
+	url = https://github.com/cran/eigencore
 [submodule "eigenmodel"]
 	path = eigenmodel
 	url = https://github.com/cran/eigenmodel
@@ -35144,6 +35171,9 @@
 [submodule "fairadapt"]
 	path = fairadapt
 	url = https://github.com/cran/fairadapt
+[submodule "fairlieR"]
+	path = fairlieR
+	url = https://github.com/cran/fairlieR
 [submodule "fairmetrics"]
 	path = fairmetrics
 	url = https://github.com/cran/fairmetrics
@@ -38264,6 +38294,9 @@
 [submodule "geovol"]
 	path = geovol
 	url = https://github.com/cran/geovol
+[submodule "geozarr"]
+	path = geozarr
+	url = https://github.com/cran/geozarr
 [submodule "geozoo"]
 	path = geozoo
 	url = https://github.com/cran/geozoo
@@ -39110,6 +39143,9 @@
 [submodule "ggtime"]
 	path = ggtime
 	url = https://github.com/cran/ggtime
+[submodule "ggtintshade"]
+	path = ggtintshade
+	url = https://github.com/cran/ggtintshade
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/cran/ggtrace
@@ -45821,6 +45857,9 @@
 [submodule "locationgamer"]
 	path = locationgamer
 	url = https://github.com/cran/locationgamer
+[submodule "locatr"]
+	path = locatr
+	url = https://github.com/cran/locatr
 [submodule "locdiff"]
 	path = locdiff
 	url = https://github.com/cran/locdiff
@@ -46790,6 +46829,9 @@
 [submodule "marg"]
 	path = marg
 	url = https://github.com/cran/marg
+[submodule "margEVT"]
+	path = margEVT
+	url = https://github.com/cran/margEVT
 [submodule "margaret"]
 	path = margaret
 	url = https://github.com/cran/margaret
@@ -52775,6 +52817,9 @@
 [submodule "orcamentoBR"]
 	path = orcamentoBR
 	url = https://github.com/cran/orcamentoBR
+[submodule "orchaRd"]
+	path = orchaRd
+	url = https://github.com/cran/orchaRd
 [submodule "orcidtr"]
 	path = orcidtr
 	url = https://github.com/cran/orcidtr
@@ -57578,6 +57623,9 @@
 [submodule "qvcalc"]
 	path = qvcalc
 	url = https://github.com/cran/qvcalc
+[submodule "qviewparsR"]
+	path = qviewparsR
+	url = https://github.com/cran/qviewparsR
 [submodule "qvirus"]
 	path = qvirus
 	url = https://github.com/cran/qvirus
@@ -58688,6 +58736,9 @@
 [submodule "rcheology"]
 	path = rcheology
 	url = https://github.com/cran/rcheology
+[submodule "rchime"]
+	path = rchime
+	url = https://github.com/cran/rchime
 [submodule "rchroma"]
 	path = rchroma
 	url = https://github.com/cran/rchroma
@@ -63026,6 +63077,9 @@
 [submodule "seastests"]
 	path = seastests
 	url = https://github.com/cran/seastests
+[submodule "sebkc"]
+	path = sebkc
+	url = https://github.com/cran/sebkc
 [submodule "secr"]
 	path = secr
 	url = https://github.com/cran/secr
@@ -66818,6 +66872,9 @@
 [submodule "statsExpressions"]
 	path = statsExpressions
 	url = https://github.com/cran/statsExpressions
+[submodule "statsapps"]
+	path = statsapps
+	url = https://github.com/cran/statsapps
 [submodule "statsearchanalyticsr"]
 	path = statsearchanalyticsr
 	url = https://github.com/cran/statsearchanalyticsr
