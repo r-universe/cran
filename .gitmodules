@@ -48569,6 +48569,9 @@
 [submodule "missingHE"]
 	path = missingHE
 	url = https://github.com/cran/missingHE
+[submodule "missknn"]
+	path = missknn
+	url = https://github.com/cran/missknn
 [submodule "missoNet"]
 	path = missoNet
 	url = https://github.com/cran/missoNet
