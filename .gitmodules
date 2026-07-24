@@ -8153,6 +8153,9 @@
 [submodule "HierPortfolios"]
 	path = HierPortfolios
 	url = https://github.com/cran/HierPortfolios
+[submodule "HighDimenCDM"]
+	path = HighDimenCDM
+	url = https://github.com/cran/HighDimenCDM
 [submodule "HighFive"]
 	path = HighFive
 	url = https://github.com/cran/HighFive
@@ -8615,6 +8618,9 @@
 [submodule "IRTBEMM"]
 	path = IRTBEMM
 	url = https://github.com/cran/IRTBEMM
+[submodule "IRTC"]
+	path = IRTC
+	url = https://github.com/cran/IRTC
 [submodule "IRTM"]
 	path = IRTM
 	url = https://github.com/cran/IRTM
@@ -11264,6 +11270,9 @@
 [submodule "MetaDose"]
 	path = MetaDose
 	url = https://github.com/cran/MetaDose
+[submodule "MetaEEEA"]
+	path = MetaEEEA
+	url = https://github.com/cran/MetaEEEA
 [submodule "MetaEntropy"]
 	path = MetaEntropy
 	url = https://github.com/cran/MetaEntropy
@@ -14744,6 +14753,9 @@
 [submodule "RARtrials"]
 	path = RARtrials
 	url = https://github.com/cran/RARtrials
+[submodule "RAS"]
+	path = RAS
+	url = https://github.com/cran/RAS
 [submodule "RAT"]
 	path = RAT
 	url = https://github.com/cran/RAT
@@ -18740,6 +18752,9 @@
 [submodule "Sobol4R"]
 	path = Sobol4R
 	url = https://github.com/cran/Sobol4R
+[submodule "SocialFacts"]
+	path = SocialFacts
+	url = https://github.com/cran/SocialFacts
 [submodule "Sofi"]
 	path = Sofi
 	url = https://github.com/cran/Sofi
@@ -19127,6 +19142,9 @@
 [submodule "StatsTFLValR"]
 	path = StatsTFLValR
 	url = https://github.com/cran/StatsTFLValR
+[submodule "SteadyStateBVAR"]
+	path = SteadyStateBVAR
+	url = https://github.com/cran/SteadyStateBVAR
 [submodule "StealLikeBayes"]
 	path = StealLikeBayes
 	url = https://github.com/cran/StealLikeBayes
@@ -21545,6 +21563,9 @@
 [submodule "acid"]
 	path = acid
 	url = https://github.com/cran/acid
+[submodule "ackwards"]
+	path = ackwards
+	url = https://github.com/cran/ackwards
 [submodule "acled.api"]
 	path = acled.api
 	url = https://github.com/cran/acled.api
@@ -21806,6 +21827,9 @@
 [submodule "adheRenceRX"]
 	path = adheRenceRX
 	url = https://github.com/cran/adheRenceRX
+[submodule "adheaping"]
+	path = adheaping
+	url = https://github.com/cran/adheaping
 [submodule "adimpro"]
 	path = adimpro
 	url = https://github.com/cran/adimpro
@@ -25349,6 +25373,9 @@
 [submodule "boiwsa"]
 	path = boiwsa
 	url = https://github.com/cran/boiwsa
+[submodule "bojapi"]
+	path = bojapi
+	url = https://github.com/cran/bojapi
 [submodule "bolasso"]
 	path = bolasso
 	url = https://github.com/cran/bolasso
@@ -26924,6 +26951,9 @@
 [submodule "ceterisParibus"]
 	path = ceterisParibus
 	url = https://github.com/cran/ceterisParibus
+[submodule "cevcmm"]
+	path = cevcmm
+	url = https://github.com/cran/cevcmm
 [submodule "cfa"]
 	path = cfa
 	url = https://github.com/cran/cfa
@@ -36596,6 +36626,9 @@
 [submodule "forecastLSW"]
 	path = forecastLSW
 	url = https://github.com/cran/forecastLSW
+[submodule "forecastdom"]
+	path = forecastdom
+	url = https://github.com/cran/forecastdom
 [submodule "forecasteR"]
 	path = forecasteR
 	url = https://github.com/cran/forecasteR
@@ -41003,6 +41036,9 @@
 [submodule "heatmapFlex"]
 	path = heatmapFlex
 	url = https://github.com/cran/heatmapFlex
+[submodule "heatmapbehavior"]
+	path = heatmapbehavior
+	url = https://github.com/cran/heatmapbehavior
 [submodule "heatmaply"]
 	path = heatmaply
 	url = https://github.com/cran/heatmaply
@@ -45626,6 +45662,9 @@
 [submodule "live"]
 	path = live
 	url = https://github.com/cran/live
+[submodule "livelink"]
+	path = livelink
+	url = https://github.com/cran/livelink
 [submodule "liver"]
 	path = liver
 	url = https://github.com/cran/liver
@@ -50042,6 +50081,9 @@
 [submodule "multifear"]
 	path = multifear
 	url = https://github.com/cran/multifear
+[submodule "multiflexscan"]
+	path = multiflexscan
+	url = https://github.com/cran/multiflexscan
 [submodule "multifunc"]
 	path = multifunc
 	url = https://github.com/cran/multifunc
@@ -52127,6 +52169,9 @@
 [submodule "obr"]
 	path = obr
 	url = https://github.com/cran/obr
+[submodule "obrasgovr"]
+	path = obrasgovr
+	url = https://github.com/cran/obrasgovr
 [submodule "obsSens"]
 	path = obsSens
 	url = https://github.com/cran/obsSens
@@ -58088,6 +58133,9 @@
 [submodule "ra4bayesmeta"]
 	path = ra4bayesmeta
 	url = https://github.com/cran/ra4bayesmeta
+[submodule "rabhit"]
+	path = rabhit
+	url = https://github.com/cran/rabhit
 [submodule "racademyocean"]
 	path = racademyocean
 	url = https://github.com/cran/racademyocean
@@ -63251,6 +63299,9 @@
 [submodule "semEffect"]
 	path = semEffect
 	url = https://github.com/cran/semEffect
+[submodule "semFromKeys"]
+	path = semFromKeys
+	url = https://github.com/cran/semFromKeys
 [submodule "semPlot"]
 	path = semPlot
 	url = https://github.com/cran/semPlot
@@ -64382,6 +64433,9 @@
 [submodule "silicate"]
 	path = silicate
 	url = https://github.com/cran/silicate
+[submodule "sillysplines"]
+	path = sillysplines
+	url = https://github.com/cran/sillysplines
 [submodule "silp"]
 	path = silp
 	url = https://github.com/cran/silp
@@ -70730,6 +70784,9 @@
 [submodule "tth"]
 	path = tth
 	url = https://github.com/cran/tth
+[submodule "tts.api"]
+	path = tts.api
+	url = https://github.com/cran/tts.api
 [submodule "ttservice"]
 	path = ttservice
 	url = https://github.com/cran/ttservice
