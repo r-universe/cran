@@ -8393,6 +8393,9 @@
 [submodule "IDCard"]
 	path = IDCard
 	url = https://github.com/cran/IDCard
+[submodule "IDConverter"]
+	path = IDConverter
+	url = https://github.com/cran/IDConverter
 [submodule "IDE"]
 	path = IDE
 	url = https://github.com/cran/IDE
