@@ -10043,6 +10043,9 @@
 [submodule "M3JF"]
 	path = M3JF
 	url = https://github.com/cran/M3JF
+[submodule "MAARTS"]
+	path = MAARTS
+	url = https://github.com/cran/MAARTS
 [submodule "MACER"]
 	path = MACER
 	url = https://github.com/cran/MACER
@@ -51884,6 +51887,9 @@
 [submodule "npphen"]
 	path = npphen
 	url = https://github.com/cran/npphen
+[submodule "nprcgenekeepr"]
+	path = nprcgenekeepr
+	url = https://github.com/cran/nprcgenekeepr
 [submodule "npreg"]
 	path = npreg
 	url = https://github.com/cran/npreg
