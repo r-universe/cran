@@ -19859,9 +19859,6 @@
 [submodule "TableMonster"]
 	path = TableMonster
 	url = https://github.com/cran/TableMonster
-[submodule "TableToLongForm"]
-	path = TableToLongForm
-	url = https://github.com/cran/TableToLongForm
 [submodule "TailClassifier"]
 	path = TailClassifier
 	url = https://github.com/cran/TailClassifier
@@ -43679,9 +43676,6 @@
 [submodule "jalcal"]
 	path = jalcal
 	url = https://github.com/cran/jalcal
-[submodule "jamba"]
-	path = jamba
-	url = https://github.com/cran/jamba
 [submodule "janeaustenr"]
 	path = janeaustenr
 	url = https://github.com/cran/janeaustenr
