@@ -25394,6 +25394,9 @@
 [submodule "booklet"]
 	path = booklet
 	url = https://github.com/cran/booklet
+[submodule "boostPM"]
+	path = boostPM
+	url = https://github.com/cran/boostPM
 [submodule "boostingDEA"]
 	path = boostingDEA
 	url = https://github.com/cran/boostingDEA
