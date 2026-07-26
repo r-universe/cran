@@ -56,9 +56,6 @@
 [submodule "ACNE"]
 	path = ACNE
 	url = https://github.com/cran/ACNE
-[submodule "ACSSpack"]
-	path = ACSSpack
-	url = https://github.com/cran/ACSSpack
 [submodule "ACSWR"]
 	path = ACSWR
 	url = https://github.com/cran/ACSWR
@@ -1214,9 +1211,6 @@
 [submodule "BLR"]
 	path = BLR
 	url = https://github.com/cran/BLR
-[submodule "BLRPM"]
-	path = BLRPM
-	url = https://github.com/cran/BLRPM
 [submodule "BLRShiny"]
 	path = BLRShiny
 	url = https://github.com/cran/BLRShiny
@@ -1547,9 +1541,6 @@
 [submodule "BayesForge"]
 	path = BayesForge
 	url = https://github.com/cran/BayesForge
-[submodule "BayesGOF"]
-	path = BayesGOF
-	url = https://github.com/cran/BayesGOF
 [submodule "BayesGP"]
 	path = BayesGP
 	url = https://github.com/cran/BayesGP
@@ -5141,9 +5132,6 @@
 [submodule "EEML"]
 	path = EEML
 	url = https://github.com/cran/EEML
-[submodule "EESPCA"]
-	path = EESPCA
-	url = https://github.com/cran/EESPCA
 [submodule "EFA.MRFA"]
 	path = EFA.MRFA
 	url = https://github.com/cran/EFA.MRFA
@@ -7781,9 +7769,6 @@
 [submodule "HDCD"]
 	path = HDCD
 	url = https://github.com/cran/HDCD
-[submodule "HDCI"]
-	path = HDCI
-	url = https://github.com/cran/HDCI
 [submodule "HDCurves"]
 	path = HDCurves
 	url = https://github.com/cran/HDCurves
@@ -9614,9 +9599,6 @@
 [submodule "LPM"]
 	path = LPM
 	url = https://github.com/cran/LPM
-[submodule "LPRelevance"]
-	path = LPRelevance
-	url = https://github.com/cran/LPRelevance
 [submodule "LPStimeSeries"]
 	path = LPStimeSeries
 	url = https://github.com/cran/LPStimeSeries
@@ -13250,9 +13232,6 @@
 [submodule "PLIS"]
 	path = PLIS
 	url = https://github.com/cran/PLIS
-[submodule "PLMIX"]
-	path = PLMIX
-	url = https://github.com/cran/PLMIX
 [submodule "PLNmodels"]
 	path = PLNmodels
 	url = https://github.com/cran/PLNmodels
@@ -13529,9 +13508,6 @@
 [submodule "PSRICalcSM"]
 	path = PSRICalcSM
 	url = https://github.com/cran/PSRICalcSM
-[submodule "PSS.Health"]
-	path = PSS.Health
-	url = https://github.com/cran/PSS.Health
 [submodule "PSSIM"]
 	path = PSSIM
 	url = https://github.com/cran/PSSIM
@@ -35510,9 +35486,6 @@
 [submodule "fastrmodels"]
 	path = fastrmodels
 	url = https://github.com/cran/fastrmodels
-[submodule "fastshap"]
-	path = fastshap
-	url = https://github.com/cran/fastshap
 [submodule "fasttime"]
 	path = fasttime
 	url = https://github.com/cran/fasttime
@@ -36608,9 +36581,6 @@
 [submodule "forcis"]
 	path = forcis
 	url = https://github.com/cran/forcis
-[submodule "foreSIGHT"]
-	path = foreSIGHT
-	url = https://github.com/cran/foreSIGHT
 [submodule "foreach"]
 	path = foreach
 	url = https://github.com/cran/foreach
@@ -40274,9 +40244,6 @@
 [submodule "groundhog"]
 	path = groundhog
 	url = https://github.com/cran/groundhog
-[submodule "groupICA"]
-	path = groupICA
-	url = https://github.com/cran/groupICA
 [submodule "groupWQS"]
 	path = groupWQS
 	url = https://github.com/cran/groupWQS
@@ -43586,9 +43553,6 @@
 [submodule "itscalledsoccer"]
 	path = itscalledsoccer
 	url = https://github.com/cran/itscalledsoccer
-[submodule "itsdm"]
-	path = itsdm
-	url = https://github.com/cran/itsdm
 [submodule "itsmr"]
 	path = itsmr
 	url = https://github.com/cran/itsmr
@@ -56189,9 +56153,6 @@
 [submodule "presentes"]
 	path = presentes
 	url = https://github.com/cran/presentes
-[submodule "preseqR"]
-	path = preseqR
-	url = https://github.com/cran/preseqR
 [submodule "presize"]
 	path = presize
 	url = https://github.com/cran/presize
@@ -57011,9 +56972,6 @@
 [submodule "pwr"]
 	path = pwr
 	url = https://github.com/cran/pwr
-[submodule "pwr2"]
-	path = pwr2
-	url = https://github.com/cran/pwr2
 [submodule "pwr2ppl"]
 	path = pwr2ppl
 	url = https://github.com/cran/pwr2ppl
@@ -58163,9 +58121,6 @@
 [submodule "radarBoxplot"]
 	path = radarBoxplot
 	url = https://github.com/cran/radarBoxplot
-[submodule "radarchart"]
-	path = radarchart
-	url = https://github.com/cran/radarchart
 [submodule "radiant"]
 	path = radiant
 	url = https://github.com/cran/radiant
@@ -60302,9 +60257,6 @@
 [submodule "riemtan"]
 	path = riemtan
 	url = https://github.com/cran/riemtan
-[submodule "rifle"]
-	path = rifle
-	url = https://github.com/cran/rifle
 [submodule "rifreg"]
 	path = rifreg
 	url = https://github.com/cran/rifreg
