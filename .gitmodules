@@ -43685,9 +43685,6 @@
 [submodule "jalcal"]
 	path = jalcal
 	url = https://github.com/cran/jalcal
-[submodule "jamba"]
-	path = jamba
-	url = https://github.com/cran/jamba
 [submodule "janeaustenr"]
 	path = janeaustenr
 	url = https://github.com/cran/janeaustenr
