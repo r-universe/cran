@@ -10946,6 +10946,9 @@
 [submodule "MVET"]
 	path = MVET
 	url = https://github.com/cran/MVET
+[submodule "MVLs"]
+	path = MVLs
+	url = https://github.com/cran/MVLs
 [submodule "MVN"]
 	path = MVN
 	url = https://github.com/cran/MVN
@@ -20006,6 +20009,9 @@
 [submodule "TexExamRandomizer"]
 	path = TexExamRandomizer
 	url = https://github.com/cran/TexExamRandomizer
+[submodule "TextAnalysisR"]
+	path = TextAnalysisR
+	url = https://github.com/cran/TextAnalysisR
 [submodule "TextMiningGUI"]
 	path = TextMiningGUI
 	url = https://github.com/cran/TextMiningGUI
@@ -40772,6 +40778,9 @@
 [submodule "hashr"]
 	path = hashr
 	url = https://github.com/cran/hashr
+[submodule "hashtable"]
+	path = hashtable
+	url = https://github.com/cran/hashtable
 [submodule "hassediagrams"]
 	path = hassediagrams
 	url = https://github.com/cran/hassediagrams
@@ -55784,6 +55793,9 @@
 [submodule "postpack"]
 	path = postpack
 	url = https://github.com/cran/postpack
+[submodule "postshock"]
+	path = postshock
+	url = https://github.com/cran/postshock
 [submodule "potential"]
 	path = potential
 	url = https://github.com/cran/potential
