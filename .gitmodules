@@ -42029,9 +42029,6 @@
 [submodule "iNZightTS"]
 	path = iNZightTS
 	url = https://github.com/cran/iNZightTS
-[submodule "iNZightTools"]
-	path = iNZightTools
-	url = https://github.com/cran/iNZightTools
 [submodule "iPRISM"]
 	path = iPRISM
 	url = https://github.com/cran/iPRISM
