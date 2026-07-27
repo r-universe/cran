@@ -43685,6 +43685,9 @@
 [submodule "jalcal"]
 	path = jalcal
 	url = https://github.com/cran/jalcal
+[submodule "jamba"]
+	path = jamba
+	url = https://github.com/cran/jamba
 [submodule "janeaustenr"]
 	path = janeaustenr
 	url = https://github.com/cran/janeaustenr
@@ -46973,9 +46976,6 @@
 [submodule "matRiks"]
 	path = matRiks
 	url = https://github.com/cran/matRiks
-[submodule "matahari"]
-	path = matahari
-	url = https://github.com/cran/matahari
 [submodule "matchFeat"]
 	path = matchFeat
 	url = https://github.com/cran/matchFeat
@@ -57905,9 +57905,6 @@
 [submodule "rGV"]
 	path = rGV
 	url = https://github.com/cran/rGV
-[submodule "rGhanaCensus"]
-	path = rGhanaCensus
-	url = https://github.com/cran/rGhanaCensus
 [submodule "rGroovy"]
 	path = rGroovy
 	url = https://github.com/cran/rGroovy
@@ -61448,9 +61445,6 @@
 [submodule "rsamplr"]
 	path = rsamplr
 	url = https://github.com/cran/rsamplr
-[submodule "rsat"]
-	path = rsat
-	url = https://github.com/cran/rsat
 [submodule "rsatscan"]
 	path = rsatscan
 	url = https://github.com/cran/rsatscan
@@ -72416,9 +72410,6 @@
 [submodule "waterfalls"]
 	path = waterfalls
 	url = https://github.com/cran/waterfalls
-[submodule "waterquality"]
-	path = waterquality
-	url = https://github.com/cran/waterquality
 [submodule "watson"]
 	path = watson
 	url = https://github.com/cran/watson
@@ -72707,9 +72698,6 @@
 [submodule "wget"]
 	path = wget
 	url = https://github.com/cran/wget
-[submodule "whSample"]
-	path = whSample
-	url = https://github.com/cran/whSample
 [submodule "whalestrike"]
 	path = whalestrike
 	url = https://github.com/cran/whalestrike
