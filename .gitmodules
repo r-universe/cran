@@ -72815,6 +72815,9 @@
 [submodule "wildpoker"]
 	path = wildpoker
 	url = https://github.com/cran/wildpoker
+[submodule "wilson"]
+	path = wilson
+	url = https://github.com/cran/wilson
 [submodule "winch"]
 	path = winch
 	url = https://github.com/cran/winch
