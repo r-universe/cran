@@ -55748,6 +55748,9 @@
 [submodule "posologyr"]
 	path = posologyr
 	url = https://github.com/cran/posologyr
+[submodule "possum"]
+	path = possum
+	url = https://github.com/cran/possum
 [submodule "postGGIR"]
 	path = postGGIR
 	url = https://github.com/cran/postGGIR
