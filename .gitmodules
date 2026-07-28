@@ -11006,12 +11006,6 @@
 [submodule "MacroZooBenthosWaterA"]
 	path = MacroZooBenthosWaterA
 	url = https://github.com/cran/MacroZooBenthosWaterA
-[submodule "MadanText"]
-	path = MadanText
-	url = https://github.com/cran/MadanText
-[submodule "MadanTextNetwork"]
-	path = MadanTextNetwork
-	url = https://github.com/cran/MadanTextNetwork
 [submodule "MaddisonData"]
 	path = MaddisonData
 	url = https://github.com/cran/MaddisonData
@@ -13817,9 +13811,6 @@
 [submodule "PermutationR"]
 	path = PermutationR
 	url = https://github.com/cran/PermutationR
-[submodule "PersianStemmer"]
-	path = PersianStemmer
-	url = https://github.com/cran/PersianStemmer
 [submodule "PersomicsArray"]
 	path = PersomicsArray
 	url = https://github.com/cran/PersomicsArray
@@ -15746,9 +15737,6 @@
 [submodule "RSEIS"]
 	path = RSEIS
 	url = https://github.com/cran/RSEIS
-[submodule "RSGHB"]
-	path = RSGHB
-	url = https://github.com/cran/RSGHB
 [submodule "RSKC"]
 	path = RSKC
 	url = https://github.com/cran/RSKC
@@ -58682,9 +58670,6 @@
 [submodule "rbreak"]
 	path = rbreak
 	url = https://github.com/cran/rbreak
-[submodule "rbrsa"]
-	path = rbrsa
-	url = https://github.com/cran/rbrsa
 [submodule "rbscCI"]
 	path = rbscCI
 	url = https://github.com/cran/rbscCI
