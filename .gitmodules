@@ -61769,9 +61769,6 @@
 [submodule "rticulate"]
 	path = rticulate
 	url = https://github.com/cran/rticulate
-[submodule "rtiddlywiki"]
-	path = rtiddlywiki
-	url = https://github.com/cran/rtiddlywiki
 [submodule "rtide"]
 	path = rtide
 	url = https://github.com/cran/rtide
