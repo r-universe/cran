@@ -25811,6 +25811,9 @@
 [submodule "brotli"]
 	path = brotli
 	url = https://github.com/cran/brotli
+[submodule "brpop"]
+	path = brpop
+	url = https://github.com/cran/brpop
 [submodule "brsim"]
 	path = brsim
 	url = https://github.com/cran/brsim
@@ -28520,6 +28523,9 @@
 [submodule "combiter"]
 	path = combiter
 	url = https://github.com/cran/combiter
+[submodule "combreg"]
+	path = combreg
+	url = https://github.com/cran/combreg
 [submodule "combss"]
 	path = combss
 	url = https://github.com/cran/combss
@@ -64298,6 +64304,9 @@
 [submodule "shinyr"]
 	path = shinyr
 	url = https://github.com/cran/shinyr
+[submodule "shinyrecap"]
+	path = shinyrecap
+	url = https://github.com/cran/shinyrecap
 [submodule "shinyrecipes"]
 	path = shinyrecipes
 	url = https://github.com/cran/shinyrecipes
