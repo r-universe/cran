@@ -1046,6 +1046,9 @@
 [submodule "BDgraph"]
 	path = BDgraph
 	url = https://github.com/cran/BDgraph
+[submodule "BE"]
+	path = BE
+	url = https://github.com/cran/BE
 [submodule "BEACH"]
 	path = BEACH
 	url = https://github.com/cran/BEACH
@@ -29909,6 +29912,9 @@
 [submodule "csemGT"]
 	path = csemGT
 	url = https://github.com/cran/csemGT
+[submodule "csemTools"]
+	path = csemTools
+	url = https://github.com/cran/csemTools
 [submodule "cshapes"]
 	path = cshapes
 	url = https://github.com/cran/cshapes
@@ -48221,6 +48227,9 @@
 [submodule "microbiomeMQC"]
 	path = microbiomeMQC
 	url = https://github.com/cran/microbiomeMQC
+[submodule "microdatasus"]
+	path = microdatasus
+	url = https://github.com/cran/microdatasus
 [submodule "microdiluteR"]
 	path = microdiluteR
 	url = https://github.com/cran/microdiluteR
@@ -51020,6 +51029,9 @@
 [submodule "netmhc2pan"]
 	path = netmhc2pan
 	url = https://github.com/cran/netmhc2pan
+[submodule "netpanel"]
+	path = netpanel
+	url = https://github.com/cran/netpanel
 [submodule "netplot"]
 	path = netplot
 	url = https://github.com/cran/netplot
@@ -67457,6 +67469,9 @@
 [submodule "substackR"]
 	path = substackR
 	url = https://github.com/cran/substackR
+[submodule "subtitles"]
+	path = subtitles
+	url = https://github.com/cran/subtitles
 [submodule "subtools"]
 	path = subtools
 	url = https://github.com/cran/subtools
@@ -70457,6 +70472,9 @@
 [submodule "triact"]
 	path = triact
 	url = https://github.com/cran/triact
+[submodule "triageR"]
+	path = triageR
+	url = https://github.com/cran/triageR
 [submodule "trialr"]
 	path = trialr
 	url = https://github.com/cran/trialr
