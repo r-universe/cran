@@ -626,6 +626,9 @@
 [submodule "AlphaPart"]
 	path = AlphaPart
 	url = https://github.com/cran/AlphaPart
+[submodule "AlphaPowerHazard"]
+	path = AlphaPowerHazard
+	url = https://github.com/cran/AlphaPowerHazard
 [submodule "AlphaSimR"]
 	path = AlphaSimR
 	url = https://github.com/cran/AlphaSimR
@@ -983,6 +986,9 @@
 [submodule "BB"]
 	path = BB
 	url = https://github.com/cran/BB
+[submodule "BBC"]
+	path = BBC
+	url = https://github.com/cran/BBC
 [submodule "BBEST"]
 	path = BBEST
 	url = https://github.com/cran/BBEST
@@ -6263,6 +6269,9 @@
 [submodule "FamEvent"]
 	path = FamEvent
 	url = https://github.com/cran/FamEvent
+[submodule "Familia"]
+	path = Familia
+	url = https://github.com/cran/Familia
 [submodule "Familias"]
 	path = Familias
 	url = https://github.com/cran/Familias
@@ -11621,6 +11630,9 @@
 [submodule "MortalityTables"]
 	path = MortalityTables
 	url = https://github.com/cran/MortalityTables
+[submodule "MosaiClusteR"]
+	path = MosaiClusteR
+	url = https://github.com/cran/MosaiClusteR
 [submodule "MplusAutomation"]
 	path = MplusAutomation
 	url = https://github.com/cran/MplusAutomation
@@ -18089,6 +18101,9 @@
 [submodule "STAREG"]
 	path = STAREG
 	url = https://github.com/cran/STAREG
+[submodule "STARRS"]
+	path = STARRS
+	url = https://github.com/cran/STARRS
 [submodule "STARTS"]
 	path = STARTS
 	url = https://github.com/cran/STARTS
@@ -18473,6 +18488,9 @@
 [submodule "ShiftConvolvePoibin"]
 	path = ShiftConvolvePoibin
 	url = https://github.com/cran/ShiftConvolvePoibin
+[submodule "ShiftHappens"]
+	path = ShiftHappens
+	url = https://github.com/cran/ShiftHappens
 [submodule "ShiftShareSE"]
 	path = ShiftShareSE
 	url = https://github.com/cran/ShiftShareSE
@@ -21608,6 +21626,9 @@
 [submodule "actfts"]
 	path = actfts
 	url = https://github.com/cran/actfts
+[submodule "actiRhythm"]
+	path = actiRhythm
+	url = https://github.com/cran/actiRhythm
 [submodule "actibase"]
 	path = actibase
 	url = https://github.com/cran/actibase
@@ -27422,6 +27443,9 @@
 [submodule "circacompare"]
 	path = circacompare
 	url = https://github.com/cran/circacompare
+[submodule "circda"]
+	path = circda
+	url = https://github.com/cran/circda
 [submodule "circhelp"]
 	path = circhelp
 	url = https://github.com/cran/circhelp
@@ -36416,6 +36440,9 @@
 [submodule "flood"]
 	path = flood
 	url = https://github.com/cran/flood
+[submodule "floodflow"]
+	path = floodflow
+	url = https://github.com/cran/floodflow
 [submodule "flora"]
 	path = flora
 	url = https://github.com/cran/flora
@@ -37199,6 +37226,9 @@
 [submodule "funStatTest"]
 	path = funStatTest
 	url = https://github.com/cran/funStatTest
+[submodule "funbiogeo"]
+	path = funbiogeo
+	url = https://github.com/cran/funbiogeo
 [submodule "funbootband"]
 	path = funbootband
 	url = https://github.com/cran/funbootband
@@ -44555,6 +44585,9 @@
 [submodule "kollaR"]
 	path = kollaR
 	url = https://github.com/cran/kollaR
+[submodule "koma"]
+	path = koma
+	url = https://github.com/cran/koma
 [submodule "komaletter"]
 	path = komaletter
 	url = https://github.com/cran/komaletter
@@ -45146,6 +45179,9 @@
 [submodule "leafwax"]
 	path = leafwax
 	url = https://github.com/cran/leafwax
+[submodule "leakaudit"]
+	path = leakaudit
+	url = https://github.com/cran/leakaudit
 [submodule "leakr"]
 	path = leakr
 	url = https://github.com/cran/leakr
@@ -47603,6 +47639,9 @@
 [submodule "mellio"]
 	path = mellio
 	url = https://github.com/cran/mellio
+[submodule "melodi"]
+	path = melodi
+	url = https://github.com/cran/melodi
 [submodule "melt"]
 	path = melt
 	url = https://github.com/cran/melt
@@ -48122,6 +48161,9 @@
 [submodule "mhsmm"]
 	path = mhsmm
 	url = https://github.com/cran/mhsmm
+[submodule "mhtopt"]
+	path = mhtopt
+	url = https://github.com/cran/mhtopt
 [submodule "mhurdle"]
 	path = mhurdle
 	url = https://github.com/cran/mhurdle
@@ -66284,6 +66326,9 @@
 [submodule "splitstackshape"]
 	path = splitstackshape
 	url = https://github.com/cran/splitstackshape
+[submodule "spliv"]
+	path = spliv
+	url = https://github.com/cran/spliv
 [submodule "splm"]
 	path = splm
 	url = https://github.com/cran/splm
