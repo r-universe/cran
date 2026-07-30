@@ -1190,6 +1190,9 @@
 [submodule "BJM"]
 	path = BJM
 	url = https://github.com/cran/BJM
+[submodule "BKBreed"]
+	path = BKBreed
+	url = https://github.com/cran/BKBreed
 [submodule "BKP"]
 	path = BKP
 	url = https://github.com/cran/BKP
@@ -7634,6 +7637,9 @@
 [submodule "GofCens"]
 	path = GofCens
 	url = https://github.com/cran/GofCens
+[submodule "GoldenVizR"]
+	path = GoldenVizR
+	url = https://github.com/cran/GoldenVizR
 [submodule "GomoGomonoMi"]
 	path = GomoGomonoMi
 	url = https://github.com/cran/GomoGomonoMi
@@ -24911,6 +24917,9 @@
 [submodule "biocharkit"]
 	path = biocharkit
 	url = https://github.com/cran/biocharkit
+[submodule "biocharkitgui"]
+	path = biocharkitgui
+	url = https://github.com/cran/biocharkitgui
 [submodule "bioclim"]
 	path = bioclim
 	url = https://github.com/cran/bioclim
@@ -34820,6 +34829,9 @@
 [submodule "exiftoolr"]
 	path = exiftoolr
 	url = https://github.com/cran/exiftoolr
+[submodule "exmort"]
+	path = exmort
+	url = https://github.com/cran/exmort
 [submodule "exoplanetdata"]
 	path = exoplanetdata
 	url = https://github.com/cran/exoplanetdata
@@ -49283,6 +49295,9 @@
 [submodule "modelc"]
 	path = modelc
 	url = https://github.com/cran/modelc
+[submodule "modelcardr"]
+	path = modelcardr
+	url = https://github.com/cran/modelcardr
 [submodule "modeldata"]
 	path = modeldata
 	url = https://github.com/cran/modeldata
@@ -52748,6 +52763,9 @@
 [submodule "openintro"]
 	path = openintro
 	url = https://github.com/cran/openintro
+[submodule "openlineage"]
+	path = openlineage
+	url = https://github.com/cran/openlineage
 [submodule "openmetrics"]
 	path = openmetrics
 	url = https://github.com/cran/openmetrics
@@ -63893,6 +63911,9 @@
 [submodule "shapley"]
 	path = shapley
 	url = https://github.com/cran/shapley
+[submodule "shapleyHALE"]
+	path = shapleyHALE
+	url = https://github.com/cran/shapleyHALE
 [submodule "shapper"]
 	path = shapper
 	url = https://github.com/cran/shapper
