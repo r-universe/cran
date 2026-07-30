@@ -58433,6 +58433,9 @@
 [submodule "randcorr"]
 	path = randcorr
 	url = https://github.com/cran/randcorr
+[submodule "randelves"]
+	path = randelves
+	url = https://github.com/cran/randelves
 [submodule "randgeo"]
 	path = randgeo
 	url = https://github.com/cran/randgeo
