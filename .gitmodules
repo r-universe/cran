@@ -512,6 +512,9 @@
 [submodule "AdaptiveBoxplot"]
 	path = AdaptiveBoxplot
 	url = https://github.com/cran/AdaptiveBoxplot
+[submodule "AdaptiveTrialsR"]
+	path = AdaptiveTrialsR
+	url = https://github.com/cran/AdaptiveTrialsR
 [submodule "AddiVortes"]
 	path = AddiVortes
 	url = https://github.com/cran/AddiVortes
@@ -4499,6 +4502,9 @@
 [submodule "DVHmetrics"]
 	path = DVHmetrics
 	url = https://github.com/cran/DVHmetrics
+[submodule "DVS"]
+	path = DVS
+	url = https://github.com/cran/DVS
 [submodule "DWBmodelUN"]
 	path = DWBmodelUN
 	url = https://github.com/cran/DWBmodelUN
@@ -6521,6 +6527,9 @@
 [submodule "ForagingOrg"]
 	path = ForagingOrg
 	url = https://github.com/cran/ForagingOrg
+[submodule "ForceChoice"]
+	path = ForceChoice
+	url = https://github.com/cran/ForceChoice
 [submodule "ForeCA"]
 	path = ForeCA
 	url = https://github.com/cran/ForeCA
@@ -7751,6 +7760,9 @@
 [submodule "HAMMER"]
 	path = HAMMER
 	url = https://github.com/cran/HAMMER
+[submodule "HAPTRACE"]
+	path = HAPTRACE
+	url = https://github.com/cran/HAPTRACE
 [submodule "HARplus"]
 	path = HARplus
 	url = https://github.com/cran/HARplus
@@ -12746,6 +12758,9 @@
 [submodule "OofAExp"]
 	path = OofAExp
 	url = https://github.com/cran/OofAExp
+[submodule "OpEnCAMeO"]
+	path = OpEnCAMeO
+	url = https://github.com/cran/OpEnCAMeO
 [submodule "OpEnCAST"]
 	path = OpEnCAST
 	url = https://github.com/cran/OpEnCAST
@@ -19196,6 +19211,9 @@
 [submodule "StochBlock"]
 	path = StochBlock
 	url = https://github.com/cran/StochBlock
+[submodule "StochFracPoisson"]
+	path = StochFracPoisson
+	url = https://github.com/cran/StochFracPoisson
 [submodule "StochSimR"]
 	path = StochSimR
 	url = https://github.com/cran/StochSimR
@@ -20714,6 +20732,9 @@
 [submodule "VMDecomp"]
 	path = VMDecomp
 	url = https://github.com/cran/VMDecomp
+[submodule "VNDesign"]
+	path = VNDesign
+	url = https://github.com/cran/VNDesign
 [submodule "VOSONDash"]
 	path = VOSONDash
 	url = https://github.com/cran/VOSONDash
@@ -23138,6 +23159,9 @@
 [submodule "asbio"]
 	path = asbio
 	url = https://github.com/cran/asbio
+[submodule "ascent"]
+	path = ascent
+	url = https://github.com/cran/ascent
 [submodule "ascii"]
 	path = ascii
 	url = https://github.com/cran/ascii
@@ -26528,6 +26552,9 @@
 [submodule "cata"]
 	path = cata
 	url = https://github.com/cran/cata
+[submodule "cataScience"]
+	path = cataScience
+	url = https://github.com/cran/cataScience
 [submodule "catalog"]
 	path = catalog
 	url = https://github.com/cran/catalog
@@ -32864,6 +32891,9 @@
 [submodule "dySEM"]
 	path = dySEM
 	url = https://github.com/cran/dySEM
+[submodule "dyadMLM"]
+	path = dyadMLM
+	url = https://github.com/cran/dyadMLM
 [submodule "dyadicMarkov"]
 	path = dyadicMarkov
 	url = https://github.com/cran/dyadicMarkov
@@ -33974,6 +34004,9 @@
 [submodule "enetLTS"]
 	path = enetLTS
 	url = https://github.com/cran/enetLTS
+[submodule "engager"]
+	path = engager
+	url = https://github.com/cran/engager
 [submodule "english"]
 	path = english
 	url = https://github.com/cran/english
@@ -39842,6 +39875,9 @@
 [submodule "gofigR"]
 	path = gofigR
 	url = https://github.com/cran/gofigR
+[submodule "gofmalm"]
+	path = gofmalm
+	url = https://github.com/cran/gofmalm
 [submodule "gofreg"]
 	path = gofreg
 	url = https://github.com/cran/gofreg
@@ -39977,6 +40013,12 @@
 [submodule "gp"]
 	path = gp
 	url = https://github.com/cran/gp
+[submodule "gp3ml"]
+	path = gp3ml
+	url = https://github.com/cran/gp3ml
+[submodule "gp3sequences"]
+	path = gp3sequences
+	url = https://github.com/cran/gp3sequences
 [submodule "gp3tools"]
 	path = gp3tools
 	url = https://github.com/cran/gp3tools
@@ -44666,6 +44708,9 @@
 [submodule "ksNN"]
 	path = ksNN
 	url = https://github.com/cran/ksNN
+[submodule "ksamplesLTRC"]
+	path = ksamplesLTRC
+	url = https://github.com/cran/ksamplesLTRC
 [submodule "kselection"]
 	path = kselection
 	url = https://github.com/cran/kselection
@@ -54158,6 +54203,9 @@
 [submodule "pcreg"]
 	path = pcreg
 	url = https://github.com/cran/pcreg
+[submodule "pcsclr"]
+	path = pcsclr
+	url = https://github.com/cran/pcsclr
 [submodule "pcse"]
 	path = pcse
 	url = https://github.com/cran/pcse
@@ -54953,6 +55001,9 @@
 [submodule "piecewiseSEM"]
 	path = piecewiseSEM
 	url = https://github.com/cran/piecewiseSEM
+[submodule "pigauto"]
+	path = pigauto
+	url = https://github.com/cran/pigauto
 [submodule "piggyback"]
 	path = piggyback
 	url = https://github.com/cran/piggyback
@@ -56915,6 +56966,9 @@
 [submodule "psychmeta"]
 	path = psychmeta
 	url = https://github.com/cran/psychmeta
+[submodule "psychnets"]
+	path = psychnets
+	url = https://github.com/cran/psychnets
 [submodule "psycho"]
 	path = psycho
 	url = https://github.com/cran/psycho
@@ -64607,6 +64661,9 @@
 [submodule "simOutrank"]
 	path = simOutrank
 	url = https://github.com/cran/simOutrank
+[submodule "simPDF"]
+	path = simPDF
+	url = https://github.com/cran/simPDF
 [submodule "simPH"]
 	path = simPH
 	url = https://github.com/cran/simPH
