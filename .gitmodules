@@ -37223,6 +37223,9 @@
 [submodule "funIHC"]
 	path = funIHC
 	url = https://github.com/cran/funIHC
+[submodule "funLBM"]
+	path = funLBM
+	url = https://github.com/cran/funLBM
 [submodule "funMoDisco"]
 	path = funMoDisco
 	url = https://github.com/cran/funMoDisco
@@ -39023,6 +39026,9 @@
 [submodule "ggprism"]
 	path = ggprism
 	url = https://github.com/cran/ggprism
+[submodule "ggpsychro"]
+	path = ggpsychro
+	url = https://github.com/cran/ggpsychro
 [submodule "ggpubr"]
 	path = ggpubr
 	url = https://github.com/cran/ggpubr
@@ -55145,6 +55151,9 @@
 [submodule "pkpd.Release"]
 	path = pkpd.Release
 	url = https://github.com/cran/pkpd.Release
+[submodule "pkr"]
+	path = pkr
+	url = https://github.com/cran/pkr
 [submodule "pks"]
 	path = pks
 	url = https://github.com/cran/pks
@@ -58574,6 +58583,9 @@
 [submodule "rarms"]
 	path = rarms
 	url = https://github.com/cran/rarms
+[submodule "rasch"]
+	path = rasch
+	url = https://github.com/cran/rasch
 [submodule "rasciidoc"]
 	path = rasciidoc
 	url = https://github.com/cran/rasciidoc
