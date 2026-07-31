@@ -52487,6 +52487,9 @@
 [submodule "olsrr"]
 	path = olsrr
 	url = https://github.com/cran/olsrr
+[submodule "olympicAthletes"]
+	path = olympicAthletes
+	url = https://github.com/cran/olympicAthletes
 [submodule "omicsTools"]
 	path = omicsTools
 	url = https://github.com/cran/omicsTools
@@ -59522,6 +59525,9 @@
 [submodule "regMMD"]
 	path = regMMD
 	url = https://github.com/cran/regMMD
+[submodule "regMR"]
+	path = regMR
+	url = https://github.com/cran/regMR
 [submodule "regRSM"]
 	path = regRSM
 	url = https://github.com/cran/regRSM
