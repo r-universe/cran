@@ -29492,6 +29492,9 @@
 [submodule "coxme"]
 	path = coxme
 	url = https://github.com/cran/coxme
+[submodule "coxmnar"]
+	path = coxmnar
+	url = https://github.com/cran/coxmnar
 [submodule "coxphSGD"]
 	path = coxphSGD
 	url = https://github.com/cran/coxphSGD
@@ -34034,6 +34037,9 @@
 [submodule "envalysis"]
 	path = envalysis
 	url = https://github.com/cran/envalysis
+[submodule "envar"]
+	path = envar
+	url = https://github.com/cran/envar
 [submodule "enveomics.R"]
 	path = enveomics.R
 	url = https://github.com/cran/enveomics.R
