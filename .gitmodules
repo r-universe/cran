@@ -59879,6 +59879,9 @@
 [submodule "reptiledb.data"]
 	path = reptiledb.data
 	url = https://github.com/cran/reptiledb.data
+[submodule "reptiledbr"]
+	path = reptiledbr
+	url = https://github.com/cran/reptiledbr
 [submodule "repurrrsive"]
 	path = repurrrsive
 	url = https://github.com/cran/repurrrsive
