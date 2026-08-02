@@ -7643,6 +7643,9 @@
 [submodule "GofCens"]
 	path = GofCens
 	url = https://github.com/cran/GofCens
+[submodule "Gofpt2"]
+	path = Gofpt2
+	url = https://github.com/cran/Gofpt2
 [submodule "GoldenVizR"]
 	path = GoldenVizR
 	url = https://github.com/cran/GoldenVizR
