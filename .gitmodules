@@ -4244,6 +4244,9 @@
 [submodule "DMRnet"]
 	path = DMRnet
 	url = https://github.com/cran/DMRnet
+[submodule "DMSTAr"]
+	path = DMSTAr
+	url = https://github.com/cran/DMSTAr
 [submodule "DMtest"]
 	path = DMtest
 	url = https://github.com/cran/DMtest
@@ -19844,6 +19847,9 @@
 [submodule "TTCA"]
 	path = TTCA
 	url = https://github.com/cran/TTCA
+[submodule "TTE"]
+	path = TTE
+	url = https://github.com/cran/TTE
 [submodule "TTR"]
 	path = TTR
 	url = https://github.com/cran/TTR
@@ -27836,6 +27842,9 @@
 [submodule "clordr"]
 	path = clordr
 	url = https://github.com/cran/clordr
+[submodule "closecity"]
+	path = closecity
+	url = https://github.com/cran/closecity
 [submodule "closeloop"]
 	path = closeloop
 	url = https://github.com/cran/closeloop
@@ -43409,6 +43418,9 @@
 [submodule "irg"]
 	path = irg
 	url = https://github.com/cran/irg
+[submodule "irid"]
+	path = irid
+	url = https://github.com/cran/irid
 [submodule "irlba"]
 	path = irlba
 	url = https://github.com/cran/irlba
@@ -50408,6 +50420,9 @@
 [submodule "mutationtypes"]
 	path = mutationtypes
 	url = https://github.com/cran/mutationtypes
+[submodule "mutator"]
+	path = mutator
+	url = https://github.com/cran/mutator
 [submodule "mutoss"]
 	path = mutoss
 	url = https://github.com/cran/mutoss
