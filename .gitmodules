@@ -10043,6 +10043,9 @@
 [submodule "LongDecompHE"]
 	path = LongDecompHE
 	url = https://github.com/cran/LongDecompHE
+[submodule "LongitudinalEvalue"]
+	path = LongitudinalEvalue
+	url = https://github.com/cran/LongitudinalEvalue
 [submodule "LoopAnalyst"]
 	path = LoopAnalyst
 	url = https://github.com/cran/LoopAnalyst
@@ -14267,6 +14270,9 @@
 [submodule "ProcMod"]
 	path = ProcMod
 	url = https://github.com/cran/ProcMod
+[submodule "ProcessCapabilityR"]
+	path = ProcessCapabilityR
+	url = https://github.com/cran/ProcessCapabilityR
 [submodule "ProduceR"]
 	path = ProduceR
 	url = https://github.com/cran/ProduceR
@@ -31352,6 +31358,9 @@
 [submodule "depthTools"]
 	path = depthTools
 	url = https://github.com/cran/depthTools
+[submodule "deriva"]
+	path = deriva
+	url = https://github.com/cran/deriva
 [submodule "derivmkts"]
 	path = derivmkts
 	url = https://github.com/cran/derivmkts
@@ -42416,6 +42425,9 @@
 [submodule "idiogramFISH"]
 	path = idiogramFISH
 	url = https://github.com/cran/idiogramFISH
+[submodule "idiographic"]
+	path = idiographic
+	url = https://github.com/cran/idiographic
 [submodule "idiolect"]
 	path = idiolect
 	url = https://github.com/cran/idiolect
@@ -46742,6 +46754,9 @@
 [submodule "mallet"]
 	path = mallet
 	url = https://github.com/cran/mallet
+[submodule "malp"]
+	path = malp
+	url = https://github.com/cran/malp
 [submodule "malvinas"]
 	path = malvinas
 	url = https://github.com/cran/malvinas
@@ -47438,6 +47453,9 @@
 [submodule "mcparallelDo"]
 	path = mcparallelDo
 	url = https://github.com/cran/mcparallelDo
+[submodule "mcplite"]
+	path = mcplite
+	url = https://github.com/cran/mcplite
 [submodule "mcprofile"]
 	path = mcprofile
 	url = https://github.com/cran/mcprofile
@@ -51185,6 +51203,9 @@
 [submodule "neuralnetwork"]
 	path = neuralnetwork
 	url = https://github.com/cran/neuralnetwork
+[submodule "neuralsbi"]
+	path = neuralsbi
+	url = https://github.com/cran/neuralsbi
 [submodule "neuroSCC"]
 	path = neuroSCC
 	url = https://github.com/cran/neuroSCC
@@ -53648,6 +53669,9 @@
 [submodule "panelSUR"]
 	path = panelSUR
 	url = https://github.com/cran/panelSUR
+[submodule "panelTool"]
+	path = panelTool
+	url = https://github.com/cran/panelTool
 [submodule "panelView"]
 	path = panelView
 	url = https://github.com/cran/panelView
@@ -64508,6 +64532,9 @@
 [submodule "sigInt"]
 	path = sigInt
 	url = https://github.com/cran/sigInt
+[submodule "sigPCA"]
+	path = sigPCA
+	url = https://github.com/cran/sigPCA
 [submodule "sigclust"]
 	path = sigclust
 	url = https://github.com/cran/sigclust
@@ -65594,6 +65621,9 @@
 [submodule "sonar"]
 	path = sonar
 	url = https://github.com/cran/sonar
+[submodule "sondage"]
+	path = sondage
+	url = https://github.com/cran/sondage
 [submodule "sonicLength"]
 	path = sonicLength
 	url = https://github.com/cran/sonicLength
@@ -69521,6 +69551,9 @@
 [submodule "tidypredict"]
 	path = tidypredict
 	url = https://github.com/cran/tidypredict
+[submodule "tidyprf"]
+	path = tidyprf
+	url = https://github.com/cran/tidyprf
 [submodule "tidyprompt"]
 	path = tidyprompt
 	url = https://github.com/cran/tidyprompt
@@ -72521,6 +72554,9 @@
 [submodule "walker"]
 	path = walker
 	url = https://github.com/cran/walker
+[submodule "walking"]
+	path = walking
+	url = https://github.com/cran/walking
 [submodule "walkscore"]
 	path = walkscore
 	url = https://github.com/cran/walkscore
