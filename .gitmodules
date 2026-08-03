@@ -16136,9 +16136,6 @@
 [submodule "RcausalEGM"]
 	path = RcausalEGM
 	url = https://github.com/cran/RcausalEGM
-[submodule "RcensusPkg"]
-	path = RcensusPkg
-	url = https://github.com/cran/RcensusPkg
 [submodule "Rcereal"]
 	path = Rcereal
 	url = https://github.com/cran/Rcereal
