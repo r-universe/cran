@@ -25331,6 +25331,9 @@
 [submodule "bluebike"]
 	path = bluebike
 	url = https://github.com/cran/bluebike
+[submodule "bluertopo"]
+	path = bluertopo
+	url = https://github.com/cran/bluertopo
 [submodule "blueterra"]
 	path = blueterra
 	url = https://github.com/cran/blueterra
@@ -39041,6 +39044,9 @@
 [submodule "ggpaintr"]
 	path = ggpaintr
 	url = https://github.com/cran/ggpaintr
+[submodule "ggpalettes"]
+	path = ggpalettes
+	url = https://github.com/cran/ggpalettes
 [submodule "ggparty"]
 	path = ggparty
 	url = https://github.com/cran/ggparty
@@ -43946,6 +43952,9 @@
 [submodule "jgsbook"]
 	path = jgsbook
 	url = https://github.com/cran/jgsbook
+[submodule "jiebaRS"]
+	path = jiebaRS
+	url = https://github.com/cran/jiebaRS
 [submodule "jinjar"]
 	path = jinjar
 	url = https://github.com/cran/jinjar
@@ -44954,6 +44963,9 @@
 [submodule "lambdr"]
 	path = lambdr
 	url = https://github.com/cran/lambdr
+[submodule "lame"]
+	path = lame
+	url = https://github.com/cran/lame
 [submodule "laminr"]
 	path = laminr
 	url = https://github.com/cran/laminr
@@ -55811,6 +55823,9 @@
 [submodule "polycor"]
 	path = polycor
 	url = https://github.com/cran/polycor
+[submodule "polyglotSQL"]
+	path = polyglotSQL
+	url = https://github.com/cran/polyglotSQL
 [submodule "polyglotr"]
 	path = polyglotr
 	url = https://github.com/cran/polyglotr
@@ -73931,6 +73946,9 @@
 [submodule "zmctp"]
 	path = zmctp
 	url = https://github.com/cran/zmctp
+[submodule "zmij"]
+	path = zmij
+	url = https://github.com/cran/zmij
 [submodule "zmisc"]
 	path = zmisc
 	url = https://github.com/cran/zmisc
