@@ -58985,9 +58985,6 @@
 [submodule "rconfig"]
 	path = rconfig
 	url = https://github.com/cran/rconfig
-[submodule "rcontroll"]
-	path = rcontroll
-	url = https://github.com/cran/rcontroll
 [submodule "rconvertu"]
 	path = rconvertu
 	url = https://github.com/cran/rconvertu
@@ -71105,9 +71102,6 @@
 [submodule "twinning"]
 	path = twinning
 	url = https://github.com/cran/twinning
-[submodule "twinsvm"]
-	path = twinsvm
-	url = https://github.com/cran/twinsvm
 [submodule "twitteradsR"]
 	path = twitteradsR
 	url = https://github.com/cran/twitteradsR
