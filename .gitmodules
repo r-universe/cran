@@ -509,6 +509,9 @@
 [submodule "AdaptGauss"]
 	path = AdaptGauss
 	url = https://github.com/cran/AdaptGauss
+[submodule "AdaptHyCensor"]
+	path = AdaptHyCensor
+	url = https://github.com/cran/AdaptHyCensor
 [submodule "AdaptiveBoxplot"]
 	path = AdaptiveBoxplot
 	url = https://github.com/cran/AdaptiveBoxplot
@@ -1832,6 +1835,9 @@
 [submodule "BiDimRegression"]
 	path = BiDimRegression
 	url = https://github.com/cran/BiDimRegression
+[submodule "BiMaUmisc"]
+	path = BiMaUmisc
+	url = https://github.com/cran/BiMaUmisc
 [submodule "BiObjClass"]
 	path = BiObjClass
 	url = https://github.com/cran/BiObjClass
@@ -2978,6 +2984,9 @@
 [submodule "CatastRo"]
 	path = CatastRo
 	url = https://github.com/cran/CatastRo
+[submodule "CauMedi"]
+	path = CauMedi
+	url = https://github.com/cran/CauMedi
 [submodule "CausCor"]
 	path = CausCor
 	url = https://github.com/cran/CausCor
@@ -4280,6 +4289,9 @@
 [submodule "DOEM"]
 	path = DOEM
 	url = https://github.com/cran/DOEM
+[submodule "DOEpro"]
+	path = DOEpro
+	url = https://github.com/cran/DOEpro
 [submodule "DOIcreator"]
 	path = DOIcreator
 	url = https://github.com/cran/DOIcreator
@@ -5072,6 +5084,9 @@
 [submodule "EBASE"]
 	path = EBASE
 	url = https://github.com/cran/EBASE
+[submodule "EBASS"]
+	path = EBASS
+	url = https://github.com/cran/EBASS
 [submodule "EBCHS"]
 	path = EBCHS
 	url = https://github.com/cran/EBCHS
@@ -6410,6 +6425,9 @@
 [submodule "FinanceGraphs"]
 	path = FinanceGraphs
 	url = https://github.com/cran/FinanceGraphs
+[submodule "FinancialInstrument"]
+	path = FinancialInstrument
+	url = https://github.com/cran/FinancialInstrument
 [submodule "FinancialMath"]
 	path = FinancialMath
 	url = https://github.com/cran/FinancialMath
@@ -9296,6 +9314,9 @@
 [submodule "KernSmoothIRT"]
 	path = KernSmoothIRT
 	url = https://github.com/cran/KernSmoothIRT
+[submodule "KernelICA"]
+	path = KernelICA
+	url = https://github.com/cran/KernelICA
 [submodule "KernelKnn"]
 	path = KernelKnn
 	url = https://github.com/cran/KernelKnn
@@ -9698,6 +9719,9 @@
 [submodule "LSEbootLS"]
 	path = LSEbootLS
 	url = https://github.com/cran/LSEbootLS
+[submodule "LSJM"]
+	path = LSJM
+	url = https://github.com/cran/LSJM
 [submodule "LSMRealOptions"]
 	path = LSMRealOptions
 	url = https://github.com/cran/LSMRealOptions
@@ -10127,6 +10151,9 @@
 [submodule "MAKL"]
 	path = MAKL
 	url = https://github.com/cran/MAKL
+[submodule "MALDIassist"]
+	path = MALDIassist
+	url = https://github.com/cran/MALDIassist
 [submodule "MALDIquant"]
 	path = MALDIquant
 	url = https://github.com/cran/MALDIquant
@@ -12926,6 +12953,9 @@
 [submodule "OutSeekR"]
 	path = OutSeekR
 	url = https://github.com/cran/OutSeekR
+[submodule "OutbreakR"]
+	path = OutbreakR
+	url = https://github.com/cran/OutbreakR
 [submodule "OutcomeWeights"]
 	path = OutcomeWeights
 	url = https://github.com/cran/OutcomeWeights
@@ -13913,6 +13943,9 @@
 [submodule "PhysActBedRest"]
 	path = PhysActBedRest
 	url = https://github.com/cran/PhysActBedRest
+[submodule "PhysMove"]
+	path = PhysMove
+	url = https://github.com/cran/PhysMove
 [submodule "PhysicalActivity"]
 	path = PhysicalActivity
 	url = https://github.com/cran/PhysicalActivity
@@ -19049,6 +19082,9 @@
 [submodule "SpoMAG"]
 	path = SpoMAG
 	url = https://github.com/cran/SpoMAG
+[submodule "SporeLag"]
+	path = SporeLag
+	url = https://github.com/cran/SporeLag
 [submodule "SportMiner"]
 	path = SportMiner
 	url = https://github.com/cran/SportMiner
@@ -23192,6 +23228,9 @@
 [submodule "askpass"]
 	path = askpass
 	url = https://github.com/cran/askpass
+[submodule "asleep"]
+	path = asleep
+	url = https://github.com/cran/asleep
 [submodule "aslib"]
 	path = aslib
 	url = https://github.com/cran/aslib
@@ -25250,6 +25289,9 @@
 [submodule "blockr.io"]
 	path = blockr.io
 	url = https://github.com/cran/blockr.io
+[submodule "blockr.session"]
+	path = blockr.session
+	url = https://github.com/cran/blockr.session
 [submodule "blockrand"]
 	path = blockrand
 	url = https://github.com/cran/blockrand
@@ -25712,6 +25754,9 @@
 [submodule "bravo"]
 	path = bravo
 	url = https://github.com/cran/bravo
+[submodule "brazilmaps"]
+	path = brazilmaps
+	url = https://github.com/cran/brazilmaps
 [submodule "brclimr"]
 	path = brclimr
 	url = https://github.com/cran/brclimr
@@ -26408,6 +26453,9 @@
 [submodule "cardinalR"]
 	path = cardinalR
 	url = https://github.com/cran/cardinalR
+[submodule "cardinalfda"]
+	path = cardinalfda
+	url = https://github.com/cran/cardinalfda
 [submodule "cards"]
 	path = cards
 	url = https://github.com/cran/cards
@@ -28670,6 +28718,9 @@
 [submodule "compositions"]
 	path = compositions
 	url = https://github.com/cran/compositions
+[submodule "compost"]
+	path = compost
+	url = https://github.com/cran/compost
 [submodule "compound.Cox"]
 	path = compound.Cox
 	url = https://github.com/cran/compound.Cox
@@ -29006,6 +29057,9 @@
 [submodule "controlTest"]
 	path = controlTest
 	url = https://github.com/cran/controlTest
+[submodule "controlcharts"]
+	path = controlcharts
+	url = https://github.com/cran/controlcharts
 [submodule "controlfunctionIV"]
 	path = controlfunctionIV
 	url = https://github.com/cran/controlfunctionIV
@@ -29687,6 +29741,9 @@
 [submodule "crayons"]
 	path = crayons
 	url = https://github.com/cran/crayons
+[submodule "crbcc"]
+	path = crbcc
+	url = https://github.com/cran/crbcc
 [submodule "crc32c"]
 	path = crc32c
 	url = https://github.com/cran/crc32c
@@ -32864,6 +32921,9 @@
 [submodule "dwdradar"]
 	path = dwdradar
 	url = https://github.com/cran/dwdradar
+[submodule "dwg2geo"]
+	path = dwg2geo
+	url = https://github.com/cran/dwg2geo
 [submodule "dwlm"]
 	path = dwlm
 	url = https://github.com/cran/dwlm
@@ -36128,6 +36188,9 @@
 [submodule "fipio"]
 	path = fipio
 	url = https://github.com/cran/fipio
+[submodule "fipp"]
+	path = fipp
+	url = https://github.com/cran/fipp
 [submodule "firebase"]
 	path = firebase
 	url = https://github.com/cran/firebase
@@ -37211,6 +37274,9 @@
 [submodule "ftsa"]
 	path = ftsa
 	url = https://github.com/cran/ftsa
+[submodule "ftsspec"]
+	path = ftsspec
+	url = https://github.com/cran/ftsspec
 [submodule "fucom"]
 	path = fucom
 	url = https://github.com/cran/fucom
@@ -39842,6 +39908,9 @@
 [submodule "gofIG"]
 	path = gofIG
 	url = https://github.com/cran/gofIG
+[submodule "gofPHCS"]
+	path = gofPHCS
+	url = https://github.com/cran/gofPHCS
 [submodule "gofar"]
 	path = gofar
 	url = https://github.com/cran/gofar
@@ -42917,6 +42986,9 @@
 [submodule "inferr"]
 	path = inferr
 	url = https://github.com/cran/inferr
+[submodule "inferstat"]
+	path = inferstat
+	url = https://github.com/cran/inferstat
 [submodule "infiltrodiscR"]
 	path = infiltrodiscR
 	url = https://github.com/cran/infiltrodiscR
@@ -58118,6 +58190,9 @@
 [submodule "rKolada"]
 	path = rKolada
 	url = https://github.com/cran/rKolada
+[submodule "rKraken"]
+	path = rKraken
+	url = https://github.com/cran/rKraken
 [submodule "rLDCP"]
 	path = rLDCP
 	url = https://github.com/cran/rLDCP
@@ -58790,6 +58865,9 @@
 [submodule "rbch"]
 	path = rbch
 	url = https://github.com/cran/rbch
+[submodule "rbcmodel"]
+	path = rbcmodel
+	url = https://github.com/cran/rbcmodel
 [submodule "rbedrock"]
 	path = rbedrock
 	url = https://github.com/cran/rbedrock
@@ -58985,6 +59063,9 @@
 [submodule "rconfig"]
 	path = rconfig
 	url = https://github.com/cran/rconfig
+[submodule "rcontroll"]
+	path = rcontroll
+	url = https://github.com/cran/rcontroll
 [submodule "rconvertu"]
 	path = rconvertu
 	url = https://github.com/cran/rconvertu
@@ -61958,6 +62039,9 @@
 [submodule "rtransparency"]
 	path = rtransparency
 	url = https://github.com/cran/rtransparency
+[submodule "rtreeoflife"]
+	path = rtreeoflife
+	url = https://github.com/cran/rtreeoflife
 [submodule "rtrees"]
 	path = rtrees
 	url = https://github.com/cran/rtrees
@@ -71102,6 +71186,9 @@
 [submodule "twinning"]
 	path = twinning
 	url = https://github.com/cran/twinning
+[submodule "twinsvm"]
+	path = twinsvm
+	url = https://github.com/cran/twinsvm
 [submodule "twitteradsR"]
 	path = twitteradsR
 	url = https://github.com/cran/twitteradsR
