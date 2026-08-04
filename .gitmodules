@@ -1040,6 +1040,9 @@
 [submodule "BCSreg"]
 	path = BCSreg
 	url = https://github.com/cran/BCSreg
+[submodule "BCT"]
+	path = BCT
+	url = https://github.com/cran/BCT
 [submodule "BCgee"]
 	path = BCgee
 	url = https://github.com/cran/BCgee
