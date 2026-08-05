@@ -48695,9 +48695,6 @@
 [submodule "minipdf"]
 	path = minipdf
 	url = https://github.com/cran/minipdf
-[submodule "minired"]
-	path = minired
-	url = https://github.com/cran/minired
 [submodule "minorparties"]
 	path = minorparties
 	url = https://github.com/cran/minorparties
