@@ -21725,6 +21725,9 @@
 [submodule "actilifecounts"]
 	path = actilifecounts
 	url = https://github.com/cran/actilifecounts
+[submodule "actinet"]
+	path = actinet
+	url = https://github.com/cran/actinet
 [submodule "actiread"]
 	path = actiread
 	url = https://github.com/cran/actiread
@@ -46304,6 +46307,9 @@
 [submodule "lomb"]
 	path = lomb
 	url = https://github.com/cran/lomb
+[submodule "lonelyr"]
+	path = lonelyr
+	url = https://github.com/cran/lonelyr
 [submodule "long2lstmarray"]
 	path = long2lstmarray
 	url = https://github.com/cran/long2lstmarray
@@ -54719,6 +54725,9 @@
 [submodule "perspectiveR"]
 	path = perspectiveR
 	url = https://github.com/cran/perspectiveR
+[submodule "persuasio"]
+	path = persuasio
+	url = https://github.com/cran/persuasio
 [submodule "persval"]
 	path = persval
 	url = https://github.com/cran/persval
@@ -68465,6 +68474,9 @@
 [submodule "synchrony"]
 	path = synchrony
 	url = https://github.com/cran/synchrony
+[submodule "syncons"]
+	path = syncons
+	url = https://github.com/cran/syncons
 [submodule "synopR"]
 	path = synopR
 	url = https://github.com/cran/synopR
