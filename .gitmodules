@@ -46124,6 +46124,9 @@
 [submodule "log"]
 	path = log
 	url = https://github.com/cran/log
+[submodule "log4r"]
+	path = log4r
+	url = https://github.com/cran/log4r
 [submodule "logKDE"]
 	path = logKDE
 	url = https://github.com/cran/logKDE
@@ -59936,6 +59939,9 @@
 [submodule "repmod"]
 	path = repmod
 	url = https://github.com/cran/repmod
+[submodule "repo"]
+	path = repo
+	url = https://github.com/cran/repo
 [submodule "repo.data"]
 	path = repo.data
 	url = https://github.com/cran/repo.data
