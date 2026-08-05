@@ -18275,6 +18275,9 @@
 [submodule "SampleSizeProportions"]
 	path = SampleSizeProportions
 	url = https://github.com/cran/SampleSizeProportions
+[submodule "SampleSizeR"]
+	path = SampleSizeR
+	url = https://github.com/cran/SampleSizeR
 [submodule "SampleSizeSingleArmSurvival"]
 	path = SampleSizeSingleArmSurvival
 	url = https://github.com/cran/SampleSizeSingleArmSurvival
