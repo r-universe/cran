@@ -9701,6 +9701,9 @@
 [submodule "LREP"]
 	path = LREP
 	url = https://github.com/cran/LREP
+[submodule "LRErdd"]
+	path = LRErdd
+	url = https://github.com/cran/LRErdd
 [submodule "LRMF3"]
 	path = LRMF3
 	url = https://github.com/cran/LRMF3
@@ -15182,6 +15185,9 @@
 [submodule "RGCxGC"]
 	path = RGCxGC
 	url = https://github.com/cran/RGCxGC
+[submodule "RGDrivers"]
+	path = RGDrivers
+	url = https://github.com/cran/RGDrivers
 [submodule "RGE"]
 	path = RGE
 	url = https://github.com/cran/RGE
@@ -20603,6 +20609,9 @@
 [submodule "UniExactFunTest"]
 	path = UniExactFunTest
 	url = https://github.com/cran/UniExactFunTest
+[submodule "UniIS"]
+	path = UniIS
+	url = https://github.com/cran/UniIS
 [submodule "Unico"]
 	path = Unico
 	url = https://github.com/cran/Unico
