@@ -1058,6 +1058,9 @@
 [submodule "BDEsize"]
 	path = BDEsize
 	url = https://github.com/cran/BDEsize
+[submodule "BDPTobitQR"]
+	path = BDPTobitQR
+	url = https://github.com/cran/BDPTobitQR
 [submodule "BDWreg"]
 	path = BDWreg
 	url = https://github.com/cran/BDWreg
@@ -1706,6 +1709,9 @@
 [submodule "BayesTwin"]
 	path = BayesTwin
 	url = https://github.com/cran/BayesTwin
+[submodule "BayesURTrend"]
+	path = BayesURTrend
+	url = https://github.com/cran/BayesURTrend
 [submodule "BayesVarSel"]
 	path = BayesVarSel
 	url = https://github.com/cran/BayesVarSel
@@ -13508,9 +13514,6 @@
 [submodule "PRIMEplus"]
 	path = PRIMEplus
 	url = https://github.com/cran/PRIMEplus
-[submodule "PRIMME"]
-	path = PRIMME
-	url = https://github.com/cran/PRIMME
 [submodule "PRISM.forecast"]
 	path = PRISM.forecast
 	url = https://github.com/cran/PRISM.forecast
@@ -27437,9 +27440,6 @@
 [submodule "chores"]
 	path = chores
 	url = https://github.com/cran/chores
-[submodule "choroplethr"]
-	path = choroplethr
-	url = https://github.com/cran/choroplethr
 [submodule "choroplethrAdmin1"]
 	path = choroplethrAdmin1
 	url = https://github.com/cran/choroplethrAdmin1
