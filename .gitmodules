@@ -11537,6 +11537,9 @@
 [submodule "MindOnStats"]
 	path = MindOnStats
 	url = https://github.com/cran/MindOnStats
+[submodule "MineSDG"]
+	path = MineSDG
+	url = https://github.com/cran/MineSDG
 [submodule "Minirand"]
 	path = Minirand
 	url = https://github.com/cran/Minirand
@@ -18437,6 +18440,9 @@
 [submodule "SeasEpi"]
 	path = SeasEpi
 	url = https://github.com/cran/SeasEpi
+[submodule "SeattleOpenData"]
+	path = SeattleOpenData
+	url = https://github.com/cran/SeattleOpenData
 [submodule "SecretsProvider"]
 	path = SecretsProvider
 	url = https://github.com/cran/SecretsProvider
@@ -32264,6 +32270,9 @@
 [submodule "distrr"]
 	path = distrr
 	url = https://github.com/cran/distrr
+[submodule "distspec"]
+	path = distspec
+	url = https://github.com/cran/distspec
 [submodule "disttools"]
 	path = disttools
 	url = https://github.com/cran/disttools
@@ -45983,6 +45992,9 @@
 [submodule "lit"]
 	path = lit
 	url = https://github.com/cran/lit
+[submodule "litReview"]
+	path = litReview
+	url = https://github.com/cran/litReview
 [submodule "litRiddle"]
 	path = litRiddle
 	url = https://github.com/cran/litRiddle
@@ -49505,6 +49517,9 @@
 [submodule "mob"]
 	path = mob
 	url = https://github.com/cran/mob
+[submodule "mobdb"]
+	path = mobdb
+	url = https://github.com/cran/mobdb
 [submodule "mobsim"]
 	path = mobsim
 	url = https://github.com/cran/mobsim
@@ -50438,6 +50453,9 @@
 [submodule "multicastR"]
 	path = multicastR
 	url = https://github.com/cran/multicastR
+[submodule "multichainr"]
+	path = multichainr
+	url = https://github.com/cran/multichainr
 [submodule "multichull"]
 	path = multichull
 	url = https://github.com/cran/multichull
@@ -65615,6 +65633,9 @@
 [submodule "smoothHR"]
 	path = smoothHR
 	url = https://github.com/cran/smoothHR
+[submodule "smoothROC"]
+	path = smoothROC
+	url = https://github.com/cran/smoothROC
 [submodule "smoothROCtime"]
 	path = smoothROCtime
 	url = https://github.com/cran/smoothROCtime
@@ -66356,6 +66377,9 @@
 [submodule "spatialising"]
 	path = spatialising
 	url = https://github.com/cran/spatialising
+[submodule "spatialkit"]
+	path = spatialkit
+	url = https://github.com/cran/spatialkit
 [submodule "spatialprobit"]
 	path = spatialprobit
 	url = https://github.com/cran/spatialprobit
@@ -68486,6 +68510,9 @@
 [submodule "sweidnumbr"]
 	path = sweidnumbr
 	url = https://github.com/cran/sweidnumbr
+[submodule "swelex"]
+	path = swelex
+	url = https://github.com/cran/swelex
 [submodule "swephR"]
 	path = swephR
 	url = https://github.com/cran/swephR
@@ -70145,6 +70172,9 @@
 [submodule "tinyarray"]
 	path = tinyarray
 	url = https://github.com/cran/tinyarray
+[submodule "tinycache"]
+	path = tinycache
+	url = https://github.com/cran/tinycache
 [submodule "tinycodet"]
 	path = tinycodet
 	url = https://github.com/cran/tinycodet
@@ -70487,6 +70517,9 @@
 [submodule "topoDistance"]
 	path = topoDistance
 	url = https://github.com/cran/topoDistance
+[submodule "topocast"]
+	path = topocast
+	url = https://github.com/cran/topocast
 [submodule "topologyGSA"]
 	path = topologyGSA
 	url = https://github.com/cran/topologyGSA
@@ -74144,6 +74177,9 @@
 [submodule "zenstats"]
 	path = zenstats
 	url = https://github.com/cran/zenstats
+[submodule "zentraR"]
+	path = zentraR
+	url = https://github.com/cran/zentraR
 [submodule "zephyr"]
 	path = zephyr
 	url = https://github.com/cran/zephyr
