@@ -4259,6 +4259,9 @@
 [submodule "DLASSO"]
 	path = DLASSO
 	url = https://github.com/cran/DLASSO
+[submodule "DLCA"]
+	path = DLCA
+	url = https://github.com/cran/DLCA
 [submodule "DLEGFM"]
 	path = DLEGFM
 	url = https://github.com/cran/DLEGFM
@@ -5171,6 +5174,9 @@
 [submodule "EDCimport"]
 	path = EDCimport
 	url = https://github.com/cran/EDCimport
+[submodule "EDE"]
+	path = EDE
+	url = https://github.com/cran/EDE
 [submodule "EDISON"]
 	path = EDISON
 	url = https://github.com/cran/EDISON
@@ -8831,6 +8837,9 @@
 [submodule "Imneuron"]
 	path = Imneuron
 	url = https://github.com/cran/Imneuron
+[submodule "ImpAdaptType2Censor"]
+	path = ImpAdaptType2Censor
+	url = https://github.com/cran/ImpAdaptType2Censor
 [submodule "ImpShrinkage"]
 	path = ImpShrinkage
 	url = https://github.com/cran/ImpShrinkage
@@ -8867,6 +8876,9 @@
 [submodule "IncomPair"]
 	path = IncomPair
 	url = https://github.com/cran/IncomPair
+[submodule "IncrementalityTEST"]
+	path = IncrementalityTEST
+	url = https://github.com/cran/IncrementalityTEST
 [submodule "IndGenErrors"]
 	path = IndGenErrors
 	url = https://github.com/cran/IndGenErrors
@@ -15014,6 +15026,9 @@
 [submodule "RConics"]
 	path = RConics
 	url = https://github.com/cran/RConics
+[submodule "RCppAD"]
+	path = RCppAD
+	url = https://github.com/cran/RCppAD
 [submodule "RCriteo"]
 	path = RCriteo
 	url = https://github.com/cran/RCriteo
@@ -16676,6 +16691,9 @@
 [submodule "RegCalReliab"]
 	path = RegCalReliab
 	url = https://github.com/cran/RegCalReliab
+[submodule "RegCalib"]
+	path = RegCalib
+	url = https://github.com/cran/RegCalib
 [submodule "RegCombin"]
 	path = RegCombin
 	url = https://github.com/cran/RegCombin
@@ -17153,6 +17171,9 @@
 [submodule "Ropj"]
 	path = Ropj
 	url = https://github.com/cran/Ropj
+[submodule "RougeLM"]
+	path = RougeLM
+	url = https://github.com/cran/RougeLM
 [submodule "RoughSets"]
 	path = RoughSets
 	url = https://github.com/cran/RoughSets
@@ -21635,6 +21656,9 @@
 [submodule "abwm"]
 	path = abwm
 	url = https://github.com/cran/abwm
+[submodule "acR"]
+	path = acR
+	url = https://github.com/cran/acR
 [submodule "academictwitteR"]
 	path = academictwitteR
 	url = https://github.com/cran/academictwitteR
@@ -27077,6 +27101,9 @@
 [submodule "censoredAIDS"]
 	path = censoredAIDS
 	url = https://github.com/cran/censoredAIDS
+[submodule "censosbo"]
+	path = censosbo
+	url = https://github.com/cran/censosbo
 [submodule "censusapi"]
 	path = censusapi
 	url = https://github.com/cran/censusapi
@@ -28724,6 +28751,9 @@
 [submodule "commonmark"]
 	path = commonmark
 	url = https://github.com/cran/commonmark
+[submodule "commons"]
+	path = commons
+	url = https://github.com/cran/commons
 [submodule "commonsMath"]
 	path = commonsMath
 	url = https://github.com/cran/commonsMath
@@ -33089,6 +33119,9 @@
 [submodule "dynamicTreeCut"]
 	path = dynamicTreeCut
 	url = https://github.com/cran/dynamicTreeCut
+[submodule "dynamicmultiplex"]
+	path = dynamicmultiplex
+	url = https://github.com/cran/dynamicmultiplex
 [submodule "dynamicpv"]
 	path = dynamicpv
 	url = https://github.com/cran/dynamicpv
@@ -35738,6 +35771,9 @@
 [submodule "fastrc"]
 	path = fastrc
 	url = https://github.com/cran/fastrc
+[submodule "fastrda"]
+	path = fastrda
+	url = https://github.com/cran/fastrda
 [submodule "fastreg"]
 	path = fastreg
 	url = https://github.com/cran/fastreg
@@ -40208,6 +40244,9 @@
 [submodule "gpboost"]
 	path = gpboost
 	url = https://github.com/cran/gpboost
+[submodule "gpciImpSam"]
+	path = gpciImpSam
+	url = https://github.com/cran/gpciImpSam
 [submodule "gpcp"]
 	path = gpcp
 	url = https://github.com/cran/gpcp
@@ -46226,6 +46265,9 @@
 [submodule "locits"]
 	path = locits
 	url = https://github.com/cran/locits
+[submodule "loclm"]
+	path = loclm
+	url = https://github.com/cran/loclm
 [submodule "locpol"]
 	path = locpol
 	url = https://github.com/cran/locpol
@@ -55418,6 +55460,9 @@
 [submodule "pkgmatch"]
 	path = pkgmatch
 	url = https://github.com/cran/pkgmatch
+[submodule "pkgmd"]
+	path = pkgmd
+	url = https://github.com/cran/pkgmd
 [submodule "pkgndep"]
 	path = pkgndep
 	url = https://github.com/cran/pkgndep
@@ -60875,6 +60920,9 @@
 [submodule "rjd3providers"]
 	path = rjd3providers
 	url = https://github.com/cran/rjd3providers
+[submodule "rjd3qr"]
+	path = rjd3qr
+	url = https://github.com/cran/rjd3qr
 [submodule "rjd3toolkit"]
 	path = rjd3toolkit
 	url = https://github.com/cran/rjd3toolkit
@@ -64559,6 +64607,9 @@
 [submodule "shinyds"]
 	path = shinyds
 	url = https://github.com/cran/shinyds
+[submodule "shinyelectron"]
+	path = shinyelectron
+	url = https://github.com/cran/shinyelectron
 [submodule "shinyfa"]
 	path = shinyfa
 	url = https://github.com/cran/shinyfa
