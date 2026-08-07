@@ -4757,6 +4757,9 @@
 [submodule "DepCens"]
 	path = DepCens
 	url = https://github.com/cran/DepCens
+[submodule "DepDoubleTruncKS"]
+	path = DepDoubleTruncKS
+	url = https://github.com/cran/DepDoubleTruncKS
 [submodule "DepLogo"]
 	path = DepLogo
 	url = https://github.com/cran/DepLogo
@@ -8189,6 +8192,9 @@
 [submodule "HealthMarkers"]
 	path = HealthMarkers
 	url = https://github.com/cran/HealthMarkers
+[submodule "HeatStressR"]
+	path = HeatStressR
+	url = https://github.com/cran/HeatStressR
 [submodule "HeatmapR"]
 	path = HeatmapR
 	url = https://github.com/cran/HeatmapR
@@ -11822,6 +11828,9 @@
 [submodule "MultiFit"]
 	path = MultiFit
 	url = https://github.com/cran/MultiFit
+[submodule "MultiFrailty"]
+	path = MultiFrailty
+	url = https://github.com/cran/MultiFrailty
 [submodule "MultiGlarmaVarSel"]
 	path = MultiGlarmaVarSel
 	url = https://github.com/cran/MultiGlarmaVarSel
@@ -11882,6 +11891,9 @@
 [submodule "MultiStatM"]
 	path = MultiStatM
 	url = https://github.com/cran/MultiStatM
+[submodule "MultiStepSSAD"]
+	path = MultiStepSSAD
+	url = https://github.com/cran/MultiStepSSAD
 [submodule "MultiTraits"]
 	path = MultiTraits
 	url = https://github.com/cran/MultiTraits
@@ -14243,6 +14255,9 @@
 [submodule "PottsUtils"]
 	path = PottsUtils
 	url = https://github.com/cran/PottsUtils
+[submodule "PoultryEconR"]
+	path = PoultryEconR
+	url = https://github.com/cran/PoultryEconR
 [submodule "PowRPriori"]
 	path = PowRPriori
 	url = https://github.com/cran/PowRPriori
@@ -19790,6 +19805,9 @@
 [submodule "TITEgBOIN"]
 	path = TITEgBOIN
 	url = https://github.com/cran/TITEgBOIN
+[submodule "TKApprox"]
+	path = TKApprox
+	url = https://github.com/cran/TKApprox
 [submodule "TKCat"]
 	path = TKCat
 	url = https://github.com/cran/TKCat
@@ -34367,6 +34385,9 @@
 [submodule "epidatr"]
 	path = epidatr
 	url = https://github.com/cran/epidatr
+[submodule "epidesc"]
+	path = epidesc
+	url = https://github.com/cran/epidesc
 [submodule "epidict"]
 	path = epidict
 	url = https://github.com/cran/epidict
@@ -35522,6 +35543,9 @@
 [submodule "falconx"]
 	path = falconx
 	url = https://github.com/cran/falconx
+[submodule "falsifyr"]
+	path = falsifyr
+	url = https://github.com/cran/falsifyr
 [submodule "fam.recrisk"]
 	path = fam.recrisk
 	url = https://github.com/cran/fam.recrisk
@@ -37997,6 +38021,9 @@
 [submodule "gbfs"]
 	path = gbfs
 	url = https://github.com/cran/gbfs
+[submodule "gbif.range"]
+	path = gbif.range
+	url = https://github.com/cran/gbif.range
 [submodule "gbifdb"]
 	path = gbifdb
 	url = https://github.com/cran/gbifdb
@@ -40256,6 +40283,12 @@
 [submodule "gpciImpSam"]
 	path = gpciImpSam
 	url = https://github.com/cran/gpciImpSam
+[submodule "gpciProgTyII"]
+	path = gpciProgTyII
+	url = https://github.com/cran/gpciProgTyII
+[submodule "gpciProgTyIIImpSam"]
+	path = gpciProgTyIIImpSam
+	url = https://github.com/cran/gpciProgTyIIImpSam
 [submodule "gpcp"]
 	path = gpcp
 	url = https://github.com/cran/gpcp
@@ -51653,6 +51686,9 @@
 [submodule "nhs.predict"]
 	path = nhs.predict
 	url = https://github.com/cran/nhs.predict
+[submodule "nhsbsa"]
+	path = nhsbsa
+	url = https://github.com/cran/nhsbsa
 [submodule "nhscancerwaits"]
 	path = nhscancerwaits
 	url = https://github.com/cran/nhscancerwaits
@@ -53747,6 +53783,9 @@
 [submodule "packageRank"]
 	path = packageRank
 	url = https://github.com/cran/packageRank
+[submodule "packageRankWrapperDriver"]
+	path = packageRankWrapperDriver
+	url = https://github.com/cran/packageRankWrapperDriver
 [submodule "packagefinder"]
 	path = packagefinder
 	url = https://github.com/cran/packagefinder
@@ -67391,6 +67430,9 @@
 [submodule "staticryptR"]
 	path = staticryptR
 	url = https://github.com/cran/staticryptR
+[submodule "statim"]
+	path = statim
+	url = https://github.com/cran/statim
 [submodule "statioVAR"]
 	path = statioVAR
 	url = https://github.com/cran/statioVAR
