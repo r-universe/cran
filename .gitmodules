@@ -200,6 +200,9 @@
 [submodule "ALS"]
 	path = ALS
 	url = https://github.com/cran/ALS
+[submodule "ALSBinary"]
+	path = ALSBinary
+	url = https://github.com/cran/ALSBinary
 [submodule "ALSCPC"]
 	path = ALSCPC
 	url = https://github.com/cran/ALSCPC
@@ -575,6 +578,9 @@
 [submodule "AgreementInterval"]
 	path = AgreementInterval
 	url = https://github.com/cran/AgreementInterval
+[submodule "AgriDataTools"]
+	path = AgriDataTools
+	url = https://github.com/cran/AgriDataTools
 [submodule "AgriDiversiX"]
 	path = AgriDiversiX
 	url = https://github.com/cran/AgriDiversiX
@@ -1214,6 +1220,9 @@
 [submodule "BKBreed"]
 	path = BKBreed
 	url = https://github.com/cran/BKBreed
+[submodule "BKMutate"]
+	path = BKMutate
+	url = https://github.com/cran/BKMutate
 [submodule "BKP"]
 	path = BKP
 	url = https://github.com/cran/BKP
@@ -5171,6 +5180,9 @@
 [submodule "ECoL"]
 	path = ECoL
 	url = https://github.com/cran/ECoL
+[submodule "EDAForge"]
+	path = EDAForge
+	url = https://github.com/cran/EDAForge
 [submodule "EDCimport"]
 	path = EDCimport
 	url = https://github.com/cran/EDCimport
@@ -20738,6 +20750,9 @@
 [submodule "UsingR"]
 	path = UsingR
 	url = https://github.com/cran/UsingR
+[submodule "Usmile"]
+	path = Usmile
+	url = https://github.com/cran/Usmile
 [submodule "V8"]
 	path = V8
 	url = https://github.com/cran/V8
@@ -22310,6 +22325,9 @@
 [submodule "agridat"]
 	path = agridat
 	url = https://github.com/cran/agridat
+[submodule "agridatasets"]
+	path = agridatasets
+	url = https://github.com/cran/agridatasets
 [submodule "agrifeature"]
 	path = agrifeature
 	url = https://github.com/cran/agrifeature
@@ -23333,6 +23351,9 @@
 [submodule "ascotraceR"]
 	path = ascotraceR
 	url = https://github.com/cran/ascotraceR
+[submodule "ascribe"]
+	path = ascribe
+	url = https://github.com/cran/ascribe
 [submodule "asd"]
 	path = asd
 	url = https://github.com/cran/asd
@@ -26840,6 +26861,9 @@
 [submodule "causalfrag"]
 	path = causalfrag
 	url = https://github.com/cran/causalfrag
+[submodule "causalgenerics"]
+	path = causalgenerics
+	url = https://github.com/cran/causalgenerics
 [submodule "causalnet"]
 	path = causalnet
 	url = https://github.com/cran/causalnet
@@ -28460,6 +28484,9 @@
 [submodule "codingMatrices"]
 	path = codingMatrices
 	url = https://github.com/cran/codingMatrices
+[submodule "codriver"]
+	path = codriver
+	url = https://github.com/cran/codriver
 [submodule "codyn"]
 	path = codyn
 	url = https://github.com/cran/codyn
@@ -28871,6 +28898,9 @@
 [submodule "comprehenr"]
 	path = comprehenr
 	url = https://github.com/cran/comprehenr
+[submodule "compstatslib"]
+	path = compstatslib
+	url = https://github.com/cran/compstatslib
 [submodule "compute.es"]
 	path = compute.es
 	url = https://github.com/cran/compute.es
@@ -29750,6 +29780,9 @@
 [submodule "cpfa"]
 	path = cpfa
 	url = https://github.com/cran/cpfa
+[submodule "cpge"]
+	path = cpge
+	url = https://github.com/cran/cpge
 [submodule "cpgfR"]
 	path = cpgfR
 	url = https://github.com/cran/cpgfR
@@ -30734,6 +30767,9 @@
 [submodule "dartRverse"]
 	path = dartRverse
 	url = https://github.com/cran/dartRverse
+[submodule "dashboardapi"]
+	path = dashboardapi
+	url = https://github.com/cran/dashboardapi
 [submodule "dashboardthemes"]
 	path = dashboardthemes
 	url = https://github.com/cran/dashboardthemes
@@ -51737,6 +51773,9 @@
 [submodule "nimbleEcology"]
 	path = nimbleEcology
 	url = https://github.com/cran/nimbleEcology
+[submodule "nimbleExtra"]
+	path = nimbleExtra
+	url = https://github.com/cran/nimbleExtra
 [submodule "nimbleHMC"]
 	path = nimbleHMC
 	url = https://github.com/cran/nimbleHMC
@@ -52034,6 +52073,9 @@
 [submodule "nodiv"]
 	path = nodiv
 	url = https://github.com/cran/nodiv
+[submodule "nof1kit"]
+	path = nof1kit
+	url = https://github.com/cran/nof1kit
 [submodule "nofrills"]
 	path = nofrills
 	url = https://github.com/cran/nofrills
@@ -54281,6 +54323,9 @@
 [submodule "pathfindR.data"]
 	path = pathfindR.data
 	url = https://github.com/cran/pathfindR.data
+[submodule "pathintdid"]
+	path = pathintdid
+	url = https://github.com/cran/pathintdid
 [submodule "pathling"]
 	path = pathling
 	url = https://github.com/cran/pathling
@@ -68954,6 +68999,9 @@
 [submodule "targets"]
 	path = targets
 	url = https://github.com/cran/targets
+[submodule "tarpolyglot"]
+	path = tarpolyglot
+	url = https://github.com/cran/tarpolyglot
 [submodule "tashu"]
 	path = tashu
 	url = https://github.com/cran/tashu
@@ -70646,6 +70694,9 @@
 [submodule "tpglp"]
 	path = tpglp
 	url = https://github.com/cran/tpglp
+[submodule "tplyr2"]
+	path = tplyr2
+	url = https://github.com/cran/tplyr2
 [submodule "tpm"]
 	path = tpm
 	url = https://github.com/cran/tpm
@@ -70793,6 +70844,9 @@
 [submodule "transfR"]
 	path = transfR
 	url = https://github.com/cran/transfR
+[submodule "transferegovr"]
+	path = transferegovr
+	url = https://github.com/cran/transferegovr
 [submodule "transforEmotion"]
 	path = transforEmotion
 	url = https://github.com/cran/transforEmotion
@@ -73820,6 +73874,9 @@
 [submodule "xegaGpGene"]
 	path = xegaGpGene
 	url = https://github.com/cran/xegaGpGene
+[submodule "xegaMigration"]
+	path = xegaMigration
+	url = https://github.com/cran/xegaMigration
 [submodule "xegaPermGene"]
 	path = xegaPermGene
 	url = https://github.com/cran/xegaPermGene
