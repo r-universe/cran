@@ -3860,18 +3860,12 @@
 [submodule "Crosstabs.Loglinear"]
 	path = Crosstabs.Loglinear
 	url = https://github.com/cran/Crosstabs.Loglinear
-[submodule "CrownScorchTLS"]
-	path = CrownScorchTLS
-	url = https://github.com/cran/CrownScorchTLS
 [submodule "CryptRndTest"]
 	path = CryptRndTest
 	url = https://github.com/cran/CryptRndTest
 [submodule "CsChange"]
 	path = CsChange
 	url = https://github.com/cran/CsChange
-[submodule "CspStandSegmentation"]
-	path = CspStandSegmentation
-	url = https://github.com/cran/CspStandSegmentation
 [submodule "Cubist"]
 	path = Cubist
 	url = https://github.com/cran/Cubist
@@ -6212,9 +6206,6 @@
 [submodule "FORD"]
 	path = FORD
 	url = https://github.com/cran/FORD
-[submodule "FORTLS"]
-	path = FORTLS
-	url = https://github.com/cran/FORTLS
 [submodule "FPCA3D"]
 	path = FPCA3D
 	url = https://github.com/cran/FPCA3D
@@ -21656,9 +21647,6 @@
 [submodule "abodOutlier"]
 	path = abodOutlier
 	url = https://github.com/cran/abodOutlier
-[submodule "aboveR"]
-	path = aboveR
-	url = https://github.com/cran/aboveR
 [submodule "abseil"]
 	path = abseil
 	url = https://github.com/cran/abseil
@@ -30068,9 +30056,6 @@
 [submodule "crownmetrics"]
 	path = crownmetrics
 	url = https://github.com/cran/crownmetrics
-[submodule "crownsegmentr"]
-	path = crownsegmentr
-	url = https://github.com/cran/crownsegmentr
 [submodule "crqa"]
 	path = crqa
 	url = https://github.com/cran/crqa
@@ -45764,12 +45749,6 @@
 [submodule "licoread"]
 	path = licoread
 	url = https://github.com/cran/licoread
-[submodule "lidR"]
-	path = lidR
-	url = https://github.com/cran/lidR
-[submodule "lidaRtRee"]
-	path = lidaRtRee
-	url = https://github.com/cran/lidaRtRee
 [submodule "lievens"]
 	path = lievens
 	url = https://github.com/cran/lievens
@@ -59231,9 +59210,6 @@
 [submodule "rcDEA"]
 	path = rcDEA
 	url = https://github.com/cran/rcDEA
-[submodule "rcaiman"]
-	path = rcaiman
-	url = https://github.com/cran/rcaiman
 [submodule "rcarbon"]
 	path = rcarbon
 	url = https://github.com/cran/rcarbon
@@ -61049,9 +61025,6 @@
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/cran/rlang
-[submodule "rlas"]
-	path = rlas
-	url = https://github.com/cran/rlas
 [submodule "rlcv"]
 	path = rlcv
 	url = https://github.com/cran/rlcv
@@ -66203,9 +66176,6 @@
 [submodule "spanishoddata"]
 	path = spanishoddata
 	url = https://github.com/cran/spanishoddata
-[submodule "spanner"]
-	path = spanner
-	url = https://github.com/cran/spanner
 [submodule "spant"]
 	path = spant
 	url = https://github.com/cran/spant
@@ -68750,9 +68720,6 @@
 [submodule "tLagPropOdds"]
 	path = tLagPropOdds
 	url = https://github.com/cran/tLagPropOdds
-[submodule "tReeTraits"]
-	path = tReeTraits
-	url = https://github.com/cran/tReeTraits
 [submodule "tRigon"]
 	path = tRigon
 	url = https://github.com/cran/tRigon
@@ -72809,9 +72776,6 @@
 [submodule "vosonSML"]
 	path = vosonSML
 	url = https://github.com/cran/vosonSML
-[submodule "vostokR"]
-	path = vostokR
-	url = https://github.com/cran/vostokR
 [submodule "vote"]
 	path = vote
 	url = https://github.com/cran/vote
