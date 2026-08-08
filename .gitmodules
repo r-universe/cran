@@ -1229,6 +1229,9 @@
 [submodule "BKPC"]
 	path = BKPC
 	url = https://github.com/cran/BKPC
+[submodule "BKQualit"]
+	path = BKQualit
+	url = https://github.com/cran/BKQualit
 [submodule "BKT"]
 	path = BKT
 	url = https://github.com/cran/BKT
@@ -2792,6 +2795,9 @@
 [submodule "CRABS"]
 	path = CRABS
 	url = https://github.com/cran/CRABS
+[submodule "CRAFT"]
+	path = CRAFT
+	url = https://github.com/cran/CRAFT
 [submodule "CRANsearcher"]
 	path = CRANsearcher
 	url = https://github.com/cran/CRANsearcher
@@ -3590,6 +3596,9 @@
 [submodule "CompositionalSR"]
 	path = CompositionalSR
 	url = https://github.com/cran/CompositionalSR
+[submodule "Compositionalzerocens"]
+	path = Compositionalzerocens
+	url = https://github.com/cran/Compositionalzerocens
 [submodule "CompoundEvents"]
 	path = CompoundEvents
 	url = https://github.com/cran/CompoundEvents
@@ -7454,6 +7463,9 @@
 [submodule "GammaFrailty"]
 	path = GammaFrailty
 	url = https://github.com/cran/GammaFrailty
+[submodule "GammaFrailtySPC"]
+	path = GammaFrailtySPC
+	url = https://github.com/cran/GammaFrailtySPC
 [submodule "Gammareg"]
 	path = Gammareg
 	url = https://github.com/cran/Gammareg
@@ -9236,9 +9248,15 @@
 [submodule "K4ProsesSiswa"]
 	path = K4ProsesSiswa
 	url = https://github.com/cran/K4ProsesSiswa
+[submodule "K4Rumah"]
+	path = K4Rumah
+	url = https://github.com/cran/K4Rumah
 [submodule "K4Sekolah"]
 	path = K4Sekolah
 	url = https://github.com/cran/K4Sekolah
+[submodule "K4Siswa"]
+	path = K4Siswa
+	url = https://github.com/cran/K4Siswa
 [submodule "KCSKNNShiny"]
 	path = KCSKNNShiny
 	url = https://github.com/cran/KCSKNNShiny
@@ -10499,6 +10517,9 @@
 [submodule "MEMSS"]
 	path = MEMSS
 	url = https://github.com/cran/MEMSS
+[submodule "MEMWAS"]
+	path = MEMWAS
+	url = https://github.com/cran/MEMWAS
 [submodule "MERO"]
 	path = MERO
 	url = https://github.com/cran/MERO
@@ -18824,6 +18845,9 @@
 [submodule "SimuRg"]
 	path = SimuRg
 	url = https://github.com/cran/SimuRg
+[submodule "SingRegKrig"]
+	path = SingRegKrig
+	url = https://github.com/cran/SingRegKrig
 [submodule "SingleArmMRCT"]
 	path = SingleArmMRCT
 	url = https://github.com/cran/SingleArmMRCT
@@ -24905,6 +24929,9 @@
 [submodule "bigassertr"]
 	path = bigassertr
 	url = https://github.com/cran/bigassertr
+[submodule "bigbang"]
+	path = bigbang
+	url = https://github.com/cran/bigbang
 [submodule "bigdatadist"]
 	path = bigdatadist
 	url = https://github.com/cran/bigdatadist
@@ -27281,6 +27308,9 @@
 [submodule "cgwtools"]
 	path = cgwtools
 	url = https://github.com/cran/cgwtools
+[submodule "chaidr"]
+	path = chaidr
+	url = https://github.com/cran/chaidr
 [submodule "chainbinomial"]
 	path = chainbinomial
 	url = https://github.com/cran/chainbinomial
@@ -27653,6 +27683,9 @@
 [submodule "cinaRgenesets"]
 	path = cinaRgenesets
 	url = https://github.com/cran/cinaRgenesets
+[submodule "cincinnatiOpenData"]
+	path = cincinnatiOpenData
+	url = https://github.com/cran/cincinnatiOpenData
 [submodule "cinterpolate"]
 	path = cinterpolate
 	url = https://github.com/cran/cinterpolate
@@ -28379,6 +28412,9 @@
 [submodule "coca"]
 	path = coca
 	url = https://github.com/cran/coca
+[submodule "cochranSize"]
+	path = cochranSize
+	url = https://github.com/cran/cochranSize
 [submodule "cocktailApp"]
 	path = cocktailApp
 	url = https://github.com/cran/cocktailApp
@@ -31532,6 +31568,9 @@
 [submodule "denseFLMM"]
 	path = denseFLMM
 	url = https://github.com/cran/denseFLMM
+[submodule "densemlp"]
+	path = densemlp
+	url = https://github.com/cran/densemlp
 [submodule "densitr"]
 	path = densitr
 	url = https://github.com/cran/densitr
@@ -31988,6 +32027,9 @@
 [submodule "diffr"]
 	path = diffr
 	url = https://github.com/cran/diffr
+[submodule "diffuseR"]
+	path = diffuseR
+	url = https://github.com/cran/diffuseR
 [submodule "diffusion"]
 	path = diffusion
 	url = https://github.com/cran/diffusion
@@ -39224,6 +39266,9 @@
 [submodule "ggmulti"]
 	path = ggmulti
 	url = https://github.com/cran/ggmulti
+[submodule "ggmultiglyph"]
+	path = ggmultiglyph
+	url = https://github.com/cran/ggmultiglyph
 [submodule "ggnetwork"]
 	path = ggnetwork
 	url = https://github.com/cran/ggnetwork
@@ -39605,6 +39650,9 @@
 [submodule "ghapps"]
 	path = ghapps
 	url = https://github.com/cran/ghapps
+[submodule "ghcclm"]
+	path = ghcclm
+	url = https://github.com/cran/ghcclm
 [submodule "ghclass"]
 	path = ghclass
 	url = https://github.com/cran/ghclass
@@ -40307,9 +40355,15 @@
 [submodule "gpboost"]
 	path = gpboost
 	url = https://github.com/cran/gpboost
+[submodule "gpciEMprogII"]
+	path = gpciEMprogII
+	url = https://github.com/cran/gpciEMprogII
 [submodule "gpciImpSam"]
 	path = gpciImpSam
 	url = https://github.com/cran/gpciImpSam
+[submodule "gpciIntCensor"]
+	path = gpciIntCensor
+	url = https://github.com/cran/gpciIntCensor
 [submodule "gpciProgTyII"]
 	path = gpciProgTyII
 	url = https://github.com/cran/gpciProgTyII
@@ -63671,6 +63725,9 @@
 [submodule "sebkc"]
 	path = sebkc
 	url = https://github.com/cran/sebkc
+[submodule "secfile"]
+	path = secfile
+	url = https://github.com/cran/secfile
 [submodule "secr"]
 	path = secr
 	url = https://github.com/cran/secr
