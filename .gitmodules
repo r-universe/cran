@@ -15359,6 +15359,9 @@
 [submodule "RIFS"]
 	path = RIFS
 	url = https://github.com/cran/RIFS
+[submodule "RIFanalysis"]
+	path = RIFanalysis
+	url = https://github.com/cran/RIFanalysis
 [submodule "RISCA"]
 	path = RISCA
 	url = https://github.com/cran/RISCA
@@ -16934,6 +16937,9 @@
 [submodule "RgoogleMaps"]
 	path = RgoogleMaps
 	url = https://github.com/cran/RgoogleMaps
+[submodule "Rhobots"]
+	path = Rhobots
+	url = https://github.com/cran/Rhobots
 [submodule "Rhpc"]
 	path = Rhpc
 	url = https://github.com/cran/Rhpc
@@ -73670,6 +73676,9 @@
 [submodule "wordnet"]
 	path = wordnet
 	url = https://github.com/cran/wordnet
+[submodule "wordorientation"]
+	path = wordorientation
+	url = https://github.com/cran/wordorientation
 [submodule "wordpiece"]
 	path = wordpiece
 	url = https://github.com/cran/wordpiece
@@ -74087,6 +74096,9 @@
 [submodule "xrnet"]
 	path = xrnet
 	url = https://github.com/cran/xrnet
+[submodule "xsdm"]
+	path = xsdm
+	url = https://github.com/cran/xsdm
 [submodule "xslt"]
 	path = xslt
 	url = https://github.com/cran/xslt
