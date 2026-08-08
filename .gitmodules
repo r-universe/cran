@@ -1037,6 +1037,9 @@
 [submodule "BCFM"]
 	path = BCFM
 	url = https://github.com/cran/BCFM
+[submodule "BCGcalc"]
+	path = BCGcalc
+	url = https://github.com/cran/BCGcalc
 [submodule "BCHM"]
 	path = BCHM
 	url = https://github.com/cran/BCHM
@@ -34568,6 +34571,9 @@
 [submodule "ergMargins"]
 	path = ergMargins
 	url = https://github.com/cran/ergMargins
+[submodule "erglm"]
+	path = erglm
+	url = https://github.com/cran/erglm
 [submodule "ergm"]
 	path = ergm
 	url = https://github.com/cran/ergm
