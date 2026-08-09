@@ -11534,6 +11534,9 @@
 [submodule "Mhorseshoe"]
 	path = Mhorseshoe
 	url = https://github.com/cran/Mhorseshoe
+[submodule "MiCT"]
+	path = MiCT
+	url = https://github.com/cran/MiCT
 [submodule "MiRKAT"]
 	path = MiRKAT
 	url = https://github.com/cran/MiRKAT
@@ -11720,6 +11723,9 @@
 [submodule "ModTools"]
 	path = ModTools
 	url = https://github.com/cran/ModTools
+[submodule "ModToppLeone"]
+	path = ModToppLeone
+	url = https://github.com/cran/ModToppLeone
 [submodule "ModalCens"]
 	path = ModalCens
 	url = https://github.com/cran/ModalCens
@@ -12470,6 +12476,9 @@
 [submodule "NeuroDecodeR"]
 	path = NeuroDecodeR
 	url = https://github.com/cran/NeuroDecodeR
+[submodule "NeutroBasicDesignsAnalysis"]
+	path = NeutroBasicDesignsAnalysis
+	url = https://github.com/cran/NeutroBasicDesignsAnalysis
 [submodule "NeutroCODsAnalysis"]
 	path = NeutroCODsAnalysis
 	url = https://github.com/cran/NeutroCODsAnalysis
@@ -55277,6 +55286,9 @@
 [submodule "phonics"]
 	path = phonics
 	url = https://github.com/cran/phonics
+[submodule "phontrast"]
+	path = phontrast
+	url = https://github.com/cran/phontrast
 [submodule "phosphoricons"]
 	path = phosphoricons
 	url = https://github.com/cran/phosphoricons
@@ -59114,6 +59126,9 @@
 [submodule "rapsimng"]
 	path = rapsimng
 	url = https://github.com/cran/rapsimng
+[submodule "rapsimng.decide.core"]
+	path = rapsimng.decide.core
+	url = https://github.com/cran/rapsimng.decide.core
 [submodule "raptools"]
 	path = raptools
 	url = https://github.com/cran/raptools
@@ -59213,6 +59228,9 @@
 [submodule "ratesci"]
 	path = ratesci
 	url = https://github.com/cran/ratesci
+[submodule "ratingtables"]
+	path = ratingtables
+	url = https://github.com/cran/ratingtables
 [submodule "rationalfun"]
 	path = rationalfun
 	url = https://github.com/cran/rationalfun
