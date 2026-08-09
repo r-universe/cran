@@ -5069,6 +5069,9 @@
 [submodule "DrivePlotR"]
 	path = DrivePlotR
 	url = https://github.com/cran/DrivePlotR
+[submodule "DropCens"]
+	path = DropCens
+	url = https://github.com/cran/DropCens
 [submodule "DrugExposureDiagnostics"]
 	path = DrugExposureDiagnostics
 	url = https://github.com/cran/DrugExposureDiagnostics
@@ -6149,6 +6152,9 @@
 [submodule "FIND"]
 	path = FIND
 	url = https://github.com/cran/FIND
+[submodule "FINN"]
+	path = FINN
+	url = https://github.com/cran/FINN
 [submodule "FIRM"]
 	path = FIRM
 	url = https://github.com/cran/FIRM
@@ -6242,6 +6248,9 @@
 [submodule "FPLdata"]
 	path = FPLdata
 	url = https://github.com/cran/FPLdata
+[submodule "FPScausal"]
+	path = FPScausal
+	url = https://github.com/cran/FPScausal
 [submodule "FRACTION"]
 	path = FRACTION
 	url = https://github.com/cran/FRACTION
@@ -6725,6 +6734,9 @@
 [submodule "FunnelPlotR"]
 	path = FunnelPlotR
 	url = https://github.com/cran/FunnelPlotR
+[submodule "FusionForests"]
+	path = FusionForests
+	url = https://github.com/cran/FusionForests
 [submodule "FusionLearn"]
 	path = FusionLearn
 	url = https://github.com/cran/FusionLearn
@@ -7091,6 +7103,9 @@
 [submodule "GLDreg"]
 	path = GLDreg
 	url = https://github.com/cran/GLDreg
+[submodule "GLHD"]
+	path = GLHD
+	url = https://github.com/cran/GLHD
 [submodule "GLMBasedRaschEstimation"]
 	path = GLMBasedRaschEstimation
 	url = https://github.com/cran/GLMBasedRaschEstimation
@@ -8990,6 +9005,9 @@
 [submodule "IntNMF"]
 	path = IntNMF
 	url = https://github.com/cran/IntNMF
+[submodule "IntegMultiReg"]
+	path = IntegMultiReg
+	url = https://github.com/cran/IntegMultiReg
 [submodule "IntegratedJM"]
 	path = IntegratedJM
 	url = https://github.com/cran/IntegratedJM
@@ -13367,6 +13385,9 @@
 [submodule "PINMA"]
 	path = PINMA
 	url = https://github.com/cran/PINMA
+[submodule "PINNProgCens"]
+	path = PINNProgCens
+	url = https://github.com/cran/PINNProgCens
 [submodule "PINSPlus"]
 	path = PINSPlus
 	url = https://github.com/cran/PINSPlus
@@ -13427,6 +13448,9 @@
 [submodule "PLRModels"]
 	path = PLRModels
 	url = https://github.com/cran/PLRModels
+[submodule "PLSsemEngine"]
+	path = PLSsemEngine
+	url = https://github.com/cran/PLSsemEngine
 [submodule "PLUCR"]
 	path = PLUCR
 	url = https://github.com/cran/PLUCR
@@ -14435,6 +14459,9 @@
 [submodule "ProfileLikelihood"]
 	path = ProfileLikelihood
 	url = https://github.com/cran/ProfileLikelihood
+[submodule "ProgVine"]
+	path = ProgVine
+	url = https://github.com/cran/ProgVine
 [submodule "ProjectManagement"]
 	path = ProjectManagement
 	url = https://github.com/cran/ProjectManagement
@@ -26099,6 +26126,9 @@
 [submodule "bsamGP"]
 	path = bsamGP
 	url = https://github.com/cran/bsamGP
+[submodule "bscm"]
+	path = bscm
+	url = https://github.com/cran/bscm
 [submodule "bscui"]
 	path = bscui
 	url = https://github.com/cran/bscui
@@ -35057,6 +35087,9 @@
 [submodule "exact2x2"]
 	path = exact2x2
 	url = https://github.com/cran/exact2x2
+[submodule "exactGMH"]
+	path = exactGMH
+	url = https://github.com/cran/exactGMH
 [submodule "exactLTRE"]
 	path = exactLTRE
 	url = https://github.com/cran/exactLTRE
@@ -35207,6 +35240,9 @@
 [submodule "expm"]
 	path = expm
 	url = https://github.com/cran/expm
+[submodule "expoquimR"]
+	path = expoquimR
+	url = https://github.com/cran/expoquimR
 [submodule "export"]
 	path = export
 	url = https://github.com/cran/export
@@ -39167,6 +39203,9 @@
 [submodule "gghist"]
 	path = gghist
 	url = https://github.com/cran/gghist
+[submodule "gghotelling"]
+	path = gghotelling
+	url = https://github.com/cran/gghotelling
 [submodule "gghourglass"]
 	path = gghourglass
 	url = https://github.com/cran/gghourglass
@@ -40181,6 +40220,9 @@
 [submodule "gofIG"]
 	path = gofIG
 	url = https://github.com/cran/gofIG
+[submodule "gofLorenz"]
+	path = gofLorenz
+	url = https://github.com/cran/gofLorenz
 [submodule "gofPHCS"]
 	path = gofPHCS
 	url = https://github.com/cran/gofPHCS
@@ -40340,6 +40382,9 @@
 [submodule "gp"]
 	path = gp
 	url = https://github.com/cran/gp
+[submodule "gp3bayes"]
+	path = gp3bayes
+	url = https://github.com/cran/gp3bayes
 [submodule "gp3ml"]
 	path = gp3ml
 	url = https://github.com/cran/gp3ml
@@ -48260,6 +48305,9 @@
 [submodule "metabodecon"]
 	path = metabodecon
 	url = https://github.com/cran/metabodecon
+[submodule "metabodeconplus"]
+	path = metabodeconplus
+	url = https://github.com/cran/metabodeconplus
 [submodule "metabolic"]
 	path = metabolic
 	url = https://github.com/cran/metabolic
@@ -51548,6 +51596,9 @@
 [submodule "netseg"]
 	path = netseg
 	url = https://github.com/cran/netseg
+[submodule "netsimhelpers"]
+	path = netsimhelpers
+	url = https://github.com/cran/netsimhelpers
 [submodule "netstat"]
 	path = netstat
 	url = https://github.com/cran/netstat
@@ -54011,6 +54062,9 @@
 [submodule "palette"]
 	path = palette
 	url = https://github.com/cran/palette
+[submodule "palettecore"]
+	path = palettecore
+	url = https://github.com/cran/palettecore
 [submodule "paletteer"]
 	path = paletteer
 	url = https://github.com/cran/paletteer
@@ -58271,6 +58325,9 @@
 [submodule "qvirus"]
 	path = qvirus
 	url = https://github.com/cran/qvirus
+[submodule "qvivid"]
+	path = qvivid
+	url = https://github.com/cran/qvivid
 [submodule "qwalkr"]
 	path = qwalkr
 	url = https://github.com/cran/qwalkr
@@ -63428,6 +63485,9 @@
 [submodule "scilintr"]
 	path = scilintr
 	url = https://github.com/cran/scilintr
+[submodule "scimesh"]
+	path = scimesh
+	url = https://github.com/cran/scimesh
 [submodule "scimetr"]
 	path = scimetr
 	url = https://github.com/cran/scimetr
@@ -65657,6 +65717,9 @@
 [submodule "smartDesign"]
 	path = smartDesign
 	url = https://github.com/cran/smartDesign
+[submodule "smartcor"]
+	path = smartcor
+	url = https://github.com/cran/smartcor
 [submodule "smarter"]
 	path = smarter
 	url = https://github.com/cran/smarter
