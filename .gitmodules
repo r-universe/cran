@@ -72815,9 +72815,6 @@
 [submodule "voice"]
 	path = voice
 	url = https://github.com/cran/voice
-[submodule "voiceR"]
-	path = voiceR
-	url = https://github.com/cran/voiceR
 [submodule "voigt"]
 	path = voigt
 	url = https://github.com/cran/voigt
