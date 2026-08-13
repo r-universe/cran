@@ -4643,9 +4643,6 @@
 [submodule "DataSetsUni"]
 	path = DataSetsUni
 	url = https://github.com/cran/DataSetsUni
-[submodule "DataSetsVerse"]
-	path = DataSetsVerse
-	url = https://github.com/cran/DataSetsVerse
 [submodule "DataSimilarity"]
 	path = DataSimilarity
 	url = https://github.com/cran/DataSimilarity
@@ -11369,9 +11366,6 @@
 [submodule "MeasurementDiagnostics"]
 	path = MeasurementDiagnostics
 	url = https://github.com/cran/MeasurementDiagnostics
-[submodule "MedDataSets"]
-	path = MedDataSets
-	url = https://github.com/cran/MedDataSets
 [submodule "MedDietCalc"]
 	path = MedDietCalc
 	url = https://github.com/cran/MedDietCalc
