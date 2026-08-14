@@ -6155,9 +6155,6 @@
 [submodule "FKF"]
 	path = FKF
 	url = https://github.com/cran/FKF
-[submodule "FKF.SP"]
-	path = FKF.SP
-	url = https://github.com/cran/FKF.SP
 [submodule "FKSUM"]
 	path = FKSUM
 	url = https://github.com/cran/FKSUM
@@ -9812,9 +9809,6 @@
 [submodule "LSJM"]
 	path = LSJM
 	url = https://github.com/cran/LSJM
-[submodule "LSMRealOptions"]
-	path = LSMRealOptions
-	url = https://github.com/cran/LSMRealOptions
 [submodule "LSMjml"]
 	path = LSMjml
 	url = https://github.com/cran/LSMjml
