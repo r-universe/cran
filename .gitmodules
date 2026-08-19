@@ -4937,9 +4937,6 @@
 [submodule "DiscreteFWER"]
 	path = DiscreteFWER
 	url = https://github.com/cran/DiscreteFWER
-[submodule "DiscreteGapStatistic"]
-	path = DiscreteGapStatistic
-	url = https://github.com/cran/DiscreteGapStatistic
 [submodule "DiscreteInverseWeibull"]
 	path = DiscreteInverseWeibull
 	url = https://github.com/cran/DiscreteInverseWeibull
@@ -15662,9 +15659,6 @@
 [submodule "ROCpsych"]
 	path = ROCpsych
 	url = https://github.com/cran/ROCpsych
-[submodule "ROCsurf"]
-	path = ROCsurf
-	url = https://github.com/cran/ROCsurf
 [submodule "ROCsurvcomp"]
 	path = ROCsurvcomp
 	url = https://github.com/cran/ROCsurvcomp
@@ -18602,6 +18596,9 @@
 [submodule "SeqAlignR"]
 	path = SeqAlignR
 	url = https://github.com/cran/SeqAlignR
+[submodule "SeqExpMatch"]
+	path = SeqExpMatch
+	url = https://github.com/cran/SeqExpMatch
 [submodule "SeqFeatR"]
 	path = SeqFeatR
 	url = https://github.com/cran/SeqFeatR
@@ -30407,9 +30404,6 @@
 [submodule "cuda.ml"]
 	path = cuda.ml
 	url = https://github.com/cran/cuda.ml
-[submodule "cultevo"]
-	path = cultevo
-	url = https://github.com/cran/cultevo
 [submodule "cumprinc"]
 	path = cumprinc
 	url = https://github.com/cran/cumprinc
@@ -46421,9 +46415,6 @@
 [submodule "logging"]
 	path = logging
 	url = https://github.com/cran/logging
-[submodule "loggit"]
-	path = loggit
-	url = https://github.com/cran/loggit
 [submodule "loggit2"]
 	path = loggit2
 	url = https://github.com/cran/loggit2
@@ -52868,9 +52859,6 @@
 [submodule "oii"]
 	path = oii
 	url = https://github.com/cran/oii
-[submodule "ojsr"]
-	path = ojsr
-	url = https://github.com/cran/ojsr
 [submodule "okBATHTUB"]
 	path = okBATHTUB
 	url = https://github.com/cran/okBATHTUB
@@ -60467,9 +60455,6 @@
 [submodule "restimizeapi"]
 	path = restimizeapi
 	url = https://github.com/cran/restimizeapi
-[submodule "restoptr"]
-	path = restoptr
-	url = https://github.com/cran/restoptr
 [submodule "restrictR"]
 	path = restrictR
 	url = https://github.com/cran/restrictR
@@ -69986,9 +69971,6 @@
 [submodule "tidyplus"]
 	path = tidyplus
 	url = https://github.com/cran/tidyplus
-[submodule "tidypmc"]
-	path = tidypmc
-	url = https://github.com/cran/tidypmc
 [submodule "tidypopgen"]
 	path = tidypopgen
 	url = https://github.com/cran/tidypopgen
