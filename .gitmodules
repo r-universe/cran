@@ -8129,9 +8129,6 @@
 [submodule "HUM"]
 	path = HUM
 	url = https://github.com/cran/HUM
-[submodule "HVS"]
-	path = HVS
-	url = https://github.com/cran/HVS
 [submodule "HVT"]
 	path = HVT
 	url = https://github.com/cran/HVT
@@ -28148,9 +28145,6 @@
 [submodule "clustEff"]
 	path = clustEff
 	url = https://github.com/cran/clustEff
-[submodule "clustGLMM"]
-	path = clustGLMM
-	url = https://github.com/cran/clustGLMM
 [submodule "clustMD"]
 	path = clustMD
 	url = https://github.com/cran/clustMD
