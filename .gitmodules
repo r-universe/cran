@@ -72191,6 +72191,9 @@
 [submodule "valhallr"]
 	path = valhallr
 	url = https://github.com/cran/valhallr
+[submodule "validann"]
+	path = validann
+	url = https://github.com/cran/validann
 [submodule "validata"]
 	path = validata
 	url = https://github.com/cran/validata
