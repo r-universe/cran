@@ -51293,6 +51293,9 @@
 [submodule "ncodeR"]
 	path = ncodeR
 	url = https://github.com/cran/ncodeR
+[submodule "ncpen"]
+	path = ncpen
+	url = https://github.com/cran/ncpen
 [submodule "ncvreg"]
 	path = ncvreg
 	url = https://github.com/cran/ncvreg
