@@ -26315,6 +26315,9 @@
 [submodule "bvls"]
 	path = bvls
 	url = https://github.com/cran/bvls
+[submodule "bvpSolve"]
+	path = bvpSolve
+	url = https://github.com/cran/bvpSolve
 [submodule "bvpa"]
 	path = bvpa
 	url = https://github.com/cran/bvpa
@@ -31862,6 +31865,9 @@
 [submodule "dgpsi"]
 	path = dgpsi
 	url = https://github.com/cran/dgpsi
+[submodule "dgraphs"]
+	path = dgraphs
+	url = https://github.com/cran/dgraphs
 [submodule "dhga"]
 	path = dhga
 	url = https://github.com/cran/dhga
@@ -44057,6 +44063,9 @@
 [submodule "ivdoctr"]
 	path = ivdoctr
 	url = https://github.com/cran/ivdoctr
+[submodule "ivdtools"]
+	path = ivdtools
+	url = https://github.com/cran/ivdtools
 [submodule "ivgets"]
 	path = ivgets
 	url = https://github.com/cran/ivgets
@@ -63275,6 +63284,9 @@
 [submodule "scanCP"]
 	path = scanCP
 	url = https://github.com/cran/scanCP
+[submodule "scanr"]
+	path = scanr
+	url = https://github.com/cran/scanr
 [submodule "scanstatistics"]
 	path = scanstatistics
 	url = https://github.com/cran/scanstatistics
