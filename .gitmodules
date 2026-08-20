@@ -10721,6 +10721,9 @@
 [submodule "MLID"]
 	path = MLID
 	url = https://github.com/cran/MLID
+[submodule "MLMES"]
+	path = MLMES
+	url = https://github.com/cran/MLMES
 [submodule "MLML2R"]
 	path = MLML2R
 	url = https://github.com/cran/MLML2R
@@ -26918,6 +26921,9 @@
 [submodule "caustests"]
 	path = caustests
 	url = https://github.com/cran/caustests
+[submodule "caverify"]
+	path = caverify
+	url = https://github.com/cran/caverify
 [submodule "caviarpd"]
 	path = caviarpd
 	url = https://github.com/cran/caviarpd
@@ -42305,6 +42311,9 @@
 [submodule "hydroeval"]
 	path = hydroeval
 	url = https://github.com/cran/hydroeval
+[submodule "hydrogeofetch"]
+	path = hydrogeofetch
+	url = https://github.com/cran/hydrogeofetch
 [submodule "hydroloom"]
 	path = hydroloom
 	url = https://github.com/cran/hydroloom
@@ -47900,6 +47909,9 @@
 [submodule "mdir.logrank"]
 	path = mdir.logrank
 	url = https://github.com/cran/mdir.logrank
+[submodule "mditools"]
+	path = mditools
+	url = https://github.com/cran/mditools
 [submodule "mdmb"]
 	path = mdmb
 	url = https://github.com/cran/mdmb
@@ -52586,6 +52598,9 @@
 [submodule "nvmix"]
 	path = nvmix
 	url = https://github.com/cran/nvmix
+[submodule "nwaa"]
+	path = nwaa
+	url = https://github.com/cran/nwaa
 [submodule "nwsrfsr"]
 	path = nwsrfsr
 	url = https://github.com/cran/nwsrfsr
@@ -61547,6 +61562,9 @@
 [submodule "robustrao"]
 	path = robustrao
 	url = https://github.com/cran/robustrao
+[submodule "robustrcp"]
+	path = robustrcp
+	url = https://github.com/cran/robustrcp
 [submodule "robustreg"]
 	path = robustreg
 	url = https://github.com/cran/robustreg
@@ -71804,6 +71822,9 @@
 [submodule "uncorbets"]
 	path = uncorbets
 	url = https://github.com/cran/uncorbets
+[submodule "underdisp"]
+	path = underdisp
+	url = https://github.com/cran/underdisp
 [submodule "undidR"]
 	path = undidR
 	url = https://github.com/cran/undidR
@@ -73214,6 +73235,9 @@
 [submodule "weathR"]
 	path = weathR
 	url = https://github.com/cran/weathR
+[submodule "weatherMRJD"]
+	path = weatherMRJD
+	url = https://github.com/cran/weatherMRJD
 [submodule "weatherOz"]
 	path = weatherOz
 	url = https://github.com/cran/weatherOz
