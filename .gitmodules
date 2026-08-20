@@ -17336,6 +17336,9 @@
 [submodule "Rsymphony"]
 	path = Rsymphony
 	url = https://github.com/cran/Rsymphony
+[submodule "RtForecastR"]
+	path = RtForecastR
+	url = https://github.com/cran/RtForecastR
 [submodule "Rtauchen"]
 	path = Rtauchen
 	url = https://github.com/cran/Rtauchen
@@ -22529,6 +22532,9 @@
 [submodule "ale"]
 	path = ale
 	url = https://github.com/cran/ale
+[submodule "alepe"]
+	path = alepe
+	url = https://github.com/cran/alepe
 [submodule "alfr"]
 	path = alfr
 	url = https://github.com/cran/alfr
@@ -40727,6 +40733,9 @@
 [submodule "groupwalk"]
 	path = groupwalk
 	url = https://github.com/cran/groupwalk
+[submodule "grout"]
+	path = grout
+	url = https://github.com/cran/grout
 [submodule "grove"]
 	path = grove
 	url = https://github.com/cran/grove
@@ -44990,6 +44999,9 @@
 [submodule "kpiwidget"]
 	path = kpiwidget
 	url = https://github.com/cran/kpiwidget
+[submodule "kpp2019"]
+	path = kpp2019
+	url = https://github.com/cran/kpp2019
 [submodule "kriens"]
 	path = kriens
 	url = https://github.com/cran/kriens
@@ -45923,6 +45935,9 @@
 [submodule "lineagefreq"]
 	path = lineagefreq
 	url = https://github.com/cran/lineagefreq
+[submodule "lineager"]
+	path = lineager
+	url = https://github.com/cran/lineager
 [submodule "linearModel"]
 	path = linearModel
 	url = https://github.com/cran/linearModel
@@ -52820,6 +52835,9 @@
 [submodule "ofGEM"]
 	path = ofGEM
 	url = https://github.com/cran/ofGEM
+[submodule "ofemeantest"]
+	path = ofemeantest
+	url = https://github.com/cran/ofemeantest
 [submodule "officedown"]
 	path = officedown
 	url = https://github.com/cran/officedown
@@ -63419,6 +63437,9 @@
 [submodule "scmSpillover"]
 	path = scmSpillover
 	url = https://github.com/cran/scmSpillover
+[submodule "scmix"]
+	path = scmix
+	url = https://github.com/cran/scmix
 [submodule "scoper"]
 	path = scoper
 	url = https://github.com/cran/scoper
@@ -69653,6 +69674,9 @@
 [submodule "thematic"]
 	path = thematic
 	url = https://github.com/cran/thematic
+[submodule "themescopeR"]
+	path = themescopeR
+	url = https://github.com/cran/themescopeR
 [submodule "themis"]
 	path = themis
 	url = https://github.com/cran/themis
