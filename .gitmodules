@@ -839,6 +839,9 @@
 [submodule "AudioScatter"]
 	path = AudioScatter
 	url = https://github.com/cran/AudioScatter
+[submodule "AugBalWeight"]
+	path = AugBalWeight
+	url = https://github.com/cran/AugBalWeight
 [submodule "AurieLSHGaussian"]
 	path = AurieLSHGaussian
 	url = https://github.com/cran/AurieLSHGaussian
@@ -12884,6 +12887,9 @@
 [submodule "OneSampleMR"]
 	path = OneSampleMR
 	url = https://github.com/cran/OneSampleMR
+[submodule "OneShotEM"]
+	path = OneShotEM
+	url = https://github.com/cran/OneShotEM
 [submodule "OneStep"]
 	path = OneStep
 	url = https://github.com/cran/OneStep
@@ -20330,6 +20336,9 @@
 [submodule "TidyPanel"]
 	path = TidyPanel
 	url = https://github.com/cran/TidyPanel
+[submodule "TieFreeCensor"]
+	path = TieFreeCensor
+	url = https://github.com/cran/TieFreeCensor
 [submodule "Time.R"]
 	path = Time.R
 	url = https://github.com/cran/Time.R
@@ -32942,6 +32951,9 @@
 [submodule "dscoreMSM"]
 	path = dscoreMSM
 	url = https://github.com/cran/dscoreMSM
+[submodule "dsdp"]
+	path = dsdp
+	url = https://github.com/cran/dsdp
 [submodule "dsem"]
 	path = dsem
 	url = https://github.com/cran/dsem
@@ -40358,12 +40370,30 @@
 [submodule "gpciIntCensor"]
 	path = gpciIntCensor
 	url = https://github.com/cran/gpciIntCensor
+[submodule "gpciLindleyApprox"]
+	path = gpciLindleyApprox
+	url = https://github.com/cran/gpciLindleyApprox
 [submodule "gpciProgTyII"]
 	path = gpciProgTyII
 	url = https://github.com/cran/gpciProgTyII
 [submodule "gpciProgTyIIImpSam"]
 	path = gpciProgTyIIImpSam
 	url = https://github.com/cran/gpciProgTyIIImpSam
+[submodule "gpcihybridII"]
+	path = gpcihybridII
+	url = https://github.com/cran/gpcihybridII
+[submodule "gpcihybridIIEM"]
+	path = gpcihybridIIEM
+	url = https://github.com/cran/gpcihybridIIEM
+[submodule "gpcihybridIIImpSam"]
+	path = gpcihybridIIImpSam
+	url = https://github.com/cran/gpcihybridIIImpSam
+[submodule "gpcihybridIILinApp"]
+	path = gpcihybridIILinApp
+	url = https://github.com/cran/gpcihybridIILinApp
+[submodule "gpcihybridIImcmc"]
+	path = gpcihybridIImcmc
+	url = https://github.com/cran/gpcihybridIImcmc
 [submodule "gpcp"]
 	path = gpcp
 	url = https://github.com/cran/gpcp
@@ -53816,6 +53846,9 @@
 [submodule "pGRN"]
 	path = pGRN
 	url = https://github.com/cran/pGRN
+[submodule "pHMC"]
+	path = pHMC
+	url = https://github.com/cran/pHMC
 [submodule "pKSEA"]
 	path = pKSEA
 	url = https://github.com/cran/pKSEA
@@ -64517,6 +64550,9 @@
 [submodule "shiny.exe"]
 	path = shiny.exe
 	url = https://github.com/cran/shiny.exe
+[submodule "shiny.fluent"]
+	path = shiny.fluent
+	url = https://github.com/cran/shiny.fluent
 [submodule "shiny.i18n"]
 	path = shiny.i18n
 	url = https://github.com/cran/shiny.i18n
