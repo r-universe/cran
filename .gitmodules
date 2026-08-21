@@ -71243,6 +71243,9 @@
 [submodule "tsBSS"]
 	path = tsBSS
 	url = https://github.com/cran/tsBSS
+[submodule "tsDyn"]
+	path = tsDyn
+	url = https://github.com/cran/tsDyn
 [submodule "tsLSTMx"]
 	path = tsLSTMx
 	url = https://github.com/cran/tsLSTMx
