@@ -66113,6 +66113,9 @@
 [submodule "sonicLength"]
 	path = sonicLength
 	url = https://github.com/cran/sonicLength
+[submodule "sonicscrewdriver"]
+	path = sonicscrewdriver
+	url = https://github.com/cran/sonicscrewdriver
 [submodule "sonify"]
 	path = sonify
 	url = https://github.com/cran/sonify
