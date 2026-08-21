@@ -22724,9 +22724,6 @@
 [submodule "amerika"]
 	path = amerika
 	url = https://github.com/cran/amerika
-[submodule "ami"]
-	path = ami
-	url = https://github.com/cran/ami
 [submodule "ammiBayes"]
 	path = ammiBayes
 	url = https://github.com/cran/ammiBayes
