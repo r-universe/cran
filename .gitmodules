@@ -3815,6 +3815,9 @@
 [submodule "CoxAIPW"]
 	path = CoxAIPW
 	url = https://github.com/cran/CoxAIPW
+[submodule "CoxAalenCR"]
+	path = CoxAalenCR
+	url = https://github.com/cran/CoxAalenCR
 [submodule "CoxBcv"]
 	path = CoxBcv
 	url = https://github.com/cran/CoxBcv
@@ -11828,6 +11831,9 @@
 [submodule "MuPETFlow"]
 	path = MuPETFlow
 	url = https://github.com/cran/MuPETFlow
+[submodule "MuTATE"]
+	path = MuTATE
+	url = https://github.com/cran/MuTATE
 [submodule "MuViCP"]
 	path = MuViCP
 	url = https://github.com/cran/MuViCP
@@ -40631,6 +40637,9 @@
 [submodule "gravmagsubs"]
 	path = gravmagsubs
 	url = https://github.com/cran/gravmagsubs
+[submodule "grayleafspotdata"]
+	path = grayleafspotdata
+	url = https://github.com/cran/grayleafspotdata
 [submodule "greatR"]
 	path = greatR
 	url = https://github.com/cran/greatR
