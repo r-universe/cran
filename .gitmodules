@@ -43067,6 +43067,9 @@
 [submodule "implicitExpansion"]
 	path = implicitExpansion
 	url = https://github.com/cran/implicitExpansion
+[submodule "implicitMeasures"]
+	path = implicitMeasures
+	url = https://github.com/cran/implicitMeasures
 [submodule "implied"]
 	path = implied
 	url = https://github.com/cran/implied
@@ -47417,6 +47420,9 @@
 [submodule "marmap"]
 	path = marmap
 	url = https://github.com/cran/marmap
+[submodule "marp"]
+	path = marp
+	url = https://github.com/cran/marp
 [submodule "marqLevAlg"]
 	path = marqLevAlg
 	url = https://github.com/cran/marqLevAlg
@@ -71237,9 +71243,6 @@
 [submodule "tsBSS"]
 	path = tsBSS
 	url = https://github.com/cran/tsBSS
-[submodule "tsDyn"]
-	path = tsDyn
-	url = https://github.com/cran/tsDyn
 [submodule "tsLSTMx"]
 	path = tsLSTMx
 	url = https://github.com/cran/tsLSTMx
