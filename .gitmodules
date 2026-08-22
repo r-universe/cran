@@ -23753,6 +23753,9 @@
 [submodule "autonewsmd"]
 	path = autonewsmd
 	url = https://github.com/cran/autonewsmd
+[submodule "autoplotly"]
+	path = autoplotly
+	url = https://github.com/cran/autoplotly
 [submodule "autoshiny"]
 	path = autoshiny
 	url = https://github.com/cran/autoshiny
@@ -26627,6 +26630,9 @@
 [submodule "caplot"]
 	path = caplot
 	url = https://github.com/cran/caplot
+[submodule "capn"]
+	path = capn
+	url = https://github.com/cran/capn
 [submodule "capr"]
 	path = capr
 	url = https://github.com/cran/capr
@@ -29708,6 +29714,9 @@
 [submodule "courieR"]
 	path = courieR
 	url = https://github.com/cran/courieR
+[submodule "coursekata"]
+	path = coursekata
+	url = https://github.com/cran/coursekata
 [submodule "covBM"]
 	path = covBM
 	url = https://github.com/cran/covBM
