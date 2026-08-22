@@ -23912,6 +23912,9 @@
 [submodule "baRcodeR"]
 	path = baRcodeR
 	url = https://github.com/cran/baRcodeR
+[submodule "baRulho"]
+	path = baRulho
+	url = https://github.com/cran/baRulho
 [submodule "babebi"]
 	path = babebi
 	url = https://github.com/cran/babebi
@@ -52778,6 +52781,9 @@
 [submodule "obm"]
 	path = obm
 	url = https://github.com/cran/obm
+[submodule "obr"]
+	path = obr
+	url = https://github.com/cran/obr
 [submodule "obrasgovr"]
 	path = obrasgovr
 	url = https://github.com/cran/obrasgovr
@@ -55298,6 +55304,9 @@
 [submodule "phonetisr"]
 	path = phonetisr
 	url = https://github.com/cran/phonetisr
+[submodule "phonfieldwork"]
+	path = phonfieldwork
+	url = https://github.com/cran/phonfieldwork
 [submodule "phonics"]
 	path = phonics
 	url = https://github.com/cran/phonics
@@ -56201,6 +56210,9 @@
 [submodule "polished"]
 	path = polished
 	url = https://github.com/cran/polished
+[submodule "polite"]
+	path = polite
+	url = https://github.com/cran/polite
 [submodule "politeness"]
 	path = politeness
 	url = https://github.com/cran/politeness
@@ -61493,6 +61505,9 @@
 [submodule "roadoi"]
 	path = roadoi
 	url = https://github.com/cran/roadoi
+[submodule "roads"]
+	path = roads
+	url = https://github.com/cran/roads
 [submodule "roahd"]
 	path = roahd
 	url = https://github.com/cran/roahd
@@ -62363,6 +62378,9 @@
 [submodule "rsurveycto"]
 	path = rsurveycto
 	url = https://github.com/cran/rsurveycto
+[submodule "rsurvstat"]
+	path = rsurvstat
+	url = https://github.com/cran/rsurvstat
 [submodule "rsvd"]
 	path = rsvd
 	url = https://github.com/cran/rsvd
