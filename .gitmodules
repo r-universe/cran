@@ -7769,9 +7769,6 @@
 [submodule "GoodmanKruskal"]
 	path = GoodmanKruskal
 	url = https://github.com/cran/GoodmanKruskal
-[submodule "Goodreader"]
-	path = Goodreader
-	url = https://github.com/cran/Goodreader
 [submodule "GoogleKnowledgeGraphR"]
 	path = GoogleKnowledgeGraphR
 	url = https://github.com/cran/GoogleKnowledgeGraphR
@@ -11288,9 +11285,6 @@
 [submodule "MasterBayes"]
 	path = MasterBayes
 	url = https://github.com/cran/MasterBayes
-[submodule "MatTransMix"]
-	path = MatTransMix
-	url = https://github.com/cran/MatTransMix
 [submodule "MatchGATE"]
 	path = MatchGATE
 	url = https://github.com/cran/MatchGATE
@@ -18635,9 +18629,6 @@
 [submodule "SeqExpMatch"]
 	path = SeqExpMatch
 	url = https://github.com/cran/SeqExpMatch
-[submodule "SeqFeatR"]
-	path = SeqFeatR
-	url = https://github.com/cran/SeqFeatR
 [submodule "SeqKat"]
 	path = SeqKat
 	url = https://github.com/cran/SeqKat
@@ -18698,9 +18689,6 @@
 [submodule "SharpeR"]
 	path = SharpeR
 	url = https://github.com/cran/SharpeR
-[submodule "SheetReader"]
-	path = SheetReader
-	url = https://github.com/cran/SheetReader
 [submodule "ShellChron"]
 	path = ShellChron
 	url = https://github.com/cran/ShellChron
@@ -31187,9 +31175,6 @@
 [submodule "dbx"]
 	path = dbx
 	url = https://github.com/cran/dbx
-[submodule "dc3net"]
-	path = dc3net
-	url = https://github.com/cran/dc3net
 [submodule "dcTensor"]
 	path = dcTensor
 	url = https://github.com/cran/dcTensor
@@ -34910,9 +34895,6 @@
 [submodule "eulerr"]
 	path = eulerr
 	url = https://github.com/cran/eulerr
-[submodule "eummd"]
-	path = eummd
-	url = https://github.com/cran/eummd
 [submodule "eunis.habitats"]
 	path = eunis.habitats
 	url = https://github.com/cran/eunis.habitats
