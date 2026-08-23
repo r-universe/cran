@@ -58364,6 +58364,9 @@
 [submodule "qvirus"]
 	path = qvirus
 	url = https://github.com/cran/qvirus
+[submodule "qvivid"]
+	path = qvivid
+	url = https://github.com/cran/qvivid
 [submodule "qwalkr"]
 	path = qwalkr
 	url = https://github.com/cran/qwalkr
