@@ -9968,6 +9968,9 @@
 [submodule "LeArEst"]
 	path = LeArEst
 	url = https://github.com/cran/LeArEst
+[submodule "LeLogicielR"]
+	path = LeLogicielR
+	url = https://github.com/cran/LeLogicielR
 [submodule "LeMaRns"]
 	path = LeMaRns
 	url = https://github.com/cran/LeMaRns
@@ -19961,6 +19964,9 @@
 [submodule "TRES"]
 	path = TRES
 	url = https://github.com/cran/TRES
+[submodule "TRSbook"]
+	path = TRSbook
+	url = https://github.com/cran/TRSbook
 [submodule "TRexSelector"]
 	path = TRexSelector
 	url = https://github.com/cran/TRexSelector
@@ -43295,6 +43301,9 @@
 [submodule "inecolr"]
 	path = inecolr
 	url = https://github.com/cran/inecolr
+[submodule "inedemogR"]
+	path = inedemogR
+	url = https://github.com/cran/inedemogR
 [submodule "ineptr2"]
 	path = ineptr2
 	url = https://github.com/cran/ineptr2
