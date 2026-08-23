@@ -53642,6 +53642,9 @@
 [submodule "orthoDr"]
 	path = orthoDr
 	url = https://github.com/cran/orthoDr
+[submodule "orthoMTL"]
+	path = orthoMTL
+	url = https://github.com/cran/orthoMTL
 [submodule "orthogonalsplinebasis"]
 	path = orthogonalsplinebasis
 	url = https://github.com/cran/orthogonalsplinebasis
