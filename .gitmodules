@@ -5378,9 +5378,6 @@
 [submodule "EMMIXmfa"]
 	path = EMMIXmfa
 	url = https://github.com/cran/EMMIXmfa
-[submodule "EMMLi"]
-	path = EMMLi
-	url = https://github.com/cran/EMMLi
 [submodule "EMMREML"]
 	path = EMMREML
 	url = https://github.com/cran/EMMREML
@@ -30131,6 +30128,9 @@
 [submodule "crops"]
 	path = crops
 	url = https://github.com/cran/crops
+[submodule "cropwatMUL"]
+	path = cropwatMUL
+	url = https://github.com/cran/cropwatMUL
 [submodule "crossdes"]
 	path = crossdes
 	url = https://github.com/cran/crossdes
@@ -31352,6 +31352,9 @@
 [submodule "decido"]
 	path = decido
 	url = https://github.com/cran/decido
+[submodule "decimal"]
+	path = decimal
+	url = https://github.com/cran/decimal
 [submodule "decision"]
 	path = decision
 	url = https://github.com/cran/decision
@@ -33584,6 +33587,9 @@
 [submodule "ebdm"]
 	path = ebdm
 	url = https://github.com/cran/ebdm
+[submodule "ebdt"]
+	path = ebdt
+	url = https://github.com/cran/ebdt
 [submodule "ebirdst"]
 	path = ebirdst
 	url = https://github.com/cran/ebirdst
@@ -40253,6 +40259,9 @@
 [submodule "gogarch"]
 	path = gogarch
 	url = https://github.com/cran/gogarch
+[submodule "golden"]
+	path = golden
+	url = https://github.com/cran/golden
 [submodule "goldfish"]
 	path = goldfish
 	url = https://github.com/cran/goldfish
@@ -55592,9 +55601,6 @@
 [submodule "pipetime"]
 	path = pipetime
 	url = https://github.com/cran/pipetime
-[submodule "pipr"]
-	path = pipr
-	url = https://github.com/cran/pipr
 [submodule "piqp"]
 	path = piqp
 	url = https://github.com/cran/piqp
@@ -56882,6 +56888,9 @@
 [submodule "presmoothedTP"]
 	path = presmoothedTP
 	url = https://github.com/cran/presmoothedTP
+[submodule "pressfreedom.data"]
+	path = pressfreedom.data
+	url = https://github.com/cran/pressfreedom.data
 [submodule "pressuRe"]
 	path = pressuRe
 	url = https://github.com/cran/pressuRe
