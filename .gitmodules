@@ -3062,6 +3062,9 @@
 [submodule "CausalSpline"]
 	path = CausalSpline
 	url = https://github.com/cran/CausalSpline
+[submodule "CausalState"]
+	path = CausalState
+	url = https://github.com/cran/CausalState
 [submodule "CautiousLearning"]
 	path = CautiousLearning
 	url = https://github.com/cran/CautiousLearning
@@ -3587,6 +3590,9 @@
 [submodule "CompositionalML"]
 	path = CompositionalML
 	url = https://github.com/cran/CompositionalML
+[submodule "CompositionalMPT"]
+	path = CompositionalMPT
+	url = https://github.com/cran/CompositionalMPT
 [submodule "CompositionalNAimp"]
 	path = CompositionalNAimp
 	url = https://github.com/cran/CompositionalNAimp
@@ -52697,6 +52703,9 @@
 [submodule "nycflights23"]
 	path = nycflights23
 	url = https://github.com/cran/nycflights23
+[submodule "nysOpenData"]
+	path = nysOpenData
+	url = https://github.com/cran/nysOpenData
 [submodule "nzffdr"]
 	path = nzffdr
 	url = https://github.com/cran/nzffdr
@@ -59867,6 +59876,9 @@
 [submodule "ream"]
 	path = ream
 	url = https://github.com/cran/ream
+[submodule "reapeR"]
+	path = reapeR
+	url = https://github.com/cran/reapeR
 [submodule "reappraised"]
 	path = reappraised
 	url = https://github.com/cran/reappraised
