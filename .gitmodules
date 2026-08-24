@@ -23780,9 +23780,6 @@
 [submodule "autotestR"]
 	path = autotestR
 	url = https://github.com/cran/autotestR
-[submodule "autotesteR"]
-	path = autotesteR
-	url = https://github.com/cran/autotesteR
 [submodule "autothresholdr"]
 	path = autothresholdr
 	url = https://github.com/cran/autothresholdr
@@ -62042,6 +62039,9 @@
 [submodule "rpinterest"]
 	path = rpinterest
 	url = https://github.com/cran/rpinterest
+[submodule "rpivotTable"]
+	path = rpivotTable
+	url = https://github.com/cran/rpivotTable
 [submodule "rpkgkit"]
 	path = rpkgkit
 	url = https://github.com/cran/rpkgkit
