@@ -3683,6 +3683,9 @@
 [submodule "ConsReg"]
 	path = ConsReg
 	url = https://github.com/cran/ConsReg
+[submodule "ConsensusCPA"]
+	path = ConsensusCPA
+	url = https://github.com/cran/ConsensusCPA
 [submodule "ConsensusClustering"]
 	path = ConsensusClustering
 	url = https://github.com/cran/ConsensusClustering
@@ -13988,6 +13991,9 @@
 [submodule "PenIC"]
 	path = PenIC
 	url = https://github.com/cran/PenIC
+[submodule "PenalReg"]
+	path = PenalReg
+	url = https://github.com/cran/PenalReg
 [submodule "PenguinR"]
 	path = PenguinR
 	url = https://github.com/cran/PenguinR
@@ -18944,6 +18950,9 @@
 [submodule "SmartMeterAnalytics"]
 	path = SmartMeterAnalytics
 	url = https://github.com/cran/SmartMeterAnalytics
+[submodule "SmartPK"]
+	path = SmartPK
+	url = https://github.com/cran/SmartPK
 [submodule "SmartSVA"]
 	path = SmartSVA
 	url = https://github.com/cran/SmartSVA
@@ -30359,6 +30368,9 @@
 [submodule "ctgdist"]
 	path = ctgdist
 	url = https://github.com/cran/ctgdist
+[submodule "ctgimme"]
+	path = ctgimme
+	url = https://github.com/cran/ctgimme
 [submodule "ctgt"]
 	path = ctgt
 	url = https://github.com/cran/ctgt
@@ -41147,6 +41159,9 @@
 [submodule "gwpcormapper"]
 	path = gwpcormapper
 	url = https://github.com/cran/gwpcormapper
+[submodule "gwrf"]
+	path = gwrf
+	url = https://github.com/cran/gwrf
 [submodule "gwrpvr"]
 	path = gwrpvr
 	url = https://github.com/cran/gwrpvr
@@ -41615,6 +41630,9 @@
 [submodule "hellokitty"]
 	path = hellokitty
 	url = https://github.com/cran/hellokitty
+[submodule "hellometry"]
+	path = hellometry
+	url = https://github.com/cran/hellometry
 [submodule "hellorust"]
 	path = hellorust
 	url = https://github.com/cran/hellorust
@@ -55601,6 +55619,9 @@
 [submodule "pipetime"]
 	path = pipetime
 	url = https://github.com/cran/pipetime
+[submodule "pipr"]
+	path = pipr
+	url = https://github.com/cran/pipr
 [submodule "piqp"]
 	path = piqp
 	url = https://github.com/cran/piqp
