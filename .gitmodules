@@ -4430,6 +4430,9 @@
 [submodule "DRIP"]
 	path = DRIP
 	url = https://github.com/cran/DRIP
+[submodule "DRLAP2"]
+	path = DRLAP2
+	url = https://github.com/cran/DRLAP2
 [submodule "DRPT"]
 	path = DRPT
 	url = https://github.com/cran/DRPT
@@ -10508,6 +10511,9 @@
 [submodule "MDSS"]
 	path = MDSS
 	url = https://github.com/cran/MDSS
+[submodule "MDaRes"]
+	path = MDaRes
+	url = https://github.com/cran/MDaRes
 [submodule "MDgof"]
 	path = MDgof
 	url = https://github.com/cran/MDgof
@@ -31544,6 +31550,9 @@
 [submodule "deltaPlotR"]
 	path = deltaPlotR
 	url = https://github.com/cran/deltaPlotR
+[submodule "deltabreedquery"]
+	path = deltabreedquery
+	url = https://github.com/cran/deltabreedquery
 [submodule "deltaccd"]
 	path = deltaccd
 	url = https://github.com/cran/deltaccd
