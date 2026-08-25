@@ -8603,6 +8603,9 @@
 [submodule "IGC.CSM"]
 	path = IGC.CSM
 	url = https://github.com/cran/IGC.CSM
+[submodule "IGPFrailty"]
+	path = IGPFrailty
+	url = https://github.com/cran/IGPFrailty
 [submodule "IGST"]
 	path = IGST
 	url = https://github.com/cran/IGST
@@ -43574,6 +43577,9 @@
 [submodule "inteq"]
 	path = inteq
 	url = https://github.com/cran/inteq
+[submodule "interSAE"]
+	path = interSAE
+	url = https://github.com/cran/interSAE
 [submodule "interactionR"]
 	path = interactionR
 	url = https://github.com/cran/interactionR
