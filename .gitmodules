@@ -3458,6 +3458,9 @@
 [submodule "CohortGenerator"]
 	path = CohortGenerator
 	url = https://github.com/cran/CohortGenerator
+[submodule "CohortIncidence"]
+	path = CohortIncidence
+	url = https://github.com/cran/CohortIncidence
 [submodule "CohortMethod"]
 	path = CohortMethod
 	url = https://github.com/cran/CohortMethod
