@@ -41318,9 +41318,6 @@
 [submodule "harmony"]
 	path = harmony
 	url = https://github.com/cran/harmony
-[submodule "harmonydata"]
-	path = harmonydata
-	url = https://github.com/cran/harmonydata
 [submodule "harness"]
 	path = harness
 	url = https://github.com/cran/harness
