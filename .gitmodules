@@ -179,6 +179,9 @@
 [submodule "AIPW"]
 	path = AIPW
 	url = https://github.com/cran/AIPW
+[submodule "AISanalyze"]
+	path = AISanalyze
+	url = https://github.com/cran/AISanalyze
 [submodule "AIUQ"]
 	path = AIUQ
 	url = https://github.com/cran/AIUQ
@@ -578,6 +581,9 @@
 [submodule "AgriDiversiX"]
 	path = AgriDiversiX
 	url = https://github.com/cran/AgriDiversiX
+[submodule "AgriFusionR"]
+	path = AgriFusionR
+	url = https://github.com/cran/AgriFusionR
 [submodule "AgroR"]
 	path = AgroR
 	url = https://github.com/cran/AgroR
@@ -26615,6 +26621,9 @@
 [submodule "cansim"]
 	path = cansim
 	url = https://github.com/cran/cansim
+[submodule "cantrends"]
+	path = cantrends
+	url = https://github.com/cran/cantrends
 [submodule "canvasXpress"]
 	path = canvasXpress
 	url = https://github.com/cran/canvasXpress
@@ -34373,6 +34382,9 @@
 [submodule "enrichwith"]
 	path = enrichwith
 	url = https://github.com/cran/enrichwith
+[submodule "enrollcast"]
+	path = enrollcast
+	url = https://github.com/cran/enrollcast
 [submodule "ensModelVis"]
 	path = ensModelVis
 	url = https://github.com/cran/ensModelVis
@@ -39344,6 +39356,9 @@
 [submodule "ggnewscale"]
 	path = ggnewscale
 	url = https://github.com/cran/ggnewscale
+[submodule "ggnext"]
+	path = ggnext
+	url = https://github.com/cran/ggnext
 [submodule "ggnormalviolin"]
 	path = ggnormalviolin
 	url = https://github.com/cran/ggnormalviolin
@@ -40442,6 +40457,9 @@
 [submodule "gpciIntCensor"]
 	path = gpciIntCensor
 	url = https://github.com/cran/gpciIntCensor
+[submodule "gpciLindApproxProgII"]
+	path = gpciLindApproxProgII
+	url = https://github.com/cran/gpciLindApproxProgII
 [submodule "gpciLindleyApprox"]
 	path = gpciLindleyApprox
 	url = https://github.com/cran/gpciLindleyApprox
@@ -51017,6 +51035,9 @@
 [submodule "mvardlurt"]
 	path = mvardlurt
 	url = https://github.com/cran/mvardlurt
+[submodule "mvboxcox"]
+	path = mvboxcox
+	url = https://github.com/cran/mvboxcox
 [submodule "mvbutils"]
 	path = mvbutils
 	url = https://github.com/cran/mvbutils
@@ -67124,6 +67145,9 @@
 [submodule "sport"]
 	path = sport
 	url = https://github.com/cran/sport
+[submodule "sportsR"]
+	path = sportsR
+	url = https://github.com/cran/sportsR
 [submodule "sportsfeatures"]
 	path = sportsfeatures
 	url = https://github.com/cran/sportsfeatures
@@ -69704,6 +69728,9 @@
 [submodule "textcat"]
 	path = textcat
 	url = https://github.com/cran/textcat
+[submodule "textclassificationtutorial"]
+	path = textclassificationtutorial
+	url = https://github.com/cran/textclassificationtutorial
 [submodule "textclean"]
 	path = textclean
 	url = https://github.com/cran/textclean
