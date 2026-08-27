@@ -5954,6 +5954,9 @@
 [submodule "ExpDes"]
 	path = ExpDes
 	url = https://github.com/cran/ExpDes
+[submodule "ExpDesignR"]
+	path = ExpDesignR
+	url = https://github.com/cran/ExpDesignR
 [submodule "ExpGenetic"]
 	path = ExpGenetic
 	url = https://github.com/cran/ExpGenetic
@@ -11954,6 +11957,9 @@
 [submodule "MultiRobust"]
 	path = MultiRobust
 	url = https://github.com/cran/MultiRobust
+[submodule "MultiSEp"]
+	path = MultiSEp
+	url = https://github.com/cran/MultiSEp
 [submodule "MultiSkew"]
 	path = MultiSkew
 	url = https://github.com/cran/MultiSkew
@@ -12716,6 +12722,9 @@
 [submodule "OPTtesting"]
 	path = OPTtesting
 	url = https://github.com/cran/OPTtesting
+[submodule "ORCI.Welch"]
+	path = ORCI.Welch
+	url = https://github.com/cran/ORCI.Welch
 [submodule "ORCME"]
 	path = ORCME
 	url = https://github.com/cran/ORCME
@@ -45458,6 +45467,9 @@
 [submodule "lars"]
 	path = lars
 	url = https://github.com/cran/lars
+[submodule "lasars"]
+	path = lasars
+	url = https://github.com/cran/lasars
 [submodule "lassopv"]
 	path = lassopv
 	url = https://github.com/cran/lassopv
@@ -63770,9 +63782,6 @@
 [submodule "scrypt"]
 	path = scrypt
 	url = https://github.com/cran/scrypt
-[submodule "scryr"]
-	path = scryr
-	url = https://github.com/cran/scryr
 [submodule "scs"]
 	path = scs
 	url = https://github.com/cran/scs
