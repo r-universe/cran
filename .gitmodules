@@ -380,9 +380,6 @@
 [submodule "ASML"]
 	path = ASML
 	url = https://github.com/cran/ASML
-[submodule "ASMap"]
-	path = ASMap
-	url = https://github.com/cran/ASMap
 [submodule "ASMbook"]
 	path = ASMbook
 	url = https://github.com/cran/ASMbook
@@ -1241,9 +1238,6 @@
 [submodule "BKQualit"]
 	path = BKQualit
 	url = https://github.com/cran/BKQualit
-[submodule "BKT"]
-	path = BKT
-	url = https://github.com/cran/BKT
 [submodule "BKTR"]
 	path = BKTR
 	url = https://github.com/cran/BKTR
@@ -9227,9 +9221,6 @@
 [submodule "JWileymisc"]
 	path = JWileymisc
 	url = https://github.com/cran/JWileymisc
-[submodule "JacobiEigen"]
-	path = JacobiEigen
-	url = https://github.com/cran/JacobiEigen
 [submodule "Jacquard"]
 	path = Jacquard
 	url = https://github.com/cran/Jacquard
@@ -13637,6 +13628,9 @@
 [submodule "PQA"]
 	path = PQA
 	url = https://github.com/cran/PQA
+[submodule "PRA"]
+	path = PRA
+	url = https://github.com/cran/PRA
 [submodule "PRANA"]
 	path = PRANA
 	url = https://github.com/cran/PRANA
@@ -21026,6 +21020,9 @@
 [submodule "VancouvR"]
 	path = VancouvR
 	url = https://github.com/cran/VancouvR
+[submodule "VanillaCalendar"]
+	path = VanillaCalendar
+	url = https://github.com/cran/VanillaCalendar
 [submodule "VarED"]
 	path = VarED
 	url = https://github.com/cran/VarED
@@ -21464,9 +21461,6 @@
 [submodule "WorldMapR"]
 	path = WorldMapR
 	url = https://github.com/cran/WorldMapR
-[submodule "WormTensor"]
-	path = WormTensor
-	url = https://github.com/cran/WormTensor
 [submodule "WpProj"]
 	path = WpProj
 	url = https://github.com/cran/WpProj
@@ -21803,9 +21797,6 @@
 [submodule "accbaseballr"]
 	path = accbaseballr
 	url = https://github.com/cran/accbaseballr
-[submodule "accelEE"]
-	path = accelEE
-	url = https://github.com/cran/accelEE
 [submodule "accelmissing"]
 	path = accelmissing
 	url = https://github.com/cran/accelmissing
@@ -23243,9 +23234,6 @@
 [submodule "arcpy"]
 	path = arcpy
 	url = https://github.com/cran/arcpy
-[submodule "arctools"]
-	path = arctools
-	url = https://github.com/cran/arctools
 [submodule "ardl.nardl"]
 	path = ardl.nardl
 	url = https://github.com/cran/ardl.nardl
@@ -24464,6 +24452,9 @@
 [submodule "bayesrules"]
 	path = bayesrules
 	url = https://github.com/cran/bayesrules
+[submodule "bayess"]
+	path = bayess
+	url = https://github.com/cran/bayess
 [submodule "bayest"]
 	path = bayest
 	url = https://github.com/cran/bayest
@@ -31556,6 +31547,9 @@
 [submodule "deldir"]
 	path = deldir
 	url = https://github.com/cran/deldir
+[submodule "deli"]
+	path = deli
+	url = https://github.com/cran/deli
 [submodule "deliberr"]
 	path = deliberr
 	url = https://github.com/cran/deliberr
@@ -43355,9 +43349,6 @@
 [submodule "industRial"]
 	path = industRial
 	url = https://github.com/cran/industRial
-[submodule "ineAtlas"]
-	path = ineAtlas
-	url = https://github.com/cran/ineAtlas
 [submodule "ineapir"]
 	path = ineapir
 	url = https://github.com/cran/ineapir
@@ -45572,6 +45563,9 @@
 [submodule "layer"]
 	path = layer
 	url = https://github.com/cran/layer
+[submodule "layeranalyzer"]
+	path = layeranalyzer
+	url = https://github.com/cran/layeranalyzer
 [submodule "lazyData"]
 	path = lazyData
 	url = https://github.com/cran/lazyData
@@ -49172,9 +49166,6 @@
 [submodule "missCforest"]
 	path = missCforest
 	url = https://github.com/cran/missCforest
-[submodule "missCompare"]
-	path = missCompare
-	url = https://github.com/cran/missCompare
 [submodule "missDeaths"]
 	path = missDeaths
 	url = https://github.com/cran/missDeaths
@@ -62690,9 +62681,6 @@
 [submodule "runonce"]
 	path = runonce
 	url = https://github.com/cran/runonce
-[submodule "runstats"]
-	path = runstats
-	url = https://github.com/cran/runstats
 [submodule "rupturesRcpp"]
 	path = rupturesRcpp
 	url = https://github.com/cran/rupturesRcpp
@@ -63407,9 +63395,6 @@
 [submodule "scOntoMatch"]
 	path = scOntoMatch
 	url = https://github.com/cran/scOntoMatch
-[submodule "scPOEM"]
-	path = scPOEM
-	url = https://github.com/cran/scPOEM
 [submodule "scPairs"]
 	path = scPairs
 	url = https://github.com/cran/scPairs
