@@ -9530,9 +9530,6 @@
 [submodule "LA"]
 	path = LA
 	url = https://github.com/cran/LA
-[submodule "LABTNSCPSS"]
-	path = LABTNSCPSS
-	url = https://github.com/cran/LABTNSCPSS
 [submodule "LAD"]
 	path = LAD
 	url = https://github.com/cran/LAD
