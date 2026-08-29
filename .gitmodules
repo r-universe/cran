@@ -21797,6 +21797,9 @@
 [submodule "accbaseballr"]
 	path = accbaseballr
 	url = https://github.com/cran/accbaseballr
+[submodule "accelEE"]
+	path = accelEE
+	url = https://github.com/cran/accelEE
 [submodule "accelmissing"]
 	path = accelmissing
 	url = https://github.com/cran/accelmissing
@@ -25460,9 +25463,6 @@
 [submodule "bliss"]
 	path = bliss
 	url = https://github.com/cran/bliss
-[submodule "blit"]
-	path = blit
-	url = https://github.com/cran/blit
 [submodule "blm"]
 	path = blm
 	url = https://github.com/cran/blm
@@ -62261,9 +62261,6 @@
 [submodule "rsae"]
 	path = rsae
 	url = https://github.com/cran/rsae
-[submodule "rsahmi"]
-	path = rsahmi
-	url = https://github.com/cran/rsahmi
 [submodule "rsample"]
 	path = rsample
 	url = https://github.com/cran/rsample
