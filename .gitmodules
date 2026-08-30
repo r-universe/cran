@@ -7979,9 +7979,6 @@
 [submodule "HDcpDetect"]
 	path = HDcpDetect
 	url = https://github.com/cran/HDcpDetect
-[submodule "HDiR"]
-	path = HDiR
-	url = https://github.com/cran/HDiR
 [submodule "HDoutliers"]
 	path = HDoutliers
 	url = https://github.com/cran/HDoutliers
