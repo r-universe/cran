@@ -3455,6 +3455,9 @@
 [submodule "CohortContrast"]
 	path = CohortContrast
 	url = https://github.com/cran/CohortContrast
+[submodule "CohortCosts"]
+	path = CohortCosts
+	url = https://github.com/cran/CohortCosts
 [submodule "CohortGenerator"]
 	path = CohortGenerator
 	url = https://github.com/cran/CohortGenerator
@@ -3473,6 +3476,9 @@
 [submodule "CohortSymmetry"]
 	path = CohortSymmetry
 	url = https://github.com/cran/CohortSymmetry
+[submodule "CohortUtilisation"]
+	path = CohortUtilisation
+	url = https://github.com/cran/CohortUtilisation
 [submodule "CoinMinD"]
 	path = CoinMinD
 	url = https://github.com/cran/CoinMinD
@@ -5561,6 +5567,9 @@
 [submodule "EasyMx"]
 	path = EasyMx
 	url = https://github.com/cran/EasyMx
+[submodule "EasyPCA"]
+	path = EasyPCA
+	url = https://github.com/cran/EasyPCA
 [submodule "EasyStat"]
 	path = EasyStat
 	url = https://github.com/cran/EasyStat
@@ -12086,6 +12095,9 @@
 [submodule "NBtsVarSel"]
 	path = NBtsVarSel
 	url = https://github.com/cran/NBtsVarSel
+[submodule "NBvarsel"]
+	path = NBvarsel
+	url = https://github.com/cran/NBvarsel
 [submodule "NCA"]
 	path = NCA
 	url = https://github.com/cran/NCA
@@ -13847,6 +13859,9 @@
 [submodule "PacketLLM"]
 	path = PacketLLM
 	url = https://github.com/cran/PacketLLM
+[submodule "PaddleOCR"]
+	path = PaddleOCR
+	url = https://github.com/cran/PaddleOCR
 [submodule "Pade"]
 	path = Pade
 	url = https://github.com/cran/Pade
@@ -22457,6 +22472,9 @@
 [submodule "aiDIF"]
 	path = aiDIF
 	url = https://github.com/cran/aiDIF
+[submodule "aiEvalR"]
+	path = aiEvalR
+	url = https://github.com/cran/aiEvalR
 [submodule "aiRly"]
 	path = aiRly
 	url = https://github.com/cran/aiRly
@@ -26975,6 +26993,9 @@
 [submodule "causalsens"]
 	path = causalsens
 	url = https://github.com/cran/causalsens
+[submodule "causalsim"]
+	path = causalsim
+	url = https://github.com/cran/causalsim
 [submodule "causalweight"]
 	path = causalweight
 	url = https://github.com/cran/causalweight
@@ -32120,6 +32141,9 @@
 [submodule "diffviewer"]
 	path = diffviewer
 	url = https://github.com/cran/diffviewer
+[submodule "diffwrap"]
+	path = diffwrap
+	url = https://github.com/cran/diffwrap
 [submodule "digest"]
 	path = digest
 	url = https://github.com/cran/digest
@@ -39011,6 +39035,9 @@
 [submodule "gganimate"]
 	path = gganimate
 	url = https://github.com/cran/gganimate
+[submodule "gganime"]
+	path = gganime
+	url = https://github.com/cran/gganime
 [submodule "ggarchery"]
 	path = ggarchery
 	url = https://github.com/cran/ggarchery
@@ -50096,6 +50123,9 @@
 [submodule "morph"]
 	path = morph
 	url = https://github.com/cran/morph
+[submodule "morphErr"]
+	path = morphErr
+	url = https://github.com/cran/morphErr
 [submodule "morphemepiece"]
 	path = morphemepiece
 	url = https://github.com/cran/morphemepiece
@@ -51227,6 +51257,9 @@
 [submodule "myrror"]
 	path = myrror
 	url = https://github.com/cran/myrror
+[submodule "mziln"]
+	path = mziln
+	url = https://github.com/cran/mziln
 [submodule "mzipmed"]
 	path = mzipmed
 	url = https://github.com/cran/mzipmed
@@ -52292,6 +52325,9 @@
 [submodule "noisyr"]
 	path = noisyr
 	url = https://github.com/cran/noisyr
+[submodule "nolaOpenData"]
+	path = nolaOpenData
+	url = https://github.com/cran/nolaOpenData
 [submodule "nolock"]
 	path = nolock
 	url = https://github.com/cran/nolock
@@ -61067,6 +61103,9 @@
 [submodule "riemtan"]
 	path = riemtan
 	url = https://github.com/cran/riemtan
+[submodule "rifexpectile"]
+	path = rifexpectile
+	url = https://github.com/cran/rifexpectile
 [submodule "rifreg"]
 	path = rifreg
 	url = https://github.com/cran/rifreg
@@ -68000,6 +68039,9 @@
 [submodule "stosim"]
 	path = stosim
 	url = https://github.com/cran/stosim
+[submodule "stow"]
+	path = stow
+	url = https://github.com/cran/stow
 [submodule "stplanr"]
 	path = stplanr
 	url = https://github.com/cran/stplanr
