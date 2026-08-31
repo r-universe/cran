@@ -827,6 +827,9 @@
 [submodule "AsyK"]
 	path = AsyK
 	url = https://github.com/cran/AsyK
+[submodule "AsyPeer"]
+	path = AsyPeer
+	url = https://github.com/cran/AsyPeer
 [submodule "AsymmetricSORDs"]
 	path = AsymmetricSORDs
 	url = https://github.com/cran/AsymmetricSORDs
@@ -14537,6 +14540,9 @@
 [submodule "PropScrRand"]
 	path = PropScrRand
 	url = https://github.com/cran/PropScrRand
+[submodule "PropTestR"]
+	path = PropTestR
+	url = https://github.com/cran/PropTestR
 [submodule "ProteinPCA"]
 	path = ProteinPCA
 	url = https://github.com/cran/ProteinPCA
@@ -25259,6 +25265,9 @@
 [submodule "biomartr"]
 	path = biomartr
 	url = https://github.com/cran/biomartr
+[submodule "biomes"]
+	path = biomes
+	url = https://github.com/cran/biomes
 [submodule "biometrics"]
 	path = biometrics
 	url = https://github.com/cran/biometrics
@@ -28658,9 +28667,6 @@
 [submodule "cogmapr"]
 	path = cogmapr
 	url = https://github.com/cran/cogmapr
-[submodule "cognitoR"]
-	path = cognitoR
-	url = https://github.com/cran/cognitoR
 [submodule "cograph"]
 	path = cograph
 	url = https://github.com/cran/cograph
@@ -34667,9 +34673,6 @@
 [submodule "epos"]
 	path = epos
 	url = https://github.com/cran/epos
-[submodule "epoxy"]
-	path = epoxy
-	url = https://github.com/cran/epoxy
 [submodule "eppoFindeR"]
 	path = eppoFindeR
 	url = https://github.com/cran/eppoFindeR
@@ -36383,6 +36386,9 @@
 [submodule "figpatch"]
 	path = figpatch
 	url = https://github.com/cran/figpatch
+[submodule "figsr"]
+	path = figsr
+	url = https://github.com/cran/figsr
 [submodule "file2meco"]
 	path = file2meco
 	url = https://github.com/cran/file2meco
@@ -40472,6 +40478,9 @@
 [submodule "gpboost"]
 	path = gpboost
 	url = https://github.com/cran/gpboost
+[submodule "gpci"]
+	path = gpci
+	url = https://github.com/cran/gpci
 [submodule "gpciEMprogII"]
 	path = gpciEMprogII
 	url = https://github.com/cran/gpciEMprogII
@@ -45590,6 +45599,9 @@
 [submodule "lazyData"]
 	path = lazyData
 	url = https://github.com/cran/lazyData
+[submodule "lazybar"]
+	path = lazybar
+	url = https://github.com/cran/lazybar
 [submodule "lazyeval"]
 	path = lazyeval
 	url = https://github.com/cran/lazyeval
@@ -48563,6 +48575,9 @@
 [submodule "metarep"]
 	path = metarep
 	url = https://github.com/cran/metarep
+[submodule "metaselection"]
+	path = metaselection
+	url = https://github.com/cran/metaselection
 [submodule "metasens"]
 	path = metasens
 	url = https://github.com/cran/metasens
@@ -52283,9 +52298,6 @@
 [submodule "noah"]
 	path = noah
 	url = https://github.com/cran/noah
-[submodule "noctua"]
-	path = noctua
-	url = https://github.com/cran/noctua
 [submodule "nocturn"]
 	path = nocturn
 	url = https://github.com/cran/nocturn
@@ -59690,6 +59702,9 @@
 [submodule "rdbnomics"]
 	path = rdbnomics
 	url = https://github.com/cran/rdbnomics
+[submodule "rdborrow"]
+	path = rdborrow
+	url = https://github.com/cran/rdborrow
 [submodule "rdcmchecks"]
 	path = rdcmchecks
 	url = https://github.com/cran/rdcmchecks
@@ -71141,6 +71156,9 @@
 [submodule "transitiontrees"]
 	path = transitiontrees
 	url = https://github.com/cran/transitiontrees
+[submodule "transittraj"]
+	path = transittraj
+	url = https://github.com/cran/transittraj
 [submodule "translate.logit"]
 	path = translate.logit
 	url = https://github.com/cran/translate.logit
@@ -74615,9 +74633,6 @@
 [submodule "zoom"]
 	path = zoom
 	url = https://github.com/cran/zoom
-[submodule "zoomGroupStats"]
-	path = zoomGroupStats
-	url = https://github.com/cran/zoomGroupStats
 [submodule "zoomerjoin"]
 	path = zoomerjoin
 	url = https://github.com/cran/zoomerjoin
