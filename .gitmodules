@@ -5888,9 +5888,6 @@
 [submodule "EvolutionaryGames"]
 	path = EvolutionaryGames
 	url = https://github.com/cran/EvolutionaryGames
-[submodule "Evomorph"]
-	path = Evomorph
-	url = https://github.com/cran/Evomorph
 [submodule "EwR"]
 	path = EwR
 	url = https://github.com/cran/EwR
@@ -24719,6 +24716,9 @@
 [submodule "befproj"]
 	path = befproj
 	url = https://github.com/cran/befproj
+[submodule "behaviorchange"]
+	path = behaviorchange
+	url = https://github.com/cran/behaviorchange
 [submodule "behavr"]
 	path = behavr
 	url = https://github.com/cran/behavr
@@ -25361,9 +25361,6 @@
 [submodule "birk"]
 	path = birk
 	url = https://github.com/cran/birk
-[submodule "birp"]
-	path = birp
-	url = https://github.com/cran/birp
 [submodule "birtr"]
 	path = birtr
 	url = https://github.com/cran/birtr
@@ -34673,6 +34670,9 @@
 [submodule "epos"]
 	path = epos
 	url = https://github.com/cran/epos
+[submodule "epoxy"]
+	path = epoxy
+	url = https://github.com/cran/epoxy
 [submodule "eppoFindeR"]
 	path = eppoFindeR
 	url = https://github.com/cran/eppoFindeR
@@ -40592,9 +40592,6 @@
 [submodule "gradLasso"]
 	path = gradLasso
 	url = https://github.com/cran/gradLasso
-[submodule "grade"]
-	path = grade
-	url = https://github.com/cran/grade
 [submodule "gradeR"]
 	path = gradeR
 	url = https://github.com/cran/gradeR
@@ -71975,6 +71972,9 @@
 [submodule "ufRisk"]
 	path = ufRisk
 	url = https://github.com/cran/ufRisk
+[submodule "ufs"]
+	path = ufs
+	url = https://github.com/cran/ufs
 [submodule "ugatsdb"]
 	path = ugatsdb
 	url = https://github.com/cran/ugatsdb
