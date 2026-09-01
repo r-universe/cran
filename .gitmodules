@@ -2213,6 +2213,9 @@
 [submodule "BsplineQuantReg"]
 	path = BsplineQuantReg
 	url = https://github.com/cran/BsplineQuantReg
+[submodule "BsplineQuantRegGui"]
+	path = BsplineQuantRegGui
+	url = https://github.com/cran/BsplineQuantRegGui
 [submodule "Buddle"]
 	path = Buddle
 	url = https://github.com/cran/Buddle
@@ -21935,6 +21938,9 @@
 [submodule "actinet"]
 	path = actinet
 	url = https://github.com/cran/actinet
+[submodule "actiquantiles"]
+	path = actiquantiles
+	url = https://github.com/cran/actiquantiles
 [submodule "actiread"]
 	path = actiread
 	url = https://github.com/cran/actiread
@@ -29144,6 +29150,9 @@
 [submodule "confidenceCurves"]
 	path = confidenceCurves
 	url = https://github.com/cran/confidenceCurves
+[submodule "confidenceSim"]
+	path = confidenceSim
+	url = https://github.com/cran/confidenceSim
 [submodule "config"]
 	path = config
 	url = https://github.com/cran/config
@@ -31145,6 +31154,9 @@
 [submodule "dawai"]
 	path = dawai
 	url = https://github.com/cran/dawai
+[submodule "dawnn"]
+	path = dawnn
+	url = https://github.com/cran/dawnn
 [submodule "daySupply"]
 	path = daySupply
 	url = https://github.com/cran/daySupply
@@ -31352,6 +31364,9 @@
 [submodule "deFit"]
 	path = deFit
 	url = https://github.com/cran/deFit
+[submodule "deOpenData"]
+	path = deOpenData
+	url = https://github.com/cran/deOpenData
 [submodule "deSolve"]
 	path = deSolve
 	url = https://github.com/cran/deSolve
@@ -31712,6 +31727,9 @@
 [submodule "dependentsimr"]
 	path = dependentsimr
 	url = https://github.com/cran/dependentsimr
+[submodule "depictr"]
+	path = depictr
+	url = https://github.com/cran/depictr
 [submodule "depmixS4"]
 	path = depmixS4
 	url = https://github.com/cran/depmixS4
@@ -69941,6 +69959,9 @@
 [submodule "themis"]
 	path = themis
 	url = https://github.com/cran/themis
+[submodule "theoryforge"]
+	path = theoryforge
+	url = https://github.com/cran/theoryforge
 [submodule "theorytools"]
 	path = theorytools
 	url = https://github.com/cran/theorytools
@@ -70190,6 +70211,9 @@
 [submodule "tidygate"]
 	path = tidygate
 	url = https://github.com/cran/tidygate
+[submodule "tidygedcom"]
+	path = tidygedcom
+	url = https://github.com/cran/tidygedcom
 [submodule "tidygeoRSS"]
 	path = tidygeoRSS
 	url = https://github.com/cran/tidygeoRSS
@@ -70736,6 +70760,9 @@
 [submodule "tmcn"]
 	path = tmcn
 	url = https://github.com/cran/tmcn
+[submodule "tmdbR"]
+	path = tmdbR
+	url = https://github.com/cran/tmdbR
 [submodule "tmfast"]
 	path = tmfast
 	url = https://github.com/cran/tmfast
@@ -72269,6 +72296,9 @@
 [submodule "urbin"]
 	path = urbin
 	url = https://github.com/cran/urbin
+[submodule "urbstatdata"]
+	path = urbstatdata
+	url = https://github.com/cran/urbstatdata
 [submodule "urca"]
 	path = urca
 	url = https://github.com/cran/urca
