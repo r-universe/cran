@@ -905,6 +905,9 @@
 [submodule "AvInertia"]
 	path = AvInertia
 	url = https://github.com/cran/AvInertia
+[submodule "AvatarTLA"]
+	path = AvatarTLA
+	url = https://github.com/cran/AvatarTLA
 [submodule "AzureAppInsights"]
 	path = AzureAppInsights
 	url = https://github.com/cran/AzureAppInsights
@@ -6566,6 +6569,9 @@
 [submodule "FitUltD"]
 	path = FitUltD
 	url = https://github.com/cran/FitUltD
+[submodule "FitVerse"]
+	path = FitVerse
+	url = https://github.com/cran/FitVerse
 [submodule "FixSeqMTP"]
 	path = FixSeqMTP
 	url = https://github.com/cran/FixSeqMTP
@@ -11195,6 +11201,9 @@
 [submodule "MWright"]
 	path = MWright
 	url = https://github.com/cran/MWright
+[submodule "MXM"]
+	path = MXM
+	url = https://github.com/cran/MXM
 [submodule "MYIS"]
 	path = MYIS
 	url = https://github.com/cran/MYIS
@@ -31127,6 +31136,9 @@
 [submodule "datey"]
 	path = datey
 	url = https://github.com/cran/datey
+[submodule "datom"]
+	path = datom
+	url = https://github.com/cran/datom
 [submodule "datoramar"]
 	path = datoramar
 	url = https://github.com/cran/datoramar
@@ -32567,9 +32579,6 @@
 [submodule "dlr"]
 	path = dlr
 	url = https://github.com/cran/dlr
-[submodule "dlsem"]
-	path = dlsem
-	url = https://github.com/cran/dlsem
 [submodule "dlstats"]
 	path = dlstats
 	url = https://github.com/cran/dlstats
@@ -35930,6 +35939,9 @@
 [submodule "fastfocal"]
 	path = fastfocal
 	url = https://github.com/cran/fastfocal
+[submodule "fastgbm"]
+	path = fastgbm
+	url = https://github.com/cran/fastgbm
 [submodule "fastgeojson"]
 	path = fastgeojson
 	url = https://github.com/cran/fastgeojson
@@ -38915,6 +38927,9 @@
 [submodule "getable"]
 	path = getable
 	url = https://github.com/cran/getable
+[submodule "getaca"]
+	path = getaca
+	url = https://github.com/cran/getaca
 [submodule "getip"]
 	path = getip
 	url = https://github.com/cran/getip
@@ -41285,6 +41300,9 @@
 [submodule "h5lite"]
 	path = h5lite
 	url = https://github.com/cran/h5lite
+[submodule "hBayesDM"]
+	path = hBayesDM
+	url = https://github.com/cran/hBayesDM
 [submodule "hNMF"]
 	path = hNMF
 	url = https://github.com/cran/hNMF
@@ -55583,6 +55601,9 @@
 [submodule "phymapnet"]
 	path = phymapnet
 	url = https://github.com/cran/phymapnet
+[submodule "phynotype"]
+	path = phynotype
+	url = https://github.com/cran/phynotype
 [submodule "phyr"]
 	path = phyr
 	url = https://github.com/cran/phyr
