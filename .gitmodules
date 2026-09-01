@@ -35135,6 +35135,9 @@
 [submodule "ewens"]
 	path = ewens
 	url = https://github.com/cran/ewens
+[submodule "ewoc"]
+	path = ewoc
+	url = https://github.com/cran/ewoc
 [submodule "ewp"]
 	path = ewp
 	url = https://github.com/cran/ewp
