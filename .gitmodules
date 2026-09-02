@@ -30800,6 +30800,9 @@
 [submodule "dSTEM"]
 	path = dSTEM
 	url = https://github.com/cran/dSTEM
+[submodule "dScoreTest"]
+	path = dScoreTest
+	url = https://github.com/cran/dScoreTest
 [submodule "dTBM"]
 	path = dTBM
 	url = https://github.com/cran/dTBM
