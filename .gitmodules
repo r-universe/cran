@@ -68054,6 +68054,9 @@
 [submodule "stmgui"]
 	path = stmgui
 	url = https://github.com/cran/stmgui
+[submodule "stminsights"]
+	path = stminsights
+	url = https://github.com/cran/stminsights
 [submodule "stocc"]
 	path = stocc
 	url = https://github.com/cran/stocc
