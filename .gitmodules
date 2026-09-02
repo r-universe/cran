@@ -42089,9 +42089,6 @@
 [submodule "hmmm"]
 	path = hmmm
 	url = https://github.com/cran/hmmm
-[submodule "hmmr"]
-	path = hmmr
-	url = https://github.com/cran/hmmr
 [submodule "hmrc"]
 	path = hmrc
 	url = https://github.com/cran/hmrc
@@ -52085,9 +52082,6 @@
 [submodule "nipnTK"]
 	path = nipnTK
 	url = https://github.com/cran/nipnTK
-[submodule "nirs4alldatasets"]
-	path = nirs4alldatasets
-	url = https://github.com/cran/nirs4alldatasets
 [submodule "nivm"]
 	path = nivm
 	url = https://github.com/cran/nivm
