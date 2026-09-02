@@ -1247,6 +1247,9 @@
 [submodule "BKTR"]
 	path = BKTR
 	url = https://github.com/cran/BKTR
+[submodule "BKVerify"]
+	path = BKVerify
+	url = https://github.com/cran/BKVerify
 [submodule "BLA"]
 	path = BLA
 	url = https://github.com/cran/BLA
@@ -5972,6 +5975,9 @@
 [submodule "ExpRep"]
 	path = ExpRep
 	url = https://github.com/cran/ExpRep
+[submodule "ExperimentalDesignGeneratorandRandomiser"]
+	path = ExperimentalDesignGeneratorandRandomiser
+	url = https://github.com/cran/ExperimentalDesignGeneratorandRandomiser
 [submodule "ExpertChoice"]
 	path = ExpertChoice
 	url = https://github.com/cran/ExpertChoice
@@ -8729,6 +8735,9 @@
 [submodule "IOLS"]
 	path = IOLS
 	url = https://github.com/cran/IOLS
+[submodule "IP"]
+	path = IP
+	url = https://github.com/cran/IP
 [submodule "IPAG"]
 	path = IPAG
 	url = https://github.com/cran/IPAG
@@ -25295,6 +25304,9 @@
 [submodule "bionetdata"]
 	path = bionetdata
 	url = https://github.com/cran/bionetdata
+[submodule "biopalette"]
+	path = biopalette
+	url = https://github.com/cran/biopalette
 [submodule "biopixR"]
 	path = biopixR
 	url = https://github.com/cran/biopixR
@@ -36869,6 +36881,9 @@
 [submodule "flexsurvcure"]
 	path = flexsurvcure
 	url = https://github.com/cran/flexsurvcure
+[submodule "flexsynth"]
+	path = flexsynth
+	url = https://github.com/cran/flexsynth
 [submodule "flextable"]
 	path = flextable
 	url = https://github.com/cran/flextable
@@ -39692,6 +39707,9 @@
 [submodule "ggstatsplot"]
 	path = ggstatsplot
 	url = https://github.com/cran/ggstatsplot
+[submodule "ggstratify"]
+	path = ggstratify
+	url = https://github.com/cran/ggstratify
 [submodule "ggstudent"]
 	path = ggstudent
 	url = https://github.com/cran/ggstudent
@@ -46988,6 +47006,9 @@
 [submodule "ltertools"]
 	path = ltertools
 	url = https://github.com/cran/ltertools
+[submodule "ltgsmd"]
+	path = ltgsmd
+	url = https://github.com/cran/ltgsmd
 [submodule "ltm"]
 	path = ltm
 	url = https://github.com/cran/ltm
@@ -51236,6 +51257,9 @@
 [submodule "mwa"]
 	path = mwa
 	url = https://github.com/cran/mwa
+[submodule "mwana"]
+	path = mwana
+	url = https://github.com/cran/mwana
 [submodule "mwcsr"]
 	path = mwcsr
 	url = https://github.com/cran/mwcsr
@@ -51719,6 +51743,9 @@
 [submodule "netgwas"]
 	path = netgwas
 	url = https://github.com/cran/netgwas
+[submodule "nethist"]
+	path = nethist
+	url = https://github.com/cran/nethist
 [submodule "netie"]
 	path = netie
 	url = https://github.com/cran/netie
@@ -61070,6 +61097,9 @@
 [submodule "rhype"]
 	path = rhype
 	url = https://github.com/cran/rhype
+[submodule "rhythm.metrics"]
+	path = rhythm.metrics
+	url = https://github.com/cran/rhythm.metrics
 [submodule "ri2"]
 	path = ri2
 	url = https://github.com/cran/ri2
@@ -61925,6 +61955,9 @@
 [submodule "rollbar"]
 	path = rollbar
 	url = https://github.com/cran/rollbar
+[submodule "rollcast"]
+	path = rollcast
+	url = https://github.com/cran/rollcast
 [submodule "rolldown"]
 	path = rolldown
 	url = https://github.com/cran/rolldown
