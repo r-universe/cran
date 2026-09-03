@@ -2051,6 +2051,9 @@
 [submodule "BivGeo"]
 	path = BivGeo
 	url = https://github.com/cran/BivGeo
+[submodule "BivKLD"]
+	path = BivKLD
+	url = https://github.com/cran/BivKLD
 [submodule "BivLaplaceRL"]
 	path = BivLaplaceRL
 	url = https://github.com/cran/BivLaplaceRL
@@ -59666,6 +59669,9 @@
 [submodule "rchroma"]
 	path = rchroma
 	url = https://github.com/cran/rchroma
+[submodule "rcicr"]
+	path = rcicr
+	url = https://github.com/cran/rcicr
 [submodule "rciplot"]
 	path = rciplot
 	url = https://github.com/cran/rciplot
@@ -63557,6 +63563,9 @@
 [submodule "scaledescr"]
 	path = scaledescr
 	url = https://github.com/cran/scaledescr
+[submodule "scalednap"]
+	path = scalednap
+	url = https://github.com/cran/scalednap
 [submodule "scales"]
 	path = scales
 	url = https://github.com/cran/scales
