@@ -854,6 +854,9 @@
 [submodule "AugBalWeight"]
 	path = AugBalWeight
 	url = https://github.com/cran/AugBalWeight
+[submodule "AugmentedPooledRCBD"]
+	path = AugmentedPooledRCBD
+	url = https://github.com/cran/AugmentedPooledRCBD
 [submodule "AurieLSHGaussian"]
 	path = AurieLSHGaussian
 	url = https://github.com/cran/AurieLSHGaussian
@@ -22832,6 +22835,9 @@
 [submodule "ambit"]
 	path = ambit
 	url = https://github.com/cran/ambit
+[submodule "ambre"]
+	path = ambre
+	url = https://github.com/cran/ambre
 [submodule "amelie"]
 	path = amelie
 	url = https://github.com/cran/amelie
@@ -23984,6 +23990,9 @@
 [submodule "b64"]
 	path = b64
 	url = https://github.com/cran/b64
+[submodule "bGMYC4"]
+	path = bGMYC4
+	url = https://github.com/cran/bGMYC4
 [submodule "bReeze"]
 	path = bReeze
 	url = https://github.com/cran/bReeze
@@ -69170,6 +69179,9 @@
 [submodule "synthpop"]
 	path = synthpop
 	url = https://github.com/cran/synthpop
+[submodule "syrona"]
+	path = syrona
+	url = https://github.com/cran/syrona
 [submodule "syrup"]
 	path = syrup
 	url = https://github.com/cran/syrup
