@@ -56174,6 +56174,9 @@
 [submodule "plotmo"]
 	path = plotmo
 	url = https://github.com/cran/plotmo
+[submodule "plotomics"]
+	path = plotomics
+	url = https://github.com/cran/plotomics
 [submodule "plotor"]
 	path = plotor
 	url = https://github.com/cran/plotor
