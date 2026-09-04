@@ -48017,9 +48017,6 @@
 [submodule "mcanalysis"]
 	path = mcanalysis
 	url = https://github.com/cran/mcanalysis
-[submodule "mcauchyd"]
-	path = mcauchyd
-	url = https://github.com/cran/mcauchyd
 [submodule "mcb"]
 	path = mcb
 	url = https://github.com/cran/mcb
@@ -70076,9 +70073,6 @@
 [submodule "thamesmix"]
 	path = thamesmix
 	url = https://github.com/cran/thamesmix
-[submodule "thankr"]
-	path = thankr
-	url = https://github.com/cran/thankr
 [submodule "theRefdate"]
 	path = theRefdate
 	url = https://github.com/cran/theRefdate
