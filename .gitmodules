@@ -61502,6 +61502,9 @@
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/cran/rlang
+[submodule "rlas"]
+	path = rlas
+	url = https://github.com/cran/rlas
 [submodule "rlcv"]
 	path = rlcv
 	url = https://github.com/cran/rlcv
@@ -66323,6 +66326,9 @@
 [submodule "sobolnp"]
 	path = sobolnp
 	url = https://github.com/cran/sobolnp
+[submodule "soc.ca"]
+	path = soc.ca
+	url = https://github.com/cran/soc.ca
 [submodule "socceR"]
 	path = socceR
 	url = https://github.com/cran/socceR
