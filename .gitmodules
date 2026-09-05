@@ -1247,6 +1247,9 @@
 [submodule "BKQualit"]
 	path = BKQualit
 	url = https://github.com/cran/BKQualit
+[submodule "BKT"]
+	path = BKT
+	url = https://github.com/cran/BKT
 [submodule "BKTR"]
 	path = BKTR
 	url = https://github.com/cran/BKTR
@@ -3461,6 +3464,9 @@
 [submodule "CodataGS"]
 	path = CodataGS
 	url = https://github.com/cran/CodataGS
+[submodule "CodeCarbonR"]
+	path = CodeCarbonR
+	url = https://github.com/cran/CodeCarbonR
 [submodule "CodeDepends"]
 	path = CodeDepends
 	url = https://github.com/cran/CodeDepends
@@ -9572,6 +9578,9 @@
 [submodule "LA"]
 	path = LA
 	url = https://github.com/cran/LA
+[submodule "LABTNSCPSS"]
+	path = LABTNSCPSS
+	url = https://github.com/cran/LABTNSCPSS
 [submodule "LAD"]
 	path = LAD
 	url = https://github.com/cran/LAD
@@ -18404,6 +18413,9 @@
 [submodule "STARTdesign"]
 	path = STARTdesign
 	url = https://github.com/cran/STARTdesign
+[submodule "STATassist"]
+	path = STATassist
+	url = https://github.com/cran/STATassist
 [submodule "STATcubeR"]
 	path = STATcubeR
 	url = https://github.com/cran/STATcubeR
@@ -30470,6 +30482,9 @@
 [submodule "ct"]
 	path = ct
 	url = https://github.com/cran/ct
+[submodule "ctOpenData"]
+	path = ctOpenData
+	url = https://github.com/cran/ctOpenData
 [submodule "ctablerseh"]
 	path = ctablerseh
 	url = https://github.com/cran/ctablerseh
@@ -31145,6 +31160,9 @@
 [submodule "datastat"]
 	path = datastat
 	url = https://github.com/cran/datastat
+[submodule "datasus"]
+	path = datasus
+	url = https://github.com/cran/datasus
 [submodule "datasusr"]
 	path = datasusr
 	url = https://github.com/cran/datasusr
@@ -39107,6 +39125,9 @@
 [submodule "ggRandomForests"]
 	path = ggRandomForests
 	url = https://github.com/cran/ggRandomForests
+[submodule "ggResidpanel"]
+	path = ggResidpanel
+	url = https://github.com/cran/ggResidpanel
 [submodule "ggRtsy"]
 	path = ggRtsy
 	url = https://github.com/cran/ggRtsy
@@ -51227,6 +51248,9 @@
 [submodule "mvdalab"]
 	path = mvdalab
 	url = https://github.com/cran/mvdalab
+[submodule "mvdpd"]
+	path = mvdpd
+	url = https://github.com/cran/mvdpd
 [submodule "mverse"]
 	path = mverse
 	url = https://github.com/cran/mverse
@@ -58121,6 +58145,9 @@
 [submodule "qcv"]
 	path = qcv
 	url = https://github.com/cran/qcv
+[submodule "qdaR"]
+	path = qdaR
+	url = https://github.com/cran/qdaR
 [submodule "qdap"]
 	path = qdap
 	url = https://github.com/cran/qdap
@@ -66917,6 +66944,9 @@
 [submodule "spatialwidget"]
 	path = spatialwidget
 	url = https://github.com/cran/spatialwidget
+[submodule "spatpersist"]
+	path = spatpersist
+	url = https://github.com/cran/spatpersist
 [submodule "spatsoc"]
 	path = spatsoc
 	url = https://github.com/cran/spatsoc
@@ -67634,6 +67664,9 @@
 [submodule "sss"]
 	path = sss
 	url = https://github.com/cran/sss
+[submodule "sssp"]
+	path = sssp
+	url = https://github.com/cran/sssp
 [submodule "sssvcqr"]
 	path = sssvcqr
 	url = https://github.com/cran/sssvcqr
@@ -68606,6 +68639,9 @@
 [submodule "supportR"]
 	path = supportR
 	url = https://github.com/cran/supportR
+[submodule "suppr"]
+	path = suppr
+	url = https://github.com/cran/suppr
 [submodule "sur"]
 	path = sur
 	url = https://github.com/cran/sur
@@ -72839,6 +72875,9 @@
 [submodule "vbm"]
 	path = vbm
 	url = https://github.com/cran/vbm
+[submodule "vbpm"]
+	path = vbpm
+	url = https://github.com/cran/vbpm
 [submodule "vbracket"]
 	path = vbracket
 	url = https://github.com/cran/vbracket
