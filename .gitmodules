@@ -73145,9 +73145,6 @@
 [submodule "vioplot"]
 	path = vioplot
 	url = https://github.com/cran/vioplot
-[submodule "vip"]
-	path = vip
-	url = https://github.com/cran/vip
 [submodule "vipor"]
 	path = vipor
 	url = https://github.com/cran/vipor
