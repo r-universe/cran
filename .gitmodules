@@ -3638,6 +3638,9 @@
 [submodule "CompositionalSR"]
 	path = CompositionalSR
 	url = https://github.com/cran/CompositionalSR
+[submodule "CompositionalZADR"]
+	path = CompositionalZADR
+	url = https://github.com/cran/CompositionalZADR
 [submodule "Compositionalasmr"]
 	path = Compositionalasmr
 	url = https://github.com/cran/Compositionalasmr
@@ -16703,6 +16706,9 @@
 [submodule "RcppThread"]
 	path = RcppThread
 	url = https://github.com/cran/RcppThread
+[submodule "RcppTrust"]
+	path = RcppTrust
+	url = https://github.com/cran/RcppTrust
 [submodule "RcppTskit"]
 	path = RcppTskit
 	url = https://github.com/cran/RcppTskit
