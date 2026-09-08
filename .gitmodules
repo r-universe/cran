@@ -40976,6 +40976,9 @@
 [submodule "groundhog"]
 	path = groundhog
 	url = https://github.com/cran/groundhog
+[submodule "groupTesting"]
+	path = groupTesting
+	url = https://github.com/cran/groupTesting
 [submodule "groupWQS"]
 	path = groupWQS
 	url = https://github.com/cran/groupWQS
