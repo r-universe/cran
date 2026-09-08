@@ -170,6 +170,9 @@
 [submodule "AIFFtools"]
 	path = AIFFtools
 	url = https://github.com/cran/AIFFtools
+[submodule "AIGENIE"]
+	path = AIGENIE
+	url = https://github.com/cran/AIGENIE
 [submodule "AIGRA"]
 	path = AIGRA
 	url = https://github.com/cran/AIGRA
@@ -317,6 +320,9 @@
 [submodule "AQEval"]
 	path = AQEval
 	url = https://github.com/cran/AQEval
+[submodule "AQIR"]
+	path = AQIR
+	url = https://github.com/cran/AQIR
 [submodule "AQLSchemes"]
 	path = AQLSchemes
 	url = https://github.com/cran/AQLSchemes
@@ -2231,6 +2237,9 @@
 [submodule "BsplineQuantRegGui"]
 	path = BsplineQuantRegGui
 	url = https://github.com/cran/BsplineQuantRegGui
+[submodule "BuSuCo"]
+	path = BuSuCo
+	url = https://github.com/cran/BuSuCo
 [submodule "Buddle"]
 	path = Buddle
 	url = https://github.com/cran/Buddle
@@ -4442,6 +4451,9 @@
 [submodule "DPpack"]
 	path = DPpack
 	url = https://github.com/cran/DPpack
+[submodule "DPrivStats"]
+	path = DPrivStats
+	url = https://github.com/cran/DPrivStats
 [submodule "DQA"]
 	path = DQA
 	url = https://github.com/cran/DQA
@@ -14597,6 +14609,9 @@
 [submodule "Przewodnik"]
 	path = Przewodnik
 	url = https://github.com/cran/Przewodnik
+[submodule "PseudoVoigtMixt"]
+	path = PseudoVoigtMixt
+	url = https://github.com/cran/PseudoVoigtMixt
 [submodule "PsiUEngineRL"]
 	path = PsiUEngineRL
 	url = https://github.com/cran/PsiUEngineRL
@@ -22004,6 +22019,9 @@
 [submodule "activityCounts"]
 	path = activityCounts
 	url = https://github.com/cran/activityCounts
+[submodule "actiwalkability"]
+	path = actiwalkability
+	url = https://github.com/cran/actiwalkability
 [submodule "actogrammr"]
 	path = actogrammr
 	url = https://github.com/cran/actogrammr
@@ -24587,6 +24605,9 @@
 [submodule "bbotk"]
 	path = bbotk
 	url = https://github.com/cran/bbotk
+[submodule "bbqr"]
+	path = bbqr
+	url = https://github.com/cran/bbqr
 [submodule "bbreg"]
 	path = bbreg
 	url = https://github.com/cran/bbreg
@@ -26957,6 +26978,9 @@
 [submodule "catekappa"]
 	path = catekappa
 	url = https://github.com/cran/catekappa
+[submodule "catfda"]
+	path = catfda
+	url = https://github.com/cran/catfda
 [submodule "catfun"]
 	path = catfun
 	url = https://github.com/cran/catfun
@@ -27689,6 +27713,9 @@
 [submodule "childsds"]
 	path = childsds
 	url = https://github.com/cran/childsds
+[submodule "chilemapas"]
+	path = chilemapas
+	url = https://github.com/cran/chilemapas
 [submodule "chillR"]
 	path = chillR
 	url = https://github.com/cran/chillR
@@ -27707,6 +27734,9 @@
 [submodule "chlorpromazineR"]
 	path = chlorpromazineR
 	url = https://github.com/cran/chlorpromazineR
+[submodule "chms"]
+	path = chms
+	url = https://github.com/cran/chms
 [submodule "chmsflow"]
 	path = chmsflow
 	url = https://github.com/cran/chmsflow
@@ -30023,9 +30053,6 @@
 [submodule "cpp11eigen"]
 	path = cpp11eigen
 	url = https://github.com/cran/cpp11eigen
-[submodule "cpp11qpdf"]
-	path = cpp11qpdf
-	url = https://github.com/cran/cpp11qpdf
 [submodule "cpp4r"]
 	path = cpp4r
 	url = https://github.com/cran/cpp4r
@@ -34199,6 +34226,9 @@
 [submodule "eixport"]
 	path = eixport
 	url = https://github.com/cran/eixport
+[submodule "ekioplot"]
+	path = ekioplot
+	url = https://github.com/cran/ekioplot
 [submodule "eks"]
 	path = eks
 	url = https://github.com/cran/eks
@@ -49232,6 +49262,9 @@
 [submodule "minired"]
 	path = minired
 	url = https://github.com/cran/minired
+[submodule "minirocketR"]
+	path = minirocketR
+	url = https://github.com/cran/minirocketR
 [submodule "minorparties"]
 	path = minorparties
 	url = https://github.com/cran/minorparties
@@ -52178,6 +52211,9 @@
 [submodule "nipnTK"]
 	path = nipnTK
 	url = https://github.com/cran/nipnTK
+[submodule "nisone"]
+	path = nisone
+	url = https://github.com/cran/nisone
 [submodule "nivm"]
 	path = nivm
 	url = https://github.com/cran/nivm
@@ -52904,6 +52940,9 @@
 [submodule "numform"]
 	path = numform
 	url = https://github.com/cran/numform
+[submodule "numops"]
+	path = numops
+	url = https://github.com/cran/numops
 [submodule "numspellR"]
 	path = numspellR
 	url = https://github.com/cran/numspellR
@@ -53090,6 +53129,9 @@
 [submodule "ocs4R"]
 	path = ocs4R
 	url = https://github.com/cran/ocs4R
+[submodule "octawave"]
+	path = octawave
+	url = https://github.com/cran/octawave
 [submodule "octopucs"]
 	path = octopucs
 	url = https://github.com/cran/octopucs
@@ -55016,6 +55058,9 @@
 [submodule "pdftools"]
 	path = pdftools
 	url = https://github.com/cran/pdftools
+[submodule "pdglasso"]
+	path = pdglasso
+	url = https://github.com/cran/pdglasso
 [submodule "pdi"]
 	path = pdi
 	url = https://github.com/cran/pdi
@@ -55805,6 +55850,9 @@
 [submodule "pins"]
 	path = pins
 	url = https://github.com/cran/pins
+[submodule "pinsearch"]
+	path = pinsearch
+	url = https://github.com/cran/pinsearch
 [submodule "pinterestadsR"]
 	path = pinterestadsR
 	url = https://github.com/cran/pinterestadsR
@@ -57122,6 +57170,9 @@
 [submodule "presmoothedTP"]
 	path = presmoothedTP
 	url = https://github.com/cran/presmoothedTP
+[submodule "pressfreedom"]
+	path = pressfreedom
+	url = https://github.com/cran/pressfreedom
 [submodule "pressfreedom.data"]
 	path = pressfreedom.data
 	url = https://github.com/cran/pressfreedom.data
@@ -64607,6 +64658,9 @@
 [submodule "sf"]
 	path = sf
 	url = https://github.com/cran/sf
+[submodule "sfOpenData"]
+	path = sfOpenData
+	url = https://github.com/cran/sfOpenData
 [submodule "sfReapportion"]
 	path = sfReapportion
 	url = https://github.com/cran/sfReapportion
@@ -66827,6 +66881,9 @@
 [submodule "spatPomp"]
 	path = spatPomp
 	url = https://github.com/cran/spatPomp
+[submodule "spatcovar"]
+	path = spatcovar
+	url = https://github.com/cran/spatcovar
 [submodule "spate"]
 	path = spate
 	url = https://github.com/cran/spate
@@ -72866,9 +72923,6 @@
 [submodule "vcov"]
 	path = vcov
 	url = https://github.com/cran/vcov
-[submodule "vcpen"]
-	path = vcpen
-	url = https://github.com/cran/vcpen
 [submodule "vcr"]
 	path = vcr
 	url = https://github.com/cran/vcr
