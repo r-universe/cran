@@ -2636,6 +2636,9 @@
 [submodule "CLIC"]
 	path = CLIC
 	url = https://github.com/cran/CLIC
+[submodule "CLIQUE"]
+	path = CLIQUE
+	url = https://github.com/cran/CLIQUE
 [submodule "CLME"]
 	path = CLME
 	url = https://github.com/cran/CLME
@@ -6821,6 +6824,9 @@
 [submodule "FuzzyImputationTest"]
 	path = FuzzyImputationTest
 	url = https://github.com/cran/FuzzyImputationTest
+[submodule "FuzzyLogit"]
+	path = FuzzyLogit
+	url = https://github.com/cran/FuzzyLogit
 [submodule "FuzzyM"]
 	path = FuzzyM
 	url = https://github.com/cran/FuzzyM
@@ -22478,6 +22484,9 @@
 [submodule "agriDQ"]
 	path = agriDQ
 	url = https://github.com/cran/agriDQ
+[submodule "agriME"]
+	path = agriME
+	url = https://github.com/cran/agriME
 [submodule "agriReg"]
 	path = agriReg
 	url = https://github.com/cran/agriReg
@@ -23213,6 +23222,9 @@
 [submodule "aprof"]
 	path = aprof
 	url = https://github.com/cran/aprof
+[submodule "apsimeval"]
+	path = apsimeval
+	url = https://github.com/cran/apsimeval
 [submodule "apsimx"]
 	path = apsimx
 	url = https://github.com/cran/apsimx
@@ -27176,6 +27188,9 @@
 [submodule "ccdR"]
 	path = ccdR
 	url = https://github.com/cran/ccdR
+[submodule "ccda"]
+	path = ccda
+	url = https://github.com/cran/ccda
 [submodule "cchs"]
 	path = cchs
 	url = https://github.com/cran/cchs
@@ -38900,6 +38915,9 @@
 [submodule "geopsych"]
 	path = geopsych
 	url = https://github.com/cran/geopsych
+[submodule "georefar"]
+	path = georefar
+	url = https://github.com/cran/georefar
 [submodule "georefdatar"]
 	path = georefdatar
 	url = https://github.com/cran/georefdatar
@@ -46331,6 +46349,9 @@
 [submodule "link2GI"]
 	path = link2GI
 	url = https://github.com/cran/link2GI
+[submodule "linkagg"]
+	path = linkagg
+	url = https://github.com/cran/linkagg
 [submodule "linkeR"]
 	path = linkeR
 	url = https://github.com/cran/linkeR
@@ -52295,6 +52316,9 @@
 [submodule "nlmixr2targets"]
 	path = nlmixr2targets
 	url = https://github.com/cran/nlmixr2targets
+[submodule "nlmixr2utils"]
+	path = nlmixr2utils
+	url = https://github.com/cran/nlmixr2utils
 [submodule "nlmm"]
 	path = nlmm
 	url = https://github.com/cran/nlmm
@@ -63659,6 +63683,9 @@
 [submodule "scSpatialSIM"]
 	path = scSpatialSIM
 	url = https://github.com/cran/scSpatialSIM
+[submodule "scStability"]
+	path = scStability
+	url = https://github.com/cran/scStability
 [submodule "scTenifoldKnk"]
 	path = scTenifoldKnk
 	url = https://github.com/cran/scTenifoldKnk
@@ -70340,6 +70367,9 @@
 [submodule "tidycharts"]
 	path = tidycharts
 	url = https://github.com/cran/tidycharts
+[submodule "tidycjk"]
+	path = tidycjk
+	url = https://github.com/cran/tidycjk
 [submodule "tidyclust"]
 	path = tidyclust
 	url = https://github.com/cran/tidyclust
@@ -72521,6 +72551,9 @@
 [submodule "uroot"]
 	path = uroot
 	url = https://github.com/cran/uroot
+[submodule "uroscores"]
+	path = uroscores
+	url = https://github.com/cran/uroscores
 [submodule "ursa"]
 	path = ursa
 	url = https://github.com/cran/ursa
