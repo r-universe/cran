@@ -1337,6 +1337,9 @@
 [submodule "BOJ"]
 	path = BOJ
 	url = https://github.com/cran/BOJ
+[submodule "BOLDNODE"]
+	path = BOLDNODE
+	url = https://github.com/cran/BOLDNODE
 [submodule "BOLDconnectR"]
 	path = BOLDconnectR
 	url = https://github.com/cran/BOLDconnectR
@@ -7991,6 +7994,9 @@
 [submodule "HDCurves"]
 	path = HDCurves
 	url = https://github.com/cran/HDCurves
+[submodule "HDElliptical"]
+	path = HDElliptical
+	url = https://github.com/cran/HDElliptical
 [submodule "HDGLM"]
 	path = HDGLM
 	url = https://github.com/cran/HDGLM
@@ -12239,6 +12245,9 @@
 [submodule "NISTunits"]
 	path = NISTunits
 	url = https://github.com/cran/NISTunits
+[submodule "NLIN"]
+	path = NLIN
+	url = https://github.com/cran/NLIN
 [submodule "NLP"]
 	path = NLP
 	url = https://github.com/cran/NLP
@@ -31088,6 +31097,9 @@
 [submodule "dataSDA"]
 	path = dataSDA
 	url = https://github.com/cran/dataSDA
+[submodule "datacaged"]
+	path = datacaged
+	url = https://github.com/cran/datacaged
 [submodule "datacleanr"]
 	path = datacleanr
 	url = https://github.com/cran/datacleanr
@@ -63041,6 +63053,9 @@
 [submodule "rvisidata"]
 	path = rvisidata
 	url = https://github.com/cran/rvisidata
+[submodule "rvisual"]
+	path = rvisual
+	url = https://github.com/cran/rvisual
 [submodule "rvkstat"]
 	path = rvkstat
 	url = https://github.com/cran/rvkstat
@@ -65249,6 +65264,9 @@
 [submodule "shinyfullscreen"]
 	path = shinyfullscreen
 	url = https://github.com/cran/shinyfullscreen
+[submodule "shinygenui"]
+	path = shinygenui
+	url = https://github.com/cran/shinygenui
 [submodule "shinyglass"]
 	path = shinyglass
 	url = https://github.com/cran/shinyglass
@@ -74087,6 +74105,9 @@
 [submodule "wingen"]
 	path = wingen
 	url = https://github.com/cran/wingen
+[submodule "winning"]
+	path = winning
+	url = https://github.com/cran/winning
 [submodule "winputall"]
 	path = winputall
 	url = https://github.com/cran/winputall
