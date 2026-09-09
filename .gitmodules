@@ -5513,6 +5513,9 @@
 [submodule "ER"]
 	path = ER
 	url = https://github.com/cran/ER
+[submodule "ERBioR"]
+	path = ERBioR
+	url = https://github.com/cran/ERBioR
 [submodule "ERDbuilder"]
 	path = ERDbuilder
 	url = https://github.com/cran/ERDbuilder
@@ -6515,6 +6518,9 @@
 [submodule "FaultTree"]
 	path = FaultTree
 	url = https://github.com/cran/FaultTree
+[submodule "FeNEU"]
+	path = FeNEU
+	url = https://github.com/cran/FeNEU
 [submodule "FeaLect"]
 	path = FeaLect
 	url = https://github.com/cran/FeaLect
@@ -14492,6 +14498,9 @@
 [submodule "PriceIndices"]
 	path = PriceIndices
 	url = https://github.com/cran/PriceIndices
+[submodule "PricingBandits"]
+	path = PricingBandits
+	url = https://github.com/cran/PricingBandits
 [submodule "PriorGen"]
 	path = PriorGen
 	url = https://github.com/cran/PriorGen
@@ -19250,6 +19259,9 @@
 [submodule "SpatMCA"]
 	path = SpatMCA
 	url = https://github.com/cran/SpatMCA
+[submodule "SpatMix"]
+	path = SpatMix
+	url = https://github.com/cran/SpatMix
 [submodule "SpatPCA"]
 	path = SpatPCA
 	url = https://github.com/cran/SpatPCA
@@ -27455,6 +27467,9 @@
 [submodule "cfbfastR"]
 	path = cfbfastR
 	url = https://github.com/cran/cfbfastR
+[submodule "cfbseedR"]
+	path = cfbseedR
+	url = https://github.com/cran/cfbseedR
 [submodule "cfda"]
 	path = cfda
 	url = https://github.com/cran/cfda
@@ -33332,6 +33347,9 @@
 [submodule "duckh3"]
 	path = duckh3
 	url = https://github.com/cran/duckh3
+[submodule "ducklake"]
+	path = ducklake
+	url = https://github.com/cran/ducklake
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/cran/duckplyr
@@ -34745,6 +34763,9 @@
 [submodule "episomer"]
 	path = episomer
 	url = https://github.com/cran/episomer
+[submodule "epistandardiseR"]
+	path = epistandardiseR
+	url = https://github.com/cran/epistandardiseR
 [submodule "epitab"]
 	path = epitab
 	url = https://github.com/cran/epitab
@@ -34931,6 +34952,9 @@
 [submodule "ernm"]
 	path = ernm
 	url = https://github.com/cran/ernm
+[submodule "erplots"]
+	path = erplots
+	url = https://github.com/cran/erplots
 [submodule "errorist"]
 	path = errorist
 	url = https://github.com/cran/errorist
@@ -35903,6 +35927,9 @@
 [submodule "farff"]
 	path = farff
 	url = https://github.com/cran/farff
+[submodule "farmPartial"]
+	path = farmPartial
+	url = https://github.com/cran/farmPartial
 [submodule "farr"]
 	path = farr
 	url = https://github.com/cran/farr
@@ -71981,6 +72008,9 @@
 [submodule "tukeytrend"]
 	path = tukeytrend
 	url = https://github.com/cran/tukeytrend
+[submodule "tulpa"]
+	path = tulpa
+	url = https://github.com/cran/tulpa
 [submodule "tulpaMesh"]
 	path = tulpaMesh
 	url = https://github.com/cran/tulpaMesh
@@ -74393,6 +74423,9 @@
 [submodule "xVA"]
 	path = xVA
 	url = https://github.com/cran/xVA
+[submodule "xaci"]
+	path = xaci
+	url = https://github.com/cran/xaci
 [submodule "xactonomial"]
 	path = xactonomial
 	url = https://github.com/cran/xactonomial
