@@ -17393,6 +17393,9 @@
 [submodule "Ropj"]
 	path = Ropj
 	url = https://github.com/cran/Ropj
+[submodule "Rothermel"]
+	path = Rothermel
+	url = https://github.com/cran/Rothermel
 [submodule "RougeLM"]
 	path = RougeLM
 	url = https://github.com/cran/RougeLM
@@ -43058,6 +43061,9 @@
 [submodule "icdpicr2"]
 	path = icdpicr2
 	url = https://github.com/cran/icdpicr2
+[submodule "icebergr"]
+	path = icebergr
+	url = https://github.com/cran/icebergr
 [submodule "icecdr"]
 	path = icecdr
 	url = https://github.com/cran/icecdr
@@ -43967,6 +43973,9 @@
 [submodule "intmed"]
 	path = intmed
 	url = https://github.com/cran/intmed
+[submodule "intraclass"]
+	path = intraclass
+	url = https://github.com/cran/intraclass
 [submodule "intradayModel"]
 	path = intradayModel
 	url = https://github.com/cran/intradayModel
@@ -47957,6 +47966,9 @@
 [submodule "mathpix"]
 	path = mathpix
 	url = https://github.com/cran/mathpix
+[submodule "mathr"]
+	path = mathr
+	url = https://github.com/cran/mathr
 [submodule "maths.genealogy"]
 	path = maths.genealogy
 	url = https://github.com/cran/maths.genealogy
