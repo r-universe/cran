@@ -155,6 +155,9 @@
 [submodule "AHSurv"]
 	path = AHSurv
 	url = https://github.com/cran/AHSurv
+[submodule "AHTauDesign"]
+	path = AHTauDesign
+	url = https://github.com/cran/AHTauDesign
 [submodule "AIBias"]
 	path = AIBias
 	url = https://github.com/cran/AIBias
@@ -4157,6 +4160,9 @@
 [submodule "DDRTree"]
 	path = DDRTree
 	url = https://github.com/cran/DDRTree
+[submodule "DEA"]
+	path = DEA
+	url = https://github.com/cran/DEA
 [submodule "DEBBI"]
 	path = DEBBI
 	url = https://github.com/cran/DEBBI
@@ -9008,6 +9014,9 @@
 [submodule "IncrementalityTEST"]
 	path = IncrementalityTEST
 	url = https://github.com/cran/IncrementalityTEST
+[submodule "IndFarmCost"]
+	path = IndFarmCost
+	url = https://github.com/cran/IndFarmCost
 [submodule "IndGenErrors"]
 	path = IndGenErrors
 	url = https://github.com/cran/IndGenErrors
@@ -66476,6 +66485,9 @@
 [submodule "sociome"]
 	path = sociome
 	url = https://github.com/cran/sociome
+[submodule "socketR"]
+	path = socketR
+	url = https://github.com/cran/socketR
 [submodule "socratadata"]
 	path = socratadata
 	url = https://github.com/cran/socratadata
