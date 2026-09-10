@@ -641,6 +641,9 @@
 [submodule "AllelicSeries"]
 	path = AllelicSeries
 	url = https://github.com/cran/AllelicSeries
+[submodule "AlleloBin"]
+	path = AlleloBin
+	url = https://github.com/cran/AlleloBin
 [submodule "Allspice"]
 	path = Allspice
 	url = https://github.com/cran/Allspice
@@ -5825,6 +5828,9 @@
 [submodule "EpiPvr"]
 	path = EpiPvr
 	url = https://github.com/cran/EpiPvr
+[submodule "EpiQuestionR"]
+	path = EpiQuestionR
+	url = https://github.com/cran/EpiQuestionR
 [submodule "EpiReport"]
 	path = EpiReport
 	url = https://github.com/cran/EpiReport
@@ -16106,6 +16112,9 @@
 [submodule "RSEIS"]
 	path = RSEIS
 	url = https://github.com/cran/RSEIS
+[submodule "RSEML"]
+	path = RSEML
+	url = https://github.com/cran/RSEML
 [submodule "RSKC"]
 	path = RSKC
 	url = https://github.com/cran/RSKC
@@ -21794,6 +21803,9 @@
 [submodule "aamatch"]
 	path = aamatch
 	url = https://github.com/cran/aamatch
+[submodule "aanova"]
+	path = aanova
+	url = https://github.com/cran/aanova
 [submodule "abasequence"]
 	path = abasequence
 	url = https://github.com/cran/abasequence
@@ -22517,6 +22529,9 @@
 [submodule "agriME"]
 	path = agriME
 	url = https://github.com/cran/agriME
+[submodule "agriPAM"]
+	path = agriPAM
+	url = https://github.com/cran/agriPAM
 [submodule "agriReg"]
 	path = agriReg
 	url = https://github.com/cran/agriReg
@@ -28622,6 +28637,9 @@
 [submodule "cnum"]
 	path = cnum
 	url = https://github.com/cran/cnum
+[submodule "co2e"]
+	path = co2e
+	url = https://github.com/cran/co2e
 [submodule "coFAST"]
 	path = coFAST
 	url = https://github.com/cran/coFAST
@@ -30668,6 +30686,9 @@
 [submodule "cuda.ml"]
 	path = cuda.ml
 	url = https://github.com/cran/cuda.ml
+[submodule "cudaverse"]
+	path = cudaverse
+	url = https://github.com/cran/cudaverse
 [submodule "cumprinc"]
 	path = cumprinc
 	url = https://github.com/cran/cumprinc
@@ -34817,6 +34838,9 @@
 [submodule "epizootic"]
 	path = epizootic
 	url = https://github.com/cran/epizootic
+[submodule "epkde"]
+	path = epkde
+	url = https://github.com/cran/epkde
 [submodule "eplusr"]
 	path = eplusr
 	url = https://github.com/cran/eplusr
@@ -35429,6 +35453,9 @@
 [submodule "exmort"]
 	path = exmort
 	url = https://github.com/cran/exmort
+[submodule "exnexSurv"]
+	path = exnexSurv
+	url = https://github.com/cran/exnexSurv
 [submodule "exoplanetdata"]
 	path = exoplanetdata
 	url = https://github.com/cran/exoplanetdata
@@ -43682,6 +43709,9 @@
 [submodule "infoelectoral"]
 	path = infoelectoral
 	url = https://github.com/cran/infoelectoral
+[submodule "infometrics"]
+	path = infometrics
+	url = https://github.com/cran/infometrics
 [submodule "informativeSCI"]
 	path = informativeSCI
 	url = https://github.com/cran/informativeSCI
@@ -53282,6 +53312,9 @@
 [submodule "oenb"]
 	path = oenb
 	url = https://github.com/cran/oenb
+[submodule "oesir"]
+	path = oesir
+	url = https://github.com/cran/oesir
 [submodule "oews2020"]
 	path = oews2020
 	url = https://github.com/cran/oews2020
@@ -54101,6 +54134,9 @@
 [submodule "otsfeatures"]
 	path = otsfeatures
 	url = https://github.com/cran/otsfeatures
+[submodule "otter"]
+	path = otter
+	url = https://github.com/cran/otter
 [submodule "ottr"]
 	path = ottr
 	url = https://github.com/cran/ottr
@@ -72083,6 +72119,9 @@
 [submodule "tvReg"]
 	path = tvReg
 	url = https://github.com/cran/tvReg
+[submodule "tvbounds"]
+	path = tvbounds
+	url = https://github.com/cran/tvbounds
 [submodule "tvcure"]
 	path = tvcure
 	url = https://github.com/cran/tvcure
