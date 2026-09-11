@@ -8552,6 +8552,9 @@
 [submodule "ICEHmeasures"]
 	path = ICEHmeasures
 	url = https://github.com/cran/ICEHmeasures
+[submodule "ICESat2VegR"]
+	path = ICESat2VegR
+	url = https://github.com/cran/ICESat2VegR
 [submodule "ICEbox"]
 	path = ICEbox
 	url = https://github.com/cran/ICEbox
