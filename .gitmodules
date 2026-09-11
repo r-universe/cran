@@ -8177,6 +8177,9 @@
 [submodule "HQM"]
 	path = HQM
 	url = https://github.com/cran/HQM
+[submodule "HRM"]
+	path = HRM
+	url = https://github.com/cran/HRM
 [submodule "HRTnomaly"]
 	path = HRTnomaly
 	url = https://github.com/cran/HRTnomaly
@@ -23381,6 +23384,9 @@
 [submodule "arcpy"]
 	path = arcpy
 	url = https://github.com/cran/arcpy
+[submodule "arcstat"]
+	path = arcstat
+	url = https://github.com/cran/arcstat
 [submodule "ardl.nardl"]
 	path = ardl.nardl
 	url = https://github.com/cran/ardl.nardl
@@ -51755,6 +51761,9 @@
 [submodule "nbpMatching"]
 	path = nbpMatching
 	url = https://github.com/cran/nbpMatching
+[submodule "nbsurv"]
+	path = nbsurv
+	url = https://github.com/cran/nbsurv
 [submodule "nc"]
 	path = nc
 	url = https://github.com/cran/nc
@@ -58910,6 +58919,9 @@
 [submodule "r4subdata"]
 	path = r4subdata
 	url = https://github.com/cran/r4subdata
+[submodule "r4subpharma"]
+	path = r4subpharma
+	url = https://github.com/cran/r4subpharma
 [submodule "r4subprofile"]
 	path = r4subprofile
 	url = https://github.com/cran/r4subprofile
@@ -62507,6 +62519,9 @@
 [submodule "rpsftm"]
 	path = rpsftm
 	url = https://github.com/cran/rpsftm
+[submodule "rpsurv"]
+	path = rpsurv
+	url = https://github.com/cran/rpsurv
 [submodule "rptR"]
 	path = rptR
 	url = https://github.com/cran/rptR
@@ -64898,6 +64913,9 @@
 [submodule "sglr"]
 	path = sglr
 	url = https://github.com/cran/sglr
+[submodule "sglssnal"]
+	path = sglssnal
+	url = https://github.com/cran/sglssnal
 [submodule "sgmean"]
 	path = sgmean
 	url = https://github.com/cran/sgmean
@@ -65930,6 +65948,9 @@
 [submodule "singleRcapture"]
 	path = singleRcapture
 	url = https://github.com/cran/singleRcapture
+[submodule "siniaR"]
+	path = siniaR
+	url = https://github.com/cran/siniaR
 [submodule "sinib"]
 	path = sinib
 	url = https://github.com/cran/sinib
