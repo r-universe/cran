@@ -27851,6 +27851,9 @@
 [submodule "chores"]
 	path = chores
 	url = https://github.com/cran/chores
+[submodule "choroplethr"]
+	path = choroplethr
+	url = https://github.com/cran/choroplethr
 [submodule "choroplethrAdmin1"]
 	path = choroplethrAdmin1
 	url = https://github.com/cran/choroplethrAdmin1
