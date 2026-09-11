@@ -31028,6 +31028,9 @@
 [submodule "dani"]
 	path = dani
 	url = https://github.com/cran/dani
+[submodule "danlex"]
+	path = danlex
+	url = https://github.com/cran/danlex
 [submodule "dann"]
 	path = dann
 	url = https://github.com/cran/dann
@@ -34268,6 +34271,9 @@
 [submodule "eicm"]
 	path = eicm
 	url = https://github.com/cran/eicm
+[submodule "eidosapi"]
+	path = eidosapi
+	url = https://github.com/cran/eidosapi
 [submodule "eigencore"]
 	path = eigencore
 	url = https://github.com/cran/eigencore
@@ -72869,6 +72875,9 @@
 [submodule "validateIt"]
 	path = validateIt
 	url = https://github.com/cran/validateIt
+[submodule "validateR"]
+	path = validateR
+	url = https://github.com/cran/validateR
 [submodule "validatesuggest"]
 	path = validatesuggest
 	url = https://github.com/cran/validatesuggest
