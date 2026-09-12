@@ -248,6 +248,9 @@
 [submodule "AMR"]
 	path = AMR
 	url = https://github.com/cran/AMR
+[submodule "AMRsurveilR"]
+	path = AMRsurveilR
+	url = https://github.com/cran/AMRsurveilR
 [submodule "ANN2"]
 	path = ANN2
 	url = https://github.com/cran/ANN2
@@ -881,6 +884,9 @@
 [submodule "AutoDeskR"]
 	path = AutoDeskR
 	url = https://github.com/cran/AutoDeskR
+[submodule "AutoEDA"]
+	path = AutoEDA
+	url = https://github.com/cran/AutoEDA
 [submodule "AutoGenAI"]
 	path = AutoGenAI
 	url = https://github.com/cran/AutoGenAI
@@ -3665,6 +3671,9 @@
 [submodule "Compositionalasmr"]
 	path = Compositionalasmr
 	url = https://github.com/cran/Compositionalasmr
+[submodule "Compositionalscsmr"]
+	path = Compositionalscsmr
+	url = https://github.com/cran/Compositionalscsmr
 [submodule "Compositionalzerocens"]
 	path = Compositionalzerocens
 	url = https://github.com/cran/Compositionalzerocens
@@ -6710,6 +6719,9 @@
 [submodule "FoRecoML"]
 	path = FoRecoML
 	url = https://github.com/cran/FoRecoML
+[submodule "FocusGroup"]
+	path = FocusGroup
+	url = https://github.com/cran/FocusGroup
 [submodule "ForCausality"]
 	path = ForCausality
 	url = https://github.com/cran/ForCausality
@@ -9797,6 +9809,9 @@
 [submodule "LLMRagent"]
 	path = LLMRagent
 	url = https://github.com/cran/LLMRagent
+[submodule "LLMRpanel"]
+	path = LLMRpanel
+	url = https://github.com/cran/LLMRpanel
 [submodule "LLMTranslate"]
 	path = LLMTranslate
 	url = https://github.com/cran/LLMTranslate
@@ -11408,6 +11423,9 @@
 [submodule "MasterBayes"]
 	path = MasterBayes
 	url = https://github.com/cran/MasterBayes
+[submodule "MatchAlign"]
+	path = MatchAlign
+	url = https://github.com/cran/MatchAlign
 [submodule "MatchGATE"]
 	path = MatchGATE
 	url = https://github.com/cran/MatchGATE
@@ -11825,6 +11843,9 @@
 [submodule "MoTBFs"]
 	path = MoTBFs
 	url = https://github.com/cran/MoTBFs
+[submodule "MobilityDataPT"]
+	path = MobilityDataPT
+	url = https://github.com/cran/MobilityDataPT
 [submodule "ModEstM"]
 	path = ModEstM
 	url = https://github.com/cran/ModEstM
@@ -12236,6 +12257,9 @@
 [submodule "NGLVieweR"]
 	path = NGLVieweR
 	url = https://github.com/cran/NGLVieweR
+[submodule "NGSToolKit"]
+	path = NGSToolKit
+	url = https://github.com/cran/NGSToolKit
 [submodule "NHANES"]
 	path = NHANES
 	url = https://github.com/cran/NHANES
@@ -13136,6 +13160,9 @@
 [submodule "OptM"]
 	path = OptM
 	url = https://github.com/cran/OptM
+[submodule "OptOR"]
+	path = OptOR
+	url = https://github.com/cran/OptOR
 [submodule "OptOTrials"]
 	path = OptOTrials
 	url = https://github.com/cran/OptOTrials
@@ -14561,6 +14588,9 @@
 [submodule "ProFAST"]
 	path = ProFAST
 	url = https://github.com/cran/ProFAST
+[submodule "ProMetaR"]
+	path = ProMetaR
+	url = https://github.com/cran/ProMetaR
 [submodule "ProPublicaR"]
 	path = ProPublicaR
 	url = https://github.com/cran/ProPublicaR
@@ -17078,6 +17108,9 @@
 [submodule "Rfacebook"]
 	path = Rfacebook
 	url = https://github.com/cran/Rfacebook
+[submodule "Rfactor"]
+	path = Rfactor
+	url = https://github.com/cran/Rfactor
 [submodule "Rfast"]
 	path = Rfast
 	url = https://github.com/cran/Rfast
@@ -18035,6 +18068,9 @@
 [submodule "SIHR"]
 	path = SIHR
 	url = https://github.com/cran/SIHR
+[submodule "SII"]
+	path = SII
+	url = https://github.com/cran/SII
 [submodule "SILFS"]
 	path = SILFS
 	url = https://github.com/cran/SILFS
@@ -20882,6 +20918,9 @@
 [submodule "USP"]
 	path = USP
 	url = https://github.com/cran/USP
+[submodule "USPopulationSampler"]
+	path = USPopulationSampler
+	url = https://github.com/cran/USPopulationSampler
 [submodule "USgas"]
 	path = USgas
 	url = https://github.com/cran/USgas
@@ -22073,6 +22112,9 @@
 [submodule "actiread"]
 	path = actiread
 	url = https://github.com/cran/actiread
+[submodule "actisensorlog"]
+	path = actisensorlog
+	url = https://github.com/cran/actisensorlog
 [submodule "activAnalyzer"]
 	path = activAnalyzer
 	url = https://github.com/cran/activAnalyzer
@@ -23960,6 +24002,9 @@
 [submodule "autotab"]
 	path = autotab
 	url = https://github.com/cran/autotab
+[submodule "autotest"]
+	path = autotest
+	url = https://github.com/cran/autotest
 [submodule "autotestR"]
 	path = autotestR
 	url = https://github.com/cran/autotestR
@@ -24167,6 +24212,9 @@
 [submodule "bacr"]
 	path = bacr
 	url = https://github.com/cran/bacr
+[submodule "badcontrols"]
+	path = badcontrols
+	url = https://github.com/cran/badcontrols
 [submodule "badgen"]
 	path = badgen
 	url = https://github.com/cran/badgen
@@ -27098,6 +27146,9 @@
 [submodule "cauchypca"]
 	path = cauchypca
 	url = https://github.com/cran/cauchypca
+[submodule "cauchyreg"]
+	path = cauchyreg
+	url = https://github.com/cran/cauchyreg
 [submodule "caugi"]
 	path = caugi
 	url = https://github.com/cran/caugi
@@ -27401,6 +27452,9 @@
 [submodule "cellWise"]
 	path = cellWise
 	url = https://github.com/cran/cellWise
+[submodule "celliverse"]
+	path = celliverse
+	url = https://github.com/cran/celliverse
 [submodule "cellkeyperturbation"]
 	path = cellkeyperturbation
 	url = https://github.com/cran/cellkeyperturbation
@@ -27770,6 +27824,9 @@
 [submodule "chest"]
 	path = chest
 	url = https://github.com/cran/chest
+[submodule "chestR"]
+	path = chestR
+	url = https://github.com/cran/chestR
 [submodule "chevron"]
 	path = chevron
 	url = https://github.com/cran/chevron
@@ -36422,6 +36479,9 @@
 [submodule "fdesigns"]
 	path = fdesigns
 	url = https://github.com/cran/fdesigns
+[submodule "fdic"]
+	path = fdic
+	url = https://github.com/cran/fdic
 [submodule "fdicdata"]
 	path = fdicdata
 	url = https://github.com/cran/fdicdata
@@ -37445,6 +37505,9 @@
 [submodule "forestsearch"]
 	path = forestsearch
 	url = https://github.com/cran/forestsearch
+[submodule "foresty"]
+	path = foresty
+	url = https://github.com/cran/foresty
 [submodule "foretell"]
 	path = foretell
 	url = https://github.com/cran/foretell
@@ -38513,6 +38576,9 @@
 [submodule "gcmr"]
 	path = gcmr
 	url = https://github.com/cran/gcmr
+[submodule "gcmrec"]
+	path = gcmrec
+	url = https://github.com/cran/gcmrec
 [submodule "gcomputation"]
 	path = gcomputation
 	url = https://github.com/cran/gcomputation
@@ -39053,6 +39119,9 @@
 [submodule "geosimilarity"]
 	path = geosimilarity
 	url = https://github.com/cran/geosimilarity
+[submodule "geosmooth"]
+	path = geosmooth
+	url = https://github.com/cran/geosmooth
 [submodule "geospark"]
 	path = geospark
 	url = https://github.com/cran/geospark
@@ -43022,6 +43091,9 @@
 [submodule "ibger"]
 	path = ibger
 	url = https://github.com/cran/ibger
+[submodule "ibist"]
+	path = ibist
+	url = https://github.com/cran/ibist
 [submodule "ibkrcp"]
 	path = ibkrcp
 	url = https://github.com/cran/ibkrcp
@@ -45500,6 +45572,9 @@
 [submodule "kronxNBC"]
 	path = kronxNBC
 	url = https://github.com/cran/kronxNBC
+[submodule "krt"]
+	path = krt
+	url = https://github.com/cran/krt
 [submodule "ks"]
 	path = ks
 	url = https://github.com/cran/ks
@@ -47819,6 +47894,9 @@
 [submodule "marcox"]
 	path = marcox
 	url = https://github.com/cran/marcox
+[submodule "marcxmlr"]
+	path = marcxmlr
+	url = https://github.com/cran/marcxmlr
 [submodule "marelac"]
 	path = marelac
 	url = https://github.com/cran/marelac
@@ -47963,6 +48041,9 @@
 [submodule "matRiks"]
 	path = matRiks
 	url = https://github.com/cran/matRiks
+[submodule "matSPACE"]
+	path = matSPACE
+	url = https://github.com/cran/matSPACE
 [submodule "matchFeat"]
 	path = matchFeat
 	url = https://github.com/cran/matchFeat
@@ -48695,6 +48776,9 @@
 [submodule "metaGE"]
 	path = metaGE
 	url = https://github.com/cran/metaGE
+[submodule "metaGLMM"]
+	path = metaGLMM
+	url = https://github.com/cran/metaGLMM
 [submodule "metaHelper"]
 	path = metaHelper
 	url = https://github.com/cran/metaHelper
@@ -48812,6 +48896,9 @@
 [submodule "metainsight"]
 	path = metainsight
 	url = https://github.com/cran/metainsight
+[submodule "metajam"]
+	path = metajam
+	url = https://github.com/cran/metajam
 [submodule "metalcor"]
 	path = metalcor
 	url = https://github.com/cran/metalcor
@@ -52793,6 +52880,9 @@
 [submodule "normalp"]
 	path = normalp
 	url = https://github.com/cran/normalp
+[submodule "normanR"]
+	path = normanR
+	url = https://github.com/cran/normanR
 [submodule "normfluodbf"]
 	path = normfluodbf
 	url = https://github.com/cran/normfluodbf
@@ -58445,6 +58535,9 @@
 [submodule "qpdf"]
 	path = qpdf
 	url = https://github.com/cran/qpdf
+[submodule "qpost"]
+	path = qpost
+	url = https://github.com/cran/qpost
 [submodule "qqconf"]
 	path = qqconf
 	url = https://github.com/cran/qqconf
@@ -60062,6 +60155,9 @@
 [submodule "rdatacite"]
 	path = rdatacite
 	url = https://github.com/cran/rdatacite
+[submodule "rdatagouv"]
+	path = rdatagouv
+	url = https://github.com/cran/rdatagouv
 [submodule "rdataretriever"]
 	path = rdataretriever
 	url = https://github.com/cran/rdataretriever
@@ -63272,6 +63368,9 @@
 [submodule "rzentra"]
 	path = rzentra
 	url = https://github.com/cran/rzentra
+[submodule "rzig"]
+	path = rzig
+	url = https://github.com/cran/rzig
 [submodule "rzmq"]
 	path = rzmq
 	url = https://github.com/cran/rzmq
@@ -66569,6 +66668,9 @@
 [submodule "sns"]
 	path = sns
 	url = https://github.com/cran/sns
+[submodule "soReta"]
+	path = soReta
+	url = https://github.com/cran/soReta
 [submodule "sobol"]
 	path = sobol
 	url = https://github.com/cran/sobol
@@ -67232,6 +67334,9 @@
 [submodule "spconf"]
 	path = spconf
 	url = https://github.com/cran/spconf
+[submodule "spconform"]
+	path = spconform
+	url = https://github.com/cran/spconform
 [submodule "spcosa"]
 	path = spcosa
 	url = https://github.com/cran/spcosa
@@ -68534,6 +68639,9 @@
 [submodule "strategicplayers"]
 	path = strategicplayers
 	url = https://github.com/cran/strategicplayers
+[submodule "strategyr"]
+	path = strategyr
+	url = https://github.com/cran/strategyr
 [submodule "stratification"]
 	path = stratification
 	url = https://github.com/cran/stratification
@@ -68543,6 +68651,9 @@
 [submodule "stratifyR"]
 	path = stratifyR
 	url = https://github.com/cran/stratifyR
+[submodule "stratigraphr"]
+	path = stratigraphr
+	url = https://github.com/cran/stratigraphr
 [submodule "straweib"]
 	path = straweib
 	url = https://github.com/cran/straweib
@@ -73454,6 +73565,9 @@
 [submodule "vistributions"]
 	path = vistributions
 	url = https://github.com/cran/vistributions
+[submodule "visual.kaito"]
+	path = visual.kaito
+	url = https://github.com/cran/visual.kaito
 [submodule "visualFields"]
 	path = visualFields
 	url = https://github.com/cran/visualFields
