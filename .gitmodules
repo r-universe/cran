@@ -12593,6 +12593,9 @@
 [submodule "NeuralNetTools"]
 	path = NeuralNetTools
 	url = https://github.com/cran/NeuralNetTools
+[submodule "NeuralSTATIS"]
+	path = NeuralSTATIS
+	url = https://github.com/cran/NeuralSTATIS
 [submodule "NeuralSens"]
 	path = NeuralSens
 	url = https://github.com/cran/NeuralSens
@@ -12974,6 +12977,9 @@
 [submodule "OmicSense"]
 	path = OmicSense
 	url = https://github.com/cran/OmicSense
+[submodule "OmicsBraid"]
+	path = OmicsBraid
+	url = https://github.com/cran/OmicsBraid
 [submodule "OmicsPLS"]
 	path = OmicsPLS
 	url = https://github.com/cran/OmicsPLS
@@ -17333,6 +17339,9 @@
 [submodule "RobustAdaptiveDecomposition"]
 	path = RobustAdaptiveDecomposition
 	url = https://github.com/cran/RobustAdaptiveDecomposition
+[submodule "RobustArithmetic"]
+	path = RobustArithmetic
+	url = https://github.com/cran/RobustArithmetic
 [submodule "RobustBF"]
 	path = RobustBF
 	url = https://github.com/cran/RobustBF
@@ -18581,6 +18590,9 @@
 [submodule "SampleCore"]
 	path = SampleCore
 	url = https://github.com/cran/SampleCore
+[submodule "SampleSelectR"]
+	path = SampleSelectR
+	url = https://github.com/cran/SampleSelectR
 [submodule "SampleSize4ClinicalTrials"]
 	path = SampleSize4ClinicalTrials
 	url = https://github.com/cran/SampleSize4ClinicalTrials
@@ -24359,6 +24371,9 @@
 [submodule "bases"]
 	path = bases
 	url = https://github.com/cran/bases
+[submodule "basetable"]
+	path = basetable
+	url = https://github.com/cran/basetable
 [submodule "basetheme"]
 	path = basetheme
 	url = https://github.com/cran/basetheme
@@ -29714,6 +29729,9 @@
 [submodule "coresynth"]
 	path = coresynth
 	url = https://github.com/cran/coresynth
+[submodule "coreval"]
+	path = coreval
+	url = https://github.com/cran/coreval
 [submodule "corkscrew"]
 	path = corkscrew
 	url = https://github.com/cran/corkscrew
@@ -37826,6 +37844,9 @@
 [submodule "fspe"]
 	path = fspe
 	url = https://github.com/cran/fspe
+[submodule "fspls2"]
+	path = fspls2
+	url = https://github.com/cran/fspls2
 [submodule "fsr"]
 	path = fsr
 	url = https://github.com/cran/fsr
@@ -44606,6 +44627,9 @@
 [submodule "janitor"]
 	path = janitor
 	url = https://github.com/cran/janitor
+[submodule "janssonr"]
+	path = janssonr
+	url = https://github.com/cran/janssonr
 [submodule "janus"]
 	path = janus
 	url = https://github.com/cran/janus
@@ -64040,6 +64064,9 @@
 [submodule "scitb"]
 	path = scitb
 	url = https://github.com/cran/scitb
+[submodule "sclValid"]
+	path = sclValid
+	url = https://github.com/cran/sclValid
 [submodule "scmSpillover"]
 	path = scmSpillover
 	url = https://github.com/cran/scmSpillover
@@ -72488,6 +72515,9 @@
 [submodule "undidR"]
 	path = undidR
 	url = https://github.com/cran/undidR
+[submodule "undomanager"]
+	path = undomanager
+	url = https://github.com/cran/undomanager
 [submodule "unexcel"]
 	path = unexcel
 	url = https://github.com/cran/unexcel
