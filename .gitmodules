@@ -23351,9 +23351,6 @@
 [submodule "archetypal"]
 	path = archetypal
 	url = https://github.com/cran/archetypal
-[submodule "archetyper"]
-	path = archetyper
-	url = https://github.com/cran/archetyper
 [submodule "archetypes"]
 	path = archetypes
 	url = https://github.com/cran/archetypes
@@ -72329,9 +72326,6 @@
 [submodule "uaparserjs"]
 	path = uaparserjs
 	url = https://github.com/cran/uaparserjs
-[submodule "uavRmp"]
-	path = uavRmp
-	url = https://github.com/cran/uavRmp
 [submodule "ubair"]
 	path = ubair
 	url = https://github.com/cran/ubair
