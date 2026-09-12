@@ -881,6 +881,9 @@
 [submodule "AutoDeskR"]
 	path = AutoDeskR
 	url = https://github.com/cran/AutoDeskR
+[submodule "AutoGenAI"]
+	path = AutoGenAI
+	url = https://github.com/cran/AutoGenAI
 [submodule "AutoMLR"]
 	path = AutoMLR
 	url = https://github.com/cran/AutoMLR
@@ -7886,6 +7889,9 @@
 [submodule "GramQuad"]
 	path = GramQuad
 	url = https://github.com/cran/GramQuad
+[submodule "GrangerRKHS"]
+	path = GrangerRKHS
+	url = https://github.com/cran/GrangerRKHS
 [submodule "GraphRankTest"]
 	path = GraphRankTest
 	url = https://github.com/cran/GraphRankTest
@@ -28838,6 +28844,9 @@
 [submodule "cogmapr"]
 	path = cogmapr
 	url = https://github.com/cran/cogmapr
+[submodule "cogmod"]
+	path = cogmod
+	url = https://github.com/cran/cogmod
 [submodule "cograph"]
 	path = cograph
 	url = https://github.com/cran/cograph
@@ -55955,6 +55964,9 @@
 [submodule "pillar"]
 	path = pillar
 	url = https://github.com/cran/pillar
+[submodule "pilotr"]
+	path = pilotr
+	url = https://github.com/cran/pilotr
 [submodule "pim"]
 	path = pim
 	url = https://github.com/cran/pim
@@ -56912,6 +56924,9 @@
 [submodule "postshock"]
 	path = postshock
 	url = https://github.com/cran/postshock
+[submodule "postvocs"]
+	path = postvocs
+	url = https://github.com/cran/postvocs
 [submodule "potential"]
 	path = potential
 	url = https://github.com/cran/potential
@@ -59519,6 +59534,9 @@
 [submodule "rankICC"]
 	path = rankICC
 	url = https://github.com/cran/rankICC
+[submodule "rankMANOVA"]
+	path = rankMANOVA
+	url = https://github.com/cran/rankMANOVA
 [submodule "rankPlayedInference"]
 	path = rankPlayedInference
 	url = https://github.com/cran/rankPlayedInference
@@ -66398,6 +66416,9 @@
 [submodule "smriti"]
 	path = smriti
 	url = https://github.com/cran/smriti
+[submodule "smrlasso"]
+	path = smrlasso
+	url = https://github.com/cran/smrlasso
 [submodule "sms"]
 	path = sms
 	url = https://github.com/cran/sms
@@ -69344,6 +69365,9 @@
 [submodule "synadam"]
 	path = synadam
 	url = https://github.com/cran/synadam
+[submodule "sync3d"]
+	path = sync3d
+	url = https://github.com/cran/sync3d
 [submodule "syncdr"]
 	path = syncdr
 	url = https://github.com/cran/syncdr
@@ -73007,6 +73031,9 @@
 [submodule "varitas"]
 	path = varitas
 	url = https://github.com/cran/varitas
+[submodule "varmapack"]
+	path = varmapack
+	url = https://github.com/cran/varmapack
 [submodule "varoc"]
 	path = varoc
 	url = https://github.com/cran/varoc
