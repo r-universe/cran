@@ -65888,9 +65888,6 @@
 [submodule "simglm"]
 	path = simglm
 	url = https://github.com/cran/simglm
-[submodule "simgof"]
-	path = simgof
-	url = https://github.com/cran/simgof
 [submodule "simhelpers"]
 	path = simhelpers
 	url = https://github.com/cran/simhelpers
