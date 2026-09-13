@@ -2789,9 +2789,6 @@
 [submodule "CORE"]
 	path = CORE
 	url = https://github.com/cran/CORE
-[submodule "CORElearn"]
-	path = CORElearn
-	url = https://github.com/cran/CORElearn
 [submodule "CORPlot"]
 	path = CORPlot
 	url = https://github.com/cran/CORPlot
@@ -14888,9 +14885,6 @@
 [submodule "QUALYPSO"]
 	path = QUALYPSO
 	url = https://github.com/cran/QUALYPSO
-[submodule "QWDAP"]
-	path = QWDAP
-	url = https://github.com/cran/QWDAP
 [submodule "QZ"]
 	path = QZ
 	url = https://github.com/cran/QZ
@@ -23888,9 +23882,6 @@
 [submodule "auto.pca"]
 	path = auto.pca
 	url = https://github.com/cran/auto.pca
-[submodule "autoBagging"]
-	path = autoBagging
-	url = https://github.com/cran/autoBagging
 [submodule "autoCovariateSelection"]
 	path = autoCovariateSelection
 	url = https://github.com/cran/autoCovariateSelection
@@ -49184,9 +49175,6 @@
 [submodule "miLineage"]
 	path = miLineage
 	url = https://github.com/cran/miLineage
-[submodule "miRNAss"]
-	path = miRNAss
-	url = https://github.com/cran/miRNAss
 [submodule "miRecSurv"]
 	path = miRecSurv
 	url = https://github.com/cran/miRecSurv
@@ -55304,9 +55292,6 @@
 [submodule "pdfsearch"]
 	path = pdfsearch
 	url = https://github.com/cran/pdfsearch
-[submodule "pdfsigner"]
-	path = pdfsigner
-	url = https://github.com/cran/pdfsigner
 [submodule "pdftables"]
 	path = pdftables
 	url = https://github.com/cran/pdftables
@@ -64664,9 +64649,6 @@
 [submodule "semhelpinghands"]
 	path = semhelpinghands
 	url = https://github.com/cran/semhelpinghands
-[submodule "semiArtificial"]
-	path = semiArtificial
-	url = https://github.com/cran/semiArtificial
 [submodule "semicmprskcoxmsm"]
 	path = semicmprskcoxmsm
 	url = https://github.com/cran/semicmprskcoxmsm
