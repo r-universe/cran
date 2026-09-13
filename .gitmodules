@@ -719,6 +719,9 @@
 [submodule "AnnotationBustR"]
 	path = AnnotationBustR
 	url = https://github.com/cran/AnnotationBustR
+[submodule "AnomalyScore"]
+	path = AnomalyScore
+	url = https://github.com/cran/AnomalyScore
 [submodule "AntAngioCOOL"]
 	path = AntAngioCOOL
 	url = https://github.com/cran/AntAngioCOOL
