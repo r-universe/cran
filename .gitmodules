@@ -54410,6 +54410,9 @@
 [submodule "ozmaps"]
 	path = ozmaps
 	url = https://github.com/cran/ozmaps
+[submodule "p2oncology"]
+	path = p2oncology
+	url = https://github.com/cran/p2oncology
 [submodule "p3state.msm"]
 	path = p3state.msm
 	url = https://github.com/cran/p3state.msm
@@ -59345,6 +59348,9 @@
 [submodule "rSRD"]
 	path = rSRD
 	url = https://github.com/cran/rSRD
+[submodule "rSSP"]
+	path = rSSP
+	url = https://github.com/cran/rSSP
 [submodule "rSpectral"]
 	path = rSpectral
 	url = https://github.com/cran/rSpectral
