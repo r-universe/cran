@@ -914,6 +914,9 @@
 [submodule "AutoTransQF"]
 	path = AutoTransQF
 	url = https://github.com/cran/AutoTransQF
+[submodule "AutoViz"]
+	path = AutoViz
+	url = https://github.com/cran/AutoViz
 [submodule "AutoWMM"]
 	path = AutoWMM
 	url = https://github.com/cran/AutoWMM
@@ -18815,6 +18818,9 @@
 [submodule "SensoMineR"]
 	path = SensoMineR
 	url = https://github.com/cran/SensoMineR
+[submodule "SensoryDataSets"]
+	path = SensoryDataSets
+	url = https://github.com/cran/SensoryDataSets
 [submodule "SentimentAnalysis"]
 	path = SentimentAnalysis
 	url = https://github.com/cran/SentimentAnalysis
@@ -21767,6 +21773,9 @@
 [submodule "ZINARp"]
 	path = ZINARp
 	url = https://github.com/cran/ZINARp
+[submodule "ZINB.GP"]
+	path = ZINB.GP
+	url = https://github.com/cran/ZINB.GP
 [submodule "ZIPBayes"]
 	path = ZIPBayes
 	url = https://github.com/cran/ZIPBayes
@@ -23729,6 +23738,9 @@
 [submodule "assortnet"]
 	path = assortnet
 	url = https://github.com/cran/assortnet
+[submodule "ast2ast"]
+	path = ast2ast
+	url = https://github.com/cran/ast2ast
 [submodule "asteRisk"]
 	path = asteRisk
 	url = https://github.com/cran/asteRisk
@@ -30776,6 +30788,9 @@
 [submodule "cuperdec"]
 	path = cuperdec
 	url = https://github.com/cran/cuperdec
+[submodule "cureAssess"]
+	path = cureAssess
+	url = https://github.com/cran/cureAssess
 [submodule "curephEM"]
 	path = curephEM
 	url = https://github.com/cran/curephEM
@@ -36506,6 +36521,9 @@
 [submodule "featForge"]
 	path = featForge
 	url = https://github.com/cran/featForge
+[submodule "featR"]
+	path = featR
+	url = https://github.com/cran/featR
 [submodule "featdelta"]
 	path = featdelta
 	url = https://github.com/cran/featdelta
@@ -45515,6 +45533,9 @@
 [submodule "konfound"]
 	path = konfound
 	url = https://github.com/cran/konfound
+[submodule "koopman.dmd"]
+	path = koopman.dmd
+	url = https://github.com/cran/koopman.dmd
 [submodule "kosel"]
 	path = kosel
 	url = https://github.com/cran/kosel
@@ -47882,6 +47903,9 @@
 [submodule "marcxmlr"]
 	path = marcxmlr
 	url = https://github.com/cran/marcxmlr
+[submodule "mardist"]
+	path = mardist
+	url = https://github.com/cran/mardist
 [submodule "marelac"]
 	path = marelac
 	url = https://github.com/cran/marelac
@@ -74846,6 +74870,9 @@
 [submodule "xplain"]
 	path = xplain
 	url = https://github.com/cran/xplain
+[submodule "xplaineff"]
+	path = xplaineff
+	url = https://github.com/cran/xplaineff
 [submodule "xplainfi"]
 	path = xplainfi
 	url = https://github.com/cran/xplainfi
