@@ -13667,9 +13667,6 @@
 [submodule "PND.heter.cluster"]
 	path = PND.heter.cluster
 	url = https://github.com/cran/PND.heter.cluster
-[submodule "PNDSIBGE"]
-	path = PNDSIBGE
-	url = https://github.com/cran/PNDSIBGE
 [submodule "PNSIBGE"]
 	path = PNSIBGE
 	url = https://github.com/cran/PNSIBGE
@@ -37613,9 +37610,6 @@
 [submodule "fpod"]
 	path = fpod
 	url = https://github.com/cran/fpod
-[submodule "fpop"]
-	path = fpop
-	url = https://github.com/cran/fpop
 [submodule "fpopw"]
 	path = fpopw
 	url = https://github.com/cran/fpopw
@@ -74330,6 +74324,9 @@
 [submodule "windex"]
 	path = windex
 	url = https://github.com/cran/windex
+[submodule "windfarmGA"]
+	path = windfarmGA
+	url = https://github.com/cran/windfarmGA
 [submodule "windows.pls"]
 	path = windows.pls
 	url = https://github.com/cran/windows.pls
