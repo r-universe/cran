@@ -5783,6 +5783,9 @@
 [submodule "EnsCat"]
 	path = EnsCat
 	url = https://github.com/cran/EnsCat
+[submodule "Entropic.Scree"]
+	path = Entropic.Scree
+	url = https://github.com/cran/Entropic.Scree
 [submodule "EntropicStatistics"]
 	path = EntropicStatistics
 	url = https://github.com/cran/EntropicStatistics
@@ -6182,6 +6185,9 @@
 [submodule "FCVAR"]
 	path = FCVAR
 	url = https://github.com/cran/FCVAR
+[submodule "FCtools"]
+	path = FCtools
+	url = https://github.com/cran/FCtools
 [submodule "FD"]
 	path = FD
 	url = https://github.com/cran/FD
@@ -6323,9 +6329,6 @@
 [submodule "FMM"]
 	path = FMM
 	url = https://github.com/cran/FMM
-[submodule "FMP"]
-	path = FMP
-	url = https://github.com/cran/FMP
 [submodule "FMStable"]
 	path = FMStable
 	url = https://github.com/cran/FMStable
@@ -24005,6 +24008,9 @@
 [submodule "autoplotly"]
 	path = autoplotly
 	url = https://github.com/cran/autoplotly
+[submodule "autorelevate"]
+	path = autorelevate
+	url = https://github.com/cran/autorelevate
 [submodule "autoshiny"]
 	path = autoshiny
 	url = https://github.com/cran/autoshiny
@@ -25457,6 +25463,9 @@
 [submodule "biocharkitgui"]
 	path = biocharkitgui
 	url = https://github.com/cran/biocharkitgui
+[submodule "bioclients"]
+	path = bioclients
+	url = https://github.com/cran/bioclients
 [submodule "bioclim"]
 	path = bioclim
 	url = https://github.com/cran/bioclim
@@ -35354,6 +35363,9 @@
 [submodule "evaluate"]
 	path = evaluate
 	url = https://github.com/cran/evaluate
+[submodule "evaluatellm"]
+	path = evaluatellm
+	url = https://github.com/cran/evaluatellm
 [submodule "evapoRe"]
 	path = evapoRe
 	url = https://github.com/cran/evapoRe
@@ -39659,6 +39671,9 @@
 [submodule "gghourglass"]
 	path = gghourglass
 	url = https://github.com/cran/gghourglass
+[submodule "ggicons"]
+	path = ggicons
+	url = https://github.com/cran/ggicons
 [submodule "ggimage"]
 	path = ggimage
 	url = https://github.com/cran/ggimage
@@ -41897,6 +41912,9 @@
 [submodule "hdcate"]
 	path = hdcate
 	url = https://github.com/cran/hdcate
+[submodule "hdcce"]
+	path = hdcce
+	url = https://github.com/cran/hdcce
 [submodule "hdcuremodels"]
 	path = hdcuremodels
 	url = https://github.com/cran/hdcuremodels
@@ -45848,6 +45866,9 @@
 [submodule "landmaRk"]
 	path = landmaRk
 	url = https://github.com/cran/landmaRk
+[submodule "landmarked"]
+	path = landmarked
+	url = https://github.com/cran/landmarked
 [submodule "landmix"]
 	path = landmix
 	url = https://github.com/cran/landmix
@@ -52115,6 +52136,9 @@
 [submodule "netCoin"]
 	path = netCoin
 	url = https://github.com/cran/netCoin
+[submodule "netDFI"]
+	path = netDFI
+	url = https://github.com/cran/netDFI
 [submodule "netSEM"]
 	path = netSEM
 	url = https://github.com/cran/netSEM
@@ -53684,6 +53708,9 @@
 [submodule "onetime"]
 	path = onetime
 	url = https://github.com/cran/onetime
+[submodule "oneway"]
+	path = oneway
+	url = https://github.com/cran/oneway
 [submodule "onewaytests"]
 	path = onewaytests
 	url = https://github.com/cran/onewaytests
@@ -65921,6 +65948,9 @@
 [submodule "simPop"]
 	path = simPop
 	url = https://github.com/cran/simPop
+[submodule "simPsyStudy"]
+	path = simPsyStudy
+	url = https://github.com/cran/simPsyStudy
 [submodule "simRestore"]
 	path = simRestore
 	url = https://github.com/cran/simRestore
