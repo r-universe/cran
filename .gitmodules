@@ -14267,9 +14267,6 @@
 [submodule "PhysioIndexR"]
 	path = PhysioIndexR
 	url = https://github.com/cran/PhysioIndexR
-[submodule "PhytoIn"]
-	path = PhytoIn
-	url = https://github.com/cran/PhytoIn
 [submodule "PhytosanitaryCalculator"]
 	path = PhytosanitaryCalculator
 	url = https://github.com/cran/PhytosanitaryCalculator
@@ -22559,9 +22556,6 @@
 [submodule "aggTrees"]
 	path = aggTrees
 	url = https://github.com/cran/aggTrees
-[submodule "agghoo"]
-	path = agghoo
-	url = https://github.com/cran/agghoo
 [submodule "aggreCAT"]
 	path = aggreCAT
 	url = https://github.com/cran/aggreCAT
@@ -33392,9 +33386,6 @@
 [submodule "dtComb"]
 	path = dtComb
 	url = https://github.com/cran/dtComb
-[submodule "dtGAP"]
-	path = dtGAP
-	url = https://github.com/cran/dtGAP
 [submodule "dtametaTMB"]
 	path = dtametaTMB
 	url = https://github.com/cran/dtametaTMB
