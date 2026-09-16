@@ -10709,6 +10709,9 @@
 [submodule "MFSIS"]
 	path = MFSIS
 	url = https://github.com/cran/MFSIS
+[submodule "MFT"]
+	path = MFT
+	url = https://github.com/cran/MFT
 [submodule "MGBT"]
 	path = MGBT
 	url = https://github.com/cran/MGBT
@@ -17846,6 +17849,9 @@
 [submodule "SCIBER"]
 	path = SCIBER
 	url = https://github.com/cran/SCIBER
+[submodule "SCIntRuler"]
+	path = SCIntRuler
+	url = https://github.com/cran/SCIntRuler
 [submodule "SCIproj"]
 	path = SCIproj
 	url = https://github.com/cran/SCIproj
@@ -45395,6 +45401,9 @@
 [submodule "khaos"]
 	path = khaos
 	url = https://github.com/cran/khaos
+[submodule "khisr"]
+	path = khisr
+	url = https://github.com/cran/khisr
 [submodule "khroma"]
 	path = khroma
 	url = https://github.com/cran/khroma
