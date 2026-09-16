@@ -46457,6 +46457,9 @@
 [submodule "licoread"]
 	path = licoread
 	url = https://github.com/cran/licoread
+[submodule "lidR"]
+	path = lidR
+	url = https://github.com/cran/lidR
 [submodule "lievens"]
 	path = lievens
 	url = https://github.com/cran/lievens
@@ -49346,9 +49349,6 @@
 [submodule "microdatasus"]
 	path = microdatasus
 	url = https://github.com/cran/microdatasus
-[submodule "microdiluteR"]
-	path = microdiluteR
-	url = https://github.com/cran/microdiluteR
 [submodule "microeco"]
 	path = microeco
 	url = https://github.com/cran/microeco
