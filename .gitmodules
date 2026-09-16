@@ -365,6 +365,9 @@
 [submodule "ARIbrain"]
 	path = ARIbrain
 	url = https://github.com/cran/ARIbrain
+[submodule "ARInfoLSTM"]
+	path = ARInfoLSTM
+	url = https://github.com/cran/ARInfoLSTM
 [submodule "ARMALSTM"]
 	path = ARMALSTM
 	url = https://github.com/cran/ARMALSTM
@@ -33164,6 +33167,9 @@
 [submodule "dplR"]
 	path = dplR
 	url = https://github.com/cran/dplR
+[submodule "dplyneage"]
+	path = dplyneage
+	url = https://github.com/cran/dplyneage
 [submodule "dplyr"]
 	path = dplyr
 	url = https://github.com/cran/dplyr
@@ -39770,6 +39776,9 @@
 [submodule "ggmlR"]
 	path = ggmlR
 	url = https://github.com/cran/ggmlR
+[submodule "ggmosaic2"]
+	path = ggmosaic2
+	url = https://github.com/cran/ggmosaic2
 [submodule "ggmr"]
 	path = ggmr
 	url = https://github.com/cran/ggmr
