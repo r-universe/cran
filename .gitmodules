@@ -29276,9 +29276,6 @@
 [submodule "comperes"]
 	path = comperes
 	url = https://github.com/cran/comperes
-[submodule "competitiontoolbox"]
-	path = competitiontoolbox
-	url = https://github.com/cran/competitiontoolbox
 [submodule "comphy"]
 	path = comphy
 	url = https://github.com/cran/comphy
@@ -53993,9 +53990,6 @@
 [submodule "optedr"]
 	path = optedr
 	url = https://github.com/cran/optedr
-[submodule "optiSel"]
-	path = optiSel
-	url = https://github.com/cran/optiSel
 [submodule "optiSolve"]
 	path = optiSolve
 	url = https://github.com/cran/optiSolve
@@ -62513,9 +62507,6 @@
 [submodule "rolocISCCNBS"]
 	path = rolocISCCNBS
 	url = https://github.com/cran/rolocISCCNBS
-[submodule "rolog"]
-	path = rolog
-	url = https://github.com/cran/rolog
 [submodule "rolr"]
 	path = rolr
 	url = https://github.com/cran/rolr
@@ -63110,9 +63101,6 @@
 [submodule "rsvg"]
 	path = rsvg
 	url = https://github.com/cran/rsvg
-[submodule "rswipl"]
-	path = rswipl
-	url = https://github.com/cran/rswipl
 [submodule "rsyncrosim"]
 	path = rsyncrosim
 	url = https://github.com/cran/rsyncrosim
