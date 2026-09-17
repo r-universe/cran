@@ -3854,6 +3854,9 @@
 [submodule "CoreMicrobiomeR"]
 	path = CoreMicrobiomeR
 	url = https://github.com/cran/CoreMicrobiomeR
+[submodule "Coreset"]
+	path = Coreset
+	url = https://github.com/cran/Coreset
 [submodule "CorrBin"]
 	path = CorrBin
 	url = https://github.com/cran/CorrBin
@@ -3974,6 +3977,9 @@
 [submodule "Crosstabs.Loglinear"]
 	path = Crosstabs.Loglinear
 	url = https://github.com/cran/Crosstabs.Loglinear
+[submodule "CrownScorchTLS"]
+	path = CrownScorchTLS
+	url = https://github.com/cran/CrownScorchTLS
 [submodule "CryptRndTest"]
 	path = CryptRndTest
 	url = https://github.com/cran/CryptRndTest
@@ -6350,6 +6356,9 @@
 [submodule "FORD"]
 	path = FORD
 	url = https://github.com/cran/FORD
+[submodule "FORTLS"]
+	path = FORTLS
+	url = https://github.com/cran/FORTLS
 [submodule "FPCA3D"]
 	path = FPCA3D
 	url = https://github.com/cran/FPCA3D
@@ -13037,6 +13046,9 @@
 [submodule "OmopConstructor"]
 	path = OmopConstructor
 	url = https://github.com/cran/OmopConstructor
+[submodule "OmopIndices"]
+	path = OmopIndices
+	url = https://github.com/cran/OmopIndices
 [submodule "OmopOnSpark"]
 	path = OmopOnSpark
 	url = https://github.com/cran/OmopOnSpark
@@ -25361,6 +25373,9 @@
 [submodule "binGroup"]
 	path = binGroup
 	url = https://github.com/cran/binGroup
+[submodule "binGroup2"]
+	path = binGroup2
+	url = https://github.com/cran/binGroup2
 [submodule "binMto"]
 	path = binMto
 	url = https://github.com/cran/binMto
@@ -28790,6 +28805,9 @@
 [submodule "coFAST"]
 	path = coFAST
 	url = https://github.com/cran/coFAST
+[submodule "coOpenData"]
+	path = coOpenData
+	url = https://github.com/cran/coOpenData
 [submodule "coRanking"]
 	path = coRanking
 	url = https://github.com/cran/coRanking
@@ -31892,6 +31910,9 @@
 [submodule "deform"]
 	path = deform
 	url = https://github.com/cran/deform
+[submodule "deformula"]
+	path = deformula
+	url = https://github.com/cran/deformula
 [submodule "degday"]
 	path = degday
 	url = https://github.com/cran/degday
@@ -36851,6 +36872,9 @@
 [submodule "filters"]
 	path = filters
 	url = https://github.com/cran/filters
+[submodule "filters.trade"]
+	path = filters.trade
+	url = https://github.com/cran/filters.trade
 [submodule "filtro"]
 	path = filtro
 	url = https://github.com/cran/filtro
@@ -39491,6 +39515,9 @@
 [submodule "ggbeeswarm"]
 	path = ggbeeswarm
 	url = https://github.com/cran/ggbeeswarm
+[submodule "ggbipart"]
+	path = ggbipart
+	url = https://github.com/cran/ggbipart
 [submodule "ggbiplot"]
 	path = ggbiplot
 	url = https://github.com/cran/ggbiplot
@@ -43106,6 +43133,9 @@
 [submodule "iNZightTools"]
 	path = iNZightTools
 	url = https://github.com/cran/iNZightTools
+[submodule "iPEB"]
+	path = iPEB
+	url = https://github.com/cran/iPEB
 [submodule "iPRISM"]
 	path = iPRISM
 	url = https://github.com/cran/iPRISM
@@ -47939,6 +47969,9 @@
 [submodule "mapnhanespa"]
 	path = mapnhanespa
 	url = https://github.com/cran/mapnhanespa
+[submodule "maposm"]
+	path = maposm
+	url = https://github.com/cran/maposm
 [submodule "mappeR"]
 	path = mappeR
 	url = https://github.com/cran/mappeR
@@ -59348,6 +59381,9 @@
 [submodule "rGV"]
 	path = rGV
 	url = https://github.com/cran/rGV
+[submodule "rGrSPTT"]
+	path = rGrSPTT
+	url = https://github.com/cran/rGrSPTT
 [submodule "rGroovy"]
 	path = rGroovy
 	url = https://github.com/cran/rGroovy
@@ -60302,6 +60338,9 @@
 [submodule "rct3"]
 	path = rct3
 	url = https://github.com/cran/rct3
+[submodule "rcxl"]
+	path = rcxl
+	url = https://github.com/cran/rcxl
 [submodule "rd2d"]
 	path = rd2d
 	url = https://github.com/cran/rd2d
@@ -61607,6 +61646,9 @@
 [submodule "rgrass"]
 	path = rgrass
 	url = https://github.com/cran/rgrass
+[submodule "rgrpc"]
+	path = rgrpc
+	url = https://github.com/cran/rgrpc
 [submodule "rgsp"]
 	path = rgsp
 	url = https://github.com/cran/rgsp
@@ -67448,6 +67490,9 @@
 [submodule "spatstat.Knet"]
 	path = spatstat.Knet
 	url = https://github.com/cran/spatstat.Knet
+[submodule "spatstat.convert"]
+	path = spatstat.convert
+	url = https://github.com/cran/spatstat.convert
 [submodule "spatstat.data"]
 	path = spatstat.data
 	url = https://github.com/cran/spatstat.data
