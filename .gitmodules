@@ -14708,6 +14708,9 @@
 [submodule "ProxReg"]
 	path = ProxReg
 	url = https://github.com/cran/ProxReg
+[submodule "Proximum"]
+	path = Proximum
+	url = https://github.com/cran/Proximum
 [submodule "Przewodnik"]
 	path = Przewodnik
 	url = https://github.com/cran/Przewodnik
@@ -22133,6 +22136,9 @@
 [submodule "actilifecounts"]
 	path = actilifecounts
 	url = https://github.com/cran/actilifecounts
+[submodule "actimetrics"]
+	path = actimetrics
+	url = https://github.com/cran/actimetrics
 [submodule "actinet"]
 	path = actinet
 	url = https://github.com/cran/actinet
@@ -23552,6 +23558,9 @@
 [submodule "arima2"]
 	path = arima2
 	url = https://github.com/cran/arima2
+[submodule "arimasel"]
+	path = arimasel
+	url = https://github.com/cran/arimasel
 [submodule "arkdb"]
 	path = arkdb
 	url = https://github.com/cran/arkdb
@@ -25997,6 +26006,9 @@
 [submodule "bonsaiforest"]
 	path = bonsaiforest
 	url = https://github.com/cran/bonsaiforest
+[submodule "bonsaisitter"]
+	path = bonsaisitter
+	url = https://github.com/cran/bonsaisitter
 [submodule "booami"]
 	path = booami
 	url = https://github.com/cran/booami
@@ -27068,6 +27080,9 @@
 [submodule "carts"]
 	path = carts
 	url = https://github.com/cran/carts
+[submodule "carwatch"]
+	path = carwatch
+	url = https://github.com/cran/carwatch
 [submodule "cascadeSelect"]
 	path = cascadeSelect
 	url = https://github.com/cran/cascadeSelect
@@ -27749,6 +27764,9 @@
 [submodule "charlesschwabapi"]
 	path = charlesschwabapi
 	url = https://github.com/cran/charlesschwabapi
+[submodule "charport"]
+	path = charport
+	url = https://github.com/cran/charport
 [submodule "chartql"]
 	path = chartql
 	url = https://github.com/cran/chartql
@@ -29276,6 +29294,9 @@
 [submodule "comperes"]
 	path = comperes
 	url = https://github.com/cran/comperes
+[submodule "competitiontoolbox"]
+	path = competitiontoolbox
+	url = https://github.com/cran/competitiontoolbox
 [submodule "comphy"]
 	path = comphy
 	url = https://github.com/cran/comphy
@@ -29942,6 +29963,9 @@
 [submodule "corset"]
 	path = corset
 	url = https://github.com/cran/corset
+[submodule "corsym"]
+	path = corsym
+	url = https://github.com/cran/corsym
 [submodule "corteza"]
 	path = corteza
 	url = https://github.com/cran/corteza
@@ -31283,6 +31307,9 @@
 [submodule "datacutr"]
 	path = datacutr
 	url = https://github.com/cran/datacutr
+[submodule "datadict"]
+	path = datadict
+	url = https://github.com/cran/datadict
 [submodule "datadictionary"]
 	path = datadictionary
 	url = https://github.com/cran/datadictionary
@@ -45965,6 +45992,9 @@
 [submodule "latentFactoR"]
 	path = latentFactoR
 	url = https://github.com/cran/latentFactoR
+[submodule "latentState"]
+	path = latentState
+	url = https://github.com/cran/latentState
 [submodule "latentcor"]
 	path = latentcor
 	url = https://github.com/cran/latentcor
@@ -49412,6 +49442,9 @@
 [submodule "midas2"]
 	path = midas2
 	url = https://github.com/cran/midas2
+[submodule "midasINLA"]
+	path = midasINLA
+	url = https://github.com/cran/midasINLA
 [submodule "midasml"]
 	path = midasml
 	url = https://github.com/cran/midasml
@@ -50402,6 +50435,9 @@
 [submodule "modelscompete4"]
 	path = modelscompete4
 	url = https://github.com/cran/modelscompete4
+[submodule "modelskill"]
+	path = modelskill
+	url = https://github.com/cran/modelskill
 [submodule "modelsummary"]
 	path = modelsummary
 	url = https://github.com/cran/modelsummary
@@ -53027,6 +53063,9 @@
 [submodule "nowcast"]
 	path = nowcast
 	url = https://github.com/cran/nowcast
+[submodule "nowcaster"]
+	path = nowcaster
+	url = https://github.com/cran/nowcaster
 [submodule "nowcastr"]
 	path = nowcastr
 	url = https://github.com/cran/nowcastr
@@ -53990,6 +54029,9 @@
 [submodule "optedr"]
 	path = optedr
 	url = https://github.com/cran/optedr
+[submodule "optiSel"]
+	path = optiSel
+	url = https://github.com/cran/optiSel
 [submodule "optiSolve"]
 	path = optiSolve
 	url = https://github.com/cran/optiSolve
@@ -56741,6 +56783,9 @@
 [submodule "pmsesampling"]
 	path = pmsesampling
 	url = https://github.com/cran/pmsesampling
+[submodule "pmsims"]
+	path = pmsims
+	url = https://github.com/cran/pmsims
 [submodule "pmultinom"]
 	path = pmultinom
 	url = https://github.com/cran/pmultinom
@@ -59780,6 +59825,9 @@
 [submodule "rankhazard"]
 	path = rankhazard
 	url = https://github.com/cran/rankhazard
+[submodule "rankimp"]
+	path = rankimp
+	url = https://github.com/cran/rankimp
 [submodule "rankinPlot"]
 	path = rankinPlot
 	url = https://github.com/cran/rankinPlot
@@ -62108,6 +62156,9 @@
 [submodule "rmoriebricklayer"]
 	path = rmoriebricklayer
 	url = https://github.com/cran/rmoriebricklayer
+[submodule "rmoriedata"]
+	path = rmoriedata
+	url = https://github.com/cran/rmoriedata
 [submodule "rmp"]
 	path = rmp
 	url = https://github.com/cran/rmp
@@ -62507,6 +62558,9 @@
 [submodule "rolocISCCNBS"]
 	path = rolocISCCNBS
 	url = https://github.com/cran/rolocISCCNBS
+[submodule "rolog"]
+	path = rolog
+	url = https://github.com/cran/rolog
 [submodule "rolr"]
 	path = rolr
 	url = https://github.com/cran/rolr
@@ -63101,6 +63155,9 @@
 [submodule "rsvg"]
 	path = rsvg
 	url = https://github.com/cran/rsvg
+[submodule "rswipl"]
+	path = rswipl
+	url = https://github.com/cran/rswipl
 [submodule "rsyncrosim"]
 	path = rsyncrosim
 	url = https://github.com/cran/rsyncrosim
@@ -66404,6 +66461,9 @@
 [submodule "sleekts"]
 	path = sleekts
 	url = https://github.com/cran/sleekts
+[submodule "sleeper"]
+	path = sleeper
+	url = https://github.com/cran/sleeper
 [submodule "sleepr"]
 	path = sleepr
 	url = https://github.com/cran/sleepr
