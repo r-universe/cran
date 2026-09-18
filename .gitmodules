@@ -17822,6 +17822,9 @@
 [submodule "SC2API"]
 	path = SC2API
 	url = https://github.com/cran/SC2API
+[submodule "SCAtools"]
+	path = SCAtools
+	url = https://github.com/cran/SCAtools
 [submodule "SCBiclust"]
 	path = SCBiclust
 	url = https://github.com/cran/SCBiclust
@@ -20786,6 +20789,9 @@
 [submodule "TrialEmulation"]
 	path = TrialEmulation
 	url = https://github.com/cran/TrialEmulation
+[submodule "TrialFlowR"]
+	path = TrialFlowR
+	url = https://github.com/cran/TrialFlowR
 [submodule "TrialSimulator"]
 	path = TrialSimulator
 	url = https://github.com/cran/TrialSimulator
@@ -23894,6 +23900,9 @@
 [submodule "attrib"]
 	path = attrib
 	url = https://github.com/cran/attrib
+[submodule "attrition"]
+	path = attrition
+	url = https://github.com/cran/attrition
 [submodule "auRoc"]
 	path = auRoc
 	url = https://github.com/cran/auRoc
@@ -25502,6 +25511,9 @@
 [submodule "bioclim"]
 	path = bioclim
 	url = https://github.com/cran/bioclim
+[submodule "biocohort"]
+	path = biocohort
+	url = https://github.com/cran/biocohort
 [submodule "biocompute"]
 	path = biocompute
 	url = https://github.com/cran/biocompute
@@ -36782,6 +36794,9 @@
 [submodule "fiberLD"]
 	path = fiberLD
 	url = https://github.com/cran/fiberLD
+[submodule "fibermargin"]
+	path = fibermargin
+	url = https://github.com/cran/fibermargin
 [submodule "fibos"]
 	path = fibos
 	url = https://github.com/cran/fibos
@@ -38357,6 +38372,9 @@
 [submodule "gRain"]
 	path = gRain
 	url = https://github.com/cran/gRain
+[submodule "gRaphiaExtra"]
+	path = gRaphiaExtra
+	url = https://github.com/cran/gRaphiaExtra
 [submodule "gRaven"]
 	path = gRaven
 	url = https://github.com/cran/gRaven
@@ -39977,6 +39995,9 @@
 [submodule "ggrain"]
 	path = ggrain
 	url = https://github.com/cran/ggrain
+[submodule "ggrank"]
+	path = ggrank
+	url = https://github.com/cran/ggrank
 [submodule "ggraph"]
 	path = ggraph
 	url = https://github.com/cran/ggraph
@@ -41282,6 +41303,9 @@
 [submodule "gridGraphviz"]
 	path = gridGraphviz
 	url = https://github.com/cran/gridGraphviz
+[submodule "gridHR"]
+	path = gridHR
+	url = https://github.com/cran/gridHR
 [submodule "gridOT"]
 	path = gridOT
 	url = https://github.com/cran/gridOT
@@ -50837,6 +50861,9 @@
 [submodule "mpathsenser"]
 	path = mpathsenser
 	url = https://github.com/cran/mpathsenser
+[submodule "mpem"]
+	path = mpem
+	url = https://github.com/cran/mpem
 [submodule "mpindex"]
 	path = mpindex
 	url = https://github.com/cran/mpindex
@@ -63989,6 +64016,9 @@
 [submodule "sasLM"]
 	path = sasLM
 	url = https://github.com/cran/sasLM
+[submodule "sasctl"]
+	path = sasctl
+	url = https://github.com/cran/sasctl
 [submodule "sasif"]
 	path = sasif
 	url = https://github.com/cran/sasif
@@ -65909,6 +65939,9 @@
 [submodule "sidier"]
 	path = sidier
 	url = https://github.com/cran/sidier
+[submodule "sidra"]
+	path = sidra
+	url = https://github.com/cran/sidra
 [submodule "sidrar"]
 	path = sidrar
 	url = https://github.com/cran/sidrar
@@ -67241,6 +67274,9 @@
 [submodule "spanishoddata"]
 	path = spanishoddata
 	url = https://github.com/cran/spanishoddata
+[submodule "spanner"]
+	path = spanner
+	url = https://github.com/cran/spanner
 [submodule "spant"]
 	path = spant
 	url = https://github.com/cran/spant
@@ -72683,6 +72719,9 @@
 [submodule "typed"]
 	path = typed
 	url = https://github.com/cran/typed
+[submodule "typedjson"]
+	path = typedjson
+	url = https://github.com/cran/typedjson
 [submodule "typehint"]
 	path = typehint
 	url = https://github.com/cran/typehint
@@ -73919,6 +73958,9 @@
 [submodule "vosonSML"]
 	path = vosonSML
 	url = https://github.com/cran/vosonSML
+[submodule "vostokR"]
+	path = vostokR
+	url = https://github.com/cran/vostokR
 [submodule "vote"]
 	path = vote
 	url = https://github.com/cran/vote
