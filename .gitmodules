@@ -44639,6 +44639,9 @@
 [submodule "isotonic.pen"]
 	path = isotonic.pen
 	url = https://github.com/cran/isotonic.pen
+[submodule "isotracer"]
+	path = isotracer
+	url = https://github.com/cran/isotracer
 [submodule "isotree"]
 	path = isotree
 	url = https://github.com/cran/isotree
