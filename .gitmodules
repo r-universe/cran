@@ -3626,9 +3626,6 @@
 [submodule "CompRiskRel"]
 	path = CompRiskRel
 	url = https://github.com/cran/CompRiskRel
-[submodule "CompareCausalNetworks"]
-	path = CompareCausalNetworks
-	url = https://github.com/cran/CompareCausalNetworks
 [submodule "CompareMultipleModels"]
 	path = CompareMultipleModels
 	url = https://github.com/cran/CompareMultipleModels
@@ -17981,9 +17978,6 @@
 [submodule "SEL"]
 	path = SEL
 	url = https://github.com/cran/SEL
-[submodule "SELF"]
-	path = SELF
-	url = https://github.com/cran/SELF
 [submodule "SEMID"]
 	path = SEMID
 	url = https://github.com/cran/SEMID
