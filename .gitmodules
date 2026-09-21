@@ -395,6 +395,9 @@
 [submodule "ASML"]
 	path = ASML
 	url = https://github.com/cran/ASML
+[submodule "ASMap"]
+	path = ASMap
+	url = https://github.com/cran/ASMap
 [submodule "ASMbook"]
 	path = ASMbook
 	url = https://github.com/cran/ASMbook
