@@ -20402,6 +20402,9 @@
 [submodule "TauStar"]
 	path = TauStar
 	url = https://github.com/cran/TauStar
+[submodule "TaxResolveR"]
+	path = TaxResolveR
+	url = https://github.com/cran/TaxResolveR
 [submodule "TaxaNorm"]
 	path = TaxaNorm
 	url = https://github.com/cran/TaxaNorm
@@ -48347,6 +48350,9 @@
 [submodule "matsindf"]
 	path = matsindf
 	url = https://github.com/cran/matsindf
+[submodule "matsketch"]
+	path = matsketch
+	url = https://github.com/cran/matsketch
 [submodule "matuR"]
 	path = matuR
 	url = https://github.com/cran/matuR
@@ -48716,6 +48722,9 @@
 [submodule "meboot"]
 	path = meboot
 	url = https://github.com/cran/meboot
+[submodule "mechgraph"]
+	path = mechgraph
+	url = https://github.com/cran/mechgraph
 [submodule "meconetcomp"]
 	path = meconetcomp
 	url = https://github.com/cran/meconetcomp
@@ -55832,6 +55841,9 @@
 [submodule "perumammals"]
 	path = perumammals
 	url = https://github.com/cran/perumammals
+[submodule "peruocc"]
+	path = peruocc
+	url = https://github.com/cran/peruocc
 [submodule "peruse"]
 	path = peruse
 	url = https://github.com/cran/peruse
@@ -71237,6 +71249,9 @@
 [submodule "tiler"]
 	path = tiler
 	url = https://github.com/cran/tiler
+[submodule "tiltdens"]
+	path = tiltdens
+	url = https://github.com/cran/tiltdens
 [submodule "tilting"]
 	path = tilting
 	url = https://github.com/cran/tilting
@@ -71861,6 +71876,9 @@
 [submodule "trade"]
 	path = trade
 	url = https://github.com/cran/trade
+[submodule "tradeIndices"]
+	path = tradeIndices
+	url = https://github.com/cran/tradeIndices
 [submodule "tradeoffaucdim"]
 	path = tradeoffaucdim
 	url = https://github.com/cran/tradeoffaucdim
