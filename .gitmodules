@@ -158,6 +158,9 @@
 [submodule "AHTauDesign"]
 	path = AHTauDesign
 	url = https://github.com/cran/AHTauDesign
+[submodule "AI4OfficialStats"]
+	path = AI4OfficialStats
+	url = https://github.com/cran/AI4OfficialStats
 [submodule "AIBias"]
 	path = AIBias
 	url = https://github.com/cran/AIBias
@@ -2018,6 +2021,9 @@
 [submodule "BioM2"]
 	path = BioM2
 	url = https://github.com/cran/BioM2
+[submodule "BioMixModel"]
+	path = BioMixModel
+	url = https://github.com/cran/BioMixModel
 [submodule "BioMoR"]
 	path = BioMoR
 	url = https://github.com/cran/BioMoR
@@ -2660,6 +2666,9 @@
 [submodule "CLAST"]
 	path = CLAST
 	url = https://github.com/cran/CLAST
+[submodule "CLCM"]
+	path = CLCM
+	url = https://github.com/cran/CLCM
 [submodule "CLDedgelister"]
 	path = CLDedgelister
 	url = https://github.com/cran/CLDedgelister
@@ -3041,6 +3050,9 @@
 [submodule "CanonicalFamilyExtra"]
 	path = CanonicalFamilyExtra
 	url = https://github.com/cran/CanonicalFamilyExtra
+[submodule "Canton"]
+	path = Canton
+	url = https://github.com/cran/Canton
 [submodule "Capsule"]
 	path = Capsule
 	url = https://github.com/cran/Capsule
@@ -3680,6 +3692,9 @@
 [submodule "Compositionalasmr"]
 	path = Compositionalasmr
 	url = https://github.com/cran/Compositionalasmr
+[submodule "Compositionalcln"]
+	path = Compositionalcln
+	url = https://github.com/cran/Compositionalcln
 [submodule "Compositionalscsmr"]
 	path = Compositionalscsmr
 	url = https://github.com/cran/Compositionalscsmr
@@ -5705,6 +5720,9 @@
 [submodule "EconCausal"]
 	path = EconCausal
 	url = https://github.com/cran/EconCausal
+[submodule "EconEvalR"]
+	path = EconEvalR
+	url = https://github.com/cran/EconEvalR
 [submodule "EconGeo"]
 	path = EconGeo
 	url = https://github.com/cran/EconGeo
@@ -12860,6 +12878,9 @@
 [submodule "OPC"]
 	path = OPC
 	url = https://github.com/cran/OPC
+[submodule "OPCC"]
+	path = OPCC
+	url = https://github.com/cran/OPCC
 [submodule "OPCreg"]
 	path = OPCreg
 	url = https://github.com/cran/OPCreg
@@ -44336,6 +44357,9 @@
 [submodule "ioanalysis"]
 	path = ioanalysis
 	url = https://github.com/cran/ioanalysis
+[submodule "iod25"]
+	path = iod25
+	url = https://github.com/cran/iod25
 [submodule "ioncopy"]
 	path = ioncopy
 	url = https://github.com/cran/ioncopy
@@ -46478,6 +46502,9 @@
 [submodule "lexiconPT"]
 	path = lexiconPT
 	url = https://github.com/cran/lexiconPT
+[submodule "lexsync"]
+	path = lexsync
+	url = https://github.com/cran/lexsync
 [submodule "lfactors"]
 	path = lfactors
 	url = https://github.com/cran/lfactors
@@ -54989,6 +55016,9 @@
 [submodule "pangaear"]
 	path = pangaear
 	url = https://github.com/cran/pangaear
+[submodule "panglm"]
+	path = panglm
+	url = https://github.com/cran/panglm
 [submodule "pangoling"]
 	path = pangoling
 	url = https://github.com/cran/pangoling
@@ -68075,6 +68105,9 @@
 [submodule "sptotal"]
 	path = sptotal
 	url = https://github.com/cran/sptotal
+[submodule "sptrends"]
+	path = sptrends
+	url = https://github.com/cran/sptrends
 [submodule "spuRs"]
 	path = spuRs
 	url = https://github.com/cran/spuRs
@@ -69515,6 +69548,9 @@
 [submodule "survout"]
 	path = survout
 	url = https://github.com/cran/survout
+[submodule "survrec"]
+	path = survrec
+	url = https://github.com/cran/survrec
 [submodule "survregVB"]
 	path = survregVB
 	url = https://github.com/cran/survregVB
@@ -75551,6 +75587,9 @@
 [submodule "zoomr"]
 	path = zoomr
 	url = https://github.com/cran/zoomr
+[submodule "zot"]
+	path = zot
+	url = https://github.com/cran/zot
 [submodule "zoteR"]
 	path = zoteR
 	url = https://github.com/cran/zoteR
