@@ -30614,6 +30614,9 @@
 [submodule "crownmetrics"]
 	path = crownmetrics
 	url = https://github.com/cran/crownmetrics
+[submodule "crownsegmentr"]
+	path = crownsegmentr
+	url = https://github.com/cran/crownsegmentr
 [submodule "crqa"]
 	path = crqa
 	url = https://github.com/cran/crqa
