@@ -3104,6 +3104,9 @@
 [submodule "CausalImpact"]
 	path = CausalImpact
 	url = https://github.com/cran/CausalImpact
+[submodule "CausalLoopAnalytics"]
+	path = CausalLoopAnalytics
+	url = https://github.com/cran/CausalLoopAnalytics
 [submodule "CausalMBSTS"]
 	path = CausalMBSTS
 	url = https://github.com/cran/CausalMBSTS
@@ -4397,6 +4400,9 @@
 [submodule "DLPCA"]
 	path = DLPCA
 	url = https://github.com/cran/DLPCA
+[submodule "DMAR"]
+	path = DMAR
+	url = https://github.com/cran/DMAR
 [submodule "DMCfun"]
 	path = DMCfun
 	url = https://github.com/cran/DMCfun
@@ -6965,6 +6971,9 @@
 [submodule "GARCH.X"]
 	path = GARCH.X
 	url = https://github.com/cran/GARCH.X
+[submodule "GARCHInfoLSTM"]
+	path = GARCHInfoLSTM
+	url = https://github.com/cran/GARCHInfoLSTM
 [submodule "GARCHIto"]
 	path = GARCHIto
 	url = https://github.com/cran/GARCHIto
@@ -21242,6 +21251,9 @@
 [submodule "VaRES"]
 	path = VaRES
 	url = https://github.com/cran/VaRES
+[submodule "ValCurvaR"]
+	path = ValCurvaR
+	url = https://github.com/cran/ValCurvaR
 [submodule "ValidationExplorer"]
 	path = ValidationExplorer
 	url = https://github.com/cran/ValidationExplorer
@@ -35735,6 +35747,9 @@
 [submodule "export"]
 	path = export
 	url = https://github.com/cran/export
+[submodule "exposureEM"]
+	path = exposureEM
+	url = https://github.com/cran/exposureEM
 [submodule "expowo"]
 	path = expowo
 	url = https://github.com/cran/expowo
@@ -41636,6 +41651,9 @@
 [submodule "gtrendshealth"]
 	path = gtrendshealth
 	url = https://github.com/cran/gtrendshealth
+[submodule "gtstats"]
+	path = gtstats
+	url = https://github.com/cran/gtstats
 [submodule "gtsummary"]
 	path = gtsummary
 	url = https://github.com/cran/gtsummary
@@ -46355,6 +46373,9 @@
 [submodule "lefko3"]
 	path = lefko3
 	url = https://github.com/cran/lefko3
+[submodule "legendplot"]
+	path = legendplot
+	url = https://github.com/cran/legendplot
 [submodule "legendry"]
 	path = legendry
 	url = https://github.com/cran/legendry
@@ -52673,6 +52694,9 @@
 [submodule "nlWaldTest"]
 	path = nlWaldTest
 	url = https://github.com/cran/nlWaldTest
+[submodule "nlcs"]
+	path = nlcs
+	url = https://github.com/cran/nlcs
 [submodule "nlcv"]
 	path = nlcv
 	url = https://github.com/cran/nlcv
@@ -59648,6 +59672,9 @@
 [submodule "radarBoxplot"]
 	path = radarBoxplot
 	url = https://github.com/cran/radarBoxplot
+[submodule "raddr"]
+	path = raddr
+	url = https://github.com/cran/raddr
 [submodule "radiant"]
 	path = radiant
 	url = https://github.com/cran/radiant
@@ -61949,6 +61976,9 @@
 [submodule "riskyr"]
 	path = riskyr
 	url = https://github.com/cran/riskyr
+[submodule "risq"]
+	path = risq
+	url = https://github.com/cran/risq
 [submodule "ritalic"]
 	path = ritalic
 	url = https://github.com/cran/ritalic
@@ -67265,6 +67295,9 @@
 [submodule "spacetime"]
 	path = spacetime
 	url = https://github.com/cran/spacetime
+[submodule "spaci"]
+	path = spaci
+	url = https://github.com/cran/spaci
 [submodule "spacyr"]
 	path = spacyr
 	url = https://github.com/cran/spacyr
@@ -69152,6 +69185,9 @@
 [submodule "sumer"]
 	path = sumer
 	url = https://github.com/cran/sumer
+[submodule "summarisebig"]
+	path = summarisebig
+	url = https://github.com/cran/summarisebig
 [submodule "summariser"]
 	path = summariser
 	url = https://github.com/cran/summariser
@@ -70178,6 +70214,9 @@
 [submodule "tbea"]
 	path = tbea
 	url = https://github.com/cran/tbea
+[submodule "tbl.now"]
+	path = tbl.now
+	url = https://github.com/cran/tbl.now
 [submodule "tbl2xts"]
 	path = tbl2xts
 	url = https://github.com/cran/tbl2xts
