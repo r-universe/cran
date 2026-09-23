@@ -43187,12 +43187,6 @@
 [submodule "iNZightMR"]
 	path = iNZightMR
 	url = https://github.com/cran/iNZightMR
-[submodule "iNZightPlots"]
-	path = iNZightPlots
-	url = https://github.com/cran/iNZightPlots
-[submodule "iNZightRegression"]
-	path = iNZightRegression
-	url = https://github.com/cran/iNZightRegression
 [submodule "iNZightTS"]
 	path = iNZightTS
 	url = https://github.com/cran/iNZightTS
