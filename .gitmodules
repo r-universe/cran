@@ -29324,9 +29324,6 @@
 [submodule "commonsMath"]
 	path = commonsMath
 	url = https://github.com/cran/commonsMath
-[submodule "comorbidPGS"]
-	path = comorbidPGS
-	url = https://github.com/cran/comorbidPGS
 [submodule "comorbidity"]
 	path = comorbidity
 	url = https://github.com/cran/comorbidity
@@ -46622,6 +46619,9 @@
 [submodule "lidR"]
 	path = lidR
 	url = https://github.com/cran/lidR
+[submodule "lidaRtRee"]
+	path = lidaRtRee
+	url = https://github.com/cran/lidaRtRee
 [submodule "lievens"]
 	path = lievens
 	url = https://github.com/cran/lievens
