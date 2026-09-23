@@ -1556,6 +1556,9 @@
 [submodule "BaseTempSeed"]
 	path = BaseTempSeed
 	url = https://github.com/cran/BaseTempSeed
+[submodule "BasicStatsPlots"]
+	path = BasicStatsPlots
+	url = https://github.com/cran/BasicStatsPlots
 [submodule "BasketTrial"]
 	path = BasketTrial
 	url = https://github.com/cran/BasketTrial
@@ -4073,6 +4076,9 @@
 [submodule "DACF"]
 	path = DACF
 	url = https://github.com/cran/DACF
+[submodule "DACT"]
+	path = DACT
+	url = https://github.com/cran/DACT
 [submodule "DAGassist"]
 	path = DAGassist
 	url = https://github.com/cran/DAGassist
@@ -6440,6 +6446,9 @@
 [submodule "FSDAM"]
 	path = FSDAM
 	url = https://github.com/cran/FSDAM
+[submodule "FSHybridPLS"]
+	path = FSHybridPLS
+	url = https://github.com/cran/FSHybridPLS
 [submodule "FSK2R"]
 	path = FSK2R
 	url = https://github.com/cran/FSK2R
@@ -8246,6 +8255,9 @@
 [submodule "HRM"]
 	path = HRM
 	url = https://github.com/cran/HRM
+[submodule "HRRI"]
+	path = HRRI
+	url = https://github.com/cran/HRRI
 [submodule "HRTnomaly"]
 	path = HRTnomaly
 	url = https://github.com/cran/HRTnomaly
@@ -21536,6 +21548,9 @@
 [submodule "WSPsignal"]
 	path = WSPsignal
 	url = https://github.com/cran/WSPsignal
+[submodule "WSwavelet"]
+	path = WSwavelet
+	url = https://github.com/cran/WSwavelet
 [submodule "WVPlots"]
 	path = WVPlots
 	url = https://github.com/cran/WVPlots
@@ -58634,6 +58649,9 @@
 [submodule "qape"]
 	path = qape
 	url = https://github.com/cran/qape
+[submodule "qapproach"]
+	path = qapproach
+	url = https://github.com/cran/qapproach
 [submodule "qarPI"]
 	path = qarPI
 	url = https://github.com/cran/qarPI
@@ -64967,6 +64985,9 @@
 [submodule "semds"]
 	path = semds
 	url = https://github.com/cran/semds
+[submodule "semeqmodels"]
+	path = semeqmodels
+	url = https://github.com/cran/semeqmodels
 [submodule "semfindr"]
 	path = semfindr
 	url = https://github.com/cran/semfindr
@@ -65873,6 +65894,9 @@
 [submodule "shinyr"]
 	path = shinyr
 	url = https://github.com/cran/shinyr
+[submodule "shinyreact"]
+	path = shinyreact
+	url = https://github.com/cran/shinyreact
 [submodule "shinyrecap"]
 	path = shinyrecap
 	url = https://github.com/cran/shinyrecap
@@ -73862,6 +73886,9 @@
 [submodule "virustotal"]
 	path = virustotal
 	url = https://github.com/cran/virustotal
+[submodule "visATC"]
+	path = visATC
+	url = https://github.com/cran/visATC
 [submodule "visNetwork"]
 	path = visNetwork
 	url = https://github.com/cran/visNetwork
