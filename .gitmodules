@@ -2393,6 +2393,9 @@
 [submodule "CATTexact"]
 	path = CATTexact
 	url = https://github.com/cran/CATTexact
+[submodule "CAbiplot"]
+	path = CAbiplot
+	url = https://github.com/cran/CAbiplot
 [submodule "CAinterprTools"]
 	path = CAinterprTools
 	url = https://github.com/cran/CAinterprTools
@@ -6293,6 +6296,9 @@
 [submodule "FI"]
 	path = FI
 	url = https://github.com/cran/FI
+[submodule "FIAstemmap"]
+	path = FIAstemmap
+	url = https://github.com/cran/FIAstemmap
 [submodule "FIESTA"]
 	path = FIESTA
 	url = https://github.com/cran/FIESTA
@@ -15320,6 +15326,9 @@
 [submodule "RCT2"]
 	path = RCT2
 	url = https://github.com/cran/RCT2
+[submodule "RCTCovAdj"]
+	path = RCTCovAdj
+	url = https://github.com/cran/RCTCovAdj
 [submodule "RCTRecruit"]
 	path = RCTRecruit
 	url = https://github.com/cran/RCTRecruit
@@ -17480,6 +17489,9 @@
 [submodule "RobustRankAggreg"]
 	path = RobustRankAggreg
 	url = https://github.com/cran/RobustRankAggreg
+[submodule "RobustVis"]
+	path = RobustVis
+	url = https://github.com/cran/RobustVis
 [submodule "Robyn"]
 	path = Robyn
 	url = https://github.com/cran/Robyn
@@ -20597,9 +20609,6 @@
 [submodule "ThinkingGrid"]
 	path = ThinkingGrid
 	url = https://github.com/cran/ThinkingGrid
-[submodule "ThomasJeffersonUniv"]
-	path = ThomasJeffersonUniv
-	url = https://github.com/cran/ThomasJeffersonUniv
 [submodule "ThreeGroups"]
 	path = ThreeGroups
 	url = https://github.com/cran/ThreeGroups
@@ -21911,6 +21920,9 @@
 [submodule "ZooID"]
 	path = ZooID
 	url = https://github.com/cran/ZooID
+[submodule "ZooRisk"]
+	path = ZooRisk
+	url = https://github.com/cran/ZooRisk
 [submodule "Zseq"]
 	path = Zseq
 	url = https://github.com/cran/Zseq
@@ -25529,6 +25541,9 @@
 [submodule "bioC.logs"]
 	path = bioC.logs
 	url = https://github.com/cran/bioC.logs
+[submodule "bioIOT"]
+	path = bioIOT
+	url = https://github.com/cran/bioIOT
 [submodule "bioLeak"]
 	path = bioLeak
 	url = https://github.com/cran/bioLeak
@@ -25934,6 +25949,9 @@
 [submodule "blueterra"]
 	path = blueterra
 	url = https://github.com/cran/blueterra
+[submodule "blueycolors"]
+	path = blueycolors
+	url = https://github.com/cran/blueycolors
 [submodule "blvim"]
 	path = blvim
 	url = https://github.com/cran/blvim
@@ -37772,6 +37790,9 @@
 [submodule "foundry"]
 	path = foundry
 	url = https://github.com/cran/foundry
+[submodule "foundryR"]
+	path = foundryR
+	url = https://github.com/cran/foundryR
 [submodule "fourierin"]
 	path = fourierin
 	url = https://github.com/cran/fourierin
@@ -38258,6 +38279,9 @@
 [submodule "funreg"]
 	path = funreg
 	url = https://github.com/cran/funreg
+[submodule "funresMech"]
+	path = funresMech
+	url = https://github.com/cran/funresMech
 [submodule "funspace"]
 	path = funspace
 	url = https://github.com/cran/funspace
@@ -38804,6 +38828,9 @@
 [submodule "gdalraster"]
 	path = gdalraster
 	url = https://github.com/cran/gdalraster
+[submodule "gdam"]
+	path = gdam
+	url = https://github.com/cran/gdam
 [submodule "gdata"]
 	path = gdata
 	url = https://github.com/cran/gdata
@@ -52808,6 +52835,9 @@
 [submodule "nlmixr2save"]
 	path = nlmixr2save
 	url = https://github.com/cran/nlmixr2save
+[submodule "nlmixr2scm"]
+	path = nlmixr2scm
+	url = https://github.com/cran/nlmixr2scm
 [submodule "nlmixr2targets"]
 	path = nlmixr2targets
 	url = https://github.com/cran/nlmixr2targets
@@ -54764,6 +54794,9 @@
 [submodule "paar"]
 	path = paar
 	url = https://github.com/cran/paar
+[submodule "pacha"]
+	path = pacha
+	url = https://github.com/cran/pacha
 [submodule "pacheck"]
 	path = pacheck
 	url = https://github.com/cran/pacheck
@@ -56630,6 +56663,9 @@
 [submodule "plasma"]
 	path = plasma
 	url = https://github.com/cran/plasma
+[submodule "plasmidplot"]
+	path = plasmidplot
+	url = https://github.com/cran/plasmidplot
 [submodule "plasso"]
 	path = plasso
 	url = https://github.com/cran/plasso
@@ -58328,6 +58364,9 @@
 [submodule "psvmSDR"]
 	path = psvmSDR
 	url = https://github.com/cran/psvmSDR
+[submodule "psvr"]
+	path = psvr
+	url = https://github.com/cran/psvr
 [submodule "psy"]
 	path = psy
 	url = https://github.com/cran/psy
@@ -61136,6 +61175,9 @@
 [submodule "regspec"]
 	path = regspec
 	url = https://github.com/cran/regspec
+[submodule "regstat"]
+	path = regstat
+	url = https://github.com/cran/regstat
 [submodule "regsubseq"]
 	path = regsubseq
 	url = https://github.com/cran/regsubseq
@@ -62048,6 +62090,9 @@
 [submodule "riskutility"]
 	path = riskutility
 	url = https://github.com/cran/riskutility
+[submodule "riskweightedassets"]
+	path = riskweightedassets
+	url = https://github.com/cran/riskweightedassets
 [submodule "riskyr"]
 	path = riskyr
 	url = https://github.com/cran/riskyr
@@ -63218,6 +63263,9 @@
 [submodule "rsm"]
 	path = rsm
 	url = https://github.com/cran/rsm
+[submodule "rsmart"]
+	path = rsmart
+	url = https://github.com/cran/rsmart
 [submodule "rsmatch"]
 	path = rsmatch
 	url = https://github.com/cran/rsmatch
@@ -63698,6 +63746,9 @@
 [submodule "rxode2"]
 	path = rxode2
 	url = https://github.com/cran/rxode2
+[submodule "rxode2lincmt"]
+	path = rxode2lincmt
+	url = https://github.com/cran/rxode2lincmt
 [submodule "rxode2ll"]
 	path = rxode2ll
 	url = https://github.com/cran/rxode2ll
@@ -64610,6 +64661,9 @@
 [submodule "scrappy"]
 	path = scrappy
 	url = https://github.com/cran/scrappy
+[submodule "screenllm"]
+	path = screenllm
+	url = https://github.com/cran/screenllm
 [submodule "screenshot"]
 	path = screenshot
 	url = https://github.com/cran/screenshot
@@ -69992,6 +70046,9 @@
 [submodule "tLagPropOdds"]
 	path = tLagPropOdds
 	url = https://github.com/cran/tLagPropOdds
+[submodule "tReeTraits"]
+	path = tReeTraits
+	url = https://github.com/cran/tReeTraits
 [submodule "tRigon"]
 	path = tRigon
 	url = https://github.com/cran/tRigon
@@ -73223,6 +73280,9 @@
 [submodule "uptimeRobot"]
 	path = uptimeRobot
 	url = https://github.com/cran/uptimeRobot
+[submodule "uqsa"]
+	path = uqsa
+	url = https://github.com/cran/uqsa
 [submodule "ura"]
 	path = ura
 	url = https://github.com/cran/ura
@@ -75125,6 +75185,9 @@
 [submodule "xadmix"]
 	path = xadmix
 	url = https://github.com/cran/xadmix
+[submodule "xaiHydro"]
+	path = xaiHydro
+	url = https://github.com/cran/xaiHydro
 [submodule "xaringan"]
 	path = xaringan
 	url = https://github.com/cran/xaringan
