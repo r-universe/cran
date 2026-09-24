@@ -32150,6 +32150,9 @@
 [submodule "dependentsimr"]
 	path = dependentsimr
 	url = https://github.com/cran/dependentsimr
+[submodule "depguard"]
+	path = depguard
+	url = https://github.com/cran/depguard
 [submodule "depictr"]
 	path = depictr
 	url = https://github.com/cran/depictr
@@ -60044,9 +60047,27 @@
 [submodule "rapsimng"]
 	path = rapsimng
 	url = https://github.com/cran/rapsimng
+[submodule "rapsimng.canola"]
+	path = rapsimng.canola
+	url = https://github.com/cran/rapsimng.canola
+[submodule "rapsimng.chickpea"]
+	path = rapsimng.chickpea
+	url = https://github.com/cran/rapsimng.chickpea
 [submodule "rapsimng.decide.core"]
 	path = rapsimng.decide.core
 	url = https://github.com/cran/rapsimng.decide.core
+[submodule "rapsimng.fababean"]
+	path = rapsimng.fababean
+	url = https://github.com/cran/rapsimng.fababean
+[submodule "rapsimng.lentil"]
+	path = rapsimng.lentil
+	url = https://github.com/cran/rapsimng.lentil
+[submodule "rapsimng.lupin"]
+	path = rapsimng.lupin
+	url = https://github.com/cran/rapsimng.lupin
+[submodule "rapsimng.wheat"]
+	path = rapsimng.wheat
+	url = https://github.com/cran/rapsimng.wheat
 [submodule "raptools"]
 	path = raptools
 	url = https://github.com/cran/raptools
