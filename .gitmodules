@@ -17588,6 +17588,9 @@
 [submodule "Rserve"]
 	path = Rserve
 	url = https://github.com/cran/Rserve
+[submodule "RserveTS"]
+	path = RserveTS
+	url = https://github.com/cran/RserveTS
 [submodule "Rsfar"]
 	path = Rsfar
 	url = https://github.com/cran/Rsfar
@@ -20417,9 +20420,6 @@
 [submodule "TableMonster"]
 	path = TableMonster
 	url = https://github.com/cran/TableMonster
-[submodule "TableToLongForm"]
-	path = TableToLongForm
-	url = https://github.com/cran/TableToLongForm
 [submodule "TailClassifier"]
 	path = TailClassifier
 	url = https://github.com/cran/TailClassifier
@@ -38168,6 +38168,9 @@
 [submodule "funHDDC"]
 	path = funHDDC
 	url = https://github.com/cran/funHDDC
+[submodule "funHMM"]
+	path = funHMM
+	url = https://github.com/cran/funHMM
 [submodule "funIHC"]
 	path = funIHC
 	url = https://github.com/cran/funIHC
@@ -38738,6 +38741,9 @@
 [submodule "gcdnet"]
 	path = gcdnet
 	url = https://github.com/cran/gcdnet
+[submodule "gcemod"]
+	path = gcemod
+	url = https://github.com/cran/gcemod
 [submodule "gcerisk"]
 	path = gcerisk
 	url = https://github.com/cran/gcerisk
@@ -39068,6 +39074,9 @@
 [submodule "genoPlotR"]
 	path = genoPlotR
 	url = https://github.com/cran/genoPlotR
+[submodule "genoaligner"]
+	path = genoaligner
+	url = https://github.com/cran/genoaligner
 [submodule "genodds"]
 	path = genodds
 	url = https://github.com/cran/genodds
