@@ -21053,6 +21053,9 @@
 [submodule "Umpire"]
 	path = Umpire
 	url = https://github.com/cran/Umpire
+[submodule "UnalR"]
+	path = UnalR
+	url = https://github.com/cran/UnalR
 [submodule "UncDecomp"]
 	path = UncDecomp
 	url = https://github.com/cran/UncDecomp
@@ -55631,6 +55634,9 @@
 [submodule "pdfsearch"]
 	path = pdfsearch
 	url = https://github.com/cran/pdfsearch
+[submodule "pdfsigner"]
+	path = pdfsigner
+	url = https://github.com/cran/pdfsigner
 [submodule "pdftables"]
 	path = pdftables
 	url = https://github.com/cran/pdftables
