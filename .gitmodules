@@ -4154,6 +4154,9 @@
 [submodule "DBmaps"]
 	path = DBmaps
 	url = https://github.com/cran/DBmaps
+[submodule "DCC"]
+	path = DCC
+	url = https://github.com/cran/DCC
 [submodule "DCCA"]
 	path = DCCA
 	url = https://github.com/cran/DCCA
@@ -12515,9 +12518,6 @@
 [submodule "NSO1212"]
 	path = NSO1212
 	url = https://github.com/cran/NSO1212
-[submodule "NSR"]
-	path = NSR
-	url = https://github.com/cran/NSR
 [submodule "NST"]
 	path = NST
 	url = https://github.com/cran/NST
@@ -23642,6 +23642,9 @@
 [submodule "arimasel"]
 	path = arimasel
 	url = https://github.com/cran/arimasel
+[submodule "arity"]
+	path = arity
+	url = https://github.com/cran/arity
 [submodule "arkdb"]
 	path = arkdb
 	url = https://github.com/cran/arkdb
@@ -25718,6 +25721,9 @@
 [submodule "birk"]
 	path = birk
 	url = https://github.com/cran/birk
+[submodule "birp"]
+	path = birp
+	url = https://github.com/cran/birp
 [submodule "birtr"]
 	path = birtr
 	url = https://github.com/cran/birtr
@@ -28136,6 +28142,9 @@
 [submodule "chunkhooks"]
 	path = chunkhooks
 	url = https://github.com/cran/chunkhooks
+[submodule "churon"]
+	path = churon
+	url = https://github.com/cran/churon
 [submodule "chyper"]
 	path = chyper
 	url = https://github.com/cran/chyper
@@ -37232,9 +37241,6 @@
 [submodule "flametree"]
 	path = flametree
 	url = https://github.com/cran/flametree
-[submodule "flan"]
-	path = flan
-	url = https://github.com/cran/flan
 [submodule "flankr"]
 	path = flankr
 	url = https://github.com/cran/flankr
@@ -40526,9 +40532,6 @@
 [submodule "glinternet"]
 	path = glinternet
 	url = https://github.com/cran/glinternet
-[submodule "glinvci"]
-	path = glinvci
-	url = https://github.com/cran/glinvci
 [submodule "glioblastomaEHRsData"]
 	path = glioblastomaEHRsData
 	url = https://github.com/cran/glioblastomaEHRsData
@@ -57749,9 +57752,6 @@
 [submodule "prereg"]
 	path = prereg
 	url = https://github.com/cran/prereg
-[submodule "preregr"]
-	path = preregr
-	url = https://github.com/cran/preregr
 [submodule "presens"]
 	path = presens
 	url = https://github.com/cran/presens
@@ -61991,9 +61991,6 @@
 [submodule "riingo"]
 	path = riingo
 	url = https://github.com/cran/riingo
-[submodule "rim"]
-	path = rim
-	url = https://github.com/cran/rim
 [submodule "rimu"]
 	path = rimu
 	url = https://github.com/cran/rimu
@@ -64901,9 +64898,6 @@
 [submodule "see"]
 	path = see
 	url = https://github.com/cran/see
-[submodule "seeclickfixr"]
-	path = seeclickfixr
-	url = https://github.com/cran/seeclickfixr
 [submodule "seecolor"]
 	path = seecolor
 	url = https://github.com/cran/seecolor
