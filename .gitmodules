@@ -69656,6 +69656,9 @@
 [submodule "surveybootstrap"]
 	path = surveybootstrap
 	url = https://github.com/cran/surveybootstrap
+[submodule "surveycore"]
+	path = surveycore
+	url = https://github.com/cran/surveycore
 [submodule "surveydata"]
 	path = surveydata
 	url = https://github.com/cran/surveydata
@@ -69683,6 +69686,9 @@
 [submodule "surveytable"]
 	path = surveytable
 	url = https://github.com/cran/surveytable
+[submodule "surveytidy"]
+	path = surveytidy
+	url = https://github.com/cran/surveytidy
 [submodule "surveyverse"]
 	path = surveyverse
 	url = https://github.com/cran/surveyverse
