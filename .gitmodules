@@ -39284,6 +39284,9 @@
 [submodule "geoheatmap"]
 	path = geoheatmap
 	url = https://github.com/cran/geoheatmap
+[submodule "geoidep"]
+	path = geoidep
+	url = https://github.com/cran/geoidep
 [submodule "geojson"]
 	path = geojson
 	url = https://github.com/cran/geojson
@@ -39542,6 +39545,9 @@
 [submodule "gfonts"]
 	path = gfonts
 	url = https://github.com/cran/gfonts
+[submodule "gfpop"]
+	path = gfpop
+	url = https://github.com/cran/gfpop
 [submodule "gfunctions"]
 	path = gfunctions
 	url = https://github.com/cran/gfunctions
