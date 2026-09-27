@@ -2852,6 +2852,9 @@
 [submodule "CPGLIB"]
 	path = CPGLIB
 	url = https://github.com/cran/CPGLIB
+[submodule "CPHazard"]
+	path = CPHazard
+	url = https://github.com/cran/CPHazard
 [submodule "CPMCGLM"]
 	path = CPMCGLM
 	url = https://github.com/cran/CPMCGLM
@@ -7568,6 +7571,9 @@
 [submodule "GTEs"]
 	path = GTEs
 	url = https://github.com/cran/GTEs
+[submodule "GTFShift"]
+	path = GTFShift
+	url = https://github.com/cran/GTFShift
 [submodule "GTFSwizard"]
 	path = GTFSwizard
 	url = https://github.com/cran/GTFSwizard
@@ -9005,6 +9011,9 @@
 [submodule "ISOweek"]
 	path = ISOweek
 	url = https://github.com/cran/ISOweek
+[submodule "ISPAT3D"]
+	path = ISPAT3D
+	url = https://github.com/cran/ISPAT3D
 [submodule "ISPYARDSWinProbabilityGSDesign"]
 	path = ISPYARDSWinProbabilityGSDesign
 	url = https://github.com/cran/ISPYARDSWinProbabilityGSDesign
@@ -18224,6 +18233,9 @@
 [submodule "SITH"]
 	path = SITH
 	url = https://github.com/cran/SITH
+[submodule "SIVMethod"]
+	path = SIVMethod
+	url = https://github.com/cran/SIVMethod
 [submodule "SK4FGA"]
 	path = SK4FGA
 	url = https://github.com/cran/SK4FGA
@@ -25241,6 +25253,9 @@
 [submodule "bgms"]
 	path = bgms
 	url = https://github.com/cran/bgms
+[submodule "bgns"]
+	path = bgns
+	url = https://github.com/cran/bgns
 [submodule "bgumbel"]
 	path = bgumbel
 	url = https://github.com/cran/bgumbel
@@ -27887,6 +27902,9 @@
 [submodule "chartreview"]
 	path = chartreview
 	url = https://github.com/cran/chartreview
+[submodule "chat.api"]
+	path = chat.api
+	url = https://github.com/cran/chat.api
 [submodule "chatAI4R"]
 	path = chatAI4R
 	url = https://github.com/cran/chatAI4R
@@ -31484,6 +31502,9 @@
 [submodule "datapasta"]
 	path = datapasta
 	url = https://github.com/cran/datapasta
+[submodule "datapond"]
+	path = datapond
+	url = https://github.com/cran/datapond
 [submodule "dataprep"]
 	path = dataprep
 	url = https://github.com/cran/dataprep
@@ -35357,6 +35378,9 @@
 [submodule "escalation"]
 	path = escalation
 	url = https://github.com/cran/escalation
+[submodule "escapeR"]
+	path = escapeR
+	url = https://github.com/cran/escapeR
 [submodule "esci"]
 	path = esci
 	url = https://github.com/cran/esci
@@ -44198,6 +44222,9 @@
 [submodule "insect"]
 	path = insect
 	url = https://github.com/cran/insect
+[submodule "insectecol"]
+	path = insectecol
+	url = https://github.com/cran/insectecol
 [submodule "insee"]
 	path = insee
 	url = https://github.com/cran/insee
@@ -47822,6 +47849,9 @@
 [submodule "mSigPlot"]
 	path = mSigPlot
 	url = https://github.com/cran/mSigPlot
+[submodule "mSigSpectra"]
+	path = mSigSpectra
+	url = https://github.com/cran/mSigSpectra
 [submodule "mSigTools"]
 	path = mSigTools
 	url = https://github.com/cran/mSigTools
@@ -48797,6 +48827,9 @@
 [submodule "mdbr"]
 	path = mdbr
 	url = https://github.com/cran/mdbr
+[submodule "mdbx"]
+	path = mdbx
+	url = https://github.com/cran/mdbx
 [submodule "mddmaps"]
 	path = mddmaps
 	url = https://github.com/cran/mddmaps
@@ -52022,6 +52055,9 @@
 [submodule "mycor"]
 	path = mycor
 	url = https://github.com/cran/mycor
+[submodule "myman"]
+	path = myman
+	url = https://github.com/cran/myman
 [submodule "myownrobs"]
 	path = myownrobs
 	url = https://github.com/cran/myownrobs
@@ -52418,6 +52454,9 @@
 [submodule "netDFI"]
 	path = netDFI
 	url = https://github.com/cran/netDFI
+[submodule "netOP"]
+	path = netOP
+	url = https://github.com/cran/netOP
 [submodule "netSEM"]
 	path = netSEM
 	url = https://github.com/cran/netSEM
@@ -56609,6 +56648,9 @@
 [submodule "pkgcache"]
 	path = pkgcache
 	url = https://github.com/cran/pkgcache
+[submodule "pkgcheck"]
+	path = pkgcheck
+	url = https://github.com/cran/pkgcheck
 [submodule "pkgcond"]
 	path = pkgcond
 	url = https://github.com/cran/pkgcond
@@ -66320,6 +66362,9 @@
 [submodule "simPop"]
 	path = simPop
 	url = https://github.com/cran/simPop
+[submodule "simPreg"]
+	path = simPreg
+	url = https://github.com/cran/simPreg
 [submodule "simPsyStudy"]
 	path = simPsyStudy
 	url = https://github.com/cran/simPsyStudy
@@ -69611,9 +69656,6 @@
 [submodule "surveybootstrap"]
 	path = surveybootstrap
 	url = https://github.com/cran/surveybootstrap
-[submodule "surveycore"]
-	path = surveycore
-	url = https://github.com/cran/surveycore
 [submodule "surveydata"]
 	path = surveydata
 	url = https://github.com/cran/surveydata
@@ -69641,9 +69683,6 @@
 [submodule "surveytable"]
 	path = surveytable
 	url = https://github.com/cran/surveytable
-[submodule "surveytidy"]
-	path = surveytidy
-	url = https://github.com/cran/surveytidy
 [submodule "surveyverse"]
 	path = surveyverse
 	url = https://github.com/cran/surveyverse
@@ -72404,6 +72443,9 @@
 [submodule "trialSizing"]
 	path = trialSizing
 	url = https://github.com/cran/trialSizing
+[submodule "trialdiff"]
+	path = trialdiff
+	url = https://github.com/cran/trialdiff
 [submodule "trialr"]
 	path = trialr
 	url = https://github.com/cran/trialr
@@ -74894,6 +74936,9 @@
 [submodule "wingen"]
 	path = wingen
 	url = https://github.com/cran/wingen
+[submodule "winn"]
+	path = winn
+	url = https://github.com/cran/winn
 [submodule "winning"]
 	path = winning
 	url = https://github.com/cran/winning
