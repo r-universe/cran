@@ -2129,6 +2129,9 @@
 [submodule "BlanketStatsments"]
 	path = BlanketStatsments
 	url = https://github.com/cran/BlanketStatsments
+[submodule "Blaunet"]
+	path = Blaunet
+	url = https://github.com/cran/Blaunet
 [submodule "Blend"]
 	path = Blend
 	url = https://github.com/cran/Blend
@@ -4523,6 +4526,9 @@
 [submodule "DPQmpfr"]
 	path = DPQmpfr
 	url = https://github.com/cran/DPQmpfr
+[submodule "DPSynth"]
+	path = DPSynth
+	url = https://github.com/cran/DPSynth
 [submodule "DPTM"]
 	path = DPTM
 	url = https://github.com/cran/DPTM
@@ -4892,6 +4898,9 @@
 [submodule "DeltaMAN"]
 	path = DeltaMAN
 	url = https://github.com/cran/DeltaMAN
+[submodule "DeltaTools"]
+	path = DeltaTools
+	url = https://github.com/cran/DeltaTools
 [submodule "DemoDecomp"]
 	path = DemoDecomp
 	url = https://github.com/cran/DemoDecomp
@@ -5603,6 +5612,9 @@
 [submodule "ERPeq"]
 	path = ERPeq
 	url = https://github.com/cran/ERPeq
+[submodule "ERRI"]
+	path = ERRI
+	url = https://github.com/cran/ERRI
 [submodule "ERSA"]
 	path = ERSA
 	url = https://github.com/cran/ERSA
@@ -5876,6 +5888,9 @@
 [submodule "EpiILM"]
 	path = EpiILM
 	url = https://github.com/cran/EpiILM
+[submodule "EpiILMCT"]
+	path = EpiILMCT
+	url = https://github.com/cran/EpiILMCT
 [submodule "EpiInvert"]
 	path = EpiInvert
 	url = https://github.com/cran/EpiInvert
@@ -6221,6 +6236,9 @@
 [submodule "FBN"]
 	path = FBN
 	url = https://github.com/cran/FBN
+[submodule "FCGR"]
+	path = FCGR
+	url = https://github.com/cran/FCGR
 [submodule "FCO"]
 	path = FCO
 	url = https://github.com/cran/FCO
@@ -6470,6 +6488,9 @@
 [submodule "FSSF"]
 	path = FSSF
 	url = https://github.com/cran/FSSF
+[submodule "FSSgam"]
+	path = FSSgam
+	url = https://github.com/cran/FSSgam
 [submodule "FSTpackage"]
 	path = FSTpackage
 	url = https://github.com/cran/FSTpackage
@@ -11213,6 +11234,9 @@
 [submodule "MSBStatsData"]
 	path = MSBStatsData
 	url = https://github.com/cran/MSBStatsData
+[submodule "MSCA"]
+	path = MSCA
+	url = https://github.com/cran/MSCA
 [submodule "MSCCT"]
 	path = MSCCT
 	url = https://github.com/cran/MSCCT
@@ -11927,6 +11951,9 @@
 [submodule "MobilityDataPT"]
 	path = MobilityDataPT
 	url = https://github.com/cran/MobilityDataPT
+[submodule "Mobius"]
+	path = Mobius
+	url = https://github.com/cran/Mobius
 [submodule "ModEstM"]
 	path = ModEstM
 	url = https://github.com/cran/ModEstM
@@ -15995,6 +16022,9 @@
 [submodule "ROI.plugin.clarabel"]
 	path = ROI.plugin.clarabel
 	url = https://github.com/cran/ROI.plugin.clarabel
+[submodule "ROI.plugin.coinclp"]
+	path = ROI.plugin.coinclp
+	url = https://github.com/cran/ROI.plugin.coinclp
 [submodule "ROI.plugin.cplex"]
 	path = ROI.plugin.cplex
 	url = https://github.com/cran/ROI.plugin.cplex
@@ -19955,6 +19985,9 @@
 [submodule "SurveyDefense"]
 	path = SurveyDefense
 	url = https://github.com/cran/SurveyDefense
+[submodule "SurveyNCD"]
+	path = SurveyNCD
+	url = https://github.com/cran/SurveyNCD
 [submodule "SurveyStat"]
 	path = SurveyStat
 	url = https://github.com/cran/SurveyStat
@@ -19994,6 +20027,9 @@
 [submodule "SynDI"]
 	path = SynDI
 	url = https://github.com/cran/SynDI
+[submodule "SyncERdata"]
+	path = SyncERdata
+	url = https://github.com/cran/SyncERdata
 [submodule "SyncMove"]
 	path = SyncMove
 	url = https://github.com/cran/SyncMove
@@ -20363,6 +20399,9 @@
 [submodule "TSQCA"]
 	path = TSQCA
 	url = https://github.com/cran/TSQCA
+[submodule "TSQLEM"]
+	path = TSQLEM
+	url = https://github.com/cran/TSQLEM
 [submodule "TSS.RESTREND"]
 	path = TSS.RESTREND
 	url = https://github.com/cran/TSS.RESTREND
@@ -21374,6 +21413,9 @@
 [submodule "VennItem"]
 	path = VennItem
 	url = https://github.com/cran/VennItem
+[submodule "VeraCrop"]
+	path = VeraCrop
+	url = https://github.com/cran/VeraCrop
 [submodule "VertexSimilarity"]
 	path = VertexSimilarity
 	url = https://github.com/cran/VertexSimilarity
@@ -26864,6 +26906,9 @@
 [submodule "cTOST"]
 	path = cTOST
 	url = https://github.com/cran/cTOST
+[submodule "cWise"]
+	path = cWise
+	url = https://github.com/cran/cWise
 [submodule "ca"]
 	path = ca
 	url = https://github.com/cran/ca
@@ -27134,6 +27179,9 @@
 [submodule "cardinalfda"]
 	path = cardinalfda
 	url = https://github.com/cran/cardinalfda
+[submodule "cardiovagal"]
+	path = cardiovagal
+	url = https://github.com/cran/cardiovagal
 [submodule "cards"]
 	path = cards
 	url = https://github.com/cran/cards
@@ -28199,6 +28247,9 @@
 [submodule "cicerone"]
 	path = cicerone
 	url = https://github.com/cran/cicerone
+[submodule "cidian"]
+	path = cidian
+	url = https://github.com/cran/cidian
 [submodule "ciecl"]
 	path = ciecl
 	url = https://github.com/cran/ciecl
@@ -29780,6 +29831,9 @@
 [submodule "contentid"]
 	path = contentid
 	url = https://github.com/cran/contentid
+[submodule "contentvalidR"]
+	path = contentvalidR
+	url = https://github.com/cran/contentvalidR
 [submodule "contextFind"]
 	path = contextFind
 	url = https://github.com/cran/contextFind
@@ -35978,6 +36032,9 @@
 [submodule "eyelinker"]
 	path = eyelinker
 	url = https://github.com/cran/eyelinker
+[submodule "eyeprocess"]
+	path = eyeprocess
+	url = https://github.com/cran/eyeprocess
 [submodule "eyeris"]
 	path = eyeris
 	url = https://github.com/cran/eyeris
@@ -42023,6 +42080,9 @@
 [submodule "hardhat"]
 	path = hardhat
 	url = https://github.com/cran/hardhat
+[submodule "harf"]
+	path = harf
+	url = https://github.com/cran/harf
 [submodule "harmonicmeanp"]
 	path = harmonicmeanp
 	url = https://github.com/cran/harmonicmeanp
@@ -48143,6 +48203,9 @@
 [submodule "mapedit"]
 	path = mapedit
 	url = https://github.com/cran/mapedit
+[submodule "mapfit"]
+	path = mapfit
+	url = https://github.com/cran/mapfit
 [submodule "mapgl"]
 	path = mapgl
 	url = https://github.com/cran/mapgl
@@ -48293,6 +48356,9 @@
 [submodule "marinepredator"]
 	path = marinepredator
 	url = https://github.com/cran/marinepredator
+[submodule "mariposa"]
+	path = mariposa
+	url = https://github.com/cran/mariposa
 [submodule "mark"]
 	path = mark
 	url = https://github.com/cran/mark
@@ -54974,6 +55040,9 @@
 [submodule "pagenum"]
 	path = pagenum
 	url = https://github.com/cran/pagenum
+[submodule "pagerankr"]
+	path = pagerankr
+	url = https://github.com/cran/pagerankr
 [submodule "pagoda2"]
 	path = pagoda2
 	url = https://github.com/cran/pagoda2
@@ -58928,6 +58997,9 @@
 [submodule "qiitr"]
 	path = qiitr
 	url = https://github.com/cran/qiitr
+[submodule "qio"]
+	path = qio
+	url = https://github.com/cran/qio
 [submodule "qkiosk"]
 	path = qkiosk
 	url = https://github.com/cran/qkiosk
@@ -64040,6 +64112,9 @@
 [submodule "saeTrafo"]
 	path = saeTrafo
 	url = https://github.com/cran/saeTrafo
+[submodule "saebenchmarking"]
+	path = saebenchmarking
+	url = https://github.com/cran/saebenchmarking
 [submodule "saebnocov"]
 	path = saebnocov
 	url = https://github.com/cran/saebnocov
@@ -66098,6 +66173,9 @@
 [submodule "shinyseo"]
 	path = shinyseo
 	url = https://github.com/cran/shinyseo
+[submodule "shinysnap"]
+	path = shinysnap
+	url = https://github.com/cran/shinysnap
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/cran/shinystan
@@ -68306,6 +68384,9 @@
 [submodule "spsur"]
 	path = spsur
 	url = https://github.com/cran/spsur
+[submodule "spsurv"]
+	path = spsurv
+	url = https://github.com/cran/spsurv
 [submodule "spsurvey"]
 	path = spsurvey
 	url = https://github.com/cran/spsurvey
@@ -68597,6 +68678,9 @@
 [submodule "stabm"]
 	path = stabm
 	url = https://github.com/cran/stabm
+[submodule "stabplot"]
+	path = stabplot
+	url = https://github.com/cran/stabplot
 [submodule "stabs"]
 	path = stabs
 	url = https://github.com/cran/stabs
@@ -69863,6 +69947,9 @@
 [submodule "svyCausalGLM"]
 	path = svyCausalGLM
 	url = https://github.com/cran/svyCausalGLM
+[submodule "svyLocAdj"]
+	path = svyLocAdj
+	url = https://github.com/cran/svyLocAdj
 [submodule "svyROC"]
 	path = svyROC
 	url = https://github.com/cran/svyROC
@@ -70691,6 +70778,9 @@
 [submodule "tepr"]
 	path = tepr
 	url = https://github.com/cran/tepr
+[submodule "tera"]
+	path = tera
+	url = https://github.com/cran/tera
 [submodule "tergm"]
 	path = tergm
 	url = https://github.com/cran/tergm
@@ -75119,6 +75209,9 @@
 [submodule "wosr"]
 	path = wosr
 	url = https://github.com/cran/wosr
+[submodule "wowi"]
+	path = wowi
+	url = https://github.com/cran/wowi
 [submodule "woylier"]
 	path = woylier
 	url = https://github.com/cran/woylier
@@ -75425,6 +75518,9 @@
 [submodule "xmlr"]
 	path = xmlr
 	url = https://github.com/cran/xmlr
+[submodule "xmlrectr"]
+	path = xmlrectr
+	url = https://github.com/cran/xmlrectr
 [submodule "xmlrpc2"]
 	path = xmlrpc2
 	url = https://github.com/cran/xmlrpc2
