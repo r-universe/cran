@@ -37211,6 +37211,9 @@
 [submodule "fishbc"]
 	path = fishbc
 	url = https://github.com/cran/fishbc
+[submodule "fishboot"]
+	path = fishboot
+	url = https://github.com/cran/fishboot
 [submodule "fishdata"]
 	path = fishdata
 	url = https://github.com/cran/fishdata
@@ -41987,6 +41990,9 @@
 [submodule "hBayesDM"]
 	path = hBayesDM
 	url = https://github.com/cran/hBayesDM
+[submodule "hIRT"]
+	path = hIRT
+	url = https://github.com/cran/hIRT
 [submodule "hNMF"]
 	path = hNMF
 	url = https://github.com/cran/hNMF
