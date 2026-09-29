@@ -30269,6 +30269,9 @@
 [submodule "countrycode"]
 	path = countrycode
 	url = https://github.com/cran/countrycode
+[submodule "countryscales"]
+	path = countryscales
+	url = https://github.com/cran/countryscales
 [submodule "countsplit"]
 	path = countsplit
 	url = https://github.com/cran/countsplit
@@ -69569,6 +69572,9 @@
 [submodule "summariser"]
 	path = summariser
 	url = https://github.com/cran/summariser
+[submodule "summary2joint"]
+	path = summary2joint
+	url = https://github.com/cran/summary2joint
 [submodule "summarySCI"]
 	path = summarySCI
 	url = https://github.com/cran/summarySCI
@@ -72386,6 +72392,9 @@
 [submodule "transfR"]
 	path = transfR
 	url = https://github.com/cran/transfR
+[submodule "transfRgov"]
+	path = transfRgov
+	url = https://github.com/cran/transfRgov
 [submodule "transferegovr"]
 	path = transferegovr
 	url = https://github.com/cran/transferegovr
