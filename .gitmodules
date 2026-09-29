@@ -3995,6 +3995,9 @@
 [submodule "CrossClustering"]
 	path = CrossClustering
 	url = https://github.com/cran/CrossClustering
+[submodule "CrossDomainAdjust"]
+	path = CrossDomainAdjust
+	url = https://github.com/cran/CrossDomainAdjust
 [submodule "CrossExpression"]
 	path = CrossExpression
 	url = https://github.com/cran/CrossExpression
@@ -21569,6 +21572,9 @@
 [submodule "WIPF"]
 	path = WIPF
 	url = https://github.com/cran/WIPF
+[submodule "WISP.data"]
+	path = WISP.data
+	url = https://github.com/cran/WISP.data
 [submodule "WLogit"]
 	path = WLogit
 	url = https://github.com/cran/WLogit
@@ -22172,6 +22178,9 @@
 [submodule "accessrmd"]
 	path = accessrmd
 	url = https://github.com/cran/accessrmd
+[submodule "accmv"]
+	path = accmv
+	url = https://github.com/cran/accmv
 [submodule "accrual"]
 	path = accrual
 	url = https://github.com/cran/accrual
@@ -24185,6 +24194,9 @@
 [submodule "autoslider.core"]
 	path = autoslider.core
 	url = https://github.com/cran/autoslider.core
+[submodule "autoslider.trade"]
+	path = autoslider.trade
+	url = https://github.com/cran/autoslider.trade
 [submodule "autostats"]
 	path = autostats
 	url = https://github.com/cran/autostats
@@ -25097,6 +25109,9 @@
 [submodule "bedr"]
 	path = bedr
 	url = https://github.com/cran/bedr
+[submodule "bedrock"]
+	path = bedrock
+	url = https://github.com/cran/bedrock
 [submodule "bedrockbio"]
 	path = bedrockbio
 	url = https://github.com/cran/bedrockbio
@@ -28655,6 +28670,9 @@
 [submodule "clipr"]
 	path = clipr
 	url = https://github.com/cran/clipr
+[submodule "clis"]
+	path = clis
+	url = https://github.com/cran/clis
 [submodule "clisymbols"]
 	path = clisymbols
 	url = https://github.com/cran/clisymbols
@@ -31934,6 +31952,9 @@
 [submodule "debest"]
 	path = debest
 	url = https://github.com/cran/debest
+[submodule "debiasedInference"]
+	path = debiasedInference
+	url = https://github.com/cran/debiasedInference
 [submodule "debiasedTrialEmulation"]
 	path = debiasedTrialEmulation
 	url = https://github.com/cran/debiasedTrialEmulation
@@ -37175,6 +37196,9 @@
 [submodule "fipp"]
 	path = fipp
 	url = https://github.com/cran/fipp
+[submodule "fireData"]
+	path = fireData
+	url = https://github.com/cran/fireData
 [submodule "firebase"]
 	path = firebase
 	url = https://github.com/cran/firebase
@@ -45017,6 +45041,9 @@
 [submodule "ivtools"]
 	path = ivtools
 	url = https://github.com/cran/ivtools
+[submodule "ivue"]
+	path = ivue
+	url = https://github.com/cran/ivue
 [submodule "ivx"]
 	path = ivx
 	url = https://github.com/cran/ivx
@@ -47831,6 +47858,9 @@
 [submodule "lvplot"]
 	path = lvplot
 	url = https://github.com/cran/lvplot
+[submodule "lwbgt"]
+	path = lwbgt
+	url = https://github.com/cran/lwbgt
 [submodule "lwc2022"]
 	path = lwc2022
 	url = https://github.com/cran/lwc2022
@@ -59054,6 +59084,9 @@
 [submodule "qpdf"]
 	path = qpdf
 	url = https://github.com/cran/qpdf
+[submodule "qpmR"]
+	path = qpmR
+	url = https://github.com/cran/qpmR
 [submodule "qpost"]
 	path = qpost
 	url = https://github.com/cran/qpost
@@ -59840,6 +59873,9 @@
 [submodule "rQSAR"]
 	path = rQSAR
 	url = https://github.com/cran/rQSAR
+[submodule "rReGSPTT"]
+	path = rReGSPTT
+	url = https://github.com/cran/rReGSPTT
 [submodule "rSAFE"]
 	path = rSAFE
 	url = https://github.com/cran/rSAFE
@@ -60026,6 +60062,9 @@
 [submodule "raiseR"]
 	path = raiseR
 	url = https://github.com/cran/raiseR
+[submodule "raisr"]
+	path = raisr
+	url = https://github.com/cran/raisr
 [submodule "rakeR"]
 	path = rakeR
 	url = https://github.com/cran/rakeR
@@ -60500,6 +60539,9 @@
 [submodule "rbiodatacr"]
 	path = rbiodatacr
 	url = https://github.com/cran/rbiodatacr
+[submodule "rbiogeme"]
+	path = rbiogeme
+	url = https://github.com/cran/rbiogeme
 [submodule "rbiom"]
 	path = rbiom
 	url = https://github.com/cran/rbiom
@@ -64478,6 +64520,9 @@
 [submodule "scDiffCom"]
 	path = scDiffCom
 	url = https://github.com/cran/scDiffCom
+[submodule "scFlex"]
+	path = scFlex
+	url = https://github.com/cran/scFlex
 [submodule "scGOclust"]
 	path = scGOclust
 	url = https://github.com/cran/scGOclust
@@ -68381,6 +68426,9 @@
 [submodule "spsUtil"]
 	path = spsUtil
 	url = https://github.com/cran/spsUtil
+[submodule "spscsfa"]
+	path = spscsfa
+	url = https://github.com/cran/spscsfa
 [submodule "spselect"]
 	path = spselect
 	url = https://github.com/cran/spselect
@@ -68516,6 +68564,9 @@
 [submodule "ssMutPA"]
 	path = ssMutPA
 	url = https://github.com/cran/ssMutPA
+[submodule "ssPilot"]
+	path = ssPilot
+	url = https://github.com/cran/ssPilot
 [submodule "ssaBSS"]
 	path = ssaBSS
 	url = https://github.com/cran/ssaBSS
@@ -73145,6 +73196,9 @@
 [submodule "uGMAR"]
 	path = uGMAR
 	url = https://github.com/cran/uGMAR
+[submodule "uSDT"]
+	path = uSDT
+	url = https://github.com/cran/uSDT
 [submodule "uaparserjs"]
 	path = uaparserjs
 	url = https://github.com/cran/uaparserjs
