@@ -50702,9 +50702,6 @@
 [submodule "model4you"]
 	path = model4you
 	url = https://github.com/cran/model4you
-[submodule "modelDown"]
-	path = modelDown
-	url = https://github.com/cran/modelDown
 [submodule "modelObj"]
 	path = modelObj
 	url = https://github.com/cran/modelObj
