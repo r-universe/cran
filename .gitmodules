@@ -42869,6 +42869,9 @@
 [submodule "hoardr"]
 	path = hoardr
 	url = https://github.com/cran/hoardr
+[submodule "hobbs"]
+	path = hobbs
+	url = https://github.com/cran/hobbs
 [submodule "hoboR"]
 	path = hoboR
 	url = https://github.com/cran/hoboR
@@ -70055,6 +70058,9 @@
 [submodule "svmpath"]
 	path = svmpath
 	url = https://github.com/cran/svmpath
+[submodule "svpChange"]
+	path = svpChange
+	url = https://github.com/cran/svpChange
 [submodule "svplots"]
 	path = svplots
 	url = https://github.com/cran/svplots
@@ -71057,6 +71063,9 @@
 [submodule "text2sdgData"]
 	path = text2sdgData
 	url = https://github.com/cran/text2sdgData
+[submodule "text2speech"]
+	path = text2speech
+	url = https://github.com/cran/text2speech
 [submodule "text2vec"]
 	path = text2vec
 	url = https://github.com/cran/text2vec
