@@ -56,6 +56,9 @@
 [submodule "ACNE"]
 	path = ACNE
 	url = https://github.com/cran/ACNE
+[submodule "ACRER"]
+	path = ACRER
+	url = https://github.com/cran/ACRER
 [submodule "ACSWR"]
 	path = ACSWR
 	url = https://github.com/cran/ACSWR
@@ -6203,6 +6206,9 @@
 [submodule "FARDEEP"]
 	path = FARDEEP
 	url = https://github.com/cran/FARDEEP
+[submodule "FARM"]
+	path = FARM
+	url = https://github.com/cran/FARM
 [submodule "FARS"]
 	path = FARS
 	url = https://github.com/cran/FARS
@@ -8390,6 +8396,9 @@
 [submodule "HadamardR"]
 	path = HadamardR
 	url = https://github.com/cran/HadamardR
+[submodule "HanNLP"]
+	path = HanNLP
+	url = https://github.com/cran/HanNLP
 [submodule "HanStat"]
 	path = HanStat
 	url = https://github.com/cran/HanStat
@@ -10880,6 +10889,9 @@
 [submodule "MIMER"]
 	path = MIMER
 	url = https://github.com/cran/MIMER
+[submodule "MIML"]
+	path = MIML
+	url = https://github.com/cran/MIML
 [submodule "MIMSunit"]
 	path = MIMSunit
 	url = https://github.com/cran/MIMSunit
@@ -15191,6 +15203,9 @@
 [submodule "R4HCR"]
 	path = R4HCR
 	url = https://github.com/cran/R4HCR
+[submodule "R4VN"]
+	path = R4VN
+	url = https://github.com/cran/R4VN
 [submodule "R6"]
 	path = R6
 	url = https://github.com/cran/R6
@@ -22541,6 +22556,9 @@
 [submodule "adlift"]
 	path = adlift
 	url = https://github.com/cran/adlift
+[submodule "admetshiny"]
+	path = admetshiny
+	url = https://github.com/cran/admetshiny
 [submodule "admiral"]
 	path = admiral
 	url = https://github.com/cran/admiral
@@ -26963,6 +26981,9 @@
 [submodule "caffsim"]
 	path = caffsim
 	url = https://github.com/cran/caffsim
+[submodule "cagedr"]
+	path = cagedr
+	url = https://github.com/cran/cagedr
 [submodule "cairovolt"]
 	path = cairovolt
 	url = https://github.com/cran/cairovolt
@@ -28457,6 +28478,9 @@
 [submodule "classInt"]
 	path = classInt
 	url = https://github.com/cran/classInt
+[submodule "classbound"]
+	path = classbound
+	url = https://github.com/cran/classbound
 [submodule "classicaltest"]
 	path = classicaltest
 	url = https://github.com/cran/classicaltest
@@ -28976,6 +29000,9 @@
 [submodule "cncaGUI"]
 	path = cncaGUI
 	url = https://github.com/cran/cncaGUI
+[submodule "cncleanr"]
+	path = cncleanr
+	url = https://github.com/cran/cncleanr
 [submodule "cnd"]
 	path = cnd
 	url = https://github.com/cran/cnd
@@ -34340,6 +34367,9 @@
 [submodule "ecoCopula"]
 	path = ecoCopula
 	url = https://github.com/cran/ecoCopula
+[submodule "ecoGLMM"]
+	path = ecoGLMM
+	url = https://github.com/cran/ecoGLMM
 [submodule "ecoTolerance"]
 	path = ecoTolerance
 	url = https://github.com/cran/ecoTolerance
@@ -35522,6 +35552,9 @@
 [submodule "estats"]
 	path = estats
 	url = https://github.com/cran/estats
+[submodule "estbanr"]
+	path = estbanr
+	url = https://github.com/cran/estbanr
 [submodule "estimability"]
 	path = estimability
 	url = https://github.com/cran/estimability
@@ -36641,6 +36674,9 @@
 [submodule "fastrmodels"]
 	path = fastrmodels
 	url = https://github.com/cran/fastrmodels
+[submodule "fastsae"]
+	path = fastsae
+	url = https://github.com/cran/fastsae
 [submodule "fasttime"]
 	path = fasttime
 	url = https://github.com/cran/fasttime
@@ -39317,6 +39353,9 @@
 [submodule "geoTS"]
 	path = geoTS
 	url = https://github.com/cran/geoTS
+[submodule "geoaddSAE2"]
+	path = geoaddSAE2
+	url = https://github.com/cran/geoaddSAE2
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/cran/geoarrow
@@ -46340,6 +46379,9 @@
 [submodule "latexpdf"]
 	path = latexpdf
 	url = https://github.com/cran/latexpdf
+[submodule "latexr"]
+	path = latexr
+	url = https://github.com/cran/latexr
 [submodule "latrend"]
 	path = latrend
 	url = https://github.com/cran/latrend
@@ -46928,6 +46970,9 @@
 [submodule "limorhyde2"]
 	path = limorhyde2
 	url = https://github.com/cran/limorhyde2
+[submodule "limpidR"]
+	path = limpidR
+	url = https://github.com/cran/limpidR
 [submodule "lin.eval"]
 	path = lin.eval
 	url = https://github.com/cran/lin.eval
@@ -50288,6 +50333,9 @@
 [submodule "mizer"]
 	path = mizer
 	url = https://github.com/cran/mizer
+[submodule "mizu"]
+	path = mizu
+	url = https://github.com/cran/mizu
 [submodule "mkde"]
 	path = mkde
 	url = https://github.com/cran/mkde
@@ -51938,6 +51986,9 @@
 [submodule "mvPot"]
 	path = mvPot
 	url = https://github.com/cran/mvPot
+[submodule "mvPred"]
+	path = mvPred
+	url = https://github.com/cran/mvPred
 [submodule "mvProbit"]
 	path = mvProbit
 	url = https://github.com/cran/mvProbit
@@ -55919,6 +55970,9 @@
 [submodule "pedgene"]
 	path = pedgene
 	url = https://github.com/cran/pedgene
+[submodule "pediatric.zcalc"]
+	path = pediatric.zcalc
+	url = https://github.com/cran/pediatric.zcalc
 [submodule "pedigree"]
 	path = pedigree
 	url = https://github.com/cran/pedigree
@@ -57983,6 +58037,9 @@
 [submodule "pressuRe"]
 	path = pressuRe
 	url = https://github.com/cran/pressuRe
+[submodule "presto"]
+	path = presto
+	url = https://github.com/cran/presto
 [submodule "pretest"]
 	path = pretest
 	url = https://github.com/cran/pretest
@@ -65057,6 +65114,9 @@
 [submodule "searcher"]
 	path = searcher
 	url = https://github.com/cran/searcher
+[submodule "searchlight"]
+	path = searchlight
+	url = https://github.com/cran/searchlight
 [submodule "seas"]
 	path = seas
 	url = https://github.com/cran/seas
@@ -65408,6 +65468,9 @@
 [submodule "sensobol"]
 	path = sensobol
 	url = https://github.com/cran/sensobol
+[submodule "sensorLeak"]
+	path = sensorLeak
+	url = https://github.com/cran/sensorLeak
 [submodule "sensortowerR"]
 	path = sensortowerR
 	url = https://github.com/cran/sensortowerR
@@ -75692,6 +75755,9 @@
 [submodule "xtife"]
 	path = xtife
 	url = https://github.com/cran/xtife
+[submodule "xtifedml"]
+	path = xtifedml
+	url = https://github.com/cran/xtifedml
 [submodule "xtpqardl"]
 	path = xtpqardl
 	url = https://github.com/cran/xtpqardl
