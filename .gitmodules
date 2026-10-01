@@ -7130,9 +7130,6 @@
 [submodule "GE"]
 	path = GE
 	url = https://github.com/cran/GE
-[submodule "GEC"]
-	path = GEC
-	url = https://github.com/cran/GEC
 [submodule "GECal"]
 	path = GECal
 	url = https://github.com/cran/GECal
@@ -14192,6 +14189,9 @@
 [submodule "PantaRhei"]
 	path = PantaRhei
 	url = https://github.com/cran/PantaRhei
+[submodule "ParBayesianOptimization"]
+	path = ParBayesianOptimization
+	url = https://github.com/cran/ParBayesianOptimization
 [submodule "ParCC"]
 	path = ParCC
 	url = https://github.com/cran/ParCC
