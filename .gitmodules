@@ -22022,9 +22022,6 @@
 [submodule "aLBI"]
 	path = aLBI
 	url = https://github.com/cran/aLBI
-[submodule "aMNLFA"]
-	path = aMNLFA
-	url = https://github.com/cran/aMNLFA
 [submodule "aNCA"]
 	path = aNCA
 	url = https://github.com/cran/aNCA
