@@ -4022,6 +4022,9 @@
 [submodule "CsChange"]
 	path = CsChange
 	url = https://github.com/cran/CsChange
+[submodule "CspStandSegmentation"]
+	path = CspStandSegmentation
+	url = https://github.com/cran/CspStandSegmentation
 [submodule "Cubist"]
 	path = Cubist
 	url = https://github.com/cran/Cubist
