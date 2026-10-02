@@ -13460,6 +13460,9 @@
 [submodule "PBD"]
 	path = PBD
 	url = https://github.com/cran/PBD
+[submodule "PBGoF"]
+	path = PBGoF
+	url = https://github.com/cran/PBGoF
 [submodule "PBIBD"]
 	path = PBIBD
 	url = https://github.com/cran/PBIBD
@@ -13580,6 +13583,9 @@
 [submodule "PDQutils"]
 	path = PDQutils
 	url = https://github.com/cran/PDQutils
+[submodule "PDRobust"]
+	path = PDRobust
+	url = https://github.com/cran/PDRobust
 [submodule "PDSCE"]
 	path = PDSCE
 	url = https://github.com/cran/PDSCE
@@ -20192,6 +20198,9 @@
 [submodule "TELP"]
 	path = TELP
 	url = https://github.com/cran/TELP
+[submodule "TEMPO"]
+	path = TEMPO
+	url = https://github.com/cran/TEMPO
 [submodule "TEQR"]
 	path = TEQR
 	url = https://github.com/cran/TEQR
@@ -21116,6 +21125,9 @@
 [submodule "UdderQuarterInfectionData"]
 	path = UdderQuarterInfectionData
 	url = https://github.com/cran/UdderQuarterInfectionData
+[submodule "UlavalSSD"]
+	path = UlavalSSD
+	url = https://github.com/cran/UlavalSSD
 [submodule "Ultimixt"]
 	path = Ultimixt
 	url = https://github.com/cran/Ultimixt
@@ -31733,9 +31745,6 @@
 [submodule "dauphin"]
 	path = dauphin
 	url = https://github.com/cran/dauphin
-[submodule "dawaR"]
-	path = dawaR
-	url = https://github.com/cran/dawaR
 [submodule "dawai"]
 	path = dawai
 	url = https://github.com/cran/dawai
@@ -34586,6 +34595,9 @@
 [submodule "edstan"]
 	path = edstan
 	url = https://github.com/cran/edstan
+[submodule "eduResearchR"]
+	path = eduResearchR
+	url = https://github.com/cran/eduResearchR
 [submodule "educabR"]
 	path = educabR
 	url = https://github.com/cran/educabR
@@ -36404,6 +36416,9 @@
 [submodule "famish"]
 	path = famish
 	url = https://github.com/cran/famish
+[submodule "famnesia"]
+	path = famnesia
+	url = https://github.com/cran/famnesia
 [submodule "fanc"]
 	path = fanc
 	url = https://github.com/cran/fanc
@@ -46946,6 +46961,9 @@
 [submodule "likert"]
 	path = likert
 	url = https://github.com/cran/likert
+[submodule "likingInitiative"]
+	path = likingInitiative
+	url = https://github.com/cran/likingInitiative
 [submodule "lilikoi"]
 	path = lilikoi
 	url = https://github.com/cran/lilikoi
@@ -51533,6 +51551,9 @@
 [submodule "mudfold"]
 	path = mudfold
 	url = https://github.com/cran/mudfold
+[submodule "mudnester"]
+	path = mudnester
+	url = https://github.com/cran/mudnester
 [submodule "mueRelativeRisk"]
 	path = mueRelativeRisk
 	url = https://github.com/cran/mueRelativeRisk
@@ -58724,6 +58745,9 @@
 [submodule "pubchem.bio"]
 	path = pubchem.bio
 	url = https://github.com/cran/pubchem.bio
+[submodule "pubformat"]
+	path = pubformat
+	url = https://github.com/cran/pubformat
 [submodule "pubh"]
 	path = pubh
 	url = https://github.com/cran/pubh
@@ -59861,6 +59885,9 @@
 [submodule "rLifting"]
 	path = rLifting
 	url = https://github.com/cran/rLifting
+[submodule "rMDSPTT"]
+	path = rMDSPTT
+	url = https://github.com/cran/rMDSPTT
 [submodule "rMEA"]
 	path = rMEA
 	url = https://github.com/cran/rMEA
@@ -63842,6 +63869,9 @@
 [submodule "rules"]
 	path = rules
 	url = https://github.com/cran/rules
+[submodule "rumenGP"]
+	path = rumenGP
+	url = https://github.com/cran/rumenGP
 [submodule "rumidas"]
 	path = rumidas
 	url = https://github.com/cran/rumidas
@@ -66011,6 +66041,9 @@
 [submodule "shinyHeatmaply"]
 	path = shinyHeatmaply
 	url = https://github.com/cran/shinyHeatmaply
+[submodule "shinyHierarchy"]
+	path = shinyHierarchy
+	url = https://github.com/cran/shinyHierarchy
 [submodule "shinyHugePlot"]
 	path = shinyHugePlot
 	url = https://github.com/cran/shinyHugePlot
@@ -71813,6 +71846,9 @@
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/cran/timereg
+[submodule "timesift"]
+	path = timesift
+	url = https://github.com/cran/timesift
 [submodule "timetk"]
 	path = timetk
 	url = https://github.com/cran/timetk
@@ -75815,6 +75851,9 @@
 [submodule "yahoofinancer"]
 	path = yahoofinancer
 	url = https://github.com/cran/yahoofinancer
+[submodule "yaleBraille"]
+	path = yaleBraille
+	url = https://github.com/cran/yaleBraille
 [submodule "yaml"]
 	path = yaml
 	url = https://github.com/cran/yaml
@@ -76070,6 +76109,9 @@
 [submodule "ztype"]
 	path = ztype
 	url = https://github.com/cran/ztype
+[submodule "zujson"]
+	path = zujson
+	url = https://github.com/cran/zujson
 [submodule "zyp"]
 	path = zyp
 	url = https://github.com/cran/zyp
