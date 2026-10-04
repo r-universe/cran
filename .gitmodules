@@ -25700,9 +25700,6 @@
 [submodule "biocompute"]
 	path = biocompute
 	url = https://github.com/cran/biocompute
-[submodule "biodosetools"]
-	path = biodosetools
-	url = https://github.com/cran/biodosetools
 [submodule "biofetchR"]
 	path = biofetchR
 	url = https://github.com/cran/biofetchR
@@ -50045,9 +50042,6 @@
 [submodule "minipdf"]
 	path = minipdf
 	url = https://github.com/cran/minipdf
-[submodule "minired"]
-	path = minired
-	url = https://github.com/cran/minired
 [submodule "minirocketR"]
 	path = minirocketR
 	url = https://github.com/cran/minirocketR
