@@ -668,6 +668,9 @@
 [submodule "AlphaPowerHazard"]
 	path = AlphaPowerHazard
 	url = https://github.com/cran/AlphaPowerHazard
+[submodule "AlphaSDM"]
+	path = AlphaSDM
+	url = https://github.com/cran/AlphaSDM
 [submodule "AlphaSimR"]
 	path = AlphaSimR
 	url = https://github.com/cran/AlphaSimR
@@ -8060,6 +8063,9 @@
 [submodule "GsymPoint"]
 	path = GsymPoint
 	url = https://github.com/cran/GsymPoint
+[submodule "Gtheory4LLM"]
+	path = Gtheory4LLM
+	url = https://github.com/cran/Gtheory4LLM
 [submodule "Guerry"]
 	path = Guerry
 	url = https://github.com/cran/Guerry
@@ -31418,6 +31424,9 @@
 [submodule "daiquiri"]
 	path = daiquiri
 	url = https://github.com/cran/daiquiri
+[submodule "daisytools"]
+	path = daisytools
+	url = https://github.com/cran/daisytools
 [submodule "daltoolbox"]
 	path = daltoolbox
 	url = https://github.com/cran/daltoolbox
@@ -36857,6 +36866,9 @@
 [submodule "fdatest"]
 	path = fdatest
 	url = https://github.com/cran/fdatest
+[submodule "fdb"]
+	path = fdb
+	url = https://github.com/cran/fdb
 [submodule "fdclassify"]
 	path = fdclassify
 	url = https://github.com/cran/fdclassify
@@ -39497,6 +39509,9 @@
 [submodule "geomorph"]
 	path = geomorph
 	url = https://github.com/cran/geomorph
+[submodule "geomorphR"]
+	path = geomorphR
+	url = https://github.com/cran/geomorphR
 [submodule "geomtextpath"]
 	path = geomtextpath
 	url = https://github.com/cran/geomtextpath
