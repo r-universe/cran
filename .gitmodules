@@ -20699,6 +20699,9 @@
 [submodule "TheseusPlot"]
 	path = TheseusPlot
 	url = https://github.com/cran/TheseusPlot
+[submodule "ThesiStats"]
+	path = ThesiStats
+	url = https://github.com/cran/ThesiStats
 [submodule "ThinkingGrid"]
 	path = ThinkingGrid
 	url = https://github.com/cran/ThinkingGrid
@@ -24317,6 +24320,9 @@
 [submodule "aws"]
 	path = aws
 	url = https://github.com/cran/aws
+[submodule "aws.ec2metadata"]
+	path = aws.ec2metadata
+	url = https://github.com/cran/aws.ec2metadata
 [submodule "aws.ecx"]
 	path = aws.ecx
 	url = https://github.com/cran/aws.ecx
@@ -68399,6 +68405,9 @@
 [submodule "splithalfr"]
 	path = splithalfr
 	url = https://github.com/cran/splithalfr
+[submodule "splitpopsurv"]
+	path = splitpopsurv
+	url = https://github.com/cran/splitpopsurv
 [submodule "splitr"]
 	path = splitr
 	url = https://github.com/cran/splitr
