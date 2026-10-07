@@ -46793,6 +46793,9 @@
 [submodule "legion"]
 	path = legion
 	url = https://github.com/cran/legion
+[submodule "legiretraite"]
+	path = legiretraite
+	url = https://github.com/cran/legiretraite
 [submodule "legislatoR"]
 	path = legislatoR
 	url = https://github.com/cran/legislatoR
@@ -76268,6 +76271,9 @@
 [submodule "zujson"]
 	path = zujson
 	url = https://github.com/cran/zujson
+[submodule "zuyaml"]
+	path = zuyaml
+	url = https://github.com/cran/zuyaml
 [submodule "zyp"]
 	path = zyp
 	url = https://github.com/cran/zyp
