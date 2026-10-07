@@ -5300,6 +5300,9 @@
 [submodule "DynareR"]
 	path = DynareR
 	url = https://github.com/cran/DynareR
+[submodule "Dynet"]
+	path = Dynet
+	url = https://github.com/cran/Dynet
 [submodule "DysPIA"]
 	path = DysPIA
 	url = https://github.com/cran/DysPIA
@@ -5375,6 +5378,9 @@
 [submodule "EDE"]
 	path = EDE
 	url = https://github.com/cran/EDE
+[submodule "EDI"]
+	path = EDI
+	url = https://github.com/cran/EDI
 [submodule "EDISON"]
 	path = EDISON
 	url = https://github.com/cran/EDISON
@@ -29324,6 +29330,9 @@
 [submodule "coldrift"]
 	path = coldrift
 	url = https://github.com/cran/coldrift
+[submodule "coldstart"]
+	path = coldstart
+	url = https://github.com/cran/coldstart
 [submodule "collapse"]
 	path = collapse
 	url = https://github.com/cran/collapse
@@ -32084,6 +32093,9 @@
 [submodule "decisionSupport"]
 	path = decisionSupport
 	url = https://github.com/cran/decisionSupport
+[submodule "decisionfacets"]
+	path = decisionfacets
+	url = https://github.com/cran/decisionfacets
 [submodule "decisionpaths"]
 	path = decisionpaths
 	url = https://github.com/cran/decisionpaths
@@ -33566,6 +33578,9 @@
 [submodule "dragmapr"]
 	path = dragmapr
 	url = https://github.com/cran/dragmapr
+[submodule "dragonfarm"]
+	path = dragonfarm
+	url = https://github.com/cran/dragonfarm
 [submodule "dragonking"]
 	path = dragonking
 	url = https://github.com/cran/dragonking
@@ -33635,6 +33650,9 @@
 [submodule "drifter"]
 	path = drifter
 	url = https://github.com/cran/drifter
+[submodule "driftwatch"]
+	path = driftwatch
+	url = https://github.com/cran/driftwatch
 [submodule "drimmR"]
 	path = drimmR
 	url = https://github.com/cran/drimmR
@@ -49634,6 +49652,9 @@
 [submodule "metaviz"]
 	path = metaviz
 	url = https://github.com/cran/metaviz
+[submodule "metaweave"]
+	path = metaweave
+	url = https://github.com/cran/metaweave
 [submodule "metawho"]
 	path = metawho
 	url = https://github.com/cran/metawho
@@ -56057,6 +56078,9 @@
 [submodule "pecanr"]
 	path = pecanr
 	url = https://github.com/cran/pecanr
+[submodule "pecme"]
+	path = pecme
+	url = https://github.com/cran/pecme
 [submodule "pecora"]
 	path = pecora
 	url = https://github.com/cran/pecora
@@ -73235,6 +73259,9 @@
 [submodule "turboEM"]
 	path = turboEM
 	url = https://github.com/cran/turboEM
+[submodule "turfLP"]
+	path = turfLP
+	url = https://github.com/cran/turfLP
 [submodule "turkeyelections"]
 	path = turkeyelections
 	url = https://github.com/cran/turkeyelections
