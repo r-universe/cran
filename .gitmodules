@@ -2249,6 +2249,9 @@
 [submodule "BoutrosLab.plotting.general"]
 	path = BoutrosLab.plotting.general
 	url = https://github.com/cran/BoutrosLab.plotting.general
+[submodule "BoxDensityPlot"]
+	path = BoxDensityPlot
+	url = https://github.com/cran/BoxDensityPlot
 [submodule "BradleyTerry2"]
 	path = BradleyTerry2
 	url = https://github.com/cran/BradleyTerry2
@@ -5654,6 +5657,9 @@
 [submodule "ESG"]
 	path = ESG
 	url = https://github.com/cran/ESG
+[submodule "ET0TempModels"]
+	path = ET0TempModels
+	url = https://github.com/cran/ET0TempModels
 [submodule "ETAS"]
 	path = ETAS
 	url = https://github.com/cran/ETAS
@@ -9698,6 +9704,9 @@
 [submodule "Kernelheaping"]
 	path = Kernelheaping
 	url = https://github.com/cran/Kernelheaping
+[submodule "KeyNubLicDongle"]
+	path = KeyNubLicDongle
+	url = https://github.com/cran/KeyNubLicDongle
 [submodule "Keyboard"]
 	path = Keyboard
 	url = https://github.com/cran/Keyboard
@@ -23702,6 +23711,9 @@
 [submodule "arcstat"]
 	path = arcstat
 	url = https://github.com/cran/arcstat
+[submodule "ardea"]
+	path = ardea
+	url = https://github.com/cran/ardea
 [submodule "ardl.nardl"]
 	path = ardl.nardl
 	url = https://github.com/cran/ardl.nardl
@@ -28463,6 +28475,9 @@
 [submodule "citecorp"]
 	path = citecorp
 	url = https://github.com/cran/citecorp
+[submodule "citesperu"]
+	path = citesperu
+	url = https://github.com/cran/citesperu
 [submodule "citestR"]
 	path = citestR
 	url = https://github.com/cran/citestR
@@ -42659,6 +42674,9 @@
 [submodule "heterogen"]
 	path = heterogen
 	url = https://github.com/cran/heterogen
+[submodule "heterogeneouspeereffects"]
+	path = heterogeneouspeereffects
+	url = https://github.com/cran/heterogeneouspeereffects
 [submodule "heterometa"]
 	path = heterometa
 	url = https://github.com/cran/heterometa
@@ -62024,6 +62042,9 @@
 [submodule "retentionflow"]
 	path = retentionflow
 	url = https://github.com/cran/retentionflow
+[submodule "retestR"]
+	path = retestR
+	url = https://github.com/cran/retestR
 [submodule "rethinker"]
 	path = rethinker
 	url = https://github.com/cran/rethinker
@@ -65690,6 +65711,9 @@
 [submodule "seqSHP"]
 	path = seqSHP
 	url = https://github.com/cran/seqSHP
+[submodule "seqbench"]
+	path = seqbench
+	url = https://github.com/cran/seqbench
 [submodule "seqcomp"]
 	path = seqcomp
 	url = https://github.com/cran/seqcomp
@@ -66653,6 +66677,9 @@
 [submodule "siland"]
 	path = siland
 	url = https://github.com/cran/siland
+[submodule "silentema"]
+	path = silentema
+	url = https://github.com/cran/silentema
 [submodule "silicate"]
 	path = silicate
 	url = https://github.com/cran/silicate
@@ -71501,6 +71528,9 @@
 [submodule "thriftr"]
 	path = thriftr
 	url = https://github.com/cran/thriftr
+[submodule "throughyear"]
+	path = throughyear
+	url = https://github.com/cran/throughyear
 [submodule "thunder"]
 	path = thunder
 	url = https://github.com/cran/thunder
@@ -71735,6 +71765,9 @@
 [submodule "tidylog"]
 	path = tidylog
 	url = https://github.com/cran/tidylog
+[submodule "tidymatrix"]
+	path = tidymatrix
+	url = https://github.com/cran/tidymatrix
 [submodule "tidymodels"]
 	path = tidymodels
 	url = https://github.com/cran/tidymodels
@@ -72572,6 +72605,9 @@
 [submodule "tradepolicy"]
 	path = tradepolicy
 	url = https://github.com/cran/tradepolicy
+[submodule "tradesimr"]
+	path = tradesimr
+	url = https://github.com/cran/tradesimr
 [submodule "tradestatistics"]
 	path = tradestatistics
 	url = https://github.com/cran/tradestatistics
@@ -72635,6 +72671,9 @@
 [submodule "transDA"]
 	path = transDA
 	url = https://github.com/cran/transDA
+[submodule "transDIF"]
+	path = transDIF
+	url = https://github.com/cran/transDIF
 [submodule "transGFM"]
 	path = transGFM
 	url = https://github.com/cran/transGFM
@@ -73007,6 +73046,9 @@
 [submodule "tsSelect"]
 	path = tsSelect
 	url = https://github.com/cran/tsSelect
+[submodule "tsahr"]
+	path = tsahr
+	url = https://github.com/cran/tsahr
 [submodule "tsallisqexp"]
 	path = tsallisqexp
 	url = https://github.com/cran/tsallisqexp
