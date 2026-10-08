@@ -9623,6 +9623,9 @@
 [submodule "KOR.addrlink"]
 	path = KOR.addrlink
 	url = https://github.com/cran/KOR.addrlink
+[submodule "KOTORY"]
+	path = KOTORY
+	url = https://github.com/cran/KOTORY
 [submodule "KPC"]
 	path = KPC
 	url = https://github.com/cran/KPC
@@ -14180,6 +14183,9 @@
 [submodule "PairedData"]
 	path = PairedData
 	url = https://github.com/cran/PairedData
+[submodule "PairedRand"]
+	path = PairedRand
+	url = https://github.com/cran/PairedRand
 [submodule "PakPC2017"]
 	path = PakPC2017
 	url = https://github.com/cran/PakPC2017
@@ -18299,6 +18305,9 @@
 [submodule "SINRELEF.LD"]
 	path = SINRELEF.LD
 	url = https://github.com/cran/SINRELEF.LD
+[submodule "SINT"]
+	path = SINT
+	url = https://github.com/cran/SINT
 [submodule "SIP"]
 	path = SIP
 	url = https://github.com/cran/SIP
@@ -20093,6 +20102,9 @@
 [submodule "SynDI"]
 	path = SynDI
 	url = https://github.com/cran/SynDI
+[submodule "SyncER"]
+	path = SyncER
+	url = https://github.com/cran/SyncER
 [submodule "SyncERdata"]
 	path = SyncERdata
 	url = https://github.com/cran/SyncERdata
@@ -27215,6 +27227,9 @@
 [submodule "capl"]
 	path = capl
 	url = https://github.com/cran/capl
+[submodule "caples"]
+	path = caples
+	url = https://github.com/cran/caples
 [submodule "caplot"]
 	path = caplot
 	url = https://github.com/cran/caplot
@@ -42053,6 +42068,9 @@
 [submodule "gtsummary"]
 	path = gtsummary
 	url = https://github.com/cran/gtsummary
+[submodule "gtxlsx"]
+	path = gtxlsx
+	url = https://github.com/cran/gtxlsx
 [submodule "guaguas"]
 	path = guaguas
 	url = https://github.com/cran/guaguas
@@ -46397,6 +46415,9 @@
 [submodule "lancor"]
 	path = lancor
 	url = https://github.com/cran/lancor
+[submodule "land4health"]
+	path = land4health
+	url = https://github.com/cran/land4health
 [submodule "landest"]
 	path = landest
 	url = https://github.com/cran/landest
@@ -49574,6 +49595,9 @@
 [submodule "metajam"]
 	path = metajam
 	url = https://github.com/cran/metajam
+[submodule "metalabr"]
+	path = metalabr
+	url = https://github.com/cran/metalabr
 [submodule "metalcor"]
 	path = metalcor
 	url = https://github.com/cran/metalcor
@@ -58640,6 +58664,9 @@
 [submodule "proxyC"]
 	path = proxyC
 	url = https://github.com/cran/proxyC
+[submodule "proxymix"]
+	path = proxymix
+	url = https://github.com/cran/proxymix
 [submodule "prozor"]
 	path = prozor
 	url = https://github.com/cran/prozor
@@ -60023,6 +60050,9 @@
 [submodule "rLifting"]
 	path = rLifting
 	url = https://github.com/cran/rLifting
+[submodule "rMCHSPTT"]
+	path = rMCHSPTT
+	url = https://github.com/cran/rMCHSPTT
 [submodule "rMDSPTT"]
 	path = rMDSPTT
 	url = https://github.com/cran/rMDSPTT
@@ -75842,6 +75872,9 @@
 [submodule "xkcdcolors"]
 	path = xkcdcolors
 	url = https://github.com/cran/xkcdcolors
+[submodule "xlamisc"]
+	path = xlamisc
+	url = https://github.com/cran/xlamisc
 [submodule "xlcharts"]
 	path = xlcharts
 	url = https://github.com/cran/xlcharts
