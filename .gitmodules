@@ -3833,6 +3833,9 @@
 [submodule "ContourFunctions"]
 	path = ContourFunctions
 	url = https://github.com/cran/ContourFunctions
+[submodule "ConvergeR"]
+	path = ConvergeR
+	url = https://github.com/cran/ConvergeR
 [submodule "ConvergenceClubs"]
 	path = ConvergenceClubs
 	url = https://github.com/cran/ConvergenceClubs
@@ -5033,6 +5036,9 @@
 [submodule "DiSSMod"]
 	path = DiSSMod
 	url = https://github.com/cran/DiSSMod
+[submodule "DiagnostySize"]
+	path = DiagnostySize
+	url = https://github.com/cran/DiagnostySize
 [submodule "DiagrammeR"]
 	path = DiagrammeR
 	url = https://github.com/cran/DiagrammeR
@@ -5717,6 +5723,9 @@
 [submodule "EZFragility"]
 	path = EZFragility
 	url = https://github.com/cran/EZFragility
+[submodule "EZRShiny"]
+	path = EZRShiny
+	url = https://github.com/cran/EZRShiny
 [submodule "EZbakR"]
 	path = EZbakR
 	url = https://github.com/cran/EZbakR
@@ -7868,6 +7877,9 @@
 [submodule "GeoFIS"]
 	path = GeoFIS
 	url = https://github.com/cran/GeoFIS
+[submodule "GeoIndexR"]
+	path = GeoIndexR
+	url = https://github.com/cran/GeoIndexR
 [submodule "GeoModels"]
 	path = GeoModels
 	url = https://github.com/cran/GeoModels
@@ -10658,6 +10670,9 @@
 [submodule "MCARtest"]
 	path = MCARtest
 	url = https://github.com/cran/MCARtest
+[submodule "MCAtools"]
+	path = MCAtools
+	url = https://github.com/cran/MCAtools
 [submodule "MCAvariants"]
 	path = MCAvariants
 	url = https://github.com/cran/MCAvariants
@@ -12602,6 +12617,9 @@
 [submodule "NSC"]
 	path = NSC
 	url = https://github.com/cran/NSC
+[submodule "NSCA"]
+	path = NSCA
+	url = https://github.com/cran/NSCA
 [submodule "NSM3"]
 	path = NSM3
 	url = https://github.com/cran/NSM3
@@ -13730,6 +13748,9 @@
 [submodule "PICBayes"]
 	path = PICBayes
 	url = https://github.com/cran/PICBayes
+[submodule "PICOTsize"]
+	path = PICOTsize
+	url = https://github.com/cran/PICOTsize
 [submodule "PIE"]
 	path = PIE
 	url = https://github.com/cran/PIE
@@ -17264,6 +17285,9 @@
 [submodule "ResidentialEnergyConsumption"]
 	path = ResidentialEnergyConsumption
 	url = https://github.com/cran/ResidentialEnergyConsumption
+[submodule "ResistantProcrustes"]
+	path = ResistantProcrustes
+	url = https://github.com/cran/ResistantProcrustes
 [submodule "ResistorArray"]
 	path = ResistorArray
 	url = https://github.com/cran/ResistorArray
@@ -19058,6 +19082,9 @@
 [submodule "SeqMADE"]
 	path = SeqMADE
 	url = https://github.com/cran/SeqMADE
+[submodule "SeqNet"]
+	path = SeqNet
+	url = https://github.com/cran/SeqNet
 [submodule "SequenceSpikeSlab"]
 	path = SequenceSpikeSlab
 	url = https://github.com/cran/SequenceSpikeSlab
@@ -21128,6 +21155,9 @@
 [submodule "UKgrid"]
 	path = UKgrid
 	url = https://github.com/cran/UKgrid
+[submodule "UMDA"]
+	path = UMDA
+	url = https://github.com/cran/UMDA
 [submodule "UNCOVER"]
 	path = UNCOVER
 	url = https://github.com/cran/UNCOVER
@@ -31889,6 +31919,9 @@
 [submodule "dbarts"]
 	path = dbarts
 	url = https://github.com/cran/dbarts
+[submodule "dbcturbo"]
+	path = dbcturbo
+	url = https://github.com/cran/dbcturbo
 [submodule "dbd"]
 	path = dbd
 	url = https://github.com/cran/dbd
@@ -37958,6 +37991,9 @@
 [submodule "foreign"]
 	path = foreign
 	url = https://github.com/cran/foreign
+[submodule "forensicR"]
+	path = forensicR
+	url = https://github.com/cran/forensicR
 [submodule "forensicolors"]
 	path = forensicolors
 	url = https://github.com/cran/forensicolors
@@ -42494,6 +42530,9 @@
 [submodule "hdrcde"]
 	path = hdrcde
 	url = https://github.com/cran/hdrcde
+[submodule "hdrm"]
+	path = hdrm
+	url = https://github.com/cran/hdrm
 [submodule "hds"]
 	path = hds
 	url = https://github.com/cran/hds
@@ -44927,6 +44966,9 @@
 [submodule "ircor"]
 	path = ircor
 	url = https://github.com/cran/ircor
+[submodule "irelink"]
+	path = irelink
+	url = https://github.com/cran/irelink
 [submodule "irg"]
 	path = irg
 	url = https://github.com/cran/irg
@@ -51140,6 +51182,9 @@
 [submodule "mongolite"]
 	path = mongolite
 	url = https://github.com/cran/mongolite
+[submodule "mongolmaps"]
+	path = mongolmaps
+	url = https://github.com/cran/mongolmaps
 [submodule "mongolstats"]
 	path = mongolstats
 	url = https://github.com/cran/mongolstats
@@ -54125,6 +54170,9 @@
 [submodule "octopusR"]
 	path = octopusR
 	url = https://github.com/cran/octopusR
+[submodule "ocupacoesBR"]
+	path = ocupacoesBR
+	url = https://github.com/cran/ocupacoesBR
 [submodule "od"]
 	path = od
 	url = https://github.com/cran/od
@@ -62627,6 +62675,9 @@
 [submodule "rjd3bench"]
 	path = rjd3bench
 	url = https://github.com/cran/rjd3bench
+[submodule "rjd3filters"]
+	path = rjd3filters
+	url = https://github.com/cran/rjd3filters
 [submodule "rjd3jars"]
 	path = rjd3jars
 	url = https://github.com/cran/rjd3jars
@@ -64772,6 +64823,9 @@
 [submodule "sbw"]
 	path = sbw
 	url = https://github.com/cran/sbw
+[submodule "sbwadjust"]
+	path = sbwadjust
+	url = https://github.com/cran/sbwadjust
 [submodule "sc2sc"]
 	path = sc2sc
 	url = https://github.com/cran/sc2sc
@@ -70493,6 +70547,9 @@
 [submodule "symptomcheckR"]
 	path = symptomcheckR
 	url = https://github.com/cran/symptomcheckR
+[submodule "symtests"]
+	path = symtests
+	url = https://github.com/cran/symtests
 [submodule "syn"]
 	path = syn
 	url = https://github.com/cran/syn
@@ -71690,6 +71747,9 @@
 [submodule "tidycountries"]
 	path = tidycountries
 	url = https://github.com/cran/tidycountries
+[submodule "tidycreel"]
+	path = tidycreel
+	url = https://github.com/cran/tidycreel
 [submodule "tidycwl"]
 	path = tidycwl
 	url = https://github.com/cran/tidycwl
@@ -71798,6 +71858,9 @@
 [submodule "tidymatrix"]
 	path = tidymatrix
 	url = https://github.com/cran/tidymatrix
+[submodule "tidymedia"]
+	path = tidymedia
+	url = https://github.com/cran/tidymedia
 [submodule "tidymodels"]
 	path = tidymodels
 	url = https://github.com/cran/tidymodels
@@ -72359,6 +72422,9 @@
 [submodule "todor"]
 	path = todor
 	url = https://github.com/cran/todor
+[submodule "toeclim"]
+	path = toeclim
+	url = https://github.com/cran/toeclim
 [submodule "togglr"]
 	path = togglr
 	url = https://github.com/cran/togglr
@@ -75533,6 +75599,9 @@
 [submodule "wordPuzzleR"]
 	path = wordPuzzleR
 	url = https://github.com/cran/wordPuzzleR
+[submodule "wordbankr"]
+	path = wordbankr
+	url = https://github.com/cran/wordbankr
 [submodule "wordcloud"]
 	path = wordcloud
 	url = https://github.com/cran/wordcloud
