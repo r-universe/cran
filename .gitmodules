@@ -4832,9 +4832,6 @@
 [submodule "DataSetsUni"]
 	path = DataSetsUni
 	url = https://github.com/cran/DataSetsUni
-[submodule "DataSetsVerse"]
-	path = DataSetsVerse
-	url = https://github.com/cran/DataSetsVerse
 [submodule "DataSimilarity"]
 	path = DataSimilarity
 	url = https://github.com/cran/DataSimilarity
@@ -11696,9 +11693,6 @@
 [submodule "MeasurementDiagnostics"]
 	path = MeasurementDiagnostics
 	url = https://github.com/cran/MeasurementDiagnostics
-[submodule "MedDataSets"]
-	path = MedDataSets
-	url = https://github.com/cran/MedDataSets
 [submodule "MedDietCalc"]
 	path = MedDietCalc
 	url = https://github.com/cran/MedDietCalc
@@ -13811,6 +13805,9 @@
 [submodule "PLIS"]
 	path = PLIS
 	url = https://github.com/cran/PLIS
+[submodule "PLMIX"]
+	path = PLMIX
+	url = https://github.com/cran/PLMIX
 [submodule "PLNmodels"]
 	path = PLNmodels
 	url = https://github.com/cran/PLNmodels
@@ -60893,6 +60890,9 @@
 [submodule "rbreak"]
 	path = rbreak
 	url = https://github.com/cran/rbreak
+[submodule "rbridge"]
+	path = rbridge
+	url = https://github.com/cran/rbridge
 [submodule "rbscCI"]
 	path = rbscCI
 	url = https://github.com/cran/rbscCI
