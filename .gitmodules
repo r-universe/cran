@@ -8063,6 +8063,9 @@
 [submodule "GreedyExperimentalDesignJARs"]
 	path = GreedyExperimentalDesignJARs
 	url = https://github.com/cran/GreedyExperimentalDesignJARs
+[submodule "GreenManureR"]
+	path = GreenManureR
+	url = https://github.com/cran/GreenManureR
 [submodule "Greg"]
 	path = Greg
 	url = https://github.com/cran/Greg
@@ -20981,6 +20984,9 @@
 [submodule "TrendLSW"]
 	path = TrendLSW
 	url = https://github.com/cran/TrendLSW
+[submodule "TrendSLR"]
+	path = TrendSLR
+	url = https://github.com/cran/TrendSLR
 [submodule "TrendTM"]
 	path = TrendTM
 	url = https://github.com/cran/TrendTM
@@ -23639,6 +23645,9 @@
 [submodule "apsimeval"]
 	path = apsimeval
 	url = https://github.com/cran/apsimeval
+[submodule "apsimwise"]
+	path = apsimwise
+	url = https://github.com/cran/apsimwise
 [submodule "apsimx"]
 	path = apsimx
 	url = https://github.com/cran/apsimx
@@ -35357,6 +35366,9 @@
 [submodule "epidict"]
 	path = epidict
 	url = https://github.com/cran/epidict
+[submodule "epidist"]
+	path = epidist
+	url = https://github.com/cran/epidist
 [submodule "epidm"]
 	path = epidm
 	url = https://github.com/cran/epidm
@@ -38000,6 +38012,9 @@
 [submodule "forensim"]
 	path = forensim
 	url = https://github.com/cran/forensim
+[submodule "foresightr"]
+	path = foresightr
+	url = https://github.com/cran/foresightr
 [submodule "forestBalance"]
 	path = forestBalance
 	url = https://github.com/cran/forestBalance
@@ -46754,6 +46769,9 @@
 [submodule "ldmppr"]
 	path = ldmppr
 	url = https://github.com/cran/ldmppr
+[submodule "ldpdist"]
+	path = ldpdist
+	url = https://github.com/cran/ldpdist
 [submodule "ldsep"]
 	path = ldsep
 	url = https://github.com/cran/ldsep
@@ -57494,6 +57512,9 @@
 [submodule "png"]
 	path = png
 	url = https://github.com/cran/png
+[submodule "pnotp"]
+	path = pnotp
+	url = https://github.com/cran/pnotp
 [submodule "poLCA"]
 	path = poLCA
 	url = https://github.com/cran/poLCA
@@ -63980,6 +64001,9 @@
 [submodule "rtemis.core"]
 	path = rtemis.core
 	url = https://github.com/cran/rtemis.core
+[submodule "rtemis.draw"]
+	path = rtemis.draw
+	url = https://github.com/cran/rtemis.draw
 [submodule "rtemis.llm"]
 	path = rtemis.llm
 	url = https://github.com/cran/rtemis.llm
@@ -64592,6 +64616,9 @@
 [submodule "sampledatasets"]
 	path = sampledatasets
 	url = https://github.com/cran/sampledatasets
+[submodule "sampleone"]
+	path = sampleone
+	url = https://github.com/cran/sampleone
 [submodule "sampler"]
 	path = sampler
 	url = https://github.com/cran/sampler
@@ -65354,6 +65381,9 @@
 [submodule "sdrt"]
 	path = sdrt
 	url = https://github.com/cran/sdrt
+[submodule "sds"]
+	path = sds
+	url = https://github.com/cran/sds
 [submodule "sdsfun"]
 	path = sdsfun
 	url = https://github.com/cran/sdsfun
