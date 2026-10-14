@@ -15386,6 +15386,9 @@
 [submodule "RBF"]
 	path = RBF
 	url = https://github.com/cran/RBF
+[submodule "RBMRB"]
+	path = RBMRB
+	url = https://github.com/cran/RBMRB
 [submodule "RBNZ"]
 	path = RBNZ
 	url = https://github.com/cran/RBNZ
@@ -27179,6 +27182,9 @@
 [submodule "calpassapi"]
 	path = calpassapi
 	url = https://github.com/cran/calpassapi
+[submodule "cam2model"]
+	path = cam2model
+	url = https://github.com/cran/cam2model
 [submodule "camcorder"]
 	path = camcorder
 	url = https://github.com/cran/camcorder
@@ -35270,6 +35276,9 @@
 [submodule "enviPat"]
 	path = enviPat
 	url = https://github.com/cran/enviPat
+[submodule "enviPathR"]
+	path = enviPathR
+	url = https://github.com/cran/enviPathR
 [submodule "envir"]
 	path = envir
 	url = https://github.com/cran/envir
@@ -39980,6 +39989,9 @@
 [submodule "ggalluvial"]
 	path = ggalluvial
 	url = https://github.com/cran/ggalluvial
+[submodule "ggaltdata"]
+	path = ggaltdata
+	url = https://github.com/cran/ggaltdata
 [submodule "ggalttext"]
 	path = ggalttext
 	url = https://github.com/cran/ggalttext
@@ -64709,6 +64721,9 @@
 [submodule "sandwich"]
 	path = sandwich
 	url = https://github.com/cran/sandwich
+[submodule "sandwichrand"]
+	path = sandwichrand
+	url = https://github.com/cran/sandwichrand
 [submodule "sanic"]
 	path = sanic
 	url = https://github.com/cran/sanic
