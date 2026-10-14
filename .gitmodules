@@ -26702,6 +26702,9 @@
 [submodule "broadcast"]
 	path = broadcast
 	url = https://github.com/cran/broadcast
+[submodule "brochure"]
+	path = brochure
+	url = https://github.com/cran/brochure
 [submodule "brokenstick"]
 	path = brokenstick
 	url = https://github.com/cran/brokenstick
@@ -38423,6 +38426,9 @@
 [submodule "frontmatter"]
 	path = frontmatter
 	url = https://github.com/cran/frontmatter
+[submodule "frostlake"]
+	path = frostlake
+	url = https://github.com/cran/frostlake
 [submodule "frostr"]
 	path = frostr
 	url = https://github.com/cran/frostr
@@ -45413,6 +45419,9 @@
 [submodule "jds.rmd"]
 	path = jds.rmd
 	url = https://github.com/cran/jds.rmd
+[submodule "jekylldown"]
+	path = jekylldown
+	url = https://github.com/cran/jekylldown
 [submodule "jellyfisher"]
 	path = jellyfisher
 	url = https://github.com/cran/jellyfisher
@@ -52463,6 +52472,9 @@
 [submodule "n1qn1"]
 	path = n1qn1
 	url = https://github.com/cran/n1qn1
+[submodule "n3d"]
+	path = n3d
+	url = https://github.com/cran/n3d
 [submodule "nFactors"]
 	path = nFactors
 	url = https://github.com/cran/nFactors
@@ -56795,6 +56807,9 @@
 [submodule "phylopath"]
 	path = phylopath
 	url = https://github.com/cran/phylopath
+[submodule "phylopred"]
+	path = phylopred
+	url = https://github.com/cran/phylopred
 [submodule "phyloraster"]
 	path = phyloraster
 	url = https://github.com/cran/phyloraster
@@ -58988,6 +59003,9 @@
 [submodule "public.ctn0094extra"]
 	path = public.ctn0094extra
 	url = https://github.com/cran/public.ctn0094extra
+[submodule "publicdataau"]
+	path = publicdataau
+	url = https://github.com/cran/publicdataau
 [submodule "publipha"]
 	path = publipha
 	url = https://github.com/cran/publipha
@@ -59765,6 +59783,9 @@
 [submodule "quickregression"]
 	path = quickregression
 	url = https://github.com/cran/quickregression
+[submodule "quicopt"]
+	path = quicopt
+	url = https://github.com/cran/quicopt
 [submodule "quid"]
 	path = quid
 	url = https://github.com/cran/quid
@@ -62174,6 +62195,9 @@
 [submodule "retrodesign"]
 	path = retrodesign
 	url = https://github.com/cran/retrodesign
+[submodule "retroglyph"]
+	path = retroglyph
+	url = https://github.com/cran/retroglyph
 [submodule "retroharmonize"]
 	path = retroharmonize
 	url = https://github.com/cran/retroharmonize
@@ -64910,6 +64934,9 @@
 [submodule "scModels"]
 	path = scModels
 	url = https://github.com/cran/scModels
+[submodule "scNPM"]
+	path = scNPM
+	url = https://github.com/cran/scNPM
 [submodule "scOntoMatch"]
 	path = scOntoMatch
 	url = https://github.com/cran/scOntoMatch
@@ -71564,6 +71591,9 @@
 [submodule "theRefdate"]
 	path = theRefdate
 	url = https://github.com/cran/theRefdate
+[submodule "theeuh"]
+	path = theeuh
+	url = https://github.com/cran/theeuh
 [submodule "theft"]
 	path = theft
 	url = https://github.com/cran/theft
