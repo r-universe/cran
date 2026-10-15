@@ -16502,6 +16502,9 @@
 [submodule "RTriangle"]
 	path = RTriangle
 	url = https://github.com/cran/RTriangle
+[submodule "RTrino"]
+	path = RTrino
+	url = https://github.com/cran/RTrino
 [submodule "RUnit"]
 	path = RUnit
 	url = https://github.com/cran/RUnit
@@ -27914,6 +27917,9 @@
 [submodule "censusapi"]
 	path = censusapi
 	url = https://github.com/cran/censusapi
+[submodule "censusindia"]
+	path = censusindia
+	url = https://github.com/cran/censusindia
 [submodule "censuspyrID"]
 	path = censuspyrID
 	url = https://github.com/cran/censuspyrID
@@ -40070,6 +40076,9 @@
 [submodule "ggcleveland"]
 	path = ggcleveland
 	url = https://github.com/cran/ggcleveland
+[submodule "ggcolonviz"]
+	path = ggcolonviz
+	url = https://github.com/cran/ggcolonviz
 [submodule "ggcompare"]
 	path = ggcompare
 	url = https://github.com/cran/ggcompare
@@ -49121,9 +49130,6 @@
 [submodule "mcmc"]
 	path = mcmc
 	url = https://github.com/cran/mcmc
-[submodule "mcmcderive"]
-	path = mcmcderive
-	url = https://github.com/cran/mcmcderive
 [submodule "mcmcensemble"]
 	path = mcmcensemble
 	url = https://github.com/cran/mcmcensemble
@@ -52913,6 +52919,9 @@
 [submodule "netmap"]
 	path = netmap
 	url = https://github.com/cran/netmap
+[submodule "netmatchRI"]
+	path = netmatchRI
+	url = https://github.com/cran/netmatchRI
 [submodule "netmediate"]
 	path = netmediate
 	url = https://github.com/cran/netmediate
