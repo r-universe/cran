@@ -2420,6 +2420,9 @@
 [submodule "CAinterprTools"]
 	path = CAinterprTools
 	url = https://github.com/cran/CAinterprTools
+[submodule "CAs"]
+	path = CAs
+	url = https://github.com/cran/CAs
 [submodule "CAvariants"]
 	path = CAvariants
 	url = https://github.com/cran/CAvariants
@@ -13124,6 +13127,9 @@
 [submodule "Observation"]
 	path = Observation
 	url = https://github.com/cran/Observation
+[submodule "OceanTracer"]
+	path = OceanTracer
+	url = https://github.com/cran/OceanTracer
 [submodule "OceanView"]
 	path = OceanView
 	url = https://github.com/cran/OceanView
@@ -17150,6 +17156,9 @@
 [submodule "Records"]
 	path = Records
 	url = https://github.com/cran/Records
+[submodule "RecoverMetricsR"]
+	path = RecoverMetricsR
+	url = https://github.com/cran/RecoverMetricsR
 [submodule "RedditExtractoR"]
 	path = RedditExtractoR
 	url = https://github.com/cran/RedditExtractoR
@@ -19679,6 +19688,9 @@
 [submodule "SpectralClMixed"]
 	path = SpectralClMixed
 	url = https://github.com/cran/SpectralClMixed
+[submodule "SpectralMM"]
+	path = SpectralMM
+	url = https://github.com/cran/SpectralMM
 [submodule "Spectran"]
 	path = Spectran
 	url = https://github.com/cran/Spectran
@@ -30029,6 +30041,9 @@
 [submodule "contentid"]
 	path = contentid
 	url = https://github.com/cran/contentid
+[submodule "contentiousR"]
+	path = contentiousR
+	url = https://github.com/cran/contentiousR
 [submodule "contentvalidR"]
 	path = contentvalidR
 	url = https://github.com/cran/contentvalidR
@@ -31640,6 +31655,9 @@
 [submodule "dashboardthemes"]
 	path = dashboardthemes
 	url = https://github.com/cran/dashboardthemes
+[submodule "dasklyr"]
+	path = dasklyr
+	url = https://github.com/cran/dasklyr
 [submodule "dat"]
 	path = dat
 	url = https://github.com/cran/dat
@@ -33488,6 +33506,9 @@
 [submodule "domino"]
 	path = domino
 	url = https://github.com/cran/domino
+[submodule "dominoise"]
+	path = dominoise
+	url = https://github.com/cran/dominoise
 [submodule "domir"]
 	path = domir
 	url = https://github.com/cran/domir
@@ -35531,6 +35552,9 @@
 [submodule "eqtesting"]
 	path = eqtesting
 	url = https://github.com/cran/eqtesting
+[submodule "eqty.sdk.r"]
+	path = eqty.sdk.r
+	url = https://github.com/cran/eqty.sdk.r
 [submodule "equalCovs"]
 	path = equalCovs
 	url = https://github.com/cran/equalCovs
@@ -42251,6 +42275,9 @@
 [submodule "h2o4gpu"]
 	path = h2o4gpu
 	url = https://github.com/cran/h2o4gpu
+[submodule "h2oplyr"]
+	path = h2oplyr
+	url = https://github.com/cran/h2oplyr
 [submodule "h2otools"]
 	path = h2otools
 	url = https://github.com/cran/h2otools
@@ -47216,6 +47243,9 @@
 [submodule "lime"]
 	path = lime
 	url = https://github.com/cran/lime
+[submodule "limestab"]
+	path = limestab
+	url = https://github.com/cran/limestab
 [submodule "limexhub"]
 	path = limexhub
 	url = https://github.com/cran/limexhub
@@ -62789,6 +62819,9 @@
 [submodule "rjqpd"]
 	path = rjqpd
 	url = https://github.com/cran/rjqpd
+[submodule "rjsf"]
+	path = rjsf
+	url = https://github.com/cran/rjsf
 [submodule "rjson"]
 	path = rjson
 	url = https://github.com/cran/rjson
@@ -67142,6 +67175,9 @@
 [submodule "simulMGF"]
 	path = simulMGF
 	url = https://github.com/cran/simulMGF
+[submodule "simulab"]
+	path = simulab
+	url = https://github.com/cran/simulab
 [submodule "simulariatools"]
 	path = simulariatools
 	url = https://github.com/cran/simulariatools
@@ -68483,6 +68519,9 @@
 [submodule "spec"]
 	path = spec
 	url = https://github.com/cran/spec
+[submodule "specProc"]
+	path = specProc
+	url = https://github.com/cran/specProc
 [submodule "speccurvieR"]
 	path = speccurvieR
 	url = https://github.com/cran/speccurvieR
@@ -73079,6 +73118,9 @@
 [submodule "trialdiff"]
 	path = trialdiff
 	url = https://github.com/cran/trialdiff
+[submodule "trialfigs"]
+	path = trialfigs
+	url = https://github.com/cran/trialfigs
 [submodule "trialr"]
 	path = trialr
 	url = https://github.com/cran/trialr
@@ -75842,6 +75884,9 @@
 [submodule "writeAlizer"]
 	path = writeAlizer
 	url = https://github.com/cran/writeAlizer
+[submodule "writeLog"]
+	path = writeLog
+	url = https://github.com/cran/writeLog
 [submodule "writer"]
 	path = writer
 	url = https://github.com/cran/writer
