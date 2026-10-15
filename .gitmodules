@@ -1358,6 +1358,9 @@
 [submodule "BMconcor"]
 	path = BMconcor
 	url = https://github.com/cran/BMconcor
+[submodule "BMeRL"]
+	path = BMeRL
+	url = https://github.com/cran/BMeRL
 [submodule "BMisc"]
 	path = BMisc
 	url = https://github.com/cran/BMisc
@@ -3863,6 +3866,9 @@
 [submodule "CoopGame"]
 	path = CoopGame
 	url = https://github.com/cran/CoopGame
+[submodule "CoopPostman"]
+	path = CoopPostman
+	url = https://github.com/cran/CoopPostman
 [submodule "CoordinateCleaner"]
 	path = CoordinateCleaner
 	url = https://github.com/cran/CoordinateCleaner
@@ -5534,6 +5540,9 @@
 [submodule "EMDANNhybrid"]
 	path = EMDANNhybrid
 	url = https://github.com/cran/EMDANNhybrid
+[submodule "EMDSSAForecast"]
+	path = EMDSSAForecast
+	url = https://github.com/cran/EMDSSAForecast
 [submodule "EMDSVRhybrid"]
 	path = EMDSVRhybrid
 	url = https://github.com/cran/EMDSVRhybrid
@@ -5858,6 +5867,9 @@
 [submodule "EmiR"]
 	path = EmiR
 	url = https://github.com/cran/EmiR
+[submodule "EmiStatR"]
+	path = EmiStatR
+	url = https://github.com/cran/EmiStatR
 [submodule "EmissV"]
 	path = EmissV
 	url = https://github.com/cran/EmissV
@@ -9320,6 +9332,9 @@
 [submodule "Interatrix"]
 	path = Interatrix
 	url = https://github.com/cran/Interatrix
+[submodule "InterconectaR"]
+	path = InterconectaR
+	url = https://github.com/cran/InterconectaR
 [submodule "InterfaceqPCR"]
 	path = InterfaceqPCR
 	url = https://github.com/cran/InterfaceqPCR
@@ -23696,6 +23711,9 @@
 [submodule "arabicStemR"]
 	path = arabicStemR
 	url = https://github.com/cran/arabicStemR
+[submodule "aradR"]
+	path = aradR
+	url = https://github.com/cran/aradR
 [submodule "arakno"]
 	path = arakno
 	url = https://github.com/cran/arakno
@@ -33842,6 +33860,9 @@
 [submodule "dsBaseClient"]
 	path = dsBaseClient
 	url = https://github.com/cran/dsBaseClient
+[submodule "dsFedAte"]
+	path = dsFedAte
+	url = https://github.com/cran/dsFedAte
 [submodule "dsROCrate"]
 	path = dsROCrate
 	url = https://github.com/cran/dsROCrate
@@ -35801,6 +35822,9 @@
 [submodule "ethnobotanyR"]
 	path = ethnobotanyR
 	url = https://github.com/cran/ethnobotanyR
+[submodule "ethnoecologyR"]
+	path = ethnoecologyR
+	url = https://github.com/cran/ethnoecologyR
 [submodule "etl"]
 	path = etl
 	url = https://github.com/cran/etl
@@ -38582,6 +38606,9 @@
 [submodule "fullfact"]
 	path = fullfact
 	url = https://github.com/cran/fullfact
+[submodule "fullmetaphone"]
+	path = fullmetaphone
+	url = https://github.com/cran/fullmetaphone
 [submodule "fun"]
 	path = fun
 	url = https://github.com/cran/fun
@@ -38771,6 +38798,9 @@
 [submodule "fuzzySim"]
 	path = fuzzySim
 	url = https://github.com/cran/fuzzySim
+[submodule "fuzzySurvival"]
+	path = fuzzySurvival
+	url = https://github.com/cran/fuzzySurvival
 [submodule "fuzzyforest"]
 	path = fuzzyforest
 	url = https://github.com/cran/fuzzyforest
@@ -40955,6 +40985,9 @@
 [submodule "gleifr"]
 	path = gleifr
 	url = https://github.com/cran/gleifr
+[submodule "glemb"]
+	path = glemb
+	url = https://github.com/cran/glemb
 [submodule "glinternet"]
 	path = glinternet
 	url = https://github.com/cran/glinternet
@@ -44855,6 +44888,9 @@
 [submodule "investdatar"]
 	path = investdatar
 	url = https://github.com/cran/investdatar
+[submodule "investlabr"]
+	path = investlabr
+	url = https://github.com/cran/investlabr
 [submodule "investr"]
 	path = investr
 	url = https://github.com/cran/investr
@@ -58964,6 +59000,9 @@
 [submodule "psychTools"]
 	path = psychTools
 	url = https://github.com/cran/psychTools
+[submodule "psychds"]
+	path = psychds
+	url = https://github.com/cran/psychds
 [submodule "psychmeta"]
 	path = psychmeta
 	url = https://github.com/cran/psychmeta
@@ -61313,6 +61352,9 @@
 [submodule "reactable.extras"]
 	path = reactable.extras
 	url = https://github.com/cran/reactable.extras
+[submodule "reactives"]
+	path = reactives
+	url = https://github.com/cran/reactives
 [submodule "reactlog"]
 	path = reactlog
 	url = https://github.com/cran/reactlog
@@ -61577,6 +61619,9 @@
 [submodule "recosystem"]
 	path = recosystem
 	url = https://github.com/cran/recosystem
+[submodule "recruitlag"]
+	path = recruitlag
+	url = https://github.com/cran/recruitlag
 [submodule "rectpacker"]
 	path = rectpacker
 	url = https://github.com/cran/rectpacker
@@ -64643,6 +64688,9 @@
 [submodule "safuzzy"]
 	path = safuzzy
 	url = https://github.com/cran/safuzzy
+[submodule "sage"]
+	path = sage
+	url = https://github.com/cran/sage
 [submodule "sageR"]
 	path = sageR
 	url = https://github.com/cran/sageR
@@ -70799,6 +70847,9 @@
 [submodule "tabbitR"]
 	path = tabbitR
 	url = https://github.com/cran/tabbitR
+[submodule "tabby"]
+	path = tabby
+	url = https://github.com/cran/tabby
 [submodule "tabbycat"]
 	path = tabbycat
 	url = https://github.com/cran/tabbycat
@@ -73424,6 +73475,9 @@
 [submodule "tssim"]
 	path = tssim
 	url = https://github.com/cran/tssim
+[submodule "tsspiral"]
+	path = tsspiral
+	url = https://github.com/cran/tsspiral
 [submodule "tstests"]
 	path = tstests
 	url = https://github.com/cran/tstests
