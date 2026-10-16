@@ -46673,6 +46673,9 @@
 [submodule "latentnet"]
 	path = latentnet
 	url = https://github.com/cran/latentnet
+[submodule "latents"]
+	path = latents
+	url = https://github.com/cran/latents
 [submodule "later"]
 	path = later
 	url = https://github.com/cran/later
@@ -47270,6 +47273,9 @@
 [submodule "lilikoi"]
 	path = lilikoi
 	url = https://github.com/cran/lilikoi
+[submodule "lillardhaz"]
+	path = lillardhaz
+	url = https://github.com/cran/lillardhaz
 [submodule "lillies"]
 	path = lillies
 	url = https://github.com/cran/lillies
@@ -48239,6 +48245,9 @@
 [submodule "lwgeom"]
 	path = lwgeom
 	url = https://github.com/cran/lwgeom
+[submodule "lwqs"]
+	path = lwqs
+	url = https://github.com/cran/lwqs
 [submodule "lyubishchev"]
 	path = lyubishchev
 	url = https://github.com/cran/lyubishchev
@@ -49889,6 +49898,9 @@
 [submodule "metools"]
 	path = metools
 	url = https://github.com/cran/metools
+[submodule "metricT"]
+	path = metricT
+	url = https://github.com/cran/metricT
 [submodule "metrica"]
 	path = metrica
 	url = https://github.com/cran/metrica
@@ -60506,6 +60518,9 @@
 [submodule "ralger"]
 	path = ralger
 	url = https://github.com/cran/ralger
+[submodule "rambur"]
+	path = rambur
+	url = https://github.com/cran/rambur
 [submodule "ramchoice"]
 	path = ramchoice
 	url = https://github.com/cran/ramchoice
@@ -66260,6 +66275,9 @@
 [submodule "shadowtext"]
 	path = shadowtext
 	url = https://github.com/cran/shadowtext
+[submodule "shaman"]
+	path = shaman
+	url = https://github.com/cran/shaman
 [submodule "shannon"]
 	path = shannon
 	url = https://github.com/cran/shannon
