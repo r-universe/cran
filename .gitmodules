@@ -785,6 +785,9 @@
 [submodule "ApplyPolygenicScore"]
 	path = ApplyPolygenicScore
 	url = https://github.com/cran/ApplyPolygenicScore
+[submodule "ApproxOp"]
+	path = ApproxOp
+	url = https://github.com/cran/ApproxOp
 [submodule "AquaAnalytix"]
 	path = AquaAnalytix
 	url = https://github.com/cran/AquaAnalytix
@@ -2282,6 +2285,9 @@
 [submodule "BreakPoints"]
 	path = BreakPoints
 	url = https://github.com/cran/BreakPoints
+[submodule "BreedReliabR"]
+	path = BreedReliabR
+	url = https://github.com/cran/BreedReliabR
 [submodule "Brobdingnag"]
 	path = Brobdingnag
 	url = https://github.com/cran/Brobdingnag
@@ -3425,6 +3431,9 @@
 [submodule "ClimaRep"]
 	path = ClimaRep
 	url = https://github.com/cran/ClimaRep
+[submodule "ClimateAnomaly"]
+	path = ClimateAnomaly
+	url = https://github.com/cran/ClimateAnomaly
 [submodule "ClinSigMeasures"]
 	path = ClinSigMeasures
 	url = https://github.com/cran/ClinSigMeasures
@@ -16496,6 +16505,9 @@
 [submodule "RTFA"]
 	path = RTFA
 	url = https://github.com/cran/RTFA
+[submodule "RTFBoost"]
+	path = RTFBoost
+	url = https://github.com/cran/RTFBoost
 [submodule "RTL"]
 	path = RTL
 	url = https://github.com/cran/RTL
@@ -20189,6 +20201,9 @@
 [submodule "SynthTools"]
 	path = SynthTools
 	url = https://github.com/cran/SynthTools
+[submodule "SynthesizerPlus"]
+	path = SynthesizerPlus
+	url = https://github.com/cran/SynthesizerPlus
 [submodule "Sysrecon"]
 	path = Sysrecon
 	url = https://github.com/cran/Sysrecon
@@ -21398,6 +21413,9 @@
 [submodule "VCBART"]
 	path = VCBART
 	url = https://github.com/cran/VCBART
+[submodule "VCFArrow"]
+	path = VCFArrow
+	url = https://github.com/cran/VCFArrow
 [submodule "VCMoE"]
 	path = VCMoE
 	url = https://github.com/cran/VCMoE
@@ -22442,6 +22460,9 @@
 [submodule "actinet"]
 	path = actinet
 	url = https://github.com/cran/actinet
+[submodule "actiplot"]
+	path = actiplot
+	url = https://github.com/cran/actiplot
 [submodule "actiquantiles"]
 	path = actiquantiles
 	url = https://github.com/cran/actiquantiles
@@ -22451,6 +22472,9 @@
 [submodule "actisensorlog"]
 	path = actisensorlog
 	url = https://github.com/cran/actisensorlog
+[submodule "actisomni"]
+	path = actisomni
+	url = https://github.com/cran/actisomni
 [submodule "activAnalyzer"]
 	path = activAnalyzer
 	url = https://github.com/cran/activAnalyzer
@@ -26348,6 +26372,9 @@
 [submodule "bondAnalyst"]
 	path = bondAnalyst
 	url = https://github.com/cran/bondAnalyst
+[submodule "bones"]
+	path = bones
+	url = https://github.com/cran/bones
 [submodule "bonn"]
 	path = bonn
 	url = https://github.com/cran/bonn
@@ -33599,6 +33626,9 @@
 [submodule "double.truncation"]
 	path = double.truncation
 	url = https://github.com/cran/double.truncation
+[submodule "doubletrs"]
+	path = doubletrs
+	url = https://github.com/cran/doubletrs
 [submodule "doubt"]
 	path = doubt
 	url = https://github.com/cran/doubt
@@ -35060,6 +35090,9 @@
 [submodule "ellmer"]
 	path = ellmer
 	url = https://github.com/cran/ellmer
+[submodule "ellmercodex"]
+	path = ellmercodex
+	url = https://github.com/cran/ellmercodex
 [submodule "elmNNRcpp"]
 	path = elmNNRcpp
 	url = https://github.com/cran/elmNNRcpp
@@ -35690,6 +35723,9 @@
 [submodule "errum"]
 	path = errum
 	url = https://github.com/cran/errum
+[submodule "ertte"]
+	path = ertte
+	url = https://github.com/cran/ertte
 [submodule "ervissexplore"]
 	path = ervissexplore
 	url = https://github.com/cran/ervissexplore
@@ -38819,6 +38855,9 @@
 [submodule "fuzzywuzzyR"]
 	path = fuzzywuzzyR
 	url = https://github.com/cran/fuzzywuzzyR
+[submodule "fvfmR"]
+	path = fvfmR
+	url = https://github.com/cran/fvfmR
 [submodule "fwb"]
 	path = fwb
 	url = https://github.com/cran/fwb
@@ -41174,6 +41213,9 @@
 [submodule "glow"]
 	path = glow
 	url = https://github.com/cran/glow
+[submodule "glpsol"]
+	path = glpsol
+	url = https://github.com/cran/glpsol
 [submodule "glscalibrator"]
 	path = glscalibrator
 	url = https://github.com/cran/glscalibrator
@@ -45122,6 +45164,9 @@
 [submodule "irtbem2pl"]
 	path = irtbem2pl
 	url = https://github.com/cran/irtbem2pl
+[submodule "irtlink"]
+	path = irtlink
+	url = https://github.com/cran/irtlink
 [submodule "irtoys"]
 	path = irtoys
 	url = https://github.com/cran/irtoys
@@ -46244,6 +46289,9 @@
 [submodule "knitrdata"]
 	path = knitrdata
 	url = https://github.com/cran/knitrdata
+[submodule "knitroff"]
+	path = knitroff
+	url = https://github.com/cran/knitroff
 [submodule "knitxl"]
 	path = knitxl
 	url = https://github.com/cran/knitxl
@@ -46568,6 +46616,9 @@
 [submodule "land4health"]
 	path = land4health
 	url = https://github.com/cran/land4health
+[submodule "lande"]
+	path = lande
+	url = https://github.com/cran/lande
 [submodule "landest"]
 	path = landest
 	url = https://github.com/cran/landest
@@ -47726,6 +47777,9 @@
 [submodule "localboot"]
 	path = localboot
 	url = https://github.com/cran/localboot
+[submodule "localdatasus"]
+	path = localdatasus
+	url = https://github.com/cran/localdatasus
 [submodule "localgauss"]
 	path = localgauss
 	url = https://github.com/cran/localgauss
@@ -51170,6 +51224,9 @@
 [submodule "modelimportance"]
 	path = modelimportance
 	url = https://github.com/cran/modelimportance
+[submodule "modelname"]
+	path = modelname
+	url = https://github.com/cran/modelname
 [submodule "modelr"]
 	path = modelr
 	url = https://github.com/cran/modelr
@@ -53069,6 +53126,9 @@
 [submodule "networkR"]
 	path = networkR
 	url = https://github.com/cran/networkR
+[submodule "networkformat"]
+	path = networkformat
+	url = https://github.com/cran/networkformat
 [submodule "networkscaleup"]
 	path = networkscaleup
 	url = https://github.com/cran/networkscaleup
@@ -62915,6 +62975,9 @@
 [submodule "rkvo"]
 	path = rkvo
 	url = https://github.com/cran/rkvo
+[submodule "rladybugdb"]
+	path = rladybugdb
+	url = https://github.com/cran/rladybugdb
 [submodule "rlandfire"]
 	path = rlandfire
 	url = https://github.com/cran/rlandfire
@@ -73109,6 +73172,9 @@
 [submodule "treeheatr"]
 	path = treeheatr
 	url = https://github.com/cran/treeheatr
+[submodule "treehunt"]
+	path = treehunt
+	url = https://github.com/cran/treehunt
 [submodule "treemap"]
 	path = treemap
 	url = https://github.com/cran/treemap
@@ -76613,12 +76679,18 @@
 [submodule "ztype"]
 	path = ztype
 	url = https://github.com/cran/ztype
+[submodule "zucsv"]
+	path = zucsv
+	url = https://github.com/cran/zucsv
 [submodule "zuhtml"]
 	path = zuhtml
 	url = https://github.com/cran/zuhtml
 [submodule "zujson"]
 	path = zujson
 	url = https://github.com/cran/zujson
+[submodule "zukomp"]
+	path = zukomp
+	url = https://github.com/cran/zukomp
 [submodule "zuyaml"]
 	path = zuyaml
 	url = https://github.com/cran/zuyaml
