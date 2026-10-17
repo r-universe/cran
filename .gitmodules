@@ -11531,9 +11531,6 @@
 [submodule "MaddisonData"]
 	path = MaddisonData
 	url = https://github.com/cran/MaddisonData
-[submodule "Maeswrap"]
-	path = Maeswrap
-	url = https://github.com/cran/Maeswrap
 [submodule "MagmaClustR"]
 	path = MagmaClustR
 	url = https://github.com/cran/MagmaClustR
