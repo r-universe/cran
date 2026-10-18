@@ -1136,6 +1136,9 @@
 [submodule "BDEsize"]
 	path = BDEsize
 	url = https://github.com/cran/BDEsize
+[submodule "BDIB"]
+	path = BDIB
+	url = https://github.com/cran/BDIB
 [submodule "BDPTobitQR"]
 	path = BDPTobitQR
 	url = https://github.com/cran/BDPTobitQR
@@ -2033,6 +2036,9 @@
 [submodule "BioCro"]
 	path = BioCro
 	url = https://github.com/cran/BioCro
+[submodule "BioFTF"]
+	path = BioFTF
+	url = https://github.com/cran/BioFTF
 [submodule "BioGSP"]
 	path = BioGSP
 	url = https://github.com/cran/BioGSP
@@ -3023,6 +3029,9 @@
 [submodule "CUMP"]
 	path = CUMP
 	url = https://github.com/cran/CUMP
+[submodule "CUNYsports"]
+	path = CUNYsports
+	url = https://github.com/cran/CUNYsports
 [submodule "CUSUMdesign"]
 	path = CUSUMdesign
 	url = https://github.com/cran/CUSUMdesign
@@ -13907,6 +13916,9 @@
 [submodule "POD"]
 	path = POD
 	url = https://github.com/cran/POD
+[submodule "POEMED"]
+	path = POEMED
+	url = https://github.com/cran/POEMED
 [submodule "POET"]
 	path = POET
 	url = https://github.com/cran/POET
@@ -22034,6 +22046,9 @@
 [submodule "XRSCC"]
 	path = XRSCC
 	url = https://github.com/cran/XRSCC
+[submodule "XSLmodels"]
+	path = XSLmodels
+	url = https://github.com/cran/XSLmodels
 [submodule "XSRecencyX"]
 	path = XSRecencyX
 	url = https://github.com/cran/XSRecencyX
@@ -33347,6 +33362,9 @@
 [submodule "divo"]
 	path = divo
 	url = https://github.com/cran/divo
+[submodule "divoRce"]
+	path = divoRce
+	url = https://github.com/cran/divoRce
 [submodule "divraster"]
 	path = divraster
 	url = https://github.com/cran/divraster
@@ -33419,6 +33437,9 @@
 [submodule "dmm"]
 	path = dmm
 	url = https://github.com/cran/dmm
+[submodule "dmrfit"]
+	path = dmrfit
+	url = https://github.com/cran/dmrfit
 [submodule "dmtools"]
 	path = dmtools
 	url = https://github.com/cran/dmtools
@@ -37895,6 +37916,9 @@
 [submodule "flownet"]
 	path = flownet
 	url = https://github.com/cran/flownet
+[submodule "flowz"]
+	path = flowz
+	url = https://github.com/cran/flowz
 [submodule "flps"]
 	path = flps
 	url = https://github.com/cran/flps
@@ -38096,6 +38120,9 @@
 [submodule "forecasteR"]
 	path = forecasteR
 	url = https://github.com/cran/forecasteR
+[submodule "forecastsuite"]
+	path = forecastsuite
+	url = https://github.com/cran/forecastsuite
 [submodule "foreign"]
 	path = foreign
 	url = https://github.com/cran/foreign
@@ -39752,6 +39779,9 @@
 [submodule "geomaroc"]
 	path = geomaroc
 	url = https://github.com/cran/geomaroc
+[submodule "geomattR"]
+	path = geomattR
+	url = https://github.com/cran/geomattR
 [submodule "geomerge"]
 	path = geomerge
 	url = https://github.com/cran/geomerge
@@ -45179,6 +45209,9 @@
 [submodule "irtsim"]
 	path = irtsim
 	url = https://github.com/cran/irtsim
+[submodule "irw"]
+	path = irw
+	url = https://github.com/cran/irw
 [submodule "isa2"]
 	path = isa2
 	url = https://github.com/cran/isa2
@@ -48296,6 +48329,9 @@
 [submodule "lwgeom"]
 	path = lwgeom
 	url = https://github.com/cran/lwgeom
+[submodule "lwpls"]
+	path = lwpls
+	url = https://github.com/cran/lwpls
 [submodule "lwqs"]
 	path = lwqs
 	url = https://github.com/cran/lwqs
@@ -52106,6 +52142,9 @@
 [submodule "multifwf"]
 	path = multifwf
 	url = https://github.com/cran/multifwf
+[submodule "multigrain"]
+	path = multigrain
+	url = https://github.com/cran/multigrain
 [submodule "multigraph"]
 	path = multigraph
 	url = https://github.com/cran/multigraph
@@ -52685,6 +52724,9 @@
 [submodule "namedropR"]
 	path = namedropR
 	url = https://github.com/cran/namedropR
+[submodule "namegender"]
+	path = namegender
+	url = https://github.com/cran/namegender
 [submodule "namer"]
 	path = namer
 	url = https://github.com/cran/namer
@@ -60449,6 +60491,9 @@
 [submodule "rUM"]
 	path = rUM
 	url = https://github.com/cran/rUM
+[submodule "rWind"]
+	path = rWind
+	url = https://github.com/cran/rWind
 [submodule "rWishart"]
 	path = rWishart
 	url = https://github.com/cran/rWishart
@@ -66017,6 +66062,9 @@
 [submodule "sentryR"]
 	path = sentryR
 	url = https://github.com/cran/sentryR
+[submodule "seowebchecker"]
+	path = seowebchecker
+	url = https://github.com/cran/seowebchecker
 [submodule "separationplot"]
 	path = separationplot
 	url = https://github.com/cran/separationplot
