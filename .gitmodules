@@ -6143,9 +6143,6 @@
 [submodule "ExactMultinom"]
 	path = ExactMultinom
 	url = https://github.com/cran/ExactMultinom
-[submodule "ExactTree"]
-	path = ExactTree
-	url = https://github.com/cran/ExactTree
 [submodule "ExactVaRTest"]
 	path = ExactVaRTest
 	url = https://github.com/cran/ExactVaRTest
@@ -7694,9 +7691,6 @@
 [submodule "GUniFrac"]
 	path = GUniFrac
 	url = https://github.com/cran/GUniFrac
-[submodule "GVARX"]
-	path = GVARX
-	url = https://github.com/cran/GVARX
 [submodule "GVS"]
 	path = GVS
 	url = https://github.com/cran/GVS
@@ -12914,9 +12908,6 @@
 [submodule "NonlinearDiD"]
 	path = NonlinearDiD
 	url = https://github.com/cran/NonlinearDiD
-[submodule "NonlinearTSA"]
-	path = NonlinearTSA
-	url = https://github.com/cran/NonlinearTSA
 [submodule "Nonpareil"]
 	path = Nonpareil
 	url = https://github.com/cran/Nonpareil
@@ -25703,9 +25694,6 @@
 [submodule "bigstep"]
 	path = bigstep
 	url = https://github.com/cran/bigstep
-[submodule "bigtabulate"]
-	path = bigtabulate
-	url = https://github.com/cran/bigtabulate
 [submodule "bigtcr"]
 	path = bigtcr
 	url = https://github.com/cran/bigtcr
@@ -29642,9 +29630,6 @@
 [submodule "combat.enigma"]
 	path = combat.enigma
 	url = https://github.com/cran/combat.enigma
-[submodule "combcoint"]
-	path = combcoint
-	url = https://github.com/cran/combcoint
 [submodule "combinat"]
 	path = combinat
 	url = https://github.com/cran/combinat
@@ -73436,9 +73421,6 @@
 [submodule "tsBSS"]
 	path = tsBSS
 	url = https://github.com/cran/tsBSS
-[submodule "tsDyn"]
-	path = tsDyn
-	url = https://github.com/cran/tsDyn
 [submodule "tsLSTMx"]
 	path = tsLSTMx
 	url = https://github.com/cran/tsLSTMx
