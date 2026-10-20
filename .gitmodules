@@ -5666,6 +5666,9 @@
 [submodule "ER"]
 	path = ER
 	url = https://github.com/cran/ER
+[submodule "ERA5Flux"]
+	path = ERA5Flux
+	url = https://github.com/cran/ERA5Flux
 [submodule "ERBioR"]
 	path = ERBioR
 	url = https://github.com/cran/ERBioR
@@ -28793,6 +28796,9 @@
 [submodule "clim4health"]
 	path = clim4health
 	url = https://github.com/cran/clim4health
+[submodule "climabr"]
+	path = climabr
+	url = https://github.com/cran/climabr
 [submodule "climaemet"]
 	path = climaemet
 	url = https://github.com/cran/climaemet
@@ -39563,6 +39569,9 @@
 [submodule "geneviewer"]
 	path = geneviewer
 	url = https://github.com/cran/geneviewer
+[submodule "genevintage"]
+	path = genevintage
+	url = https://github.com/cran/genevintage
 [submodule "genfrn"]
 	path = genfrn
 	url = https://github.com/cran/genfrn
@@ -43343,6 +43352,9 @@
 [submodule "hpiR"]
 	path = hpiR
 	url = https://github.com/cran/hpiR
+[submodule "hpsreg"]
+	path = hpsreg
+	url = https://github.com/cran/hpsreg
 [submodule "hqmisc"]
 	path = hqmisc
 	url = https://github.com/cran/hqmisc
@@ -46721,6 +46733,9 @@
 [submodule "lasars"]
 	path = lasars
 	url = https://github.com/cran/lasars
+[submodule "lassoinf"]
+	path = lassoinf
+	url = https://github.com/cran/lassoinf
 [submodule "lassopv"]
 	path = lassopv
 	url = https://github.com/cran/lassopv
@@ -47042,6 +47057,9 @@
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/cran/learnr
+[submodule "learnr2"]
+	path = learnr2
+	url = https://github.com/cran/learnr2
 [submodule "learnrbook"]
 	path = learnrbook
 	url = https://github.com/cran/learnrbook
@@ -55682,6 +55700,9 @@
 [submodule "palettetown"]
 	path = palettetown
 	url = https://github.com/cran/palettetown
+[submodule "palettome"]
+	path = palettome
+	url = https://github.com/cran/palettome
 [submodule "palimpsestr"]
 	path = palimpsestr
 	url = https://github.com/cran/palimpsestr
@@ -59513,6 +59534,9 @@
 [submodule "qdapTools"]
 	path = qdapTools
 	url = https://github.com/cran/qdapTools
+[submodule "qdfauction"]
+	path = qdfauction
+	url = https://github.com/cran/qdfauction
 [submodule "qdm"]
 	path = qdm
 	url = https://github.com/cran/qdm
@@ -76715,6 +76739,9 @@
 [submodule "zscorer"]
 	path = zscorer
 	url = https://github.com/cran/zscorer
+[submodule "zstd"]
+	path = zstd
+	url = https://github.com/cran/zstd
 [submodule "ztable"]
 	path = ztable
 	url = https://github.com/cran/ztable
