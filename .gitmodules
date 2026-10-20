@@ -5198,6 +5198,9 @@
 [submodule "DistributionUtils"]
 	path = DistributionUtils
 	url = https://github.com/cran/DistributionUtils
+[submodule "DistributionalDDA"]
+	path = DistributionalDDA
+	url = https://github.com/cran/DistributionalDDA
 [submodule "Ditwah"]
 	path = Ditwah
 	url = https://github.com/cran/Ditwah
@@ -40415,6 +40418,9 @@
 [submodule "ggm"]
 	path = ggm
 	url = https://github.com/cran/ggm
+[submodule "ggmGraphEditor"]
+	path = ggmGraphEditor
+	url = https://github.com/cran/ggmGraphEditor
 [submodule "ggmRSCU"]
 	path = ggmRSCU
 	url = https://github.com/cran/ggmRSCU
@@ -42872,6 +42878,9 @@
 [submodule "hesim"]
 	path = hesim
 	url = https://github.com/cran/hesim
+[submodule "hestia"]
+	path = hestia
+	url = https://github.com/cran/hestia
 [submodule "hetGP"]
 	path = hetGP
 	url = https://github.com/cran/hetGP
@@ -44534,6 +44543,9 @@
 [submodule "industRial"]
 	path = industRial
 	url = https://github.com/cran/industRial
+[submodule "ineAtlas"]
+	path = ineAtlas
+	url = https://github.com/cran/ineAtlas
 [submodule "ineapir"]
 	path = ineapir
 	url = https://github.com/cran/ineapir
@@ -61946,6 +61958,9 @@
 [submodule "regsem"]
 	path = regsem
 	url = https://github.com/cran/regsem
+[submodule "regsensitivity"]
+	path = regsensitivity
+	url = https://github.com/cran/regsensitivity
 [submodule "regspec"]
 	path = regspec
 	url = https://github.com/cran/regspec
@@ -68084,6 +68099,9 @@
 [submodule "solvebio"]
 	path = solvebio
 	url = https://github.com/cran/solvebio
+[submodule "solvency2"]
+	path = solvency2
+	url = https://github.com/cran/solvency2
 [submodule "solvency2rfr"]
 	path = solvency2rfr
 	url = https://github.com/cran/solvency2rfr
@@ -68711,6 +68729,9 @@
 [submodule "spectr"]
 	path = spectr
 	url = https://github.com/cran/spectr
+[submodule "spectra2rgb"]
+	path = spectra2rgb
+	url = https://github.com/cran/spectra2rgb
 [submodule "spectrakit"]
 	path = spectrakit
 	url = https://github.com/cran/spectrakit
