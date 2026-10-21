@@ -5033,6 +5033,9 @@
 [submodule "DetMCD"]
 	path = DetMCD
 	url = https://github.com/cran/DetMCD
+[submodule "DetectOutlier"]
+	path = DetectOutlier
+	url = https://github.com/cran/DetectOutlier
 [submodule "DevTreatRules"]
 	path = DevTreatRules
 	url = https://github.com/cran/DevTreatRules
@@ -12680,6 +12683,9 @@
 [submodule "NSO1212"]
 	path = NSO1212
 	url = https://github.com/cran/NSO1212
+[submodule "NSR"]
+	path = NSR
+	url = https://github.com/cran/NSR
 [submodule "NST"]
 	path = NST
 	url = https://github.com/cran/NST
@@ -15149,6 +15155,9 @@
 [submodule "QUALYPSO"]
 	path = QUALYPSO
 	url = https://github.com/cran/QUALYPSO
+[submodule "QWDAP"]
+	path = QWDAP
+	url = https://github.com/cran/QWDAP
 [submodule "QZ"]
 	path = QZ
 	url = https://github.com/cran/QZ
@@ -23525,6 +23534,9 @@
 [submodule "anomo"]
 	path = anomo
 	url = https://github.com/cran/anomo
+[submodule "anotherSAS7bdat"]
+	path = anotherSAS7bdat
+	url = https://github.com/cran/anotherSAS7bdat
 [submodule "anovapowersim"]
 	path = anovapowersim
 	url = https://github.com/cran/anovapowersim
@@ -30212,6 +30224,9 @@
 [submodule "convertr"]
 	path = convertr
 	url = https://github.com/cran/convertr
+[submodule "convertxlsform"]
+	path = convertxlsform
+	url = https://github.com/cran/convertxlsform
 [submodule "convevol"]
 	path = convevol
 	url = https://github.com/cran/convevol
@@ -37403,6 +37418,9 @@
 [submodule "fido"]
 	path = fido
 	url = https://github.com/cran/fido
+[submodule "fieldopt"]
+	path = fieldopt
+	url = https://github.com/cran/fieldopt
 [submodule "fields"]
 	path = fields
 	url = https://github.com/cran/fields
@@ -39893,6 +39911,9 @@
 [submodule "geopsych"]
 	path = geopsych
 	url = https://github.com/cran/geopsych
+[submodule "geopt"]
+	path = geopt
+	url = https://github.com/cran/geopt
 [submodule "geopytorch"]
 	path = geopytorch
 	url = https://github.com/cran/geopytorch
@@ -58313,6 +58334,9 @@
 [submodule "powertools"]
 	path = powertools
 	url = https://github.com/cran/powertools
+[submodule "powerutilities"]
+	path = powerutilities
+	url = https://github.com/cran/powerutilities
 [submodule "ppRank"]
 	path = ppRank
 	url = https://github.com/cran/ppRank
@@ -59318,6 +59342,9 @@
 [submodule "publipha"]
 	path = publipha
 	url = https://github.com/cran/publipha
+[submodule "publishTC"]
+	path = publishTC
+	url = https://github.com/cran/publishTC
 [submodule "pubmed.mineR"]
 	path = pubmed.mineR
 	url = https://github.com/cran/pubmed.mineR
@@ -70478,6 +70505,9 @@
 [submodule "survELtest"]
 	path = survELtest
 	url = https://github.com/cran/survELtest
+[submodule "survHC"]
+	path = survHC
+	url = https://github.com/cran/survHC
 [submodule "survHE"]
 	path = survHE
 	url = https://github.com/cran/survHE
@@ -73640,6 +73670,9 @@
 [submodule "tseriesTARMA"]
 	path = tseriesTARMA
 	url = https://github.com/cran/tseriesTARMA
+[submodule "tsexplorer"]
+	path = tsexplorer
+	url = https://github.com/cran/tsexplorer
 [submodule "tsfeatures"]
 	path = tsfeatures
 	url = https://github.com/cran/tsfeatures
@@ -76754,6 +76787,9 @@
 [submodule "zigg"]
 	path = zigg
 	url = https://github.com/cran/zigg
+[submodule "zinbcdpmm"]
+	path = zinbcdpmm
+	url = https://github.com/cran/zinbcdpmm
 [submodule "zip"]
 	path = zip
 	url = https://github.com/cran/zip
