@@ -2090,9 +2090,6 @@
 [submodule "BioTrajectory"]
 	path = BioTrajectory
 	url = https://github.com/cran/BioTrajectory
-[submodule "BioUtils"]
-	path = BioUtils
-	url = https://github.com/cran/BioUtils
 [submodule "BioVenn"]
 	path = BioVenn
 	url = https://github.com/cran/BioVenn
@@ -22583,9 +22580,6 @@
 [submodule "adas.utils"]
 	path = adas.utils
 	url = https://github.com/cran/adas.utils
-[submodule "adass"]
-	path = adass
-	url = https://github.com/cran/adass
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/cran/adbcdrivermanager
@@ -23231,9 +23225,6 @@
 [submodule "alluvial"]
 	path = alluvial
 	url = https://github.com/cran/alluvial
-[submodule "almanac"]
-	path = almanac
-	url = https://github.com/cran/almanac
 [submodule "alone"]
 	path = alone
 	url = https://github.com/cran/alone
@@ -56912,9 +56903,6 @@
 [submodule "phonetisr"]
 	path = phonetisr
 	url = https://github.com/cran/phonetisr
-[submodule "phonfieldwork"]
-	path = phonfieldwork
-	url = https://github.com/cran/phonfieldwork
 [submodule "phonics"]
 	path = phonics
 	url = https://github.com/cran/phonics
@@ -59252,9 +59240,6 @@
 [submodule "puls"]
 	path = puls
 	url = https://github.com/cran/puls
-[submodule "pulsar"]
-	path = pulsar
-	url = https://github.com/cran/pulsar
 [submodule "pulso"]
 	path = pulso
 	url = https://github.com/cran/pulso
@@ -60758,9 +60743,6 @@
 [submodule "randtoolbox"]
 	path = randtoolbox
 	url = https://github.com/cran/randtoolbox
-[submodule "rang"]
-	path = rang
-	url = https://github.com/cran/rang
 [submodule "rangeBuilder"]
 	path = rangeBuilder
 	url = https://github.com/cran/rangeBuilder
@@ -63521,9 +63503,6 @@
 [submodule "roccv"]
 	path = roccv
 	url = https://github.com/cran/roccv
-[submodule "rock"]
-	path = rock
-	url = https://github.com/cran/rock
 [submodule "rockchalk"]
 	path = rockchalk
 	url = https://github.com/cran/rockchalk
@@ -64298,9 +64277,6 @@
 [submodule "rtide"]
 	path = rtide
 	url = https://github.com/cran/rtide
-[submodule "rtika"]
-	path = rtika
-	url = https://github.com/cran/rtika
 [submodule "rtiktokads"]
 	path = rtiktokads
 	url = https://github.com/cran/rtiktokads
@@ -64352,9 +64328,6 @@
 [submodule "rtransparency"]
 	path = rtransparency
 	url = https://github.com/cran/rtransparency
-[submodule "rtreeoflife"]
-	path = rtreeoflife
-	url = https://github.com/cran/rtreeoflife
 [submodule "rtrees"]
 	path = rtrees
 	url = https://github.com/cran/rtrees
@@ -65171,9 +65144,6 @@
 [submodule "scISR"]
 	path = scISR
 	url = https://github.com/cran/scISR
-[submodule "scITD"]
-	path = scITD
-	url = https://github.com/cran/scITD
 [submodule "scMappR"]
 	path = scMappR
 	url = https://github.com/cran/scMappR
@@ -66290,9 +66260,6 @@
 [submodule "sfheaders"]
 	path = sfheaders
 	url = https://github.com/cran/sfheaders
-[submodule "sfhelper"]
-	path = sfhelper
-	url = https://github.com/cran/sfhelper
 [submodule "sfhotspot"]
 	path = sfhotspot
 	url = https://github.com/cran/sfhotspot
@@ -67688,9 +67655,6 @@
 [submodule "smacpod"]
 	path = smacpod
 	url = https://github.com/cran/smacpod
-[submodule "smallsets"]
-	path = smallsets
-	url = https://github.com/cran/smallsets
 [submodule "smallstuff"]
 	path = smallstuff
 	url = https://github.com/cran/smallstuff
