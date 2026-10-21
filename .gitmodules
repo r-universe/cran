@@ -1976,6 +1976,9 @@
 [submodule "BiasCorrector"]
 	path = BiasCorrector
 	url = https://github.com/cran/BiasCorrector
+[submodule "BiasedMatch"]
+	path = BiasedMatch
+	url = https://github.com/cran/BiasedMatch
 [submodule "BiasedUrn"]
 	path = BiasedUrn
 	url = https://github.com/cran/BiasedUrn
@@ -2333,6 +2336,9 @@
 [submodule "BuyseTest"]
 	path = BuyseTest
 	url = https://github.com/cran/BuyseTest
+[submodule "BvCh"]
+	path = BvCh
+	url = https://github.com/cran/BvCh
 [submodule "Bvalue"]
 	path = Bvalue
 	url = https://github.com/cran/Bvalue
@@ -6098,6 +6104,9 @@
 [submodule "EventPredInCure"]
 	path = EventPredInCure
 	url = https://github.com/cran/EventPredInCure
+[submodule "EventStudy"]
+	path = EventStudy
+	url = https://github.com/cran/EventStudy
 [submodule "EventWinRatios"]
 	path = EventWinRatios
 	url = https://github.com/cran/EventWinRatios
@@ -8891,6 +8900,9 @@
 [submodule "IFC"]
 	path = IFC
 	url = https://github.com/cran/IFC
+[submodule "IFFuzzyStats"]
+	path = IFFuzzyStats
+	url = https://github.com/cran/IFFuzzyStats
 [submodule "IFMCDM"]
 	path = IFMCDM
 	url = https://github.com/cran/IFMCDM
@@ -60464,6 +60476,9 @@
 [submodule "rStrava"]
 	path = rStrava
 	url = https://github.com/cran/rStrava
+[submodule "rTARDIS"]
+	path = rTARDIS
+	url = https://github.com/cran/rTARDIS
 [submodule "rTCRBCRr"]
 	path = rTCRBCRr
 	url = https://github.com/cran/rTCRBCRr
@@ -68039,6 +68054,9 @@
 [submodule "soilchemistry"]
 	path = soilchemistry
 	url = https://github.com/cran/soilchemistry
+[submodule "soilcnn"]
+	path = soilcnn
+	url = https://github.com/cran/soilcnn
 [submodule "soilfoodwebs"]
 	path = soilfoodwebs
 	url = https://github.com/cran/soilfoodwebs
@@ -71141,6 +71159,9 @@
 [submodule "tame"]
 	path = tame
 	url = https://github.com/cran/tame
+[submodule "tampaBayOpenData"]
+	path = tampaBayOpenData
+	url = https://github.com/cran/tampaBayOpenData
 [submodule "tanaka"]
 	path = tanaka
 	url = https://github.com/cran/tanaka
@@ -71513,6 +71534,9 @@
 [submodule "terminalgraphics"]
 	path = terminalgraphics
 	url = https://github.com/cran/terminalgraphics
+[submodule "termr"]
+	path = termr
+	url = https://github.com/cran/termr
 [submodule "tern"]
 	path = tern
 	url = https://github.com/cran/tern
