@@ -782,6 +782,9 @@
 [submodule "AppliedPredictiveModeling"]
 	path = AppliedPredictiveModeling
 	url = https://github.com/cran/AppliedPredictiveModeling
+[submodule "Applr"]
+	path = Applr
+	url = https://github.com/cran/Applr
 [submodule "ApplyPolygenicScore"]
 	path = ApplyPolygenicScore
 	url = https://github.com/cran/ApplyPolygenicScore
@@ -37766,6 +37769,9 @@
 [submodule "fkcentroids"]
 	path = fkcentroids
 	url = https://github.com/cran/fkcentroids
+[submodule "fkr"]
+	path = fkr
+	url = https://github.com/cran/fkr
 [submodule "flagr"]
 	path = flagr
 	url = https://github.com/cran/flagr
@@ -39794,6 +39800,9 @@
 [submodule "geodrawr"]
 	path = geodrawr
 	url = https://github.com/cran/geodrawr
+[submodule "geoecu"]
+	path = geoecu
+	url = https://github.com/cran/geoecu
 [submodule "geoelectrics"]
 	path = geoelectrics
 	url = https://github.com/cran/geoelectrics
@@ -54209,6 +54218,9 @@
 [submodule "npwbs"]
 	path = npwbs
 	url = https://github.com/cran/npwbs
+[submodule "nrMCmix"]
+	path = nrMCmix
+	url = https://github.com/cran/nrMCmix
 [submodule "nrba"]
 	path = nrba
 	url = https://github.com/cran/nrba
@@ -54983,6 +54995,9 @@
 [submodule "openstudyval"]
 	path = openstudyval
 	url = https://github.com/cran/openstudyval
+[submodule "opentimsr"]
+	path = opentimsr
+	url = https://github.com/cran/opentimsr
 [submodule "opentripplanner"]
 	path = opentripplanner
 	url = https://github.com/cran/opentripplanner
@@ -58892,6 +58907,9 @@
 [submodule "profvis"]
 	path = profvis
 	url = https://github.com/cran/profvis
+[submodule "progme"]
+	path = progme
+	url = https://github.com/cran/progme
 [submodule "progress"]
 	path = progress
 	url = https://github.com/cran/progress
@@ -63077,6 +63095,9 @@
 [submodule "rjd3bench"]
 	path = rjd3bench
 	url = https://github.com/cran/rjd3bench
+[submodule "rjd3bridge"]
+	path = rjd3bridge
+	url = https://github.com/cran/rjd3bridge
 [submodule "rjd3filters"]
 	path = rjd3filters
 	url = https://github.com/cran/rjd3filters
@@ -68990,6 +69011,9 @@
 [submodule "spiderbar"]
 	path = spiderbar
 	url = https://github.com/cran/spiderbar
+[submodule "spifa"]
+	path = spifa
+	url = https://github.com/cran/spifa
 [submodule "spikeSlabGAM"]
 	path = spikeSlabGAM
 	url = https://github.com/cran/spikeSlabGAM
@@ -76895,9 +76919,15 @@
 [submodule "zucsv"]
 	path = zucsv
 	url = https://github.com/cran/zucsv
+[submodule "zuexact"]
+	path = zuexact
+	url = https://github.com/cran/zuexact
 [submodule "zufast"]
 	path = zufast
 	url = https://github.com/cran/zufast
+[submodule "zufft"]
+	path = zufft
+	url = https://github.com/cran/zufft
 [submodule "zuhtml"]
 	path = zuhtml
 	url = https://github.com/cran/zuhtml
