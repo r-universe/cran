@@ -488,6 +488,9 @@
 [submodule "AcceptanceSampling"]
 	path = AcceptanceSampling
 	url = https://github.com/cran/AcceptanceSampling
+[submodule "AccumulatR"]
+	path = AccumulatR
+	url = https://github.com/cran/AccumulatR
 [submodule "Achilles"]
 	path = Achilles
 	url = https://github.com/cran/Achilles
@@ -4016,6 +4019,9 @@
 [submodule "CoxPlus"]
 	path = CoxPlus
 	url = https://github.com/cran/CoxPlus
+[submodule "CoxRMSTSimpson"]
+	path = CoxRMSTSimpson
+	url = https://github.com/cran/CoxRMSTSimpson
 [submodule "Coxmos"]
 	path = Coxmos
 	url = https://github.com/cran/Coxmos
@@ -5957,6 +5963,9 @@
 [submodule "EnvNicheR"]
 	path = EnvNicheR
 	url = https://github.com/cran/EnvNicheR
+[submodule "EnvRtype"]
+	path = EnvRtype
+	url = https://github.com/cran/EnvRtype
 [submodule "EnvStats"]
 	path = EnvStats
 	url = https://github.com/cran/EnvStats
@@ -12335,6 +12344,9 @@
 [submodule "MultipleRegression"]
 	path = MultipleRegression
 	url = https://github.com/cran/MultipleRegression
+[submodule "MultipleSystemsEstimation"]
+	path = MultipleSystemsEstimation
+	url = https://github.com/cran/MultipleSystemsEstimation
 [submodule "MultiplierDEA"]
 	path = MultiplierDEA
 	url = https://github.com/cran/MultiplierDEA
@@ -12953,6 +12965,9 @@
 [submodule "NormExpression"]
 	path = NormExpression
 	url = https://github.com/cran/NormExpression
+[submodule "NormGen"]
+	path = NormGen
+	url = https://github.com/cran/NormGen
 [submodule "NormPsy"]
 	path = NormPsy
 	url = https://github.com/cran/NormPsy
@@ -15602,6 +15617,9 @@
 [submodule "RDML"]
 	path = RDML
 	url = https://github.com/cran/RDML
+[submodule "RDML7"]
+	path = RDML7
+	url = https://github.com/cran/RDML7
 [submodule "RDP"]
 	path = RDP
 	url = https://github.com/cran/RDP
@@ -18563,6 +18581,9 @@
 [submodule "SNMA"]
 	path = SNMA
 	url = https://github.com/cran/SNMA
+[submodule "SNPAssayR"]
+	path = SNPAssayR
+	url = https://github.com/cran/SNPAssayR
 [submodule "SNPannotator"]
 	path = SNPannotator
 	url = https://github.com/cran/SNPannotator
@@ -27311,6 +27332,9 @@
 [submodule "campfin"]
 	path = campfin
 	url = https://github.com/cran/campfin
+[submodule "camplet"]
+	path = camplet
+	url = https://github.com/cran/camplet
 [submodule "campsis"]
 	path = campsis
 	url = https://github.com/cran/campsis
@@ -27872,6 +27896,9 @@
 [submodule "cctools"]
 	path = cctools
 	url = https://github.com/cran/cctools
+[submodule "ccva"]
+	path = ccva
+	url = https://github.com/cran/ccva
 [submodule "ccwr"]
 	path = ccwr
 	url = https://github.com/cran/ccwr
@@ -30455,6 +30482,9 @@
 [submodule "corrgram"]
 	path = corrgram
 	url = https://github.com/cran/corrgram
+[submodule "corridoR"]
+	path = corridoR
+	url = https://github.com/cran/corridoR
 [submodule "corrmeta"]
 	path = corrmeta
 	url = https://github.com/cran/corrmeta
@@ -37316,6 +37346,9 @@
 [submodule "feols.asv"]
 	path = feols.asv
 	url = https://github.com/cran/feols.asv
+[submodule "fereg"]
+	path = fereg
+	url = https://github.com/cran/fereg
 [submodule "fermicatsR"]
 	path = fermicatsR
 	url = https://github.com/cran/fermicatsR
@@ -37853,6 +37886,9 @@
 [submodule "flexMatch"]
 	path = flexMatch
 	url = https://github.com/cran/flexMatch
+[submodule "flexOR"]
+	path = flexOR
+	url = https://github.com/cran/flexOR
 [submodule "flexclust"]
 	path = flexclust
 	url = https://github.com/cran/flexclust
@@ -43682,6 +43718,9 @@
 [submodule "hybridModels"]
 	path = hybridModels
 	url = https://github.com/cran/hybridModels
+[submodule "hybridclock"]
+	path = hybridclock
+	url = https://github.com/cran/hybridclock
 [submodule "hybridogram"]
 	path = hybridogram
 	url = https://github.com/cran/hybridogram
@@ -58715,6 +58754,9 @@
 [submodule "primate"]
 	path = primate
 	url = https://github.com/cran/primate
+[submodule "prime"]
+	path = prime
+	url = https://github.com/cran/prime
 [submodule "primePCA"]
 	path = primePCA
 	url = https://github.com/cran/primePCA
@@ -74015,6 +74057,9 @@
 [submodule "twoPhaseGAS"]
 	path = twoPhaseGAS
 	url = https://github.com/cran/twoPhaseGAS
+[submodule "twoPhaseSens"]
+	path = twoPhaseSens
+	url = https://github.com/cran/twoPhaseSens
 [submodule "twoStageDesignTMLE"]
 	path = twoStageDesignTMLE
 	url = https://github.com/cran/twoStageDesignTMLE
@@ -74201,6 +74246,9 @@
 [submodule "ume"]
 	path = ume
 	url = https://github.com/cran/ume
+[submodule "umg"]
+	path = umg
+	url = https://github.com/cran/umg
 [submodule "umiAnalyzer"]
 	path = umiAnalyzer
 	url = https://github.com/cran/umiAnalyzer
