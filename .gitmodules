@@ -76967,6 +76967,9 @@
 [submodule "zucbor"]
 	path = zucbor
 	url = https://github.com/cran/zucbor
+[submodule "zucrypt"]
+	path = zucrypt
+	url = https://github.com/cran/zucrypt
 [submodule "zucsv"]
 	path = zucsv
 	url = https://github.com/cran/zucsv
