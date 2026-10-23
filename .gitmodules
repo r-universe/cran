@@ -2336,6 +2336,9 @@
 [submodule "BusinessDuration"]
 	path = BusinessDuration
 	url = https://github.com/cran/BusinessDuration
+[submodule "ButtR"]
+	path = ButtR
+	url = https://github.com/cran/ButtR
 [submodule "BuyseTest"]
 	path = BuyseTest
 	url = https://github.com/cran/BuyseTest
@@ -70205,6 +70208,9 @@
 [submodule "stream"]
 	path = stream
 	url = https://github.com/cran/stream
+[submodule "streamConnect"]
+	path = streamConnect
+	url = https://github.com/cran/streamConnect
 [submodule "streamDAG"]
 	path = streamDAG
 	url = https://github.com/cran/streamDAG
