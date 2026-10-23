@@ -2336,9 +2336,6 @@
 [submodule "BusinessDuration"]
 	path = BusinessDuration
 	url = https://github.com/cran/BusinessDuration
-[submodule "ButtR"]
-	path = ButtR
-	url = https://github.com/cran/ButtR
 [submodule "BuyseTest"]
 	path = BuyseTest
 	url = https://github.com/cran/BuyseTest
