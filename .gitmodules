@@ -10595,6 +10595,9 @@
 [submodule "MAARTS"]
 	path = MAARTS
 	url = https://github.com/cran/MAARTS
+[submodule "MAC.address"]
+	path = MAC.address
+	url = https://github.com/cran/MAC.address
 [submodule "MACER"]
 	path = MACER
 	url = https://github.com/cran/MACER
@@ -13466,6 +13469,9 @@
 [submodule "OptimalDesign"]
 	path = OptimalDesign
 	url = https://github.com/cran/OptimalDesign
+[submodule "OptimalFactor"]
+	path = OptimalFactor
+	url = https://github.com/cran/OptimalFactor
 [submodule "OptimalRerandExpDesigns"]
 	path = OptimalRerandExpDesigns
 	url = https://github.com/cran/OptimalRerandExpDesigns
@@ -20219,6 +20225,9 @@
 [submodule "SurveyNCD"]
 	path = SurveyNCD
 	url = https://github.com/cran/SurveyNCD
+[submodule "SurveySolutionsAPIv2"]
+	path = SurveySolutionsAPIv2
+	url = https://github.com/cran/SurveySolutionsAPIv2
 [submodule "SurveyStat"]
 	path = SurveyStat
 	url = https://github.com/cran/SurveyStat
@@ -26471,6 +26480,9 @@
 [submodule "bolt4jr"]
 	path = bolt4jr
 	url = https://github.com/cran/bolt4jr
+[submodule "boltzrosen"]
+	path = boltzrosen
+	url = https://github.com/cran/boltzrosen
 [submodule "bondAnalyst"]
 	path = bondAnalyst
 	url = https://github.com/cran/bondAnalyst
@@ -27968,6 +27980,9 @@
 [submodule "cdid"]
 	path = cdid
 	url = https://github.com/cran/cdid
+[submodule "cdiscdata"]
+	path = cdiscdata
+	url = https://github.com/cran/cdiscdata
 [submodule "cdlTools"]
 	path = cdlTools
 	url = https://github.com/cran/cdlTools
@@ -41864,6 +41879,9 @@
 [submodule "gpuinfo"]
 	path = gpuinfo
 	url = https://github.com/cran/gpuinfo
+[submodule "gputools"]
+	path = gputools
+	url = https://github.com/cran/gputools
 [submodule "gpyramid"]
 	path = gpyramid
 	url = https://github.com/cran/gpyramid
@@ -48455,6 +48473,9 @@
 [submodule "ltsk"]
 	path = ltsk
 	url = https://github.com/cran/ltsk
+[submodule "ltvlms"]
+	path = ltvlms
+	url = https://github.com/cran/ltvlms
 [submodule "ltxsparklines"]
 	path = ltxsparklines
 	url = https://github.com/cran/ltxsparklines
@@ -55655,6 +55676,9 @@
 [submodule "p2oncology"]
 	path = p2oncology
 	url = https://github.com/cran/p2oncology
+[submodule "p3d"]
+	path = p3d
+	url = https://github.com/cran/p3d
 [submodule "p3state.msm"]
 	path = p3state.msm
 	url = https://github.com/cran/p3state.msm
@@ -56108,6 +56132,9 @@
 [submodule "parcxl"]
 	path = parcxl
 	url = https://github.com/cran/parcxl
+[submodule "paretoinfer"]
+	path = paretoinfer
+	url = https://github.com/cran/paretoinfer
 [submodule "parfm"]
 	path = parfm
 	url = https://github.com/cran/parfm
@@ -63623,6 +63650,9 @@
 [submodule "robotstxt"]
 	path = robotstxt
 	url = https://github.com/cran/robotstxt
+[submodule "robotstxtr"]
+	path = robotstxtr
+	url = https://github.com/cran/robotstxtr
 [submodule "robqda"]
 	path = robqda
 	url = https://github.com/cran/robqda
@@ -68312,6 +68342,9 @@
 [submodule "soiltillr"]
 	path = soiltillr
 	url = https://github.com/cran/soiltillr
+[submodule "soilwatR"]
+	path = soilwatR
+	url = https://github.com/cran/soilwatR
 [submodule "soilwater"]
 	path = soilwater
 	url = https://github.com/cran/soilwater
@@ -75959,6 +75992,9 @@
 [submodule "when"]
 	path = when
 	url = https://github.com/cran/when
+[submodule "whence"]
+	path = whence
+	url = https://github.com/cran/whence
 [submodule "whep"]
 	path = whep
 	url = https://github.com/cran/whep
