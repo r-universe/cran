@@ -542,6 +542,9 @@
 [submodule "AdaptiveBoxplot"]
 	path = AdaptiveBoxplot
 	url = https://github.com/cran/AdaptiveBoxplot
+[submodule "AdaptiveGlasso"]
+	path = AdaptiveGlasso
+	url = https://github.com/cran/AdaptiveGlasso
 [submodule "AdaptiveTrialsR"]
 	path = AdaptiveTrialsR
 	url = https://github.com/cran/AdaptiveTrialsR
@@ -5237,6 +5240,9 @@
 [submodule "DoE.wrapper"]
 	path = DoE.wrapper
 	url = https://github.com/cran/DoE.wrapper
+[submodule "DoExp"]
+	path = DoExp
+	url = https://github.com/cran/DoExp
 [submodule "DockerParallel"]
 	path = DockerParallel
 	url = https://github.com/cran/DockerParallel
@@ -9887,6 +9893,9 @@
 [submodule "LAGOSNE"]
 	path = LAGOSNE
 	url = https://github.com/cran/LAGOSNE
+[submodule "LAGOtrials"]
+	path = LAGOtrials
+	url = https://github.com/cran/LAGOtrials
 [submodule "LAIr"]
 	path = LAIr
 	url = https://github.com/cran/LAIr
@@ -10058,6 +10067,9 @@
 [submodule "LMD"]
 	path = LMD
 	url = https://github.com/cran/LMD
+[submodule "LMDT"]
+	path = LMDT
+	url = https://github.com/cran/LMDT
 [submodule "LMERConvenienceFunctions"]
 	path = LMERConvenienceFunctions
 	url = https://github.com/cran/LMERConvenienceFunctions
@@ -14507,6 +14519,9 @@
 [submodule "PheNorm"]
 	path = PheNorm
 	url = https://github.com/cran/PheNorm
+[submodule "PheValuator"]
+	path = PheValuator
+	url = https://github.com/cran/PheValuator
 [submodule "PheVis"]
 	path = PheVis
 	url = https://github.com/cran/PheVis
@@ -15530,6 +15545,9 @@
 [submodule "RCPA3"]
 	path = RCPA3
 	url = https://github.com/cran/RCPA3
+[submodule "RCPA4"]
+	path = RCPA4
+	url = https://github.com/cran/RCPA4
 [submodule "RCRnorm"]
 	path = RCRnorm
 	url = https://github.com/cran/RCRnorm
@@ -16379,6 +16397,9 @@
 [submodule "RQEntangle"]
 	path = RQEntangle
 	url = https://github.com/cran/RQEntangle
+[submodule "RQK"]
+	path = RQK
+	url = https://github.com/cran/RQK
 [submodule "RQdeltaCT"]
 	path = RQdeltaCT
 	url = https://github.com/cran/RQdeltaCT
@@ -29531,6 +29552,9 @@
 [submodule "cohorttools"]
 	path = cohorttools
 	url = https://github.com/cran/cohorttools
+[submodule "coiR"]
+	path = coiR
+	url = https://github.com/cran/coiR
 [submodule "coin"]
 	path = coin
 	url = https://github.com/cran/coin
@@ -35876,6 +35900,9 @@
 [submodule "esemifar"]
 	path = esemifar
 	url = https://github.com/cran/esemifar
+[submodule "esgcalc"]
+	path = esgcalc
+	url = https://github.com/cran/esgcalc
 [submodule "eshrink"]
 	path = eshrink
 	url = https://github.com/cran/eshrink
@@ -37925,6 +37952,9 @@
 [submodule "flexrsurv"]
 	path = flexrsurv
 	url = https://github.com/cran/flexrsurv
+[submodule "flexsdm"]
+	path = flexsdm
+	url = https://github.com/cran/flexsdm
 [submodule "flexsiteboard"]
 	path = flexsiteboard
 	url = https://github.com/cran/flexsiteboard
@@ -67859,6 +67889,9 @@
 [submodule "smacpod"]
 	path = smacpod
 	url = https://github.com/cran/smacpod
+[submodule "smak"]
+	path = smak
+	url = https://github.com/cran/smak
 [submodule "smallstuff"]
 	path = smallstuff
 	url = https://github.com/cran/smallstuff
@@ -72314,6 +72347,9 @@
 [submodule "tidyfast"]
 	path = tidyfast
 	url = https://github.com/cran/tidyfast
+[submodule "tidyfault"]
+	path = tidyfault
+	url = https://github.com/cran/tidyfault
 [submodule "tidyfinance"]
 	path = tidyfinance
 	url = https://github.com/cran/tidyfinance
