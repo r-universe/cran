@@ -5192,6 +5192,9 @@
 [submodule "DisimForMixed"]
 	path = DisimForMixed
 	url = https://github.com/cran/DisimForMixed
+[submodule "DistLagHet"]
+	path = DistLagHet
+	url = https://github.com/cran/DistLagHet
 [submodule "DistPlotter"]
 	path = DistPlotter
 	url = https://github.com/cran/DistPlotter
@@ -23045,6 +23048,9 @@
 [submodule "agriDQ"]
 	path = agriDQ
 	url = https://github.com/cran/agriDQ
+[submodule "agriEquity"]
+	path = agriEquity
+	url = https://github.com/cran/agriEquity
 [submodule "agriME"]
 	path = agriME
 	url = https://github.com/cran/agriME
@@ -23054,6 +23060,9 @@
 [submodule "agriReg"]
 	path = agriReg
 	url = https://github.com/cran/agriReg
+[submodule "agriTradeRisk"]
+	path = agriTradeRisk
+	url = https://github.com/cran/agriTradeRisk
 [submodule "agriTutorial"]
 	path = agriTutorial
 	url = https://github.com/cran/agriTutorial
@@ -30248,6 +30257,9 @@
 [submodule "controlfunctionIV"]
 	path = controlfunctionIV
 	url = https://github.com/cran/controlfunctionIV
+[submodule "controlledburn"]
+	path = controlledburn
+	url = https://github.com/cran/controlledburn
 [submodule "controller"]
 	path = controller
 	url = https://github.com/cran/controller
@@ -38453,6 +38465,9 @@
 [submodule "fplyr"]
 	path = fplyr
 	url = https://github.com/cran/fplyr
+[submodule "fpoValue"]
+	path = fpoValue
+	url = https://github.com/cran/fpoValue
 [submodule "fpod"]
 	path = fpod
 	url = https://github.com/cran/fpod
