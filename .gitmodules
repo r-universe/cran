@@ -34079,6 +34079,9 @@
 [submodule "dslabs"]
 	path = dslabs
 	url = https://github.com/cran/dslabs
+[submodule "dsld"]
+	path = dsld
+	url = https://github.com/cran/dsld
 [submodule "dslice"]
 	path = dslice
 	url = https://github.com/cran/dslice
