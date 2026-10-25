@@ -5459,9 +5459,6 @@
 [submodule "EE.Data"]
 	path = EE.Data
 	url = https://github.com/cran/EE.Data
-[submodule "EEAaq"]
-	path = EEAaq
-	url = https://github.com/cran/EEAaq
 [submodule "EEEA"]
 	path = EEEA
 	url = https://github.com/cran/EEEA
@@ -16361,9 +16358,6 @@
 [submodule "RPWNSC"]
 	path = RPWNSC
 	url = https://github.com/cran/RPWNSC
-[submodule "RPatternJoin"]
-	path = RPatternJoin
-	url = https://github.com/cran/RPatternJoin
 [submodule "RPesto"]
 	path = RPesto
 	url = https://github.com/cran/RPesto
@@ -37568,9 +37562,6 @@
 [submodule "filesstrings"]
 	path = filesstrings
 	url = https://github.com/cran/filesstrings
-[submodule "filibustr"]
-	path = filibustr
-	url = https://github.com/cran/filibustr
 [submodule "filling"]
 	path = filling
 	url = https://github.com/cran/filling
