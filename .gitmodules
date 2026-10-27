@@ -25436,9 +25436,6 @@
 [submodule "befproj"]
 	path = befproj
 	url = https://github.com/cran/befproj
-[submodule "behaviorchange"]
-	path = behaviorchange
-	url = https://github.com/cran/behaviorchange
 [submodule "behavr"]
 	path = behavr
 	url = https://github.com/cran/behavr
@@ -74267,9 +74264,6 @@
 [submodule "ufRisk"]
 	path = ufRisk
 	url = https://github.com/cran/ufRisk
-[submodule "ufs"]
-	path = ufs
-	url = https://github.com/cran/ufs
 [submodule "ugatsdb"]
 	path = ugatsdb
 	url = https://github.com/cran/ugatsdb
