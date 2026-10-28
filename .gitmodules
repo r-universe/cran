@@ -422,6 +422,9 @@
 [submodule "ASV"]
 	path = ASV
 	url = https://github.com/cran/ASV
+[submodule "ASmiR"]
+	path = ASmiR
+	url = https://github.com/cran/ASmiR
 [submodule "ATAforecasting"]
 	path = ATAforecasting
 	url = https://github.com/cran/ATAforecasting
@@ -446,6 +449,9 @@
 [submodule "AUKtest"]
 	path = AUKtest
 	url = https://github.com/cran/AUKtest
+[submodule "AURMC"]
+	path = AURMC
+	url = https://github.com/cran/AURMC
 [submodule "AUtests"]
 	path = AUtests
 	url = https://github.com/cran/AUtests
@@ -1613,6 +1619,9 @@
 [submodule "BayesAT"]
 	path = BayesAT
 	url = https://github.com/cran/BayesAT
+[submodule "BayesAiken"]
+	path = BayesAiken
+	url = https://github.com/cran/BayesAiken
 [submodule "BayesBP"]
 	path = BayesBP
 	url = https://github.com/cran/BayesBP
@@ -8390,6 +8399,9 @@
 [submodule "HMMpa"]
 	path = HMMpa
 	url = https://github.com/cran/HMMpa
+[submodule "HMMscpg"]
+	path = HMMscpg
+	url = https://github.com/cran/HMMscpg
 [submodule "HMR"]
 	path = HMR
 	url = https://github.com/cran/HMR
@@ -9023,6 +9035,9 @@
 [submodule "INLABMA"]
 	path = INLABMA
 	url = https://github.com/cran/INLABMA
+[submodule "INLAcircular"]
+	path = INLAcircular
+	url = https://github.com/cran/INLAcircular
 [submodule "INLAjoint"]
 	path = INLAjoint
 	url = https://github.com/cran/INLAjoint
@@ -14789,6 +14804,9 @@
 [submodule "PortfolioTesteR"]
 	path = PortfolioTesteR
 	url = https://github.com/cran/PortfolioTesteR
+[submodule "PortinariColors"]
+	path = PortinariColors
+	url = https://github.com/cran/PortinariColors
 [submodule "PosRatioDist"]
 	path = PosRatioDist
 	url = https://github.com/cran/PosRatioDist
@@ -14885,6 +14903,9 @@
 [submodule "PriorGen"]
 	path = PriorGen
 	url = https://github.com/cran/PriorGen
+[submodule "PrismR"]
+	path = PrismR
+	url = https://github.com/cran/PrismR
 [submodule "PrivateLR"]
 	path = PrivateLR
 	url = https://github.com/cran/PrivateLR
@@ -15470,6 +15491,9 @@
 [submodule "RAS"]
 	path = RAS
 	url = https://github.com/cran/RAS
+[submodule "RASbound"]
+	path = RASbound
+	url = https://github.com/cran/RASbound
 [submodule "RAT"]
 	path = RAT
 	url = https://github.com/cran/RAT
@@ -15665,6 +15689,9 @@
 [submodule "RDStreeboot"]
 	path = RDStreeboot
 	url = https://github.com/cran/RDStreeboot
+[submodule "RDelta"]
+	path = RDelta
+	url = https://github.com/cran/RDelta
 [submodule "RDieHarder"]
 	path = RDieHarder
 	url = https://github.com/cran/RDieHarder
@@ -17519,6 +17546,9 @@
 [submodule "Ricrt"]
 	path = Ricrt
 	url = https://github.com/cran/Ricrt
+[submodule "RidgeLRGLH"]
+	path = RidgeLRGLH
+	url = https://github.com/cran/RidgeLRGLH
 [submodule "RiemBase"]
 	path = RiemBase
 	url = https://github.com/cran/RiemBase
@@ -22613,6 +22643,9 @@
 [submodule "actuar"]
 	path = actuar
 	url = https://github.com/cran/actuar
+[submodule "actuarialfitdist"]
+	path = actuarialfitdist
+	url = https://github.com/cran/actuarialfitdist
 [submodule "actuary"]
 	path = actuary
 	url = https://github.com/cran/actuary
@@ -23153,6 +23186,9 @@
 [submodule "aiRthermo"]
 	path = aiRthermo
 	url = https://github.com/cran/aiRthermo
+[submodule "aidR"]
+	path = aidR
+	url = https://github.com/cran/aidR
 [submodule "aieconindex"]
 	path = aieconindex
 	url = https://github.com/cran/aieconindex
@@ -24629,6 +24665,9 @@
 [submodule "awsMethods"]
 	path = awsMethods
 	url = https://github.com/cran/awsMethods
+[submodule "awscrt"]
+	path = awscrt
+	url = https://github.com/cran/awscrt
 [submodule "axisandallies"]
 	path = axisandallies
 	url = https://github.com/cran/axisandallies
@@ -24893,6 +24932,9 @@
 [submodule "bartcs"]
 	path = bartcs
 	url = https://github.com/cran/bartcs
+[submodule "bartisan"]
+	path = bartisan
+	url = https://github.com/cran/bartisan
 [submodule "basad"]
 	path = basad
 	url = https://github.com/cran/basad
@@ -27287,6 +27329,9 @@
 [submodule "caesar"]
 	path = caesar
 	url = https://github.com/cran/caesar
+[submodule "cafast"]
+	path = cafast
+	url = https://github.com/cran/cafast
 [submodule "caffsim"]
 	path = caffsim
 	url = https://github.com/cran/caffsim
@@ -31007,6 +31052,9 @@
 [submodule "creditr"]
 	path = creditr
 	url = https://github.com/cran/creditr
+[submodule "creditratingsystem"]
+	path = creditratingsystem
+	url = https://github.com/cran/creditratingsystem
 [submodule "credsubs"]
 	path = credsubs
 	url = https://github.com/cran/credsubs
@@ -32981,6 +33029,9 @@
 [submodule "dgraphs"]
 	path = dgraphs
 	url = https://github.com/cran/dgraphs
+[submodule "dgtf"]
+	path = dgtf
+	url = https://github.com/cran/dgtf
 [submodule "dhga"]
 	path = dhga
 	url = https://github.com/cran/dhga
@@ -36176,6 +36227,9 @@
 [submodule "evgam"]
 	path = evgam
 	url = https://github.com/cran/evgam
+[submodule "evgmrf"]
+	path = evgmrf
+	url = https://github.com/cran/evgmrf
 [submodule "evidenceFactors"]
 	path = evidenceFactors
 	url = https://github.com/cran/evidenceFactors
@@ -42656,6 +42710,9 @@
 [submodule "hahmmr"]
 	path = hahmmr
 	url = https://github.com/cran/hahmmr
+[submodule "hairline"]
+	path = hairline
+	url = https://github.com/cran/hairline
 [submodule "hakaiApi"]
 	path = hakaiApi
 	url = https://github.com/cran/hakaiApi
@@ -47168,6 +47225,9 @@
 [submodule "lcyanalysis"]
 	path = lcyanalysis
 	url = https://github.com/cran/lcyanalysis
+[submodule "lczexplore"]
+	path = lczexplore
+	url = https://github.com/cran/lczexplore
 [submodule "lda"]
 	path = lda
 	url = https://github.com/cran/lda
@@ -47363,6 +47423,9 @@
 [submodule "lepidochroma"]
 	path = lepidochroma
 	url = https://github.com/cran/lepidochroma
+[submodule "lepidoptera"]
+	path = lepidoptera
+	url = https://github.com/cran/lepidoptera
 [submodule "leprechaun"]
 	path = leprechaun
 	url = https://github.com/cran/leprechaun
@@ -52499,6 +52562,9 @@
 [submodule "multipanelfigure"]
 	path = multipanelfigure
 	url = https://github.com/cran/multipanelfigure
+[submodule "multipathaic"]
+	path = multipathaic
+	url = https://github.com/cran/multipathaic
 [submodule "multipleDL"]
 	path = multipleDL
 	url = https://github.com/cran/multipleDL
@@ -59303,6 +59369,9 @@
 [submodule "psd"]
 	path = psd
 	url = https://github.com/cran/psd
+[submodule "psdea"]
+	path = psdea
+	url = https://github.com/cran/psdea
 [submodule "psdr"]
 	path = psdr
 	url = https://github.com/cran/psdr
@@ -61592,6 +61661,9 @@
 [submodule "rcorpora"]
 	path = rcorpora
 	url = https://github.com/cran/rcorpora
+[submodule "rcosmo"]
+	path = rcosmo
+	url = https://github.com/cran/rcosmo
 [submodule "rcppmlpackexamples"]
 	path = rcppmlpackexamples
 	url = https://github.com/cran/rcppmlpackexamples
@@ -61622,6 +61694,9 @@
 [submodule "rd2d"]
 	path = rd2d
 	url = https://github.com/cran/rd2d
+[submodule "rd2dnet"]
+	path = rd2dnet
+	url = https://github.com/cran/rd2dnet
 [submodule "rda"]
 	path = rda
 	url = https://github.com/cran/rda
@@ -65387,6 +65462,9 @@
 [submodule "saws"]
 	path = saws
 	url = https://github.com/cran/saws
+[submodule "saydo"]
+	path = saydo
+	url = https://github.com/cran/saydo
 [submodule "sazedR"]
 	path = sazedR
 	url = https://github.com/cran/sazedR
@@ -73298,6 +73376,9 @@
 [submodule "tpn"]
 	path = tpn
 	url = https://github.com/cran/tpn
+[submodule "tppcm"]
+	path = tppcm
+	url = https://github.com/cran/tppcm
 [submodule "tpr"]
 	path = tpr
 	url = https://github.com/cran/tpr
