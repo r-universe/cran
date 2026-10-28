@@ -13634,6 +13634,9 @@
 [submodule "PASWR2"]
 	path = PASWR2
 	url = https://github.com/cran/PASWR2
+[submodule "PAmeasures"]
+	path = PAmeasures
+	url = https://github.com/cran/PAmeasures
 [submodule "PAutilities"]
 	path = PAutilities
 	url = https://github.com/cran/PAutilities
@@ -24875,9 +24878,6 @@
 [submodule "bandsfdp"]
 	path = bandsfdp
 	url = https://github.com/cran/bandsfdp
-[submodule "banffIT"]
-	path = banffIT
-	url = https://github.com/cran/banffIT
 [submodule "bang"]
 	path = bang
 	url = https://github.com/cran/bang
@@ -41336,6 +41336,9 @@
 [submodule "gllvm"]
 	path = gllvm
 	url = https://github.com/cran/gllvm
+[submodule "gllvmTMB"]
+	path = gllvmTMB
+	url = https://github.com/cran/gllvmTMB
 [submodule "glm.deploy"]
 	path = glm.deploy
 	url = https://github.com/cran/glm.deploy
