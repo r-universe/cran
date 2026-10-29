@@ -36548,9 +36548,6 @@
 [submodule "extras"]
 	path = extras
 	url = https://github.com/cran/extras
-[submodule "extrasteps"]
-	path = extrasteps
-	url = https://github.com/cran/extrasteps
 [submodule "extraterrestrial"]
 	path = extraterrestrial
 	url = https://github.com/cran/extraterrestrial
@@ -70424,9 +70421,6 @@
 [submodule "stream"]
 	path = stream
 	url = https://github.com/cran/stream
-[submodule "streamConnect"]
-	path = streamConnect
-	url = https://github.com/cran/streamConnect
 [submodule "streamDAG"]
 	path = streamDAG
 	url = https://github.com/cran/streamDAG
