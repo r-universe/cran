@@ -1976,6 +1976,9 @@
 [submodule "BiDimRegression"]
 	path = BiDimRegression
 	url = https://github.com/cran/BiDimRegression
+[submodule "BiGaRx"]
+	path = BiGaRx
+	url = https://github.com/cran/BiGaRx
 [submodule "BiMaUmisc"]
 	path = BiMaUmisc
 	url = https://github.com/cran/BiMaUmisc
@@ -27530,6 +27533,9 @@
 [submodule "caples"]
 	path = caples
 	url = https://github.com/cran/caples
+[submodule "caplime"]
+	path = caplime
+	url = https://github.com/cran/caplime
 [submodule "caplot"]
 	path = caplot
 	url = https://github.com/cran/caplot
@@ -28202,6 +28208,9 @@
 [submodule "cepiigeodist"]
 	path = cepiigeodist
 	url = https://github.com/cran/cepiigeodist
+[submodule "cepip"]
+	path = cepip
+	url = https://github.com/cran/cepip
 [submodule "cepiweek"]
 	path = cepiweek
 	url = https://github.com/cran/cepiweek
@@ -32024,6 +32033,9 @@
 [submodule "dataganger"]
 	path = dataganger
 	url = https://github.com/cran/dataganger
+[submodule "datagrade"]
+	path = datagrade
+	url = https://github.com/cran/datagrade
 [submodule "datamedios"]
 	path = datamedios
 	url = https://github.com/cran/datamedios
@@ -62459,6 +62471,9 @@
 [submodule "relimp"]
 	path = relimp
 	url = https://github.com/cran/relimp
+[submodule "relm"]
+	path = relm
+	url = https://github.com/cran/relm
 [submodule "relsurv"]
 	path = relsurv
 	url = https://github.com/cran/relsurv
@@ -75104,6 +75119,9 @@
 [submodule "vartest"]
 	path = vartest
 	url = https://github.com/cran/vartest
+[submodule "varunayan"]
+	path = varunayan
+	url = https://github.com/cran/varunayan
 [submodule "varycoef"]
 	path = varycoef
 	url = https://github.com/cran/varycoef
