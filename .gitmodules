@@ -8945,6 +8945,9 @@
 [submodule "IETD"]
 	path = IETD
 	url = https://github.com/cran/IETD
+[submodule "IFARIMA"]
+	path = IFARIMA
+	url = https://github.com/cran/IFARIMA
 [submodule "IFC"]
 	path = IFC
 	url = https://github.com/cran/IFC
@@ -12083,6 +12086,9 @@
 [submodule "MixTwice"]
 	path = MixTwice
 	url = https://github.com/cran/MixTwice
+[submodule "MixedDiversityAnalysis"]
+	path = MixedDiversityAnalysis
+	url = https://github.com/cran/MixedDiversityAnalysis
 [submodule "MixedIndTests"]
 	path = MixedIndTests
 	url = https://github.com/cran/MixedIndTests
@@ -12374,6 +12380,9 @@
 [submodule "MultiTraits"]
 	path = MultiTraits
 	url = https://github.com/cran/MultiTraits
+[submodule "MultinomFourier"]
+	path = MultinomFourier
+	url = https://github.com/cran/MultinomFourier
 [submodule "MultipleBreakpoints"]
 	path = MultipleBreakpoints
 	url = https://github.com/cran/MultipleBreakpoints
@@ -16679,6 +16688,9 @@
 [submodule "RWDataPlyr"]
 	path = RWDataPlyr
 	url = https://github.com/cran/RWDataPlyr
+[submodule "RWInfoLSTM"]
+	path = RWInfoLSTM
+	url = https://github.com/cran/RWInfoLSTM
 [submodule "RWNN"]
 	path = RWNN
 	url = https://github.com/cran/RWNN
@@ -19016,6 +19028,9 @@
 [submodule "SWMPr"]
 	path = SWMPr
 	url = https://github.com/cran/SWMPr
+[submodule "SWORD"]
+	path = SWORD
+	url = https://github.com/cran/SWORD
 [submodule "SWTools"]
 	path = SWTools
 	url = https://github.com/cran/SWTools
@@ -23192,6 +23207,9 @@
 [submodule "aidR"]
 	path = aidR
 	url = https://github.com/cran/aidR
+[submodule "aidatabroker"]
+	path = aidatabroker
+	url = https://github.com/cran/aidatabroker
 [submodule "aieconindex"]
 	path = aieconindex
 	url = https://github.com/cran/aieconindex
@@ -26417,6 +26435,9 @@
 [submodule "bmet"]
 	path = bmet
 	url = https://github.com/cran/bmet
+[submodule "bmetapred"]
+	path = bmetapred
+	url = https://github.com/cran/bmetapred
 [submodule "bmgarch"]
 	path = bmgarch
 	url = https://github.com/cran/bmgarch
@@ -36548,6 +36569,9 @@
 [submodule "extras"]
 	path = extras
 	url = https://github.com/cran/extras
+[submodule "extrasteps"]
+	path = extrasteps
+	url = https://github.com/cran/extrasteps
 [submodule "extraterrestrial"]
 	path = extraterrestrial
 	url = https://github.com/cran/extraterrestrial
@@ -41519,6 +41543,9 @@
 [submodule "glsm"]
 	path = glsm
 	url = https://github.com/cran/glsm
+[submodule "glt"]
+	path = glt
+	url = https://github.com/cran/glt
 [submodule "glue"]
 	path = glue
 	url = https://github.com/cran/glue
@@ -49469,6 +49496,9 @@
 [submodule "maxstat"]
 	path = maxstat
 	url = https://github.com/cran/maxstat
+[submodule "maxtwin"]
+	path = maxtwin
+	url = https://github.com/cran/maxtwin
 [submodule "maybe"]
 	path = maybe
 	url = https://github.com/cran/maybe
@@ -58562,6 +58592,9 @@
 [submodule "powertools"]
 	path = powertools
 	url = https://github.com/cran/powertools
+[submodule "powerup"]
+	path = powerup
+	url = https://github.com/cran/powerup
 [submodule "powerutilities"]
 	path = powerutilities
 	url = https://github.com/cran/powerutilities
@@ -70421,6 +70454,9 @@
 [submodule "stream"]
 	path = stream
 	url = https://github.com/cran/stream
+[submodule "streamConnect"]
+	path = streamConnect
+	url = https://github.com/cran/streamConnect
 [submodule "streamDAG"]
 	path = streamDAG
 	url = https://github.com/cran/streamDAG
