@@ -11714,6 +11714,9 @@
 [submodule "MasterBayes"]
 	path = MasterBayes
 	url = https://github.com/cran/MasterBayes
+[submodule "MatTransMix"]
+	path = MatTransMix
+	url = https://github.com/cran/MatTransMix
 [submodule "MatchAlign"]
 	path = MatchAlign
 	url = https://github.com/cran/MatchAlign
@@ -24860,6 +24863,9 @@
 [submodule "baldur"]
 	path = baldur
 	url = https://github.com/cran/baldur
+[submodule "ballast"]
+	path = ballast
+	url = https://github.com/cran/ballast
 [submodule "balnet"]
 	path = balnet
 	url = https://github.com/cran/balnet
@@ -40184,6 +40190,9 @@
 [submodule "geotargets"]
 	path = geotargets
 	url = https://github.com/cran/geotargets
+[submodule "geotech"]
+	path = geotech
+	url = https://github.com/cran/geotech
 [submodule "geotools"]
 	path = geotools
 	url = https://github.com/cran/geotools
