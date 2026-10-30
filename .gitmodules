@@ -7181,6 +7181,9 @@
 [submodule "GAReg"]
 	path = GAReg
 	url = https://github.com/cran/GAReg
+[submodule "GAS"]
+	path = GAS
+	url = https://github.com/cran/GAS
 [submodule "GAparsimony"]
 	path = GAparsimony
 	url = https://github.com/cran/GAparsimony
@@ -13097,6 +13100,9 @@
 [submodule "OECD"]
 	path = OECD
 	url = https://github.com/cran/OECD
+[submodule "OECDdata"]
+	path = OECDdata
+	url = https://github.com/cran/OECDdata
 [submodule "OEFPIL"]
 	path = OEFPIL
 	url = https://github.com/cran/OEFPIL
@@ -28145,6 +28151,9 @@
 [submodule "cellranger"]
 	path = cellranger
 	url = https://github.com/cran/cellranger
+[submodule "cellsynth"]
+	path = cellsynth
+	url = https://github.com/cran/cellsynth
 [submodule "celltrackR"]
 	path = celltrackR
 	url = https://github.com/cran/celltrackR
