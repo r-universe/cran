@@ -22586,6 +22586,9 @@
 [submodule "acousticTS"]
 	path = acousticTS
 	url = https://github.com/cran/acousticTS
+[submodule "acpbvar"]
+	path = acpbvar
+	url = https://github.com/cran/acpbvar
 [submodule "acro"]
 	path = acro
 	url = https://github.com/cran/acro
@@ -27014,6 +27017,9 @@
 [submodule "bruno"]
 	path = bruno
 	url = https://github.com/cran/bruno
+[submodule "brvmr"]
+	path = brvmr
+	url = https://github.com/cran/brvmr
 [submodule "brxx"]
 	path = brxx
 	url = https://github.com/cran/brxx
@@ -50918,6 +50924,9 @@
 [submodule "misl"]
 	path = misl
 	url = https://github.com/cran/misl
+[submodule "misocialr"]
+	path = misocialr
+	url = https://github.com/cran/misocialr
 [submodule "mispitools"]
 	path = mispitools
 	url = https://github.com/cran/mispitools
@@ -66290,6 +66299,9 @@
 [submodule "sejmRP"]
 	path = sejmRP
 	url = https://github.com/cran/sejmRP
+[submodule "selSurv"]
+	path = selSurv
+	url = https://github.com/cran/selSurv
 [submodule "selcorr"]
 	path = selcorr
 	url = https://github.com/cran/selcorr
@@ -71411,6 +71423,9 @@
 [submodule "sysAgNPs"]
 	path = sysAgNPs
 	url = https://github.com/cran/sysAgNPs
+[submodule "sysbreak"]
+	path = sysbreak
+	url = https://github.com/cran/sysbreak
 [submodule "sysfonts"]
 	path = sysfonts
 	url = https://github.com/cran/sysfonts
@@ -73667,6 +73682,9 @@
 [submodule "traumar"]
 	path = traumar
 	url = https://github.com/cran/traumar
+[submodule "traveltime"]
+	path = traveltime
+	url = https://github.com/cran/traveltime
 [submodule "traveltimeR"]
 	path = traveltimeR
 	url = https://github.com/cran/traveltimeR
@@ -75584,6 +75602,9 @@
 [submodule "vizdraws"]
 	path = vizdraws
 	url = https://github.com/cran/vizdraws
+[submodule "vizintel"]
+	path = vizintel
+	url = https://github.com/cran/vizintel
 [submodule "vkR"]
 	path = vkR
 	url = https://github.com/cran/vkR
