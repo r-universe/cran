@@ -58523,9 +58523,6 @@
 [submodule "postpack"]
 	path = postpack
 	url = https://github.com/cran/postpack
-[submodule "postshock"]
-	path = postshock
-	url = https://github.com/cran/postshock
 [submodule "postvocs"]
 	path = postvocs
 	url = https://github.com/cran/postvocs
@@ -71753,9 +71750,6 @@
 [submodule "taxdiv"]
 	path = taxdiv
 	url = https://github.com/cran/taxdiv
-[submodule "taxify"]
-	path = taxify
-	url = https://github.com/cran/taxify
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/cran/taxize
