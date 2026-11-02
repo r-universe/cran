@@ -58523,6 +58523,9 @@
 [submodule "postpack"]
 	path = postpack
 	url = https://github.com/cran/postpack
+[submodule "postshock"]
+	path = postshock
+	url = https://github.com/cran/postshock
 [submodule "postvocs"]
 	path = postvocs
 	url = https://github.com/cran/postvocs
@@ -64844,6 +64847,9 @@
 [submodule "ruijter"]
 	path = ruijter
 	url = https://github.com/cran/ruijter
+[submodule "ruleatlas"]
+	path = ruleatlas
+	url = https://github.com/cran/ruleatlas
 [submodule "ruler"]
 	path = ruler
 	url = https://github.com/cran/ruler
@@ -71750,6 +71756,9 @@
 [submodule "taxdiv"]
 	path = taxdiv
 	url = https://github.com/cran/taxdiv
+[submodule "taxify"]
+	path = taxify
+	url = https://github.com/cran/taxify
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/cran/taxize
@@ -72443,6 +72452,9 @@
 [submodule "thurstonianIRT"]
 	path = thurstonianIRT
 	url = https://github.com/cran/thurstonianIRT
+[submodule "ti"]
+	path = ti
+	url = https://github.com/cran/ti
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/cran/tibble
