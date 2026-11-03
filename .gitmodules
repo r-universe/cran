@@ -7403,9 +7403,6 @@
 [submodule "GIGrvg"]
 	path = GIGrvg
 	url = https://github.com/cran/GIGrvg
-[submodule "GIMMEgVAR"]
-	path = GIMMEgVAR
-	url = https://github.com/cran/GIMMEgVAR
 [submodule "GINAX"]
 	path = GINAX
 	url = https://github.com/cran/GINAX
@@ -42371,9 +42368,6 @@
 [submodule "growR"]
 	path = growR
 	url = https://github.com/cran/growR
-[submodule "growth"]
-	path = growth
-	url = https://github.com/cran/growth
 [submodule "growthDecomp"]
 	path = growthDecomp
 	url = https://github.com/cran/growthDecomp
@@ -46715,9 +46709,6 @@
 [submodule "koRpus.lang.en"]
 	path = koRpus.lang.en
 	url = https://github.com/cran/koRpus.lang.en
-[submodule "kofdata"]
-	path = kofdata
-	url = https://github.com/cran/kofdata
 [submodule "kofn"]
 	path = kofn
 	url = https://github.com/cran/kofn
@@ -53120,9 +53111,6 @@
 [submodule "name"]
 	path = name
 	url = https://github.com/cran/name
-[submodule "namedropR"]
-	path = namedropR
-	url = https://github.com/cran/namedropR
 [submodule "namegender"]
 	path = namegender
 	url = https://github.com/cran/namegender
