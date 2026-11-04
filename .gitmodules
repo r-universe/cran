@@ -3779,6 +3779,9 @@
 [submodule "Compositionalcln"]
 	path = Compositionalcln
 	url = https://github.com/cran/Compositionalcln
+[submodule "Compositionalridge"]
+	path = Compositionalridge
+	url = https://github.com/cran/Compositionalridge
 [submodule "Compositionalscsmr"]
 	path = Compositionalscsmr
 	url = https://github.com/cran/Compositionalscsmr
@@ -9035,6 +9038,9 @@
 [submodule "IMTest"]
 	path = IMTest
 	url = https://github.com/cran/IMTest
+[submodule "IMW"]
+	path = IMW
+	url = https://github.com/cran/IMW
 [submodule "IMak"]
 	path = IMak
 	url = https://github.com/cran/IMak
@@ -32645,6 +32651,9 @@
 [submodule "defineR"]
 	path = defineR
 	url = https://github.com/cran/defineR
+[submodule "definecore"]
+	path = definecore
+	url = https://github.com/cran/definecore
 [submodule "deflateBR"]
 	path = deflateBR
 	url = https://github.com/cran/deflateBR
@@ -49832,6 +49841,9 @@
 [submodule "mdgc"]
 	path = mdgc
 	url = https://github.com/cran/mdgc
+[submodule "mdiharmonize"]
+	path = mdiharmonize
+	url = https://github.com/cran/mdiharmonize
 [submodule "mdir.logrank"]
 	path = mdir.logrank
 	url = https://github.com/cran/mdir.logrank
