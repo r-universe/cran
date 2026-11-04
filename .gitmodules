@@ -6332,6 +6332,9 @@
 [submodule "FARM"]
 	path = FARM
 	url = https://github.com/cran/FARM
+[submodule "FARM.eval"]
+	path = FARM.eval
+	url = https://github.com/cran/FARM.eval
 [submodule "FARS"]
 	path = FARS
 	url = https://github.com/cran/FARS
@@ -12173,6 +12176,9 @@
 [submodule "ModalForecast"]
 	path = ModalForecast
 	url = https://github.com/cran/ModalForecast
+[submodule "ModalNet"]
+	path = ModalNet
+	url = https://github.com/cran/ModalNet
 [submodule "Modalclust"]
 	path = Modalclust
 	url = https://github.com/cran/Modalclust
@@ -14771,6 +14777,9 @@
 [submodule "PolyTree"]
 	path = PolyTree
 	url = https://github.com/cran/PolyTree
+[submodule "PolyTrend"]
+	path = PolyTrend
+	url = https://github.com/cran/PolyTrend
 [submodule "Polychrome"]
 	path = Polychrome
 	url = https://github.com/cran/Polychrome
@@ -41456,6 +41465,9 @@
 [submodule "glmfsa"]
 	path = glmfsa
 	url = https://github.com/cran/glmfsa
+[submodule "glmheaders"]
+	path = glmheaders
+	url = https://github.com/cran/glmheaders
 [submodule "glmlep"]
 	path = glmlep
 	url = https://github.com/cran/glmlep
@@ -60398,6 +60410,9 @@
 [submodule "quarto"]
 	path = quarto
 	url = https://github.com/cran/quarto
+[submodule "quartodown"]
+	path = quartodown
+	url = https://github.com/cran/quartodown
 [submodule "quartose"]
 	path = quartose
 	url = https://github.com/cran/quartose
@@ -63293,6 +63308,9 @@
 [submodule "riingo"]
 	path = riingo
 	url = https://github.com/cran/riingo
+[submodule "rim"]
+	path = rim
+	url = https://github.com/cran/rim
 [submodule "rimu"]
 	path = rimu
 	url = https://github.com/cran/rimu
@@ -65636,6 +65654,9 @@
 [submodule "scBio"]
 	path = scBio
 	url = https://github.com/cran/scBio
+[submodule "scCAN"]
+	path = scCAN
+	url = https://github.com/cran/scCAN
 [submodule "scCATCH"]
 	path = scCATCH
 	url = https://github.com/cran/scCATCH
@@ -67007,6 +67028,9 @@
 [submodule "shiny.destroy"]
 	path = shiny.destroy
 	url = https://github.com/cran/shiny.destroy
+[submodule "shiny.element"]
+	path = shiny.element
+	url = https://github.com/cran/shiny.element
 [submodule "shiny.emptystate"]
 	path = shiny.emptystate
 	url = https://github.com/cran/shiny.emptystate
@@ -73937,6 +73961,9 @@
 [submodule "tripack"]
 	path = tripack
 	url = https://github.com/cran/tripack
+[submodule "triplclust"]
+	path = triplclust
+	url = https://github.com/cran/triplclust
 [submodule "triplediff"]
 	path = triplediff
 	url = https://github.com/cran/triplediff
@@ -74555,6 +74582,9 @@
 [submodule "ufRisk"]
 	path = ufRisk
 	url = https://github.com/cran/ufRisk
+[submodule "ufs"]
+	path = ufs
+	url = https://github.com/cran/ufs
 [submodule "ugatsdb"]
 	path = ugatsdb
 	url = https://github.com/cran/ugatsdb
