@@ -2519,6 +2519,9 @@
 [submodule "CCMnet"]
 	path = CCMnet
 	url = https://github.com/cran/CCMnet
+[submodule "CCNR"]
+	path = CCNR
+	url = https://github.com/cran/CCNR
 [submodule "CCP"]
 	path = CCP
 	url = https://github.com/cran/CCP
@@ -4289,6 +4292,9 @@
 [submodule "DClusterm"]
 	path = DClusterm
 	url = https://github.com/cran/DClusterm
+[submodule "DDAWASS"]
+	path = DDAWASS
+	url = https://github.com/cran/DDAWASS
 [submodule "DDD"]
 	path = DDD
 	url = https://github.com/cran/DDD
@@ -6299,6 +6305,9 @@
 [submodule "EzGP"]
 	path = EzGP
 	url = https://github.com/cran/EzGP
+[submodule "F2Adonis2"]
+	path = F2Adonis2
+	url = https://github.com/cran/F2Adonis2
 [submodule "FABInference"]
 	path = FABInference
 	url = https://github.com/cran/FABInference
@@ -7604,9 +7613,6 @@
 [submodule "GPSCDF"]
 	path = GPSCDF
 	url = https://github.com/cran/GPSCDF
-[submodule "GPSeqClus"]
-	path = GPSeqClus
-	url = https://github.com/cran/GPSeqClus
 [submodule "GPTCM"]
 	path = GPTCM
 	url = https://github.com/cran/GPTCM
@@ -16070,9 +16076,6 @@
 [submodule "RLT"]
 	path = RLT
 	url = https://github.com/cran/RLT
-[submodule "RLeafAngle"]
-	path = RLeafAngle
-	url = https://github.com/cran/RLeafAngle
 [submodule "RLescalation"]
 	path = RLescalation
 	url = https://github.com/cran/RLescalation
@@ -18287,6 +18290,9 @@
 [submodule "SCIproj"]
 	path = SCIproj
 	url = https://github.com/cran/SCIproj
+[submodule "SCMs"]
+	path = SCMs
+	url = https://github.com/cran/SCMs
 [submodule "SCOPRO"]
 	path = SCOPRO
 	url = https://github.com/cran/SCOPRO
@@ -19709,6 +19715,9 @@
 [submodule "SorptionAnalysis"]
 	path = SorptionAnalysis
 	url = https://github.com/cran/SorptionAnalysis
+[submodule "SortedEffects"]
+	path = SortedEffects
+	url = https://github.com/cran/SortedEffects
 [submodule "SoundShape"]
 	path = SoundShape
 	url = https://github.com/cran/SoundShape
@@ -36728,6 +36737,9 @@
 [submodule "ezr"]
 	path = ezr
 	url = https://github.com/cran/ezr
+[submodule "ezrsurvey"]
+	path = ezrsurvey
+	url = https://github.com/cran/ezrsurvey
 [submodule "f1dataR"]
 	path = f1dataR
 	url = https://github.com/cran/f1dataR
@@ -39413,9 +39425,6 @@
 [submodule "gamlss.lasso"]
 	path = gamlss.lasso
 	url = https://github.com/cran/gamlss.lasso
-[submodule "gamlss.mx"]
-	path = gamlss.mx
-	url = https://github.com/cran/gamlss.mx
 [submodule "gamlss.tr"]
 	path = gamlss.tr
 	url = https://github.com/cran/gamlss.tr
@@ -40742,6 +40751,9 @@
 [submodule "ggincerta"]
 	path = ggincerta
 	url = https://github.com/cran/ggincerta
+[submodule "ggindex"]
+	path = ggindex
+	url = https://github.com/cran/ggindex
 [submodule "gginference"]
 	path = gginference
 	url = https://github.com/cran/gginference
@@ -46805,6 +46817,9 @@
 [submodule "kpp2019"]
 	path = kpp2019
 	url = https://github.com/cran/kpp2019
+[submodule "kpqc"]
+	path = kpqc
+	url = https://github.com/cran/kpqc
 [submodule "kriens"]
 	path = kriens
 	url = https://github.com/cran/kriens
@@ -51110,9 +51125,6 @@
 [submodule "mixedLSR"]
 	path = mixedLSR
 	url = https://github.com/cran/mixedLSR
-[submodule "mixedMem"]
-	path = mixedMem
-	url = https://github.com/cran/mixedMem
 [submodule "mixedbiastest"]
 	path = mixedbiastest
 	url = https://github.com/cran/mixedbiastest
@@ -64352,6 +64364,9 @@
 [submodule "rplanes"]
 	path = rplanes
 	url = https://github.com/cran/rplanes
+[submodule "rplatypus"]
+	path = rplatypus
+	url = https://github.com/cran/rplatypus
 [submodule "rplec"]
 	path = rplec
 	url = https://github.com/cran/rplec
