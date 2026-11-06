@@ -5135,6 +5135,9 @@
 [submodule "DidacticBoost"]
 	path = DidacticBoost
 	url = https://github.com/cran/DidacticBoost
+[submodule "DielectricWaterR"]
+	path = DielectricWaterR
+	url = https://github.com/cran/DielectricWaterR
 [submodule "DiffCorr"]
 	path = DiffCorr
 	url = https://github.com/cran/DiffCorr
@@ -6020,6 +6023,9 @@
 [submodule "EpiEstim"]
 	path = EpiEstim
 	url = https://github.com/cran/EpiEstim
+[submodule "EpiExposure"]
+	path = EpiExposure
+	url = https://github.com/cran/EpiExposure
 [submodule "EpiForsk"]
 	path = EpiForsk
 	url = https://github.com/cran/EpiForsk
@@ -18584,6 +18590,9 @@
 [submodule "SITH"]
 	path = SITH
 	url = https://github.com/cran/SITH
+[submodule "SITSAR"]
+	path = SITSAR
+	url = https://github.com/cran/SITSAR
 [submodule "SIVMethod"]
 	path = SIVMethod
 	url = https://github.com/cran/SIVMethod
@@ -25868,6 +25877,9 @@
 [submodule "bigbang"]
 	path = bigbang
 	url = https://github.com/cran/bigbang
+[submodule "bigcurve"]
+	path = bigcurve
+	url = https://github.com/cran/bigcurve
 [submodule "bigdatadist"]
 	path = bigdatadist
 	url = https://github.com/cran/bigdatadist
@@ -27896,6 +27908,9 @@
 [submodule "causalHyperGraph"]
 	path = causalHyperGraph
 	url = https://github.com/cran/causalHyperGraph
+[submodule "causalMed"]
+	path = causalMed
+	url = https://github.com/cran/causalMed
 [submodule "causalOT"]
 	path = causalOT
 	url = https://github.com/cran/causalOT
@@ -28619,6 +28634,9 @@
 [submodule "chipPCR"]
 	path = chipPCR
 	url = https://github.com/cran/chipPCR
+[submodule "chiplot"]
+	path = chiplot
+	url = https://github.com/cran/chiplot
 [submodule "chirps"]
 	path = chirps
 	url = https://github.com/cran/chirps
@@ -34067,6 +34085,9 @@
 [submodule "drape"]
 	path = drape
 	url = https://github.com/cran/drape
+[submodule "drasR"]
+	path = drasR
+	url = https://github.com/cran/drasR
 [submodule "drat"]
 	path = drat
 	url = https://github.com/cran/drat
@@ -38552,6 +38573,9 @@
 [submodule "forgts"]
 	path = forgts
 	url = https://github.com/cran/forgts
+[submodule "form.model"]
+	path = form.model
+	url = https://github.com/cran/form.model
 [submodule "formatBibtex"]
 	path = formatBibtex
 	url = https://github.com/cran/formatBibtex
@@ -42050,6 +42074,9 @@
 [submodule "gpmap"]
 	path = gpmap
 	url = https://github.com/cran/gpmap
+[submodule "gpqyouden"]
+	path = gpqyouden
+	url = https://github.com/cran/gpqyouden
 [submodule "gprofiler2"]
 	path = gprofiler2
 	url = https://github.com/cran/gprofiler2
@@ -53114,6 +53141,9 @@
 [submodule "mziln"]
 	path = mziln
 	url = https://github.com/cran/mziln
+[submodule "mzimp"]
+	path = mzimp
+	url = https://github.com/cran/mzimp
 [submodule "mzipmed"]
 	path = mzipmed
 	url = https://github.com/cran/mzipmed
@@ -57503,6 +57533,9 @@
 [submodule "phyloregion"]
 	path = phyloregion
 	url = https://github.com/cran/phyloregion
+[submodule "phylorug"]
+	path = phylorug
+	url = https://github.com/cran/phylorug
 [submodule "phylosamp"]
 	path = phylosamp
 	url = https://github.com/cran/phylosamp
@@ -59750,6 +59783,9 @@
 [submodule "puls"]
 	path = puls
 	url = https://github.com/cran/puls
+[submodule "pulsar"]
+	path = pulsar
+	url = https://github.com/cran/pulsar
 [submodule "pulso"]
 	path = pulso
 	url = https://github.com/cran/pulso
@@ -64361,6 +64397,9 @@
 [submodule "rpkgkit"]
 	path = rpkgkit
 	url = https://github.com/cran/rpkgkit
+[submodule "rplam"]
+	path = rplam
+	url = https://github.com/cran/rplam
 [submodule "rplanes"]
 	path = rplanes
 	url = https://github.com/cran/rplanes
@@ -70622,6 +70661,9 @@
 [submodule "streamy"]
 	path = streamy
 	url = https://github.com/cran/streamy
+[submodule "streetlamp"]
+	path = streetlamp
+	url = https://github.com/cran/streetlamp
 [submodule "streetscape"]
 	path = streetscape
 	url = https://github.com/cran/streetscape
