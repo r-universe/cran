@@ -44243,6 +44243,9 @@
 [submodule "iSFun"]
 	path = iSFun
 	url = https://github.com/cran/iSFun
+[submodule "iSTATS"]
+	path = iSTATS
+	url = https://github.com/cran/iSTATS
 [submodule "iSTAY"]
 	path = iSTAY
 	url = https://github.com/cran/iSTAY
