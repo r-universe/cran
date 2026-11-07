@@ -368,6 +368,9 @@
 [submodule "ARIMAANN"]
 	path = ARIMAANN
 	url = https://github.com/cran/ARIMAANN
+[submodule "ARISE"]
+	path = ARISE
+	url = https://github.com/cran/ARISE
 [submodule "ARIbrain"]
 	path = ARIbrain
 	url = https://github.com/cran/ARIbrain
@@ -25583,6 +25586,9 @@
 [submodule "befproj"]
 	path = befproj
 	url = https://github.com/cran/befproj
+[submodule "behaviorchange"]
+	path = behaviorchange
+	url = https://github.com/cran/behaviorchange
 [submodule "behavr"]
 	path = behavr
 	url = https://github.com/cran/behavr
@@ -28346,6 +28352,9 @@
 [submodule "cfbseedR"]
 	path = cfbseedR
 	url = https://github.com/cran/cfbseedR
+[submodule "cfcompare"]
+	path = cfcompare
+	url = https://github.com/cran/cfcompare
 [submodule "cfda"]
 	path = cfda
 	url = https://github.com/cran/cfda
@@ -30959,6 +30968,9 @@
 [submodule "cox.rvph"]
 	path = cox.rvph
 	url = https://github.com/cran/cox.rvph
+[submodule "coxdev"]
+	path = coxdev
+	url = https://github.com/cran/coxdev
 [submodule "coxerr"]
 	path = coxerr
 	url = https://github.com/cran/coxerr
@@ -42605,6 +42617,9 @@
 [submodule "gss"]
 	path = gss
 	url = https://github.com/cran/gss
+[submodule "gst"]
+	path = gst
+	url = https://github.com/cran/gst
 [submodule "gstar"]
 	path = gstar
 	url = https://github.com/cran/gstar
@@ -43325,6 +43340,9 @@
 [submodule "hetGP"]
 	path = hetGP
 	url = https://github.com/cran/hetGP
+[submodule "hetNSC"]
+	path = hetNSC
+	url = https://github.com/cran/hetNSC
 [submodule "hetcorFS"]
 	path = hetcorFS
 	url = https://github.com/cran/hetcorFS
@@ -57209,6 +57227,9 @@
 [submodule "perturbR"]
 	path = perturbR
 	url = https://github.com/cran/perturbR
+[submodule "perufaunads004"]
+	path = perufaunads004
+	url = https://github.com/cran/perufaunads004
 [submodule "peruflorads43"]
 	path = peruflorads43
 	url = https://github.com/cran/peruflorads43
@@ -57446,6 +57467,9 @@
 [submodule "phontrast"]
 	path = phontrast
 	url = https://github.com/cran/phontrast
+[submodule "phoring"]
+	path = phoring
+	url = https://github.com/cran/phoring
 [submodule "phosphoricons"]
 	path = phosphoricons
 	url = https://github.com/cran/phosphoricons
@@ -59657,6 +59681,9 @@
 [submodule "pssmooth"]
 	path = pssmooth
 	url = https://github.com/cran/pssmooth
+[submodule "pstratreg"]
+	path = pstratreg
+	url = https://github.com/cran/pstratreg
 [submodule "psvd"]
 	path = psvd
 	url = https://github.com/cran/psvd
@@ -61751,6 +61778,9 @@
 [submodule "rcDEA"]
 	path = rcDEA
 	url = https://github.com/cran/rcDEA
+[submodule "rcamelspe"]
+	path = rcamelspe
+	url = https://github.com/cran/rcamelspe
 [submodule "rcarbon"]
 	path = rcarbon
 	url = https://github.com/cran/rcarbon
@@ -65237,6 +65267,9 @@
 [submodule "s3fs"]
 	path = s3fs
 	url = https://github.com/cran/s3fs
+[submodule "s3pe"]
+	path = s3pe
+	url = https://github.com/cran/s3pe
 [submodule "s7contract"]
 	path = s7contract
 	url = https://github.com/cran/s7contract
