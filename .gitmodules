@@ -17924,6 +17924,9 @@
 [submodule "Rpoppler"]
 	path = Rpoppler
 	url = https://github.com/cran/Rpoppler
+[submodule "Rprobit"]
+	path = Rprobit
+	url = https://github.com/cran/Rprobit
 [submodule "RprobitB"]
 	path = RprobitB
 	url = https://github.com/cran/RprobitB
@@ -23822,6 +23825,9 @@
 [submodule "apache.sedona"]
 	path = apache.sedona
 	url = https://github.com/cran/apache.sedona
+[submodule "apastats2"]
+	path = apastats2
+	url = https://github.com/cran/apastats2
 [submodule "apathe"]
 	path = apathe
 	url = https://github.com/cran/apathe
@@ -37676,6 +37682,9 @@
 [submodule "fgitR"]
 	path = fgitR
 	url = https://github.com/cran/fgitR
+[submodule "fgls"]
+	path = fgls
+	url = https://github.com/cran/fgls
 [submodule "fglsnet"]
 	path = fglsnet
 	url = https://github.com/cran/fglsnet
@@ -42074,6 +42083,9 @@
 [submodule "gpmap"]
 	path = gpmap
 	url = https://github.com/cran/gpmap
+[submodule "gpmapr"]
+	path = gpmapr
+	url = https://github.com/cran/gpmapr
 [submodule "gpqyouden"]
 	path = gpqyouden
 	url = https://github.com/cran/gpqyouden
@@ -53756,6 +53768,9 @@
 [submodule "newTestSurvRec"]
 	path = newTestSurvRec
 	url = https://github.com/cran/newTestSurvRec
+[submodule "newdata"]
+	path = newdata
+	url = https://github.com/cran/newdata
 [submodule "newmark"]
 	path = newmark
 	url = https://github.com/cran/newmark
@@ -54707,6 +54722,9 @@
 [submodule "nutriNetwork"]
 	path = nutriNetwork
 	url = https://github.com/cran/nutriNetwork
+[submodule "nutrigon"]
+	path = nutrigon
+	url = https://github.com/cran/nutrigon
 [submodule "nutrition"]
 	path = nutrition
 	url = https://github.com/cran/nutrition
@@ -55094,6 +55112,9 @@
 [submodule "omophub"]
 	path = omophub
 	url = https://github.com/cran/omophub
+[submodule "omphc"]
+	path = omphc
+	url = https://github.com/cran/omphc
 [submodule "ompr"]
 	path = ompr
 	url = https://github.com/cran/ompr
@@ -55745,6 +55766,9 @@
 [submodule "osfr"]
 	path = osfr
 	url = https://github.com/cran/osfr
+[submodule "osirad"]
+	path = osirad
+	url = https://github.com/cran/osirad
 [submodule "oskeyring"]
 	path = oskeyring
 	url = https://github.com/cran/oskeyring
@@ -58256,6 +58280,9 @@
 [submodule "poLCAParallel"]
 	path = poLCAParallel
 	url = https://github.com/cran/poLCAParallel
+[submodule "pobecu"]
+	path = pobecu
+	url = https://github.com/cran/pobecu
 [submodule "pocrm"]
 	path = pocrm
 	url = https://github.com/cran/pocrm
@@ -66275,6 +66302,9 @@
 [submodule "sealeveltools"]
 	path = sealeveltools
 	url = https://github.com/cran/sealeveltools
+[submodule "seam"]
+	path = seam
+	url = https://github.com/cran/seam
 [submodule "searchAnalyzeR"]
 	path = searchAnalyzeR
 	url = https://github.com/cran/searchAnalyzeR
@@ -70472,6 +70502,9 @@
 [submodule "stlplus"]
 	path = stlplus
 	url = https://github.com/cran/stlplus
+[submodule "stlpro"]
+	path = stlpro
+	url = https://github.com/cran/stlpro
 [submodule "stm"]
 	path = stm
 	url = https://github.com/cran/stm
@@ -71183,6 +71216,9 @@
 [submodule "survivalsvm"]
 	path = survivalsvm
 	url = https://github.com/cran/survivalsvm
+[submodule "surviveR"]
+	path = surviveR
+	url = https://github.com/cran/surviveR
 [submodule "survivoR"]
 	path = survivoR
 	url = https://github.com/cran/survivoR
@@ -72260,6 +72296,9 @@
 [submodule "testit"]
 	path = testit
 	url = https://github.com/cran/testit
+[submodule "testmath"]
+	path = testmath
+	url = https://github.com/cran/testmath
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/cran/testthat
@@ -75497,6 +75536,9 @@
 [submodule "vennDiagramLab"]
 	path = vennDiagramLab
 	url = https://github.com/cran/vennDiagramLab
+[submodule "vennabers"]
+	path = vennabers
+	url = https://github.com/cran/vennabers
 [submodule "venneuler"]
 	path = venneuler
 	url = https://github.com/cran/venneuler
@@ -75926,6 +75968,9 @@
 [submodule "vueR"]
 	path = vueR
 	url = https://github.com/cran/vueR
+[submodule "vulnr"]
+	path = vulnr
+	url = https://github.com/cran/vulnr
 [submodule "vvauditor"]
 	path = vvauditor
 	url = https://github.com/cran/vvauditor
@@ -77486,6 +77531,9 @@
 [submodule "zukomp"]
 	path = zukomp
 	url = https://github.com/cran/zukomp
+[submodule "zutoml"]
+	path = zutoml
+	url = https://github.com/cran/zutoml
 [submodule "zuxml"]
 	path = zuxml
 	url = https://github.com/cran/zuxml
