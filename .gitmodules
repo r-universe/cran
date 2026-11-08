@@ -8000,6 +8000,9 @@
 [submodule "GeoMongo"]
 	path = GeoMongo
 	url = https://github.com/cran/GeoMongo
+[submodule "GeoRange"]
+	path = GeoRange
+	url = https://github.com/cran/GeoRange
 [submodule "GeoThinneR"]
 	path = GeoThinneR
 	url = https://github.com/cran/GeoThinneR
@@ -75560,6 +75563,9 @@
 [submodule "vek"]
 	path = vek
 	url = https://github.com/cran/vek
+[submodule "velociraptr"]
+	path = velociraptr
+	url = https://github.com/cran/velociraptr
 [submodule "vembedr"]
 	path = vembedr
 	url = https://github.com/cran/vembedr
