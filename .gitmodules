@@ -4274,6 +4274,9 @@
 [submodule "DCG"]
 	path = DCG
 	url = https://github.com/cran/DCG
+[submodule "DCIi1"]
+	path = DCIi1
+	url = https://github.com/cran/DCIi1
 [submodule "DCL"]
 	path = DCL
 	url = https://github.com/cran/DCL
@@ -7997,9 +8000,6 @@
 [submodule "GeoMongo"]
 	path = GeoMongo
 	url = https://github.com/cran/GeoMongo
-[submodule "GeoRange"]
-	path = GeoRange
-	url = https://github.com/cran/GeoRange
 [submodule "GeoThinneR"]
 	path = GeoThinneR
 	url = https://github.com/cran/GeoThinneR
@@ -22520,6 +22520,9 @@
 [submodule "abstr"]
 	path = abstr
 	url = https://github.com/cran/abstr
+[submodule "abstractExtractR"]
+	path = abstractExtractR
+	url = https://github.com/cran/abstractExtractR
 [submodule "abstractr"]
 	path = abstractr
 	url = https://github.com/cran/abstractr
@@ -25748,6 +25751,9 @@
 [submodule "bfw"]
 	path = bfw
 	url = https://github.com/cran/bfw
+[submodule "bgbcalc"]
+	path = bgbcalc
+	url = https://github.com/cran/bgbcalc
 [submodule "bgev"]
 	path = bgev
 	url = https://github.com/cran/bgev
@@ -44375,9 +44381,6 @@
 [submodule "ibm"]
 	path = ibm
 	url = https://github.com/cran/ibm
-[submodule "ibmAcousticR"]
-	path = ibmAcousticR
-	url = https://github.com/cran/ibmAcousticR
 [submodule "ibmcraftr"]
 	path = ibmcraftr
 	url = https://github.com/cran/ibmcraftr
@@ -58868,6 +58871,9 @@
 [submodule "ppsr"]
 	path = ppsr
 	url = https://github.com/cran/ppsr
+[submodule "ppsynth"]
+	path = ppsynth
+	url = https://github.com/cran/ppsynth
 [submodule "ppwdeming"]
 	path = ppwdeming
 	url = https://github.com/cran/ppwdeming
@@ -75554,9 +75560,6 @@
 [submodule "vek"]
 	path = vek
 	url = https://github.com/cran/vek
-[submodule "velociraptr"]
-	path = velociraptr
-	url = https://github.com/cran/velociraptr
 [submodule "vembedr"]
 	path = vembedr
 	url = https://github.com/cran/vembedr
