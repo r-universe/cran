@@ -50261,9 +50261,6 @@
 [submodule "metaboData"]
 	path = metaboData
 	url = https://github.com/cran/metaboData
-[submodule "metabodecon"]
-	path = metabodecon
-	url = https://github.com/cran/metabodecon
 [submodule "metabodeconplus"]
 	path = metabodeconplus
 	url = https://github.com/cran/metabodeconplus
