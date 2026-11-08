@@ -12704,6 +12704,9 @@
 [submodule "NNMoMo"]
 	path = NNMoMo
 	url = https://github.com/cran/NNMoMo
+[submodule "NNPreg"]
+	path = NNPreg
+	url = https://github.com/cran/NNPreg
 [submodule "NNS"]
 	path = NNS
 	url = https://github.com/cran/NNS
@@ -17525,6 +17528,9 @@
 [submodule "RespirAnalyzer"]
 	path = RespirAnalyzer
 	url = https://github.com/cran/RespirAnalyzer
+[submodule "ResponseScan"]
+	path = ResponseScan
+	url = https://github.com/cran/ResponseScan
 [submodule "RestRserve"]
 	path = RestRserve
 	url = https://github.com/cran/RestRserve
@@ -21356,6 +21362,9 @@
 [submodule "TwoRegression"]
 	path = TwoRegression
 	url = https://github.com/cran/TwoRegression
+[submodule "TwoSampleCalImpute"]
+	path = TwoSampleCalImpute
+	url = https://github.com/cran/TwoSampleCalImpute
 [submodule "TwoSampleTest.HD"]
 	path = TwoSampleTest.HD
 	url = https://github.com/cran/TwoSampleTest.HD
@@ -32594,6 +32603,9 @@
 [submodule "decisionpaths"]
 	path = decisionpaths
 	url = https://github.com/cran/decisionpaths
+[submodule "decisions"]
+	path = decisions
+	url = https://github.com/cran/decisions
 [submodule "deckgl"]
 	path = deckgl
 	url = https://github.com/cran/deckgl
@@ -45113,6 +45125,9 @@
 [submodule "infocausality"]
 	path = infocausality
 	url = https://github.com/cran/infocausality
+[submodule "infocentroid"]
+	path = infocentroid
+	url = https://github.com/cran/infocentroid
 [submodule "infoelectoral"]
 	path = infoelectoral
 	url = https://github.com/cran/infoelectoral
@@ -50135,6 +50150,9 @@
 [submodule "memuse"]
 	path = memuse
 	url = https://github.com/cran/memuse
+[submodule "menstrualcycleR"]
+	path = menstrualcycleR
+	url = https://github.com/cran/menstrualcycleR
 [submodule "meow"]
 	path = meow
 	url = https://github.com/cran/meow
@@ -51284,6 +51302,9 @@
 [submodule "ml"]
 	path = ml
 	url = https://github.com/cran/ml
+[submodule "mlAEWMA"]
+	path = mlAEWMA
+	url = https://github.com/cran/mlAEWMA
 [submodule "mlS3"]
 	path = mlS3
 	url = https://github.com/cran/mlS3
@@ -67658,6 +67679,9 @@
 [submodule "sicure"]
 	path = sicure
 	url = https://github.com/cran/sicure
+[submodule "sideview"]
+	path = sideview
+	url = https://github.com/cran/sideview
 [submodule "sidier"]
 	path = sidier
 	url = https://github.com/cran/sidier
@@ -71693,6 +71717,9 @@
 [submodule "tRnslate"]
 	path = tRnslate
 	url = https://github.com/cran/tRnslate
+[submodule "tRowel"]
+	path = tRowel
+	url = https://github.com/cran/tRowel
 [submodule "tTOlr"]
 	path = tTOlr
 	url = https://github.com/cran/tTOlr
@@ -76301,6 +76328,12 @@
 [submodule "weathermetrics"]
 	path = weathermetrics
 	url = https://github.com/cran/weathermetrics
+[submodule "weaveCompare"]
+	path = weaveCompare
+	url = https://github.com/cran/weaveCompare
+[submodule "weaveDraft"]
+	path = weaveDraft
+	url = https://github.com/cran/weaveDraft
 [submodule "webSDM"]
 	path = webSDM
 	url = https://github.com/cran/webSDM
@@ -77027,6 +77060,9 @@
 [submodule "xegaSelectGene"]
 	path = xegaSelectGene
 	url = https://github.com/cran/xegaSelectGene
+[submodule "xemd"]
+	path = xemd
+	url = https://github.com/cran/xemd
 [submodule "xergm.common"]
 	path = xergm.common
 	url = https://github.com/cran/xergm.common
