@@ -24308,6 +24308,9 @@
 [submodule "ashapesampler"]
 	path = ashapesampler
 	url = https://github.com/cran/ashapesampler
+[submodule "asharechips"]
+	path = asharechips
+	url = https://github.com/cran/asharechips
 [submodule "ashr"]
 	path = ashr
 	url = https://github.com/cran/ashr
@@ -36272,6 +36275,9 @@
 [submodule "etwfe"]
 	path = etwfe
 	url = https://github.com/cran/etwfe
+[submodule "euaiact"]
+	path = euaiact
+	url = https://github.com/cran/euaiact
 [submodule "eudract"]
 	path = eudract
 	url = https://github.com/cran/eudract
@@ -37106,6 +37112,9 @@
 [submodule "farff"]
 	path = farff
 	url = https://github.com/cran/farff
+[submodule "farfima"]
+	path = farfima
+	url = https://github.com/cran/farfima
 [submodule "farmPartial"]
 	path = farmPartial
 	url = https://github.com/cran/farmPartial
@@ -41036,6 +41045,9 @@
 [submodule "ggpval"]
 	path = ggpval
 	url = https://github.com/cran/ggpval
+[submodule "ggpyramid"]
+	path = ggpyramid
+	url = https://github.com/cran/ggpyramid
 [submodule "ggquickeda"]
 	path = ggquickeda
 	url = https://github.com/cran/ggquickeda
