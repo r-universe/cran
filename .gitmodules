@@ -23570,6 +23570,9 @@
 [submodule "amazonadsR"]
 	path = amazonadsR
 	url = https://github.com/cran/amazonadsR
+[submodule "amazonasdatahub"]
+	path = amazonasdatahub
+	url = https://github.com/cran/amazonasdatahub
 [submodule "amazons3R"]
 	path = amazons3R
 	url = https://github.com/cran/amazons3R
@@ -48800,6 +48803,9 @@
 [submodule "lunar"]
 	path = lunar
 	url = https://github.com/cran/lunar
+[submodule "lupa"]
+	path = lupa
+	url = https://github.com/cran/lupa
 [submodule "lutz"]
 	path = lutz
 	url = https://github.com/cran/lutz
@@ -56813,6 +56819,9 @@
 [submodule "pcdid"]
 	path = pcdid
 	url = https://github.com/cran/pcdid
+[submodule "pcdreg"]
+	path = pcdreg
+	url = https://github.com/cran/pcdreg
 [submodule "pcds"]
 	path = pcds
 	url = https://github.com/cran/pcds
@@ -60917,6 +60926,9 @@
 [submodule "rFocal"]
 	path = rFocal
 	url = https://github.com/cran/rFocal
+[submodule "rGEDI"]
+	path = rGEDI
+	url = https://github.com/cran/rGEDI
 [submodule "rGV"]
 	path = rGV
 	url = https://github.com/cran/rGV
