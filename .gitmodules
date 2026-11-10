@@ -8342,9 +8342,6 @@
 [submodule "HDclassif"]
 	path = HDclassif
 	url = https://github.com/cran/HDclassif
-[submodule "HDclust"]
-	path = HDclust
-	url = https://github.com/cran/HDclust
 [submodule "HDcpDetect"]
 	path = HDcpDetect
 	url = https://github.com/cran/HDcpDetect
@@ -12905,9 +12902,6 @@
 [submodule "NetLogoR"]
 	path = NetLogoR
 	url = https://github.com/cran/NetLogoR
-[submodule "NetMix"]
-	path = NetMix
-	url = https://github.com/cran/NetMix
 [submodule "NetOrigin"]
 	path = NetOrigin
 	url = https://github.com/cran/NetOrigin
@@ -32726,9 +32720,6 @@
 [submodule "deflist"]
 	path = deflist
 	url = https://github.com/cran/deflist
-[submodule "defm"]
-	path = defm
-	url = https://github.com/cran/defm
 [submodule "deforestable"]
 	path = deforestable
 	url = https://github.com/cran/deforestable
@@ -44786,9 +44777,6 @@
 [submodule "imageviewer"]
 	path = imageviewer
 	url = https://github.com/cran/imageviewer
-[submodule "imaginarycss"]
-	path = imaginarycss
-	url = https://github.com/cran/imaginarycss
 [submodule "imaginator"]
 	path = imaginator
 	url = https://github.com/cran/imaginator
