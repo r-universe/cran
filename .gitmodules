@@ -19616,9 +19616,6 @@
 [submodule "Slick"]
 	path = Slick
 	url = https://github.com/cran/Slick
-[submodule "SlideCNA"]
-	path = SlideCNA
-	url = https://github.com/cran/SlideCNA
 [submodule "SlidingWindows"]
 	path = SlidingWindows
 	url = https://github.com/cran/SlidingWindows
@@ -44726,9 +44723,6 @@
 [submodule "ihsMW"]
 	path = ihsMW
 	url = https://github.com/cran/ihsMW
-[submodule "iimi"]
-	path = iimi
-	url = https://github.com/cran/iimi
 [submodule "ijtiff"]
 	path = ijtiff
 	url = https://github.com/cran/ijtiff
@@ -51548,9 +51542,6 @@
 [submodule "mltest"]
 	path = mltest
 	url = https://github.com/cran/mltest
-[submodule "mltools"]
-	path = mltools
-	url = https://github.com/cran/mltools
 [submodule "mlts"]
 	path = mlts
 	url = https://github.com/cran/mlts
@@ -59312,9 +59303,6 @@
 [submodule "processmonitR"]
 	path = processmonitR
 	url = https://github.com/cran/processmonitR
-[submodule "processpredictR"]
-	path = processpredictR
-	url = https://github.com/cran/processpredictR
 [submodule "processx"]
 	path = processx
 	url = https://github.com/cran/processx
@@ -61001,9 +60989,6 @@
 [submodule "rMEA"]
 	path = rMEA
 	url = https://github.com/cran/rMEA
-[submodule "rMIDAS"]
-	path = rMIDAS
-	url = https://github.com/cran/rMIDAS
 [submodule "rMIDAS2"]
 	path = rMIDAS2
 	url = https://github.com/cran/rMIDAS2
