@@ -3893,6 +3893,9 @@
 [submodule "ContourFunctions"]
 	path = ContourFunctions
 	url = https://github.com/cran/ContourFunctions
+[submodule "ConverTier2"]
+	path = ConverTier2
+	url = https://github.com/cran/ConverTier2
 [submodule "ConvergeR"]
 	path = ConvergeR
 	url = https://github.com/cran/ConvergeR
@@ -11885,6 +11888,9 @@
 [submodule "MetBrewer"]
 	path = MetBrewer
 	url = https://github.com/cran/MetBrewer
+[submodule "MetPhenoR"]
+	path = MetPhenoR
+	url = https://github.com/cran/MetPhenoR
 [submodule "MetSizeR"]
 	path = MetSizeR
 	url = https://github.com/cran/MetSizeR
@@ -29174,6 +29180,9 @@
 [submodule "climwin"]
 	path = climwin
 	url = https://github.com/cran/climwin
+[submodule "clinChat"]
+	path = clinChat
+	url = https://github.com/cran/clinChat
 [submodule "clinCompare"]
 	path = clinCompare
 	url = https://github.com/cran/clinCompare
@@ -49208,6 +49217,9 @@
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/cran/mapSpain
+[submodule "mapSpainHist"]
+	path = mapSpainHist
+	url = https://github.com/cran/mapSpainHist
 [submodule "mapStats"]
 	path = mapStats
 	url = https://github.com/cran/mapStats
@@ -59402,6 +59414,9 @@
 [submodule "proj4"]
 	path = proj4
 	url = https://github.com/cran/proj4
+[submodule "projectData"]
+	path = projectData
+	url = https://github.com/cran/projectData
 [submodule "projectLSA"]
 	path = projectLSA
 	url = https://github.com/cran/projectLSA
@@ -74030,6 +74045,9 @@
 [submodule "treehunt"]
 	path = treehunt
 	url = https://github.com/cran/treehunt
+[submodule "treelayout"]
+	path = treelayout
+	url = https://github.com/cran/treelayout
 [submodule "treemap"]
 	path = treemap
 	url = https://github.com/cran/treemap
@@ -77627,6 +77645,9 @@
 [submodule "zukomp"]
 	path = zukomp
 	url = https://github.com/cran/zukomp
+[submodule "zumime"]
+	path = zumime
+	url = https://github.com/cran/zumime
 [submodule "zutoml"]
 	path = zutoml
 	url = https://github.com/cran/zutoml
