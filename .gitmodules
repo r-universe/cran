@@ -58430,9 +58430,6 @@
 [submodule "polished"]
 	path = polished
 	url = https://github.com/cran/polished
-[submodule "polite"]
-	path = polite
-	url = https://github.com/cran/polite
 [submodule "politeness"]
 	path = politeness
 	url = https://github.com/cran/politeness
@@ -77462,9 +77459,6 @@
 [submodule "zenplots"]
 	path = zenplots
 	url = https://github.com/cran/zenplots
-[submodule "zenstats"]
-	path = zenstats
-	url = https://github.com/cran/zenstats
 [submodule "zentraR"]
 	path = zentraR
 	url = https://github.com/cran/zentraR
