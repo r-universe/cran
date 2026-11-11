@@ -15104,6 +15104,9 @@
 [submodule "PsyControl"]
 	path = PsyControl
 	url = https://github.com/cran/PsyControl
+[submodule "PsyLingLLM"]
+	path = PsyLingLLM
+	url = https://github.com/cran/PsyLingLLM
 [submodule "PsyMetricTools"]
 	path = PsyMetricTools
 	url = https://github.com/cran/PsyMetricTools
@@ -27614,6 +27617,9 @@
 [submodule "canvasXpress.data"]
 	path = canvasXpress.data
 	url = https://github.com/cran/canvasXpress.data
+[submodule "canvasXpressDashboards"]
+	path = canvasXpressDashboards
+	url = https://github.com/cran/canvasXpressDashboards
 [submodule "caper"]
 	path = caper
 	url = https://github.com/cran/caper
@@ -61145,6 +61151,9 @@
 [submodule "rUM"]
 	path = rUM
 	url = https://github.com/cran/rUM
+[submodule "rWCVP"]
+	path = rWCVP
+	url = https://github.com/cran/rWCVP
 [submodule "rWind"]
 	path = rWind
 	url = https://github.com/cran/rWind
@@ -61904,6 +61913,9 @@
 [submodule "rco"]
 	path = rco
 	url = https://github.com/cran/rco
+[submodule "rcodeagent"]
+	path = rcodeagent
+	url = https://github.com/cran/rcodeagent
 [submodule "rcoder"]
 	path = rcoder
 	url = https://github.com/cran/rcoder
@@ -77585,6 +77597,9 @@
 [submodule "ztype"]
 	path = ztype
 	url = https://github.com/cran/ztype
+[submodule "zubin"]
+	path = zubin
+	url = https://github.com/cran/zubin
 [submodule "zucbor"]
 	path = zucbor
 	url = https://github.com/cran/zucbor
