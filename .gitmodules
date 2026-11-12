@@ -6944,6 +6944,9 @@
 [submodule "Fluidigm"]
 	path = Fluidigm
 	url = https://github.com/cran/Fluidigm
+[submodule "FluvialTracer"]
+	path = FluvialTracer
+	url = https://github.com/cran/FluvialTracer
 [submodule "FluxPoint"]
 	path = FluxPoint
 	url = https://github.com/cran/FluxPoint
@@ -14498,6 +14501,9 @@
 [submodule "Path.Analysis"]
 	path = Path.Analysis
 	url = https://github.com/cran/Path.Analysis
+[submodule "PathoFMPred"]
+	path = PathoFMPred
+	url = https://github.com/cran/PathoFMPred
 [submodule "PathwaySpace"]
 	path = PathwaySpace
 	url = https://github.com/cran/PathwaySpace
@@ -22379,6 +22385,9 @@
 [submodule "ZRA"]
 	path = ZRA
 	url = https://github.com/cran/ZRA
+[submodule "ZTRecur"]
+	path = ZTRecur
+	url = https://github.com/cran/ZTRecur
 [submodule "ZVCV"]
 	path = ZVCV
 	url = https://github.com/cran/ZVCV
@@ -49481,6 +49490,9 @@
 [submodule "mascarade"]
 	path = mascarade
 	url = https://github.com/cran/mascarade
+[submodule "mascot"]
+	path = mascot
+	url = https://github.com/cran/mascot
 [submodule "mase"]
 	path = mase
 	url = https://github.com/cran/mase
@@ -50867,6 +50879,9 @@
 [submodule "migest"]
 	path = migest
 	url = https://github.com/cran/migest
+[submodule "mighty.component"]
+	path = mighty.component
+	url = https://github.com/cran/mighty.component
 [submodule "mighty.metadata"]
 	path = mighty.metadata
 	url = https://github.com/cran/mighty.metadata
@@ -52370,6 +52385,9 @@
 [submodule "msamp"]
 	path = msamp
 	url = https://github.com/cran/msamp
+[submodule "msarima"]
+	path = msarima
+	url = https://github.com/cran/msarima
 [submodule "msce"]
 	path = msce
 	url = https://github.com/cran/msce
@@ -72500,6 +72518,9 @@
 [submodule "texter"]
 	path = texter
 	url = https://github.com/cran/texter
+[submodule "textileFlame"]
+	path = textileFlame
+	url = https://github.com/cran/textileFlame
 [submodule "textir"]
 	path = textir
 	url = https://github.com/cran/textir
