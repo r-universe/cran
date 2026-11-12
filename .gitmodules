@@ -8669,6 +8669,9 @@
 [submodule "HiddenMarkov"]
 	path = HiddenMarkov
 	url = https://github.com/cran/HiddenMarkov
+[submodule "HiddenTrunc"]
+	path = HiddenTrunc
+	url = https://github.com/cran/HiddenTrunc
 [submodule "HierPortfolios"]
 	path = HierPortfolios
 	url = https://github.com/cran/HierPortfolios
@@ -23906,6 +23909,9 @@
 [submodule "apisensr"]
 	path = apisensr
 	url = https://github.com/cran/apisensr
+[submodule "aplime"]
+	path = aplime
+	url = https://github.com/cran/aplime
 [submodule "aplms"]
 	path = aplms
 	url = https://github.com/cran/aplms
@@ -24554,6 +24560,9 @@
 [submodule "ausOpenData"]
 	path = ausOpenData
 	url = https://github.com/cran/ausOpenData
+[submodule "ausPH"]
+	path = ausPH
+	url = https://github.com/cran/ausPH
 [submodule "ausplotsR"]
 	path = ausplotsR
 	url = https://github.com/cran/ausplotsR
@@ -59528,6 +59537,9 @@
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/cran/prophet
+[submodule "propop"]
+	path = propop
+	url = https://github.com/cran/propop
 [submodule "proporz"]
 	path = proporz
 	url = https://github.com/cran/proporz
@@ -63083,6 +63095,9 @@
 [submodule "restaurant"]
 	path = restaurant
 	url = https://github.com/cran/restaurant
+[submodule "rester"]
+	path = rester
+	url = https://github.com/cran/rester
 [submodule "restez"]
 	path = restez
 	url = https://github.com/cran/restez
@@ -71954,6 +71969,9 @@
 [submodule "tailTransform"]
 	path = tailTransform
 	url = https://github.com/cran/tailTransform
+[submodule "tailcdf"]
+	path = tailcdf
+	url = https://github.com/cran/tailcdf
 [submodule "tailloss"]
 	path = tailloss
 	url = https://github.com/cran/tailloss
