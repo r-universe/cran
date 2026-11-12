@@ -33722,9 +33722,6 @@
 [submodule "diversityArch"]
 	path = diversityArch
 	url = https://github.com/cran/diversityArch
-[submodule "diversityForest"]
-	path = diversityForest
-	url = https://github.com/cran/diversityForest
 [submodule "divest"]
 	path = divest
 	url = https://github.com/cran/divest
