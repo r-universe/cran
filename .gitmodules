@@ -15119,6 +15119,9 @@
 [submodule "PsyLingLLM"]
 	path = PsyLingLLM
 	url = https://github.com/cran/PsyLingLLM
+[submodule "PsyML"]
+	path = PsyML
+	url = https://github.com/cran/PsyML
 [submodule "PsyMetricTools"]
 	path = PsyMetricTools
 	url = https://github.com/cran/PsyMetricTools
@@ -24926,6 +24929,9 @@
 [submodule "bagged.outliertrees"]
 	path = bagged.outliertrees
 	url = https://github.com/cran/bagged.outliertrees
+[submodule "baggingReserve"]
+	path = baggingReserve
+	url = https://github.com/cran/baggingReserve
 [submodule "baggingbwsel"]
 	path = baggingbwsel
 	url = https://github.com/cran/baggingbwsel
@@ -27173,6 +27179,9 @@
 [submodule "bsocialv2"]
 	path = bsocialv2
 	url = https://github.com/cran/bsocialv2
+[submodule "bspam"]
+	path = bspam
+	url = https://github.com/cran/bspam
 [submodule "bspcov"]
 	path = bspcov
 	url = https://github.com/cran/bspcov
@@ -29978,6 +29987,9 @@
 [submodule "colt"]
 	path = colt
 	url = https://github.com/cran/colt
+[submodule "colvR"]
+	path = colvR
+	url = https://github.com/cran/colvR
 [submodule "comFuncs"]
 	path = comFuncs
 	url = https://github.com/cran/comFuncs
@@ -34517,6 +34529,9 @@
 [submodule "dvir"]
 	path = dvir
 	url = https://github.com/cran/dvir
+[submodule "dvqcc"]
+	path = dvqcc
+	url = https://github.com/cran/dvqcc
 [submodule "dwctaxon"]
 	path = dwctaxon
 	url = https://github.com/cran/dwctaxon
@@ -37475,6 +37490,9 @@
 [submodule "fcp"]
 	path = fcp
 	url = https://github.com/cran/fcp
+[submodule "fcrci"]
+	path = fcrci
+	url = https://github.com/cran/fcrci
 [submodule "fcros"]
 	path = fcros
 	url = https://github.com/cran/fcros
@@ -42002,6 +42020,9 @@
 [submodule "googler"]
 	path = googler
 	url = https://github.com/cran/googler
+[submodule "googlesecretmanager"]
+	path = googlesecretmanager
+	url = https://github.com/cran/googlesecretmanager
 [submodule "googlesheets4"]
 	path = googlesheets4
 	url = https://github.com/cran/googlesheets4
