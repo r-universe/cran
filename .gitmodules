@@ -69968,6 +69968,9 @@
 [submodule "ssMRCD"]
 	path = ssMRCD
 	url = https://github.com/cran/ssMRCD
+[submodule "ssMRCT"]
+	path = ssMRCT
+	url = https://github.com/cran/ssMRCT
 [submodule "ssMousetrack"]
 	path = ssMousetrack
 	url = https://github.com/cran/ssMousetrack
