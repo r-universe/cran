@@ -23759,6 +23759,9 @@
 [submodule "annotator"]
 	path = annotator
 	url = https://github.com/cran/annotator
+[submodule "annsearchR"]
+	path = annsearchR
+	url = https://github.com/cran/annsearchR
 [submodule "anocva"]
 	path = anocva
 	url = https://github.com/cran/anocva
@@ -33317,6 +33320,9 @@
 [submodule "dichromat"]
 	path = dichromat
 	url = https://github.com/cran/dichromat
+[submodule "dicomtk"]
+	path = dicomtk
+	url = https://github.com/cran/dicomtk
 [submodule "dictionaRy"]
 	path = dictionaRy
 	url = https://github.com/cran/dictionaRy
@@ -34904,6 +34910,9 @@
 [submodule "easypackages"]
 	path = easypackages
 	url = https://github.com/cran/easypackages
+[submodule "easypaper"]
+	path = easypaper
+	url = https://github.com/cran/easypaper
 [submodule "easypower"]
 	path = easypower
 	url = https://github.com/cran/easypower
@@ -35390,6 +35399,9 @@
 [submodule "ei.Datasets"]
 	path = ei.Datasets
 	url = https://github.com/cran/ei.Datasets
+[submodule "eiCR"]
+	path = eiCR
+	url = https://github.com/cran/eiCR
 [submodule "eiCircles"]
 	path = eiCircles
 	url = https://github.com/cran/eiCircles
@@ -38399,6 +38411,9 @@
 [submodule "flownet"]
 	path = flownet
 	url = https://github.com/cran/flownet
+[submodule "flows"]
+	path = flows
+	url = https://github.com/cran/flows
 [submodule "flowz"]
 	path = flowz
 	url = https://github.com/cran/flowz
@@ -43292,6 +43307,9 @@
 [submodule "healthmotionR"]
 	path = healthmotionR
 	url = https://github.com/cran/healthmotionR
+[submodule "healthsim"]
+	path = healthsim
+	url = https://github.com/cran/healthsim
 [submodule "healthyAddress"]
 	path = healthyAddress
 	url = https://github.com/cran/healthyAddress
@@ -74618,6 +74636,9 @@
 [submodule "tugboat"]
 	path = tugboat
 	url = https://github.com/cran/tugboat
+[submodule "tuiksdmx"]
+	path = tuiksdmx
+	url = https://github.com/cran/tuiksdmx
 [submodule "tukeytrend"]
 	path = tukeytrend
 	url = https://github.com/cran/tukeytrend
