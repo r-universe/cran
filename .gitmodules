@@ -36863,6 +36863,9 @@
 [submodule "fBonds"]
 	path = fBonds
 	url = https://github.com/cran/fBonds
+[submodule "fCWTr"]
+	path = fCWTr
+	url = https://github.com/cran/fCWTr
 [submodule "fChange"]
 	path = fChange
 	url = https://github.com/cran/fChange
