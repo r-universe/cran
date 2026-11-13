@@ -1598,6 +1598,9 @@
 [submodule "BasicStatsPlots"]
 	path = BasicStatsPlots
 	url = https://github.com/cran/BasicStatsPlots
+[submodule "BasinmodlR"]
+	path = BasinmodlR
+	url = https://github.com/cran/BasinmodlR
 [submodule "BasketTrial"]
 	path = BasketTrial
 	url = https://github.com/cran/BasketTrial
@@ -18980,6 +18983,9 @@
 [submodule "SSP"]
 	path = SSP
 	url = https://github.com/cran/SSP
+[submodule "SSPICE"]
+	path = SSPICE
+	url = https://github.com/cran/SSPICE
 [submodule "SSRA"]
 	path = SSRA
 	url = https://github.com/cran/SSRA
@@ -23951,6 +23957,9 @@
 [submodule "appeears"]
 	path = appeears
 	url = https://github.com/cran/appeears
+[submodule "appkitr"]
+	path = appkitr
+	url = https://github.com/cran/appkitr
 [submodule "appleadsR"]
 	path = appleadsR
 	url = https://github.com/cran/appleadsR
@@ -27170,6 +27179,9 @@
 [submodule "bsicons"]
 	path = bsicons
 	url = https://github.com/cran/bsicons
+[submodule "bsikompendium"]
+	path = bsikompendium
+	url = https://github.com/cran/bsikompendium
 [submodule "bsitar"]
 	path = bsitar
 	url = https://github.com/cran/bsitar
@@ -31835,6 +31847,9 @@
 [submodule "cvms"]
 	path = cvms
 	url = https://github.com/cran/cvms
+[submodule "cvpa"]
+	path = cvpa
+	url = https://github.com/cran/cvpa
 [submodule "cvsem"]
 	path = cvsem
 	url = https://github.com/cran/cvsem
@@ -33908,6 +33923,9 @@
 [submodule "docket"]
 	path = docket
 	url = https://github.com/cran/docket
+[submodule "docketscape"]
+	path = docketscape
+	url = https://github.com/cran/docketscape
 [submodule "docknitr"]
 	path = docknitr
 	url = https://github.com/cran/docknitr
@@ -34490,6 +34508,9 @@
 [submodule "duckdbfs"]
 	path = duckdbfs
 	url = https://github.com/cran/duckdbfs
+[submodule "duckdf"]
+	path = duckdf
+	url = https://github.com/cran/duckdf
 [submodule "duckduckr"]
 	path = duckduckr
 	url = https://github.com/cran/duckduckr
@@ -44858,6 +44879,9 @@
 [submodule "imbalanceDatRel"]
 	path = imbalanceDatRel
 	url = https://github.com/cran/imbalanceDatRel
+[submodule "imbalanceKit"]
+	path = imbalanceKit
+	url = https://github.com/cran/imbalanceKit
 [submodule "imbibe"]
 	path = imbibe
 	url = https://github.com/cran/imbibe
@@ -47114,6 +47138,9 @@
 [submodule "labelmachine"]
 	path = labelmachine
 	url = https://github.com/cran/labelmachine
+[submodule "labelnoise"]
+	path = labelnoise
+	url = https://github.com/cran/labelnoise
 [submodule "labelr"]
 	path = labelr
 	url = https://github.com/cran/labelr
@@ -74258,6 +74285,9 @@
 [submodule "tropAlgebra"]
 	path = tropAlgebra
 	url = https://github.com/cran/tropAlgebra
+[submodule "tropicalSparse"]
+	path = tropicalSparse
+	url = https://github.com/cran/tropicalSparse
 [submodule "trotter"]
 	path = trotter
 	url = https://github.com/cran/trotter
@@ -75446,6 +75476,9 @@
 [submodule "vannstats"]
 	path = vannstats
 	url = https://github.com/cran/vannstats
+[submodule "vantorr"]
+	path = vantorr
+	url = https://github.com/cran/vantorr
 [submodule "vapour"]
 	path = vapour
 	url = https://github.com/cran/vapour
@@ -76409,6 +76442,9 @@
 [submodule "weakARMA"]
 	path = weakARMA
 	url = https://github.com/cran/weakARMA
+[submodule "weasel"]
+	path = weasel
+	url = https://github.com/cran/weasel
 [submodule "weathR"]
 	path = weathR
 	url = https://github.com/cran/weathR
