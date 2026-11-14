@@ -28988,6 +28988,9 @@
 [submodule "citecorp"]
 	path = citecorp
 	url = https://github.com/cran/citecorp
+[submodule "citelens"]
+	path = citelens
+	url = https://github.com/cran/citelens
 [submodule "citesperu"]
 	path = citesperu
 	url = https://github.com/cran/citesperu
@@ -31172,6 +31175,9 @@
 [submodule "cpr"]
 	path = cpr
 	url = https://github.com/cran/cpr
+[submodule "cprd.search"]
+	path = cprd.search
+	url = https://github.com/cran/cprd.search
 [submodule "cprobit"]
 	path = cprobit
 	url = https://github.com/cran/cprobit
@@ -60596,6 +60602,9 @@
 [submodule "qualV"]
 	path = qualV
 	url = https://github.com/cran/qualV
+[submodule "qualitranslate"]
+	path = qualitranslate
+	url = https://github.com/cran/qualitranslate
 [submodule "qualitycontrol"]
 	path = qualitycontrol
 	url = https://github.com/cran/qualitycontrol
@@ -61784,6 +61793,9 @@
 [submodule "rateratio.test"]
 	path = rateratio.test
 	url = https://github.com/cran/rateratio.test
+[submodule "raterevision"]
+	path = raterevision
+	url = https://github.com/cran/raterevision
 [submodule "raters"]
 	path = raters
 	url = https://github.com/cran/raters
@@ -73382,6 +73394,9 @@
 [submodule "timereg"]
 	path = timereg
 	url = https://github.com/cran/timereg
+[submodule "timescapes"]
+	path = timescapes
+	url = https://github.com/cran/timescapes
 [submodule "timesift"]
 	path = timesift
 	url = https://github.com/cran/timesift
