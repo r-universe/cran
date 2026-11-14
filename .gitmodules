@@ -1073,6 +1073,9 @@
 [submodule "BATSS"]
 	path = BATSS
 	url = https://github.com/cran/BATSS
+[submodule "BATTS"]
+	path = BATTS
+	url = https://github.com/cran/BATTS
 [submodule "BAYSTAR"]
 	path = BAYSTAR
 	url = https://github.com/cran/BAYSTAR
@@ -5657,6 +5660,9 @@
 [submodule "EMMREML"]
 	path = EMMREML
 	url = https://github.com/cran/EMMREML
+[submodule "EMNA"]
+	path = EMNA
+	url = https://github.com/cran/EMNA
 [submodule "EMOTIONS"]
 	path = EMOTIONS
 	url = https://github.com/cran/EMOTIONS
@@ -11615,6 +11621,9 @@
 [submodule "MVPBT"]
 	path = MVPBT
 	url = https://github.com/cran/MVPBT
+[submodule "MVPapp"]
+	path = MVPapp
+	url = https://github.com/cran/MVPapp
 [submodule "MVQuickGraphs"]
 	path = MVQuickGraphs
 	url = https://github.com/cran/MVQuickGraphs
@@ -23195,9 +23204,6 @@
 [submodule "aggTrees"]
 	path = aggTrees
 	url = https://github.com/cran/aggTrees
-[submodule "agghoo"]
-	path = agghoo
-	url = https://github.com/cran/agghoo
 [submodule "aggreCAT"]
 	path = aggreCAT
 	url = https://github.com/cran/aggreCAT
@@ -34421,9 +34427,6 @@
 [submodule "dtComb"]
 	path = dtComb
 	url = https://github.com/cran/dtComb
-[submodule "dtGAP"]
-	path = dtGAP
-	url = https://github.com/cran/dtGAP
 [submodule "dtametaTMB"]
 	path = dtametaTMB
 	url = https://github.com/cran/dtametaTMB
@@ -39680,6 +39683,9 @@
 [submodule "gaston"]
 	path = gaston
 	url = https://github.com/cran/gaston
+[submodule "gatbxr"]
+	path = gatbxr
+	url = https://github.com/cran/gatbxr
 [submodule "gateR"]
 	path = gateR
 	url = https://github.com/cran/gateR
@@ -55925,6 +55931,9 @@
 [submodule "osfr"]
 	path = osfr
 	url = https://github.com/cran/osfr
+[submodule "osir"]
+	path = osir
+	url = https://github.com/cran/osir
 [submodule "osirad"]
 	path = osirad
 	url = https://github.com/cran/osirad
