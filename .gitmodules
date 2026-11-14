@@ -30833,9 +30833,6 @@
 [submodule "corsym"]
 	path = corsym
 	url = https://github.com/cran/corsym
-[submodule "corteza"]
-	path = corteza
-	url = https://github.com/cran/corteza
 [submodule "corto"]
 	path = corto
 	url = https://github.com/cran/corto
@@ -52328,9 +52325,6 @@
 [submodule "mpitbR"]
 	path = mpitbR
 	url = https://github.com/cran/mpitbR
-[submodule "mplot"]
-	path = mplot
-	url = https://github.com/cran/mplot
 [submodule "mplusParallel.automation"]
 	path = mplusParallel.automation
 	url = https://github.com/cran/mplusParallel.automation
@@ -53936,9 +53930,6 @@
 [submodule "nev"]
 	path = nev
 	url = https://github.com/cran/nev
-[submodule "nevada"]
-	path = nevada
-	url = https://github.com/cran/nevada
 [submodule "neverhpfilter"]
 	path = neverhpfilter
 	url = https://github.com/cran/neverhpfilter
@@ -63413,9 +63404,6 @@
 [submodule "rgeomorphon"]
 	path = rgeomorphon
 	url = https://github.com/cran/rgeomorphon
-[submodule "rgeomstats"]
-	path = rgeomstats
-	url = https://github.com/cran/rgeomstats
 [submodule "rgeopat2"]
 	path = rgeopat2
 	url = https://github.com/cran/rgeopat2
