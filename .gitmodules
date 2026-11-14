@@ -18227,6 +18227,9 @@
 [submodule "SAR"]
 	path = SAR
 	url = https://github.com/cran/SAR
+[submodule "SARAR"]
+	path = SARAR
+	url = https://github.com/cran/SARAR
 [submodule "SARP.compo"]
 	path = SARP.compo
 	url = https://github.com/cran/SARP.compo
@@ -41645,6 +41648,9 @@
 [submodule "glmc"]
 	path = glmc
 	url = https://github.com/cran/glmc
+[submodule "glmdisc"]
+	path = glmdisc
+	url = https://github.com/cran/glmdisc
 [submodule "glme"]
 	path = glme
 	url = https://github.com/cran/glme
@@ -55835,6 +55841,9 @@
 [submodule "ordinalsimr"]
 	path = ordinalsimr
 	url = https://github.com/cran/ordinalsimr
+[submodule "ordpp"]
+	path = ordpp
+	url = https://github.com/cran/ordpp
 [submodule "ordr"]
 	path = ordr
 	url = https://github.com/cran/ordr
@@ -64376,6 +64385,9 @@
 [submodule "roger"]
 	path = roger
 	url = https://github.com/cran/roger
+[submodule "rok"]
+	path = rok
+	url = https://github.com/cran/rok
 [submodule "rolap"]
 	path = rolap
 	url = https://github.com/cran/rolap
@@ -70202,6 +70214,9 @@
 [submodule "sssvcqr"]
 	path = sssvcqr
 	url = https://github.com/cran/sssvcqr
+[submodule "sstFun"]
+	path = sstFun
+	url = https://github.com/cran/sstFun
 [submodule "sstn"]
 	path = sstn
 	url = https://github.com/cran/sstn
@@ -75779,6 +75794,9 @@
 [submodule "vennDiagramLab"]
 	path = vennDiagramLab
 	url = https://github.com/cran/vennDiagramLab
+[submodule "vennLasso"]
+	path = vennLasso
+	url = https://github.com/cran/vennLasso
 [submodule "vennabers"]
 	path = vennabers
 	url = https://github.com/cran/vennabers
@@ -77111,6 +77129,9 @@
 [submodule "wsbackfit"]
 	path = wsbackfit
 	url = https://github.com/cran/wsbackfit
+[submodule "wsgnstat"]
+	path = wsgnstat
+	url = https://github.com/cran/wsgnstat
 [submodule "wsjplot"]
 	path = wsjplot
 	url = https://github.com/cran/wsjplot
