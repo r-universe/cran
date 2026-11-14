@@ -1985,6 +1985,9 @@
 [submodule "BiDimRegression"]
 	path = BiDimRegression
 	url = https://github.com/cran/BiDimRegression
+[submodule "BiFactorCopulaGAMM"]
+	path = BiFactorCopulaGAMM
+	url = https://github.com/cran/BiFactorCopulaGAMM
 [submodule "BiGaRx"]
 	path = BiGaRx
 	url = https://github.com/cran/BiGaRx
@@ -34340,6 +34343,9 @@
 [submodule "dsFedAte"]
 	path = dsFedAte
 	url = https://github.com/cran/dsFedAte
+[submodule "dsFedAteClient"]
+	path = dsFedAteClient
+	url = https://github.com/cran/dsFedAteClient
 [submodule "dsROCrate"]
 	path = dsROCrate
 	url = https://github.com/cran/dsROCrate
@@ -50153,6 +50159,9 @@
 [submodule "medflex"]
 	path = medflex
 	url = https://github.com/cran/medflex
+[submodule "mediaPlanR"]
+	path = mediaPlanR
+	url = https://github.com/cran/mediaPlanR
 [submodule "mediateP"]
 	path = mediateP
 	url = https://github.com/cran/mediateP
@@ -56195,6 +56204,9 @@
 [submodule "pRecipe"]
 	path = pRecipe
 	url = https://github.com/cran/pRecipe
+[submodule "pRepDOE"]
+	path = pRepDOE
+	url = https://github.com/cran/pRepDOE
 [submodule "pRepDesigns"]
 	path = pRepDesigns
 	url = https://github.com/cran/pRepDesigns
@@ -76814,6 +76826,9 @@
 [submodule "winn"]
 	path = winn
 	url = https://github.com/cran/winn
+[submodule "winnify"]
+	path = winnify
+	url = https://github.com/cran/winnify
 [submodule "winning"]
 	path = winning
 	url = https://github.com/cran/winning
