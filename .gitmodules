@@ -10931,9 +10931,6 @@
 [submodule "MDDC"]
 	path = MDDC
 	url = https://github.com/cran/MDDC
-[submodule "MDFS"]
-	path = MDFS
-	url = https://github.com/cran/MDFS
 [submodule "MDMA"]
 	path = MDMA
 	url = https://github.com/cran/MDMA
@@ -13040,9 +13037,6 @@
 [submodule "NlcOptim"]
 	path = NlcOptim
 	url = https://github.com/cran/NlcOptim
-[submodule "NlinTS"]
-	path = NlinTS
-	url = https://github.com/cran/NlinTS
 [submodule "NlsyLinks"]
 	path = NlsyLinks
 	url = https://github.com/cran/NlsyLinks
@@ -15542,9 +15536,6 @@
 [submodule "RADstackshelpR"]
 	path = RADstackshelpR
 	url = https://github.com/cran/RADstackshelpR
-[submodule "RAFS"]
-	path = RAFS
-	url = https://github.com/cran/RAFS
 [submodule "RAGFlowChainR"]
 	path = RAGFlowChainR
 	url = https://github.com/cran/RAGFlowChainR
@@ -43706,9 +43697,6 @@
 [submodule "hindexcalculator"]
 	path = hindexcalculator
 	url = https://github.com/cran/hindexcalculator
-[submodule "hint"]
-	path = hint
-	url = https://github.com/cran/hint
 [submodule "hipecR"]
 	path = hipecR
 	url = https://github.com/cran/hipecR
