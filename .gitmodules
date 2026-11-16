@@ -30137,9 +30137,6 @@
 [submodule "comperes"]
 	path = comperes
 	url = https://github.com/cran/comperes
-[submodule "competitiontoolbox"]
-	path = competitiontoolbox
-	url = https://github.com/cran/competitiontoolbox
 [submodule "comphy"]
 	path = comphy
 	url = https://github.com/cran/comphy
@@ -55616,9 +55613,6 @@
 [submodule "optedr"]
 	path = optedr
 	url = https://github.com/cran/optedr
-[submodule "optiSel"]
-	path = optiSel
-	url = https://github.com/cran/optiSel
 [submodule "optiSolve"]
 	path = optiSolve
 	url = https://github.com/cran/optiSolve
