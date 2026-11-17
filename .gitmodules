@@ -22757,6 +22757,9 @@
 [submodule "activatr"]
 	path = activatr
 	url = https://github.com/cran/activatr
+[submodule "activegp"]
+	path = activegp
+	url = https://github.com/cran/activegp
 [submodule "activity"]
 	path = activity
 	url = https://github.com/cran/activity
