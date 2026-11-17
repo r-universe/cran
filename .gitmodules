@@ -8006,6 +8006,9 @@
 [submodule "GeoDensityR"]
 	path = GeoDensityR
 	url = https://github.com/cran/GeoDensityR
+[submodule "GeoEpiAI"]
+	path = GeoEpiAI
+	url = https://github.com/cran/GeoEpiAI
 [submodule "GeoFIS"]
 	path = GeoFIS
 	url = https://github.com/cran/GeoFIS
@@ -20297,6 +20300,9 @@
 [submodule "SurfRough"]
 	path = SurfRough
 	url = https://github.com/cran/SurfRough
+[submodule "SurfaceMesh"]
+	path = SurfaceMesh
+	url = https://github.com/cran/SurfaceMesh
 [submodule "SurfaceTortoise"]
 	path = SurfaceTortoise
 	url = https://github.com/cran/SurfaceTortoise
@@ -39566,6 +39572,9 @@
 [submodule "gamesGA"]
 	path = gamesGA
 	url = https://github.com/cran/gamesGA
+[submodule "gamfluence"]
+	path = gamfluence
+	url = https://github.com/cran/gamfluence
 [submodule "gamlr"]
 	path = gamlr
 	url = https://github.com/cran/gamlr
@@ -49268,6 +49277,9 @@
 [submodule "manifold"]
 	path = manifold
 	url = https://github.com/cran/manifold
+[submodule "manifoldsR"]
+	path = manifoldsR
+	url = https://github.com/cran/manifoldsR
 [submodule "manipulate"]
 	path = manipulate
 	url = https://github.com/cran/manipulate
@@ -58472,6 +58484,9 @@
 [submodule "poLCAParallel"]
 	path = poLCAParallel
 	url = https://github.com/cran/poLCAParallel
+[submodule "pob2ef"]
+	path = pob2ef
+	url = https://github.com/cran/pob2ef
 [submodule "pobecu"]
 	path = pobecu
 	url = https://github.com/cran/pobecu
@@ -59054,6 +59069,9 @@
 [submodule "pqrfe"]
 	path = pqrfe
 	url = https://github.com/cran/pqrfe
+[submodule "prCGGM"]
+	path = prCGGM
+	url = https://github.com/cran/prCGGM
 [submodule "prLogistic"]
 	path = prLogistic
 	url = https://github.com/cran/prLogistic
@@ -62966,6 +62984,9 @@
 [submodule "replacer"]
 	path = replacer
 	url = https://github.com/cran/replacer
+[submodule "replayr"]
+	path = replayr
+	url = https://github.com/cran/replayr
 [submodule "replicateBE"]
 	path = replicateBE
 	url = https://github.com/cran/replicateBE
@@ -64772,6 +64793,9 @@
 [submodule "rrat"]
 	path = rrat
 	url = https://github.com/cran/rrat
+[submodule "rray"]
+	path = rray
+	url = https://github.com/cran/rray
 [submodule "rrcov"]
 	path = rrcov
 	url = https://github.com/cran/rrcov
@@ -65405,6 +65429,9 @@
 [submodule "rxSeq"]
 	path = rxSeq
 	url = https://github.com/cran/rxSeq
+[submodule "rxeval"]
+	path = rxeval
+	url = https://github.com/cran/rxeval
 [submodule "rxode2"]
 	path = rxode2
 	url = https://github.com/cran/rxode2
@@ -71426,6 +71453,9 @@
 [submodule "survival"]
 	path = survival
 	url = https://github.com/cran/survival
+[submodule "survivalGPU"]
+	path = survivalGPU
+	url = https://github.com/cran/survivalGPU
 [submodule "survivalMPL"]
 	path = survivalMPL
 	url = https://github.com/cran/survivalMPL
@@ -76310,6 +76340,9 @@
 [submodule "waldo"]
 	path = waldo
 	url = https://github.com/cran/waldo
+[submodule "walkability"]
+	path = walkability
+	url = https://github.com/cran/walkability
 [submodule "walkboutr"]
 	path = walkboutr
 	url = https://github.com/cran/walkboutr
@@ -77522,6 +77555,9 @@
 [submodule "yaleBraille"]
 	path = yaleBraille
 	url = https://github.com/cran/yaleBraille
+[submodule "yamaa"]
+	path = yamaa
+	url = https://github.com/cran/yamaa
 [submodule "yaml"]
 	path = yaml
 	url = https://github.com/cran/yaml
