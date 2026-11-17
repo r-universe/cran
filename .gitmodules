@@ -24557,6 +24557,9 @@
 [submodule "auRoc"]
 	path = auRoc
 	url = https://github.com/cran/auRoc
+[submodule "aucnull"]
+	path = aucnull
+	url = https://github.com/cran/aucnull
 [submodule "audio"]
 	path = audio
 	url = https://github.com/cran/audio
