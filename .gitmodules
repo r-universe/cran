@@ -7457,6 +7457,9 @@
 [submodule "GINAX"]
 	path = GINAX
 	url = https://github.com/cran/GINAX
+[submodule "GIR"]
+	path = GIR
+	url = https://github.com/cran/GIR
 [submodule "GISINTEGRATION"]
 	path = GISINTEGRATION
 	url = https://github.com/cran/GISINTEGRATION
