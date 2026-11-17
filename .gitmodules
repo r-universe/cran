@@ -5648,6 +5648,9 @@
 [submodule "EMLI"]
 	path = EMLI
 	url = https://github.com/cran/EMLI
+[submodule "EMLMLasso"]
+	path = EMLMLasso
+	url = https://github.com/cran/EMLMLasso
 [submodule "EMMAgeo"]
 	path = EMMAgeo
 	url = https://github.com/cran/EMMAgeo
@@ -59951,6 +59954,9 @@
 [submodule "ptable"]
 	path = ptable
 	url = https://github.com/cran/ptable
+[submodule "ptcompare"]
+	path = ptcompare
+	url = https://github.com/cran/ptcompare
 [submodule "ptetools"]
 	path = ptetools
 	url = https://github.com/cran/ptetools
@@ -60509,6 +60515,9 @@
 [submodule "qsplines"]
 	path = qsplines
 	url = https://github.com/cran/qsplines
+[submodule "qspquest"]
+	path = qspquest
+	url = https://github.com/cran/qspquest
 [submodule "qst"]
 	path = qst
 	url = https://github.com/cran/qst
@@ -69824,6 +69833,9 @@
 [submodule "splineCox"]
 	path = splineCox
 	url = https://github.com/cran/splineCox
+[submodule "splineKANr"]
+	path = splineKANr
+	url = https://github.com/cran/splineKANr
 [submodule "splinemixmeta"]
 	path = splinemixmeta
 	url = https://github.com/cran/splinemixmeta
@@ -71330,6 +71342,9 @@
 [submodule "survPen"]
 	path = survPen
 	url = https://github.com/cran/survPen
+[submodule "survPhenoStab"]
+	path = survPhenoStab
+	url = https://github.com/cran/survPhenoStab
 [submodule "survPresmooth"]
 	path = survPresmooth
 	url = https://github.com/cran/survPresmooth
@@ -75155,6 +75170,9 @@
 [submodule "unikn"]
 	path = unikn
 	url = https://github.com/cran/unikn
+[submodule "uniml"]
+	path = uniml
+	url = https://github.com/cran/uniml
 [submodule "uniqtag"]
 	path = uniqtag
 	url = https://github.com/cran/uniqtag
