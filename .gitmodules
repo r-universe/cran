@@ -40235,6 +40235,9 @@
 [submodule "geodiv"]
 	path = geodiv
 	url = https://github.com/cran/geodiv
+[submodule "geodl"]
+	path = geodl
+	url = https://github.com/cran/geodl
 [submodule "geodrawr"]
 	path = geodrawr
 	url = https://github.com/cran/geodrawr
