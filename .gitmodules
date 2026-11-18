@@ -27722,6 +27722,9 @@
 [submodule "capn"]
 	path = capn
 	url = https://github.com/cran/capn
+[submodule "capnet"]
+	path = capnet
+	url = https://github.com/cran/capnet
 [submodule "capr"]
 	path = capr
 	url = https://github.com/cran/capr
@@ -28601,6 +28604,9 @@
 [submodule "chatRater"]
 	path = chatRater
 	url = https://github.com/cran/chatRater
+[submodule "chatcache"]
+	path = chatcache
+	url = https://github.com/cran/chatcache
 [submodule "chatgpt"]
 	path = chatgpt
 	url = https://github.com/cran/chatgpt
@@ -35684,6 +35690,9 @@
 [submodule "emov"]
 	path = emov
 	url = https://github.com/cran/emov
+[submodule "emphasis"]
+	path = emphasis
+	url = https://github.com/cran/emphasis
 [submodule "emphatic"]
 	path = emphatic
 	url = https://github.com/cran/emphatic
@@ -46280,6 +46289,9 @@
 [submodule "jmotif"]
 	path = jmotif
 	url = https://github.com/cran/jmotif
+[submodule "jmpread"]
+	path = jmpread
+	url = https://github.com/cran/jmpread
 [submodule "jmuOutlier"]
 	path = jmuOutlier
 	url = https://github.com/cran/jmuOutlier
@@ -46844,6 +46856,9 @@
 [submodule "kinship2"]
 	path = kinship2
 	url = https://github.com/cran/kinship2
+[submodule "kir"]
+	path = kir
+	url = https://github.com/cran/kir
 [submodule "kirby21.base"]
 	path = kirby21.base
 	url = https://github.com/cran/kirby21.base
@@ -49625,6 +49640,9 @@
 [submodule "maskr"]
 	path = maskr
 	url = https://github.com/cran/maskr
+[submodule "masque"]
+	path = masque
+	url = https://github.com/cran/masque
 [submodule "massProps"]
 	path = massProps
 	url = https://github.com/cran/massProps
@@ -58577,6 +58595,9 @@
 [submodule "poldis"]
 	path = poldis
 	url = https://github.com/cran/poldis
+[submodule "polecon"]
+	path = polecon
+	url = https://github.com/cran/polecon
 [submodule "policytree"]
 	path = policytree
 	url = https://github.com/cran/policytree
@@ -61445,6 +61466,9 @@
 [submodule "rainfarmr"]
 	path = rainfarmr
 	url = https://github.com/cran/rainfarmr
+[submodule "rairai"]
+	path = rairai
+	url = https://github.com/cran/rairai
 [submodule "rairtable"]
 	path = rairtable
 	url = https://github.com/cran/rairtable
@@ -61700,6 +61724,9 @@
 [submodule "rapsimng.chickpea"]
 	path = rapsimng.chickpea
 	url = https://github.com/cran/rapsimng.chickpea
+[submodule "rapsimng.decide"]
+	path = rapsimng.decide
+	url = https://github.com/cran/rapsimng.decide
 [submodule "rapsimng.decide.core"]
 	path = rapsimng.decide.core
 	url = https://github.com/cran/rapsimng.decide.core
