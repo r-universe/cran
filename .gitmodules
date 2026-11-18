@@ -11234,6 +11234,9 @@
 [submodule "MLSP"]
 	path = MLSP
 	url = https://github.com/cran/MLSP
+[submodule "MLSurvey"]
+	path = MLSurvey
+	url = https://github.com/cran/MLSurvey
 [submodule "MLZ"]
 	path = MLZ
 	url = https://github.com/cran/MLZ
@@ -18692,6 +18695,9 @@
 [submodule "SLSEdesign"]
 	path = SLSEdesign
 	url = https://github.com/cran/SLSEdesign
+[submodule "SLspatial"]
+	path = SLspatial
+	url = https://github.com/cran/SLspatial
 [submodule "SMAHP"]
 	path = SMAHP
 	url = https://github.com/cran/SMAHP
@@ -25868,6 +25874,9 @@
 [submodule "bhpm"]
 	path = bhpm
 	url = https://github.com/cran/bhpm
+[submodule "biasProxyR"]
+	path = biasProxyR
+	url = https://github.com/cran/biasProxyR
 [submodule "bib2df"]
 	path = bib2df
 	url = https://github.com/cran/bib2df
@@ -56537,6 +56546,9 @@
 [submodule "paperplanes"]
 	path = paperplanes
 	url = https://github.com/cran/paperplanes
+[submodule "par2circadian"]
+	path = par2circadian
+	url = https://github.com/cran/par2circadian
 [submodule "parSim"]
 	path = parSim
 	url = https://github.com/cran/parSim
@@ -70475,6 +70487,9 @@
 [submodule "statMatchLCM"]
 	path = statMatchLCM
 	url = https://github.com/cran/statMatchLCM
+[submodule "statacompat"]
+	path = statacompat
+	url = https://github.com/cran/statacompat
 [submodule "statar"]
 	path = statar
 	url = https://github.com/cran/statar
@@ -73442,6 +73457,9 @@
 [submodule "timsac"]
 	path = timsac
 	url = https://github.com/cran/timsac
+[submodule "timss8reg"]
+	path = timss8reg
+	url = https://github.com/cran/timss8reg
 [submodule "tind"]
 	path = tind
 	url = https://github.com/cran/tind
