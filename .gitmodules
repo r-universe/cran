@@ -10127,9 +10127,6 @@
 [submodule "LKT"]
 	path = LKT
 	url = https://github.com/cran/LKT
-[submodule "LLM"]
-	path = LLM
-	url = https://github.com/cran/LLM
 [submodule "LLMAgentR"]
 	path = LLMAgentR
 	url = https://github.com/cran/LLMAgentR
@@ -43787,9 +43784,6 @@
 [submodule "hmcdm"]
 	path = hmcdm
 	url = https://github.com/cran/hmcdm
-[submodule "hmclearn"]
-	path = hmclearn
-	url = https://github.com/cran/hmclearn
 [submodule "hmde"]
 	path = hmde
 	url = https://github.com/cran/hmde
@@ -48437,9 +48431,6 @@
 [submodule "localFDA"]
 	path = localFDA
 	url = https://github.com/cran/localFDA
-[submodule "localICE"]
-	path = localICE
-	url = https://github.com/cran/localICE
 [submodule "localIV"]
 	path = localIV
 	url = https://github.com/cran/localIV
@@ -73103,9 +73094,6 @@
 [submodule "tidyfinance"]
 	path = tidyfinance
 	url = https://github.com/cran/tidyfinance
-[submodule "tidyfit"]
-	path = tidyfit
-	url = https://github.com/cran/tidyfit
 [submodule "tidyfst"]
 	path = tidyfst
 	url = https://github.com/cran/tidyfst
