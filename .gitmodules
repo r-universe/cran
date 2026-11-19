@@ -53636,6 +53636,9 @@
 [submodule "ncpen"]
 	path = ncpen
 	url = https://github.com/cran/ncpen
+[submodule "nctools"]
+	path = nctools
+	url = https://github.com/cran/nctools
 [submodule "ncvreg"]
 	path = ncvreg
 	url = https://github.com/cran/ncvreg
@@ -73808,6 +73811,9 @@
 [submodule "tokenizers.bpe"]
 	path = tokenizers.bpe
 	url = https://github.com/cran/tokenizers.bpe
+[submodule "tokenusagedata"]
+	path = tokenusagedata
+	url = https://github.com/cran/tokenusagedata
 [submodule "tolerance"]
 	path = tolerance
 	url = https://github.com/cran/tolerance
