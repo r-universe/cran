@@ -1907,6 +1907,9 @@
 [submodule "BayesianTools"]
 	path = BayesianTools
 	url = https://github.com/cran/BayesianTools
+[submodule "BayesianTrial"]
+	path = BayesianTrial
+	url = https://github.com/cran/BayesianTrial
 [submodule "Bayesiangammareg"]
 	path = Bayesiangammareg
 	url = https://github.com/cran/Bayesiangammareg
@@ -31751,6 +31754,9 @@
 [submodule "cudaverse"]
 	path = cudaverse
 	url = https://github.com/cran/cudaverse
+[submodule "cumba"]
+	path = cumba
+	url = https://github.com/cran/cumba
 [submodule "cumprinc"]
 	path = cumprinc
 	url = https://github.com/cran/cumprinc
@@ -31892,6 +31898,9 @@
 [submodule "cvsem"]
 	path = cvsem
 	url = https://github.com/cran/cvsem
+[submodule "cvxoptdes"]
+	path = cvxoptdes
+	url = https://github.com/cran/cvxoptdes
 [submodule "cwad"]
 	path = cwad
 	url = https://github.com/cran/cwad
@@ -48380,6 +48389,9 @@
 [submodule "lmmprobe"]
 	path = lmmprobe
 	url = https://github.com/cran/lmmprobe
+[submodule "lmmresample"]
+	path = lmmresample
+	url = https://github.com/cran/lmmresample
 [submodule "lmodel2"]
 	path = lmodel2
 	url = https://github.com/cran/lmodel2
@@ -54053,6 +54065,9 @@
 [submodule "ngspatial"]
 	path = ngspatial
 	url = https://github.com/cran/ngspatial
+[submodule "ngvb"]
+	path = ngvb
+	url = https://github.com/cran/ngvb
 [submodule "nhanesA"]
 	path = nhanesA
 	url = https://github.com/cran/nhanesA
