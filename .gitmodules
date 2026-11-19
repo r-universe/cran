@@ -1199,9 +1199,6 @@
 [submodule "BESTree"]
 	path = BESTree
 	url = https://github.com/cran/BESTree
-[submodule "BET"]
-	path = BET
-	url = https://github.com/cran/BET
 [submodule "BElikelihood"]
 	path = BElikelihood
 	url = https://github.com/cran/BElikelihood
@@ -3950,9 +3947,6 @@
 [submodule "CopernicusDataspace"]
 	path = CopernicusDataspace
 	url = https://github.com/cran/CopernicusDataspace
-[submodule "CopernicusMarine"]
-	path = CopernicusMarine
-	url = https://github.com/cran/CopernicusMarine
 [submodule "Copula.Markov"]
 	path = Copula.Markov
 	url = https://github.com/cran/Copula.Markov
@@ -43526,9 +43520,6 @@
 [submodule "heterogen"]
 	path = heterogen
 	url = https://github.com/cran/heterogen
-[submodule "heterogeneouspeereffects"]
-	path = heterogeneouspeereffects
-	url = https://github.com/cran/heterogeneouspeereffects
 [submodule "heterometa"]
 	path = heterometa
 	url = https://github.com/cran/heterometa
