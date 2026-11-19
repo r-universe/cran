@@ -54455,6 +54455,9 @@
 [submodule "noah"]
 	path = noah
 	url = https://github.com/cran/noah
+[submodule "noctua"]
+	path = noctua
+	url = https://github.com/cran/noctua
 [submodule "nocturn"]
 	path = nocturn
 	url = https://github.com/cran/nocturn
