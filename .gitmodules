@@ -6728,6 +6728,9 @@
 [submodule "FactorHet"]
 	path = FactorHet
 	url = https://github.com/cran/FactorHet
+[submodule "FactorialSurvey"]
+	path = FactorialSurvey
+	url = https://github.com/cran/FactorialSurvey
 [submodule "Factoshiny"]
 	path = Factoshiny
 	url = https://github.com/cran/Factoshiny
@@ -9008,6 +9011,9 @@
 [submodule "IETD"]
 	path = IETD
 	url = https://github.com/cran/IETD
+[submodule "IFANN"]
+	path = IFANN
+	url = https://github.com/cran/IFANN
 [submodule "IFARIMA"]
 	path = IFARIMA
 	url = https://github.com/cran/IFARIMA
@@ -14384,6 +14390,9 @@
 [submodule "PVR"]
 	path = PVR
 	url = https://github.com/cran/PVR
+[submodule "PVomega"]
+	path = PVomega
+	url = https://github.com/cran/PVomega
 [submodule "PWEALL"]
 	path = PWEALL
 	url = https://github.com/cran/PWEALL
@@ -18233,6 +18242,9 @@
 [submodule "SARAR"]
 	path = SARAR
 	url = https://github.com/cran/SARAR
+[submodule "SARIMAInfoRF"]
+	path = SARIMAInfoRF
+	url = https://github.com/cran/SARIMAInfoRF
 [submodule "SARP.compo"]
 	path = SARP.compo
 	url = https://github.com/cran/SARP.compo
@@ -23807,6 +23819,9 @@
 [submodule "anotherSAS7bdat"]
 	path = anotherSAS7bdat
 	url = https://github.com/cran/anotherSAS7bdat
+[submodule "anovakun"]
+	path = anovakun
+	url = https://github.com/cran/anovakun
 [submodule "anovapowersim"]
 	path = anovapowersim
 	url = https://github.com/cran/anovapowersim
@@ -38435,6 +38450,9 @@
 [submodule "florabr"]
 	path = florabr
 	url = https://github.com/cran/florabr
+[submodule "flourishR"]
+	path = flourishR
+	url = https://github.com/cran/flourishR
 [submodule "flourishcharts"]
 	path = flourishcharts
 	url = https://github.com/cran/flourishcharts
@@ -43421,6 +43439,9 @@
 [submodule "heatwaveR"]
 	path = heatwaveR
 	url = https://github.com/cran/heatwaveR
+[submodule "heaven"]
+	path = heaven
+	url = https://github.com/cran/heaven
 [submodule "heavytails"]
 	path = heavytails
 	url = https://github.com/cran/heavytails
@@ -52274,6 +52295,9 @@
 [submodule "mospiR"]
 	path = mospiR
 	url = https://github.com/cran/mospiR
+[submodule "mossyforest"]
+	path = mossyforest
+	url = https://github.com/cran/mossyforest
 [submodule "mosum"]
 	path = mosum
 	url = https://github.com/cran/mosum
@@ -65729,6 +65753,9 @@
 [submodule "saery"]
 	path = saery
 	url = https://github.com/cran/saery
+[submodule "safeconduct"]
+	path = safeconduct
+	url = https://github.com/cran/safeconduct
 [submodule "safeframe"]
 	path = safeframe
 	url = https://github.com/cran/safeframe
@@ -66551,6 +66578,9 @@
 [submodule "sdcTable"]
 	path = sdcTable
 	url = https://github.com/cran/sdcTable
+[submodule "sddinf"]
+	path = sddinf
+	url = https://github.com/cran/sddinf
 [submodule "sddr"]
 	path = sddr
 	url = https://github.com/cran/sddr
