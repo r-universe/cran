@@ -2126,6 +2126,9 @@
 [submodule "BioTooltipR"]
 	path = BioTooltipR
 	url = https://github.com/cran/BioTooltipR
+[submodule "BioTrajectory"]
+	path = BioTrajectory
+	url = https://github.com/cran/BioTrajectory
 [submodule "BioVenn"]
 	path = BioVenn
 	url = https://github.com/cran/BioVenn
