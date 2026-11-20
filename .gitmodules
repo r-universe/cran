@@ -52289,6 +52289,9 @@
 [submodule "mosaicData"]
 	path = mosaicData
 	url = https://github.com/cran/mosaicData
+[submodule "mosaicresid"]
+	path = mosaicresid
+	url = https://github.com/cran/mosaicresid
 [submodule "mosclust"]
 	path = mosclust
 	url = https://github.com/cran/mosclust
@@ -62921,6 +62924,9 @@
 [submodule "reinstallr"]
 	path = reinstallr
 	url = https://github.com/cran/reinstallr
+[submodule "reintervals"]
+	path = reintervals
+	url = https://github.com/cran/reintervals
 [submodule "relMix"]
 	path = relMix
 	url = https://github.com/cran/relMix
@@ -72914,6 +72920,9 @@
 [submodule "thamesmix"]
 	path = thamesmix
 	url = https://github.com/cran/thamesmix
+[submodule "thangldKANr"]
+	path = thangldKANr
+	url = https://github.com/cran/thangldKANr
 [submodule "theRefdate"]
 	path = theRefdate
 	url = https://github.com/cran/theRefdate
