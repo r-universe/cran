@@ -76694,6 +76694,9 @@
 [submodule "websearchr"]
 	path = websearchr
 	url = https://github.com/cran/websearchr
+[submodule "webserver"]
+	path = webserver
+	url = https://github.com/cran/webserver
 [submodule "webshot"]
 	path = webshot
 	url = https://github.com/cran/webshot
