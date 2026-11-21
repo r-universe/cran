@@ -1619,6 +1619,9 @@
 [submodule "BatchJobs"]
 	path = BatchJobs
 	url = https://github.com/cran/BatchJobs
+[submodule "BayGMST"]
+	path = BayGMST
+	url = https://github.com/cran/BayGMST
 [submodule "BayLum"]
 	path = BayLum
 	url = https://github.com/cran/BayLum
@@ -16211,6 +16214,9 @@
 [submodule "RMT4DS"]
 	path = RMT4DS
 	url = https://github.com/cran/RMT4DS
+[submodule "RMTIF"]
+	path = RMTIF
+	url = https://github.com/cran/RMTIF
 [submodule "RMTL"]
 	path = RMTL
 	url = https://github.com/cran/RMTL
@@ -20147,6 +20153,9 @@
 [submodule "SteinIV"]
 	path = SteinIV
 	url = https://github.com/cran/SteinIV
+[submodule "Stem"]
+	path = Stem
+	url = https://github.com/cran/Stem
 [submodule "StemAnalysis"]
 	path = StemAnalysis
 	url = https://github.com/cran/StemAnalysis
@@ -51314,6 +51323,9 @@
 [submodule "missingHE"]
 	path = missingHE
 	url = https://github.com/cran/missingHE
+[submodule "misskappa"]
+	path = misskappa
+	url = https://github.com/cran/misskappa
 [submodule "missknn"]
 	path = missknn
 	url = https://github.com/cran/missknn
@@ -58172,6 +58184,9 @@
 [submodule "pks"]
 	path = pks
 	url = https://github.com/cran/pks
+[submodule "pksR"]
+	path = pksR
+	url = https://github.com/cran/pksR
 [submodule "pksensi"]
 	path = pksensi
 	url = https://github.com/cran/pksensi
@@ -69830,6 +69845,9 @@
 [submodule "spgwr"]
 	path = spgwr
 	url = https://github.com/cran/spgwr
+[submodule "spherDir"]
+	path = spherDir
+	url = https://github.com/cran/spherDir
 [submodule "sphereML"]
 	path = sphereML
 	url = https://github.com/cran/sphereML
