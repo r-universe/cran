@@ -125,6 +125,9 @@
 [submodule "AFR"]
 	path = AFR
 	url = https://github.com/cran/AFR
+[submodule "AFTMicroMed"]
+	path = AFTMicroMed
+	url = https://github.com/cran/AFTMicroMed
 [submodule "AGBQR"]
 	path = AGBQR
 	url = https://github.com/cran/AGBQR
@@ -191,6 +194,9 @@
 [submodule "AIPW"]
 	path = AIPW
 	url = https://github.com/cran/AIPW
+[submodule "AIRes"]
+	path = AIRes
+	url = https://github.com/cran/AIRes
 [submodule "AISanalyze"]
 	path = AISanalyze
 	url = https://github.com/cran/AISanalyze
@@ -5081,6 +5087,9 @@
 [submodule "Design.parameters"]
 	path = Design.parameters
 	url = https://github.com/cran/Design.parameters
+[submodule "DesignComplexSurvival"]
+	path = DesignComplexSurvival
+	url = https://github.com/cran/DesignComplexSurvival
 [submodule "DesignLibrary"]
 	path = DesignLibrary
 	url = https://github.com/cran/DesignLibrary
@@ -13028,6 +13037,9 @@
 [submodule "NeutroCrdRcbdAnalysis"]
 	path = NeutroCrdRcbdAnalysis
 	url = https://github.com/cran/NeutroCrdRcbdAnalysis
+[submodule "NeutroDOE"]
+	path = NeutroDOE
+	url = https://github.com/cran/NeutroDOE
 [submodule "NeutroIBDAnalysis"]
 	path = NeutroIBDAnalysis
 	url = https://github.com/cran/NeutroIBDAnalysis
@@ -19202,6 +19214,9 @@
 [submodule "SamplingStrata"]
 	path = SamplingStrata
 	url = https://github.com/cran/SamplingStrata
+[submodule "SamsaRaLight"]
+	path = SamsaRaLight
+	url = https://github.com/cran/SamsaRaLight
 [submodule "SanFranBeachWater"]
 	path = SanFranBeachWater
 	url = https://github.com/cran/SanFranBeachWater
@@ -29885,6 +29900,9 @@
 [submodule "cohortBuilder"]
 	path = cohortBuilder
 	url = https://github.com/cran/cohortBuilder
+[submodule "cohortBuilder.db"]
+	path = cohortBuilder.db
+	url = https://github.com/cran/cohortBuilder.db
 [submodule "cohorts"]
 	path = cohorts
 	url = https://github.com/cran/cohorts
@@ -30824,6 +30842,9 @@
 [submodule "correctedAUC"]
 	path = correctedAUC
 	url = https://github.com/cran/correctedAUC
+[submodule "correctedWS"]
+	path = correctedWS
+	url = https://github.com/cran/correctedWS
 [submodule "correctref"]
 	path = correctref
 	url = https://github.com/cran/correctref
@@ -35744,6 +35765,9 @@
 [submodule "emplikCS"]
 	path = emplikCS
 	url = https://github.com/cran/emplikCS
+[submodule "emplikDTA"]
+	path = emplikDTA
+	url = https://github.com/cran/emplikDTA
 [submodule "emreliability"]
 	path = emreliability
 	url = https://github.com/cran/emreliability
@@ -37724,6 +37748,9 @@
 [submodule "fdth"]
 	path = fdth
 	url = https://github.com/cran/fdth
+[submodule "feasiblesize"]
+	path = feasiblesize
+	url = https://github.com/cran/feasiblesize
 [submodule "feasts"]
 	path = feasts
 	url = https://github.com/cran/feasts
@@ -38297,6 +38324,9 @@
 [submodule "flatr"]
 	path = flatr
 	url = https://github.com/cran/flatr
+[submodule "flatratemath"]
+	path = flatratemath
+	url = https://github.com/cran/flatratemath
 [submodule "flattabler"]
 	path = flattabler
 	url = https://github.com/cran/flattabler
@@ -50648,6 +50678,9 @@
 [submodule "metarep"]
 	path = metarep
 	url = https://github.com/cran/metarep
+[submodule "metascience"]
+	path = metascience
+	url = https://github.com/cran/metascience
 [submodule "metaselection"]
 	path = metaselection
 	url = https://github.com/cran/metaselection
@@ -70352,6 +70385,9 @@
 [submodule "ssr"]
 	path = ssr
 	url = https://github.com/cran/ssr
+[submodule "ssrfr"]
+	path = ssrfr
+	url = https://github.com/cran/ssrfr
 [submodule "ssrn"]
 	path = ssrn
 	url = https://github.com/cran/ssrn
@@ -73742,6 +73778,9 @@
 [submodule "tm"]
 	path = tm
 	url = https://github.com/cran/tm
+[submodule "tm.hyslaw"]
+	path = tm.hyslaw
+	url = https://github.com/cran/tm.hyslaw
 [submodule "tm.plugin.alceste"]
 	path = tm.plugin.alceste
 	url = https://github.com/cran/tm.plugin.alceste
@@ -73763,6 +73802,9 @@
 [submodule "tm.plugin.mail"]
 	path = tm.plugin.mail
 	url = https://github.com/cran/tm.plugin.mail
+[submodule "tm.ttni"]
+	path = tm.ttni
+	url = https://github.com/cran/tm.ttni
 [submodule "tm1r"]
 	path = tm1r
 	url = https://github.com/cran/tm1r
