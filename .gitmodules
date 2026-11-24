@@ -70658,6 +70658,9 @@
 [submodule "statebins"]
 	path = statebins
 	url = https://github.com/cran/statebins
+[submodule "statelier"]
+	path = statelier
+	url = https://github.com/cran/statelier
 [submodule "states"]
 	path = states
 	url = https://github.com/cran/states
