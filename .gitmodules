@@ -5522,6 +5522,9 @@
 [submodule "EE.Data"]
 	path = EE.Data
 	url = https://github.com/cran/EE.Data
+[submodule "EEAaq"]
+	path = EEAaq
+	url = https://github.com/cran/EEAaq
 [submodule "EEEA"]
 	path = EEEA
 	url = https://github.com/cran/EEEA
@@ -12632,6 +12635,9 @@
 [submodule "NDPalette"]
 	path = NDPalette
 	url = https://github.com/cran/NDPalette
+[submodule "NEONiso"]
+	path = NEONiso
+	url = https://github.com/cran/NEONiso
 [submodule "NEpiC"]
 	path = NEpiC
 	url = https://github.com/cran/NEpiC
