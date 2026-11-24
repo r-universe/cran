@@ -37916,6 +37916,9 @@
 [submodule "fglsnet"]
 	path = fglsnet
 	url = https://github.com/cran/fglsnet
+[submodule "fgof"]
+	path = fgof
+	url = https://github.com/cran/fgof
 [submodule "fgui"]
 	path = fgui
 	url = https://github.com/cran/fgui
