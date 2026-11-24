@@ -19625,6 +19625,9 @@
 [submodule "SimSeq"]
 	path = SimSeq
 	url = https://github.com/cran/SimSeq
+[submodule "SimSurvNMarker"]
+	path = SimSurvNMarker
+	url = https://github.com/cran/SimSurvNMarker
 [submodule "SimSurvey"]
 	path = SimSurvey
 	url = https://github.com/cran/SimSurvey
