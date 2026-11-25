@@ -22913,6 +22913,9 @@
 [submodule "adaptsmoFMRI"]
 	path = adaptsmoFMRI
 	url = https://github.com/cran/adaptsmoFMRI
+[submodule "adarvmapsr"]
+	path = adarvmapsr
+	url = https://github.com/cran/adarvmapsr
 [submodule "adas.utils"]
 	path = adas.utils
 	url = https://github.com/cran/adas.utils
