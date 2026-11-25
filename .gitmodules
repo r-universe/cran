@@ -25439,6 +25439,9 @@
 [submodule "bayesics"]
 	path = bayesics
 	url = https://github.com/cran/bayesics
+[submodule "bayesintervals"]
+	path = bayesintervals
+	url = https://github.com/cran/bayesintervals
 [submodule "bayeslist"]
 	path = bayeslist
 	url = https://github.com/cran/bayeslist
@@ -44021,6 +44024,9 @@
 [submodule "hopkins"]
 	path = hopkins
 	url = https://github.com/cran/hopkins
+[submodule "horizonclaims"]
+	path = horizonclaims
+	url = https://github.com/cran/horizonclaims
 [submodule "hornpa"]
 	path = hornpa
 	url = https://github.com/cran/hornpa
@@ -59303,6 +59309,9 @@
 [submodule "precisely"]
 	path = precisely
 	url = https://github.com/cran/precisely
+[submodule "precisionenvelope"]
+	path = precisionenvelope
+	url = https://github.com/cran/precisionenvelope
 [submodule "precmed"]
 	path = precmed
 	url = https://github.com/cran/precmed
@@ -67208,6 +67217,9 @@
 [submodule "seqmon"]
 	path = seqmon
 	url = https://github.com/cran/seqmon
+[submodule "seqout"]
+	path = seqout
+	url = https://github.com/cran/seqout
 [submodule "seqtest"]
 	path = seqtest
 	url = https://github.com/cran/seqtest
@@ -72425,6 +72437,9 @@
 [submodule "taxalight"]
 	path = taxalight
 	url = https://github.com/cran/taxalight
+[submodule "taxaudit"]
+	path = taxaudit
+	url = https://github.com/cran/taxaudit
 [submodule "taxdiv"]
 	path = taxdiv
 	url = https://github.com/cran/taxdiv
@@ -76226,6 +76241,9 @@
 [submodule "visATC"]
 	path = visATC
 	url = https://github.com/cran/visATC
+[submodule "visNICE"]
+	path = visNICE
+	url = https://github.com/cran/visNICE
 [submodule "visNetwork"]
 	path = visNetwork
 	url = https://github.com/cran/visNetwork
