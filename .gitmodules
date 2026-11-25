@@ -2360,6 +2360,9 @@
 [submodule "BsplineQuantRegGui"]
 	path = BsplineQuantRegGui
 	url = https://github.com/cran/BsplineQuantRegGui
+[submodule "Bstergm"]
+	path = Bstergm
+	url = https://github.com/cran/Bstergm
 [submodule "BuSuCo"]
 	path = BuSuCo
 	url = https://github.com/cran/BuSuCo
@@ -4256,6 +4259,9 @@
 [submodule "DBCVindex"]
 	path = DBCVindex
 	url = https://github.com/cran/DBCVindex
+[submodule "DBEST"]
+	path = DBEST
+	url = https://github.com/cran/DBEST
 [submodule "DBHC"]
 	path = DBHC
 	url = https://github.com/cran/DBHC
@@ -71729,6 +71735,9 @@
 [submodule "survlab"]
 	path = survlab
 	url = https://github.com/cran/survlab
+[submodule "survlearning"]
+	path = survlearning
+	url = https://github.com/cran/survlearning
 [submodule "survminer"]
 	path = survminer
 	url = https://github.com/cran/survminer
