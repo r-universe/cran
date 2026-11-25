@@ -263,6 +263,9 @@
 [submodule "AMRsurveilR"]
 	path = AMRsurveilR
 	url = https://github.com/cran/AMRsurveilR
+[submodule "AMRvalid"]
+	path = AMRvalid
+	url = https://github.com/cran/AMRvalid
 [submodule "ANN2"]
 	path = ANN2
 	url = https://github.com/cran/ANN2
@@ -9038,6 +9041,9 @@
 [submodule "IFFuzzyStats"]
 	path = IFFuzzyStats
 	url = https://github.com/cran/IFFuzzyStats
+[submodule "IFLSTM"]
+	path = IFLSTM
+	url = https://github.com/cran/IFLSTM
 [submodule "IFMCDM"]
 	path = IFMCDM
 	url = https://github.com/cran/IFMCDM
@@ -12182,6 +12188,9 @@
 [submodule "MixTwice"]
 	path = MixTwice
 	url = https://github.com/cran/MixTwice
+[submodule "MixedDeepMM"]
+	path = MixedDeepMM
+	url = https://github.com/cran/MixedDeepMM
 [submodule "MixedDiversityAnalysis"]
 	path = MixedDiversityAnalysis
 	url = https://github.com/cran/MixedDiversityAnalysis
@@ -26741,6 +26750,9 @@
 [submodule "bodycompref"]
 	path = bodycompref
 	url = https://github.com/cran/bodycompref
+[submodule "bodycon"]
+	path = bodycon
+	url = https://github.com/cran/bodycon
 [submodule "boe"]
 	path = boe
 	url = https://github.com/cran/boe
@@ -57683,6 +57695,9 @@
 [submodule "pharmr"]
 	path = pharmr
 	url = https://github.com/cran/pharmr
+[submodule "pharos"]
+	path = pharos
+	url = https://github.com/cran/pharos
 [submodule "phase"]
 	path = phase
 	url = https://github.com/cran/phase
@@ -76610,6 +76625,9 @@
 [submodule "watcher"]
 	path = watcher
 	url = https://github.com/cran/watcher
+[submodule "water"]
+	path = water
+	url = https://github.com/cran/water
 [submodule "waterYearType"]
 	path = waterYearType
 	url = https://github.com/cran/waterYearType
