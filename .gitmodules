@@ -5255,6 +5255,9 @@
 [submodule "DisimForMixed"]
 	path = DisimForMixed
 	url = https://github.com/cran/DisimForMixed
+[submodule "DistFamilyFit"]
+	path = DistFamilyFit
+	url = https://github.com/cran/DistFamilyFit
 [submodule "DistLagHet"]
 	path = DistLagHet
 	url = https://github.com/cran/DistLagHet
@@ -12233,6 +12236,9 @@
 [submodule "MoNAn"]
 	path = MoNAn
 	url = https://github.com/cran/MoNAn
+[submodule "MoPlot"]
+	path = MoPlot
+	url = https://github.com/cran/MoPlot
 [submodule "MoTBFs"]
 	path = MoTBFs
 	url = https://github.com/cran/MoTBFs
@@ -22148,6 +22154,9 @@
 [submodule "WaterBalanceR"]
 	path = WaterBalanceR
 	url = https://github.com/cran/WaterBalanceR
+[submodule "Watersheds"]
+	path = Watersheds
+	url = https://github.com/cran/Watersheds
 [submodule "Wats"]
 	path = Wats
 	url = https://github.com/cran/Wats
@@ -32870,6 +32879,9 @@
 [submodule "deepgp"]
 	path = deepgp
 	url = https://github.com/cran/deepgp
+[submodule "deephelp"]
+	path = deephelp
+	url = https://github.com/cran/deephelp
 [submodule "deeplr"]
 	path = deeplr
 	url = https://github.com/cran/deeplr
@@ -37172,6 +37184,9 @@
 [submodule "factor256"]
 	path = factor256
 	url = https://github.com/cran/factor256
+[submodule "factorDistADMM"]
+	path = factorDistADMM
+	url = https://github.com/cran/factorDistADMM
 [submodule "factorEx"]
 	path = factorEx
 	url = https://github.com/cran/factorEx
@@ -38093,6 +38108,9 @@
 [submodule "fingerprint"]
 	path = fingerprint
 	url = https://github.com/cran/fingerprint
+[submodule "finid"]
+	path = finid
+	url = https://github.com/cran/finid
 [submodule "finiteruinprob"]
 	path = finiteruinprob
 	url = https://github.com/cran/finiteruinprob
@@ -47042,6 +47060,9 @@
 [submodule "kmodR"]
 	path = kmodR
 	url = https://github.com/cran/kmodR
+[submodule "knbsdata"]
+	path = knbsdata
+	url = https://github.com/cran/knbsdata
 [submodule "knfi"]
 	path = knfi
 	url = https://github.com/cran/knfi
@@ -47465,6 +47486,9 @@
 [submodule "lareshiny"]
 	path = lareshiny
 	url = https://github.com/cran/lareshiny
+[submodule "largecardinals"]
+	path = largecardinals
+	url = https://github.com/cran/largecardinals
 [submodule "lars"]
 	path = lars
 	url = https://github.com/cran/lars
