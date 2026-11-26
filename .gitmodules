@@ -1280,9 +1280,6 @@
 [submodule "BIFIEsurvey"]
 	path = BIFIEsurvey
 	url = https://github.com/cran/BIFIEsurvey
-[submodule "BIGDAWG"]
-	path = BIGDAWG
-	url = https://github.com/cran/BIGDAWG
 [submodule "BIGL"]
 	path = BIGL
 	url = https://github.com/cran/BIGL
@@ -3230,9 +3227,6 @@
 [submodule "CausalLoopAnalytics"]
 	path = CausalLoopAnalytics
 	url = https://github.com/cran/CausalLoopAnalytics
-[submodule "CausalMBSTS"]
-	path = CausalMBSTS
-	url = https://github.com/cran/CausalMBSTS
 [submodule "CausalMetaR"]
 	path = CausalMetaR
 	url = https://github.com/cran/CausalMetaR
@@ -8813,9 +8807,6 @@
 [submodule "HydroCode"]
 	path = HydroCode
 	url = https://github.com/cran/HydroCode
-[submodule "HydroMe"]
-	path = HydroMe
-	url = https://github.com/cran/HydroMe
 [submodule "HydroPonicsK"]
 	path = HydroPonicsK
 	url = https://github.com/cran/HydroPonicsK
@@ -11684,9 +11675,6 @@
 [submodule "MVT"]
 	path = MVT
 	url = https://github.com/cran/MVT
-[submodule "MVTests"]
-	path = MVTests
-	url = https://github.com/cran/MVTests
 [submodule "MVar"]
 	path = MVar
 	url = https://github.com/cran/MVar
@@ -14132,9 +14120,6 @@
 [submodule "PNWColors"]
 	path = PNWColors
 	url = https://github.com/cran/PNWColors
-[submodule "POCRE"]
-	path = POCRE
-	url = https://github.com/cran/POCRE
 [submodule "POD"]
 	path = POD
 	url = https://github.com/cran/POD
@@ -27440,9 +27425,6 @@
 [submodule "bundle"]
 	path = bundle
 	url = https://github.com/cran/bundle
-[submodule "bunsen"]
-	path = bunsen
-	url = https://github.com/cran/bunsen
 [submodule "buoyant"]
 	path = buoyant
 	url = https://github.com/cran/buoyant
@@ -34349,9 +34331,6 @@
 [submodule "drcte"]
 	path = drcte
 	url = https://github.com/cran/drcte
-[submodule "drda"]
-	path = drda
-	url = https://github.com/cran/drda
 [submodule "dream"]
 	path = dream
 	url = https://github.com/cran/dream
@@ -46127,9 +46106,6 @@
 [submodule "iterators"]
 	path = iterators
 	url = https://github.com/cran/iterators
-[submodule "iterors"]
-	path = iterors
-	url = https://github.com/cran/iterors
 [submodule "iterpc"]
 	path = iterpc
 	url = https://github.com/cran/iterpc
@@ -59075,9 +59051,6 @@
 [submodule "potts"]
 	path = potts
 	url = https://github.com/cran/potts
-[submodule "pould"]
-	path = pould
-	url = https://github.com/cran/pould
 [submodule "pow.int"]
 	path = pow.int
 	url = https://github.com/cran/pow.int
@@ -71672,9 +71645,6 @@
 [submodule "surveytable"]
 	path = surveytable
 	url = https://github.com/cran/surveytable
-[submodule "surveytidy"]
-	path = surveytidy
-	url = https://github.com/cran/surveytidy
 [submodule "surveyverse"]
 	path = surveyverse
 	url = https://github.com/cran/surveyverse
@@ -76958,9 +76928,6 @@
 [submodule "weirs"]
 	path = weirs
 	url = https://github.com/cran/weirs
-[submodule "welo"]
-	path = welo
-	url = https://github.com/cran/welo
 [submodule "wesanderson"]
 	path = wesanderson
 	url = https://github.com/cran/wesanderson
