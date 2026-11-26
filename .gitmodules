@@ -63896,6 +63896,9 @@
 [submodule "rioplot"]
 	path = rioplot
 	url = https://github.com/cran/rioplot
+[submodule "riot"]
+	path = riot
+	url = https://github.com/cran/riot
 [submodule "rip.opencv"]
 	path = rip.opencv
 	url = https://github.com/cran/rip.opencv
