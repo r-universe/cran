@@ -15761,6 +15761,9 @@
 [submodule "RChest"]
 	path = RChest
 	url = https://github.com/cran/RChest
+[submodule "RChiSquare"]
+	path = RChiSquare
+	url = https://github.com/cran/RChiSquare
 [submodule "RCircos"]
 	path = RCircos
 	url = https://github.com/cran/RCircos
@@ -17144,6 +17147,9 @@
 [submodule "Rcpp"]
 	path = Rcpp
 	url = https://github.com/cran/Rcpp
+[submodule "RcppAMGCL"]
+	path = RcppAMGCL
+	url = https://github.com/cran/RcppAMGCL
 [submodule "RcppAPT"]
 	path = RcppAPT
 	url = https://github.com/cran/RcppAPT
@@ -30362,6 +30368,9 @@
 [submodule "condensr"]
 	path = condensr
 	url = https://github.com/cran/condensr
+[submodule "condepe"]
+	path = condepe
+	url = https://github.com/cran/condepe
 [submodule "condformat"]
 	path = condformat
 	url = https://github.com/cran/condformat
@@ -56396,6 +56405,9 @@
 [submodule "pRepDesigns"]
 	path = pRepDesigns
 	url = https://github.com/cran/pRepDesigns
+[submodule "pSI"]
+	path = pSI
+	url = https://github.com/cran/pSI
 [submodule "pTITAN2"]
 	path = pTITAN2
 	url = https://github.com/cran/pTITAN2
@@ -75956,6 +75968,9 @@
 [submodule "vcdExtra"]
 	path = vcdExtra
 	url = https://github.com/cran/vcdExtra
+[submodule "vcdinteractive"]
+	path = vcdinteractive
+	url = https://github.com/cran/vcdinteractive
 [submodule "vcfR"]
 	path = vcfR
 	url = https://github.com/cran/vcfR
