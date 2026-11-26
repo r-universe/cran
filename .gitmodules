@@ -30503,6 +30503,9 @@
 [submodule "connections"]
 	path = connections
 	url = https://github.com/cran/connections
+[submodule "connectivity"]
+	path = connectivity
+	url = https://github.com/cran/connectivity
 [submodule "connectoModa"]
 	path = connectoModa
 	url = https://github.com/cran/connectoModa
@@ -33452,6 +33455,9 @@
 [submodule "dichromat"]
 	path = dichromat
 	url = https://github.com/cran/dichromat
+[submodule "dicomr"]
+	path = dicomr
+	url = https://github.com/cran/dicomr
 [submodule "dicomtk"]
 	path = dicomtk
 	url = https://github.com/cran/dicomtk
@@ -73994,6 +74000,9 @@
 [submodule "tokenusagedata"]
 	path = tokenusagedata
 	url = https://github.com/cran/tokenusagedata
+[submodule "tokr"]
+	path = tokr
+	url = https://github.com/cran/tokr
 [submodule "tolerance"]
 	path = tolerance
 	url = https://github.com/cran/tolerance
