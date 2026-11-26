@@ -1955,6 +1955,9 @@
 [submodule "Bergm"]
 	path = Bergm
 	url = https://github.com/cran/Bergm
+[submodule "Bergm.ws"]
+	path = Bergm.ws
+	url = https://github.com/cran/Bergm.ws
 [submodule "BerkeleyForestsAnalytics"]
 	path = BerkeleyForestsAnalytics
 	url = https://github.com/cran/BerkeleyForestsAnalytics
@@ -21644,6 +21647,9 @@
 [submodule "UnitStat"]
 	path = UnitStat
 	url = https://github.com/cran/UnitStat
+[submodule "UnitTrans"]
+	path = UnitTrans
+	url = https://github.com/cran/UnitTrans
 [submodule "Unitary"]
 	path = Unitary
 	url = https://github.com/cran/Unitary
@@ -37877,6 +37883,9 @@
 [submodule "fetwfe"]
 	path = fetwfe
 	url = https://github.com/cran/fetwfe
+[submodule "fewclust"]
+	path = fewclust
+	url = https://github.com/cran/fewclust
 [submodule "ff"]
 	path = ff
 	url = https://github.com/cran/ff
@@ -39692,6 +39701,9 @@
 [submodule "gameR"]
 	path = gameR
 	url = https://github.com/cran/gameR
+[submodule "gameofthrones"]
+	path = gameofthrones
+	url = https://github.com/cran/gameofthrones
 [submodule "gamesGA"]
 	path = gamesGA
 	url = https://github.com/cran/gamesGA
@@ -56609,6 +56621,9 @@
 [submodule "pam"]
 	path = pam
 	url = https://github.com/cran/pam
+[submodule "pamflow"]
+	path = pamflow
+	url = https://github.com/cran/pamflow
 [submodule "pamm"]
 	path = pamm
 	url = https://github.com/cran/pamm
