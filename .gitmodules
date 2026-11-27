@@ -28508,6 +28508,9 @@
 [submodule "cereal"]
 	path = cereal
 	url = https://github.com/cran/cereal
+[submodule "ceres"]
+	path = ceres
+	url = https://github.com/cran/ceres
 [submodule "certify"]
 	path = certify
 	url = https://github.com/cran/certify
@@ -59045,6 +59048,9 @@
 [submodule "posterior"]
 	path = posterior
 	url = https://github.com/cran/posterior
+[submodule "posthocbounds"]
+	path = posthocbounds
+	url = https://github.com/cran/posthocbounds
 [submodule "postinfectious"]
 	path = postinfectious
 	url = https://github.com/cran/postinfectious
@@ -66086,6 +66092,9 @@
 [submodule "sara4r"]
 	path = sara4r
 	url = https://github.com/cran/sara4r
+[submodule "sardine"]
+	path = sardine
+	url = https://github.com/cran/sardine
 [submodule "sarima"]
 	path = sarima
 	url = https://github.com/cran/sarima
@@ -69632,6 +69641,9 @@
 [submodule "spatPomp"]
 	path = spatPomp
 	url = https://github.com/cran/spatPomp
+[submodule "spatbiome"]
+	path = spatbiome
+	url = https://github.com/cran/spatbiome
 [submodule "spatcovar"]
 	path = spatcovar
 	url = https://github.com/cran/spatcovar
