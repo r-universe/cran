@@ -57530,9 +57530,6 @@
 [submodule "permPATH"]
 	path = permPATH
 	url = https://github.com/cran/permPATH
-[submodule "permRand"]
-	path = permRand
-	url = https://github.com/cran/permRand
 [submodule "permimp"]
 	path = permimp
 	url = https://github.com/cran/permimp
