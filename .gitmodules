@@ -30107,6 +30107,9 @@
 [submodule "colorspace"]
 	path = colorspace
 	url = https://github.com/cran/colorspace
+[submodule "colortheme"]
+	path = colortheme
+	url = https://github.com/cran/colortheme
 [submodule "colouR"]
 	path = colouR
 	url = https://github.com/cran/colouR
@@ -73241,6 +73244,9 @@
 [submodule "tidyMC"]
 	path = tidyMC
 	url = https://github.com/cran/tidyMC
+[submodule "tidyMacro"]
+	path = tidyMacro
+	url = https://github.com/cran/tidyMacro
 [submodule "tidyOhdsiSolutions"]
 	path = tidyOhdsiSolutions
 	url = https://github.com/cran/tidyOhdsiSolutions
