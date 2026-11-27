@@ -21692,6 +21692,9 @@
 [submodule "V8"]
 	path = V8
 	url = https://github.com/cran/V8
+[submodule "VAJointSurv"]
+	path = VAJointSurv
+	url = https://github.com/cran/VAJointSurv
 [submodule "VALERIE"]
 	path = VALERIE
 	url = https://github.com/cran/VALERIE
